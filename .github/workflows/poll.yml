@@ -2,11 +2,18 @@ name: Polling de Multas e Fiscalizações CBMSC
 
 on:
   schedule:
-    # A cada 30 min entre 11:00 e 21:00 UTC = 08:00-18:00 BRT (UTC-3)
-    # Aumentei de 10 -> 30 min porque cada run leva ~7-8 min (ambiente do GitHub e' lento)
-    # e estava overlapping com o proximo run.
-    - cron: '*/30 11-21 * * 1-5'
+    # Horarios explicitos em UTC (mais confiavel que */30 no GitHub Actions)
+    # 08-18h BRT (UTC-3) = 11-21h UTC, a cada 30 min
+    - cron: '5 11,12,13,14,15,16,17,18,19,20,21 * * 1-5'
+    - cron: '35 11,12,13,14,15,16,17,18,19,20,21 * * 1-5'
   workflow_dispatch:  # permite rodar manualmente pelo painel do GitHub
+  push:
+    branches: [main]   # tambem roda quando voce commita (boa pra testar)
+    paths-ignore:      # mas nao quando so atualizamos os arquivos de dados (evita loop)
+      - 'docs/**'
+      - 'scripts/estado*.json'
+      - 'scripts/drill_cache.json'
+      - '**.md'
 
 permissions:
   contents: write
@@ -16,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     concurrency:
       group: poll-multas
-      cancel-in-progress: false
+      cancel-in-progress: true   # se vier outro run, cancela o antigo (evita fila travada)
     steps:
       - name: Checkout
         uses: actions/checkout@v4
