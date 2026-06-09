@@ -152,7 +152,7 @@ def drill_edificacao(s, codg_edif, numg_edif):
         dados = api(s, "bloco", {"numgBloco": numg_bloco, "numgAreaEspecifica": None, "numgEmpresa": None})
         if dados == "EXPIRED": return "EXPIRED"
         if not dados: continue
-        # estrutura: dados["autos"]["FISCALIZACAO"] e ["INFRACAO"]
+        # estrutura: dados["autos"]["FISCALIZACAO"] (AF direto) e ["INFRACAO"] (com sub-MUL aninhada)
         autos_dict = dados.get("autos", {}) or {}
         for tipo, lista in autos_dict.items():
             for a in (lista or []):
@@ -168,10 +168,8 @@ def drill_edificacao(s, codg_edif, numg_edif):
                     pc = p.get("prazoParaConclusao")
                     if pc is not None and (prazo_min is None or pc < prazo_min):
                         prazo_min = pc
-                autos.append({
-                    "tipo": tipo,                    # FISCALIZACAO ou INFRACAO
-                    "codgAuto": a.get("codgAuto"),
-                    "numgAuto": a.get("numgAuto"),
+                base_auto = {
+                    "tipo": tipo,
                     "cidade": a.get("nomeCidade"),
                     "responsavel": resp.get("nomeResponsavel"),
                     "cpfCnpj": resp.get("codgCpfCnpjResponsavel"),
@@ -183,7 +181,14 @@ def drill_edificacao(s, codg_edif, numg_edif):
                     "prazoDias": prazo_min,
                     "bombeiroAutuacao": a.get("bombeiroAutuacao"),
                     "bloco": bloco.get("nomeBloco"),
-                })
+                }
+                # Adicionar o auto principal (se tem codgAuto)
+                if a.get("codgAuto"):
+                    autos.append(dict(base_auto, codgAuto=a.get("codgAuto"), numgAuto=a.get("numgAuto")))
+                # NOVO: descer em sub-autos (INFRACAO normalmente tem .autos[] com a MUL real)
+                for sub in (a.get("autos") or []):
+                    if sub.get("codgAuto"):
+                        autos.append(dict(base_auto, codgAuto=sub.get("codgAuto"), numgAuto=sub.get("numgAuto"), tipo=sub.get("codgTipoAuto") or tipo))
         time.sleep(PAUSE)
     return autos
 
@@ -223,15 +228,34 @@ def main():
             for a in lst:
                 todos.append({"codgAuto": a["CodigoAuto"], "cidade": cid, "tipo": "AF", "nome": a["Nome_Edificacao"]})
 
-    # Ordenar por numero do auto DESC (mais novos primeiro)
+    # Ordenar dentro de cada cidade por numero DESC, depois pegar N por cidade (round-robin)
     def num_auto(c):
         try: return int(c["codgAuto"].split("/")[0][7:13])
         except: return 0
-    todos.sort(key=num_auto, reverse=True)
+    por_cidade = {}
+    for x in todos:
+        por_cidade.setdefault(x["cidade"], []).append(x)
+    for cid in por_cidade:
+        por_cidade[cid].sort(key=num_auto, reverse=True)
+
     total_inicial = len(todos)
-    if MAX_PROCESSAR and len(todos) > MAX_PROCESSAR:
-        todos = todos[:MAX_PROCESSAR]
-    print(f"[*] {total_inicial} autos no painel, processando os {len(todos)} mais recentes.")
+    # round-robin: 1 de cada cidade, depois 2 de cada, ate atingir MAX_PROCESSAR
+    selecionados = []
+    if MAX_PROCESSAR:
+        # quantos por cidade = teto(MAX / qtd_cidades)
+        per_cidade = max(1, MAX_PROCESSAR // max(1, len(por_cidade)))
+        for cid, lst in por_cidade.items():
+            selecionados.extend(lst[:per_cidade])
+        # se sobrou espaco, completar com restos
+        restantes = MAX_PROCESSAR - len(selecionados)
+        if restantes > 0:
+            for cid, lst in por_cidade.items():
+                extras = lst[per_cidade:per_cidade+restantes]
+                selecionados.extend(extras)
+                restantes -= len(extras)
+                if restantes <= 0: break
+        todos = selecionados[:MAX_PROCESSAR]
+    print(f"[*] {total_inicial} autos no painel ({len(por_cidade)} cidades), processando {len(todos)} ({per_cidade if MAX_PROCESSAR else 'todos'} por cidade).")
 
     # cache para nao re-baixar
     cache = carregar_cache()
