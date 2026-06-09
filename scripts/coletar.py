@@ -73,7 +73,8 @@ def main():
                     "Logradouro": r.get("nomeLogradouro") or "",
                     "Numero": r.get("codgNumeroEndereco") or "",
                     "Bairro": (r.get("nomeCidade","") + " - " + (r.get("nomeBairro","") or "")) if r.get("nomeCidade") else (r.get("nomeBairro","") or ""),
-                    "Cidade": cidade
+                    "Cidade": cidade,
+                    "Detectado_em": agora_iso
                 })
                 eventos["eventos"].insert(0, {
                     "ts": agora_iso,

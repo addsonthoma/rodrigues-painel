@@ -58,8 +58,10 @@
  .drill-prazo.vencido{background:#c00;color:#fff}
  .drill-prazo.urgente{background:#ff8c00;color:#fff}
  .drill-prazo.ok{background:#26de81;color:#0a1929}
- .item.nova{background:linear-gradient(90deg,rgba(255,184,77,0.25),rgba(255,184,77,0));border-left:3px solid var(--accent);animation:flash 2s ease-in-out 3}
- @keyframes flash{0%,100%{background-color:rgba(255,184,77,0.15)}50%{background-color:rgba(255,184,77,0.45)}}
+ .item.nova-recente{background:linear-gradient(90deg,rgba(255,140,0,0.20),rgba(255,140,0,0.04));border-left:4px solid #ff8c00;box-shadow:0 0 8px rgba(255,140,0,0.3)}
+ .item.nova-flash{animation:flash 2s ease-in-out 3}
+ @keyframes flash{0%,100%{background-color:rgba(255,184,77,0.15)}50%{background-color:rgba(255,184,77,0.55)}}
+ .item-detectado{font-size:10px;color:#ff8c00;font-weight:bold;margin-top:1px}
  .col-empty{text-align:center;padding:14px 0;color:var(--muted);font-style:italic;font-size:11px}
  footer{background:var(--header);padding:8px 28px;display:flex;justify-content:space-between;align-items:center;font-size:11px;color:var(--muted);border-top:1px solid #1a3553}
  footer .right{display:flex;gap:18px;align-items:center}
@@ -68,6 +70,14 @@
  #banner.af{background:linear-gradient(90deg,#3498db,#5dade2)}
  #banner .icon{font-size:28px;margin-right:14px}
  .empty-state{text-align:center;padding:40px;color:var(--muted);font-style:italic}
+ /* header pisca quando ha lead novo */
+ @keyframes header-alert{0%,100%{background:var(--header)}50%{background:#c00}}
+ header.alert{animation:header-alert 1s ease-in-out 6}
+ /* botao habilitar som */
+ #btn-som{background:#26de81;color:#0a1929;border:none;padding:8px 14px;border-radius:6px;font-weight:bold;cursor:pointer;font-size:13px;display:none}
+ #btn-som.show{display:inline-block}
+ #btn-som:hover{background:#1ec76d}
+ #btn-som.ativo{background:#1a3553;color:var(--muted);cursor:default}
 </style>
 </head>
 <body>
@@ -80,6 +90,7 @@
    <div class="stat-af">Fiscalizações<b id="total-af">—</b></div>
    <div>Cidades<b id="cid-count">—</b></div>
    <div>Hoje<b id="hoje">—</b></div>
+   <button id="btn-som" onclick="habilitarSom()" title="Clica 1x ao ligar a TV pra liberar som">🔔 Ativar som</button>
   </div>
  </header>
  <div id="scroll-area"><div id="grid"><div class="empty-state">Carregando...</div></div></div>
@@ -95,26 +106,70 @@ const POLL_MS = 60000;
 let codigosConhecidos = new Set();
 let primeiraCarga = true;
 
-function ding(){
+function ding(curto){
+  if(!somAtivado) return;
   try{
     const ctx = new (window.AudioContext || window.webkitAudioContext)();
+    if(ctx.state === "suspended") ctx.resume();
     const o = ctx.createOscillator(); const g = ctx.createGain();
     o.connect(g); g.connect(ctx.destination);
     o.type = "sine"; o.frequency.value = 880;
     g.gain.setValueAtTime(0, ctx.currentTime);
-    g.gain.linearRampToValueAtTime(0.25, ctx.currentTime + 0.01);
+    g.gain.linearRampToValueAtTime(0.35, ctx.currentTime + 0.01);
     g.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + 0.6);
     o.start(); o.stop(ctx.currentTime + 0.7);
-    setTimeout(()=>{
-      const o2 = ctx.createOscillator(); const g2 = ctx.createGain();
-      o2.connect(g2); g2.connect(ctx.destination);
-      o2.type = "sine"; o2.frequency.value = 1320;
-      g2.gain.setValueAtTime(0, ctx.currentTime);
-      g2.gain.linearRampToValueAtTime(0.2, ctx.currentTime + 0.01);
-      g2.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + 0.5);
-      o2.start(); o2.stop(ctx.currentTime + 0.6);
-    }, 150);
-  }catch(e){}
+    if(!curto){
+      setTimeout(()=>{
+        const o2 = ctx.createOscillator(); const g2 = ctx.createGain();
+        o2.connect(g2); g2.connect(ctx.destination);
+        o2.type = "sine"; o2.frequency.value = 1320;
+        g2.gain.setValueAtTime(0, ctx.currentTime);
+        g2.gain.linearRampToValueAtTime(0.3, ctx.currentTime + 0.01);
+        g2.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + 0.5);
+        o2.start(); o2.stop(ctx.currentTime + 0.6);
+      }, 150);
+      // repete 2x mais pra TV
+      setTimeout(()=>ding(true), 800);
+      setTimeout(()=>ding(true), 1600);
+    }
+  }catch(e){console.warn("audio:", e);}
+}
+
+function flashHeader(){
+  const h = document.querySelector("header");
+  h.classList.remove("alert");
+  void h.offsetWidth; // reset animation
+  h.classList.add("alert");
+  setTimeout(()=>h.classList.remove("alert"), 7000);
+}
+
+function fmtDetectado(iso){
+  if(!iso) return null;
+  try{
+    const d = new Date(iso);
+    const agora = new Date();
+    const diffMs = agora - d;
+    const diffH = diffMs / (1000*60*60);
+    if(diffH < 1){
+      const mins = Math.floor(diffMs/60000);
+      return `🟧 detectado há ${mins} min`;
+    }
+    if(diffH < 24){
+      return `🟧 detectado há ${Math.floor(diffH)}h`;
+    }
+    if(diffH < 48){
+      return `📅 ontem ${d.toLocaleTimeString("pt-BR",{hour:"2-digit",minute:"2-digit"})}`;
+    }
+    return `📅 ${d.toLocaleDateString("pt-BR",{day:"2-digit",month:"2-digit"})} ${d.toLocaleTimeString("pt-BR",{hour:"2-digit",minute:"2-digit"})}`;
+  }catch(e){ return null; }
+}
+
+function ehRecente(iso){
+  if(!iso) return false;
+  try{
+    const d = new Date(iso);
+    return (Date.now() - d.getTime()) < 24*60*60*1000;  // 24h
+  }catch(e){ return false; }
 }
 
 function fmtDate(iso){
@@ -128,6 +183,7 @@ function mostrarBanner(tipo, cidade, nome, codigo){
   document.getElementById("banner-text").textContent = `NOV${tipo==='MUL'?'A MULTA':'O AUTO DE FISCALIZAÇÃO'} em ${cidade}: ${nome} (${codigo})`;
   b.className = tipo === 'AF' ? 'af show' : 'show';
   ding();
+  flashHeader();
   setTimeout(()=>b.classList.remove("show"), 30000);
 }
 
@@ -135,6 +191,26 @@ function mostrarBanner(tipo, cidade, nome, codigo){
 function eSciURL(codigo){
   // Abre a aba Consulta Geral. Usuario logado vai ver direto a edificacao.
   return "https://esci.cbm.sc.gov.br/Safe/Geral/ControllerConsultaGeral/";
+}
+
+// === SOM (TV smart precisa interacao previa pra desbloquear) ===
+let somAtivado = false;
+let audio = null;
+
+function habilitarSom(){
+  somAtivado = true;
+  const btn = document.getElementById("btn-som");
+  btn.textContent = "🔔 Som ativado";
+  btn.classList.add("ativo");
+  btn.onclick = null;
+  localStorage.setItem("painel_som_ativado", "1");
+  // toca som de teste curto pra confirmar
+  ding(true);
+}
+
+// recuperar estado do som ativado (caso recarregue)
+if(localStorage.getItem("painel_som_ativado") === "1"){
+  somAtivado = true;
 }
 
 function soNumero(s){ return (s||"").replace(/\D/g,""); }
@@ -170,16 +246,24 @@ function drillHTML(d){
   return parts.length ? `<div class="item-drill">${parts.join("")}</div>` : "";
 }
 
-function itemHTML(item, tipo, isNova, drill){
+function itemHTML(item, tipo, isFlash, drill){
   const end = `${item.Logradouro || ""}${item.Numero?", "+item.Numero:""} — ${(item.Bairro||"").replace(/^[^-]+ - /,"")}`;
   const cls = tipo.toLowerCase();
   const copyOnClick = `navigator.clipboard.writeText('${item.CodigoAuto}').catch(()=>{}); return true;`;
   const d = drill && drill[item.CodigoAuto];
-  return `<div class="item${isNova?' nova':''}">
+  // destaque persistente: se detectado nas ultimas 24h, fica laranja
+  const detectIso = item.Detectado_em;
+  const recente = ehRecente(detectIso);
+  const detectLabel = fmtDetectado(detectIso);
+  const classes = ['item'];
+  if(recente) classes.push('nova-recente');
+  if(isFlash) classes.push('nova-flash');
+  return `<div class="${classes.join(' ')}">
    <div class="item-data">
     <div class="item-cod ${cls}">${item.CodigoAuto}</div>
     <div class="item-nome">${item.Nome_Edificacao}</div>
     <div class="item-end">${end}</div>
+    ${detectLabel ? `<div class="item-detectado">${detectLabel}</div>` : ''}
     ${drillHTML(d)}
    </div>
    <div class="item-acoes">
@@ -281,6 +365,12 @@ async function refresh(){
 
 refresh();
 setInterval(refresh, POLL_MS);
+
+// mostrar botao de som se ainda nao foi ativado
+if(!somAtivado) document.getElementById("btn-som").classList.add("show");
+
+// re-renderizar a cada 5 min pra atualizar labels "ha X min"
+setInterval(()=>{ if(Object.keys(dadosMul.multas||{}).length) render(); }, 5*60*1000);
 
 // === AUTO-SCROLL ===
 const SCROLL_PIXELS_PER_TICK = 1;

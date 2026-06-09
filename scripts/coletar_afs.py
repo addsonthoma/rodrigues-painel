@@ -93,7 +93,8 @@ def main():
                     "Logradouro": r.get("nomeLogradouro") or "",
                     "Numero": r.get("codgNumeroEndereco") or "",
                     "Bairro": (r.get("nomeCidade","") + " - " + (r.get("nomeBairro","") or "")) if r.get("nomeCidade") else (r.get("nomeBairro","") or ""),
-                    "Cidade": cidade
+                    "Cidade": cidade,
+                    "Detectado_em": agora_iso
                 })
         afs_por_cidade[cidade] = coletadas
         info["ultima_verificacao"] = agora_iso
