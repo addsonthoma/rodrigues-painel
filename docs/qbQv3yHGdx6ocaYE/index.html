@@ -6,52 +6,70 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
 <style>
- :root{ --bg:#0a1929; --panel:#102841; --accent:#ffb84d; --text:#e8eef5; --muted:#90a4be; --hot:#ff4757; --ok:#26de81; --header:#0c2138; }
+ :root{ --bg:#0a1929; --panel:#102841; --accent:#ffb84d; --text:#e8eef5; --muted:#90a4be;
+        --mul:#ff4757; --af:#3498db; --ok:#26de81; --header:#0c2138; }
  *{box-sizing:border-box;margin:0;padding:0}
  html,body{height:100%;background:var(--bg);color:var(--text);font-family:-apple-system,Segoe UI,Roboto,sans-serif;overflow:hidden}
  #app{display:grid;grid-template-rows:auto 1fr auto;height:100vh}
  header{background:var(--header);padding:14px 28px;display:flex;align-items:center;justify-content:space-between;border-bottom:3px solid var(--accent);box-shadow:0 4px 12px rgba(0,0,0,0.4)}
- header h1{font-size:28px;color:var(--accent);letter-spacing:0.5px;display:flex;align-items:center;gap:14px}
+ header h1{font-size:26px;color:var(--accent);letter-spacing:0.5px;display:flex;align-items:center;gap:14px}
  header h1 .pulse{width:14px;height:14px;background:var(--ok);border-radius:50%;animation:pulse 1.8s infinite}
  @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(38,222,129,0.7)}50%{box-shadow:0 0 0 12px rgba(38,222,129,0)}}
- header .stats{display:flex;gap:24px;font-size:14px}
+ header .stats{display:flex;gap:22px;font-size:13px}
  header .stats div{color:var(--muted)}
  header .stats div b{color:var(--text);font-size:18px;display:block}
+ header .stats .stat-mul b{color:var(--mul)}
+ header .stats .stat-af b{color:var(--af)}
  #scroll-area{overflow-y:auto;scroll-behavior:auto}
- #scroll-area::-webkit-scrollbar{width:0}  /* esconder scrollbar na TV */
- #grid{padding:20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(440px,1fr));gap:18px;align-content:start}
- .cidade{background:var(--panel);border-radius:12px;padding:16px;box-shadow:0 4px 14px rgba(0,0,0,0.3);display:flex;flex-direction:column}
- .cidade-h{display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid var(--accent);padding-bottom:8px;margin-bottom:10px}
+ #scroll-area::-webkit-scrollbar{width:0}
+ #grid{padding:20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(680px,1fr));gap:18px;align-content:start}
+ .cidade{background:var(--panel);border-radius:12px;padding:14px;box-shadow:0 4px 14px rgba(0,0,0,0.3);display:flex;flex-direction:column}
+ .cidade-h{display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid var(--accent);padding-bottom:8px;margin-bottom:8px}
  .cidade-nome{font-size:22px;color:var(--accent);font-weight:700}
- .cidade-badge{background:var(--accent);color:var(--header);font-weight:bold;padding:3px 10px;border-radius:14px;font-size:13px}
+ .cidade-counts{display:flex;gap:6px}
+ .count-pill{font-weight:bold;padding:3px 10px;border-radius:14px;font-size:12px}
+ .count-pill.mul{background:var(--mul);color:#fff}
+ .count-pill.af{background:var(--af);color:#fff}
  .cidade-meta{font-size:11px;color:var(--muted);margin-bottom:8px}
- .multas-list{flex:1;padding-right:4px}  /* sem overflow interno - tudo flui pra fora */
- .multa{padding:8px 10px;border-bottom:1px solid #1a3553;display:flex;flex-direction:column;gap:2px;font-size:13px}
- .multa-cod{font-family:Consolas,monospace;color:var(--hot);font-weight:bold;font-size:12px}
- .multa-nome{font-weight:600}
- .multa-end{color:var(--muted);font-size:11px}
- .multa.nova{background:linear-gradient(90deg,rgba(255,184,77,0.25),rgba(255,184,77,0));border-left:3px solid var(--accent);animation:flash 2s ease-in-out 3}
+ .cidade-split{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+ .col-h{display:flex;align-items:center;gap:6px;font-size:13px;font-weight:bold;padding-bottom:6px;border-bottom:1px solid #1a3553;margin-bottom:4px}
+ .col-h.mul{color:var(--mul)} .col-h.af{color:var(--af)}
+ .col-h .ico{font-size:14px}
+ .col-list{padding-right:2px}
+ .item{padding:6px 8px;border-bottom:1px solid #1a3553;font-size:12px;display:grid;grid-template-columns:1fr auto;gap:4px;align-items:start}
+ .item-data{display:flex;flex-direction:column;gap:1px;min-width:0}
+ .item-cod{font-family:Consolas,monospace;font-size:11px;font-weight:bold;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+ .item-cod.mul{color:var(--mul)} .item-cod.af{color:var(--af)}
+ .item-nome{font-weight:600;font-size:12px;line-height:1.2;color:var(--text);overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+ .item-end{color:var(--muted);font-size:10.5px;line-height:1.2;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical}
+ .item-acoes{display:flex;flex-direction:column;gap:3px}
+ .btn-esci{background:#1a3553;color:var(--accent);border:none;padding:3px 6px;font-size:10px;border-radius:4px;cursor:pointer;text-decoration:none;display:inline-block;white-space:nowrap}
+ .btn-esci:hover{background:var(--accent);color:var(--header)}
+ .item.nova{background:linear-gradient(90deg,rgba(255,184,77,0.25),rgba(255,184,77,0));border-left:3px solid var(--accent);animation:flash 2s ease-in-out 3}
  @keyframes flash{0%,100%{background-color:rgba(255,184,77,0.15)}50%{background-color:rgba(255,184,77,0.45)}}
- footer{background:var(--header);padding:8px 28px;display:flex;justify-content:space-between;align-items:center;font-size:12px;color:var(--muted);border-top:1px solid #1a3553}
+ .col-empty{text-align:center;padding:14px 0;color:var(--muted);font-style:italic;font-size:11px}
+ footer{background:var(--header);padding:8px 28px;display:flex;justify-content:space-between;align-items:center;font-size:11px;color:var(--muted);border-top:1px solid #1a3553}
  footer .right{display:flex;gap:18px;align-items:center}
  #banner{position:fixed;top:0;left:0;right:0;background:linear-gradient(90deg,#ff4757,#ff6b6b);color:#fff;padding:18px 28px;font-size:22px;font-weight:bold;text-align:center;transform:translateY(-100%);transition:transform 0.5s ease;z-index:1000;box-shadow:0 4px 20px rgba(255,71,87,0.6)}
  #banner.show{transform:translateY(0)}
+ #banner.af{background:linear-gradient(90deg,#3498db,#5dade2)}
  #banner .icon{font-size:28px;margin-right:14px}
- .empty{text-align:center;padding:40px;color:var(--muted);font-style:italic}
+ .empty-state{text-align:center;padding:40px;color:var(--muted);font-style:italic}
 </style>
 </head>
 <body>
 <div id="banner"><span class="icon">🚨</span><span id="banner-text"></span></div>
 <div id="app">
  <header>
-  <h1><span class="pulse"></span>RODRIGUES PREVENTIVOS - Painel de Multas CBMSC</h1>
+  <h1><span class="pulse"></span>RODRIGUES PREVENTIVOS - Painel CBMSC</h1>
   <div class="stats">
-   <div>Multas totais<b id="total">—</b></div>
+   <div class="stat-mul">Multas<b id="total-mul">—</b></div>
+   <div class="stat-af">Fiscalizações<b id="total-af">—</b></div>
    <div>Cidades<b id="cid-count">—</b></div>
    <div>Hoje<b id="hoje">—</b></div>
   </div>
  </header>
- <div id="scroll-area"><div id="grid"><div class="empty">Carregando...</div></div></div>
+ <div id="scroll-area"><div id="grid"><div class="empty-state">Carregando...</div></div></div>
  <footer>
   <div>📡 Coleta automática a cada 10 min (seg-sex 08:00-18:00 BRT) via GitHub Actions</div>
   <div class="right">
@@ -60,7 +78,6 @@
  </footer>
 </div>
 <script>
-// Recarrega dados.json a cada 60s (GitHub Pages tem cache curto)
 const POLL_MS = 60000;
 let codigosConhecidos = new Set();
 let primeiraCarga = true;
@@ -93,68 +110,119 @@ function fmtDate(iso){
   return d.toLocaleString("pt-BR", {day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
 }
 
-function mostrarBanner(cidade, nome, codigo){
+function mostrarBanner(tipo, cidade, nome, codigo){
   const b = document.getElementById("banner");
-  document.getElementById("banner-text").textContent = `NOVA MULTA em ${cidade}: ${nome} (${codigo})`;
-  b.classList.add("show");
+  document.getElementById("banner-text").textContent = `NOV${tipo==='MUL'?'A MULTA':'O AUTO DE FISCALIZAÇÃO'} em ${cidade}: ${nome} (${codigo})`;
+  b.className = tipo === 'AF' ? 'af show' : 'show';
   ding();
   setTimeout(()=>b.classList.remove("show"), 30000);
 }
 
-function render(data){
-  document.getElementById("total").textContent = data.total_geral;
-  document.getElementById("cid-count").textContent = Object.keys(data.multas).length;
+// URL pra abrir direto no e-SCI ja com a busca preenchida
+function eSciURL(codigo){
+  // Abre a aba Consulta Geral. Usuario logado vai ver direto a edificacao.
+  return "https://esci.cbm.sc.gov.br/Safe/Geral/ControllerConsultaGeral/";
+}
+
+function itemHTML(item, tipo, isNova){
+  const end = `${item.Logradouro || ""}${item.Numero?", "+item.Numero:""} — ${(item.Bairro||"").replace(/^[^-]+ - /,"")}`;
+  const cls = tipo.toLowerCase();
+  // botao copia codigo para clipboard + abre eSCI
+  const copyOnClick = `navigator.clipboard.writeText('${item.CodigoAuto}').catch(()=>{}); return true;`;
+  return `<div class="item${isNova?' nova':''}">
+   <div class="item-data">
+    <div class="item-cod ${cls}">${item.CodigoAuto}</div>
+    <div class="item-nome">${item.Nome_Edificacao}</div>
+    <div class="item-end">${end}</div>
+   </div>
+   <div class="item-acoes">
+    <a class="btn-esci" target="_blank" rel="noopener" href="${eSciURL(item.CodigoAuto)}" onclick="${copyOnClick}" title="Copia o código e abre o e-SCI em nova aba">📋 e-SCI</a>
+   </div>
+  </div>`;
+}
+
+let dadosMul = {}, dadosAf = {};
+
+function render(){
+  const cidadesSet = new Set([...Object.keys(dadosMul.multas||{}), ...Object.keys(dadosAf.afs||{})]);
+  const totalMul = dadosMul.total_geral || 0;
+  const totalAf = dadosAf.total_geral || 0;
+
+  document.getElementById("total-mul").textContent = totalMul;
+  document.getElementById("total-af").textContent = totalAf;
+  document.getElementById("cid-count").textContent = cidadesSet.size;
   const hoje = new Date().toISOString().slice(0,10);
-  const hojeCt = (data.eventos_recentes||[]).filter(e=>e.ts && e.ts.startsWith(hoje)).length;
+  const hojeCt = (dadosMul.eventos_recentes||[]).filter(e=>e.ts && e.ts.startsWith(hoje)).length;
   document.getElementById("hoje").textContent = hojeCt;
-  document.getElementById("last-update").textContent = fmtDate(data.timestamp);
+  document.getElementById("last-update").textContent = fmtDate(dadosMul.timestamp);
 
   const grid = document.getElementById("grid");
-  const cidades = Object.keys(data.multas).sort();
-  if(!cidades.length){ grid.innerHTML = '<div class="empty">Nenhuma multa carregada.</div>'; return; }
+  const cidades = [...cidadesSet].sort();
+  if(!cidades.length){ grid.innerHTML = '<div class="empty-state">Nenhum dado carregado.</div>'; return; }
 
   const html = cidades.map(cid=>{
-    const multas = data.multas[cid] || [];
-    const cfg = data.cidades[cid] || {};
-    const ultimo = cfg.ultimo_numero ? `nº ${cfg.ultimo_numero}/${cfg.ano_corrente}` : "—";
-    const ucheck = cfg.ultima_verificacao || "—";
-    const lis = multas.slice(0, 30).map(m=>{
-      const isNova = !primeiraCarga && !codigosConhecidos.has(m.CodigoAuto);
-      const end = `${m.Logradouro || ""}${m.Numero?", "+m.Numero:""} — ${(m.Bairro||"").replace(/^[^-]+ - /,"")}`;
-      return `<div class="multa${isNova?' nova':''}">
-       <div class="multa-cod">${m.CodigoAuto}</div>
-       <div class="multa-nome">${m.Nome_Edificacao}</div>
-       <div class="multa-end">${end}</div>
-      </div>`;
-    }).join("");
+    const muls = (dadosMul.multas && dadosMul.multas[cid]) || [];
+    const afs  = (dadosAf.afs && dadosAf.afs[cid]) || [];
+    const cfgM = (dadosMul.cidades && dadosMul.cidades[cid]) || {};
+    const cfgA = (dadosAf.cidades && dadosAf.cidades[cid]) || {};
+    const meta = [];
+    if(cfgM.ultimo_numero) meta.push(`MUL nº ${cfgM.ultimo_numero}/${cfgM.ano_corrente}`);
+    if(cfgA.ultimo_numero) meta.push(`AF nº ${cfgA.ultimo_numero}/${cfgA.ano_corrente}`);
+
+    const mulsHTML = muls.slice(0, 20).map(m=>itemHTML(m, 'MUL', !primeiraCarga && !codigosConhecidos.has(m.CodigoAuto))).join("") || '<div class="col-empty">Sem multas</div>';
+    const afsHTML  = afs.slice(0, 20).map(m=>itemHTML(m, 'AF',  !primeiraCarga && !codigosConhecidos.has(m.CodigoAuto))).join("") || '<div class="col-empty">Sem fiscalizações</div>';
+
     return `<div class="cidade">
      <div class="cidade-h">
       <div class="cidade-nome">${cid}</div>
-      <div class="cidade-badge">${multas.length}</div>
+      <div class="cidade-counts">
+       <span class="count-pill mul">${muls.length} MUL</span>
+       <span class="count-pill af">${afs.length} AF</span>
+      </div>
      </div>
-     <div class="cidade-meta">Último: ${ultimo} · Verificado: ${typeof ucheck === 'string' ? ucheck.slice(0,16).replace('T',' ') : ucheck}</div>
-     <div class="multas-list">${lis || '<div class="empty">Sem multas neste recorte</div>'}</div>
+     <div class="cidade-meta">${meta.join(' · ')}</div>
+     <div class="cidade-split">
+      <div>
+       <div class="col-h mul"><span class="ico">🚨</span> Multas (mais recentes)</div>
+       <div class="col-list">${mulsHTML}</div>
+      </div>
+      <div>
+       <div class="col-h af"><span class="ico">📋</span> Fiscalizações (mais recentes)</div>
+       <div class="col-list">${afsHTML}</div>
+      </div>
+     </div>
     </div>`;
   }).join("");
   grid.innerHTML = html;
 
+  // detectar novos -> banner
   if(!primeiraCarga){
     cidades.forEach(cid=>{
-      (data.multas[cid]||[]).forEach(m=>{
-        if(!codigosConhecidos.has(m.CodigoAuto)) mostrarBanner(cid, m.Nome_Edificacao, m.CodigoAuto);
+      ((dadosMul.multas && dadosMul.multas[cid])||[]).forEach(m=>{
+        if(!codigosConhecidos.has(m.CodigoAuto)) mostrarBanner('MUL', cid, m.Nome_Edificacao, m.CodigoAuto);
+      });
+      ((dadosAf.afs && dadosAf.afs[cid])||[]).forEach(a=>{
+        if(!codigosConhecidos.has(a.CodigoAuto)) mostrarBanner('AF', cid, a.Nome_Edificacao, a.CodigoAuto);
       });
     });
   }
   codigosConhecidos = new Set();
-  cidades.forEach(cid=>(data.multas[cid]||[]).forEach(m=>codigosConhecidos.add(m.CodigoAuto)));
+  cidades.forEach(cid=>{
+    ((dadosMul.multas && dadosMul.multas[cid])||[]).forEach(m=>codigosConhecidos.add(m.CodigoAuto));
+    ((dadosAf.afs && dadosAf.afs[cid])||[]).forEach(a=>codigosConhecidos.add(a.CodigoAuto));
+  });
   primeiraCarga = false;
 }
 
 async function refresh(){
   try{
-    const r = await fetch("dados.json?t=" + Date.now(), {cache:"no-store"});
-    if(!r.ok) throw new Error("HTTP "+r.status);
-    render(await r.json());
+    const [rMul, rAf] = await Promise.all([
+      fetch("dados.json?t=" + Date.now(), {cache:"no-store"}),
+      fetch("afs.json?t=" + Date.now(), {cache:"no-store"}).catch(()=>null)
+    ]);
+    if(rMul.ok) dadosMul = await rMul.json();
+    if(rAf && rAf.ok) dadosAf = await rAf.json();
+    render();
   }catch(e){
     console.error(e);
     document.getElementById("last-update").textContent = "ERRO: " + e.message;
@@ -164,71 +232,41 @@ async function refresh(){
 refresh();
 setInterval(refresh, POLL_MS);
 
-// === AUTO-SCROLL contínuo (modo TV) ===
-// Rola a página inteira de cima até o fim, pausa, e volta. Loop infinito.
-// Pausa quando há banner ativo (multa nova) pra você ver o destaque.
-const SCROLL_PIXELS_PER_TICK = 1;     // pixels por tick (suavidade)
-const SCROLL_TICK_MS = 40;            // ms entre ticks (~25 fps)
-const PAUSE_AT_TOP_MS = 4000;         // pausa no topo (segundos olhando o header)
-const PAUSE_AT_BOTTOM_MS = 4000;      // pausa embaixo antes de voltar
-const SCROLL_RESET_INSTANT = false;   // false = sobe scroll suave; true = teleporta
-
-let scrollDir = 1;     // 1 = descendo, -1 = subindo (se SCROLL_RESET_INSTANT=false)
+// === AUTO-SCROLL ===
+const SCROLL_PIXELS_PER_TICK = 1;
+const SCROLL_TICK_MS = 40;
+const PAUSE_AT_TOP_MS = 4000;
+const PAUSE_AT_BOTTOM_MS = 4000;
+let scrollDir = 1;
 let scrollPaused = false;
-
 const scrollArea = document.getElementById("scroll-area");
-
-function bannerAtivo(){
-  return document.getElementById("banner").classList.contains("show");
-}
-
+function bannerAtivo(){ return document.getElementById("banner").classList.contains("show"); }
 function autoScrollTick(){
   if(scrollPaused || bannerAtivo()) return;
-  if(!scrollArea) return;
-  const maxScroll = scrollArea.scrollHeight - scrollArea.clientHeight;
-  if(maxScroll <= 0) return;   // não tem o que rolar
-
+  const max = scrollArea.scrollHeight - scrollArea.clientHeight;
+  if(max <= 0) return;
   const cur = scrollArea.scrollTop;
   if(scrollDir === 1){
-    if(cur >= maxScroll - 1){
-      // chegou no fundo
+    if(cur >= max - 1){
       scrollPaused = true;
-      setTimeout(()=>{
-        if(SCROLL_RESET_INSTANT){
-          scrollArea.scrollTop = 0;
-          scrollPaused = false;
-          setTimeout(()=>{ scrollPaused = false; }, PAUSE_AT_TOP_MS);
-        }else{
-          scrollDir = -1;
-          scrollPaused = false;
-        }
-      }, PAUSE_AT_BOTTOM_MS);
-    }else{
-      scrollArea.scrollTop = cur + SCROLL_PIXELS_PER_TICK;
-    }
-  }else{
+      setTimeout(()=>{ scrollDir = -1; scrollPaused = false; }, PAUSE_AT_BOTTOM_MS);
+    } else { scrollArea.scrollTop = cur + SCROLL_PIXELS_PER_TICK; }
+  } else {
     if(cur <= 0){
       scrollPaused = true;
       setTimeout(()=>{ scrollDir = 1; scrollPaused = false; }, PAUSE_AT_TOP_MS);
-    }else{
-      scrollArea.scrollTop = cur - SCROLL_PIXELS_PER_TICK;
-    }
+    } else { scrollArea.scrollTop = cur - SCROLL_PIXELS_PER_TICK; }
   }
 }
 setInterval(autoScrollTick, SCROLL_TICK_MS);
-
-// Se o usuário scrollar manualmente (mouse, controle TV), pausa por 30s
 let manualScrollTimer = null;
-scrollArea.addEventListener("wheel", ()=>{
+function pauseManual(){
   scrollPaused = true;
   clearTimeout(manualScrollTimer);
   manualScrollTimer = setTimeout(()=>{ scrollPaused = false; }, 30000);
-});
-scrollArea.addEventListener("touchstart", ()=>{
-  scrollPaused = true;
-  clearTimeout(manualScrollTimer);
-  manualScrollTimer = setTimeout(()=>{ scrollPaused = false; }, 30000);
-});
+}
+scrollArea.addEventListener("wheel", pauseManual);
+scrollArea.addEventListener("touchstart", pauseManual);
 </script>
 </body>
 </html>

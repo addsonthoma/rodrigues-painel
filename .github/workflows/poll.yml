@@ -1,4 +1,4 @@
-name: Polling de multas CBMSC
+name: Polling de Multas e Fiscalizações CBMSC
 
 on:
   schedule:
@@ -20,8 +20,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Rodar coletor
+      - name: Coletar Multas
         run: python scripts/coletar.py
+
+      - name: Coletar Autos de Fiscalização
+        run: python scripts/coletar_afs.py
 
       - name: Commit e push se houver mudanças
         run: |
