@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-06-08T23:46:56-03:00",
+  "timestamp": "2026-06-09T14:31:16-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 60,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-01"
+      "ultima_verificacao": "2026-06-09T14:31:16-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-08"
+      "ultima_verificacao": "2026-06-09T14:31:16-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-08"
+      "ultima_verificacao": "2026-06-09T14:31:16-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 39,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-08"
+      "ultima_verificacao": "2026-06-09T14:31:16-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 72,
+      "ultimo_numero": 75,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-08"
+      "ultima_verificacao": "2026-06-09T14:31:16-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 96,
+      "ultimo_numero": 99,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-08"
+      "ultima_verificacao": "2026-06-09T14:31:16-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 132,
+      "ultimo_numero": 133,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-08"
+      "ultima_verificacao": "2026-06-09T14:31:16-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 147,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-08"
+      "ultima_verificacao": "2026-06-09T14:31:16-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 52,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-08"
+      "ultima_verificacao": "2026-06-09T14:31:16-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 287,
+      "ultimo_numero": 289,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-08"
+      "ultima_verificacao": "2026-06-09T14:31:16-03:00"
     }
   },
   "multas": {
@@ -544,6 +544,24 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "MUL8161000288A/26",
+        "RE": "RE8161002980A",
+        "Nome_Edificacao": "VETOR-SC",
+        "Logradouro": "Rua Alfredo Eicke",
+        "Numero": "226",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai"
+      },
+      {
+        "CodigoAuto": "MUL8161000289A/26",
+        "RE": "RE8161004848A",
+        "Nome_Edificacao": "BRASILMAR INDUSTRIA E COMERCIO DE PESCADOS LIMITADA",
+        "Logradouro": "RUA EUGÊNIO PEZZINI",
+        "Numero": "560",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai"
+      },
+      {
         "CodigoAuto": "MUL8161000287A/26",
         "RE": "RE8161011737A",
         "Nome_Edificacao": "SUSAN MODAS LTDA. M.E.",
@@ -680,6 +698,15 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "MUL8163000133A/26",
+        "RE": "RE8163002296A",
+        "Nome_Edificacao": "Residencial Por do Sol",
+        "Logradouro": "RUA 236, 230",
+        "Numero": "236",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema"
+      },
       {
         "CodigoAuto": "MUL8163000132A/26",
         "RE": "RE8163002392A",
@@ -955,6 +982,33 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000097A/26",
+        "RE": "RE8225000161A",
+        "Nome_Edificacao": "MARCENARIA DALRI LTDA",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "185",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento"
+      },
+      {
+        "CodigoAuto": "MUL8225000098A/26",
+        "RE": "RE8225000772A",
+        "Nome_Edificacao": "ARLINDO BOTTAMEDI",
+        "Logradouro": "RUA JOSÉ BATISTI ARCHER",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - SÃO ROQUE",
+        "Cidade": "Nova Trento"
+      },
+      {
+        "CodigoAuto": "MUL8225000099A/26",
+        "RE": "RE8225000510A",
+        "Nome_Edificacao": "CLAUDINEI CARNIEL",
+        "Logradouro": "RUA FRANCISCO CECCATO",
+        "Numero": "295",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento"
+      },
+      {
         "CodigoAuto": "MUL8225000096A/26",
         "RE": "RE8225000355A",
         "Nome_Edificacao": "Gislene Battisti Piva",
@@ -1073,6 +1127,33 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "MUL8265000073A/26",
+        "RE": "RE8265001548A",
+        "Nome_Edificacao": "MARIA APARECIDA GARCIA",
+        "Logradouro": "RUA RIO GRANDENSE",
+        "Numero": "265",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo"
+      },
+      {
+        "CodigoAuto": "MUL8265000074A/26",
+        "RE": "RE8265000687A",
+        "Nome_Edificacao": "DENILDO PICOLOTTO",
+        "Logradouro": "avenida governador celso ramos",
+        "Numero": "1633",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo"
+      },
+      {
+        "CodigoAuto": "MUL8265000075A/26",
+        "RE": "RE8265001138A",
+        "Nome_Edificacao": "ED.COMERCIAL",
+        "Logradouro": "RUA LEOPOLDO JOSÉ GUERREIRO",
+        "Numero": "537",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo"
+      },
       {
         "CodigoAuto": "MUL8265000072A/26",
         "RE": "RE8265002446A",
@@ -1216,12 +1297,76 @@
     "Brusque": 15,
     "Gaspar": 15,
     "Guabiruba": 3,
-    "Itajai": 15,
-    "Itapema": 15,
+    "Itajai": 17,
+    "Itapema": 16,
     "Navegantes": 15,
-    "Nova Trento": 13,
-    "Porto Belo": 15
+    "Nova Trento": 16,
+    "Porto Belo": 18
   },
-  "total_geral": 124,
-  "eventos_recentes": []
+  "total_geral": 133,
+  "eventos_recentes": [
+    {
+      "ts": "2026-06-09T14:31:16-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000289A/26",
+      "nome": "BRASILMAR INDUSTRIA E COMERCIO DE PESCADOS LIMITADA",
+      "re": "RE8161004848A"
+    },
+    {
+      "ts": "2026-06-09T14:31:16-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000288A/26",
+      "nome": "VETOR-SC",
+      "re": "RE8161002980A"
+    },
+    {
+      "ts": "2026-06-09T14:31:16-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000133A/26",
+      "nome": "Residencial Por do Sol",
+      "re": "RE8163002296A"
+    },
+    {
+      "ts": "2026-06-09T14:31:16-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000099A/26",
+      "nome": "CLAUDINEI CARNIEL",
+      "re": "RE8225000510A"
+    },
+    {
+      "ts": "2026-06-09T14:31:16-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000098A/26",
+      "nome": "ARLINDO BOTTAMEDI",
+      "re": "RE8225000772A"
+    },
+    {
+      "ts": "2026-06-09T14:31:16-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000097A/26",
+      "nome": "MARCENARIA DALRI LTDA",
+      "re": "RE8225000161A"
+    },
+    {
+      "ts": "2026-06-09T14:31:16-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000075A/26",
+      "nome": "ED.COMERCIAL",
+      "re": "RE8265001138A"
+    },
+    {
+      "ts": "2026-06-09T14:31:16-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000074A/26",
+      "nome": "DENILDO PICOLOTTO",
+      "re": "RE8265000687A"
+    },
+    {
+      "ts": "2026-06-09T14:31:16-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000073A/26",
+      "nome": "MARIA APARECIDA GARCIA",
+      "re": "RE8265001548A"
+    }
+  ]
 }
