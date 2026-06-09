@@ -17,16 +17,15 @@
  header .stats{display:flex;gap:24px;font-size:14px}
  header .stats div{color:var(--muted)}
  header .stats div b{color:var(--text);font-size:18px;display:block}
- #grid{padding:20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(440px,1fr));gap:18px;overflow-y:auto;align-content:start}
- .cidade{background:var(--panel);border-radius:12px;padding:16px;box-shadow:0 4px 14px rgba(0,0,0,0.3);display:flex;flex-direction:column;max-height:520px}
+ #scroll-area{overflow-y:auto;scroll-behavior:auto}
+ #scroll-area::-webkit-scrollbar{width:0}  /* esconder scrollbar na TV */
+ #grid{padding:20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(440px,1fr));gap:18px;align-content:start}
+ .cidade{background:var(--panel);border-radius:12px;padding:16px;box-shadow:0 4px 14px rgba(0,0,0,0.3);display:flex;flex-direction:column}
  .cidade-h{display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid var(--accent);padding-bottom:8px;margin-bottom:10px}
  .cidade-nome{font-size:22px;color:var(--accent);font-weight:700}
  .cidade-badge{background:var(--accent);color:var(--header);font-weight:bold;padding:3px 10px;border-radius:14px;font-size:13px}
  .cidade-meta{font-size:11px;color:var(--muted);margin-bottom:8px}
- .multas-list{flex:1;overflow-y:auto;padding-right:4px}
- .multas-list::-webkit-scrollbar{width:6px}
- .multas-list::-webkit-scrollbar-track{background:transparent}
- .multas-list::-webkit-scrollbar-thumb{background:#1e3a5f;border-radius:3px}
+ .multas-list{flex:1;padding-right:4px}  /* sem overflow interno - tudo flui pra fora */
  .multa{padding:8px 10px;border-bottom:1px solid #1a3553;display:flex;flex-direction:column;gap:2px;font-size:13px}
  .multa-cod{font-family:Consolas,monospace;color:var(--hot);font-weight:bold;font-size:12px}
  .multa-nome{font-weight:600}
@@ -52,7 +51,7 @@
    <div>Hoje<b id="hoje">—</b></div>
   </div>
  </header>
- <div id="grid"><div class="empty">Carregando...</div></div>
+ <div id="scroll-area"><div id="grid"><div class="empty">Carregando...</div></div></div>
  <footer>
   <div>📡 Coleta automática a cada 10 min (seg-sex 08:00-18:00 BRT) via GitHub Actions</div>
   <div class="right">
@@ -134,7 +133,7 @@ function render(data){
       <div class="cidade-badge">${multas.length}</div>
      </div>
      <div class="cidade-meta">Último: ${ultimo} · Verificado: ${typeof ucheck === 'string' ? ucheck.slice(0,16).replace('T',' ') : ucheck}</div>
-     <div class="multas-list">${lis || '<div class="empty">Sem multas</div>'}</div>
+     <div class="multas-list">${lis || '<div class="empty">Sem multas neste recorte</div>'}</div>
     </div>`;
   }).join("");
   grid.innerHTML = html;
@@ -164,6 +163,72 @@ async function refresh(){
 
 refresh();
 setInterval(refresh, POLL_MS);
+
+// === AUTO-SCROLL contínuo (modo TV) ===
+// Rola a página inteira de cima até o fim, pausa, e volta. Loop infinito.
+// Pausa quando há banner ativo (multa nova) pra você ver o destaque.
+const SCROLL_PIXELS_PER_TICK = 1;     // pixels por tick (suavidade)
+const SCROLL_TICK_MS = 40;            // ms entre ticks (~25 fps)
+const PAUSE_AT_TOP_MS = 4000;         // pausa no topo (segundos olhando o header)
+const PAUSE_AT_BOTTOM_MS = 4000;      // pausa embaixo antes de voltar
+const SCROLL_RESET_INSTANT = false;   // false = sobe scroll suave; true = teleporta
+
+let scrollDir = 1;     // 1 = descendo, -1 = subindo (se SCROLL_RESET_INSTANT=false)
+let scrollPaused = false;
+
+const scrollArea = document.getElementById("scroll-area");
+
+function bannerAtivo(){
+  return document.getElementById("banner").classList.contains("show");
+}
+
+function autoScrollTick(){
+  if(scrollPaused || bannerAtivo()) return;
+  if(!scrollArea) return;
+  const maxScroll = scrollArea.scrollHeight - scrollArea.clientHeight;
+  if(maxScroll <= 0) return;   // não tem o que rolar
+
+  const cur = scrollArea.scrollTop;
+  if(scrollDir === 1){
+    if(cur >= maxScroll - 1){
+      // chegou no fundo
+      scrollPaused = true;
+      setTimeout(()=>{
+        if(SCROLL_RESET_INSTANT){
+          scrollArea.scrollTop = 0;
+          scrollPaused = false;
+          setTimeout(()=>{ scrollPaused = false; }, PAUSE_AT_TOP_MS);
+        }else{
+          scrollDir = -1;
+          scrollPaused = false;
+        }
+      }, PAUSE_AT_BOTTOM_MS);
+    }else{
+      scrollArea.scrollTop = cur + SCROLL_PIXELS_PER_TICK;
+    }
+  }else{
+    if(cur <= 0){
+      scrollPaused = true;
+      setTimeout(()=>{ scrollDir = 1; scrollPaused = false; }, PAUSE_AT_TOP_MS);
+    }else{
+      scrollArea.scrollTop = cur - SCROLL_PIXELS_PER_TICK;
+    }
+  }
+}
+setInterval(autoScrollTick, SCROLL_TICK_MS);
+
+// Se o usuário scrollar manualmente (mouse, controle TV), pausa por 30s
+let manualScrollTimer = null;
+scrollArea.addEventListener("wheel", ()=>{
+  scrollPaused = true;
+  clearTimeout(manualScrollTimer);
+  manualScrollTimer = setTimeout(()=>{ scrollPaused = false; }, 30000);
+});
+scrollArea.addEventListener("touchstart", ()=>{
+  scrollPaused = true;
+  clearTimeout(manualScrollTimer);
+  manualScrollTimer = setTimeout(()=>{ scrollPaused = false; }, 30000);
+});
 </script>
 </body>
 </html>
