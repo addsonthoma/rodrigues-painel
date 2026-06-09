@@ -1,0 +1,36 @@
+name: Polling de multas CBMSC
+
+on:
+  schedule:
+    # A cada 10 min entre 11:00 e 21:00 UTC = 08:00-18:00 BRT (UTC-3)
+    # Cron do GitHub Actions: minute hour day month weekday
+    - cron: '*/10 11-21 * * 1-5'
+  workflow_dispatch:  # permite rodar manualmente pelo painel do GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: poll-multas
+      cancel-in-progress: false
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Rodar coletor
+        run: python scripts/coletar.py
+
+      - name: Commit e push se houver mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Sem mudanças."
+          else
+            git commit -m "Atualização automática $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
