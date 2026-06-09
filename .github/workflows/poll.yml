@@ -2,9 +2,10 @@ name: Polling de Multas e Fiscalizações CBMSC
 
 on:
   schedule:
-    # A cada 10 min entre 11:00 e 21:00 UTC = 08:00-18:00 BRT (UTC-3)
-    # Cron do GitHub Actions: minute hour day month weekday
-    - cron: '*/10 11-21 * * 1-5'
+    # A cada 30 min entre 11:00 e 21:00 UTC = 08:00-18:00 BRT (UTC-3)
+    # Aumentei de 10 -> 30 min porque cada run leva ~7-8 min (ambiente do GitHub e' lento)
+    # e estava overlapping com o proximo run.
+    - cron: '*/30 11-21 * * 1-5'
   workflow_dispatch:  # permite rodar manualmente pelo painel do GitHub
 
 permissions:

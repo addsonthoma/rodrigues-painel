@@ -18,17 +18,22 @@ URL = "https://esci.cbm.sc.gov.br/Safe/Geral/ControllerConsultaGeral/consultaGer
 PAUSE = 0.5
 TZ_BR = timezone(timedelta(hours=-3))   # horario de Brasilia
 
-def buscar(codigo):
+def buscar(codigo, max_retries=2):
     payload = {"texto":codigo,"numgCidade":None,"numrQuantidade":50,"flagMostrarReExcluido":False,"flagOnlyAuto":True}
-    req = urllib.request.Request(URL, data=json.dumps(payload).encode("utf-8"), method="POST",
-                                 headers={"Content-Type":"application/json;charset=UTF-8"})
-    try:
-        with urllib.request.urlopen(req, timeout=20) as r:
-            d = json.loads(r.read().decode("utf-8"))
-        return d[0] if d else None
-    except Exception as e:
-        print(f"  ERR {codigo}: {e}", flush=True)
-        return None
+    for tentativa in range(max_retries + 1):
+        req = urllib.request.Request(URL, data=json.dumps(payload).encode("utf-8"), method="POST",
+                                     headers={"Content-Type":"application/json;charset=UTF-8"})
+        try:
+            with urllib.request.urlopen(req, timeout=15) as r:
+                d = json.loads(r.read().decode("utf-8"))
+            return d[0] if d else None
+        except Exception as e:
+            if tentativa < max_retries:
+                time.sleep(2)  # espera 2s antes de tentar de novo
+                continue
+            print(f"  ERR {codigo}: {e}", flush=True)
+            return None
+    return None
 
 def carregar(fp, default):
     if os.path.exists(fp):
