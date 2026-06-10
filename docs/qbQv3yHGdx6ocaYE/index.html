@@ -86,6 +86,11 @@
  #banner.af{background:linear-gradient(90deg,#3498db,#5dade2)}
  #banner .icon{font-size:28px;margin-right:14px}
  .empty-state{text-align:center;padding:40px;color:var(--muted);font-style:italic}
+ /* toast de codigo copiado */
+ #toast{position:fixed;bottom:50px;left:50%;transform:translateX(-50%) translateY(120px);background:#26de81;color:#0a1929;padding:16px 28px;border-radius:10px;font-size:18px;font-weight:bold;z-index:2000;box-shadow:0 6px 24px rgba(0,0,0,0.5);transition:transform 0.4s ease;text-align:center;line-height:1.4}
+ #toast.show{transform:translateX(-50%) translateY(0)}
+ #toast .cod{font-family:Consolas,monospace;font-size:20px;display:block;margin-top:4px}
+ #toast .hint{font-size:13px;font-weight:normal;display:block;margin-top:6px;opacity:0.85}
  /* header pisca quando ha lead novo */
  @keyframes header-alert{0%,100%{background:var(--header)}50%{background:#c00}}
  header.alert{animation:header-alert 1s ease-in-out 6}
@@ -98,6 +103,7 @@
 </head>
 <body>
 <div id="banner"><span class="icon">🚨</span><span id="banner-text"></span></div>
+<div id="toast">✓ Código copiado!<span class="cod" id="toast-cod"></span><span class="hint">Cole no campo de busca do e-SCI com <b>Ctrl + V</b></span></div>
 <div id="app">
  <header>
   <div class="brand">
@@ -211,8 +217,28 @@ function mostrarBanner(tipo, cidade, nome, codigo){
 
 // URL pra abrir direto no e-SCI ja com a busca preenchida
 function eSciURL(codigo){
-  // Abre a aba Consulta Geral. Usuario logado vai ver direto a edificacao.
   return "https://esci.cbm.sc.gov.br/Safe/Geral/ControllerConsultaGeral/";
+}
+
+let toastTimer = null;
+function abrirESci(ev, codigo){
+  ev.preventDefault();
+  // copia o codigo pro clipboard
+  try{ navigator.clipboard.writeText(codigo); }catch(e){
+    // fallback pra navegadores antigos de TV
+    const ta=document.createElement('textarea'); ta.value=codigo;
+    document.body.appendChild(ta); ta.select();
+    try{document.execCommand('copy');}catch(e2){} ta.remove();
+  }
+  // mostra toast
+  const t=document.getElementById("toast");
+  document.getElementById("toast-cod").textContent=codigo;
+  t.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer=setTimeout(()=>t.classList.remove("show"), 6000);
+  // abre o e-SCI em nova aba
+  window.open(eSciURL(codigo), "_blank", "noopener");
+  return false;
 }
 
 // === SOM (TV smart precisa interacao previa pra desbloquear) ===
@@ -271,7 +297,6 @@ function drillHTML(d){
 function itemHTML(item, tipo, isFlash, drill){
   const end = `${item.Logradouro || ""}${item.Numero?", "+item.Numero:""} — ${(item.Bairro||"").replace(/^[^-]+ - /,"")}`;
   const cls = tipo.toLowerCase();
-  const copyOnClick = `navigator.clipboard.writeText('${item.CodigoAuto}').catch(()=>{}); return true;`;
   const d = drill && drill[item.CodigoAuto];
   // destaque persistente: se detectado nas ultimas 24h, fica laranja
   const detectIso = item.Detectado_em;
@@ -289,7 +314,7 @@ function itemHTML(item, tipo, isFlash, drill){
     ${drillHTML(d)}
    </div>
    <div class="item-acoes">
-    <a class="btn-esci" target="_blank" rel="noopener" href="${eSciURL(item.CodigoAuto)}" onclick="${copyOnClick}" title="Copia o código e abre o e-SCI em nova aba">📋 e-SCI</a>
+    <a class="btn-esci" href="#" onclick="return abrirESci(event, '${item.CodigoAuto}')" title="Copia o código e abre o e-SCI — cole com Ctrl+V">📋 e-SCI</a>
    </div>
   </div>`;
 }

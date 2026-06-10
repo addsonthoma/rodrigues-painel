@@ -49,8 +49,10 @@ ENDPOINTS = {
 }
 PAUSE = 0.3        # 0.5 -> 0.3
 TZ_BR = timezone(timedelta(hours=-3))
-MAX_PROCESSAR = 80  # aumentei para 80, mas filtro pre-corta para so HOT leads (~50)
+MAX_PROCESSAR = 200 # cobre todos os AFs do painel
 SAVE_EVERY = 5      # salva parcial a cada 5 autos
+SO_AFS = True       # True = processa so AFs (pendencia mora no AF). False = MUL+AF
+FILTRO_HOT = False  # True = so empresas grandes. False = todos
 
 # === Sessao com cookies ===
 # Modo 1: tentar ler cookies do Chrome automaticamente (precisa admin)
@@ -217,7 +219,7 @@ def main():
     # Carregar todos os autos atuais do painel
     print("[*] Lendo painel atual...")
     todos = []
-    if os.path.exists(DADOS_FP):
+    if os.path.exists(DADOS_FP) and not SO_AFS:
         d = json.load(open(DADOS_FP, encoding="utf-8"))
         for cid, lst in (d.get("multas") or {}).items():
             for m in lst:
@@ -243,9 +245,12 @@ def main():
     def eh_hot(nome):
         n = (nome or "").upper()
         return any(kw in n for kw in KEYWORDS_HOT)
-    todos_hot = [t for t in todos if eh_hot(t["nome"])]
-    print(f"[*] {len(todos)} autos no painel, {len(todos_hot)} sao hot leads (empresas/predios).")
-    todos = todos_hot
+    if FILTRO_HOT:
+        todos_hot = [t for t in todos if eh_hot(t["nome"])]
+        print(f"[*] {len(todos)} autos no painel, {len(todos_hot)} sao hot leads (empresas/predios).")
+        todos = todos_hot
+    else:
+        print(f"[*] {len(todos)} autos no painel ({'so AFs' if SO_AFS else 'MUL+AF'}), sem filtro hot.")
 
     # Ordenar dentro de cada cidade por numero DESC, depois pegar N por cidade (round-robin)
     def num_auto(c):
@@ -278,7 +283,8 @@ def main():
 
     # cache para nao re-baixar
     cache = carregar_cache()
-    drill_data = {}        # {codgAuto: dados_drill}
+    # ACUMULA: comeca com TODO o cache (preserva MULs/AFs enriquecidos em rodadas anteriores)
+    drill_data = {k: dict(v) for k, v in cache.items()}
     edif_to_autos = {}     # {numgEdificacao: [autos_drill]}
 
     processados = 0
