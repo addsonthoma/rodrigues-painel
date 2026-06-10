@@ -284,6 +284,8 @@ function drillHTML(d){
   const ex = (d.exigencias || []).join(" · ");
   if(ex){
     parts.push(`<div class="drill-exig">⚠️ ${ex}${badgePrazo(d.prazoDias)}</div>`);
+  } else if(d.nota){
+    parts.push(`<div style="font-size:.82em;opacity:.72;margin-top:2px">ℹ️ ${d.nota}</div>`);
   }
   // botoes contato (so quando ha)
   const btns = [];

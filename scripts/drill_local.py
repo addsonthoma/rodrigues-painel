@@ -139,13 +139,58 @@ def api(s, endpoint_key, payload):
     except Exception:
         return None
 
+# === Parsers de responsavel (fallback p/ edificacao sem auto no bloco) ===
+def parse_contato(contatos):
+    """contatos pode vir {} vazio, dict de listas, ou lista. Extrai (celular, email)."""
+    cel = email = None
+    items = []
+    if isinstance(contatos, dict):
+        for v in contatos.values():
+            if isinstance(v, list): items.extend(v)
+            elif isinstance(v, dict): items.append(v)
+    elif isinstance(contatos, list):
+        items = contatos
+    for it in items:
+        if not isinstance(it, dict): continue
+        val = it.get("descContato") or it.get("valor") or it.get("codgContato")
+        s_ = str(val or "").strip()
+        if not s_: continue
+        if "@" in s_:
+            email = email or s_
+        else:
+            digits = "".join(ch for ch in s_ if ch.isdigit())
+            if len(digits) >= 8:
+                cel = cel or s_
+    return cel, email
+
+def parse_resps_edif(edif):
+    """Responsaveis no nivel da edificacao: [{nome, cpfCnpj, celular, email}].
+    Serve de fallback quando o AF nao tem auto no bloco (ex.: sem PPCI homologado)."""
+    re_ = edif.get("responsaveisEdificacao")
+    lst = re_ if isinstance(re_, list) else ([re_] if isinstance(re_, dict) and re_ else [])
+    out = []
+    for r in lst:
+        p = (r or {}).get("pessoa") or {}
+        if not p: continue
+        cel, email = parse_contato(p.get("contatos"))
+        out.append({
+            "nome": p.get("nomeCompleto"),
+            "cpfCnpj": p.get("codgCpf") or p.get("codgCnpj"),
+            "celular": cel,
+            "email": email,
+        })
+    # quem tem contato vem primeiro
+    out.sort(key=lambda x: (x.get("celular") is None, x.get("email") is None))
+    return out
+
 # === Drill por edificacao ===
 def drill_edificacao(s, codg_edif, numg_edif):
-    """Retorna lista de autos (AF+MUL) com responsavel, exigencias, prazos."""
+    """Retorna (autos, resps_edif): autos do bloco + responsaveis da edificacao (fallback)."""
     edif = api(s, "edif", {"numgEdificacao": numg_edif})
     if edif == "EXPIRED": return "EXPIRED"
     if not edif or not isinstance(edif, dict):
-        return []
+        return ([], [])
+    resps_edif = parse_resps_edif(edif)
     blocos = edif.get("bloco") or []
     autos = []
     for bloco in blocos:
@@ -192,7 +237,7 @@ def drill_edificacao(s, codg_edif, numg_edif):
                     if sub.get("codgAuto"):
                         autos.append(dict(base_auto, codgAuto=sub.get("codgAuto"), numgAuto=sub.get("numgAuto"), tipo=sub.get("codgTipoAuto") or tipo))
         time.sleep(PAUSE)
-    return autos
+    return (autos, resps_edif)
 
 def buscar_numg_edif(s, codg_auto):
     """Recupera numgEdificacao a partir do codigo do auto (AF.../MUL...)."""
@@ -286,6 +331,7 @@ def main():
     # ACUMULA: comeca com TODO o cache (preserva MULs/AFs enriquecidos em rodadas anteriores)
     drill_data = {k: dict(v) for k, v in cache.items()}
     edif_to_autos = {}     # {numgEdificacao: [autos_drill]}
+    edif_to_resp  = {}     # {numgEdificacao: [resps_edif]} (fallback p/ AF sem auto no bloco)
 
     processados = 0
     cache_hits = 0
@@ -306,13 +352,13 @@ def main():
     # Primeiro, popular do cache (gratis, sem chamadas)
     for item in todos:
         codg = item["codgAuto"]
-        if codg in cache and cache[codg].get("_ts") and (time.time() - cache[codg]["_ts"]) < 7*86400:
+        if codg in cache and cache[codg].get("_ts") and (time.time() - cache[codg]["_ts"]) < 7*86400 and not cache[codg].get("parcial"):
             drill_data[codg] = cache[codg]
             cache_hits += 1
     print(f"[*] Cache: {cache_hits} ja conhecidos.")
 
     # Agora processar os que faltam
-    pendentes = [it for it in todos if it["codgAuto"] not in drill_data]
+    pendentes = [it for it in todos if it["codgAuto"] not in drill_data or drill_data[it["codgAuto"]].get("parcial")]
     print(f"[*] A processar: {len(pendentes)} novos.\n")
 
     for idx, item in enumerate(pendentes, 1):
@@ -332,12 +378,14 @@ def main():
             continue
 
         if numg_edif not in edif_to_autos:
-            autos = drill_edificacao(s, codg_edif, numg_edif)
-            if autos == "EXPIRED":
+            res_drill = drill_edificacao(s, codg_edif, numg_edif)
+            if res_drill == "EXPIRED":
                 print("\n[!] SESSAO EXPIRADA. Faca login no Chrome e refaca cookies.txt.")
                 expired = True
                 break
+            autos, resps_edif = res_drill
             edif_to_autos[numg_edif] = autos
+            edif_to_resp[numg_edif] = resps_edif
 
         achou_principal = False
         for a in edif_to_autos[numg_edif]:
@@ -351,7 +399,23 @@ def main():
                     tel = a.get("celular") or "—"
                     print(f"OK | {tel} | {ex[:30]}")
         if not achou_principal:
-            print("(sem auto correspondente)")
+            # FALLBACK: edificacao sem auto no bloco (ex.: AF novo sem PPCI homologado).
+            # Pega ao menos o responsavel da edificacao. Marca 'parcial' p/ re-tentar
+            # nas proximas rodadas (auto-cura quando a edificacao ganhar processo).
+            resps = edif_to_resp.get(numg_edif) or []
+            r0 = resps[0] if resps else {}
+            fb = {
+                "tipo": item["tipo"], "cidade": item["cidade"],
+                "responsavel": r0.get("nome"), "cpfCnpj": r0.get("cpfCnpj"),
+                "celular": r0.get("celular"), "email": r0.get("email"),
+                "exigencias": [], "prazoDias": None,
+                "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
+                "parcial": True, "codgAuto": codg, "_ts": time.time(),
+            }
+            drill_data[codg] = fb
+            cache[codg] = fb
+            nm = (r0.get("nome") or "?")[:25]
+            print(f"PARCIAL (resp: {nm})")
 
         processados += 1
         if processados % SAVE_EVERY == 0:
