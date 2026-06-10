@@ -1,69 +1,212 @@
 {
-  "timestamp": "2026-06-10T10:25:22-03:00",
+  "timestamp": "2026-06-10T17:01:07-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 609,
+      "ultimo_numero": 622,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-10T10:25:22-03:00"
+      "ultima_verificacao": "2026-06-10T17:01:07-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 23,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-10T10:25:22-03:00"
+      "ultima_verificacao": "2026-06-10T17:01:07-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 50,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-10T10:25:22-03:00"
+      "ultima_verificacao": "2026-06-10T17:01:07-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 437,
+      "ultimo_numero": 438,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-10T10:25:22-03:00"
+      "ultima_verificacao": "2026-06-10T17:01:07-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 316,
+      "ultimo_numero": 318,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-10T10:25:22-03:00"
+      "ultima_verificacao": "2026-06-10T17:01:07-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 333,
+      "ultimo_numero": 334,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-10T10:25:22-03:00"
+      "ultima_verificacao": "2026-06-10T17:01:07-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 715,
+      "ultimo_numero": 730,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-10T10:25:22-03:00"
+      "ultima_verificacao": "2026-06-10T17:01:07-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 674,
+      "ultimo_numero": 695,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-10T10:25:22-03:00"
+      "ultima_verificacao": "2026-06-10T17:01:07-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 226,
+      "ultimo_numero": 227,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-10T10:25:22-03:00"
+      "ultima_verificacao": "2026-06-10T17:01:07-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 774,
+      "ultimo_numero": 775,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-10T10:25:22-03:00"
+      "ultima_verificacao": "2026-06-10T17:01:07-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000622A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002166A",
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANÓPOLIS (CAPELA SÃO JOSÉ)",
+        "Logradouro": "Rua Ministro Lindolfo Collor",
+        "Numero": "123",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000621A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002630A",
+        "Nome_Edificacao": "TEMPLO DA IGREJA VIDA PLENA",
+        "Logradouro": "Rua Ludovico Merico",
+        "Numero": "376",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000620A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004093A",
+        "Nome_Edificacao": "CARLOS MARIO PEDRINI",
+        "Logradouro": "R DO CEDRO - DO KM 8,000 AO FIM",
+        "Numero": "1022",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000619A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001616A",
+        "Nome_Edificacao": "INDUSTRIA TÊXTIL PORTO FRANCO",
+        "Logradouro": "RUA JOãO BIANCHINI",
+        "Numero": "111",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000618A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002060A",
+        "Nome_Edificacao": "EDIFICIO GREGORIO VALMOR VECHI",
+        "Logradouro": "Avenida Cônsul Carlos Renaux",
+        "Numero": "120",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000617A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005023A",
+        "Nome_Edificacao": "LOJA",
+        "Logradouro": "Rua Manoel Tavares",
+        "Numero": "47",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000616A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002172A",
+        "Nome_Edificacao": "RESIDENCIAL MULTIFAMILIAR E COMERCIAL",
+        "Logradouro": "Rua Botuverá",
+        "Numero": "435",
+        "Bairro": "BRUSQUE - Dom Joaquim",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000615A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003722A",
+        "Nome_Edificacao": "MARIA MAGDA BUSS",
+        "Logradouro": "Rua Dionísio Vidal Hoffmann",
+        "Numero": "299",
+        "Bairro": "BRUSQUE - TOMAZ COELHO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000614A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003776A",
+        "Nome_Edificacao": "INGRETH WEGNER WIPPEL",
+        "Logradouro": "Rua Santos Dumont",
+        "Numero": "672",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000613A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004099A",
+        "Nome_Edificacao": "SERGIO REZINI",
+        "Logradouro": "Avenida Dom Joaquim",
+        "Numero": "697",
+        "Bairro": "BRUSQUE - SOUZA CRUZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000612A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000269A",
+        "Nome_Edificacao": "LOJA C.L.S CONFECÇÕES",
+        "Logradouro": "Rua José Dubiélla",
+        "Numero": "339",
+        "Bairro": "BRUSQUE - TOMAZ COELHO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000611A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004760A",
+        "Nome_Edificacao": "EDIFICAÇÃO COMERCIAL",
+        "Logradouro": "Rua João Olinger",
+        "Numero": "120",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000610A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003232A",
+        "Nome_Edificacao": "PLANO ORIGINAL",
+        "Logradouro": "Rua Desembargador Érico Torres",
+        "Numero": "19",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
       {
         "CodigoAuto": "AF8055000609A/26",
         "Tipo": "AF",
@@ -73,7 +216,7 @@
         "Numero": "221",
         "Bairro": "BRUSQUE - JARDIM MALUCHE",
         "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8055000608A/26",
@@ -84,150 +227,7 @@
         "Numero": "77",
         "Bairro": "BRUSQUE - BATEAS",
         "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000607A/26",
-        "Tipo": "AF",
-        "RE": "RE8055004770A",
-        "Nome_Edificacao": "VALDIR GÁS",
-        "Logradouro": "R GUILHERME STEFFEN",
-        "Numero": "377",
-        "Bairro": "BRUSQUE - STEFFEN",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000606A/26",
-        "Tipo": "AF",
-        "RE": "RE8055003838A",
-        "Nome_Edificacao": "LUIZ VALTER COELHO",
-        "Logradouro": "Rua Sete de Setembro",
-        "Numero": "477",
-        "Bairro": "BRUSQUE - SANTA RITA",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000605A/26",
-        "Tipo": "AF",
-        "RE": "RE8055001589A",
-        "Nome_Edificacao": "MARCELO BOTTAMELLI",
-        "Logradouro": "Rua Adulcio Bottamelli",
-        "Numero": "64",
-        "Bairro": "BRUSQUE - PLANALTO",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000604A/26",
-        "Tipo": "AF",
-        "RE": "RE8055001077A",
-        "Nome_Edificacao": "ASSOCIAÇÃO DEHONIANA BRASIL MERIDIONAL",
-        "Logradouro": "Rua Padre Gatone",
-        "Numero": "112",
-        "Bairro": "BRUSQUE - CENTRO I",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000603A/26",
-        "Tipo": "AF",
-        "RE": "RE8055000500A",
-        "Nome_Edificacao": "HUGO STAACK ADMINISTRADORA DE BENS LTDA",
-        "Logradouro": "Rua Itajai",
-        "Numero": "171",
-        "Bairro": "BRUSQUE - SANTA TEREZINHA",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000602A/26",
-        "Tipo": "AF",
-        "RE": "RE8055004719A",
-        "Nome_Edificacao": "Plano Original International Christian School LTDA",
-        "Logradouro": "RUA DESEMBARGADOR ERICO TORRES",
-        "Numero": "15",
-        "Bairro": "BRUSQUE - SÃO LUIZ",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000601A/26",
-        "Tipo": "AF",
-        "RE": "RE8055000410A",
-        "Nome_Edificacao": "VOTORANTIM ASSET MANAGEMENT DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS LTDA",
-        "Logradouro": "Avenida Primeiro de Maio",
-        "Numero": "900",
-        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000600A/26",
-        "Tipo": "AF",
-        "RE": "RE8055002448A",
-        "Nome_Edificacao": "RESIDENCIAL COMERCIAL E RESIDENCIAL",
-        "Logradouro": "Rua Jardim Centenário",
-        "Numero": "110",
-        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000599A/26",
-        "Tipo": "AF",
-        "RE": "RE8055003733A",
-        "Nome_Edificacao": "Felipe Aviz",
-        "Logradouro": "Rua José Boiteux Piazza",
-        "Numero": "285",
-        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000598A/26",
-        "Tipo": "AF",
-        "RE": "RE8055000704A",
-        "Nome_Edificacao": "Arga Processadora de Resíduos Ltda",
-        "Logradouro": "Rua Sérgio Marques",
-        "Numero": "",
-        "Bairro": "BRUSQUE - LIMEIRA ALTA",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000597A/26",
-        "Tipo": "AF",
-        "RE": "RE8055005023A",
-        "Nome_Edificacao": "LOJA",
-        "Logradouro": "Rua Manoel Tavares",
-        "Numero": "47",
-        "Bairro": "BRUSQUE - CENTRO I",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000596A/26",
-        "Tipo": "AF",
-        "RE": "RE8055000972A",
-        "Nome_Edificacao": "100% SUCATA",
-        "Logradouro": "Rua Varginha",
-        "Numero": "315",
-        "Bairro": "BRUSQUE - RIO BRANCO",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8055000595A/26",
-        "Tipo": "AF",
-        "RE": "RE8055003197A",
-        "Nome_Edificacao": "DIEGOLI & CIA LTDA",
-        "Logradouro": "RUA GABRIEL SIEGEL",
-        "Numero": "250",
-        "Bairro": "BRUSQUE - GUARANI",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       }
     ],
     "Botuvera": [
@@ -240,7 +240,7 @@
         "Numero": "9878",
         "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000022A/26",
@@ -251,7 +251,7 @@
         "Numero": "185",
         "Bairro": "BOTUVERÁ - CENTRO",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000021A/26",
@@ -262,7 +262,7 @@
         "Numero": "",
         "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000020A/26",
@@ -273,7 +273,7 @@
         "Numero": "444",
         "Bairro": "BOTUVERÁ - AGUAS NEGRAS",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000019A/26",
@@ -284,7 +284,7 @@
         "Numero": "",
         "Bairro": "BOTUVERÁ - AGUAS NEGRAS",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000018A/26",
@@ -295,7 +295,7 @@
         "Numero": "199",
         "Bairro": "BOTUVERÁ - CENTRO",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000017A/26",
@@ -306,7 +306,7 @@
         "Numero": "3501",
         "Bairro": "BOTUVERÁ - AGUAS NEGRAS",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000016A/26",
@@ -317,7 +317,7 @@
         "Numero": "60",
         "Bairro": "BOTUVERÁ - GABIROBA",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000015A/26",
@@ -328,7 +328,7 @@
         "Numero": "",
         "Bairro": "BOTUVERÁ - RIBEIRAO DO OURO",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000014A/26",
@@ -339,7 +339,7 @@
         "Numero": "555",
         "Bairro": "BOTUVERÁ - CENTRO",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000013A/26",
@@ -350,7 +350,7 @@
         "Numero": "200",
         "Bairro": "BOTUVERÁ - CENTRO",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000012A/26",
@@ -361,7 +361,7 @@
         "Numero": "747",
         "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000011A/26",
@@ -372,7 +372,7 @@
         "Numero": "747",
         "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000010A/26",
@@ -383,7 +383,7 @@
         "Numero": "6060",
         "Bairro": "BOTUVERÁ - RIBEIRAO PORTO FRANCO",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8051000009A/26",
@@ -394,7 +394,7 @@
         "Numero": "4149",
         "Bairro": "BOTUVERÁ - AGUAS NEGRAS",
         "Cidade": "Botuvera",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       }
     ],
     "Guabiruba": [
@@ -407,7 +407,7 @@
         "Numero": "",
         "Bairro": "GUABIRUBA - GUABIRUBA SUL",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000049A/26",
@@ -418,7 +418,7 @@
         "Numero": "399",
         "Bairro": "GUABIRUBA - IMIGRANTES",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000048A/26",
@@ -429,7 +429,7 @@
         "Numero": "3649",
         "Bairro": "GUABIRUBA - AYMORE",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000047A/26",
@@ -440,7 +440,7 @@
         "Numero": "930",
         "Bairro": "GUABIRUBA - LAJEADO BAIXO",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000046A/26",
@@ -451,7 +451,7 @@
         "Numero": "127",
         "Bairro": "GUABIRUBA - LAJEADO BAIXO",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000045A/26",
@@ -462,7 +462,7 @@
         "Numero": "690",
         "Bairro": "GUABIRUBA - CENTRO",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000044A/26",
@@ -473,7 +473,7 @@
         "Numero": "623",
         "Bairro": "GUABIRUBA - CENTRO",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000043A/26",
@@ -484,7 +484,7 @@
         "Numero": "1499",
         "Bairro": "GUABIRUBA - GUABIRUBA SUL",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000042A/26",
@@ -495,7 +495,7 @@
         "Numero": "502",
         "Bairro": "GUABIRUBA - POMERANIA",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000041A/26",
@@ -506,7 +506,7 @@
         "Numero": "160",
         "Bairro": "GUABIRUBA - CENTRO",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000040A/26",
@@ -517,7 +517,7 @@
         "Numero": "72",
         "Bairro": "GUABIRUBA - CENTRO",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000039A/26",
@@ -528,7 +528,7 @@
         "Numero": "",
         "Bairro": "GUABIRUBA - SAO PEDRO",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000038A/26",
@@ -539,7 +539,7 @@
         "Numero": "548",
         "Bairro": "GUABIRUBA - SÃO PEDRO",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000037A/26",
@@ -550,7 +550,7 @@
         "Numero": "146",
         "Bairro": "GUABIRUBA - AIMORE",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8123000036A/26",
@@ -561,10 +561,21 @@
         "Numero": "500",
         "Bairro": "GUABIRUBA - CENTRO",
         "Cidade": "Guabiruba",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000438A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001879A",
+        "Nome_Edificacao": "PLASTIFICAÇÃO GASPAR LTDA EPP",
+        "Logradouro": "RUA FREI SOLANO",
+        "Numero": "5373",
+        "Bairro": "GASPAR - GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
       {
         "CodigoAuto": "AF8117000437A/26",
         "Tipo": "AF",
@@ -574,7 +585,7 @@
         "Numero": "283",
         "Bairro": "GASPAR - CENTRO",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000436A/26",
@@ -585,7 +596,7 @@
         "Numero": "5021",
         "Bairro": "GASPAR - BELA VISTA",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000435A/26",
@@ -596,7 +607,7 @@
         "Numero": "6364",
         "Bairro": "GASPAR - MARGEM ESQUERDA",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000433A/26",
@@ -607,7 +618,7 @@
         "Numero": "83",
         "Bairro": "GASPAR - SANTA TEREZINHA",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000432A/26",
@@ -618,7 +629,7 @@
         "Numero": "437",
         "Bairro": "GASPAR - SETE DE SETEMBRO",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000431A/26",
@@ -629,7 +640,7 @@
         "Numero": "18673",
         "Bairro": "GASPAR - BELCHIOR CENTRAL",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000430A/26",
@@ -640,7 +651,7 @@
         "Numero": "266",
         "Bairro": "GASPAR - BARRACAO",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000429A/26",
@@ -651,7 +662,7 @@
         "Numero": "686",
         "Bairro": "GASPAR - CENTRO",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000428A/26",
@@ -662,7 +673,7 @@
         "Numero": "1450",
         "Bairro": "GASPAR - SANTA TEREZINHA",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000427A/26",
@@ -673,7 +684,7 @@
         "Numero": "540",
         "Bairro": "GASPAR - GASPAR MIRIM",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000426A/26",
@@ -684,7 +695,7 @@
         "Numero": "3373",
         "Bairro": "GASPAR - GASPAR MIRIM",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000425A/26",
@@ -695,7 +706,7 @@
         "Numero": "500",
         "Bairro": "GASPAR - SETE DE SETEMBRO",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8117000424A/26",
@@ -706,21 +717,32 @@
         "Numero": "288",
         "Bairro": "GASPAR - SANTA TEREZINHA",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8117000423A/26",
-        "Tipo": "AF",
-        "RE": "RE8117001713A",
-        "Nome_Edificacao": "EEB OLIMPIO MORETTO",
-        "Logradouro": "Rua Prefeito Leopoldo Schramm",
-        "Numero": "2425",
-        "Bairro": "GASPAR - GASPAR GRANDE",
-        "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000318A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000293A",
+        "Nome_Edificacao": "RESIDENCIAL PARTHENON",
+        "Logradouro": "Rua Virginia Ledra Cavilha",
+        "Numero": "356",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000317A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001877A",
+        "Nome_Edificacao": "JUAREZ LAERCIO DOS SANTOS",
+        "Logradouro": "AVENIDA GOVERNADOR CELSO RAMOS",
+        "Numero": "140",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
       {
         "CodigoAuto": "AF8265000316A/26",
         "Tipo": "AF",
@@ -730,7 +752,7 @@
         "Numero": "95",
         "Bairro": "PORTO BELO - PEREQUE",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000315A/26",
@@ -741,7 +763,7 @@
         "Numero": "285",
         "Bairro": "PORTO BELO - VILA NOVA",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000314A/26",
@@ -749,10 +771,10 @@
         "RE": "RE8265000331A",
         "Nome_Edificacao": "PARQUE LAGOA DO PEREQUÊ",
         "Logradouro": "RUA ADERBAL DE SOUZA",
-        "Numero": "132",
+        "Numero": "150",
         "Bairro": "PORTO BELO - CENTRO",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000313A/26",
@@ -763,7 +785,7 @@
         "Numero": "",
         "Bairro": "PORTO BELO - SANTA LUZIA",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000312A/26",
@@ -774,7 +796,7 @@
         "Numero": "115",
         "Bairro": "PORTO BELO - CENTRO",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000311A/26",
@@ -785,7 +807,7 @@
         "Numero": "",
         "Bairro": "PORTO BELO - PEREQUE",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000310A/26",
@@ -796,7 +818,7 @@
         "Numero": "538",
         "Bairro": "PORTO BELO - PEREQUE",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000309A/26",
@@ -807,7 +829,7 @@
         "Numero": "555",
         "Bairro": "PORTO BELO - PEREQUE",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000308A/26",
@@ -818,7 +840,7 @@
         "Numero": "1188",
         "Bairro": "PORTO BELO - JARDIM DOURADO",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000307A/26",
@@ -829,7 +851,7 @@
         "Numero": "537",
         "Bairro": "PORTO BELO - CENTRO",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000306A/26",
@@ -840,7 +862,7 @@
         "Numero": "264",
         "Bairro": "PORTO BELO - CENTRO",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000305A/26",
@@ -851,7 +873,7 @@
         "Numero": "",
         "Bairro": "PORTO BELO - ALTO PEREQUE",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8265000304A/26",
@@ -862,32 +884,21 @@
         "Numero": "337",
         "Bairro": "PORTO BELO - CENTRO",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8265000303A/26",
-        "Tipo": "AF",
-        "RE": "RE8265001722A",
-        "Nome_Edificacao": "VERA LUCIA RAMOS DA SILVA",
-        "Logradouro": "avenida  governador celso ramos",
-        "Numero": "1219",
-        "Bairro": "PORTO BELO - PEREQUE",
-        "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8265000302A/26",
-        "Tipo": "AF",
-        "RE": "RE8265001098A",
-        "Nome_Edificacao": "CENTRO COM. ENSEADA DAS GAROUPAS",
-        "Logradouro": "ALDA TAVARES MATIAS",
-        "Numero": "189",
-        "Bairro": "PORTO BELO - CENTRO",
-        "Cidade": "Porto Belo",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000334A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000050A",
+        "Nome_Edificacao": "IRMÃOS SOARES INDUSTRIA E COMERCIO DE CALÇADOS",
+        "Logradouro": "Rua dos Imigrantes",
+        "Numero": "790",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
       {
         "CodigoAuto": "AF8225000333A/26",
         "Tipo": "AF",
@@ -897,7 +908,7 @@
         "Numero": "572",
         "Bairro": "NOVA TRENTO - CASCATA",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000332A/26",
@@ -908,7 +919,7 @@
         "Numero": "1260",
         "Bairro": "NOVA TRENTO - PONTA FINA NORTE",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000331A/26",
@@ -919,7 +930,7 @@
         "Numero": "261",
         "Bairro": "NOVA TRENTO - CENTRO",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000330A/26",
@@ -930,7 +941,7 @@
         "Numero": "864",
         "Bairro": "NOVA TRENTO - DISTRITO DE CLARAIBA",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000329A/26",
@@ -941,7 +952,7 @@
         "Numero": "4072",
         "Bairro": "NOVA TRENTO - VIGOLO",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000328A/26",
@@ -952,7 +963,7 @@
         "Numero": "292",
         "Bairro": "NOVA TRENTO - BESENELLO",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000327A/26",
@@ -963,7 +974,7 @@
         "Numero": "100",
         "Bairro": "NOVA TRENTO - MATO QUEIMADO",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000326A/26",
@@ -974,7 +985,7 @@
         "Numero": "71",
         "Bairro": "NOVA TRENTO - CENTRO",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000325A/26",
@@ -985,7 +996,7 @@
         "Numero": "",
         "Bairro": "NOVA TRENTO - TRINTA REIS",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000324A/26",
@@ -996,7 +1007,7 @@
         "Numero": "157",
         "Bairro": "NOVA TRENTO - CLARAIBA",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000323A/26",
@@ -1007,7 +1018,7 @@
         "Numero": "1394",
         "Bairro": "NOVA TRENTO - BESENELLO",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000322A/26",
@@ -1018,7 +1029,7 @@
         "Numero": "153",
         "Bairro": "NOVA TRENTO - BESENELO",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000321A/26",
@@ -1029,7 +1040,7 @@
         "Numero": "723",
         "Bairro": "NOVA TRENTO - CENTRO",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8225000320A/26",
@@ -1040,355 +1051,355 @@
         "Numero": "511",
         "Bairro": "NOVA TRENTO - CASCATA",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8225000319A/26",
-        "Tipo": "AF",
-        "RE": "RE8225000453A",
-        "Nome_Edificacao": "INDUSTRIA E COMERCIO DE CONFECÇÕES DI MIRMAY LTDA",
-        "Logradouro": "RUA ALCIDES KLANN",
-        "Numero": "121",
-        "Bairro": "NOVA TRENTO - CLARAIBA",
-        "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       }
     ],
     "Itapema": [
       {
-        "CodigoAuto": "AF8163000715A/26",
+        "CodigoAuto": "AF8163000730A/26",
         "Tipo": "AF",
-        "RE": "RE8163003528A",
-        "Nome_Edificacao": "IDO BILDHAUER",
-        "Logradouro": "Rua 418 A",
-        "Numero": "89",
+        "RE": "RE8163002802A",
+        "Nome_Edificacao": "EDIFíCIO COMERCIAL MAFRA",
+        "Logradouro": "AVENIDA NEREU RAMOS",
+        "Numero": "2880",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000729A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001847A",
+        "Nome_Edificacao": "ZURICH RESIDENCE",
+        "Logradouro": "RUA 214",
+        "Numero": "230",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000728A/26",
+        "Tipo": "AF",
+        "RE": "RE8163005317A",
+        "Nome_Edificacao": "Escritório Forterras",
+        "Logradouro": "RUA 434",
+        "Numero": "11",
         "Bairro": "ITAPEMA - MORRETES",
         "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
-        "CodigoAuto": "AF8163000714A/26",
+        "CodigoAuto": "AF8163000727A/26",
         "Tipo": "AF",
-        "RE": "RE8163005154A",
-        "Nome_Edificacao": "BPS CENTRO AUTOMOTIVO",
-        "Logradouro": "RUA 406 F",
-        "Numero": "9",
-        "Bairro": "ITAPEMA - MORRETES",
-        "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8163000713A/26",
-        "Tipo": "AF",
-        "RE": "RE8163002172A",
-        "Nome_Edificacao": "LA RIVIÉRE",
-        "Logradouro": "Rua 323-B",
-        "Numero": "93",
-        "Bairro": "ITAPEMA - MEIA PRAIA",
-        "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8163000712A/26",
-        "Tipo": "AF",
-        "RE": "RE8163001921A",
-        "Nome_Edificacao": "RESIDENCIAL COSMOS",
-        "Logradouro": "Rua 260",
-        "Numero": "319",
-        "Bairro": "ITAPEMA - MEIA PRAIA",
-        "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8163000711A/26",
-        "Tipo": "AF",
-        "RE": "RE8163003806A",
-        "Nome_Edificacao": "ED. MIRANTE DAS áGUAS",
-        "Logradouro": "Rua 880 A",
-        "Numero": "144",
-        "Bairro": "ITAPEMA - CASA BRANCA",
-        "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8163000710A/26",
-        "Tipo": "AF",
-        "RE": "RE8163001646A",
-        "Nome_Edificacao": "SKY TOWER RESIDENCE",
-        "Logradouro": "SEGUNDA AVENIDA",
-        "Numero": "281",
-        "Bairro": "ITAPEMA - MEIA PRAIA",
-        "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8163000709A/26",
-        "Tipo": "AF",
-        "RE": "RE8163000352A",
-        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL MORADA DO SOL",
-        "Logradouro": "RUA 286",
-        "Numero": "120",
-        "Bairro": "ITAPEMA - MEIA PRAIA",
-        "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8163000708A/26",
-        "Tipo": "AF",
-        "RE": "RE8163000404A",
-        "Nome_Edificacao": "COND. RES. RENATO ZOSCHKE",
-        "Logradouro": "RUA 231",
-        "Numero": "10",
-        "Bairro": "ITAPEMA - MEIA PRAIA",
-        "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8163000707A/26",
-        "Tipo": "AF",
-        "RE": "RE8163003656A",
-        "Nome_Edificacao": "RESIDENCIAL ALPHAVILLE",
-        "Logradouro": "RUA 280",
-        "Numero": "138",
-        "Bairro": "ITAPEMA - MEIA PRAIA",
-        "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8163000706A/26",
-        "Tipo": "AF",
-        "RE": "RE8163000964A",
-        "Nome_Edificacao": "Edifício Helsinki",
-        "Logradouro": "RUA 307",
-        "Numero": "133",
-        "Bairro": "ITAPEMA - MEIA PRAIA",
-        "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8163000705A/26",
-        "Tipo": "AF",
-        "RE": "RE8163002740A",
-        "Nome_Edificacao": "RESTAURANTE INDAIA",
-        "Logradouro": "Rua 900",
-        "Numero": "1300",
-        "Bairro": "ITAPEMA - ALTO SAO BENTO",
-        "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8163000704A/26",
-        "Tipo": "AF",
-        "RE": "RE8163006696A",
-        "Nome_Edificacao": "Hélio da SIlva Vieira",
-        "Logradouro": "RUA 1204 B2",
-        "Numero": "1000",
+        "RE": "RE8163006720A",
+        "Nome_Edificacao": "Residencial e Salas comerciais",
+        "Logradouro": "Rua 1208",
+        "Numero": "591",
         "Bairro": "ITAPEMA - ILHOTA",
         "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
-        "CodigoAuto": "AF8163000703A/26",
+        "CodigoAuto": "AF8163000726A/26",
         "Tipo": "AF",
-        "RE": "RE8163003396A",
-        "Nome_Edificacao": "La Gioia Rezidenciale",
-        "Logradouro": "Rua 246 c",
-        "Numero": "126",
-        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "RE": "RE8163006720A",
+        "Nome_Edificacao": "Residencial e Salas comerciais",
+        "Logradouro": "Rua 1208",
+        "Numero": "591",
+        "Bairro": "ITAPEMA - ILHOTA",
         "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
-        "CodigoAuto": "AF8163000702A/26",
+        "CodigoAuto": "AF8163000725A/26",
         "Tipo": "AF",
-        "RE": "RE8163002613A",
-        "Nome_Edificacao": "FLOR DE LIS RESIDENCE",
-        "Logradouro": "Rua 264",
-        "Numero": "1070",
-        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "RE": "RE8163006719A",
+        "Nome_Edificacao": "Residencial Multifamiliar",
+        "Logradouro": "Rua 1208",
+        "Numero": "701",
+        "Bairro": "ITAPEMA - ILHOTA",
         "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
-        "CodigoAuto": "AF8163000701A/26",
+        "CodigoAuto": "AF8163000724A/26",
         "Tipo": "AF",
-        "RE": "RE8163003494A",
-        "Nome_Edificacao": "RESIDENCIAL VIVACE",
-        "Logradouro": "R. 298",
-        "Numero": "401",
+        "RE": "RE8163006719A",
+        "Nome_Edificacao": "Residencial Multifamiliar",
+        "Logradouro": "Rua 1208",
+        "Numero": "701",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000723A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006716A",
+        "Nome_Edificacao": "Spa Pet Estrela do Mar",
+        "Logradouro": "1202 B",
+        "Numero": "44",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000722A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006701A",
+        "Nome_Edificacao": "Igreja Presbiteriana do Brasil",
+        "Logradouro": "1200",
+        "Numero": "",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000721A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006701A",
+        "Nome_Edificacao": "Igreja Presbiteriana do Brasil",
+        "Logradouro": "1200",
+        "Numero": "",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000720A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006718A",
+        "Nome_Edificacao": "Salão de Beleza Paula Snaider",
+        "Logradouro": "Rua 1208",
+        "Numero": "701",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000719A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006718A",
+        "Nome_Edificacao": "Salão de Beleza Paula Snaider",
+        "Logradouro": "Rua 1208",
+        "Numero": "701",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000718A/26",
+        "Tipo": "AF",
+        "RE": "RE8163005179A",
+        "Nome_Edificacao": "RUDINEI LOPES",
+        "Logradouro": "RUA 2160",
+        "Numero": "466",
+        "Bairro": "ITAPEMA - SERTAO TROMBUDO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000717A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003035A",
+        "Nome_Edificacao": "JOSE BITTENCOURT NETO",
+        "Logradouro": "av nereu ramos",
+        "Numero": "5370",
         "Bairro": "ITAPEMA - MEIA PRAIA",
         "Cidade": "Itapema",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000716A/26",
+        "Tipo": "AF",
+        "RE": "RE8163004215A",
+        "Nome_Edificacao": "JORGE ALBERTO ZORDAN",
+        "Logradouro": "Rua 248",
+        "Numero": "411",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       }
     ],
     "Blumenau": [
       {
-        "CodigoAuto": "AF8047000674A/26",
+        "CodigoAuto": "AF8047000695A/26",
         "Tipo": "AF",
-        "RE": "RE8047008894A",
-        "Nome_Edificacao": "JANE LUIZA DIAS DA COSTA",
-        "Logradouro": "Rua Luiz Eleodoro da Silva",
-        "Numero": "403",
+        "RE": "RE8047005710A",
+        "Nome_Edificacao": "ANG REFRIGERAÇÃO LTDA",
+        "Logradouro": "Rua Heinrich Grassmann",
+        "Numero": "130",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000694A/26",
+        "Tipo": "AF",
+        "RE": "RE8047003569A",
+        "Nome_Edificacao": "AMAURI ARLINDO VEBER",
+        "Logradouro": "Rua Guilherme Poerner",
+        "Numero": "1468",
+        "Bairro": "BLUMENAU - PASSO MANSO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000693A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001767A",
+        "Nome_Edificacao": "Beagle",
+        "Logradouro": "Rua Itajaí",
+        "Numero": "5707",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000692A/26",
+        "Tipo": "AF",
+        "RE": "RE8047003103A",
+        "Nome_Edificacao": "WALTER JUNQUEIRA RUOFF",
+        "Logradouro": "Rua João Pessoa",
+        "Numero": "817",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000691A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001110A",
+        "Nome_Edificacao": "ALBERTO GASSENFERTH",
+        "Logradouro": "Rua Alberto Koffke",
+        "Numero": "256",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000690A/26",
+        "Tipo": "AF",
+        "RE": "RE8047008415A",
+        "Nome_Edificacao": "CARMELITA BLOMER RECH",
+        "Logradouro": "RUA GOVERNADOR JORGE LACERDA",
+        "Numero": "2222",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000689A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001279A",
+        "Nome_Edificacao": "Galpão Smile Prime Land",
+        "Logradouro": "Rua Fritz Koegler",
+        "Numero": "1360",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000688A/26",
+        "Tipo": "AF",
+        "RE": "RE8047009904A",
+        "Nome_Edificacao": "ASSOCIAÇÃO SEMEANDO O BEM",
+        "Logradouro": "RUA SIBÉRIA",
+        "Numero": "36",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000687A/26",
+        "Tipo": "AF",
+        "RE": "RE8047008308A",
+        "Nome_Edificacao": "AFONSO ZAGO",
+        "Logradouro": "Rua das Missões",
+        "Numero": "2066",
         "Bairro": "BLUMENAU - PONTA AGUDA",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
-        "CodigoAuto": "AF8047000673A/26",
+        "CodigoAuto": "AF8047000686A/26",
         "Tipo": "AF",
-        "RE": "RE8047005770A",
-        "Nome_Edificacao": "FIXXAR COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA",
-        "Logradouro": "RUA SAO PAULO",
-        "Numero": "2478",
-        "Bairro": "BLUMENAU - ITOUPAVA SECA",
-        "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8047000672A/26",
-        "Tipo": "AF",
-        "RE": "RE8047002634A",
-        "Nome_Edificacao": "RESIDENCIAL E COMERCIAL VILLAGIO PARADISO",
-        "Logradouro": "RUA BENJAMIN CONSTANT",
-        "Numero": "1112",
-        "Bairro": "BLUMENAU - ESCOLA AGRÍCOLA",
-        "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8047000671A/26",
-        "Tipo": "AF",
-        "RE": "RE8047011932A",
-        "Nome_Edificacao": "CONVÊNIENCIA B",
-        "Logradouro": "R MARECHAL RONDON",
-        "Numero": "612",
-        "Bairro": "BLUMENAU - Salto do Norte",
-        "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8047000670A/26",
-        "Tipo": "AF",
-        "RE": "RE8047005067A",
-        "Nome_Edificacao": "ADMINISTRADORA DE BENS MARLENE LTDA",
-        "Logradouro": "RUA 15 DE NOVEMBRO",
-        "Numero": "701",
-        "Bairro": "BLUMENAU - CENTRO",
-        "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8047000669A/26",
-        "Tipo": "AF",
-        "RE": "RE8047001856A",
-        "Nome_Edificacao": "EDIFÍCIO MOSAICO",
-        "Logradouro": "Rua Almirante Barroso",
-        "Numero": "1439",
-        "Bairro": "BLUMENAU - VILA NOVA",
-        "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8047000668A/26",
-        "Tipo": "AF",
-        "RE": "RE8047003463A",
-        "Nome_Edificacao": "KMNL ADMINISTRADORA DE BENS PRÓPRIOS",
-        "Logradouro": "RUA 15 DE NOVEMBRO",
-        "Numero": "1090",
-        "Bairro": "BLUMENAU - CENTRO",
-        "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8047000667A/26",
-        "Tipo": "AF",
-        "RE": "RE8047003705A",
-        "Nome_Edificacao": "MARCOLLA, IVO ISIDORO",
-        "Logradouro": "Rua Padre Jacobs",
-        "Numero": "127",
-        "Bairro": "BLUMENAU - CENTRO",
-        "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8047000666A/26",
-        "Tipo": "AF",
-        "RE": "RE8047005029A",
-        "Nome_Edificacao": "DESIREE TONELLI JOHN ME",
-        "Logradouro": "Rua Engenheiro Paul Werner",
-        "Numero": "1269",
-        "Bairro": "BLUMENAU - ITOUPAVA SECA",
-        "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8047000665A/26",
-        "Tipo": "AF",
-        "RE": "RE8047011211A",
-        "Nome_Edificacao": "ELSON FETTER",
-        "Logradouro": "R DOUTOR PEDRO ZIMMERMANN",
-        "Numero": "6487",
+        "RE": "RE8047003494A",
+        "Nome_Edificacao": "ASSOCIAÇÃO DOS EMPREGADOS DA ELETROSUL BLUMENAU",
+        "Logradouro": "Rua Gustavo Zimmermann",
+        "Numero": "",
         "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
-        "CodigoAuto": "AF8047000664A/26",
+        "CodigoAuto": "AF8047000685A/26",
         "Tipo": "AF",
-        "RE": "RE8047006067A",
-        "Nome_Edificacao": "CEDUP HERMANN HERING",
-        "Logradouro": "Rua Benjamin Constant",
-        "Numero": "857",
-        "Bairro": "BLUMENAU - ESCOLA AGRÍCOLA",
+        "RE": "RE8047003222A",
+        "Nome_Edificacao": "ANTONIO CARLOS MELLO",
+        "Logradouro": "Rua Alberto Stein",
+        "Numero": "474",
+        "Bairro": "BLUMENAU - VELHA",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
-        "CodigoAuto": "AF8047000663A/26",
+        "CodigoAuto": "AF8047000684A/26",
         "Tipo": "AF",
-        "RE": "RE8047006826A",
-        "Nome_Edificacao": "GREEN GOLD EMP. IMOBILIARIO LTDA",
-        "Logradouro": "RUA 30 DE AGOSTO",
-        "Numero": "482",
-        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "RE": "RE8047003029A",
+        "Nome_Edificacao": "AFAE",
+        "Logradouro": "Rua Urubici",
+        "Numero": "115",
+        "Bairro": "BLUMENAU - VORSTADT",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
-        "CodigoAuto": "AF8047000662A/26",
+        "CodigoAuto": "AF8047000683A/26",
         "Tipo": "AF",
-        "RE": "RE8047000025A",
-        "Nome_Edificacao": "KARSTEN SA",
-        "Logradouro": "Rua Johann Karsten",
-        "Numero": "260",
-        "Bairro": "BLUMENAU - TESTO SALTO",
+        "RE": "RE8047009611A",
+        "Nome_Edificacao": "ASSOCIAÇÃO DOS SERVIDORES DO DER DO VALE DO ITAJAÍ",
+        "Logradouro": "Rua Pedro Marthendal",
+        "Numero": "91",
+        "Bairro": "BLUMENAU - NOVA ESPERANÇA",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
-        "CodigoAuto": "AF8047000661A/26",
+        "CodigoAuto": "AF8047000682A/26",
         "Tipo": "AF",
-        "RE": "RE8047011017A",
-        "Nome_Edificacao": "Michele Pasold",
-        "Logradouro": "Rua Johann Sachse",
-        "Numero": "191",
-        "Bairro": "BLUMENAU - BADENFURT",
+        "RE": "RE8047005522A",
+        "Nome_Edificacao": "Bella Top Confeccoes e Embalagens",
+        "Logradouro": "Rua Augusto Bennertz, 151",
+        "Numero": "151",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
-        "CodigoAuto": "AF8047000660A/26",
+        "CodigoAuto": "AF8047000681A/26",
         "Tipo": "AF",
-        "RE": "RE8047002507A",
-        "Nome_Edificacao": "ROMANA, CONDOMINIO RESIDENCIAL VILLA",
-        "Logradouro": "Rua República Argentina",
-        "Numero": "715",
-        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "RE": "RE8047007605A",
+        "Nome_Edificacao": "ADIRÇO REGUEIRA",
+        "Logradouro": "RUA CAMPO MOURÃO",
+        "Numero": "162",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       }
     ],
     "Navegantes": [
+      {
+        "CodigoAuto": "AF8221000227A/26",
+        "Tipo": "AF",
+        "RE": "RE8221003937A",
+        "Nome_Edificacao": "Anivaldo Couto",
+        "Logradouro": "Rua Jornalista Rui Ademar Rodrigues",
+        "Numero": "235",
+        "Bairro": "NAVEGANTES - NOSSA SENHORA DAS GRAÇAS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
       {
         "CodigoAuto": "AF8221000226A/26",
         "Tipo": "AF",
@@ -1398,7 +1409,7 @@
         "Numero": "327",
         "Bairro": "NAVEGANTES - SÃO DOMINGOS",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000225A/26",
@@ -1409,7 +1420,7 @@
         "Numero": "50",
         "Bairro": "NAVEGANTES - ESCALVADOS",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000224A/26",
@@ -1420,7 +1431,7 @@
         "Numero": "314",
         "Bairro": "NAVEGANTES - CENTRO",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000223A/26",
@@ -1431,7 +1442,7 @@
         "Numero": "7068",
         "Bairro": "NAVEGANTES - Gravatá",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000222A/26",
@@ -1442,7 +1453,7 @@
         "Numero": "2125",
         "Bairro": "NAVEGANTES - CENTRO",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000221A/26",
@@ -1453,7 +1464,7 @@
         "Numero": "1239",
         "Bairro": "NAVEGANTES - SÃO DOMINGOS",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000220A/26",
@@ -1464,7 +1475,7 @@
         "Numero": "998",
         "Bairro": "NAVEGANTES - GRAVATÁ",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000219A/26",
@@ -1475,7 +1486,7 @@
         "Numero": "132",
         "Bairro": "NAVEGANTES - SÃO PEDRO",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000218A/26",
@@ -1486,7 +1497,7 @@
         "Numero": "73",
         "Bairro": "NAVEGANTES - GRAVATÁ",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000217A/26",
@@ -1497,7 +1508,7 @@
         "Numero": "391",
         "Bairro": "NAVEGANTES - MEIA PRAIA",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000216A/26",
@@ -1508,7 +1519,7 @@
         "Numero": "333",
         "Bairro": "NAVEGANTES - SÃO PAULO",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000215A/26",
@@ -1519,7 +1530,7 @@
         "Numero": "178",
         "Bairro": "NAVEGANTES - CENTRO",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000214A/26",
@@ -1530,7 +1541,7 @@
         "Numero": "287",
         "Bairro": "NAVEGANTES - GRAVATÁ",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8221000213A/26",
@@ -1541,21 +1552,21 @@
         "Numero": "",
         "Bairro": "NAVEGANTES - GRAVATÁ",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8221000212A/26",
-        "Tipo": "AF",
-        "RE": "RE8221000560A",
-        "Nome_Edificacao": "EEB Irene Romão",
-        "Logradouro": "Rua João Hercílio da Luz",
-        "Numero": "132",
-        "Bairro": "NAVEGANTES - SÃO PEDRO",
-        "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "AF8161000775A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005851A",
+        "Nome_Edificacao": "CLUBE DE PADEL",
+        "Logradouro": "RUA LAURO MULLER",
+        "Numero": "1317",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
+      },
       {
         "CodigoAuto": "AF8161000774A/26",
         "Tipo": "AF",
@@ -1565,7 +1576,7 @@
         "Numero": "77",
         "Bairro": "ITAJAÍ - CORDEIROS",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000773A/26",
@@ -1576,7 +1587,7 @@
         "Numero": "333",
         "Bairro": "ITAJAÍ - ITAIPAVA",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000772A/26",
@@ -1587,7 +1598,7 @@
         "Numero": "546",
         "Bairro": "ITAJAÍ - CENTRO",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000771A/26",
@@ -1598,7 +1609,7 @@
         "Numero": "4820",
         "Bairro": "ITAJAÍ - SALSEIROS",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000770A/26",
@@ -1609,7 +1620,7 @@
         "Numero": "505",
         "Bairro": "ITAJAÍ - CORDEIROS",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000769A/26",
@@ -1620,7 +1631,7 @@
         "Numero": "458",
         "Bairro": "ITAJAÍ - SÃO JOÃO",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000768A/26",
@@ -1631,7 +1642,7 @@
         "Numero": "676",
         "Bairro": "ITAJAÍ - PRAIA BRAVA",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000767A/26",
@@ -1642,7 +1653,7 @@
         "Numero": "171",
         "Bairro": "ITAJAÍ - VILA OPERÁRIA",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000766A/26",
@@ -1653,7 +1664,7 @@
         "Numero": "590",
         "Bairro": "ITAJAÍ - SÃO VICENTE",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000765A/26",
@@ -1664,7 +1675,7 @@
         "Numero": "655",
         "Bairro": "ITAJAÍ - CENTRO",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000764A/26",
@@ -1675,7 +1686,7 @@
         "Numero": "655",
         "Bairro": "ITAJAÍ - CENTRO",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000763A/26",
@@ -1686,7 +1697,7 @@
         "Numero": "990",
         "Bairro": "ITAJAÍ - RESSACADA",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000762A/26",
@@ -1697,7 +1708,7 @@
         "Numero": "100",
         "Bairro": "ITAJAÍ - PRAIA BRAVA",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       },
       {
         "CodigoAuto": "AF8161000761A/26",
@@ -1708,18 +1719,7 @@
         "Numero": "591",
         "Bairro": "ITAJAÍ - SÃO JOÃO",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
-      },
-      {
-        "CodigoAuto": "AF8161000760A/26",
-        "Tipo": "AF",
-        "RE": "RE8161004669A",
-        "Nome_Edificacao": "OLAVIO AQUINO LEITE",
-        "Logradouro": "Rodovia Antônio Heil",
-        "Numero": "20660",
-        "Bairro": "ITAJAÍ - LIMOEIRO",
-        "Cidade": "Itajai",
-        "Detectado_em": "2026-06-10T10:25:22-03:00"
+        "Detectado_em": "2026-06-10T17:01:07-03:00"
       }
     ]
   },
