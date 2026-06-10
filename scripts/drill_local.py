@@ -49,7 +49,7 @@ ENDPOINTS = {
 }
 PAUSE = 0.3        # 0.5 -> 0.3
 TZ_BR = timezone(timedelta(hours=-3))
-MAX_PROCESSAR = 50  # so processa N autos por rodada (priorizando os mais recentes)
+MAX_PROCESSAR = 80  # aumentei para 80, mas filtro pre-corta para so HOT leads (~50)
 SAVE_EVERY = 5      # salva parcial a cada 5 autos
 
 # === Sessao com cookies ===
@@ -227,6 +227,25 @@ def main():
         for cid, lst in (d.get("afs") or {}).items():
             for a in lst:
                 todos.append({"codgAuto": a["CodigoAuto"], "cidade": cid, "tipo": "AF", "nome": a["Nome_Edificacao"]})
+
+    # FILTRO QUENTE: so empresas grandes (LTDA, EIRELI, industria, comercio, posto, construtora, etc)
+    KEYWORDS_HOT = [
+        " LTDA", " EIRELI", " EPP", " ME", " S/A", " S.A", " S A",
+        "INDUSTRIA", "INDÚSTRIA", "COMERCIO", "COMÉRCIO", "TEXTIL", "TÊXTIL",
+        "GALP", "POSTO", "ATACAD", "SHOP", "CENTER", "DISTRIB",
+        "CONSTRUTORA", "ADMINISTRAD", "PARTICIPA", "INCORPORA", "EMPREEND",
+        "MALHA", "FIACAO", "TINTURARIA", "CONFEC", "RECICL", "TRANSPORTAD",
+        "CONDOMINIO", "RESIDENCIAL", "EDIFICIO", "EDIFÍCIO", "PRÉDIO",
+        "CERAMICA", "CERÂMICA", "MOVEIS", "MÓVEIS", "MARMORARIA",
+        "ESQUADRIA", "TECELAGEM", "AUTO PE", "REFLORESTAD", "ASSOCIA",
+        "FUNDO DE", "IMOV", "IMÓV", "HOTEL", "POUSADA", "CLUB"
+    ]
+    def eh_hot(nome):
+        n = (nome or "").upper()
+        return any(kw in n for kw in KEYWORDS_HOT)
+    todos_hot = [t for t in todos if eh_hot(t["nome"])]
+    print(f"[*] {len(todos)} autos no painel, {len(todos_hot)} sao hot leads (empresas/predios).")
+    todos = todos_hot
 
     # Ordenar dentro de cada cidade por numero DESC, depois pegar N por cidade (round-robin)
     def num_auto(c):
