@@ -123,9 +123,11 @@
  </header>
  <div id="scroll-area"><div id="grid"><div class="empty-state">Carregando...</div></div></div>
  <footer>
-  <div>📡 Coleta automática a cada 10 min (seg-sex 08:00-18:00 BRT) via GitHub Actions</div>
+  <div>📡 Coleta automática a cada 10 min (seg-sex 08:00-18:00 BRT)</div>
   <div class="right">
-   <span>Última atualização: <span id="last-update">—</span></span>
+   <span id="heartbeat" title="O painel verifica novidades a cada minuto (relógio do navegador)">⏳ conectando…</span>
+   <span style="opacity:.4">·</span>
+   <span>Última coleta: <span id="last-update">—</span></span>
   </div>
  </footer>
 </div>
@@ -133,6 +135,7 @@
 const POLL_MS = 60000;
 let codigosConhecidos = new Set();
 let primeiraCarga = true;
+let lastFetchOk = null;
 
 function ding(curto){
   if(!somAtivado) return;
@@ -406,6 +409,8 @@ async function refresh(){
     if(rAf && rAf.ok) dadosAf = await rAf.json();
     if(rDrill && rDrill.ok) dadosDrill = await rDrill.json();
     render();
+    lastFetchOk = Date.now();
+    tickHeartbeat();
   }catch(e){
     console.error(e);
     document.getElementById("last-update").textContent = "ERRO: " + e.message;
@@ -420,6 +425,17 @@ if(!somAtivado) document.getElementById("btn-som").classList.add("show");
 
 // re-renderizar a cada 5 min pra atualizar labels "ha X min"
 setInterval(()=>{ if(Object.keys(dadosMul.multas||{}).length) render(); }, 5*60*1000);
+
+// batimento de vida: prova que o painel esta checando, mesmo sem dado novo
+function tickHeartbeat(){
+  const hb = document.getElementById("heartbeat");
+  if(!hb) return;
+  if(lastFetchOk === null){ hb.textContent = "⏳ conectando…"; hb.style.color = "#888"; return; }
+  const s = Math.round((Date.now() - lastFetchOk)/1000);
+  if(s <= 90){ hb.textContent = `🟢 ao vivo · verificado há ${s}s`; hb.style.color = "var(--af)"; }
+  else { hb.textContent = `🔴 sem conexão há ${Math.floor(s/60)}min`; hb.style.color = "var(--mul)"; }
+}
+setInterval(tickHeartbeat, 1000);
 
 // === AUTO-SCROLL ===
 const SCROLL_PIXELS_PER_TICK = 1;
