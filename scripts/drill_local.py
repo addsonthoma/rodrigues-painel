@@ -126,18 +126,29 @@ def get_session():
     })
     return s
 
-def api(s, endpoint_key, payload):
+def api(s, endpoint_key, payload, max_retries=3):
     url = BASE_URL + ENDPOINTS[endpoint_key]
-    r = s.post(url, json=payload, timeout=20)
-    if r.status_code != 200:
-        return None
-    # Se a sessao expirou, retorna HTML (login page)
-    if r.text.startswith("<"):
-        return "EXPIRED"
-    try:
-        return r.json()
-    except Exception:
-        return None
+    # Retry com backoff em erros de rede (e-SCI corta conexao as vezes - ConnectionReset 10054).
+    # Sem isso, um soluco de rede derrubava o drill inteiro no meio.
+    for attempt in range(max_retries):
+        try:
+            r = s.post(url, json=payload, timeout=30)
+        except requests.exceptions.RequestException as e:
+            if attempt < max_retries - 1:
+                time.sleep(2 * (attempt + 1))
+                continue
+            print(f"  [rede] {e.__class__.__name__} apos {max_retries}x, pulando", flush=True)
+            return None
+        if r.status_code != 200:
+            return None
+        # Se a sessao expirou, retorna HTML (login page)
+        if r.text.startswith("<"):
+            return "EXPIRED"
+        try:
+            return r.json()
+        except Exception:
+            return None
+    return None
 
 # === Parsers de responsavel (fallback p/ edificacao sem auto no bloco) ===
 def parse_contato(contatos):
