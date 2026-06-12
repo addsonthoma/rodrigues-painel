@@ -22,7 +22,7 @@
  }
  *{box-sizing:border-box;margin:0;padding:0}
  html,body{height:100%;background:var(--bg);color:var(--text);font-family:-apple-system,Segoe UI,Roboto,sans-serif;overflow:hidden}
- #app{display:grid;grid-template-rows:auto 1fr auto;height:100vh}
+ #app{display:grid;grid-template-rows:auto auto 1fr auto;height:100vh}
  header{background:var(--header);padding:12px 28px;display:flex;align-items:center;justify-content:space-between;border-bottom:3px solid var(--accent);box-shadow:0 4px 14px rgba(0,0,0,0.6)}
  header .brand{display:flex;align-items:center;gap:18px}
  header .logo-img{height:56px;width:auto;display:block;filter:drop-shadow(0 2px 6px rgba(232,51,74,0.4))}
@@ -36,6 +36,21 @@
  header .stats div b{color:var(--text);font-size:18px;display:block}
  header .stats .stat-mul b{color:var(--mul)}
  header .stats .stat-af b{color:var(--af)}
+ #btn-filtros{background:var(--af);color:#fff;border:none;border-radius:8px;padding:6px 14px;cursor:pointer;font-size:13px;font-weight:600;align-self:center}
+ #btn-filtros.ativo{background:var(--accent)}
+ #filtros{background:#13131a;border-bottom:1px solid #2a2a33;max-height:0;overflow:hidden;transition:max-height .2s ease;padding:0 28px}
+ #filtros.aberto{max-height:42vh;overflow-y:auto;padding:12px 28px}
+ .filtro-grupo{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:7px 0}
+ .filtro-lbl{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1px;min-width:84px}
+ .chip{cursor:pointer;user-select:none;padding:5px 13px;border-radius:15px;font-size:13px;background:#26262f;color:var(--text);border:1px solid #34343f;transition:all .12s}
+ .chip:hover{border-color:var(--af)}
+ .chip.on{background:var(--af);color:#fff;border-color:var(--af);font-weight:600}
+ .chip.cidade-chip.on{background:var(--accent);border-color:var(--accent)}
+ #f-texto{flex:1;min-width:200px;background:#0d0d10;border:1px solid #34343f;border-radius:8px;color:var(--text);padding:8px 12px;font-size:14px}
+ #f-texto::placeholder{color:var(--muted)}
+ #f-limpar{background:#34343f;color:var(--text);border:none;border-radius:8px;padding:8px 14px;cursor:pointer;font-size:13px}
+ #f-limpar:hover{background:#44444f}
+ #f-resultado{font-size:14px;color:var(--ok);font-weight:700;white-space:nowrap}
  #scroll-area{overflow-y:auto;scroll-behavior:auto}
  #scroll-area::-webkit-scrollbar{width:0}
  #grid{padding:20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(680px,1fr));gap:18px;align-content:start}
@@ -118,9 +133,19 @@
    <div class="stat-af">Fiscalizações<b id="total-af">—</b></div>
    <div>Cidades<b id="cid-count">—</b></div>
    <div>Hoje<b id="hoje">—</b></div>
+   <button id="btn-filtros" onclick="toggleFiltros()" title="Filtrar por cidade e tipo de pendência">🔍 Filtros</button>
    <button id="btn-som" onclick="habilitarSom()" title="Clica 1x ao ligar a TV pra liberar som">🔔 Ativar som</button>
   </div>
  </header>
+ <div id="filtros">
+  <div class="filtro-grupo">
+   <input id="f-texto" placeholder="🔍 buscar por nome, código ou responsável…" oninput="setTextoFiltro(this.value)">
+   <button id="f-limpar" onclick="limparFiltros()">✕ Limpar</button>
+   <span id="f-resultado"></span>
+  </div>
+  <div class="filtro-grupo"><span class="filtro-lbl">Cidade</span><span id="f-cidades"></span></div>
+  <div class="filtro-grupo"><span class="filtro-lbl">Pendência</span><span id="f-categorias"></span></div>
+ </div>
  <div id="scroll-area"><div id="grid"><div class="empty-state">Carregando...</div></div></div>
  <footer>
   <div>📡 Coleta automática a cada 10 min (seg-sex 08:00-18:00 BRT)</div>
@@ -136,6 +161,52 @@ const POLL_MS = 60000;
 let codigosConhecidos = new Set();
 let primeiraCarga = true;
 let lastFetchOk = null;
+
+// === FILTROS (cidade + tipo de pendencia + busca livre) ===
+let filtroCidades = new Set();
+let filtroCategorias = new Set();
+let filtroTexto = "";
+const CATEGORIAS_PEND = {
+  "Projeto/PPCI": ["projeto","ppci","preventivo","enquadr"],
+  "RPCI": ["rpci"],
+  "Hidrante/SHP": ["hidrante","shp","mangueira"],
+  "Alarme/SDAI": ["alarme","sdai","detec"],
+  "Vistoria": ["vistoria"],
+  "Habite-se": ["habite"],
+  "Extintor": ["extintor"],
+  "Saída/Ilum.": ["saida","ilumin","sinaliz","emergenc","fuga"],
+  "Documentos": ["documento"]
+};
+function normf(s){ return (s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase(); }
+function filtroAtivo(){ return filtroCidades.size>0 || filtroCategorias.size>0 || filtroTexto.length>0; }
+function itemPassaPend(item, drill){
+  const d = drill[item.CodigoAuto];
+  const exigStr = d ? ((d.exigencias||[]).join(" ")+" "+(d.nota||"")) : "";
+  if(filtroCategorias.size){
+    const en = normf(exigStr);
+    if(![...filtroCategorias].some(cat => (CATEGORIAS_PEND[cat]||[]).some(k => en.includes(k)))) return false;
+  }
+  if(filtroTexto){
+    const hay = normf((item.Nome_Edificacao||"")+" "+(item.CodigoAuto||"")+" "+exigStr+" "+(d?(d.responsavel||""):""));
+    if(!hay.includes(normf(filtroTexto))) return false;
+  }
+  return true;
+}
+function toggleFiltros(){
+  const f=document.getElementById("filtros");
+  f.classList.toggle("aberto");
+  if(f.classList.contains("aberto")) construirChips();
+}
+function construirChips(){
+  const cids=[...new Set([...Object.keys(dadosMul.multas||{}),...Object.keys(dadosAf.afs||{})])].sort();
+  document.getElementById("f-cidades").innerHTML = cids.map(c=>`<span class="chip cidade-chip${filtroCidades.has(c)?' on':''}" onclick="toggleCidade('${c.replace(/'/g,"\\'")}')">${c}</span>`).join("");
+  document.getElementById("f-categorias").innerHTML = Object.keys(CATEGORIAS_PEND).map(cat=>`<span class="chip${filtroCategorias.has(cat)?' on':''}" onclick="toggleCategoria('${cat.replace(/'/g,"\\'")}')">${cat}</span>`).join("");
+}
+function toggleCidade(c){ filtroCidades.has(c)?filtroCidades.delete(c):filtroCidades.add(c); construirChips(); aplicarFiltro(); }
+function toggleCategoria(cat){ filtroCategorias.has(cat)?filtroCategorias.delete(cat):filtroCategorias.add(cat); construirChips(); aplicarFiltro(); }
+function setTextoFiltro(v){ filtroTexto=(v||"").trim(); aplicarFiltro(); }
+function limparFiltros(){ filtroCidades.clear(); filtroCategorias.clear(); filtroTexto=""; const t=document.getElementById("f-texto"); if(t) t.value=""; construirChips(); aplicarFiltro(); }
+function aplicarFiltro(){ document.getElementById("btn-filtros").classList.toggle("ativo", filtroAtivo()); render(); }
 
 function ding(curto){
   if(!somAtivado) return;
@@ -343,18 +414,27 @@ function render(){
   const cidades = [...cidadesSet].sort();
   if(!cidades.length){ grid.innerHTML = '<div class="empty-state">Nenhum dado carregado.</div>'; return; }
 
-  const html = cidades.map(cid=>{
-    const muls = (dadosMul.multas && dadosMul.multas[cid]) || [];
-    const afs  = (dadosAf.afs && dadosAf.afs[cid]) || [];
+  const drill = dadosDrill.drill || {};
+  const cidadesView = filtroCidades.size ? cidades.filter(c=>filtroCidades.has(c)) : cidades;
+  const filtrarItens = filtroCategorias.size>0 || filtroTexto.length>0;
+  let totalRes = 0;
+  const html = cidadesView.map(cid=>{
+    let muls = (dadosMul.multas && dadosMul.multas[cid]) || [];
+    let afs  = (dadosAf.afs && dadosAf.afs[cid]) || [];
+    if(filtrarItens){
+      muls = muls.filter(m=>itemPassaPend(m, drill));
+      afs  = afs.filter(a=>itemPassaPend(a, drill));
+    }
+    totalRes += muls.length + afs.length;
+    if(filtroAtivo() && muls.length===0 && afs.length===0) return "";
     const cfgM = (dadosMul.cidades && dadosMul.cidades[cid]) || {};
     const cfgA = (dadosAf.cidades && dadosAf.cidades[cid]) || {};
     const meta = [];
     if(cfgM.ultimo_numero) meta.push(`MUL nº ${cfgM.ultimo_numero}/${cfgM.ano_corrente}`);
     if(cfgA.ultimo_numero) meta.push(`AF nº ${cfgA.ultimo_numero}/${cfgA.ano_corrente}`);
 
-    const drill = dadosDrill.drill || {};
-    const mulsHTML = muls.slice(0, 20).map(m=>itemHTML(m, 'MUL', !primeiraCarga && !codigosConhecidos.has(m.CodigoAuto), drill)).join("") || '<div class="col-empty">Sem multas</div>';
-    const afsHTML  = afs.slice(0, 20).map(m=>itemHTML(m, 'AF',  !primeiraCarga && !codigosConhecidos.has(m.CodigoAuto), drill)).join("") || '<div class="col-empty">Sem fiscalizações</div>';
+    const mulsHTML = muls.slice(0, 30).map(m=>itemHTML(m, 'MUL', !primeiraCarga && !codigosConhecidos.has(m.CodigoAuto), drill)).join("") || '<div class="col-empty">Sem multas</div>';
+    const afsHTML  = afs.slice(0, 30).map(m=>itemHTML(m, 'AF',  !primeiraCarga && !codigosConhecidos.has(m.CodigoAuto), drill)).join("") || '<div class="col-empty">Sem fiscalizações</div>';
 
     return `<div class="cidade">
      <div class="cidade-h">
@@ -376,8 +456,10 @@ function render(){
       </div>
      </div>
     </div>`;
-  }).join("");
-  grid.innerHTML = html;
+  }).filter(Boolean).join("");
+  grid.innerHTML = html || '<div class="empty-state">Nenhum resultado para os filtros selecionados.</div>';
+  const fr = document.getElementById("f-resultado");
+  if(fr) fr.textContent = filtroAtivo() ? (totalRes + " resultado" + (totalRes===1?"":"s")) : "";
 
   // detectar novos -> banner
   if(!primeiraCarga){
@@ -447,7 +529,7 @@ let scrollPaused = false;
 const scrollArea = document.getElementById("scroll-area");
 function bannerAtivo(){ return document.getElementById("banner").classList.contains("show"); }
 function autoScrollTick(){
-  if(scrollPaused || bannerAtivo()) return;
+  if(scrollPaused || bannerAtivo() || filtroAtivo()) return;
   const max = scrollArea.scrollHeight - scrollArea.clientHeight;
   if(max <= 0) return;
   const cur = scrollArea.scrollTop;
