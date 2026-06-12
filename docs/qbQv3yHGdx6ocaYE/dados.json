@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-06-10T10:24:50-03:00",
+  "timestamp": "2026-06-11T18:32:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 60,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-10T10:24:50-03:00"
+      "ultima_verificacao": "2026-06-11T18:32:21-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-10T10:24:50-03:00"
+      "ultima_verificacao": "2026-06-11T18:32:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-10T10:24:50-03:00"
+      "ultima_verificacao": "2026-06-11T18:32:21-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 39,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-10T10:24:50-03:00"
+      "ultima_verificacao": "2026-06-11T18:32:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 75,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-10T10:24:50-03:00"
+      "ultima_verificacao": "2026-06-11T18:32:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 99,
+      "ultimo_numero": 103,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-10T10:24:50-03:00"
+      "ultima_verificacao": "2026-06-11T18:32:21-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 133,
+      "ultimo_numero": 134,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-10T10:24:50-03:00"
+      "ultima_verificacao": "2026-06-11T18:32:21-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 151,
+      "ultimo_numero": 152,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-10T10:24:50-03:00"
+      "ultima_verificacao": "2026-06-11T18:32:21-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 52,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-10T10:24:50-03:00"
+      "ultima_verificacao": "2026-06-11T18:32:21-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 289,
+      "ultimo_numero": 290,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-10T10:24:50-03:00"
+      "ultima_verificacao": "2026-06-11T18:32:21-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000152A/26",
+        "RE": "RE8047003511A",
+        "Nome_Edificacao": "ESPIG, LOURIVAL",
+        "Logradouro": "RUA FREDERICO JENSEN",
+        "Numero": "797",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-10T17:00:26-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000148A/26",
         "RE": "RE8047005535A",
@@ -584,6 +594,16 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "MUL8161000290A/26",
+        "RE": "RE8161001741A",
+        "Nome_Edificacao": "CAPVEL",
+        "Logradouro": "AVENIDA ITAIPAVA",
+        "Numero": "333",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-10T17:00:26-03:00"
+      },
+      {
         "CodigoAuto": "MUL8161000288A/26",
         "RE": "RE8161002980A",
         "Nome_Edificacao": "VETOR-SC",
@@ -738,6 +758,16 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "MUL8163000134A/26",
+        "RE": "RE8163004217A",
+        "Nome_Edificacao": "IVAN LUIZ DE ABREU",
+        "Logradouro": "rua:248",
+        "Numero": "789",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-10T17:00:26-03:00"
+      },
       {
         "CodigoAuto": "MUL8163000133A/26",
         "RE": "RE8163002296A",
@@ -1021,6 +1051,46 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "MUL8225000100A/26",
+        "RE": "RE8225000769A",
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+        "Logradouro": "ESTRADA GERAL RIBEIRÃO FREDERICO",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - FREDERICO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-11T09:18:56-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000101A/26",
+        "RE": "RE8225000035A",
+        "Nome_Edificacao": "GEOVANY BATISTA MARCHIORI",
+        "Logradouro": "Rua Professora Eleonora Buttchevitz",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-11T09:18:56-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000102A/26",
+        "RE": "RE8225000515A",
+        "Nome_Edificacao": "JULIANO DALLA BRIDA",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "3495",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-11T09:18:56-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000103A/26",
+        "RE": "RE8225000801A",
+        "Nome_Edificacao": "EVANDRO TOMIO",
+        "Logradouro": "RUA GUILHERME BOTTAMEDI",
+        "Numero": "410",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-11T09:18:56-03:00"
+      },
       {
         "CodigoAuto": "MUL8225000097A/26",
         "RE": "RE8225000161A",
@@ -1332,19 +1402,68 @@
     ]
   },
   "totais": {
-    "Blumenau": 19,
+    "Blumenau": 20,
     "Botuvera": 3,
     "Brusque": 15,
     "Gaspar": 15,
     "Guabiruba": 3,
-    "Itajai": 17,
-    "Itapema": 16,
+    "Itajai": 18,
+    "Itapema": 17,
     "Navegantes": 15,
-    "Nova Trento": 16,
+    "Nova Trento": 20,
     "Porto Belo": 18
   },
-  "total_geral": 137,
+  "total_geral": 144,
   "eventos_recentes": [
+    {
+      "ts": "2026-06-11T09:18:56-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000103A/26",
+      "nome": "EVANDRO TOMIO",
+      "re": "RE8225000801A"
+    },
+    {
+      "ts": "2026-06-11T09:18:56-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000102A/26",
+      "nome": "JULIANO DALLA BRIDA",
+      "re": "RE8225000515A"
+    },
+    {
+      "ts": "2026-06-11T09:18:56-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000101A/26",
+      "nome": "GEOVANY BATISTA MARCHIORI",
+      "re": "RE8225000035A"
+    },
+    {
+      "ts": "2026-06-11T09:18:56-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000100A/26",
+      "nome": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "re": "RE8225000769A"
+    },
+    {
+      "ts": "2026-06-10T17:00:26-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000290A/26",
+      "nome": "CAPVEL",
+      "re": "RE8161001741A"
+    },
+    {
+      "ts": "2026-06-10T17:00:26-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000152A/26",
+      "nome": "ESPIG, LOURIVAL",
+      "re": "RE8047003511A"
+    },
+    {
+      "ts": "2026-06-10T17:00:26-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000134A/26",
+      "nome": "IVAN LUIZ DE ABREU",
+      "re": "RE8163004217A"
+    },
     {
       "ts": "2026-06-09T16:25:00-03:00",
       "cidade": "Blumenau",
