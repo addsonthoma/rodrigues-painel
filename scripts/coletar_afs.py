@@ -15,7 +15,8 @@ AFS_FP = os.path.join(DOCS_DIR, "afs.json")
 
 URL = "https://esci.cbm.sc.gov.br/Safe/Geral/ControllerConsultaGeral/consultaGeralEdificacao/"
 PAUSE = 0.45
-QTD_POR_CIDADE = 15
+# QTD por cidade: padrao 15 (poller). Passe um numero p/ backfill: `python coletar_afs.py 60`
+QTD_POR_CIDADE = int(sys.argv[1]) if (len(sys.argv) > 1 and sys.argv[1].isdigit()) else 15
 TZ_BR = timezone(timedelta(hours=-3))
 
 def buscar(codigo, max_retries=2):
@@ -52,10 +53,17 @@ def main():
         return
     afs_por_cidade = {}
     agora_iso = datetime.now(TZ_BR).isoformat(timespec="seconds")
+    # ARQUIVO: carrega o afs.json atual p/ ACUMULAR historico (nao perde AFs antigos)
+    arquivo_prev = (carregar(AFS_FP, {"afs": {}}).get("afs") or {})
+    def _numAF(it):
+        try: return int(it["CodigoAuto"].split("/")[0][6:12])
+        except: return 0
 
     for cidade, info in estado["cidades"].items():
         prefixo = info["prefixo"].replace("AF","")
         ano = str(info["ano_corrente"])
+        prev_ultimo = info["ultimo_numero"]   # numero antes de detectar novos
+        prev_map = {x["CodigoAuto"]: x for x in (arquivo_prev.get(cidade) or [])}
         # detectar NOVOS
         n = info["ultimo_numero"] + 1
         streak = 0
@@ -85,6 +93,14 @@ def main():
             r = buscar(codigo)
             time.sleep(PAUSE)
             if r:
+                # Detectado_em: preserva o antigo; novo de verdade (num>prev_ultimo)=agora; backfill antigo=None
+                prev_item = prev_map.get(codigo)
+                if prev_item and prev_item.get("Detectado_em"):
+                    det = prev_item["Detectado_em"]
+                elif num > prev_ultimo:
+                    det = agora_iso
+                else:
+                    det = None
                 coletadas.append({
                     "CodigoAuto": codigo,
                     "Tipo": "AF",
@@ -94,9 +110,13 @@ def main():
                     "Numero": r.get("codgNumeroEndereco") or "",
                     "Bairro": (r.get("nomeCidade","") + " - " + (r.get("nomeBairro","") or "")) if r.get("nomeCidade") else (r.get("nomeBairro","") or ""),
                     "Cidade": cidade,
-                    "Detectado_em": agora_iso
+                    "Detectado_em": det
                 })
-        afs_por_cidade[cidade] = coletadas
+        # ACUMULA: junta o que ja existia no arquivo + o coletado agora (dedupe), ordena desc
+        combinado = {x["CodigoAuto"]: x for x in (arquivo_prev.get(cidade) or [])}
+        for it in coletadas:
+            combinado[it["CodigoAuto"]] = it
+        afs_por_cidade[cidade] = sorted(combinado.values(), key=_numAF, reverse=True)
         info["ultima_verificacao"] = agora_iso
 
     payload = {

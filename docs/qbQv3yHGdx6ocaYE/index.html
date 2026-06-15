@@ -22,7 +22,7 @@
  }
  *{box-sizing:border-box;margin:0;padding:0}
  html,body{height:100%;background:var(--bg);color:var(--text);font-family:-apple-system,Segoe UI,Roboto,sans-serif;overflow:hidden}
- #app{display:grid;grid-template-rows:auto auto 1fr auto;height:100vh}
+ #app{display:grid;grid-template-rows:auto auto auto 1fr auto;height:100vh}
  header{background:var(--header);padding:12px 28px;display:flex;align-items:center;justify-content:space-between;border-bottom:3px solid var(--accent);box-shadow:0 4px 14px rgba(0,0,0,0.6)}
  header .brand{display:flex;align-items:center;gap:18px}
  header .logo-img{height:56px;width:auto;display:block;filter:drop-shadow(0 2px 6px rgba(232,51,74,0.4))}
@@ -51,6 +51,16 @@
  #f-limpar{background:#34343f;color:var(--text);border:none;border-radius:8px;padding:8px 14px;cursor:pointer;font-size:13px}
  #f-limpar:hover{background:#44444f}
  #f-resultado{font-size:14px;color:var(--ok);font-weight:700;white-space:nowrap}
+ .expandir-wrap{display:flex;gap:8px;margin-top:8px;flex-wrap:wrap}
+ .btn-expandir{flex:1;background:rgba(74,158,255,0.14);color:var(--af);border:1px solid var(--af);border-radius:8px;padding:7px 14px;cursor:pointer;font-size:13px;font-weight:600}
+ .btn-expandir:hover{background:var(--af);color:#fff}
+ .btn-expandir.menos{flex:0 0 auto;background:transparent;color:var(--muted);border-color:#34343f}
+ .btn-expandir.menos:hover{background:#26262f;color:var(--text)}
+ #vendedores{display:flex;gap:8px;align-items:center;background:#101015;padding:8px 28px;border-bottom:1px solid #2a2a33;overflow-x:auto}
+ #vendedores .vlbl{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1px;margin-right:4px}
+ .vtab{background:#1a1a20;color:var(--muted);border:1px solid #2a2a33;border-radius:20px;padding:7px 16px;cursor:pointer;font-size:14px;font-weight:600;white-space:nowrap;transition:all .12s}
+ .vtab:hover{border-color:var(--af);color:var(--text)}
+ .vtab.on{background:var(--accent);color:#fff;border-color:var(--accent)}
  #scroll-area{overflow-y:auto;scroll-behavior:auto}
  #scroll-area::-webkit-scrollbar{width:0}
  #grid{padding:20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(680px,1fr));gap:18px;align-content:start}
@@ -137,6 +147,13 @@
    <button id="btn-som" onclick="habilitarSom()" title="Clica 1x ao ligar a TV pra liberar som">🔔 Ativar som</button>
   </div>
  </header>
+ <div id="vendedores">
+  <span class="vlbl">Vendedor</span>
+  <button class="vtab on" data-v="" onclick="setVendedor('')">👥 Todos</button>
+  <button class="vtab" data-v="BANANA" onclick="setVendedor('BANANA')">🟢 Banana · Brusque/Vale</button>
+  <button class="vtab" data-v="GUILHERME" onclick="setVendedor('GUILHERME')">🔵 Guilherme · Litoral</button>
+  <button class="vtab" data-v="ALINE" onclick="setVendedor('ALINE')">🟣 Aline · Botuverá</button>
+ </div>
  <div id="filtros">
   <div class="filtro-grupo">
    <input id="f-texto" placeholder="🔍 buscar por nome, código ou responsável…" oninput="setTextoFiltro(this.value)">
@@ -198,7 +215,8 @@ function toggleFiltros(){
   if(f.classList.contains("aberto")) construirChips();
 }
 function construirChips(){
-  const cids=[...new Set([...Object.keys(dadosMul.multas||{}),...Object.keys(dadosAf.afs||{})])].sort();
+  let cids=[...new Set([...Object.keys(dadosMul.multas||{}),...Object.keys(dadosAf.afs||{})])].sort();
+  if(vendedorAtivo) cids = cids.filter(c=>(VENDEDORES[vendedorAtivo]||[]).includes(c));
   document.getElementById("f-cidades").innerHTML = cids.map(c=>`<span class="chip cidade-chip${filtroCidades.has(c)?' on':''}" onclick="toggleCidade('${c.replace(/'/g,"\\'")}')">${c}</span>`).join("");
   document.getElementById("f-categorias").innerHTML = Object.keys(CATEGORIAS_PEND).map(cat=>`<span class="chip${filtroCategorias.has(cat)?' on':''}" onclick="toggleCategoria('${cat.replace(/'/g,"\\'")}')">${cat}</span>`).join("");
 }
@@ -207,6 +225,26 @@ function toggleCategoria(cat){ filtroCategorias.has(cat)?filtroCategorias.delete
 function setTextoFiltro(v){ filtroTexto=(v||"").trim(); aplicarFiltro(); }
 function limparFiltros(){ filtroCidades.clear(); filtroCategorias.clear(); filtroTexto=""; const t=document.getElementById("f-texto"); if(t) t.value=""; construirChips(); aplicarFiltro(); }
 function aplicarFiltro(){ document.getElementById("btn-filtros").classList.toggle("ativo", filtroAtivo()); render(); }
+
+// === EXPANDIR AFs (ver mais que os 15 recentes, de 15 em 15, do historico) ===
+let afExpand = {};
+function expandirAf(cid){ afExpand[cid] = (afExpand[cid]||15) + 15; render(); }
+function recolherAf(cid){ afExpand[cid] = 15; render(); }
+
+// === VENDEDORES (sub-aba: divide as cidades por vendedor, proximidade da casa) ===
+const VENDEDORES = {
+  "BANANA":    ["Brusque","Guabiruba","Nova Trento","Gaspar","Blumenau"],
+  "GUILHERME": ["Itajai","Navegantes","Itapema","Porto Belo"],
+  "ALINE":     ["Botuvera"]
+};
+let vendedorAtivo = "";
+function setVendedor(v){
+  vendedorAtivo = v || "";
+  document.querySelectorAll('#vendedores .vtab').forEach(b=>b.classList.toggle('on', (b.dataset.v||"")===vendedorAtivo));
+  afExpand = {};
+  construirChips();
+  render();
+}
 
 function ding(curto){
   if(!somAtivado) return;
@@ -399,12 +437,13 @@ let dadosMul = {}, dadosAf = {}, dadosDrill = {};
 
 function render(){
   const cidadesSet = new Set([...Object.keys(dadosMul.multas||{}), ...Object.keys(dadosAf.afs||{})]);
-  const totalMul = dadosMul.total_geral || 0;
-  const totalAf = dadosAf.total_geral || 0;
+  const cidsKpi = vendedorAtivo ? [...cidadesSet].filter(c=>(VENDEDORES[vendedorAtivo]||[]).includes(c)) : [...cidadesSet];
+  const totalMul = cidsKpi.reduce((s,c)=>s+(((dadosMul.multas||{})[c])||[]).length,0);
+  const totalAf = cidsKpi.reduce((s,c)=>s+(((dadosAf.afs||{})[c])||[]).length,0);
 
   document.getElementById("total-mul").textContent = totalMul;
   document.getElementById("total-af").textContent = totalAf;
-  document.getElementById("cid-count").textContent = cidadesSet.size;
+  document.getElementById("cid-count").textContent = cidsKpi.length;
   const hoje = new Date().toISOString().slice(0,10);
   const hojeCt = (dadosMul.eventos_recentes||[]).filter(e=>e.ts && e.ts.startsWith(hoje)).length;
   document.getElementById("hoje").textContent = hojeCt;
@@ -415,7 +454,8 @@ function render(){
   if(!cidades.length){ grid.innerHTML = '<div class="empty-state">Nenhum dado carregado.</div>'; return; }
 
   const drill = dadosDrill.drill || {};
-  const cidadesView = filtroCidades.size ? cidades.filter(c=>filtroCidades.has(c)) : cidades;
+  let cidadesView = vendedorAtivo ? cidades.filter(c=>(VENDEDORES[vendedorAtivo]||[]).includes(c)) : cidades;
+  if(filtroCidades.size) cidadesView = cidadesView.filter(c=>filtroCidades.has(c));
   const filtrarItens = filtroCategorias.size>0 || filtroTexto.length>0;
   let totalRes = 0;
   const html = cidadesView.map(cid=>{
@@ -433,8 +473,15 @@ function render(){
     if(cfgM.ultimo_numero) meta.push(`MUL nº ${cfgM.ultimo_numero}/${cfgM.ano_corrente}`);
     if(cfgA.ultimo_numero) meta.push(`AF nº ${cfgA.ultimo_numero}/${cfgA.ano_corrente}`);
 
-    const mulsHTML = muls.slice(0, 30).map(m=>itemHTML(m, 'MUL', !primeiraCarga && !codigosConhecidos.has(m.CodigoAuto), drill)).join("") || '<div class="col-empty">Sem multas</div>';
-    const afsHTML  = afs.slice(0, 30).map(m=>itemHTML(m, 'AF',  !primeiraCarga && !codigosConhecidos.has(m.CodigoAuto), drill)).join("") || '<div class="col-empty">Sem fiscalizações</div>';
+    const isNova = (it) => !primeiraCarga && !codigosConhecidos.has(it.CodigoAuto) && ehRecente(it.Detectado_em);
+    const afVis = afExpand[cid] || 15;
+    const mulsHTML = muls.slice(0, 30).map(m=>itemHTML(m, 'MUL', isNova(m), drill)).join("") || '<div class="col-empty">Sem multas</div>';
+    const afsHTML  = afs.slice(0, afVis).map(m=>itemHTML(m, 'AF', isNova(m), drill)).join("") || '<div class="col-empty">Sem fiscalizações</div>';
+    const afRestam = afs.length - afVis;
+    const afBtns = [];
+    if(afRestam > 0) afBtns.push(`<button class="btn-expandir" onclick="expandirAf('${cid.replace(/'/g,"\\'")}')">+ ver mais 15 (${afRestam} ${afRestam===1?'restante':'restantes'})</button>`);
+    if(afVis > 15) afBtns.push(`<button class="btn-expandir menos" onclick="recolherAf('${cid.replace(/'/g,"\\'")}')">ver menos</button>`);
+    const afBtnHTML = afBtns.length ? `<div class="expandir-wrap">${afBtns.join("")}</div>` : "";
 
     return `<div class="cidade">
      <div class="cidade-h">
@@ -451,8 +498,9 @@ function render(){
        <div class="col-list">${mulsHTML}</div>
       </div>
       <div>
-       <div class="col-h af"><span class="ico">📋</span> Fiscalizações (mais recentes)</div>
+       <div class="col-h af"><span class="ico">📋</span> Fiscalizações ${filtroAtivo()?'(filtradas)':(afVis>15?'(arquivo)':'(mais recentes)')}</div>
        <div class="col-list">${afsHTML}</div>
+       ${afBtnHTML}
       </div>
      </div>
     </div>`;
@@ -465,10 +513,10 @@ function render(){
   if(!primeiraCarga){
     cidades.forEach(cid=>{
       ((dadosMul.multas && dadosMul.multas[cid])||[]).forEach(m=>{
-        if(!codigosConhecidos.has(m.CodigoAuto)) mostrarBanner('MUL', cid, m.Nome_Edificacao, m.CodigoAuto);
+        if(!codigosConhecidos.has(m.CodigoAuto) && ehRecente(m.Detectado_em)) mostrarBanner('MUL', cid, m.Nome_Edificacao, m.CodigoAuto);
       });
       ((dadosAf.afs && dadosAf.afs[cid])||[]).forEach(a=>{
-        if(!codigosConhecidos.has(a.CodigoAuto)) mostrarBanner('AF', cid, a.Nome_Edificacao, a.CodigoAuto);
+        if(!codigosConhecidos.has(a.CodigoAuto) && ehRecente(a.Detectado_em)) mostrarBanner('AF', cid, a.Nome_Edificacao, a.CodigoAuto);
       });
     });
   }
