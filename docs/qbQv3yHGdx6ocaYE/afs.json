@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-06-16T12:45:08-03:00",
+  "timestamp": "2026-06-16T12:55:00-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 646,
+      "ultimo_numero": 647,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
+      "ultima_verificacao": "2026-06-16T12:55:00-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 23,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
+      "ultima_verificacao": "2026-06-16T12:55:00-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 51,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
+      "ultima_verificacao": "2026-06-16T12:55:00-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 449,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
+      "ultima_verificacao": "2026-06-16T12:55:00-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 328,
+      "ultimo_numero": 329,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
+      "ultima_verificacao": "2026-06-16T12:55:00-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 345,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
+      "ultima_verificacao": "2026-06-16T12:55:00-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 766,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
+      "ultima_verificacao": "2026-06-16T12:55:00-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 749,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
+      "ultima_verificacao": "2026-06-16T12:55:00-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 235,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
+      "ultima_verificacao": "2026-06-16T12:55:00-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 781,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
+      "ultima_verificacao": "2026-06-16T12:55:00-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000647A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002778A",
+        "Nome_Edificacao": "LANCHONETE BARRIGA CHEIA",
+        "Logradouro": "Rua Padre Antônio Eising",
+        "Numero": "266",
+        "Bairro": "BRUSQUE - PAQUETÁ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-16T12:55:00-03:00"
+      },
       {
         "CodigoAuto": "AF8055000646A/26",
         "Tipo": "AF",
@@ -1447,6 +1458,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000329A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002052A",
+        "Nome_Edificacao": "D’AGOSTINI HOLDING LTDA",
+        "Logradouro": "BR-101, KM 152 – 500 MT SUL",
+        "Numero": "",
+        "Bairro": "PORTO BELO - STAO SANTA LUZIA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-16T12:55:00-03:00"
+      },
       {
         "CodigoAuto": "AF8265000328A/26",
         "Tipo": "AF",
@@ -3682,16 +3704,16 @@
     ]
   },
   "totais": {
-    "Brusque": 36,
+    "Brusque": 37,
     "Botuvera": 23,
     "Guabiruba": 31,
     "Gaspar": 35,
-    "Porto Belo": 37,
+    "Porto Belo": 38,
     "Nova Trento": 35,
     "Itapema": 33,
     "Blumenau": 36,
     "Navegantes": 31,
     "Itajai": 30
   },
-  "total_geral": 327
+  "total_geral": 329
 }
