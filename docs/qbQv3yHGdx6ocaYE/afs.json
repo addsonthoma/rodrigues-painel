@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-16T12:35:04-03:00",
+  "timestamp": "2026-06-16T12:45:08-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 646,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:35:04-03:00"
+      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 23,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:35:04-03:00"
+      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 51,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:35:04-03:00"
+      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 449,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:35:04-03:00"
+      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 327,
+      "ultimo_numero": 328,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:35:04-03:00"
+      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 345,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:35:04-03:00"
+      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 766,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:35:04-03:00"
+      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 748,
+      "ultimo_numero": 749,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:35:04-03:00"
+      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 235,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:35:04-03:00"
+      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 781,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T12:35:04-03:00"
+      "ultima_verificacao": "2026-06-16T12:45:08-03:00"
     }
   },
   "afs": {
@@ -1448,6 +1448,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "AF8265000328A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002447A",
+        "Nome_Edificacao": "LUCIMAR CORBOLIN CHAGAS",
+        "Logradouro": "DO CTG",
+        "Numero": "1147",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-16T12:45:08-03:00"
+      },
+      {
         "CodigoAuto": "AF8265000327A/26",
         "Tipo": "AF",
         "RE": "RE8265002438A",
@@ -2598,6 +2609,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000749A/26",
+        "Tipo": "AF",
+        "RE": "RE8047002146A",
+        "Nome_Edificacao": "CASA DE REPOUSO CONTINUANDO A VIDA LTDA",
+        "Logradouro": "Rua São Paulo",
+        "Numero": "2457",
+        "Bairro": "BLUMENAU - ITOUPAVA SECA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-16T12:45:08-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000748A/26",
         "Tipo": "AF",
         "RE": "RE8047011212A",
@@ -3664,12 +3686,12 @@
     "Botuvera": 23,
     "Guabiruba": 31,
     "Gaspar": 35,
-    "Porto Belo": 36,
+    "Porto Belo": 37,
     "Nova Trento": 35,
     "Itapema": 33,
-    "Blumenau": 35,
+    "Blumenau": 36,
     "Navegantes": 31,
     "Itajai": 30
   },
-  "total_geral": 325
+  "total_geral": 327
 }
