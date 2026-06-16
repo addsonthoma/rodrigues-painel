@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-06-16T09:14:59-03:00",
+  "timestamp": "2026-06-16T09:24:53-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 644,
+      "ultimo_numero": 645,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T09:14:59-03:00"
+      "ultima_verificacao": "2026-06-16T09:24:53-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 23,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T09:14:59-03:00"
+      "ultima_verificacao": "2026-06-16T09:24:53-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 51,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T09:14:59-03:00"
+      "ultima_verificacao": "2026-06-16T09:24:53-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 449,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T09:14:59-03:00"
+      "ultima_verificacao": "2026-06-16T09:24:53-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 322,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T09:14:59-03:00"
+      "ultima_verificacao": "2026-06-16T09:24:53-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 345,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T09:14:59-03:00"
+      "ultima_verificacao": "2026-06-16T09:24:53-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 766,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T09:14:59-03:00"
+      "ultima_verificacao": "2026-06-16T09:24:53-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 746,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T09:14:59-03:00"
+      "ultima_verificacao": "2026-06-16T09:24:53-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 235,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T09:14:59-03:00"
+      "ultima_verificacao": "2026-06-16T09:24:53-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 781,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T09:14:59-03:00"
+      "ultima_verificacao": "2026-06-16T09:24:53-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000645A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004494A",
+        "Nome_Edificacao": "VELAMINHO CONFECÇÕES LTDA",
+        "Logradouro": "Rua Jardim Centenário",
+        "Numero": "",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-16T09:24:53-03:00"
+      },
       {
         "CodigoAuto": "AF8055000644A/26",
         "Tipo": "AF",
@@ -3561,7 +3572,7 @@
     ]
   },
   "totais": {
-    "Brusque": 34,
+    "Brusque": 35,
     "Botuvera": 23,
     "Guabiruba": 31,
     "Gaspar": 35,
@@ -3572,5 +3583,5 @@
     "Navegantes": 31,
     "Itajai": 30
   },
-  "total_geral": 316
+  "total_geral": 317
 }
