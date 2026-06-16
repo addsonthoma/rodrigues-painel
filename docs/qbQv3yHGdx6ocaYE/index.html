@@ -603,5 +603,64 @@ function pauseManual(){
 scrollArea.addEventListener("wheel", pauseManual);
 scrollArea.addEventListener("touchstart", pauseManual);
 </script>
+
+<!-- ===== LOGIN (acesso independente; trava cada vendedor na sua visão) ===== -->
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
+<style>
+  #leads-login{position:fixed;inset:0;z-index:99999;background:#0d0d10;display:none;flex-direction:column;align-items:center;justify-content:center;gap:12px;font-family:-apple-system,Segoe UI,Roboto,sans-serif;padding:20px}
+  #leads-login img{height:58px;margin-bottom:4px}
+  #leads-login h2{color:#f5f5f7;font-weight:300;letter-spacing:1px;font-size:22px;margin:0}
+  #leads-login p{color:#8a8a95;font-size:12px;text-transform:uppercase;letter-spacing:2px;margin:0 0 8px}
+  #leads-login input{width:min(300px,90vw);padding:11px 13px;border-radius:9px;border:1px solid #34343f;background:#15151a;color:#f5f5f7;font-size:15px}
+  #leads-login input:focus{outline:2px solid #e8334a;border-color:transparent}
+  #leads-login button{width:min(300px,90vw);padding:11px;border:0;border-radius:9px;background:#e8334a;color:#fff;font-size:15px;font-weight:600;cursor:pointer}
+  #leads-login button:hover{background:#ff5566}
+  #ll-erro{color:#e8334a;font-size:13px;min-height:16px}
+  body.lead-locked #vendedores{display:none}
+</style>
+<div id="leads-login">
+  <img src="logo.png" alt="" onerror="this.style.display='none'">
+  <h2>Painel de Leads</h2>
+  <p>Rodrigues Preventivos · acesso restrito</p>
+  <input id="ll-email" type="email" placeholder="E-mail" autocomplete="username">
+  <input id="ll-senha" type="password" placeholder="Senha" autocomplete="current-password">
+  <button id="ll-entrar">Entrar</button>
+  <div id="ll-erro"></div>
+</div>
+<script>
+(function(){
+  // Embutido no portal (iframe) -> sem login: o portal já autentica o admin.
+  if (window.self !== window.top) return;
+  var sb = supabase.createClient(
+    "https://ziiybllegtdnqwqfaifp.supabase.co",
+    "sb_publishable_9yA9b668Pq0Yv9pMOv1dPQ_ZCPDte7m");
+  var ov = document.getElementById('leads-login');
+  ov.style.display = 'flex';   // cobre a tela até resolver a sessão (sem "piscar" leads)
+  async function aplicar(user){
+    try{
+      var r = await sb.from('perfis').select('papel,vendedor').eq('id', user.id).single();
+      var p = r.data || {};
+      if (p.papel !== 'admin' && p.vendedor && typeof setVendedor === 'function'){
+        setVendedor(p.vendedor);                 // trava no vendedor do usuário
+        document.body.classList.add('lead-locked'); // esconde a barra de troca de vendedor
+      }
+    }catch(e){}
+    ov.style.display = 'none';
+  }
+  sb.auth.getSession().then(function(res){
+    if (res.data.session) aplicar(res.data.session.user);
+    // senão: deixa o overlay de login aberto
+  });
+  document.getElementById('ll-entrar').onclick = async function(){
+    var er = document.getElementById('ll-erro'); er.textContent = '';
+    var r = await sb.auth.signInWithPassword({
+      email: document.getElementById('ll-email').value.trim(),
+      password: document.getElementById('ll-senha').value });
+    if (r.error){ er.textContent = (r.error.message === 'Invalid login credentials') ? 'E-mail ou senha incorretos.' : r.error.message; return; }
+    aplicar(r.data.user);
+  };
+  document.getElementById('ll-senha').addEventListener('keydown', function(e){ if(e.key==='Enter') document.getElementById('ll-entrar').click(); });
+})();
+</script>
 </body>
 </html>
