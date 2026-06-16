@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-16T13:14:48-03:00",
+  "timestamp": "2026-06-16T13:24:51-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 648,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T13:14:48-03:00"
+      "ultima_verificacao": "2026-06-16T13:24:51-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 23,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T13:14:48-03:00"
+      "ultima_verificacao": "2026-06-16T13:24:51-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 51,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T13:14:48-03:00"
+      "ultima_verificacao": "2026-06-16T13:24:51-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 449,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T13:14:48-03:00"
+      "ultima_verificacao": "2026-06-16T13:24:51-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 329,
+      "ultimo_numero": 330,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T13:14:48-03:00"
+      "ultima_verificacao": "2026-06-16T13:24:51-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 345,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T13:14:48-03:00"
+      "ultima_verificacao": "2026-06-16T13:24:51-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 766,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T13:14:48-03:00"
+      "ultima_verificacao": "2026-06-16T13:24:51-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 749,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T13:14:48-03:00"
+      "ultima_verificacao": "2026-06-16T13:24:51-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 235,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T13:14:48-03:00"
+      "ultima_verificacao": "2026-06-16T13:24:51-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 781,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T13:14:48-03:00"
+      "ultima_verificacao": "2026-06-16T13:24:51-03:00"
     }
   },
   "afs": {
@@ -1469,6 +1469,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000330A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002508A",
+        "Nome_Edificacao": "CFF NEGÓCIOS IMOB.",
+        "Logradouro": "Jose Alexandre Rocha",
+        "Numero": "123",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-16T13:24:51-03:00"
+      },
       {
         "CodigoAuto": "AF8265000329A/26",
         "Tipo": "AF",
@@ -3719,12 +3730,12 @@
     "Botuvera": 23,
     "Guabiruba": 31,
     "Gaspar": 35,
-    "Porto Belo": 38,
+    "Porto Belo": 39,
     "Nova Trento": 35,
     "Itapema": 33,
     "Blumenau": 36,
     "Navegantes": 31,
     "Itajai": 30
   },
-  "total_geral": 330
+  "total_geral": 331
 }
