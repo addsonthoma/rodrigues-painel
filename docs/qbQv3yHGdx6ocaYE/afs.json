@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-16T16:24:50-03:00",
+  "timestamp": "2026-06-16T16:34:47-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 648,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T16:24:50-03:00"
+      "ultima_verificacao": "2026-06-16T16:34:47-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 23,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T16:24:50-03:00"
+      "ultima_verificacao": "2026-06-16T16:34:47-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 51,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T16:24:50-03:00"
+      "ultima_verificacao": "2026-06-16T16:34:47-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 449,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T16:24:50-03:00"
+      "ultima_verificacao": "2026-06-16T16:34:47-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 333,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T16:24:50-03:00"
+      "ultima_verificacao": "2026-06-16T16:34:47-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 345,
+      "ultimo_numero": 346,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T16:24:50-03:00"
+      "ultima_verificacao": "2026-06-16T16:34:47-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 766,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T16:24:50-03:00"
+      "ultima_verificacao": "2026-06-16T16:34:47-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 751,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T16:24:50-03:00"
+      "ultima_verificacao": "2026-06-16T16:34:47-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 236,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T16:24:50-03:00"
+      "ultima_verificacao": "2026-06-16T16:34:47-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 781,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-16T16:24:50-03:00"
+      "ultima_verificacao": "2026-06-16T16:34:47-03:00"
     }
   },
   "afs": {
@@ -1934,6 +1934,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000346A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000753A",
+        "Nome_Edificacao": "ROBSON GIACOMELLI",
+        "Logradouro": "Rua Mário Ruberti",
+        "Numero": "175",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-16T16:34:47-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000345A/26",
         "Tipo": "AF",
         "RE": "RE8225000578A",
@@ -3797,11 +3808,11 @@
     "Guabiruba": 31,
     "Gaspar": 35,
     "Porto Belo": 42,
-    "Nova Trento": 35,
+    "Nova Trento": 36,
     "Itapema": 33,
     "Blumenau": 38,
     "Navegantes": 32,
     "Itajai": 30
   },
-  "total_geral": 337
+  "total_geral": 338
 }
