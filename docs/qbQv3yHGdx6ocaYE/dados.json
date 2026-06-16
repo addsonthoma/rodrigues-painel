@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-06-16T16:04:30-03:00",
+  "timestamp": "2026-06-16T16:14:33-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 62,
+      "ultimo_numero": 63,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-16T16:04:30-03:00"
+      "ultima_verificacao": "2026-06-16T16:14:33-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-16T16:04:30-03:00"
+      "ultima_verificacao": "2026-06-16T16:14:33-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-16T16:04:30-03:00"
+      "ultima_verificacao": "2026-06-16T16:14:33-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 41,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-16T16:04:30-03:00"
+      "ultima_verificacao": "2026-06-16T16:14:33-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 78,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-16T16:04:30-03:00"
+      "ultima_verificacao": "2026-06-16T16:14:33-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 103,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-16T16:04:30-03:00"
+      "ultima_verificacao": "2026-06-16T16:14:33-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 138,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-16T16:04:30-03:00"
+      "ultima_verificacao": "2026-06-16T16:14:33-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 161,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-16T16:04:30-03:00"
+      "ultima_verificacao": "2026-06-16T16:14:33-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 52,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-16T16:04:30-03:00"
+      "ultima_verificacao": "2026-06-16T16:14:33-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 290,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-16T16:04:30-03:00"
+      "ultima_verificacao": "2026-06-16T16:14:33-03:00"
     }
   },
   "multas": {
@@ -380,6 +380,16 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000063A/26",
+        "RE": "RE8055002459A",
+        "Nome_Edificacao": "MICHEL URBANO COMERCIO E PREPRESENTAÇÕES LTDA",
+        "Logradouro": "AV PRIMEIRO DE MAIO",
+        "Numero": "707",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-16T16:14:33-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000061A/26",
         "RE": "RE8055002119A",
@@ -1604,7 +1614,7 @@
   "totais": {
     "Blumenau": 29,
     "Botuvera": 3,
-    "Brusque": 17,
+    "Brusque": 18,
     "Gaspar": 17,
     "Guabiruba": 3,
     "Itajai": 18,
@@ -1613,8 +1623,15 @@
     "Nova Trento": 20,
     "Porto Belo": 21
   },
-  "total_geral": 164,
+  "total_geral": 165,
   "eventos_recentes": [
+    {
+      "ts": "2026-06-16T16:14:33-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000063A/26",
+      "nome": "MICHEL URBANO COMERCIO E PREPRESENTAÇÕES LTDA",
+      "re": "RE8055002459A"
+    },
     {
       "ts": "2026-06-16T16:04:30-03:00",
       "cidade": "Brusque",
