@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-17T13:09:34-03:00",
+  "timestamp": "2026-06-17T13:19:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 654,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 450,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 339,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 776,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 760,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 238,
+      "ultimo_numero": 239,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 782,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
     }
   },
   "afs": {
@@ -3502,6 +3502,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000239A/26",
+        "Tipo": "AF",
+        "RE": "RE8221003727A",
+        "Nome_Edificacao": "SANTIAGO COMERCIO LTDA",
+        "Logradouro": "R VEREADOR THIMOTEO DE GOES REBELO",
+        "Numero": "842",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-17T13:19:34-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000238A/26",
         "Tipo": "AF",
         "RE": "RE8221000315A",
@@ -4229,8 +4240,8 @@
     "Nova Trento": 37,
     "Itapema": 43,
     "Blumenau": 47,
-    "Navegantes": 34,
+    "Navegantes": 35,
     "Itajai": 31
   },
-  "total_geral": 376
+  "total_geral": 377
 }
