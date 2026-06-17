@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-17T12:39:34-03:00",
+  "timestamp": "2026-06-17T12:49:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 653,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
+      "ultima_verificacao": "2026-06-17T12:49:34-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
+      "ultima_verificacao": "2026-06-17T12:49:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
-      "ultimo_numero": 51,
+      "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
+      "ultima_verificacao": "2026-06-17T12:49:34-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 450,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
+      "ultima_verificacao": "2026-06-17T12:49:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 337,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
+      "ultima_verificacao": "2026-06-17T12:49:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
+      "ultima_verificacao": "2026-06-17T12:49:34-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 776,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
+      "ultima_verificacao": "2026-06-17T12:49:34-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 757,
+      "ultimo_numero": 758,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
+      "ultima_verificacao": "2026-06-17T12:49:34-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 238,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
+      "ultima_verificacao": "2026-06-17T12:49:34-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 782,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
+      "ultima_verificacao": "2026-06-17T12:49:34-03:00"
     }
   },
   "afs": {
@@ -805,6 +805,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoAuto": "AF8123000052A/26",
+        "Tipo": "AF",
+        "RE": "RE8123000191A",
+        "Nome_Edificacao": "TECELAGEM MARTINS LTDA- MATRIZ",
+        "Logradouro": "Rua Vereador Silvério Régis",
+        "Numero": "517",
+        "Bairro": "GUABIRUBA - LAJEADO BAIXO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-06-17T12:49:34-03:00"
+      },
       {
         "CodigoAuto": "AF8123000051A/26",
         "Tipo": "AF",
@@ -2939,6 +2950,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000758A/26",
+        "Tipo": "AF",
+        "RE": "RE8047004041A",
+        "Nome_Edificacao": "MARCENARIA WISCHRAL",
+        "Logradouro": "Rua Oswaldo Simon",
+        "Numero": "272",
+        "Bairro": "BLUMENAU - VELHA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-17T12:49:34-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000757A/26",
         "Tipo": "AF",
         "RE": "RE8047010753A",
@@ -4146,14 +4168,14 @@
   "totais": {
     "Brusque": 43,
     "Botuvera": 24,
-    "Guabiruba": 31,
+    "Guabiruba": 32,
     "Gaspar": 36,
     "Porto Belo": 46,
     "Nova Trento": 37,
     "Itapema": 43,
-    "Blumenau": 44,
+    "Blumenau": 45,
     "Navegantes": 34,
     "Itajai": 31
   },
-  "total_geral": 369
+  "total_geral": 371
 }
