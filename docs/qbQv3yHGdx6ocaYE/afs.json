@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-17T17:09:35-03:00",
+  "timestamp": "2026-06-17T17:19:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 660,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T17:09:35-03:00"
+      "ultima_verificacao": "2026-06-17T17:19:34-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T17:09:35-03:00"
+      "ultima_verificacao": "2026-06-17T17:19:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T17:09:35-03:00"
+      "ultima_verificacao": "2026-06-17T17:19:34-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T17:09:35-03:00"
+      "ultima_verificacao": "2026-06-17T17:19:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 342,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T17:09:35-03:00"
+      "ultima_verificacao": "2026-06-17T17:19:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T17:09:35-03:00"
+      "ultima_verificacao": "2026-06-17T17:19:34-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 781,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T17:09:35-03:00"
+      "ultima_verificacao": "2026-06-17T17:19:34-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 768,
+      "ultimo_numero": 769,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T17:09:35-03:00"
+      "ultima_verificacao": "2026-06-17T17:19:34-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T17:09:35-03:00"
+      "ultima_verificacao": "2026-06-17T17:19:34-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 785,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T17:09:35-03:00"
+      "ultima_verificacao": "2026-06-17T17:19:34-03:00"
     }
   },
   "afs": {
@@ -3159,6 +3159,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000769A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005132A",
+        "Nome_Edificacao": "ALEXANDRO LUIZ SOO KIM",
+        "Logradouro": "RUA BRUNO MORDHORST",
+        "Numero": "118",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-17T17:19:34-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000768A/26",
         "Tipo": "AF",
         "RE": "RE8047011202A",
@@ -4547,9 +4558,9 @@
     "Porto Belo": 51,
     "Nova Trento": 37,
     "Itapema": 48,
-    "Blumenau": 55,
+    "Blumenau": 56,
     "Navegantes": 36,
     "Itajai": 34
   },
-  "total_geral": 405
+  "total_geral": 406
 }
