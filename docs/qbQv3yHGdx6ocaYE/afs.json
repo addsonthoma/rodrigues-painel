@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-06-17T12:29:36-03:00",
+  "timestamp": "2026-06-17T12:39:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 652,
+      "ultimo_numero": 653,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:29:36-03:00"
+      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:29:36-03:00"
+      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 51,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:29:36-03:00"
+      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 450,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:29:36-03:00"
+      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 337,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:29:36-03:00"
+      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:29:36-03:00"
+      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 776,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:29:36-03:00"
+      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 757,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:29:36-03:00"
+      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 238,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:29:36-03:00"
+      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 782,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T12:29:36-03:00"
+      "ultima_verificacao": "2026-06-17T12:39:34-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000653A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000619A",
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL WONDERFULL",
+        "Logradouro": "Rua Júlio Orthmann",
+        "Numero": "25",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-17T12:39:34-03:00"
+      },
       {
         "CodigoAuto": "AF8055000652A/26",
         "Tipo": "AF",
@@ -4133,7 +4144,7 @@
     ]
   },
   "totais": {
-    "Brusque": 42,
+    "Brusque": 43,
     "Botuvera": 24,
     "Guabiruba": 31,
     "Gaspar": 36,
@@ -4144,5 +4155,5 @@
     "Navegantes": 34,
     "Itajai": 31
   },
-  "total_geral": 368
+  "total_geral": 369
 }
