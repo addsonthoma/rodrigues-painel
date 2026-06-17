@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-17T10:09:34-03:00",
+  "timestamp": "2026-06-17T10:19:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 650,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T10:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T10:19:34-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 23,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T10:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T10:19:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 51,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T10:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T10:19:34-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 449,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T10:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T10:19:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 335,
+      "ultimo_numero": 337,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T10:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T10:19:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 346,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T10:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T10:19:34-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 771,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T10:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T10:19:34-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 756,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T10:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T10:19:34-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 238,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T10:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T10:19:34-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 782,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T10:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T10:19:34-03:00"
     }
   },
   "afs": {
@@ -1491,6 +1491,28 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000337A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000993A",
+        "Nome_Edificacao": "RENOVO CLINICA TERAPEUTICA",
+        "Logradouro": "AVENIDA GOVERNADOR CELSO RAMOS",
+        "Numero": "30",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-17T10:19:34-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000336A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002520A",
+        "Nome_Edificacao": "RENATO BERNY",
+        "Logradouro": "Avenidade Gorvernador Celso Ramos",
+        "Numero": "3300",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-17T10:19:34-03:00"
+      },
       {
         "CodigoAuto": "AF8265000335A/26",
         "Tipo": "AF",
@@ -3994,12 +4016,12 @@
     "Botuvera": 23,
     "Guabiruba": 31,
     "Gaspar": 35,
-    "Porto Belo": 44,
+    "Porto Belo": 46,
     "Nova Trento": 36,
     "Itapema": 38,
     "Blumenau": 43,
     "Navegantes": 34,
     "Itajai": 31
   },
-  "total_geral": 355
+  "total_geral": 357
 }
