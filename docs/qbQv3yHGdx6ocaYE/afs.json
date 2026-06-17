@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-17T14:29:34-03:00",
+  "timestamp": "2026-06-17T14:39:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 657,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T14:29:34-03:00"
+      "ultima_verificacao": "2026-06-17T14:39:34-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T14:29:34-03:00"
+      "ultima_verificacao": "2026-06-17T14:39:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T14:29:34-03:00"
+      "ultima_verificacao": "2026-06-17T14:39:34-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 450,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T14:29:34-03:00"
+      "ultima_verificacao": "2026-06-17T14:39:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 341,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T14:29:34-03:00"
+      "ultima_verificacao": "2026-06-17T14:39:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T14:29:34-03:00"
+      "ultima_verificacao": "2026-06-17T14:39:34-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 776,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T14:29:34-03:00"
+      "ultima_verificacao": "2026-06-17T14:39:34-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 763,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T14:29:34-03:00"
+      "ultima_verificacao": "2026-06-17T14:39:34-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 239,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T14:29:34-03:00"
+      "ultima_verificacao": "2026-06-17T14:39:34-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 783,
+      "ultimo_numero": 784,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T14:29:34-03:00"
+      "ultima_verificacao": "2026-06-17T14:39:34-03:00"
     }
   },
   "afs": {
@@ -3977,6 +3977,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000784A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002613A",
+        "Nome_Edificacao": "NELSON RODE",
+        "Logradouro": "Rua Treze de Maio",
+        "Numero": "147",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-17T14:39:34-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000783A/26",
         "Tipo": "AF",
         "RE": "RE8161000077A",
@@ -4340,7 +4351,7 @@
     "Itapema": 43,
     "Blumenau": 50,
     "Navegantes": 35,
-    "Itajai": 32
+    "Itajai": 33
   },
-  "total_geral": 386
+  "total_geral": 387
 }
