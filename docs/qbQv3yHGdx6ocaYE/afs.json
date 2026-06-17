@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-17T15:49:34-03:00",
+  "timestamp": "2026-06-17T15:59:35-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 659,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T15:49:34-03:00"
+      "ultima_verificacao": "2026-06-17T15:59:35-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T15:49:34-03:00"
+      "ultima_verificacao": "2026-06-17T15:59:35-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T15:49:34-03:00"
+      "ultima_verificacao": "2026-06-17T15:59:35-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 450,
+      "ultimo_numero": 451,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T15:49:34-03:00"
+      "ultima_verificacao": "2026-06-17T15:59:35-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 341,
+      "ultimo_numero": 342,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T15:49:34-03:00"
+      "ultima_verificacao": "2026-06-17T15:59:35-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T15:49:34-03:00"
+      "ultima_verificacao": "2026-06-17T15:59:35-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 776,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T15:49:34-03:00"
+      "ultima_verificacao": "2026-06-17T15:59:35-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 767,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T15:49:34-03:00"
+      "ultima_verificacao": "2026-06-17T15:59:35-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T15:49:34-03:00"
+      "ultima_verificacao": "2026-06-17T15:59:35-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 784,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T15:49:34-03:00"
+      "ultima_verificacao": "2026-06-17T15:59:35-03:00"
     }
   },
   "afs": {
@@ -1226,6 +1226,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000451A/26",
+        "Tipo": "AF",
+        "RE": "RE8117003226A",
+        "Nome_Edificacao": "JOÃO PAULO FONSECA TONELLO",
+        "Logradouro": "R FREI SOLANO",
+        "Numero": "5185",
+        "Bairro": "GASPAR - GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-17T15:59:35-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000450A/26",
         "Tipo": "AF",
         "RE": "RE8117001733A",
@@ -1623,6 +1634,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000342A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000169A",
+        "Nome_Edificacao": "PORTO SANTO RESIDENCE",
+        "Logradouro": "RUA NEUSA SILVA MIGLIORINI",
+        "Numero": "70",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-17T15:59:35-03:00"
+      },
       {
         "CodigoAuto": "AF8265000341A/26",
         "Tipo": "AF",
@@ -4422,13 +4444,13 @@
     "Brusque": 49,
     "Botuvera": 24,
     "Guabiruba": 32,
-    "Gaspar": 36,
-    "Porto Belo": 50,
+    "Gaspar": 37,
+    "Porto Belo": 51,
     "Nova Trento": 37,
     "Itapema": 43,
     "Blumenau": 54,
     "Navegantes": 36,
     "Itajai": 33
   },
-  "total_geral": 394
+  "total_geral": 396
 }
