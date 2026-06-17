@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-17T16:09:34-03:00",
+  "timestamp": "2026-06-17T16:19:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 659,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T16:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T16:19:34-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T16:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T16:19:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T16:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T16:19:34-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 451,
+      "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T16:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T16:19:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 342,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T16:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T16:19:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T16:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T16:19:34-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 776,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T16:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T16:19:34-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 767,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T16:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T16:19:34-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T16:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T16:19:34-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 784,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T16:09:34-03:00"
+      "ultima_verificacao": "2026-06-17T16:19:34-03:00"
     }
   },
   "afs": {
@@ -1225,6 +1225,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000452A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001928A",
+        "Nome_Edificacao": "CENTRO DE EDUCAÇÃO INFANTIL PIPOQUINHA",
+        "Logradouro": "R FREI SOLANO",
+        "Numero": "1290",
+        "Bairro": "GASPAR - GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-17T16:19:34-03:00"
+      },
       {
         "CodigoAuto": "AF8117000451A/26",
         "Tipo": "AF",
@@ -4444,7 +4455,7 @@
     "Brusque": 49,
     "Botuvera": 24,
     "Guabiruba": 32,
-    "Gaspar": 37,
+    "Gaspar": 38,
     "Porto Belo": 51,
     "Nova Trento": 37,
     "Itapema": 43,
@@ -4452,5 +4463,5 @@
     "Navegantes": 36,
     "Itajai": 33
   },
-  "total_geral": 396
+  "total_geral": 397
 }
