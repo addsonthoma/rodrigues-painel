@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-06-17T13:19:34-03:00",
+  "timestamp": "2026-06-17T13:29:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 654,
+      "ultimo_numero": 655,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:29:34-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:29:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:29:34-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 450,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:29:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 339,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:29:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:29:34-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 776,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:29:34-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 760,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:29:34-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 239,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:29:34-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 782,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T13:19:34-03:00"
+      "ultima_verificacao": "2026-06-17T13:29:34-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000655A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000029A",
+        "Nome_Edificacao": "Seminário Filosófico São Francisco Xavier",
+        "Logradouro": "Rua Atílio Battistoti",
+        "Numero": "11",
+        "Bairro": "BRUSQUE - AZAMBUJA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-17T13:29:34-03:00"
+      },
       {
         "CodigoAuto": "AF8055000654A/26",
         "Tipo": "AF",
@@ -4232,7 +4243,7 @@
     ]
   },
   "totais": {
-    "Brusque": 44,
+    "Brusque": 45,
     "Botuvera": 24,
     "Guabiruba": 32,
     "Gaspar": 36,
@@ -4243,5 +4254,5 @@
     "Navegantes": 35,
     "Itajai": 31
   },
-  "total_geral": 377
+  "total_geral": 378
 }
