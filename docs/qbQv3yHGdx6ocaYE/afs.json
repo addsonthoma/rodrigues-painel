@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-17T21:04:45-03:00",
+  "timestamp": "2026-06-18T08:00:06-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 660,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T21:04:45-03:00"
+      "ultima_verificacao": "2026-06-18T08:00:06-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T21:04:45-03:00"
+      "ultima_verificacao": "2026-06-18T08:00:06-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T21:04:45-03:00"
+      "ultima_verificacao": "2026-06-18T08:00:06-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T21:04:45-03:00"
+      "ultima_verificacao": "2026-06-18T08:00:06-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 342,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T21:04:45-03:00"
+      "ultima_verificacao": "2026-06-18T08:00:06-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T21:04:45-03:00"
+      "ultima_verificacao": "2026-06-18T08:00:06-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 782,
+      "ultimo_numero": 784,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T21:04:45-03:00"
+      "ultima_verificacao": "2026-06-18T08:00:06-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 770,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T21:04:45-03:00"
+      "ultima_verificacao": "2026-06-18T08:00:06-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T21:04:45-03:00"
+      "ultima_verificacao": "2026-06-18T08:00:06-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 785,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-17T21:04:45-03:00"
+      "ultima_verificacao": "2026-06-18T08:00:06-03:00"
     }
   },
   "afs": {
@@ -2629,6 +2629,28 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163000784A/26",
+        "Tipo": "AF",
+        "RE": "RE8163005939A",
+        "Nome_Edificacao": "Marilene Rossoni",
+        "Logradouro": "RUA 902 E",
+        "Numero": "401",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T08:00:06-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000783A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003012A",
+        "Nome_Edificacao": "VIVÁ GOLDEN RESIDENCE",
+        "Logradouro": "Rua 234",
+        "Numero": "386",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T08:00:06-03:00"
+      },
+      {
         "CodigoAuto": "AF8163000782A/26",
         "Tipo": "AF",
         "RE": "RE8163000297A",
@@ -4579,10 +4601,10 @@
     "Gaspar": 38,
     "Porto Belo": 51,
     "Nova Trento": 37,
-    "Itapema": 49,
+    "Itapema": 51,
     "Blumenau": 57,
     "Navegantes": 36,
     "Itajai": 34
   },
-  "total_geral": 408
+  "total_geral": 410
 }
