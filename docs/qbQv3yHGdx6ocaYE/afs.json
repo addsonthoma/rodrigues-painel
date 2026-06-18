@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-18T13:50:03-03:00",
+  "timestamp": "2026-06-18T14:00:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 669,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:00:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:00:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:00:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:00:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 357,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:00:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 348,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:00:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 790,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:00:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 774,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:00:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:00:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 795,
+      "ultimo_numero": 798,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:00:03-03:00"
     }
   },
   "afs": {
@@ -4604,6 +4604,39 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000798A/26",
+        "Tipo": "AF",
+        "RE": "RE8161001753A",
+        "Nome_Edificacao": "DERCILIO MAFRA",
+        "Logradouro": "Rua Agílio Cunha",
+        "Numero": "1265",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T14:00:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000797A/26",
+        "Tipo": "AF",
+        "RE": "RE8161000003A",
+        "Nome_Edificacao": "RESIDENCIAL CHATEAU VERSAILLES",
+        "Logradouro": "Rua Lages",
+        "Numero": "89",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T14:00:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000796A/26",
+        "Tipo": "AF",
+        "RE": "RE8161000135A",
+        "Nome_Edificacao": "Ravenna Residence",
+        "Logradouro": "RUA JOÃO ANGELINO LOPES JUNIOR",
+        "Numero": "75",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T14:00:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000795A/26",
         "Tipo": "AF",
         "RE": "RE8161008222A",
@@ -5099,7 +5132,7 @@
     "Itapema": 57,
     "Blumenau": 61,
     "Navegantes": 36,
-    "Itajai": 44
+    "Itajai": 47
   },
-  "total_geral": 455
+  "total_geral": 458
 }
