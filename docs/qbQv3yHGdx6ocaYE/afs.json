@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-18T09:50:05-03:00",
+  "timestamp": "2026-06-18T10:00:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 662,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:50:05-03:00"
+      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:50:05-03:00"
+      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:50:05-03:00"
+      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:50:05-03:00"
+      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 345,
+      "ultimo_numero": 346,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:50:05-03:00"
+      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:50:05-03:00"
+      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 784,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:50:05-03:00"
+      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 771,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:50:05-03:00"
+      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:50:05-03:00"
+      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 786,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:50:05-03:00"
+      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
     }
   },
   "afs": {
@@ -1678,6 +1678,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000346A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000028A",
+        "Nome_Edificacao": "Residencial Villa Porto Belo",
+        "Logradouro": "RUA PROFESSORA GUILHERMINA MOREIRA DA SILVA",
+        "Numero": "40",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-18T10:00:03-03:00"
+      },
       {
         "CodigoAuto": "AF8265000345A/26",
         "Tipo": "AF",
@@ -4676,12 +4687,12 @@
     "Botuvera": 24,
     "Guabiruba": 32,
     "Gaspar": 38,
-    "Porto Belo": 54,
+    "Porto Belo": 55,
     "Nova Trento": 37,
     "Itapema": 51,
     "Blumenau": 58,
     "Navegantes": 36,
     "Itajai": 35
   },
-  "total_geral": 417
+  "total_geral": 418
 }
