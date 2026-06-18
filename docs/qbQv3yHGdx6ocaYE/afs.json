@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-18T15:00:03-03:00",
+  "timestamp": "2026-06-18T15:10:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 669,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 453,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 357,
+      "ultimo_numero": 358,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 349,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 793,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 774,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 809,
+      "ultimo_numero": 812,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
     }
   },
   "afs": {
@@ -1766,6 +1766,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000358A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001078A",
+        "Nome_Edificacao": "RESIDENCIAL SALOU",
+        "Logradouro": "RUA WILSON BELBER",
+        "Numero": "118",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-18T15:10:03-03:00"
+      },
       {
         "CodigoAuto": "AF8265000357A/26",
         "Tipo": "AF",
@@ -4659,6 +4670,39 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000812A/26",
+        "Tipo": "AF",
+        "RE": "RE8161008653A",
+        "Nome_Edificacao": "ESPOLIO DE JOSE GERCY PEREIRA",
+        "Logradouro": "rua blumenau",
+        "Numero": "455",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T15:10:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000811A/26",
+        "Tipo": "AF",
+        "RE": "RE8161012373A",
+        "Nome_Edificacao": "RENATO BARBOSA",
+        "Logradouro": "Rua Heitor Liberato",
+        "Numero": "765",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T15:10:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000810A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002805A",
+        "Nome_Edificacao": "PACHECO AUTOMOVEIS COMERCIO ESTACIONAMENTO E INTERMEDIACOES DE NOGOCIOS LTDA",
+        "Logradouro": "AV IRINEU BORNHAUSEN",
+        "Numero": "939",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T15:10:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000809A/26",
         "Tipo": "AF",
         "RE": "RE8161008274A",
@@ -5303,12 +5347,12 @@
     "Botuvera": 24,
     "Guabiruba": 32,
     "Gaspar": 39,
-    "Porto Belo": 66,
+    "Porto Belo": 67,
     "Nova Trento": 39,
     "Itapema": 60,
     "Blumenau": 61,
     "Navegantes": 36,
-    "Itajai": 58
+    "Itajai": 61
   },
-  "total_geral": 474
+  "total_geral": 478
 }
