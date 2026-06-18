@@ -1,10 +1,515 @@
 {
-  "timestamp": "2026-06-18T15:10:03-03:00",
-  "cidades": {},
-  "multas": {},
-  "totais": {},
-  "total_geral": 0,
+  "timestamp": "2026-06-18T17:43:13-03:00",
+  "cidades": {
+    "Brusque": {
+      "prefixo": "MUL8055",
+      "ultimo_numero": 74,
+      "ano_corrente": 26,
+      "formato": "MUL8055NNNNNNA/AA",
+      "ultima_verificacao": "2026-06-18T17:43:13-03:00"
+    },
+    "Botuvera": {
+      "prefixo": "MUL8051",
+      "ultimo_numero": 3,
+      "ano_corrente": 26,
+      "formato": "MUL8051NNNNNNA/AA",
+      "ultima_verificacao": "2026-06-18T17:43:13-03:00"
+    },
+    "Guabiruba": {
+      "prefixo": "MUL8123",
+      "ultimo_numero": 3,
+      "ano_corrente": 26,
+      "formato": "MUL8123NNNNNNA/AA",
+      "ultima_verificacao": "2026-06-18T17:43:13-03:00"
+    },
+    "Gaspar": {
+      "prefixo": "MUL8117",
+      "ultimo_numero": 41,
+      "ano_corrente": 26,
+      "formato": "MUL8117NNNNNNA/AA",
+      "ultima_verificacao": "2026-06-18T17:43:13-03:00"
+    },
+    "Porto Belo": {
+      "prefixo": "MUL8265",
+      "ultimo_numero": 78,
+      "ano_corrente": 26,
+      "formato": "MUL8265NNNNNNA/AA",
+      "ultima_verificacao": "2026-06-18T17:43:13-03:00"
+    },
+    "Nova Trento": {
+      "prefixo": "MUL8225",
+      "ultimo_numero": 103,
+      "ano_corrente": 26,
+      "formato": "MUL8225NNNNNNA/AA",
+      "ultima_verificacao": "2026-06-18T17:43:13-03:00"
+    },
+    "Itapema": {
+      "prefixo": "MUL8163",
+      "ultimo_numero": 138,
+      "ano_corrente": 26,
+      "formato": "MUL8163NNNNNNA/AA",
+      "ultima_verificacao": "2026-06-18T17:43:13-03:00"
+    },
+    "Blumenau": {
+      "prefixo": "MUL8047",
+      "ultimo_numero": 164,
+      "ano_corrente": 26,
+      "formato": "MUL8047NNNNNNA/AA",
+      "ultima_verificacao": "2026-06-18T17:43:13-03:00"
+    },
+    "Navegantes": {
+      "prefixo": "MUL8221",
+      "ultimo_numero": 53,
+      "ano_corrente": 26,
+      "formato": "MUL8221NNNNNNA/AA",
+      "ultima_verificacao": "2026-06-18T17:43:13-03:00"
+    },
+    "Itajai": {
+      "prefixo": "MUL8161",
+      "ultimo_numero": 300,
+      "ano_corrente": 26,
+      "formato": "MUL8161NNNNNNA/AA",
+      "ultima_verificacao": "2026-06-18T17:43:13-03:00"
+    }
+  },
+  "multas": {
+    "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000065A/26",
+        "RE": "RE8055005859A",
+        "Nome_Edificacao": "Deisy Gums Schulenburg",
+        "Logradouro": "Avenida Dom Joaquim",
+        "Numero": "496",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000066A/26",
+        "RE": "RE8055006479A",
+        "Nome_Edificacao": "NOVIZZA EMPREENDIMENTOS IMOBILIARIOS LTDA",
+        "Logradouro": "Rua São Pedro",
+        "Numero": "2058",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000067A/26",
+        "RE": "RE8055001195A",
+        "Nome_Edificacao": "KANTO INTIMO IND. E COM. DE CONF. LTDA",
+        "Logradouro": "Rua José Noldin",
+        "Numero": "",
+        "Bairro": "BRUSQUE - LIMEIRA ALTA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000068A/26",
+        "RE": "RE8055005555A",
+        "Nome_Edificacao": "GALPÃO COMERCIAL E RESIDENCIAL MULTIFAMILIAR",
+        "Logradouro": "Rua Andreas Petermann",
+        "Numero": "12",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000069A/26",
+        "RE": "RE8055006057A",
+        "Nome_Edificacao": "CARDEAL REVESTIMENTO E ACABAMENTO LTDA",
+        "Logradouro": "R FLORIANOPOLIS",
+        "Numero": "630",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000070A/26",
+        "RE": "RE8055003441A",
+        "Nome_Edificacao": "Sociedade Angelina",
+        "Logradouro": "R SAO PEDRO",
+        "Numero": "",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000071A/26",
+        "RE": "RE8055000236A",
+        "Nome_Edificacao": "Malharia LC Ltda",
+        "Logradouro": "Rua Maximiliano Furbringer",
+        "Numero": "221",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000072A/26",
+        "RE": "RE8055004776A",
+        "Nome_Edificacao": "FACILEMI CONFECÇÕES",
+        "Logradouro": "Rua Azambuja",
+        "Numero": "43",
+        "Bairro": "BRUSQUE - AZAMBUJA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000073A/26",
+        "RE": "RE8055004313A",
+        "Nome_Edificacao": "JACARANDÁ MOVEIS E ESQUADRIAS",
+        "Logradouro": "Rua Benjamim Beber",
+        "Numero": "950",
+        "Bairro": "BRUSQUE - NOVA BRASÍLIA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000074A/26",
+        "RE": "RE8055005879A",
+        "Nome_Edificacao": "SALA",
+        "Logradouro": "7 SETEMBRO",
+        "Numero": "315",
+        "Bairro": "BRUSQUE - SANTA RITA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      }
+    ],
+    "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000162A/26",
+        "RE": "RE8047002091A",
+        "Nome_Edificacao": "BORBA NETO, ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua 15 de Novembro",
+        "Numero": "895",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000163A/26",
+        "RE": "RE8047003489A",
+        "Nome_Edificacao": "POSTO POFFO LTDA",
+        "Logradouro": "RUA BAHIA",
+        "Numero": "2055",
+        "Bairro": "BLUMENAU - DO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000164A/26",
+        "RE": "RE8047005540A",
+        "Nome_Edificacao": "CLUBE DE CAÇA E TIRO RIBEIRÃO ITOUPAVA",
+        "Logradouro": "RUA DOUTOR PEDRO ZIMMERMANN",
+        "Numero": "4550",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      }
+    ],
+    "Navegantes": [
+      {
+        "CodigoAuto": "MUL8221000053A/26",
+        "RE": "RE8221002821A",
+        "Nome_Edificacao": "LUCIMAR MESTRE",
+        "Logradouro": "AV CONSELHEIRO JOAO GAYA",
+        "Numero": "1166",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      }
+    ],
+    "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000291A/26",
+        "RE": "RE8161003720A",
+        "Nome_Edificacao": "Renic Dejoie",
+        "Logradouro": "Rua Laura Rebello",
+        "Numero": "34",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000292A/26",
+        "RE": "RE8161010417A",
+        "Nome_Edificacao": "DIRCEA CUNHA DE MELLO",
+        "Logradouro": "Rua Etelvina de Brito",
+        "Numero": "159",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000293A/26",
+        "RE": "RE8161005390A",
+        "Nome_Edificacao": "ESCOLA DE GASTRONOMIA",
+        "Logradouro": "Rua Tijucas",
+        "Numero": "318",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000294A/26",
+        "RE": "RE8161004338A",
+        "Nome_Edificacao": "CONSORCIO MGT",
+        "Logradouro": "Avenida Teporti",
+        "Numero": "1001",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000295A/26",
+        "RE": "RE8161000478A",
+        "Nome_Edificacao": "QUINTA BORBA ESPAÇO DE EVENTOS E POUSADA EIRELI",
+        "Logradouro": "Rua Manoel Bernardo da Silva",
+        "Numero": "330",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000296A/26",
+        "RE": "RE8161013266A",
+        "Nome_Edificacao": "NR CENTRO AUTOMOTIVO",
+        "Logradouro": "RUA IRINEU BORNHAUSEN",
+        "Numero": "485",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000297A/26",
+        "RE": "RE8161009000A",
+        "Nome_Edificacao": "ARENE TREVISAN",
+        "Logradouro": "Avenida Irineu Bornhausen",
+        "Numero": "300",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000298A/26",
+        "RE": "RE8161000440A",
+        "Nome_Edificacao": "Ferramentas Kennedy",
+        "Logradouro": "Avenida Osvaldo Reis",
+        "Numero": "678",
+        "Bairro": "ITAJAÍ - FAZENDINHA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000299A/26",
+        "RE": "RE8161000748A",
+        "Nome_Edificacao": "EDIFICAÇÃO COMERCIAL",
+        "Logradouro": "Rua Elizário Pereira",
+        "Numero": "377",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000300A/26",
+        "RE": "RE8161001897A",
+        "Nome_Edificacao": "Residencial Living 360",
+        "Logradouro": "Rua Carlos Seara",
+        "Numero": "686",
+        "Bairro": "ITAJAÍ - VILA OPERÁRIA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:43:13-03:00"
+      }
+    ],
+    "Botuvera": [],
+    "Guabiruba": [],
+    "Gaspar": [],
+    "Porto Belo": [],
+    "Nova Trento": [],
+    "Itapema": []
+  },
+  "totais": {
+    "Brusque": 10,
+    "Blumenau": 3,
+    "Navegantes": 1,
+    "Itajai": 10,
+    "Botuvera": 0,
+    "Guabiruba": 0,
+    "Gaspar": 0,
+    "Porto Belo": 0,
+    "Nova Trento": 0,
+    "Itapema": 0
+  },
+  "total_geral": 24,
   "eventos_recentes": [
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000300A/26",
+      "nome": "Residencial Living 360",
+      "re": "RE8161001897A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000299A/26",
+      "nome": "EDIFICAÇÃO COMERCIAL",
+      "re": "RE8161000748A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000298A/26",
+      "nome": "Ferramentas Kennedy",
+      "re": "RE8161000440A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000297A/26",
+      "nome": "ARENE TREVISAN",
+      "re": "RE8161009000A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000296A/26",
+      "nome": "NR CENTRO AUTOMOTIVO",
+      "re": "RE8161013266A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000295A/26",
+      "nome": "QUINTA BORBA ESPAÇO DE EVENTOS E POUSADA EIRELI",
+      "re": "RE8161000478A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000294A/26",
+      "nome": "CONSORCIO MGT",
+      "re": "RE8161004338A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000293A/26",
+      "nome": "ESCOLA DE GASTRONOMIA",
+      "re": "RE8161005390A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000292A/26",
+      "nome": "DIRCEA CUNHA DE MELLO",
+      "re": "RE8161010417A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000291A/26",
+      "nome": "Renic Dejoie",
+      "re": "RE8161003720A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000053A/26",
+      "nome": "LUCIMAR MESTRE",
+      "re": "RE8221002821A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000164A/26",
+      "nome": "CLUBE DE CAÇA E TIRO RIBEIRÃO ITOUPAVA",
+      "re": "RE8047005540A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000163A/26",
+      "nome": "POSTO POFFO LTDA",
+      "re": "RE8047003489A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000162A/26",
+      "nome": "BORBA NETO, ADMINISTRADORA DE BENS LTDA",
+      "re": "RE8047002091A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000074A/26",
+      "nome": "SALA",
+      "re": "RE8055005879A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000073A/26",
+      "nome": "JACARANDÁ MOVEIS E ESQUADRIAS",
+      "re": "RE8055004313A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000072A/26",
+      "nome": "FACILEMI CONFECÇÕES",
+      "re": "RE8055004776A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000071A/26",
+      "nome": "Malharia LC Ltda",
+      "re": "RE8055000236A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000070A/26",
+      "nome": "Sociedade Angelina",
+      "re": "RE8055003441A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000069A/26",
+      "nome": "CARDEAL REVESTIMENTO E ACABAMENTO LTDA",
+      "re": "RE8055006057A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000068A/26",
+      "nome": "GALPÃO COMERCIAL E RESIDENCIAL MULTIFAMILIAR",
+      "re": "RE8055005555A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000067A/26",
+      "nome": "KANTO INTIMO IND. E COM. DE CONF. LTDA",
+      "re": "RE8055001195A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000066A/26",
+      "nome": "NOVIZZA EMPREENDIMENTOS IMOBILIARIOS LTDA",
+      "re": "RE8055006479A"
+    },
+    {
+      "ts": "2026-06-18T17:43:13-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000065A/26",
+      "nome": "Deisy Gums Schulenburg",
+      "re": "RE8055005859A"
+    },
     {
       "ts": "2026-06-16T16:24:30-03:00",
       "cidade": "Brusque",

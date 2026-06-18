@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-06-18T15:10:03-03:00",
+  "timestamp": "2026-06-18T17:45:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 669,
+      "ultimo_numero": 670,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T17:45:04-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T17:45:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T17:45:04-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 453,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T17:45:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 358,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T17:45:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 349,
+      "ultimo_numero": 352,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T17:45:04-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 793,
+      "ultimo_numero": 800,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T17:45:04-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 774,
+      "ultimo_numero": 776,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T17:45:04-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T17:45:04-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 812,
+      "ultimo_numero": 820,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T15:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T17:45:04-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000670A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002018A",
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL MATHIAS GUILHERME",
+        "Logradouro": "Rua Alexandre Athanásio Gevaerd",
+        "Numero": "79",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
       {
         "CodigoAuto": "AF8055000669A/26",
         "Tipo": "AF",
@@ -2506,6 +2517,39 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000352A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000466A",
+        "Nome_Edificacao": "ALCIONEI ELISEU DALRI",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "955",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000351A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000288A",
+        "Nome_Edificacao": "SALAVONY DOS SANTOS TRIDAPALLI",
+        "Logradouro": "Rua dos Imigrantes",
+        "Numero": "921",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000350A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000042A",
+        "Nome_Edificacao": "TARCISIO TADEU DARÓS",
+        "Logradouro": "Marechal deodoro",
+        "Numero": "78",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000349A/26",
         "Tipo": "AF",
         "RE": "RE8225000683A",
@@ -2936,6 +2980,83 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163000800A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006320A",
+        "Nome_Edificacao": "SALA COMERCIAL",
+        "Logradouro": "RUA 902 C",
+        "Numero": "157",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000799A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006320A",
+        "Nome_Edificacao": "SALA COMERCIAL",
+        "Logradouro": "RUA 902 C",
+        "Numero": "157",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000798A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003181A",
+        "Nome_Edificacao": "COMERCIAL FERREIRA 2",
+        "Logradouro": "RUA 806 - B",
+        "Numero": "876",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000797A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001591A",
+        "Nome_Edificacao": "ADRIANE BALLVERDU GOMES",
+        "Logradouro": "Rua 234",
+        "Numero": "425",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000796A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003053A",
+        "Nome_Edificacao": "EDIFICIO ILHAS CANARIAS",
+        "Logradouro": "rua 256",
+        "Numero": "520",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000795A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002614A",
+        "Nome_Edificacao": "JEVIAN RESIDENCE",
+        "Logradouro": "RUA 800 B",
+        "Numero": "50",
+        "Bairro": "ITAPEMA - CASA BRANCA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000794A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002497A",
+        "Nome_Edificacao": "EDIFICIO INTERNACIONAL RESIDENCE",
+        "Logradouro": "RUA 232",
+        "Numero": "105",
+        "Bairro": "ITAPEMA - ANDORINHA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
       {
         "CodigoAuto": "AF8163000793A/26",
         "Tipo": "AF",
@@ -3598,6 +3719,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047000776A/26",
+        "Tipo": "AF",
+        "RE": "RE8047002694A",
+        "Nome_Edificacao": "BARUFFI, GERALDO",
+        "Logradouro": "RUA GUSTAVO ZIMMERMANN",
+        "Numero": "3136",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000775A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001591A",
+        "Nome_Edificacao": "RODOLFO FRANCISCO DE SOUZA NETO",
+        "Logradouro": "Rua Professor Jacob Ineichen",
+        "Numero": "1819",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
       {
         "CodigoAuto": "AF8047000774A/26",
         "Tipo": "AF",
@@ -4670,6 +4813,94 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000820A/26",
+        "Tipo": "AF",
+        "RE": "RE8161004531A",
+        "Nome_Edificacao": "KATYLENE JACINTO GONZAGA",
+        "Logradouro": "Rua José Tedeo",
+        "Numero": "558",
+        "Bairro": "ITAJAÍ - SÃO JUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000819A/26",
+        "Tipo": "AF",
+        "RE": "RE8161006221A",
+        "Nome_Edificacao": "GALPÃO INDUSTRIAL/COMERCIAL",
+        "Logradouro": "Avenida Ver. Nilo Simas",
+        "Numero": "255",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000818A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002382A",
+        "Nome_Edificacao": "EDIFICAÇÃO COMERCIAL - AMBIENTALLE",
+        "Logradouro": "Rua Israel de Almeida",
+        "Numero": "617",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000817A/26",
+        "Tipo": "AF",
+        "RE": "RE8161011060A",
+        "Nome_Edificacao": "Luís Carlos Russi",
+        "Logradouro": "Heitor liberato",
+        "Numero": "2203",
+        "Bairro": "ITAJAÍ - SÃO JUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000816A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005368A",
+        "Nome_Edificacao": "RONI EDSON WANZUITA",
+        "Logradouro": "Rua Rosália Pedroni",
+        "Numero": "165",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000815A/26",
+        "Tipo": "AF",
+        "RE": "RE8161003054A",
+        "Nome_Edificacao": "DOMINGAS PAULA CARDOSO",
+        "Logradouro": "Rua Indaial",
+        "Numero": "664",
+        "Bairro": "ITAJAÍ - SÃO JUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000814A/26",
+        "Tipo": "AF",
+        "RE": "RE8161003945A",
+        "Nome_Edificacao": "SOCIEDADE RADIO DIFUSORA VALE DO ITAJAI LTDA",
+        "Logradouro": "Rua Imbituba",
+        "Numero": "190",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000813A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013656A",
+        "Nome_Edificacao": "ALEIXO JOSE DA SILVA",
+        "Logradouro": "Rua Jorge Santos de Macedo",
+        "Numero": "111",
+        "Bairro": "ITAJAÍ - RESSACADA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T17:45:04-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000812A/26",
         "Tipo": "AF",
         "RE": "RE8161008653A",
@@ -5343,16 +5574,16 @@
     ]
   },
   "totais": {
-    "Brusque": 59,
+    "Brusque": 60,
     "Botuvera": 24,
     "Guabiruba": 32,
     "Gaspar": 39,
     "Porto Belo": 67,
-    "Nova Trento": 39,
-    "Itapema": 60,
-    "Blumenau": 61,
+    "Nova Trento": 42,
+    "Itapema": 67,
+    "Blumenau": 63,
     "Navegantes": 36,
-    "Itajai": 61
+    "Itajai": 69
   },
-  "total_geral": 478
+  "total_geral": 499
 }
