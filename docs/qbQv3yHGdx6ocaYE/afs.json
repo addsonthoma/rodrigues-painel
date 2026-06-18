@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-18T10:00:03-03:00",
+  "timestamp": "2026-06-18T10:10:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 662,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:10:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:10:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:10:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:10:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 346,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:10:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:10:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 784,
+      "ultimo_numero": 785,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:10:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 771,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:10:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:10:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 786,
+      "ultimo_numero": 787,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:10:03-03:00"
     }
   },
   "afs": {
@@ -2695,6 +2695,17 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163000785A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002435A",
+        "Nome_Edificacao": "ALEXANDRE GIROLOMETTO",
+        "Logradouro": "RUA 258",
+        "Numero": "973",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T10:10:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8163000784A/26",
         "Tipo": "AF",
         "RE": "RE8163005939A",
@@ -4296,6 +4307,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000787A/26",
+        "Tipo": "AF",
+        "RE": "RE8161003669A",
+        "Nome_Edificacao": "HEZ EMPREENDIMENTOS IMOBILIARIOS LTDA",
+        "Logradouro": "R CESAR AUGUSTO DALCOQUIO",
+        "Numero": "5001",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T10:10:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000786A/26",
         "Tipo": "AF",
         "RE": "RE8161002730A",
@@ -4689,10 +4711,10 @@
     "Gaspar": 38,
     "Porto Belo": 55,
     "Nova Trento": 37,
-    "Itapema": 51,
+    "Itapema": 52,
     "Blumenau": 58,
     "Navegantes": 36,
-    "Itajai": 35
+    "Itajai": 36
   },
-  "total_geral": 418
+  "total_geral": 420
 }
