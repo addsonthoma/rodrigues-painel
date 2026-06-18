@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-18T09:30:03-03:00",
+  "timestamp": "2026-06-18T09:40:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 662,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T09:40:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T09:40:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T09:40:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T09:40:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 343,
+      "ultimo_numero": 344,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T09:40:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T09:40:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 784,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T09:40:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 770,
+      "ultimo_numero": 771,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T09:40:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T09:40:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 786,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T09:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T09:40:03-03:00"
     }
   },
   "afs": {
@@ -1679,6 +1679,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "AF8265000344A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001736A",
+        "Nome_Edificacao": "INFINITY RESIDENCE",
+        "Logradouro": "Rua João Carlos Abraham",
+        "Numero": "113",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-18T09:40:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8265000343A/26",
         "Tipo": "AF",
         "RE": "RE8265001899A",
@@ -3225,6 +3236,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000771A/26",
+        "Tipo": "AF",
+        "RE": "RE8047004169A",
+        "Nome_Edificacao": "XIMIX – SERVIÇOS DE PLOTAGEM E TERMOCOLANTES",
+        "Logradouro": "Rua Infante Dom Henrique",
+        "Numero": "241",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-18T09:40:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000770A/26",
         "Tipo": "AF",
         "RE": "RE8047003862A",
@@ -4643,12 +4665,12 @@
     "Botuvera": 24,
     "Guabiruba": 32,
     "Gaspar": 38,
-    "Porto Belo": 52,
+    "Porto Belo": 53,
     "Nova Trento": 37,
     "Itapema": 51,
-    "Blumenau": 57,
+    "Blumenau": 58,
     "Navegantes": 36,
     "Itajai": 35
   },
-  "total_geral": 414
+  "total_geral": 416
 }
