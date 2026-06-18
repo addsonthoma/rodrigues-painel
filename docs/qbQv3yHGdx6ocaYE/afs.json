@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-18T14:50:03-03:00",
+  "timestamp": "2026-06-18T15:00:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 669,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 453,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 357,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 348,
+      "ultimo_numero": 349,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 793,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 774,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 807,
+      "ultimo_numero": 809,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
+      "ultima_verificacao": "2026-06-18T15:00:03-03:00"
     }
   },
   "afs": {
@@ -2495,6 +2495,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000349A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000683A",
+        "Nome_Edificacao": "SINDICATO",
+        "Logradouro": "HENRIQUE MESCKE",
+        "Numero": "342",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-18T15:00:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000348A/26",
         "Tipo": "AF",
         "RE": "RE8225000038A",
@@ -4648,6 +4659,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000809A/26",
+        "Tipo": "AF",
+        "RE": "RE8161008274A",
+        "Nome_Edificacao": "Transporte Coletivo Flaviotur Ltda",
+        "Logradouro": "Etelvina de Brito",
+        "Numero": "42",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T15:00:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000808A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013646A",
+        "Nome_Edificacao": "RAPLAVE LAVA RAPIDO",
+        "Logradouro": "RUA ALFREDO TROMPOWISKY",
+        "Numero": "569",
+        "Bairro": "ITAJAÍ - VILA OPERÁRIA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T15:00:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000807A/26",
         "Tipo": "AF",
         "RE": "RE8161013666A",
@@ -5271,11 +5304,11 @@
     "Guabiruba": 32,
     "Gaspar": 39,
     "Porto Belo": 66,
-    "Nova Trento": 38,
+    "Nova Trento": 39,
     "Itapema": 60,
     "Blumenau": 61,
     "Navegantes": 36,
-    "Itajai": 56
+    "Itajai": 58
   },
-  "total_geral": 471
+  "total_geral": 474
 }
