@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-18T13:00:03-03:00",
+  "timestamp": "2026-06-18T13:10:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 667,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 351,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 348,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 787,
+      "ultimo_numero": 788,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 774,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 788,
+      "ultimo_numero": 793,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:00:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
     }
   },
   "afs": {
@@ -2816,6 +2816,17 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163000788A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006750A",
+        "Nome_Edificacao": "COMERCIO",
+        "Logradouro": "Rua430",
+        "Numero": "21",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T13:10:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8163000787A/26",
         "Tipo": "AF",
         "RE": "RE8163006686A",
@@ -4483,6 +4494,61 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000793A/26",
+        "Tipo": "AF",
+        "RE": "RE8161012569A",
+        "Nome_Edificacao": "JOAO FRANCISCO RODRIGUES",
+        "Logradouro": "Rua Osvaldo Cruz",
+        "Numero": "402",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T13:10:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000792A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013645A",
+        "Nome_Edificacao": "AGENCIA ADVENTISTA DE DESENVOLVIMENTO E RECURSOS ASSISTENCIAIS SUL",
+        "Logradouro": "Rua Dário Cesário Pereira",
+        "Numero": "41",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T13:10:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000791A/26",
+        "Tipo": "AF",
+        "RE": "RE8161006768A",
+        "Nome_Edificacao": "SAMARA TOTH VIEIRA",
+        "Logradouro": "Rua Telêmaco Pereira Liberato",
+        "Numero": "58",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T13:10:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000790A/26",
+        "Tipo": "AF",
+        "RE": "RE8161012566A",
+        "Nome_Edificacao": "JULIA W. MOSER",
+        "Logradouro": "RUA VEREADOR GERMANO LUIZ VIEIRA",
+        "Numero": "1970",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T13:10:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000789A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013643A",
+        "Nome_Edificacao": "S.A CASA DO SUSHI",
+        "Logradouro": "AVENIDA VER. ABRAHAO JOAO FRANCISCO",
+        "Numero": "582",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T13:10:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000788A/26",
         "Tipo": "AF",
         "RE": "RE8161002414A",
@@ -4898,10 +4964,10 @@
     "Gaspar": 38,
     "Porto Belo": 60,
     "Nova Trento": 38,
-    "Itapema": 54,
+    "Itapema": 55,
     "Blumenau": 61,
     "Navegantes": 36,
-    "Itajai": 37
+    "Itajai": 42
   },
-  "total_geral": 437
+  "total_geral": 443
 }
