@@ -1,69 +1,91 @@
 {
-  "timestamp": "2026-06-18T10:40:03-03:00",
+  "timestamp": "2026-06-18T10:50:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 663,
+      "ultimo_numero": 665,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:50:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:50:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:50:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:50:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 346,
+      "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:50:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:50:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 785,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:50:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 771,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:50:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:50:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 787,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T10:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T10:50:03-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000665A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001107A",
+        "Nome_Edificacao": "Metalúrgica Siemsen Limitada",
+        "Logradouro": "Rua Blumenau",
+        "Numero": "262",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T10:50:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000664A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005196A",
+        "Nome_Edificacao": "SUPERMERCADO E ED. RES. MULTIFAMLIAR",
+        "Logradouro": "Rua General Osório",
+        "Numero": "331",
+        "Bairro": "BRUSQUE - GUARANI",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T10:50:03-03:00"
+      },
       {
         "CodigoAuto": "AF8055000663A/26",
         "Tipo": "AF",
@@ -1689,6 +1711,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000347A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002000A",
+        "Nome_Edificacao": "POSTO COMBUSTIVEL PORTO BELO",
+        "Logradouro": "AVENIDA HIRONILDO CONCEIÇÃO DOS SANTOS, PEREQUE",
+        "Numero": "107",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-18T10:50:03-03:00"
+      },
       {
         "CodigoAuto": "AF8265000346A/26",
         "Tipo": "AF",
@@ -4716,16 +4749,16 @@
     ]
   },
   "totais": {
-    "Brusque": 53,
+    "Brusque": 55,
     "Botuvera": 24,
     "Guabiruba": 32,
     "Gaspar": 38,
-    "Porto Belo": 55,
+    "Porto Belo": 56,
     "Nova Trento": 37,
     "Itapema": 52,
     "Blumenau": 58,
     "Navegantes": 36,
     "Itajai": 36
   },
-  "total_geral": 421
+  "total_geral": 424
 }
