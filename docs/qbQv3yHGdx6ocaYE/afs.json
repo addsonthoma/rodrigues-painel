@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-18T14:40:03-03:00",
+  "timestamp": "2026-06-18T14:50:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 669,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 452,
+      "ultimo_numero": 453,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 357,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 348,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 793,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 774,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 805,
+      "ultimo_numero": 807,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T14:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T14:50:03-03:00"
     }
   },
   "afs": {
@@ -1335,6 +1335,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000453A/26",
+        "Tipo": "AF",
+        "RE": "RE8117003209A",
+        "Nome_Edificacao": "AMELIA SALETE SCHMITT WEHMUTH",
+        "Logradouro": "RUA BARAO DO RIO BRANCO",
+        "Numero": "1357",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-18T14:50:03-03:00"
+      },
       {
         "CodigoAuto": "AF8117000452A/26",
         "Tipo": "AF",
@@ -4637,6 +4648,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000807A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013666A",
+        "Nome_Edificacao": "MAICON VENANCIO COMERCIO E SERVICOS DE CLIMATIZACAO",
+        "Logradouro": "R GENESIO TAVARES",
+        "Numero": "180",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T14:50:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000806A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013657A",
+        "Nome_Edificacao": "Alisson Luiz Maes",
+        "Logradouro": "Rua Wandelino Winter",
+        "Numero": "122",
+        "Bairro": "ITAJAÍ - São Judas",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T14:50:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000805A/26",
         "Tipo": "AF",
         "RE": "RE8161011756A",
@@ -5236,13 +5269,13 @@
     "Brusque": 59,
     "Botuvera": 24,
     "Guabiruba": 32,
-    "Gaspar": 38,
+    "Gaspar": 39,
     "Porto Belo": 66,
     "Nova Trento": 38,
     "Itapema": 60,
     "Blumenau": 61,
     "Navegantes": 36,
-    "Itajai": 54
+    "Itajai": 56
   },
-  "total_geral": 468
+  "total_geral": 471
 }
