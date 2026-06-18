@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-06-18T08:30:03-03:00",
+  "timestamp": "2026-06-18T08:40:06-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 660,
+      "ultimo_numero": 661,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T08:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T08:40:06-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T08:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T08:40:06-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T08:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T08:40:06-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T08:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T08:40:06-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 342,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T08:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T08:40:06-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T08:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T08:40:06-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 784,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T08:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T08:40:06-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 770,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T08:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T08:40:06-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T08:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T08:40:06-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 785,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T08:30:03-03:00"
+      "ultima_verificacao": "2026-06-18T08:40:06-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000661A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004833A",
+        "Nome_Edificacao": "OTAVIO ROMANO PEDRINI",
+        "Logradouro": "Avenida Lauro Muller",
+        "Numero": "50",
+        "Bairro": "BRUSQUE - CENTRO II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T08:40:06-03:00"
+      },
       {
         "CodigoAuto": "AF8055000660A/26",
         "Tipo": "AF",
@@ -4595,7 +4606,7 @@
     ]
   },
   "totais": {
-    "Brusque": 50,
+    "Brusque": 51,
     "Botuvera": 24,
     "Guabiruba": 32,
     "Gaspar": 38,
@@ -4606,5 +4617,5 @@
     "Navegantes": 36,
     "Itajai": 34
   },
-  "total_geral": 410
+  "total_geral": 411
 }
