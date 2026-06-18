@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-18T13:40:03-03:00",
+  "timestamp": "2026-06-18T13:50:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 669,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 356,
+      "ultimo_numero": 357,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 348,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 790,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 774,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 795,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:40:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:50:03-03:00"
     }
   },
   "afs": {
@@ -1755,6 +1755,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000357A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002482A",
+        "Nome_Edificacao": "IGREJA SANTUARIO DA FAMILIA",
+        "Logradouro": "Avenida Governador Celso Ramos",
+        "Numero": "3062",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-18T13:50:03-03:00"
+      },
       {
         "CodigoAuto": "AF8265000356A/26",
         "Tipo": "AF",
@@ -5083,12 +5094,12 @@
     "Botuvera": 24,
     "Guabiruba": 32,
     "Gaspar": 38,
-    "Porto Belo": 65,
+    "Porto Belo": 66,
     "Nova Trento": 38,
     "Itapema": 57,
     "Blumenau": 61,
     "Navegantes": 36,
     "Itajai": 44
   },
-  "total_geral": 454
+  "total_geral": 455
 }
