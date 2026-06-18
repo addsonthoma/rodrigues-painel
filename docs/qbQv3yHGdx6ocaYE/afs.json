@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-06-18T13:10:03-03:00",
+  "timestamp": "2026-06-18T13:20:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 667,
+      "ultimo_numero": 668,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:20:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:20:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:20:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:20:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 351,
+      "ultimo_numero": 352,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:20:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 348,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:20:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 788,
+      "ultimo_numero": 790,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:20:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 774,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:20:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:20:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 793,
+      "ultimo_numero": 795,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-18T13:10:03-03:00"
+      "ultima_verificacao": "2026-06-18T13:20:03-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000668A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003064A",
+        "Nome_Edificacao": "HOTEL B`VENUTTI",
+        "Logradouro": "RODOVIA ANTONIO HEIL",
+        "Numero": "3700",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-18T13:20:03-03:00"
+      },
       {
         "CodigoAuto": "AF8055000667A/26",
         "Tipo": "AF",
@@ -1734,6 +1745,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "AF8265000352A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002437A",
+        "Nome_Edificacao": "MARTA CECILIA NASCIMENTO GARCIA",
+        "Logradouro": "AV FRANCISCO SEVERIANO DOS SANTOS",
+        "Numero": "591",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-18T13:20:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8265000351A/26",
         "Tipo": "AF",
         "RE": "RE8265002430A",
@@ -2815,6 +2837,28 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163000790A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002676A",
+        "Nome_Edificacao": "JOSE FARIAS PEREIRA",
+        "Logradouro": "Rua 414 e 416",
+        "Numero": "365",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T13:20:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000789A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001261A",
+        "Nome_Edificacao": "Pamela Dellagnelo Kwiatkowski",
+        "Logradouro": "Rua 902D",
+        "Numero": "15",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-18T13:20:03-03:00"
+      },
       {
         "CodigoAuto": "AF8163000788A/26",
         "Tipo": "AF",
@@ -4494,6 +4538,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000795A/26",
+        "Tipo": "AF",
+        "RE": "RE8161008222A",
+        "Nome_Edificacao": "EDIFICAÇÃO MISTA KELLY KAROLAINE COELHO IANEER",
+        "Logradouro": "AUGUSTO CUGNIER",
+        "Numero": "170",
+        "Bairro": "ITAJAÍ - SANTA REGINA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T13:20:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000794A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013654A",
+        "Nome_Edificacao": "LUIZ ALEXANDRE PEREIRA",
+        "Logradouro": "Rua Almirante Barroso",
+        "Numero": "145",
+        "Bairro": "ITAJAÍ - Centro",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-18T13:20:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000793A/26",
         "Tipo": "AF",
         "RE": "RE8161012569A",
@@ -4958,16 +5024,16 @@
     ]
   },
   "totais": {
-    "Brusque": 57,
+    "Brusque": 58,
     "Botuvera": 24,
     "Guabiruba": 32,
     "Gaspar": 38,
-    "Porto Belo": 60,
+    "Porto Belo": 61,
     "Nova Trento": 38,
-    "Itapema": 55,
+    "Itapema": 57,
     "Blumenau": 61,
     "Navegantes": 36,
-    "Itajai": 42
+    "Itajai": 44
   },
-  "total_geral": 443
+  "total_geral": 449
 }
