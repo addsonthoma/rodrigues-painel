@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-19T11:20:23-03:00",
+  "timestamp": "2026-06-19T11:30:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 671,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:20:23-03:00"
+      "ultima_verificacao": "2026-06-19T11:30:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:20:23-03:00"
+      "ultima_verificacao": "2026-06-19T11:30:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:20:23-03:00"
+      "ultima_verificacao": "2026-06-19T11:30:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 457,
+      "ultimo_numero": 460,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:20:23-03:00"
+      "ultima_verificacao": "2026-06-19T11:30:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 358,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:20:23-03:00"
+      "ultima_verificacao": "2026-06-19T11:30:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 354,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:20:23-03:00"
+      "ultima_verificacao": "2026-06-19T11:30:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 801,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:20:23-03:00"
+      "ultima_verificacao": "2026-06-19T11:30:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 778,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:20:23-03:00"
+      "ultima_verificacao": "2026-06-19T11:30:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:20:23-03:00"
+      "ultima_verificacao": "2026-06-19T11:30:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 821,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:20:23-03:00"
+      "ultima_verificacao": "2026-06-19T11:30:19-03:00"
     }
   },
   "afs": {
@@ -1357,6 +1357,39 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000460A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002153A",
+        "Nome_Edificacao": "GALPÃO 300",
+        "Logradouro": "RUA ALBERTINA MABA",
+        "Numero": "300",
+        "Bairro": "GASPAR - MARGEM ESQUERDA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-19T11:30:19-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000459A/26",
+        "Tipo": "AF",
+        "RE": "RE8117003230A",
+        "Nome_Edificacao": "Alessandra Zanete Nunes",
+        "Logradouro": "Rua Kennedy",
+        "Numero": "419",
+        "Bairro": "GASPAR - BARRACÃO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-19T11:30:19-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000458A/26",
+        "Tipo": "AF",
+        "RE": "RE8117003228A",
+        "Nome_Edificacao": "Paula Roberta Mantuanelli",
+        "Logradouro": "Rua Angelina",
+        "Numero": "280",
+        "Bairro": "GASPAR - Santa Terezinha",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-19T11:30:19-03:00"
+      },
       {
         "CodigoAuto": "AF8117000457A/26",
         "Tipo": "AF",
@@ -5698,7 +5731,7 @@
     "Brusque": 61,
     "Botuvera": 24,
     "Guabiruba": 32,
-    "Gaspar": 43,
+    "Gaspar": 46,
     "Porto Belo": 67,
     "Nova Trento": 44,
     "Itapema": 68,
@@ -5706,5 +5739,5 @@
     "Navegantes": 36,
     "Itajai": 70
   },
-  "total_geral": 510
+  "total_geral": 513
 }
