@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Rota de Captação · Rodrigues Preventivos</title>
+<style>
+  :root{ --bg:#0d0d10; --card:#15151a; --line:#2a2a33; --txt:#f5f5f7; --muted:#9a9aa5;
+         --red:#e8334a; --grn:#26de81; --blu:#3da5ff; --org:#ff9f43; --aqua:#1fd6c4; }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  body{margin:0;background:var(--bg);color:var(--txt);font-family:-apple-system,Segoe UI,Roboto,sans-serif;
+       padding:0 0 90px;font-size:15px}
+  header{position:sticky;top:0;z-index:50;background:#101015;border-bottom:1px solid var(--line);
+         padding:12px 14px calc(12px + env(safe-area-inset-top)) 14px;display:flex;align-items:center;gap:10px}
+  header img{height:30px}
+  header .ti{flex:1;min-width:0}
+  header h1{margin:0;font-size:15px;font-weight:600;letter-spacing:.3px}
+  header .sub{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+  #maps-btn{display:block;margin:12px 14px 4px;padding:14px;text-align:center;background:var(--red);
+            color:#fff;border:0;border-radius:12px;font-size:16px;font-weight:700;text-decoration:none;
+            box-shadow:0 4px 14px rgba(232,51,74,.35)}
+  #maps-btn:active{transform:scale(.98)}
+  #aviso{margin:0 14px;font-size:12px;color:var(--org);text-align:center;padding:4px 0}
+  #resumo{margin:6px 14px 10px;font-size:12px;color:var(--muted);text-align:center}
+  .stop{margin:10px 14px;background:var(--card);border:1px solid var(--line);border-radius:14px;
+        padding:13px 14px;position:relative;overflow:hidden}
+  .stop.descartado{opacity:.45}
+  .stop .ord{position:absolute;top:0;right:0;background:#1c1c24;color:var(--muted);font-size:11px;
+             font-weight:700;padding:3px 9px;border-bottom-left-radius:10px}
+  .stop .cod{font-size:11px;font-family:ui-monospace,monospace;color:var(--muted)}
+  .stop .tipo{display:inline-block;font-size:10px;font-weight:700;padding:1px 6px;border-radius:5px;
+              margin-right:6px;vertical-align:1px}
+  .tipo.mul{background:#3a1620;color:#ff6b81}.tipo.af{background:#13283c;color:#6fc0ff}
+  .stop .nome{font-size:16px;font-weight:600;margin:5px 0 3px;line-height:1.25}
+  .stop .end{font-size:13px;color:var(--muted);line-height:1.35}
+  .stop .pend{font-size:12.5px;margin-top:7px;background:#1d1407;border:1px solid #3a2a0a;color:#ffce85;
+              border-radius:8px;padding:6px 8px}
+  .stop .pend.none{background:#14140f;border-color:#2a2a20;color:var(--muted)}
+  .prazo{font-weight:700;margin-left:6px}.prazo.venc{color:var(--red)}.prazo.urg{color:var(--org)}
+  .badge{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:20px;margin-top:8px}
+  .b-novo{background:#22222b;color:var(--muted)}.b-contatado{background:#10283f;color:var(--blu)}
+  .b-visitar{background:#3a2a0a;color:var(--org)}.b-visitado{background:#0c2f2b;color:var(--aqua)}
+  .b-fechado{background:#0c2f17;color:var(--grn)}.b-descartado{background:#2f1116;color:#ff6b81}
+  .acoes{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:11px}
+  .acoes a,.acoes button{display:flex;align-items:center;justify-content:center;gap:6px;padding:12px 6px;
+      border-radius:10px;border:1px solid var(--line);background:#1b1b22;color:var(--txt);font-size:14px;
+      font-weight:600;text-decoration:none;cursor:pointer;font-family:inherit}
+  .acoes a:active,.acoes button:active{transform:scale(.97)}
+  .a-lig{border-color:#1a4a2c;color:var(--grn)} .a-zap{border-color:#1a4a2c;color:var(--grn)}
+  .a-nav{border-color:#143a5c;color:var(--blu)} .a-vis{border-color:#0c4a44;color:var(--aqua)}
+  .a-fec{border-color:#16502a;color:var(--grn)} .a-desc{border-color:#4a1820;color:#ff6b81}
+  .a-full{grid-column:1 / -1}
+  .acoes a.off{opacity:.35;pointer-events:none}
+  #vazio{margin:60px 20px;text-align:center;color:var(--muted)}
+  /* login */
+  #login{position:fixed;inset:0;z-index:9999;background:var(--bg);display:none;flex-direction:column;
+         align-items:center;justify-content:center;gap:12px;padding:24px}
+  #login img{height:54px;margin-bottom:4px}
+  #login h2{font-weight:300;letter-spacing:1px;margin:0}
+  #login p{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:2px;margin:0 0 6px}
+  #login input{width:min(320px,92vw);padding:12px 14px;border-radius:10px;border:1px solid #34343f;
+               background:#15151a;color:var(--txt);font-size:16px}
+  #login button{width:min(320px,92vw);padding:13px;border:0;border-radius:10px;background:var(--red);
+                color:#fff;font-size:16px;font-weight:700}
+  #lg-erro{color:var(--red);font-size:13px;min-height:16px}
+  #carregando{margin:80px 20px;text-align:center;color:var(--muted)}
+  .toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);background:#1b1b22;
+         border:1px solid var(--line);color:var(--txt);padding:11px 18px;border-radius:30px;font-size:13px;
+         z-index:200;opacity:0;transition:opacity .2s;pointer-events:none;box-shadow:0 6px 20px rgba(0,0,0,.5)}
+  .toast.show{opacity:1}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
+</head>
+<body>
+
+<div id="login">
+  <img src="logo.png" alt="" onerror="this.style.display='none'">
+  <h2>Rota de Captação</h2>
+  <p>Rodrigues Preventivos · acesso restrito</p>
+  <input id="lg-email" type="email" placeholder="E-mail" autocomplete="username">
+  <input id="lg-senha" type="password" placeholder="Senha" autocomplete="current-password">
+  <button id="lg-entrar">Entrar</button>
+  <div id="lg-erro"></div>
+</div>
+
+<header>
+  <img src="logo.png" alt="" onerror="this.style.display='none'">
+  <div class="ti">
+    <h1>🚗 Rota de Captação</h1>
+    <div class="sub" id="hsub">carregando…</div>
+  </div>
+</header>
+
+<a id="maps-btn" href="#" style="display:none">🗺️ Abrir rota no Google Maps</a>
+<div id="aviso"></div>
+<div id="resumo"></div>
+<div id="carregando">⏳ Carregando paradas…</div>
+<div id="lista"></div>
+<div id="vazio" style="display:none">Nenhuma obra nesta rota.<br><small>Gere uma rota pelo painel (aba Captação).</small></div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const SUPA_URL = "https://ziiybllegtdnqwqfaifp.supabase.co";
+const SUPA_KEY = "sb_publishable_9yA9b668Pq0Yv9pMOv1dPQ_ZCPDte7m";
+const SB = supabase.createClient(SUPA_URL, SUPA_KEY);
+
+const VENDEDORES = {
+  "BANANA":    ["Brusque","Guabiruba","Nova Trento","Gaspar","Blumenau"],
+  "GUILHERME": ["Itajai","Navegantes","Itapema","Porto Belo"],
+  "ALINE":     ["Botuvera"]
+};
+function vendedorDaCidade(c){
+  for(const v in VENDEDORES) if(VENDEDORES[v].includes(c)) return v;
+  return null;
+}
+
+let PERFIL = {papel:null, vendedor:null};   // do usuario logado
+let INDEX  = {};                            // CodigoAuto -> item (mul/af)
+let STATUS = {};                            // CodigoAuto -> status
+let STOPS  = [];                            // itens da rota, em ordem
+
+function toast(msg){
+  const t=document.getElementById('toast'); t.textContent=msg; t.classList.add('show');
+  clearTimeout(t._h); t._h=setTimeout(()=>t.classList.remove('show'), 2200);
+}
+function digits(s){ return (s||"").replace(/\D/g,""); }
+function tel55(cel){ const n=digits(cel); if(!n) return ""; return n.startsWith("55")?n:("55"+n); }
+function bairroLimpo(b){ return (b||"").replace(/^[^-]+ - /,""); }
+function endLinha(it){
+  return `${it.Logradouro||""}${it.Numero?", "+it.Numero:""}${bairroLimpo(it.Bairro)?" — "+bairroLimpo(it.Bairro):""}`;
+}
+function endMaps(it){
+  return encodeURIComponent(`${it.Logradouro||""} ${it.Numero||""}, ${it.Cidade||""} - SC`.trim());
+}
+function prazoHTML(d){
+  if(!d || d.prazoDias===null || d.prazoDias===undefined) return "";
+  const n=d.prazoDias;
+  if(n<0)  return `<span class="prazo venc">${Math.abs(n)}d VENCIDO</span>`;
+  if(n<=30)return `<span class="prazo urg">${n}d restantes</span>`;
+  return `<span class="prazo">${n}d restantes</span>`;
+}
+
+// ---- carregar dados (mesmos JSON do painel) ----
+async function carregarJSON(){
+  const t=Date.now();
+  const [mul,af,dr] = await Promise.all([
+    fetch("dados.json?t="+t,{cache:"no-store"}).then(r=>r.json()).catch(()=>({})),
+    fetch("afs.json?t="+t,{cache:"no-store"}).then(r=>r.json()).catch(()=>({})),
+    fetch("drill.json?t="+t,{cache:"no-store"}).then(r=>r.json()).catch(()=>({}))
+  ]);
+  const idx={};
+  for(const c in (mul.multas||{})) for(const it of mul.multas[c]) idx[it.CodigoAuto]={...it,_tipo:"MUL"};
+  for(const c in (af.afs||{}))     for(const it of af.afs[c])     idx[it.CodigoAuto]={...it,_tipo:"AF"};
+  INDEX = idx;
+  DRILL = (dr.drill||{});
+}
+let DRILL={};
+
+// ---- quais codigos? hash #r=ID (rota no banco) ou #c=cod1,cod2 (direto) ----
+async function codigosDaRota(){
+  const h=(location.hash||"").replace(/^#/,"");
+  const p=new URLSearchParams(h);
+  if(p.get("c")) return p.get("c").split(",").map(s=>s.trim()).filter(Boolean);
+  const id=p.get("r");
+  if(id){
+    const {data,error}=await SB.from("rotas").select("codigos").eq("id",id).single();
+    if(error){ console.warn(error); return []; }
+    return (data&&data.codigos)||[];
+  }
+  return [];
+}
+
+// ---- status do banco ----
+async function carregarStatus(codigos){
+  STATUS={};
+  if(!codigos.length) return;
+  const {data}=await SB.from("lead_status").select("codigo_auto,status").in("codigo_auto",codigos);
+  for(const r of (data||[])) STATUS[r.codigo_auto]=r.status;
+}
+async function marcar(cod, status){
+  const it=INDEX[cod]; if(!it) return;
+  const vend = PERFIL.papel==="admin" ? vendedorDaCidade(it.Cidade) : PERFIL.vendedor;
+  STATUS[cod]=status; renderLista();          // otimista
+  const {error}=await SB.from("lead_status")
+    .upsert({codigo_auto:cod, vendedor:vend, status, atualizado_em:new Date().toISOString()},
+            {onConflict:"codigo_auto"});
+  if(error){ toast("⚠️ Não salvou (sem internet?)"); console.warn(error); }
+  else toast(({visitado:"✅ Marcado: visitei",fechado:"🤝 Marcado: fechado",
+               descartado:"❌ Descartado",visitar:"↩️ De volta pra lista"})[status]||"Salvo");
+}
+
+// ---- montar rota no Maps (multi-parada) ----
+function montarMapsURL(stops){
+  const ativos = stops.filter(s=>STATUS[s.CodigoAuto]!=="descartado");
+  const usados = ativos.slice(0,10);                 // Maps: destino + 9 paradas
+  if(!usados.length) return null;
+  const dest = endMaps(usados[usados.length-1]);
+  const way  = usados.slice(0,-1).map(endMaps).join("|");
+  let u=`https://www.google.com/maps/dir/?api=1&destination=${dest}&travelmode=driving`;
+  if(way) u+=`&waypoints=${way}`;
+  return {url:u, usados:usados.length, total:ativos.length};
+}
+
+function renderLista(){
+  const lista=document.getElementById("lista");
+  if(!STOPS.length){ document.getElementById("vazio").style.display="block"; return; }
+  // ordena por cidade (mantem ordem original dentro da cidade)
+  const ord=[...STOPS].sort((a,b)=>(a.Cidade||"").localeCompare(b.Cidade||""));
+  let n=0;
+  lista.innerHTML = ord.map(it=>{
+    const cod=it.CodigoAuto, d=DRILL[cod], st=STATUS[cod]||"novo";
+    n++;
+    const ex=(d&&(d.exigencias||[]).join(" · "))||"";
+    const pend = ex
+      ? `<div class="pend">⚠️ ${ex}${prazoHTML(d)}</div>`
+      : (d&&d.nota ? `<div class="pend none">ℹ️ ${d.nota}</div>` : `<div class="pend none">Sem pendência detalhada — ver no e-SCI</div>`);
+    const tel=tel55(d&&d.celular);
+    const ligar = tel ? `<a class="a-lig" href="tel:+${tel}">📞 Ligar</a>` : `<a class="a-lig off">📞 sem tel.</a>`;
+    const zap   = tel ? `<a class="a-zap" target="_blank" rel="noopener" href="https://wa.me/${tel}">💬 Zap</a>` : `<a class="a-zap off">💬 —</a>`;
+    const desc = st==="descartado";
+    return `<div class="stop ${desc?'descartado':''}">
+      <div class="ord">${n}</div>
+      <div><span class="tipo ${it._tipo.toLowerCase()}">${it._tipo}</span><span class="cod">${cod}</span></div>
+      <div class="nome">${it.Nome_Edificacao||"(sem nome)"}</div>
+      <div class="end">📍 ${endLinha(it)} · ${it.Cidade||""}</div>
+      ${pend}
+      <span class="badge b-${st}">${({novo:"Novo",contatado:"Contatado",visitar:"Pra visitar",visitado:"Visitado",fechado:"Fechado",descartado:"Não precisa"})[st]}</span>
+      <div class="acoes">
+        ${ligar}
+        ${zap}
+        <a class="a-nav" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/?api=1&destination=${endMaps(it)}&travelmode=driving">🧭 Navegar</a>
+        <button class="a-vis" onclick="marcar('${cod}','visitado')">✅ Visitei</button>
+        <button class="a-fec a-full" onclick="marcar('${cod}','fechado')">🤝 Fechei o cliente</button>
+        ${desc
+          ? `<button class="a-desc a-full" onclick="marcar('${cod}','visitar')">↩️ Reativar</button>`
+          : `<button class="a-desc a-full" onclick="marcar('${cod}','descartado')">❌ Não precisa do serviço</button>`}
+      </div>
+    </div>`;
+  }).join("");
+  // botao maps
+  const mb=document.getElementById("maps-btn"), av=document.getElementById("aviso");
+  const m=montarMapsURL(STOPS);
+  if(m){ mb.style.display="block"; mb.href=m.url;
+    av.textContent = m.total>m.usados ? `Rota com as ${m.usados} primeiras de ${m.total} paradas (limite do Maps).` : "";
+  } else { mb.style.display="none"; }
+  document.getElementById("resumo").textContent =
+    `${ord.filter(s=>STATUS[s.CodigoAuto]!=="descartado").length} obras pra captar · toque para ligar, navegar ou marcar`;
+}
+
+async function iniciar(){
+  document.getElementById("carregando").style.display="block";
+  const codigos=await codigosDaRota();
+  await carregarJSON();
+  await carregarStatus(codigos);
+  STOPS = codigos.map(c=>INDEX[c]).filter(Boolean);
+  document.getElementById("carregando").style.display="none";
+  document.getElementById("hsub").textContent = PERFIL.vendedor ? PERFIL.vendedor : (PERFIL.papel==="admin"?"Escritório":"");
+  if(!STOPS.length){ document.getElementById("vazio").style.display="block"; return; }
+  renderLista();
+}
+
+// ---- login (mesma conta do painel) ----
+async function aplicarSessao(user){
+  try{
+    const {data}=await SB.from("perfis").select("papel,vendedor").eq("id",user.id).single();
+    PERFIL = {papel:(data&&data.papel)||null, vendedor:(data&&data.vendedor)||null};
+  }catch(e){ PERFIL={papel:null,vendedor:null}; }
+  document.getElementById("login").style.display="none";
+  iniciar();
+}
+(function(){
+  const ov=document.getElementById("login");
+  SB.auth.getSession().then(res=>{
+    if(res.data.session) aplicarSessao(res.data.session.user);
+    else ov.style.display="flex";
+  });
+  document.getElementById("lg-entrar").onclick=async function(){
+    const er=document.getElementById("lg-erro"); er.textContent="";
+    const r=await SB.auth.signInWithPassword({
+      email:document.getElementById("lg-email").value.trim(),
+      password:document.getElementById("lg-senha").value});
+    if(r.error){ er.textContent=(r.error.message==="Invalid login credentials")?"E-mail ou senha incorretos.":r.error.message; return; }
+    aplicarSessao(r.data.user);
+  };
+  document.getElementById("lg-senha").addEventListener("keydown",e=>{ if(e.key==="Enter") document.getElementById("lg-entrar").click(); });
+})();
+</script>
+</body>
+</html>

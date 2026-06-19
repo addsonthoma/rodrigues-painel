@@ -153,6 +153,12 @@
   <button class="vtab" data-v="BANANA" onclick="setVendedor('BANANA')">🟢 Banana · Brusque/Vale</button>
   <button class="vtab" data-v="GUILHERME" onclick="setVendedor('GUILHERME')">🔵 Guilherme · Litoral</button>
   <button class="vtab" data-v="ALINE" onclick="setVendedor('ALINE')">🟣 Aline · Botuverá</button>
+  <span class="vsep"></span>
+  <button id="btn-captacao" class="vtab cap" onclick="toggleCaptacao()">🚗 Captação / Rota</button>
+ </div>
+ <div id="status-bar">
+  <span class="vlbl">Status</span><span id="status-chips"></span>
+  <span class="cap-help">marque ✅🚩🤝❌ nos cartões · selecione e gere a rota →</span>
  </div>
  <div id="filtros">
   <div class="filtro-grupo">
@@ -426,6 +432,7 @@ function itemHTML(item, tipo, isFlash, drill){
     <div class="item-end">${end}</div>
     ${detectLabel ? `<div class="item-detectado">${detectLabel}</div>` : ''}
     ${drillHTML(d)}
+    ${(typeof captacaoControls==='function')?captacaoControls(item):''}
    </div>
    <div class="item-acoes">
     <a class="btn-esci" href="#" onclick="return abrirESci(event, '${item.CodigoAuto}')" title="Copia o código e abre o e-SCI — cole com Ctrl+V">📋 e-SCI</a>
@@ -456,14 +463,15 @@ function render(){
   const drill = dadosDrill.drill || {};
   let cidadesView = vendedorAtivo ? cidades.filter(c=>(VENDEDORES[vendedorAtivo]||[]).includes(c)) : cidades;
   if(filtroCidades.size) cidadesView = cidadesView.filter(c=>filtroCidades.has(c));
-  const filtrarItens = filtroCategorias.size>0 || filtroTexto.length>0;
+  const capStatusOn = (window.modoCaptacao && window.filtroStatus && window.filtroStatus.size>0);
+  const filtrarItens = filtroCategorias.size>0 || filtroTexto.length>0 || capStatusOn;
   let totalRes = 0;
   const html = cidadesView.map(cid=>{
     let muls = (dadosMul.multas && dadosMul.multas[cid]) || [];
     let afs  = (dadosAf.afs && dadosAf.afs[cid]) || [];
     if(filtrarItens){
-      muls = muls.filter(m=>itemPassaPend(m, drill));
-      afs  = afs.filter(a=>itemPassaPend(a, drill));
+      muls = muls.filter(m=>itemPassaPend(m, drill) && (typeof itemPassaStatus!=='function'||itemPassaStatus(m)));
+      afs  = afs.filter(a=>itemPassaPend(a, drill) && (typeof itemPassaStatus!=='function'||itemPassaStatus(a)));
     }
     totalRes += muls.length + afs.length;
     if(filtroAtivo() && muls.length===0 && afs.length===0) return "";
@@ -577,7 +585,7 @@ let scrollPaused = false;
 const scrollArea = document.getElementById("scroll-area");
 function bannerAtivo(){ return document.getElementById("banner").classList.contains("show"); }
 function autoScrollTick(){
-  if(scrollPaused || bannerAtivo() || filtroAtivo()) return;
+  if(scrollPaused || bannerAtivo() || filtroAtivo() || window.modoCaptacao) return;
   const max = scrollArea.scrollHeight - scrollArea.clientHeight;
   if(max <= 0) return;
   const cur = scrollArea.scrollTop;
@@ -602,6 +610,208 @@ function pauseManual(){
 }
 scrollArea.addEventListener("wheel", pauseManual);
 scrollArea.addEventListener("touchstart", pauseManual);
+</script>
+
+<!-- ===== CAPTAÇÃO / ROTA (seleção + status + QR p/ a rua) ===== -->
+<style>
+ #btn-captacao.cap{background:#1a1320;color:#ffb86b;border:1px solid #4a3a1a}
+ #btn-captacao.cap.on{background:#e8334a;color:#fff;border-color:transparent}
+ #vendedores .vsep{display:inline-block;width:1px;height:18px;background:#2a2a33;margin:0 6px;vertical-align:middle}
+ #status-bar{display:none;align-items:center;gap:8px;background:#101015;padding:8px 28px;border-bottom:1px solid #2a2a33;overflow-x:auto;flex-wrap:wrap}
+ #status-bar .vlbl{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+ #status-bar .cap-help{font-size:11px;color:var(--muted);margin-left:auto}
+ #status-chips .chip{cursor:pointer;font-size:12px;padding:3px 10px;border-radius:14px;border:1px solid #34343f;background:#15151a;color:#cfcfd6;margin-right:5px}
+ #status-chips .chip.on{background:#e8334a;color:#fff;border-color:transparent}
+ .cap-ctrl{width:100%;margin-top:6px;border-top:1px dashed #2a2a33;padding-top:6px;display:flex;flex-wrap:wrap;align-items:center;gap:6px}
+ .cap-check{font-size:11px;color:var(--muted);display:flex;align-items:center;gap:4px;cursor:pointer;white-space:nowrap}
+ .cap-check input{width:15px;height:15px;accent-color:#e8334a}
+ .cap-badge{font-size:10px;font-weight:700;padding:2px 7px;border-radius:12px}
+ .cb-novo{background:#22222b;color:#9a9aa5}.cb-contatado{background:#10283f;color:#6fc0ff}
+ .cb-visitar{background:#3a2a0a;color:#ffb86b}.cb-visitado{background:#0c2f2b;color:#3fe0d0}
+ .cb-fechado{background:#0c2f17;color:#3ee07a}.cb-descartado{background:#2f1116;color:#ff6b81}
+ .cap-btns{display:flex;gap:3px;margin-left:auto}
+ .cap-btns .cb{background:#1b1b22;border:1px solid #2a2a33;border-radius:7px;font-size:14px;line-height:1;padding:4px 7px;cursor:pointer;filter:grayscale(.45);opacity:.8}
+ .cap-btns .cb:hover{opacity:1;filter:none}
+ .cap-btns .cb.on{filter:none;opacity:1;border-color:#e8334a;box-shadow:0 0 0 1px #e8334a}
+ #capt-bar{display:none;position:fixed;left:50%;bottom:18px;transform:translateX(-50%);z-index:300;align-items:center;gap:14px;background:#15151a;border:1px solid #34343f;border-radius:40px;padding:10px 14px 10px 20px;box-shadow:0 10px 30px rgba(0,0,0,.55);font-size:14px;color:#f5f5f7}
+ #capt-bar .cb-clear{background:none;border:0;color:#9a9aa5;cursor:pointer;font-size:12px;text-decoration:underline}
+ #capt-bar .cb-go{background:#e8334a;color:#fff;border:0;border-radius:30px;padding:10px 18px;font-weight:700;cursor:pointer;font-size:14px}
+ #capt-bar .cb-go:hover{background:#ff5566}
+ #capt-modal{display:none;position:fixed;inset:0;z-index:400;background:rgba(0,0,0,.72);align-items:center;justify-content:center;padding:20px}
+ #capt-modal .cm-box{background:#15151a;border:1px solid #34343f;border-radius:16px;padding:22px;width:min(360px,94vw);text-align:center;position:relative;color:#f5f5f7}
+ #capt-modal h3{margin:0 0 4px;font-weight:600}
+ #capt-modal .cm-p{font-size:12.5px;color:#9a9aa5;margin:4px 0 14px}
+ #capt-modal #cm-qr{width:240px;height:240px;background:#fff;border-radius:10px;padding:8px}
+ #capt-modal .cm-row{display:flex;gap:6px;margin:12px 0 8px}
+ #capt-modal .cm-row input{flex:1;min-width:0;background:#0d0d10;border:1px solid #34343f;border-radius:8px;color:#cfcfd6;font-size:11px;padding:8px}
+ #capt-modal .cm-row button,#capt-modal .cm-acoes button{background:#1b1b22;border:1px solid #34343f;color:#f5f5f7;border-radius:8px;padding:9px 12px;cursor:pointer;font-size:13px;font-weight:600}
+ #capt-modal .cm-acoes{display:flex;gap:8px}
+ #capt-modal .cm-acoes button{flex:1}
+ #capt-modal .cm-x{position:absolute;top:10px;right:12px;background:none;border:0;color:#9a9aa5;font-size:18px;cursor:pointer}
+ #cap-toast{position:fixed;left:50%;bottom:80px;transform:translateX(-50%);background:#1b1b22;border:1px solid #34343f;color:#f5f5f7;padding:10px 18px;border-radius:24px;font-size:13px;z-index:500;opacity:0;transition:opacity .2s;pointer-events:none}
+ #cap-toast.show{opacity:1}
+</style>
+<div id="capt-bar">
+ <span><b id="capt-count">0</b> obra(s) selecionada(s)</span>
+ <button class="cb-clear" onclick="limparSelecao()">limpar</button>
+ <button class="cb-go" onclick="gerarRota()">🚗 Gerar rota + QR</button>
+</div>
+<div id="capt-modal">
+ <div class="cm-box">
+  <button class="cm-x" onclick="fecharModalRota()">✕</button>
+  <h3>🚗 Rota gerada · <span id="cm-count"></span> obras</h3>
+  <p class="cm-p">Escaneie com o celular do vendedor pra abrir a rota de campo:</p>
+  <img id="cm-qr" alt="QR Code da rota">
+  <div class="cm-row"><input id="cm-link" readonly><button onclick="copiarLinkRota()">copiar</button></div>
+  <div class="cm-acoes">
+   <button onclick="abrirRotaAqui()">📱 Abrir aqui</button>
+   <button onclick="imprimirRelatorio()">🖨️ Relatório</button>
+  </div>
+ </div>
+</div>
+<div id="cap-toast"></div>
+<script>
+// ===== CAPTAÇÃO =====
+window.modoCaptacao=false; window.statusMap=window.statusMap||{};
+window.selecionados=new Set(); window.filtroStatus=new Set();
+const STATUS_LABELS={novo:"Novos",contatado:"Contatados",visitar:"Pra visitar",visitado:"Visitados",fechado:"Fechados",descartado:"Descartados"};
+const STATUS_BADGE={novo:"Novo",contatado:"Contatado",visitar:"Pra visitar",visitado:"Visitado",fechado:"Fechado",descartado:"Não precisa"};
+
+function vendedorDaCidade(c){ for(const v in VENDEDORES){ if((VENDEDORES[v]||[]).includes(c)) return v; } return null; }
+function capToast(m){ const t=document.getElementById('cap-toast'); if(!t)return; t.textContent=m; t.classList.add('show'); clearTimeout(t._h); t._h=setTimeout(()=>t.classList.remove('show'),2000); }
+function acharItem(cod){
+  for(const c in (dadosMul.multas||{})){ const f=(dadosMul.multas[c]||[]).find(x=>x.CodigoAuto===cod); if(f) return f; }
+  for(const c in (dadosAf.afs||{})){ const f=(dadosAf.afs[c]||[]).find(x=>x.CodigoAuto===cod); if(f) return f; }
+  return null;
+}
+
+// controles que aparecem em cada cartao quando o modo captacao esta ligado
+function captacaoControls(item){
+  if(!window.modoCaptacao) return "";
+  const cod=item.CodigoAuto, st=(window.statusMap[cod]||"novo"), sel=window.selecionados.has(cod);
+  const e=cod.replace(/'/g,"\\'");
+  return `<div class="cap-ctrl">
+   <label class="cap-check"><input type="checkbox" ${sel?'checked':''} onchange="toggleSel('${e}')"> selecionar</label>
+   <span class="cap-badge cb-${st}">${STATUS_BADGE[st]}</span>
+   <div class="cap-btns">
+    <button class="cb ${st==='contatado'?'on':''}" onclick="marcarStatus('${e}','contatado')" title="Já liguei/falei">✅</button>
+    <button class="cb ${st==='visitar'?'on':''}" onclick="marcarStatus('${e}','visitar')" title="Separar pra visitar">🚩</button>
+    <button class="cb ${st==='fechado'?'on':''}" onclick="marcarStatus('${e}','fechado')" title="Fechou cliente">🤝</button>
+    <button class="cb ${st==='descartado'?'on':''}" onclick="marcarStatus('${e}','descartado')" title="Não precisa">❌</button>
+   </div>
+  </div>`;
+}
+function itemPassaStatus(item){
+  if(!window.modoCaptacao || !window.filtroStatus.size) return true;
+  return window.filtroStatus.has(window.statusMap[item.CodigoAuto]||"novo");
+}
+
+function toggleCaptacao(){
+  window.modoCaptacao=!window.modoCaptacao;
+  document.body.classList.toggle('modo-captacao', window.modoCaptacao);
+  const b=document.getElementById('btn-captacao'); if(b) b.classList.toggle('on', window.modoCaptacao);
+  document.getElementById('status-bar').style.display = window.modoCaptacao?'flex':'none';
+  if(window.modoCaptacao){ construirStatusChips(); carregarStatusPainel(); }
+  atualizarBarra(); render();
+}
+function construirStatusChips(){
+  const box=document.getElementById('status-chips'); if(!box) return;
+  box.innerHTML=Object.keys(STATUS_LABELS).map(s=>`<span class="chip${window.filtroStatus.has(s)?' on':''}" onclick="toggleStatusFiltro('${s}')">${STATUS_LABELS[s]}</span>`).join("");
+}
+function toggleStatusFiltro(s){ window.filtroStatus.has(s)?window.filtroStatus.delete(s):window.filtroStatus.add(s); construirStatusChips(); render(); }
+
+async function marcarStatus(cod, status){
+  const cur=window.statusMap[cod]||"novo";
+  const novo=(cur===status)?"novo":status;
+  window.statusMap[cod]=novo; render();
+  if(!window.SB){ capToast('⚠️ Faça login p/ salvar'); return; }
+  const it=acharItem(cod);
+  const vend=(window.PERFIL_PAINEL&&window.PERFIL_PAINEL.papel==='admin')
+      ? vendedorDaCidade(it?it.Cidade:null)
+      : (window.PERFIL_PAINEL&&window.PERFIL_PAINEL.vendedor) || vendedorDaCidade(it?it.Cidade:null);
+  const {error}=await window.SB.from('lead_status')
+    .upsert({codigo_auto:cod,vendedor:vend,status:novo,atualizado_em:new Date().toISOString()},{onConflict:'codigo_auto'});
+  if(error){ capToast('⚠️ Não salvou (login?)'); console.warn(error); }
+}
+
+function toggleSel(cod){ window.selecionados.has(cod)?window.selecionados.delete(cod):window.selecionados.add(cod); atualizarBarra(); }
+function limparSelecao(){ window.selecionados.clear(); atualizarBarra(); render(); }
+function atualizarBarra(){
+  const bar=document.getElementById('capt-bar'); if(!bar) return;
+  const n=window.selecionados.size;
+  bar.style.display=(window.modoCaptacao && n>0)?'flex':'none';
+  const c=document.getElementById('capt-count'); if(c) c.textContent=n;
+}
+
+async function gerarRota(){
+  const cods=[...window.selecionados];
+  if(!cods.length) return;
+  const id=Math.random().toString(36).slice(2,8);
+  const vend=(window.PERFIL_PAINEL&&window.PERFIL_PAINEL.papel==='admin')
+      ? (vendedorAtivo||null) : (window.PERFIL_PAINEL&&window.PERFIL_PAINEL.vendedor);
+  let usouBanco=false;
+  if(window.SB){
+    const {error}=await window.SB.from('rotas').insert({id,vendedor:vend,codigos:cods});
+    if(!error) usouBanco=true; else console.warn(error);
+  }
+  const base=location.href.split('#')[0].split('?')[0].replace(/[^/]*$/,'');
+  const url=usouBanco ? (base+'rota.html#r='+id) : (base+'rota.html#c='+cods.join(','));
+  abrirModalRota(url,cods);
+}
+function abrirModalRota(url,cods){
+  document.getElementById('cm-qr').src='https://api.qrserver.com/v1/create-qr-code/?size=240x240&margin=10&data='+encodeURIComponent(url);
+  document.getElementById('cm-link').value=url;
+  document.getElementById('cm-count').textContent=cods.length;
+  window._rotaURL=url; window._rotaCods=cods;
+  document.getElementById('capt-modal').style.display='flex';
+}
+function fecharModalRota(){ document.getElementById('capt-modal').style.display='none'; }
+function copiarLinkRota(){ const i=document.getElementById('cm-link'); i.select(); try{document.execCommand('copy');}catch(e){} capToast('Link copiado'); }
+function abrirRotaAqui(){ if(window._rotaURL) window.open(window._rotaURL,'_blank'); }
+function imprimirRelatorio(){
+  const cods=window._rotaCods||[...window.selecionados];
+  const drill=dadosDrill.drill||{};
+  const linhas=cods.map((cod,i)=>{
+    const it=acharItem(cod); if(!it) return "";
+    const d=drill[cod]||{};
+    const end=`${it.Logradouro||""}${it.Numero?", "+it.Numero:""} — ${(it.Bairro||"").replace(/^[^-]+ - /,"")}, ${it.Cidade||""}`;
+    const pend=(d.exigencias||[]).join(" · ")||d.nota||"—";
+    const tel=d.celular||"—";
+    return `<tr><td>${i+1}</td><td><b>${(it.Nome_Edificacao||"")}</b><br><small>${cod}</small></td><td>${end}</td><td>${tel}</td><td>${pend}${(d.prazoDias!=null)?` <b>(${d.prazoDias}d)</b>`:""}</td><td style="width:70px"></td></tr>`;
+  }).join("");
+  const w=window.open('','_blank'); if(!w){ capToast('Permita pop-ups p/ imprimir'); return; }
+  w.document.write(`<html><head><meta charset="utf-8"><title>Relatório de Captação</title>
+   <style>body{font-family:Arial,sans-serif;margin:24px;color:#111}h1{font-size:18px;color:#e8334a}
+   table{width:100%;border-collapse:collapse;font-size:12px;margin-top:8px}th,td{border:1px solid #999;padding:6px;text-align:left;vertical-align:top}
+   th{background:#e8334a;color:#fff}small{color:#666}@media print{button{display:none}}</style></head>
+   <body><h1>🚗 Rota de Captação — Rodrigues Preventivos</h1>
+   <p>${cods.length} obras · gerado em ${new Date().toLocaleString('pt-BR')}</p>
+   <button onclick="print()" style="padding:8px 16px;margin-bottom:6px;cursor:pointer">🖨️ Imprimir / Salvar PDF</button>
+   <table><thead><tr><th>#</th><th>Obra</th><th>Endereço</th><th>Telefone</th><th>Pendência</th><th>Visitado?</th></tr></thead>
+   <tbody>${linhas}</tbody></table></body></html>`);
+  w.document.close();
+}
+
+// carrega o status do banco (sincroniza com o que o vendedor marca no celular)
+async function capInit(user){
+  try{
+    if(!window.PERFIL_PAINEL){
+      const {data}=await window.SB.from('perfis').select('papel,vendedor').eq('id',user.id).single();
+      window.PERFIL_PAINEL={papel:(data&&data.papel)||null,vendedor:(data&&data.vendedor)||null};
+    }
+  }catch(e){ window.PERFIL_PAINEL=window.PERFIL_PAINEL||{papel:null,vendedor:null}; }
+  carregarStatusPainel();
+  if(!window._capStatusTimer) window._capStatusTimer=setInterval(carregarStatusPainel,45000);
+}
+async function carregarStatusPainel(){
+  if(!window.SB) return;
+  try{
+    const {data}=await window.SB.from('lead_status').select('codigo_auto,status');
+    const m={}; for(const r of (data||[])) m[r.codigo_auto]=r.status;
+    window.statusMap=m;
+    if(window.modoCaptacao) render();
+  }catch(e){ console.warn(e); }
+}
 </script>
 
 <!-- ===== LOGIN (acesso independente; trava cada vendedor na sua visão) ===== -->
@@ -629,11 +839,14 @@ scrollArea.addEventListener("touchstart", pauseManual);
 </div>
 <script>
 (function(){
-  // Embutido no portal (iframe) -> sem login: o portal já autentica o admin.
-  if (window.self !== window.top) return;
-  var sb = supabase.createClient(
+  var sb = window.SB = supabase.createClient(
     "https://ziiybllegtdnqwqfaifp.supabase.co",
     "sb_publishable_9yA9b668Pq0Yv9pMOv1dPQ_ZCPDte7m");
+  // Embutido no portal (iframe) -> sem login: o portal já autentica o admin.
+  if (window.self !== window.top){
+    sb.auth.getSession().then(function(r){ if(r.data.session && typeof capInit==='function') capInit(r.data.session.user); });
+    return;
+  }
   var ov = document.getElementById('leads-login');
   ov.style.display = 'flex';   // cobre a tela até resolver a sessão (sem "piscar" leads)
   async function aplicar(user){
@@ -645,6 +858,7 @@ scrollArea.addEventListener("touchstart", pauseManual);
         document.body.classList.add('lead-locked'); // esconde a barra de troca de vendedor
       }
     }catch(e){}
+    if (typeof capInit === 'function') capInit(user);
     ov.style.display = 'none';
   }
   sb.auth.getSession().then(function(res){
