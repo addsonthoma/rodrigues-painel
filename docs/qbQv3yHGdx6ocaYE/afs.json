@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-06-19T12:10:20-03:00",
+  "timestamp": "2026-06-19T12:20:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 671,
+      "ultimo_numero": 672,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T12:10:20-03:00"
+      "ultima_verificacao": "2026-06-19T12:20:26-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T12:10:20-03:00"
+      "ultima_verificacao": "2026-06-19T12:20:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T12:10:20-03:00"
+      "ultima_verificacao": "2026-06-19T12:20:26-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 461,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T12:10:20-03:00"
+      "ultima_verificacao": "2026-06-19T12:20:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 358,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T12:10:20-03:00"
+      "ultima_verificacao": "2026-06-19T12:20:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 354,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T12:10:20-03:00"
+      "ultima_verificacao": "2026-06-19T12:20:26-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 801,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T12:10:20-03:00"
+      "ultima_verificacao": "2026-06-19T12:20:26-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 778,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T12:10:20-03:00"
+      "ultima_verificacao": "2026-06-19T12:20:26-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T12:10:20-03:00"
+      "ultima_verificacao": "2026-06-19T12:20:26-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 821,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T12:10:20-03:00"
+      "ultima_verificacao": "2026-06-19T12:20:26-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000672A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003930A",
+        "Nome_Edificacao": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
+        "Logradouro": "RUA FLORIANÓPOLIS",
+        "Numero": "1017",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-19T12:20:26-03:00"
+      },
       {
         "CodigoAuto": "AF8055000671A/26",
         "Tipo": "AF",
@@ -5739,7 +5750,7 @@
     ]
   },
   "totais": {
-    "Brusque": 61,
+    "Brusque": 62,
     "Botuvera": 24,
     "Guabiruba": 32,
     "Gaspar": 47,
@@ -5750,5 +5761,5 @@
     "Navegantes": 36,
     "Itajai": 70
   },
-  "total_geral": 514
+  "total_geral": 515
 }
