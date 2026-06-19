@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-19T11:00:20-03:00",
+  "timestamp": "2026-06-19T11:10:35-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 671,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:00:20-03:00"
+      "ultima_verificacao": "2026-06-19T11:10:35-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:00:20-03:00"
+      "ultima_verificacao": "2026-06-19T11:10:35-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:00:20-03:00"
+      "ultima_verificacao": "2026-06-19T11:10:35-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 456,
+      "ultimo_numero": 457,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:00:20-03:00"
+      "ultima_verificacao": "2026-06-19T11:10:35-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 358,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:00:20-03:00"
+      "ultima_verificacao": "2026-06-19T11:10:35-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 354,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:00:20-03:00"
+      "ultima_verificacao": "2026-06-19T11:10:35-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 801,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:00:20-03:00"
+      "ultima_verificacao": "2026-06-19T11:10:35-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 778,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:00:20-03:00"
+      "ultima_verificacao": "2026-06-19T11:10:35-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 240,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:00:20-03:00"
+      "ultima_verificacao": "2026-06-19T11:10:35-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 821,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-19T11:00:20-03:00"
+      "ultima_verificacao": "2026-06-19T11:10:35-03:00"
     }
   },
   "afs": {
@@ -1357,6 +1357,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000457A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001259A",
+        "Nome_Edificacao": "Imóvel",
+        "Logradouro": "RUA ITAJAÍ",
+        "Numero": "330",
+        "Bairro": "GASPAR - CENTRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-19T11:10:35-03:00"
+      },
       {
         "CodigoAuto": "AF8117000456A/26",
         "Tipo": "AF",
@@ -5687,7 +5698,7 @@
     "Brusque": 61,
     "Botuvera": 24,
     "Guabiruba": 32,
-    "Gaspar": 42,
+    "Gaspar": 43,
     "Porto Belo": 67,
     "Nova Trento": 44,
     "Itapema": 68,
@@ -5695,5 +5706,5 @@
     "Navegantes": 36,
     "Itajai": 70
   },
-  "total_geral": 509
+  "total_geral": 510
 }
