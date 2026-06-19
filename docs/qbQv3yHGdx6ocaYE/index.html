@@ -826,7 +826,10 @@ async function carregarStatusPainel(){
   #leads-login button{width:min(300px,90vw);padding:11px;border:0;border-radius:9px;background:#e8334a;color:#fff;font-size:15px;font-weight:600;cursor:pointer}
   #leads-login button:hover{background:#ff5566}
   #ll-erro{color:#e8334a;font-size:13px;min-height:16px}
-  body.lead-locked #vendedores{display:none}
+  /* vendedor travado: esconde só a troca de vendedor, mantém o botão de Captação */
+  body.lead-locked #vendedores .vlbl,
+  body.lead-locked #vendedores .vtab[data-v],
+  body.lead-locked #vendedores .vsep{display:none}
 </style>
 <div id="leads-login">
   <img src="logo.png" alt="" onerror="this.style.display='none'">
