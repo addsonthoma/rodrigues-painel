@@ -47,6 +47,11 @@ def salvar(fp, data):
 
 def main():
     estado  = carregar(ESTADO_FP, {"cidades":{}})
+    # TRAVA anti-zeramento: se o estado vier sem cidades, ABORTA (nao regrava vazio,
+    # senao zera as multas do painel — bug que ja aconteceu em 17/06/2026).
+    if not estado.get("cidades"):
+        print("[!] estado.json SEM cidades — abortando para nao zerar o painel. Restaure scripts/estado.json.")
+        return
     eventos = carregar(EVENTOS_FP, {"eventos":[]})
     multas  = carregar(DADOS_FP, {"cidades":{}, "multas":{}, "eventos_recentes":[], "total_geral":0})
     novos_total = 0
