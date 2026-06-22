@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-06-22T13:17:31-03:00",
+  "timestamp": "2026-06-22T13:27:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 74,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T13:17:31-03:00"
+      "ultima_verificacao": "2026-06-22T13:27:31-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T13:17:31-03:00"
+      "ultima_verificacao": "2026-06-22T13:27:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T13:17:31-03:00"
+      "ultima_verificacao": "2026-06-22T13:27:31-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 41,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T13:17:31-03:00"
+      "ultima_verificacao": "2026-06-22T13:27:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 78,
+      "ultimo_numero": 80,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T13:17:31-03:00"
+      "ultima_verificacao": "2026-06-22T13:27:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 104,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T13:17:31-03:00"
+      "ultima_verificacao": "2026-06-22T13:27:31-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 141,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T13:17:31-03:00"
+      "ultima_verificacao": "2026-06-22T13:27:31-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 167,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T13:17:31-03:00"
+      "ultima_verificacao": "2026-06-22T13:27:31-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 53,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T13:17:31-03:00"
+      "ultima_verificacao": "2026-06-22T13:27:31-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 300,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T13:17:31-03:00"
+      "ultima_verificacao": "2026-06-22T13:27:31-03:00"
     }
   },
   "multas": {
@@ -1498,6 +1498,26 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "MUL8265000079A/26",
+        "RE": "RE8265001466A",
+        "Nome_Edificacao": "JEAN CESAR DE MELO",
+        "Logradouro": "AVENIDA GOVERNADOR CELSO RAMOS",
+        "Numero": "530",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-22T13:27:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8265000080A/26",
+        "RE": "RE8265001766A",
+        "Nome_Edificacao": "Residencial Vian",
+        "Logradouro": "RUA RUDY ARNALDO HINTZ",
+        "Numero": "294",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-22T13:27:31-03:00"
+      },
+      {
         "CodigoAuto": "MUL8265000078A/26",
         "RE": "RE8265000019A",
         "Nome_Edificacao": "SHOPPING PORTO DAS AGUAS",
@@ -1701,10 +1721,24 @@
     "Itapema": 24,
     "Navegantes": 15,
     "Nova Trento": 21,
-    "Porto Belo": 21
+    "Porto Belo": 23
   },
-  "total_geral": 173,
+  "total_geral": 175,
   "eventos_recentes": [
+    {
+      "ts": "2026-06-22T13:27:31-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000080A/26",
+      "nome": "Residencial Vian",
+      "re": "RE8265001766A"
+    },
+    {
+      "ts": "2026-06-22T13:27:31-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000079A/26",
+      "nome": "JEAN CESAR DE MELO",
+      "re": "RE8265001466A"
+    },
     {
       "ts": "2026-06-22T13:17:31-03:00",
       "cidade": "Itapema",
@@ -2040,20 +2074,6 @@
       "codigo": "MUL8047000153A/26",
       "nome": "Ergidia Tomaz de Souza",
       "re": "RE8047011874A"
-    },
-    {
-      "ts": "2026-06-15T14:13:05-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000137A/26",
-      "nome": "PW CONVENIENCIA E LAVAÇÃO",
-      "re": "RE8163001589A"
-    },
-    {
-      "ts": "2026-06-15T14:13:05-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000136A/26",
-      "nome": "ANA PAULA MAFESSOLLI",
-      "re": "RE8163005208A"
     }
   ]
 }
