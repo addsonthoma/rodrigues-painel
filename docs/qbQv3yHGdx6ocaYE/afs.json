@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-22T16:17:53-03:00",
+  "timestamp": "2026-06-22T16:28:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 685,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-22T16:17:53-03:00"
+      "ultima_verificacao": "2026-06-22T16:28:04-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-22T16:17:53-03:00"
+      "ultima_verificacao": "2026-06-22T16:28:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-22T16:17:53-03:00"
+      "ultima_verificacao": "2026-06-22T16:28:04-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 461,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-22T16:17:53-03:00"
+      "ultima_verificacao": "2026-06-22T16:28:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 359,
+      "ultimo_numero": 360,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-22T16:17:53-03:00"
+      "ultima_verificacao": "2026-06-22T16:28:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 354,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-22T16:17:53-03:00"
+      "ultima_verificacao": "2026-06-22T16:28:04-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 811,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-22T16:17:53-03:00"
+      "ultima_verificacao": "2026-06-22T16:28:04-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 787,
+      "ultimo_numero": 788,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-22T16:17:53-03:00"
+      "ultima_verificacao": "2026-06-22T16:28:04-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 245,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-22T16:17:53-03:00"
+      "ultima_verificacao": "2026-06-22T16:28:04-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 837,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-22T16:17:53-03:00"
+      "ultima_verificacao": "2026-06-22T16:28:04-03:00"
     }
   },
   "afs": {
@@ -2030,6 +2030,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000360A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001378A",
+        "Nome_Edificacao": "JOANA PAULA WYSOCKI",
+        "Logradouro": "RUA LUIZ ALBERTO PEREIRA DA SILVA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-22T16:28:04-03:00"
+      },
       {
         "CodigoAuto": "AF8265000359A/26",
         "Tipo": "AF",
@@ -4126,6 +4137,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047000788A/26",
+        "Tipo": "AF",
+        "RE": "RE8047004168A",
+        "Nome_Edificacao": "MY ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "RUA DR. PEDRO ZIMMERMANN",
+        "Numero": "13663",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-22T16:28:04-03:00"
+      },
       {
         "CodigoAuto": "AF8047000787A/26",
         "Tipo": "AF",
@@ -6348,12 +6370,12 @@
     "Botuvera": 24,
     "Guabiruba": 32,
     "Gaspar": 47,
-    "Porto Belo": 68,
+    "Porto Belo": 69,
     "Nova Trento": 44,
     "Itapema": 78,
-    "Blumenau": 74,
+    "Blumenau": 75,
     "Navegantes": 41,
     "Itajai": 86
   },
-  "total_geral": 569
+  "total_geral": 571
 }
