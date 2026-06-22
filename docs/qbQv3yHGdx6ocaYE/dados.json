@@ -1,79 +1,99 @@
 {
-  "timestamp": "2026-06-22T14:37:32-03:00",
+  "timestamp": "2026-06-22T14:57:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 78,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:37:32-03:00"
+      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:37:32-03:00"
+      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:37:32-03:00"
+      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 41,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:37:32-03:00"
+      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 80,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:37:32-03:00"
+      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 104,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:37:32-03:00"
+      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 141,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:37:32-03:00"
+      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 168,
+      "ultimo_numero": 170,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:37:32-03:00"
+      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 53,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:37:32-03:00"
+      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 302,
+      "ultimo_numero": 303,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:37:32-03:00"
+      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000169A/26",
+        "RE": "RE8047010845A",
+        "Nome_Edificacao": "L.J. TRUCK CENTER LTDA ME",
+        "Logradouro": "RUA SAMUEL MORSE",
+        "Numero": "926",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-22T14:57:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000170A/26",
+        "RE": "RE8047011270A",
+        "Nome_Edificacao": "VITAEXPOSITORES.ORGANIZADORES@GMAIL.COM",
+        "Logradouro": "Rua 2 de setembro",
+        "Numero": "1312",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-22T14:57:31-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000168A/26",
         "RE": "RE8047008289A",
@@ -823,6 +843,16 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000303A/26",
+        "RE": "RE8161009568A",
+        "Nome_Edificacao": "Almede Maria de Borba",
+        "Logradouro": "Rua Eurico Adam",
+        "Numero": "50",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-22T14:57:31-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000302A/26",
         "RE": "RE8161001409A",
@@ -1782,60 +1812,39 @@
     ]
   },
   "totais": {
-    "Blumenau": 33,
+    "Blumenau": 35,
     "Botuvera": 3,
     "Brusque": 23,
     "Gaspar": 17,
     "Guabiruba": 3,
-    "Itajai": 20,
+    "Itajai": 21,
     "Itapema": 24,
     "Navegantes": 15,
     "Nova Trento": 21,
     "Porto Belo": 23
   },
-  "total_geral": 182,
+  "total_geral": 185,
   "eventos_recentes": [
     {
-      "ts": "2026-06-22T14:37:32-03:00",
+      "ts": "2026-06-22T14:57:31-03:00",
       "cidade": "Itajai",
-      "codigo": "MUL8161000302A/26",
-      "nome": "SABRINA DA SILVA ANGIOLETTI ME",
-      "re": "RE8161001409A"
+      "codigo": "MUL8161000303A/26",
+      "nome": "Almede Maria de Borba",
+      "re": "RE8161009568A"
     },
     {
-      "ts": "2026-06-22T14:37:32-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000078A/26",
-      "nome": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
-      "re": "RE8055003936A"
-    },
-    {
-      "ts": "2026-06-22T14:37:32-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000077A/26",
-      "nome": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
-      "re": "RE8055003936A"
-    },
-    {
-      "ts": "2026-06-22T14:27:32-03:00",
+      "ts": "2026-06-22T14:57:31-03:00",
       "cidade": "Blumenau",
-      "codigo": "MUL8047000168A/26",
-      "nome": "INÁCIO WITTHOEFT",
-      "re": "RE8047008289A"
+      "codigo": "MUL8047000170A/26",
+      "nome": "VITAEXPOSITORES.ORGANIZADORES@GMAIL.COM",
+      "re": "RE8047011270A"
     },
     {
-      "ts": "2026-06-22T14:27:32-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000076A/26",
-      "nome": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
-      "re": "RE8055003935A"
-    },
-    {
-      "ts": "2026-06-22T14:27:32-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000075A/26",
-      "nome": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
-      "re": "RE8055003935A"
+      "ts": "2026-06-22T14:57:31-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000169A/26",
+      "nome": "L.J. TRUCK CENTER LTDA ME",
+      "re": "RE8047010845A"
     },
     {
       "ts": "2026-06-19T16:10:02-03:00",
