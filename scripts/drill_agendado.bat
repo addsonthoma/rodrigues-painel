@@ -20,8 +20,12 @@ git merge -X theirs origin/main -m "sync drill" >> "%LOG%" 2>&1
 REM 2) Roda o drill em cima dos dados frescos
 python scripts\drill_local.py >> "%LOG%" 2>&1
 
-REM 3) Commit + push (so o drill.json / drill_cache.json), com 1 retry se o origin mudou
-git add docs/qbQv3yHGdx6ocaYE/drill.json scripts/drill_cache.json
+REM 2b) Protocolos de analise PPCI/RPCI: coleta novos + enriquece (area/data/deferido/anexos)
+python scripts\coletar_protocolos.py >> "%LOG%" 2>&1
+python scripts\drill_protocolos.py >> "%LOG%" 2>&1
+
+REM 3) Commit + push (so os JSONs gerados), com 1 retry se o origin mudou
+git add docs/qbQv3yHGdx6ocaYE/drill.json scripts/drill_cache.json docs/qbQv3yHGdx6ocaYE/protocolos.json scripts/estado_protocolos.json
 git diff --cached --quiet
 if errorlevel 1 (
     git commit -m "Drill agendado %DATE%" >> "%LOG%" 2>&1

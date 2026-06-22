@@ -30,7 +30,7 @@
   .stop .cod{font-size:11px;font-family:ui-monospace,monospace;color:var(--muted)}
   .stop .tipo{display:inline-block;font-size:10px;font-weight:700;padding:1px 6px;border-radius:5px;
               margin-right:6px;vertical-align:1px}
-  .tipo.mul{background:#3a1620;color:#ff6b81}.tipo.af{background:#13283c;color:#6fc0ff}
+  .tipo.mul{background:#3a1620;color:#ff6b81}.tipo.af{background:#13283c;color:#6fc0ff}.tipo.proj{background:#1a1320;color:#ffb86b}
   .stop .nome{font-size:16px;font-weight:600;margin:5px 0 3px;line-height:1.25}
   .stop .end{font-size:13px;color:var(--muted);line-height:1.35}
   .stop .pend{font-size:12.5px;margin-top:7px;background:#1d1407;border:1px solid #3a2a0a;color:#ffce85;
@@ -144,14 +144,16 @@ function prazoHTML(d){
 // ---- carregar dados (mesmos JSON do painel) ----
 async function carregarJSON(){
   const t=Date.now();
-  const [mul,af,dr] = await Promise.all([
+  const [mul,af,dr,pr] = await Promise.all([
     fetch("dados.json?t="+t,{cache:"no-store"}).then(r=>r.json()).catch(()=>({})),
     fetch("afs.json?t="+t,{cache:"no-store"}).then(r=>r.json()).catch(()=>({})),
-    fetch("drill.json?t="+t,{cache:"no-store"}).then(r=>r.json()).catch(()=>({}))
+    fetch("drill.json?t="+t,{cache:"no-store"}).then(r=>r.json()).catch(()=>({})),
+    fetch("protocolos.json?t="+t,{cache:"no-store"}).then(r=>r.json()).catch(()=>({}))
   ]);
   const idx={};
   for(const c in (mul.multas||{})) for(const it of mul.multas[c]) idx[it.CodigoAuto]={...it,_tipo:"MUL"};
   for(const c in (af.afs||{}))     for(const it of af.afs[c])     idx[it.CodigoAuto]={...it,_tipo:"AF"};
+  for(const c in (pr.protocolos||{})) for(const it of pr.protocolos[c]) idx[it.CodigoProtocolo]={...it,CodigoAuto:it.CodigoProtocolo,_tipo:"PROJ"};
   INDEX = idx;
   DRILL = (dr.drill||{});
 }

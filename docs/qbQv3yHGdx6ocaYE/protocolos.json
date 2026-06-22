@@ -1,0 +1,4252 @@
+{
+  "timestamp": "2026-06-22T14:00:27-03:00",
+  "cidades": {
+    "Brusque": {
+      "prefixo": "8055",
+      "ultimo_numero": 7990,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Botuvera": {
+      "prefixo": "8051",
+      "ultimo_numero": 391,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Guabiruba": {
+      "prefixo": "8123",
+      "ultimo_numero": 1500,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Gaspar": {
+      "prefixo": "8117",
+      "ultimo_numero": 3792,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Porto Belo": {
+      "prefixo": "8265",
+      "ultimo_numero": 3307,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Nova Trento": {
+      "prefixo": "8225",
+      "ultimo_numero": 941,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Itapema": {
+      "prefixo": "8163",
+      "ultimo_numero": 7072,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Blumenau": {
+      "prefixo": "8047",
+      "ultimo_numero": 12769,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Navegantes": {
+      "prefixo": "8221",
+      "ultimo_numero": 4922,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Itajai": {
+      "prefixo": "8161",
+      "ultimo_numero": 14002,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    }
+  },
+  "protocolos": {
+    "Brusque": [
+      {
+        "CodigoProtocolo": "A8055007990A",
+        "RE": "RE8055006738A",
+        "numgEdificacao": 363190,
+        "Nome_Edificacao": "JANDER GARCIA",
+        "Logradouro": "Rua Osvaldo Hassmann",
+        "Numero": "143",
+        "Bairro": "BRUSQUE - Guarani",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-22T14:00:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007989A",
+        "RE": "RE8055003320A",
+        "numgEdificacao": 223696,
+        "Nome_Edificacao": "EDIFICIO JOÃO DELLAGNOLO",
+        "Logradouro": "Rua prefeito germano schaefer",
+        "Numero": "150",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 1244.69,
+        "data": "2026-06-22",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2984270",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:47:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007988A",
+        "RE": "RE8055002772A",
+        "numgEdificacao": 194960,
+        "Nome_Edificacao": "R&R Administradora e Participações Ltda",
+        "Logradouro": "Rua Pedro Hoerner",
+        "Numero": "",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 8.75,
+        "data": "2026-06-22",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2983942",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:48:28-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007987A",
+        "RE": "RE8055002772A",
+        "numgEdificacao": 194960,
+        "Nome_Edificacao": "R&R Administradora e Participações Ltda",
+        "Logradouro": "Rua Pedro Hoerner",
+        "Numero": "",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 1072.69,
+        "data": "2026-06-20",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2983782",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:48:22-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007986A",
+        "RE": "RE8055002772A",
+        "numgEdificacao": 194960,
+        "Nome_Edificacao": "R&R Administradora e Participações Ltda",
+        "Logradouro": "Rua Pedro Hoerner",
+        "Numero": "",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 2582.54,
+        "data": "2026-06-20",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2983777",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:48:17-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007985A",
+        "RE": "RE8055006737A",
+        "numgEdificacao": 363110,
+        "Nome_Edificacao": "PAULO FERNANDO ZEM",
+        "Logradouro": "Rua Carlos Gracher",
+        "Numero": "152",
+        "Bairro": "BRUSQUE - Centro I",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 379.14,
+        "data": "2026-06-19",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2982927",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:48:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007984A",
+        "RE": "RE8055001830A",
+        "numgEdificacao": 153109,
+        "Nome_Edificacao": "Ademar Reuter",
+        "Logradouro": "Rua João Tormena",
+        "Numero": "401",
+        "Bairro": "BRUSQUE - POÇO FUNDO",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 620.02,
+        "data": "2026-06-19",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2982232",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:48:38-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007983A",
+        "RE": "RE8055006735A",
+        "numgEdificacao": 363057,
+        "Nome_Edificacao": "ELIMAR ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Benjamin Constant",
+        "Numero": "55",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 3137.31,
+        "data": "2026-06-19",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2982037",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:48:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007982A",
+        "RE": "RE8055006733A",
+        "numgEdificacao": 362971,
+        "Nome_Edificacao": "Ed. Multifamliar - R. Gilberto Hassmann",
+        "Logradouro": "R GILBERTO HASSMANN",
+        "Numero": "",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 651.85,
+        "data": "2026-06-18",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2980102",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:48:48-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007981A",
+        "RE": "RE8055004442A",
+        "numgEdificacao": 269830,
+        "Nome_Edificacao": "EDIFICIO CENTRO COM. GISELA",
+        "Logradouro": "Rua Azambuja",
+        "Numero": "148",
+        "Bairro": "BRUSQUE - AZAMBUJA",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 8454.66,
+        "data": "2026-06-18",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2979495",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:48:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007980A",
+        "RE": "RE8055006731A",
+        "numgEdificacao": 362886,
+        "Nome_Edificacao": "Magnólia Residence",
+        "Logradouro": "Rua Manoel Tavares",
+        "Numero": "25",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 8519.47,
+        "data": "2026-06-17",
+        "deferido": false,
+        "situacao": "Pagamento efetuado, aguarde fiscalização",
+        "codgSituacao": "PENDENTE_CBMSC",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2978653",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:49:08-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007979A",
+        "RE": "RE8055006721A",
+        "numgEdificacao": 362028,
+        "Nome_Edificacao": "Residencial Veneza",
+        "Logradouro": "Rua Veneza",
+        "Numero": "",
+        "Bairro": "BRUSQUE - Águas Claras",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 428.71,
+        "data": "2026-06-17",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2977827",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15304985,
+            "nome": "CBMSC_18-06-2026_15304985.pdf"
+          },
+          {
+            "id": 15304986,
+            "nome": "CBMSC_18-06-2026_15304986.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:49:13-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007978A",
+        "RE": "RE8055006695A",
+        "numgEdificacao": 359540,
+        "Nome_Edificacao": "KLANN PARTICIPAÇÃO SOCIETARIA",
+        "Logradouro": "Rua João Paulo I",
+        "Numero": "345",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 285.97,
+        "data": "2026-06-16",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2976164",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15330162,
+            "nome": "CBMSC_20-06-2026_15330162.pdf"
+          },
+          {
+            "id": 15330163,
+            "nome": "CBMSC_20-06-2026_15330163.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:49:18-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007977A",
+        "RE": "RE8055006730A",
+        "numgEdificacao": 362728,
+        "Nome_Edificacao": "ZM EMPREENDIMENTOS IMOB. LTDA.",
+        "Logradouro": "AVENIDA OTTO RENAUX",
+        "Numero": "530",
+        "Bairro": "BRUSQUE - São Luiz",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 835.83,
+        "data": "2026-06-16",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2975784",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15305047,
+            "nome": "CBMSC_18-06-2026_15305047.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:49:24-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007976A",
+        "RE": "RE8055006729A",
+        "numgEdificacao": 362689,
+        "Nome_Edificacao": "RZ Confecções",
+        "Logradouro": "RUA JOSE WALENDOWSKY",
+        "Numero": "",
+        "Bairro": "BRUSQUE - POÇO FUNDO",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 304.23,
+        "data": "2026-06-16",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2975078",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15305031,
+            "nome": "CBMSC_18-06-2026_15305031"
+          },
+          {
+            "id": 15305032,
+            "nome": "CBMSC_18-06-2026_15305032"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:49:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007975A",
+        "RE": "RE8055004647A",
+        "numgEdificacao": 275524,
+        "Nome_Edificacao": "INDUSTRIA E COMERCIO DE SORVETES PRIMAVERA LTDA",
+        "Logradouro": "RUA BOTUVERÁ",
+        "Numero": "325",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 2402.04,
+        "data": "2026-06-15",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2973809",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15305058,
+            "nome": "CBMSC_18-06-2026_15305058"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:49:47-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007974A",
+        "RE": "RE8055003930A",
+        "numgEdificacao": 247477,
+        "Nome_Edificacao": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
+        "Logradouro": "RUA FLORIANÓPOLIS",
+        "Numero": "1017",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 2591.94,
+        "data": "2026-06-15",
+        "deferido": false,
+        "situacao": "Indeferido",
+        "codgSituacao": "INDEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2973113",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15322777,
+            "nome": "CBMSC_19-06-2026_15322777.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:49:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007973A",
+        "RE": "RE8055006718A",
+        "numgEdificacao": 361569,
+        "Nome_Edificacao": "TEREZA SALGADOS",
+        "Logradouro": "Rua DJ 011",
+        "Numero": "182",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 60,
+        "data": "2026-06-15",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2972941",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15290917,
+            "nome": "CBMSC_17-06-2026_15290917.pdf"
+          },
+          {
+            "id": 15290918,
+            "nome": "CBMSC_17-06-2026_15290918.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:49:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007972A",
+        "RE": "RE8055006722A",
+        "numgEdificacao": 362053,
+        "Nome_Edificacao": "Ana Paula Gorges Dalsochio",
+        "Logradouro": "Rua das Araras",
+        "Numero": "55",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 80,
+        "data": "2026-06-12",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2969876",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15262561,
+            "nome": "CBMSC_13-06-2026_15262561.pdf"
+          },
+          {
+            "id": 15262562,
+            "nome": "CBMSC_13-06-2026_15262562.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:50:03-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007970A",
+        "RE": "RE8055006726A",
+        "numgEdificacao": 362438,
+        "Nome_Edificacao": "Schmitz Construtora e Incorporadora LTDA",
+        "Logradouro": "Rua das Tulipas",
+        "Numero": "204",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 608.58,
+        "data": "2026-06-11",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2968959",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15262540,
+            "nome": "CBMSC_13-06-2026_15262540.pdf"
+          },
+          {
+            "id": 15262541,
+            "nome": "CBMSC_13-06-2026_15262541"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:50:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007969A",
+        "RE": "RE8055006518A",
+        "numgEdificacao": 349793,
+        "Nome_Edificacao": "RES. GOLDEN LAGOON  - KEY EMPREENDIMENTOS",
+        "Logradouro": "Travessa Lagoa Dourada",
+        "Numero": "",
+        "Bairro": "BRUSQUE - SOUZA CRUZ",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 10213.26,
+        "data": "2026-06-11",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2968703",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:50:15-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007968A",
+        "RE": "RE8055006722A",
+        "numgEdificacao": 362053,
+        "Nome_Edificacao": "Ana Paula Gorges Dalsochio",
+        "Logradouro": "Rua das Araras",
+        "Numero": "55",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8055007967A",
+        "RE": "RE8055006724A",
+        "numgEdificacao": 362395,
+        "Nome_Edificacao": "Schmitz Construtora e Incorporadora LTDA",
+        "Logradouro": "Rua das Tulipas",
+        "Numero": "212",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 608.58,
+        "data": "2026-06-11",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2968337",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15262608,
+            "nome": "CBMSC_13-06-2026_15262608.pdf"
+          },
+          {
+            "id": 15262609,
+            "nome": "CBMSC_13-06-2026_15262609"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:50:20-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007966A",
+        "RE": "RE8055005100A",
+        "numgEdificacao": 292087,
+        "Nome_Edificacao": "Edificação Comercial",
+        "Logradouro": "RUA FREDERICO PETRUSCKY",
+        "Numero": "896",
+        "Bairro": "BRUSQUE - GUARANI",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 920.93,
+        "data": "2026-06-10",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2965536",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15262573,
+            "nome": "CBMSC_13-06-2026_15262573.pdf"
+          },
+          {
+            "id": 15262574,
+            "nome": "CBMSC_13-06-2026_15262574.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:50:24-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007965A",
+        "RE": "RE8055005524A",
+        "numgEdificacao": 308295,
+        "Nome_Edificacao": "DANILO GONÇALVES ROJAS",
+        "Logradouro": "ROD IVO SILVEIRA",
+        "Numero": "6205",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": null,
+        "area": 394.88,
+        "data": "2026-06-10",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2965421",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15318247,
+            "nome": "CBMSC_19-06-2026_15318247.pdf"
+          },
+          {
+            "id": 15318248,
+            "nome": "CBMSC_19-06-2026_15318248.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:50:29-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007964A",
+        "RE": "RE8055005524A",
+        "numgEdificacao": 308295,
+        "Nome_Edificacao": "DANILO GONÇALVES ROJAS",
+        "Logradouro": "ROD IVO SILVEIRA",
+        "Numero": "6205",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": null
+      }
+    ],
+    "Botuvera": [
+      {
+        "CodigoProtocolo": "A8051000391A",
+        "RE": "RE8051000290A",
+        "numgEdificacao": 354391,
+        "Nome_Edificacao": "Vilmar Paloschi",
+        "Logradouro": "Avenida Paulo VI",
+        "Numero": "43",
+        "Bairro": "BOTUVERÁ - CENTRO",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 188.75,
+        "data": "2026-05-26",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2939676",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15110009,
+            "nome": "CBMSC_27-05-2026_15110009.pdf"
+          },
+          {
+            "id": 15110010,
+            "nome": "CBMSC_27-05-2026_15110010.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:50:39-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000390A",
+        "RE": "RE8051000203A",
+        "numgEdificacao": 225775,
+        "Nome_Edificacao": "L J INDÚSTRIA TÊXTIL LTDA",
+        "Logradouro": "estrada geral aguas negras",
+        "Numero": "3112",
+        "Bairro": "BOTUVERÁ - AGUAS NEGRAS",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 4200,
+        "data": "2026-06-19",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2982125",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15326474,
+            "nome": "CBMSC_19-06-2026_15326474.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:50:55-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000389A",
+        "RE": "RE8051000292A",
+        "numgEdificacao": 356293,
+        "Nome_Edificacao": "ANDREA FATIMA DOS SANTOS RAIMONDI",
+        "Logradouro": "RUA GERMANO PEDRINI",
+        "Numero": "60",
+        "Bairro": "BOTUVERÁ - GABIROBA",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 77.7,
+        "data": "2026-03-26",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2839979",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 14586863,
+            "nome": "CBMSC_27-03-2026_14586863.pdf"
+          },
+          {
+            "id": 14586864,
+            "nome": "CBMSC_27-03-2026_14586864.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:51:02-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000388A",
+        "RE": "RE8051000099A",
+        "numgEdificacao": 113902,
+        "Nome_Edificacao": "POSTO DE GASOLINA POZZI LTDA",
+        "Logradouro": "Avenida Paulo VI",
+        "Numero": "199",
+        "Bairro": "BOTUVERÁ - CENTRO",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 287.9,
+        "data": "2026-03-31",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2847174",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 14622121,
+            "nome": "CBMSC_31-03-2026_14622121.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:51:09-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000387A",
+        "RE": "RE8051000291A",
+        "numgEdificacao": 355803,
+        "Nome_Edificacao": "Joceli Aparecida Rosa",
+        "Logradouro": "ESTRADA GERAL SESSENTA",
+        "Numero": "3311",
+        "Bairro": "BOTUVERÁ - SESSENTA",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 20,
+        "data": "2026-03-20",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2829719",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 14807172,
+            "nome": "CBMSC_23-04-2026_14807172.pdf"
+          },
+          {
+            "id": 14807173,
+            "nome": "CBMSC_23-04-2026_14807173.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:51:14-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000386A",
+        "RE": "RE8051000290A",
+        "numgEdificacao": 354391,
+        "Nome_Edificacao": "Vilmar Paloschi",
+        "Logradouro": "Avenida Paulo VI",
+        "Numero": "43",
+        "Bairro": "BOTUVERÁ - CENTRO",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 223,
+        "data": "2026-03-03",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2798142",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 14369660,
+            "nome": "CBMSC_05-03-2026_14369660.pdf"
+          },
+          {
+            "id": 14369661,
+            "nome": "CBMSC_05-03-2026_14369661.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:50:39-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000385A",
+        "RE": "RE8051000289A",
+        "numgEdificacao": 351932,
+        "Nome_Edificacao": "DANIEL FERREIRA",
+        "Logradouro": "RUA PG 07",
+        "Numero": "120",
+        "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 84,
+        "data": "2026-01-30",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2743048",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 14086070,
+            "nome": "CBMSC_02-02-2026_14086070.pdf"
+          },
+          {
+            "id": 14086071,
+            "nome": "CBMSC_02-02-2026_14086071.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:51:22-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000384A",
+        "RE": "RE8051000289A",
+        "numgEdificacao": 351932,
+        "Nome_Edificacao": "DANIEL FERREIRA",
+        "Logradouro": "RUA PG 07",
+        "Numero": "120",
+        "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
+        "Cidade": "Botuvera",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8051000383A",
+        "RE": "RE8051000289A",
+        "numgEdificacao": 351932,
+        "Nome_Edificacao": "DANIEL FERREIRA",
+        "Logradouro": "RUA PG 07",
+        "Numero": "120",
+        "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
+        "Cidade": "Botuvera",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8051000382A",
+        "RE": "RE8051000229A",
+        "numgEdificacao": 271205,
+        "Nome_Edificacao": "Rikju - Galpão",
+        "Logradouro": "RODOVIA SC 486, KM 47",
+        "Numero": "1680",
+        "Bairro": "BOTUVERÁ - SALTO",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 150,
+        "data": "2026-01-26",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2735718",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 14059025,
+            "nome": "CBMSC_29-01-2026_14059025.pdf"
+          },
+          {
+            "id": 14059026,
+            "nome": "CBMSC_29-01-2026_14059026.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:51:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000381A",
+        "RE": "RE8051000282A",
+        "numgEdificacao": 344668,
+        "Nome_Edificacao": "Sociedade Esportiva Ourífico F. C.",
+        "Logradouro": "RUA ESTRADA GERAL",
+        "Numero": "",
+        "Bairro": "BOTUVERÁ - RIBEIRAO DO OURO",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 566.7,
+        "data": "2026-01-28",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2738946",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 14060170,
+            "nome": "CBMSC_29-01-2026_14060170.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:51:41-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000380A",
+        "RE": "RE8051000288A",
+        "numgEdificacao": 348729,
+        "Nome_Edificacao": "JOSE BENICIO RADAVELLI",
+        "Logradouro": "ROD GERMANO BARNI",
+        "Numero": "",
+        "Bairro": "BOTUVERÁ - RIBEIRAO DO OURO",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 202.91,
+        "data": "2026-01-27",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2736293",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 14060745,
+            "nome": "CBMSC_29-01-2026_14060745.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:51:46-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000379A",
+        "RE": "RE8051000015A",
+        "numgEdificacao": 20305,
+        "Nome_Edificacao": "DALFIOS FIAÇÃO",
+        "Logradouro": "estrada geral aguas negras",
+        "Numero": "4149",
+        "Bairro": "BOTUVERÁ - AGUAS NEGRAS",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 9354.26,
+        "data": "2026-06-08",
+        "deferido": false,
+        "situacao": "Indeferido",
+        "codgSituacao": "INDEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2960444",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15226451,
+            "nome": "CBMSC_10-06-2026_15226451.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:51:59-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000378A",
+        "RE": "RE8051000144A",
+        "numgEdificacao": 130496,
+        "Nome_Edificacao": "FIAÇÃO PALOSCHI & COLOMBI LTDA EPP",
+        "Logradouro": "RUA FRANCISCO VICENTINI",
+        "Numero": "1569",
+        "Bairro": "BOTUVERÁ - CENTRO",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 4332.6,
+        "data": "2025-12-15",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2690120",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 13888509,
+            "nome": "CBMSC_08-01-2026_13888509.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:52:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000377A",
+        "RE": "RE8051000038A",
+        "numgEdificacao": 47674,
+        "Nome_Edificacao": "MERIZIO ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "estrada geral aguas negras",
+        "Numero": "2048",
+        "Bairro": "BOTUVERÁ - AGUAS NEGRAS",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 7955.13,
+        "data": "2026-02-05",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2752235",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 14133878,
+            "nome": "CBMSC_06-02-2026_14133878.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:52:39-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000376A",
+        "RE": "RE8051000020A",
+        "numgEdificacao": 28424,
+        "Nome_Edificacao": "DIONATAN MARTINS",
+        "Logradouro": "ESTRADA GERAL",
+        "Numero": "",
+        "Bairro": "BOTUVERÁ - LAJEADO ALTO",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 150,
+        "data": "2025-12-12",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2687482",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 13809139,
+            "nome": "CBMSC_17-12-2025_13809139.pdf"
+          },
+          {
+            "id": 13809140,
+            "nome": "CBMSC_17-12-2025_13809140.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:52:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000375A",
+        "RE": "RE8051000015A",
+        "numgEdificacao": 20305,
+        "Nome_Edificacao": "DALFIOS FIAÇÃO",
+        "Logradouro": "estrada geral aguas negras",
+        "Numero": "4149",
+        "Bairro": "BOTUVERÁ - AGUAS NEGRAS",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 9354.26,
+        "data": "2025-12-10",
+        "deferido": false,
+        "situacao": "Indeferido",
+        "codgSituacao": "INDEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2683751",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 13801154,
+            "nome": "CBMSC_16-12-2025_13801154.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:51:59-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000374A",
+        "RE": "RE8051000286A",
+        "numgEdificacao": 348536,
+        "Nome_Edificacao": "Marcial Vicentini",
+        "Logradouro": "R GABIROBA",
+        "Numero": "541",
+        "Bairro": "BOTUVERÁ - GABIROBA",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 60,
+        "data": "2025-12-04",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2673737",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 13708657,
+            "nome": "CBMSC_05-12-2025_13708657.pdf"
+          },
+          {
+            "id": 13708658,
+            "nome": "CBMSC_05-12-2025_13708658.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:52:59-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000373A",
+        "RE": "RE8051000287A",
+        "numgEdificacao": 348638,
+        "Nome_Edificacao": "Ismael Werner",
+        "Logradouro": "Rua Vereador Isidoro Dalcegio",
+        "Numero": "",
+        "Bairro": "BOTUVERÁ - AGUAS NEGRAS",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 182.19,
+        "data": "2025-12-04",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2673273",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 13708655,
+            "nome": "CBMSC_05-12-2025_13708655.pdf"
+          },
+          {
+            "id": 13708656,
+            "nome": "CBMSC_05-12-2025_13708656.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:53:04-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000372A",
+        "RE": "RE8051000086A",
+        "numgEdificacao": 111732,
+        "Nome_Edificacao": "N E B TEXTIL LTDA",
+        "Logradouro": "RODOVIA PEDRO MERíZIO (SC-486)",
+        "Numero": "",
+        "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 331.88,
+        "data": "2025-12-11",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2685581",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 13769692,
+            "nome": "CBMSC_11-12-2025_13769692.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:53:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000371A",
+        "RE": "RE8051000285A",
+        "numgEdificacao": 347660,
+        "Nome_Edificacao": "Cristiani Regina Bosio",
+        "Logradouro": "ESTRADA GERAL GABIROBA",
+        "Numero": "401",
+        "Bairro": "BOTUVERÁ - GABIROBA",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 215.25,
+        "data": "2025-11-24",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2654517",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 13606074,
+            "nome": "CBMSC_25-11-2025_13606074.pdf"
+          },
+          {
+            "id": 13606075,
+            "nome": "CBMSC_25-11-2025_13606075.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:53:23-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000370A",
+        "RE": "RE8051000234A",
+        "numgEdificacao": 276985,
+        "Nome_Edificacao": "CCO ADMINISTRADORA DE BENS LTDA.",
+        "Logradouro": "Av. Paulo VI",
+        "Numero": "255",
+        "Bairro": "BOTUVERÁ - CENTRO",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 703,
+        "data": "2025-11-05",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2627333",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 13450535,
+            "nome": "CBMSC_06-11-2025_13450535.pdf"
+          },
+          {
+            "id": 13450536,
+            "nome": "CBMSC_06-11-2025_13450536.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:53:28-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000369A",
+        "RE": "RE8051000284A",
+        "numgEdificacao": 345681,
+        "Nome_Edificacao": "Abilio João Bosco",
+        "Logradouro": "R JOAO MORELLI",
+        "Numero": "97",
+        "Bairro": "BOTUVERÁ - CENTRO",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 35,
+        "data": "2025-10-29",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2615718",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 13386195,
+            "nome": "CBMSC_30-10-2025_13386195.pdf"
+          },
+          {
+            "id": 13386196,
+            "nome": "CBMSC_30-10-2025_13386196.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:53:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000368A",
+        "RE": "RE8051000208A",
+        "numgEdificacao": 231821,
+        "Nome_Edificacao": "CRISTIANE ZABEL",
+        "Logradouro": "RODOVIA SC 486",
+        "Numero": "53",
+        "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 120,
+        "data": "2025-09-08",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2519959",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 12860683,
+            "nome": "CBMSC_09-09-2025_12860683.pdf"
+          },
+          {
+            "id": 12860684,
+            "nome": "CBMSC_09-09-2025_12860684.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:53:37-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000367A",
+        "RE": "RE8051000280A",
+        "numgEdificacao": 339519,
+        "Nome_Edificacao": "LB - CONTAINER",
+        "Logradouro": "SALTO ÁGUAS NEGRAS",
+        "Numero": "",
+        "Bairro": "BOTUVERÁ - SALTO",
+        "Cidade": "Botuvera",
+        "Detectado_em": null,
+        "area": 14.7,
+        "data": "2025-09-01",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2505214",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 13132746,
+            "nome": "CBMSC_04-10-2025_13132746.pdf"
+          },
+          {
+            "id": 13132747,
+            "nome": "CBMSC_04-10-2025_13132747.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:53:41-03:00"
+      }
+    ],
+    "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001500A",
+        "RE": "RE8123001190A",
+        "numgEdificacao": 363109,
+        "Nome_Edificacao": "VALMOR MONEGAT",
+        "Logradouro": "Rua dos Imigrantes",
+        "Numero": "290",
+        "Bairro": "GUABIRUBA - IMIGRANTES",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 120,
+        "data": "2026-06-19",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2982907",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15324893,
+            "nome": "analise borracharia.pdf"
+          },
+          {
+            "id": 15324894,
+            "nome": "Documento digitalizado.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:53:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001499A",
+        "RE": "RE8123000941A",
+        "numgEdificacao": 275020,
+        "Nome_Edificacao": "PARQUE MUNICIPAL ERICO VICENTINI",
+        "Logradouro": "RUA PLANÍCIE ALTA",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 270.62,
+        "data": "2026-06-19",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2981912",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15323039,
+            "nome": "CBMSC_19-06-2026_15323039.pdf"
+          },
+          {
+            "id": 15323040,
+            "nome": "CBMSC_19-06-2026_15323040.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:54:18-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001498A",
+        "RE": "RE8123001189A",
+        "numgEdificacao": 362960,
+        "Nome_Edificacao": "RESIDENCIAL IVO KOHLER",
+        "Logradouro": "RUA OSCAR SCHUMACHER",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 414.98,
+        "data": "2026-06-18",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2980026",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15318243,
+            "nome": "CBMSC_19-06-2026_15318243.pdf"
+          },
+          {
+            "id": 15318244,
+            "nome": "CBMSC_19-06-2026_15318244.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:54:28-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001497A",
+        "RE": "RE8123000471A",
+        "numgEdificacao": 167123,
+        "Nome_Edificacao": "VALDIR RUDOLF",
+        "Logradouro": "ALBERTO REICHERT",
+        "Numero": "951",
+        "Bairro": "GUABIRUBA - AIMORE",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 1193.83,
+        "data": "2026-06-18",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2979935",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:54:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001496A",
+        "RE": "RE8123001188A",
+        "numgEdificacao": 362734,
+        "Nome_Edificacao": "UNIDADE BÁSICA DE SÁUDE CESÁRIO RÉGIS",
+        "Logradouro": "Rua São Vendelino",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - LAJEADO BAIXO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 495.69,
+        "data": "2026-06-16",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2976045",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15299089,
+            "nome": "CBMSC_17-06-2026_15299089.pdf"
+          },
+          {
+            "id": 15299091,
+            "nome": "CBMSC_17-06-2026_15299091.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:54:39-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001495A",
+        "RE": "RE8123001187A",
+        "numgEdificacao": 362113,
+        "Nome_Edificacao": "ESTAMPARIA CORES & TONS LTDA",
+        "Logradouro": "RUA IRINEU BOLOGINI",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - IMIGRANTES",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 408,
+        "data": "2026-06-09",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2963370",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15245054,
+            "nome": "CBMSC_11-06-2026_15245054.pdf"
+          },
+          {
+            "id": 15245055,
+            "nome": "CBMSC_11-06-2026_15245055.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:54:44-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001494A",
+        "RE": "RE8123000763A",
+        "numgEdificacao": 227083,
+        "Nome_Edificacao": "MJT INCORPORADORA DE BENS LTDA",
+        "Logradouro": "ALOIS ERTHAL",
+        "Numero": "1250",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 163.9,
+        "data": "2026-06-15",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2973371",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15288519,
+            "nome": "CBMSC_16-06-2026_15288519.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:54:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001493A",
+        "RE": "RE8123000941A",
+        "numgEdificacao": 275020,
+        "Nome_Edificacao": "PARQUE MUNICIPAL ERICO VICENTINI",
+        "Logradouro": "RUA PLANÍCIE ALTA",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8123001492A",
+        "RE": "RE8123001183A",
+        "numgEdificacao": 359950,
+        "Nome_Edificacao": "GENESIO JOSE ROMANI - PONTO CACHORRÃO",
+        "Logradouro": "Rua São Vendelino",
+        "Numero": "930",
+        "Bairro": "GUABIRUBA - LAJEADO BAIXO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 63,
+        "data": "2026-06-01",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2949383",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15161227,
+            "nome": "CBMSC_02-06-2026_15161227.pdf"
+          },
+          {
+            "id": 15161228,
+            "nome": "CBMSC_02-06-2026_15161228.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:55:03-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001491A",
+        "RE": "RE8123001170A",
+        "numgEdificacao": 357539,
+        "Nome_Edificacao": "MARIA KORMANN",
+        "Logradouro": "RUA JOÃO KORMANN",
+        "Numero": "146",
+        "Bairro": "GUABIRUBA - AIMORE",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 49,
+        "data": "2026-06-01",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2949339",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15174235,
+            "nome": "CBMSC_03-06-2026_15174235.pdf"
+          },
+          {
+            "id": 15174236,
+            "nome": "CBMSC_03-06-2026_15174236.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:55:09-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001490A",
+        "RE": "RE8123001185A",
+        "numgEdificacao": 361127,
+        "Nome_Edificacao": "MARLISE BAUMGARTNER DEBATIN",
+        "Logradouro": "RUA RUSSLAND",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - AIMORE",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 156,
+        "data": "2026-05-27",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2942032",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15123041,
+            "nome": "CBMSC_28-05-2026_15123041.pdf"
+          },
+          {
+            "id": 15123042,
+            "nome": "CBMSC_28-05-2026_15123042.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:55:14-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001489A",
+        "RE": "RE8123000091A",
+        "numgEdificacao": 36255,
+        "Nome_Edificacao": "REDOTEX TINTURARIA LTDA",
+        "Logradouro": "HOLSTEIN",
+        "Numero": "2435",
+        "Bairro": "GUABIRUBA - SAO PEDRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 130.25,
+        "data": "2026-05-20",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2931214",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15058999,
+            "nome": "CBMSC_21-05-2026_15058999.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:55:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001488A",
+        "RE": "RE8123000091A",
+        "numgEdificacao": 36255,
+        "Nome_Edificacao": "REDOTEX TINTURARIA LTDA",
+        "Logradouro": "HOLSTEIN",
+        "Numero": "2435",
+        "Bairro": "GUABIRUBA - SAO PEDRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8123001487A",
+        "RE": "RE8123000594A",
+        "numgEdificacao": 194811,
+        "Nome_Edificacao": "MARISE ALBRECHT TORMENA",
+        "Logradouro": "SÃO PEDRO",
+        "Numero": "20",
+        "Bairro": "GUABIRUBA - SÃO PEDRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 781.51,
+        "data": "2026-05-18",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2926508",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15045358,
+            "nome": "CBMSC_20-05-2026_15045358.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:56:02-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001486A",
+        "RE": "RE8123000139A",
+        "numgEdificacao": 53792,
+        "Nome_Edificacao": "RODRIGO ZANELATO COCIANI DA SILVA",
+        "Logradouro": "RUA 10 DE JUNHO",
+        "Numero": "1310",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 28.8,
+        "data": "2026-05-15",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2923102",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15018576,
+            "nome": "CBMSC_16-05-2026_15018576.pdf"
+          },
+          {
+            "id": 15018577,
+            "nome": "CBMSC_16-05-2026_15018577.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:56:17-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001485A",
+        "RE": "RE8123001184A",
+        "numgEdificacao": 360037,
+        "Nome_Edificacao": "ATHNEI RINALDO SCHAEFER - Comercial - Matrícula n.º 78.304",
+        "Logradouro": "RUA NICOLAU SCHAEFER",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - IMIGRANTES",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 273.5,
+        "data": "2026-05-14",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2920061",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15007861,
+            "nome": "CBMSC_15-05-2026_15007861.pdf"
+          },
+          {
+            "id": 15007862,
+            "nome": "CBMSC_15-05-2026_15007862.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:56:26-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001484A",
+        "RE": "RE8123000191A",
+        "numgEdificacao": 104680,
+        "Nome_Edificacao": "TECELAGEM MARTINS LTDA- MATRIZ",
+        "Logradouro": "Rua Vereador Silvério Régis",
+        "Numero": "517",
+        "Bairro": "GUABIRUBA - LAJEADO BAIXO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 10343.18,
+        "data": "2026-06-16",
+        "deferido": false,
+        "situacao": "Indeferido",
+        "codgSituacao": "INDEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2975506",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15296273,
+            "nome": "CBMSC_17-06-2026_15296273.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:56:41-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001483A",
+        "RE": "RE8123001177A",
+        "numgEdificacao": 358809,
+        "Nome_Edificacao": "GALPÃO TARCIZIO",
+        "Logradouro": "RUA GUABIRUBA SUL",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 628.83,
+        "data": "2026-05-12",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2916468",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 14990628,
+            "nome": "CBMSC_13-05-2026_14990628.pdf"
+          },
+          {
+            "id": 14990629,
+            "nome": "CBMSC_13-05-2026_14990629.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:56:46-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001482A",
+        "RE": "RE8123001180A",
+        "numgEdificacao": 359273,
+        "Nome_Edificacao": "HOLZ CONFECÇÕES LTDA",
+        "Logradouro": "RUA HOLSTEIN",
+        "Numero": "255",
+        "Bairro": "GUABIRUBA - HOLSTEIN",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 3075.62,
+        "data": "2026-05-11",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2914178",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 14974054,
+            "nome": "CBMSC_12-05-2026_14974054.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:56:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001481A",
+        "RE": "RE8123001181A",
+        "numgEdificacao": 359567,
+        "Nome_Edificacao": "CRISTALINA EMPREENDIMENTOS LTDA - SALA  COMERCIAL",
+        "Logradouro": "10 de Junho",
+        "Numero": "646",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 60,
+        "data": "2026-05-08",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2910392",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 14955194,
+            "nome": "CBMSC_09-05-2026_14955194.pdf"
+          },
+          {
+            "id": 14955195,
+            "nome": "CBMSC_09-05-2026_14955195.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:57:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001480A",
+        "RE": "RE8123001180A",
+        "numgEdificacao": 359273,
+        "Nome_Edificacao": "HOLZ CONFECÇÕES LTDA",
+        "Logradouro": "RUA HOLSTEIN",
+        "Numero": "255",
+        "Bairro": "GUABIRUBA - HOLSTEIN",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8123001479A",
+        "RE": "RE8123001167A",
+        "numgEdificacao": 356242,
+        "Nome_Edificacao": "MANUELA FISCHER",
+        "Logradouro": "JOSE FISCHER",
+        "Numero": "690",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 375.04,
+        "data": "2026-05-05",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2902222",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 14916586,
+            "nome": "CBMSC_06-05-2026_14916586.pdf"
+          },
+          {
+            "id": 14916587,
+            "nome": "CBMSC_06-05-2026_14916587.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:57:05-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001478A",
+        "RE": "RE8123001178A",
+        "numgEdificacao": 358944,
+        "Nome_Edificacao": "LEANDRO SCHLINDWEIN",
+        "Logradouro": "RUA GUABIRUPÉ",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 1480.27,
+        "data": "2026-05-04",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2899180",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 14901781,
+            "nome": "CBMSC_05-05-2026_14901781.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:57:11-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001477A",
+        "RE": "RE8123001059A",
+        "numgEdificacao": 325980,
+        "Nome_Edificacao": "VIA FERREA",
+        "Logradouro": "RUA CATARINA KOHLER",
+        "Numero": "225",
+        "Bairro": "GUABIRUBA - AIMORE",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 1238.27,
+        "data": "2026-05-27",
+        "deferido": false,
+        "situacao": "Indeferido",
+        "codgSituacao": "INDEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2941486",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15212310,
+            "nome": "CBMSC_09-06-2026_15212310.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:57:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001476A",
+        "RE": "RE8123001179A",
+        "numgEdificacao": 358974,
+        "Nome_Edificacao": "JOÃO CARLOS DECKER",
+        "Logradouro": "RUA IRINEU BOLOGNINI",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - IMIGRANTES",
+        "Cidade": "Guabiruba",
+        "Detectado_em": null,
+        "area": 227.81,
+        "data": "2026-04-30",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2897439",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 14901792,
+            "nome": "CBMSC_05-05-2026_14901792.pdf"
+          },
+          {
+            "id": 14901793,
+            "nome": "CBMSC_05-05-2026_14901793.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:57:36-03:00"
+      }
+    ],
+    "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003792A",
+        "RE": "RE8117001581A",
+        "numgEdificacao": 210927,
+        "Nome_Edificacao": "MARIO JOSE WERNER E CIA LTDA",
+        "Logradouro": "Rodovia Ingo Hering",
+        "Numero": "10300",
+        "Bairro": "GASPAR - MARGEM ESQUERDA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-22T14:00:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003791A",
+        "RE": "RE8117003233A",
+        "numgEdificacao": 363189,
+        "Nome_Edificacao": "RENITO FERNANDO NAATZ",
+        "Logradouro": "Rua Celso Antônio Coelho",
+        "Numero": "",
+        "Bairro": "GASPAR - Santa Terezinha",
+        "Cidade": "Gaspar",
+        "Detectado_em": null,
+        "area": 187.83,
+        "data": "2026-06-22",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2984537",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:57:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003790A",
+        "RE": "RE8117002417A",
+        "numgEdificacao": 283003,
+        "Nome_Edificacao": "ARISTIDES LUIZ ZABEL",
+        "Logradouro": "ROD INGO HERING",
+        "Numero": "1720",
+        "Bairro": "GASPAR - MARGEM ESQUERDA",
+        "Cidade": "Gaspar",
+        "Detectado_em": null,
+        "area": 719.67,
+        "data": "2026-06-17",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2979172",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:57:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003789A",
+        "RE": "RE8117003010A",
+        "numgEdificacao": 332549,
+        "Nome_Edificacao": "ANDRE APARECIDO FERNANDES",
+        "Logradouro": "RODOVIA INGO HERING LADO ÍMPAR",
+        "Numero": "10920",
+        "Bairro": "GASPAR - BELCHIOR CENTRAL",
+        "Cidade": "Gaspar",
+        "Detectado_em": null,
+        "area": 901.85,
+        "data": "2026-06-17",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2977153",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15303816,
+            "nome": "CBMSC_17-06-2026_15303816"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:58:03-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003788A",
+        "RE": "RE8117001745A",
+        "numgEdificacao": 224515,
+        "Nome_Edificacao": "35262",
+        "Logradouro": "RUA BONIFÁCIO HAENDCHEN",
+        "Numero": "57",
+        "Bairro": "GASPAR - BELCHIOR CENTRAL",
+        "Cidade": "Gaspar",
+        "Detectado_em": null,
+        "area": 735.25,
+        "data": "2026-06-16",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2976405",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15317036,
+            "nome": "CBMSC_18-06-2026_15317036.pdf"
+          },
+          {
+            "id": 15317037,
+            "nome": "CBMSC_18-06-2026_15317037.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:58:17-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003787A",
+        "RE": "RE8117001745A",
+        "numgEdificacao": 224515,
+        "Nome_Edificacao": "35262",
+        "Logradouro": "RUA BONIFÁCIO HAENDCHEN",
+        "Numero": "57",
+        "Bairro": "GASPAR - BELCHIOR CENTRAL",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003786A",
+        "RE": "RE8117002059A",
+        "numgEdificacao": 251519,
+        "Nome_Edificacao": "CONFECÇÕES ROLLU EIRELI",
+        "Logradouro": "AVENIDA FREI GODOFREDO",
+        "Numero": "2350",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": null,
+        "area": 5954.32,
+        "data": "2026-06-12",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2970598",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "_drillTs": "2026-06-22T13:58:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003785A",
+        "RE": "RE8117001397A",
+        "numgEdificacao": 193666,
+        "Nome_Edificacao": "LIVY MALHAS COMÉRCIO E CONFECÇÕES",
+        "Logradouro": "AVENIDA FREI GODOFREDO - ATÉ 1399 - LADO ÍMPAR",
+        "Numero": "843",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": null,
+        "area": 131.96,
+        "data": "2026-06-11",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2968537",
+        "qtdAnexos": 1,
+        "anexos": [
+          {
+            "id": 15261667,
+            "nome": "CBMSC_12-06-2026_15261667.pdf"
+          }
+        ],
+        "_drillTs": "2026-06-22T13:58:38-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003784A",
+        "RE": "RE8117001397A",
+        "numgEdificacao": 193666,
+        "Nome_Edificacao": "LIVY MALHAS COMÉRCIO E CONFECÇÕES",
+        "Logradouro": "AVENIDA FREI GODOFREDO - ATÉ 1399 - LADO ÍMPAR",
+        "Numero": "843",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003783A",
+        "RE": "RE8117000287A",
+        "numgEdificacao": 18805,
+        "Nome_Edificacao": "CELMAR",
+        "Logradouro": "RUA 20 DE JUNHO",
+        "Numero": "55",
+        "Bairro": "GASPAR - BELCHIOR CENTRAL",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003782A",
+        "RE": "RE8117000287A",
+        "numgEdificacao": 18805,
+        "Nome_Edificacao": "CELMAR",
+        "Logradouro": "RUA 20 DE JUNHO",
+        "Numero": "55",
+        "Bairro": "GASPAR - BELCHIOR CENTRAL",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003781A",
+        "RE": "RE8117003223A",
+        "numgEdificacao": 362166,
+        "Nome_Edificacao": "GALPÃO GILSON OLIVEIRA SILVA",
+        "Logradouro": "Rua Petúnia",
+        "Numero": "",
+        "Bairro": "GASPAR - FIGUEIRA",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003780A",
+        "RE": "RE8117003198A",
+        "numgEdificacao": 358718,
+        "Nome_Edificacao": "NOBRE PADARIA ARTESANAL",
+        "Logradouro": "Rua Cecilia Joana Schneider Krauss",
+        "Numero": "155",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003779A",
+        "RE": "RE8117001408A",
+        "numgEdificacao": 194053,
+        "Nome_Edificacao": "PROJESAN LOGISTICA LTDA",
+        "Logradouro": "Rua Vidal Flávio Dias",
+        "Numero": "1080",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003778A",
+        "RE": "RE8047005249A",
+        "numgEdificacao": 161802,
+        "Nome_Edificacao": "Blumeimport Importação e Exportação Ltda",
+        "Logradouro": "RODOVIA INGO HERING",
+        "Numero": "12010",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003777A",
+        "RE": "RE8117001672A",
+        "numgEdificacao": 219856,
+        "Nome_Edificacao": "ALIANÇA PRODUTOS AGROPECUÁRIOS LTDA",
+        "Logradouro": "AVENIDA DEPUTADO FRANCISCO MASTELLA",
+        "Numero": "4093",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003776A",
+        "RE": "RE8117002878A",
+        "numgEdificacao": 318962,
+        "Nome_Edificacao": "Charles Luciano Deschamps",
+        "Logradouro": "RUA MARIA ALOYSIA ZANCANARO",
+        "Numero": "",
+        "Bairro": "GASPAR - GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003775A",
+        "RE": "RE8117002779A",
+        "numgEdificacao": 307461,
+        "Nome_Edificacao": "RICARDO LUIZ PEREIRA",
+        "Logradouro": "Rua Artur Poffo",
+        "Numero": "13",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003774A",
+        "RE": "RE8117003186A",
+        "numgEdificacao": 357223,
+        "Nome_Edificacao": "NILZA FELIX VAILATI",
+        "Logradouro": "Rua Frei Solano",
+        "Numero": "3040",
+        "Bairro": "GASPAR - GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003773A",
+        "RE": "RE8117000893A",
+        "numgEdificacao": 142623,
+        "Nome_Edificacao": "JEAN CARLOS DA SILVA",
+        "Logradouro": "Rua Manoel Bernardo da Silva",
+        "Numero": "15",
+        "Bairro": "GASPAR - FIGUEIRA",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003772A",
+        "RE": "RE8117002844A",
+        "numgEdificacao": 314122,
+        "Nome_Edificacao": "NASCIMENTO 10 ADMINISTRADORA E INCORPORADORA DE BENS LTDA",
+        "Logradouro": "RODOVIA JORGE LACERDA",
+        "Numero": "3620",
+        "Bairro": "GASPAR - POÇO GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003771A",
+        "RE": "RE8117003220A",
+        "numgEdificacao": 361525,
+        "Nome_Edificacao": "EVOQUE EMPREENDIMENTOS LTDA",
+        "Logradouro": "RUA \"A\"",
+        "Numero": "",
+        "Bairro": "GASPAR - POÇO GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003770A",
+        "RE": "RE8117003218A",
+        "numgEdificacao": 361490,
+        "Nome_Edificacao": "GALPÃO TERRAPLANAGEM SCHRAMM",
+        "Logradouro": "RUA CARLOS ROBERTO SCHRAMM",
+        "Numero": "",
+        "Bairro": "GASPAR - MARGEM ESQUERDA",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003769A",
+        "RE": "RE8117002912A",
+        "numgEdificacao": 322302,
+        "Nome_Edificacao": "Galpão comercial",
+        "Logradouro": "terreno 95",
+        "Numero": "",
+        "Bairro": "GASPAR - GASPAR MIRIM",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003768A",
+        "RE": "RE8117001549A",
+        "numgEdificacao": 206653,
+        "Nome_Edificacao": "EDUWIRGEN LUIZ PAMPLONA",
+        "Logradouro": "Rua Vidal Flávio Dias",
+        "Numero": "2600",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8117003767A",
+        "RE": "RE8117001713A",
+        "numgEdificacao": 223233,
+        "Nome_Edificacao": "EEB OLIMPIO MORETTO",
+        "Logradouro": "Rua Prefeito Leopoldo Schramm",
+        "Numero": "2425",
+        "Bairro": "GASPAR - GASPAR GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": null
+      }
+    ],
+    "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003307A",
+        "RE": "RE8265002784A",
+        "numgEdificacao": 363178,
+        "Nome_Edificacao": "VERSE MULTI HOME",
+        "Logradouro": "RUA ARGEMIRO, LOTE 20, 21 E 22",
+        "Numero": "125",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-22T14:00:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003306A",
+        "RE": "RE8265001906A",
+        "numgEdificacao": 248556,
+        "Nome_Edificacao": "HARMONY OF THE SEAS",
+        "Logradouro": "RUA SÃO PEDRO",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003305A",
+        "RE": "RE8265002782A",
+        "numgEdificacao": 363021,
+        "Nome_Edificacao": "DROGA RAIA",
+        "Logradouro": "AVENIDA GOVERNADOR CELSO RAMOS",
+        "Numero": "759",
+        "Bairro": "PORTO BELO - alto pereque",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003304A",
+        "RE": "RE8265002782A",
+        "numgEdificacao": 363021,
+        "Nome_Edificacao": "DROGA RAIA",
+        "Logradouro": "AVENIDA GOVERNADOR CELSO RAMOS",
+        "Numero": "759",
+        "Bairro": "PORTO BELO - alto pereque",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003303A",
+        "RE": "RE8265002632A",
+        "numgEdificacao": 343750,
+        "Nome_Edificacao": "ESSENZA",
+        "Logradouro": "Rua Onésio Cadore",
+        "Numero": "174",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003302A",
+        "RE": "RE8265002780A",
+        "numgEdificacao": 362980,
+        "Nome_Edificacao": "MISTRAL RESIDENCE",
+        "Logradouro": "RUA JOSÉ ROBERTO OTTO, 1010",
+        "Numero": "1010",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003301A",
+        "RE": "RE8265002778A",
+        "numgEdificacao": 362868,
+        "Nome_Edificacao": "SUPERMERCADO KOCH PORTO BELO - UNIDADE PEREQUÊ",
+        "Logradouro": "AVENIDA GOVERNADOR CELSO RAMOS",
+        "Numero": "",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003300A",
+        "RE": "RE8265002777A",
+        "numgEdificacao": 362754,
+        "Nome_Edificacao": "PILAR",
+        "Logradouro": "AVENIDA JOAO MANOEL JAQUES ESQ COM A RUA ARCHIMEDES JOSE CONSOLI",
+        "Numero": "",
+        "Bairro": "PORTO BELO - BALNEARIO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003299A",
+        "RE": "RE8265002776A",
+        "numgEdificacao": 362700,
+        "Nome_Edificacao": "ORIGENS",
+        "Logradouro": "R ENIO JOSÉ GUERREIRO",
+        "Numero": "",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003298A",
+        "RE": "RE8265002775A",
+        "numgEdificacao": 362610,
+        "Nome_Edificacao": "MONTEROSSO",
+        "Logradouro": "RUA FRANCISCA FIGUEIREDO MORAES",
+        "Numero": "283",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003297A",
+        "RE": "RE8265002773A",
+        "numgEdificacao": 362535,
+        "Nome_Edificacao": "MÔNACO UNIQUE",
+        "Logradouro": "RUA RUDY ARNALDO HINTZ",
+        "Numero": "132",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003296A",
+        "RE": "RE8265002771A",
+        "numgEdificacao": 362518,
+        "Nome_Edificacao": "GRAN CANÁRIA",
+        "Logradouro": "Rua João Soares",
+        "Numero": "120",
+        "Bairro": "PORTO BELO - Balneário Perequê",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003295A",
+        "RE": "RE8265002770A",
+        "numgEdificacao": 362501,
+        "Nome_Edificacao": "ED. DOMANI",
+        "Logradouro": "RUA SANTA TEREZINHA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003294A",
+        "RE": "RE8265000665A",
+        "numgEdificacao": 83885,
+        "Nome_Edificacao": "JOãO OLIDES BEDIN",
+        "Logradouro": "Rua Irineu José Moreira",
+        "Numero": "337",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003293A",
+        "RE": "RE8265002769A",
+        "numgEdificacao": 362230,
+        "Nome_Edificacao": "CIRCUITO DE ESPORTE DE PRAIA CATARINENSE",
+        "Logradouro": "R PEDRO CLAUDINO RAMOS",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003292A",
+        "RE": "RE8265002767A",
+        "numgEdificacao": 362139,
+        "Nome_Edificacao": "BARCELONA RESIDENCE",
+        "Logradouro": "RIA IBIRAMA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - BALNEARIO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003291A",
+        "RE": "RE8265002760A",
+        "numgEdificacao": 361806,
+        "Nome_Edificacao": "ISLAND RESIDENCE",
+        "Logradouro": "RUA WILSON BELBER SN",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003290A",
+        "RE": "RE8265000007A",
+        "numgEdificacao": 3779,
+        "Nome_Edificacao": "VOKKAN PORTO BELO URBANISMO LTDA",
+        "Logradouro": "AVENIDA : GOVERNADOR CELSO RAMOS",
+        "Numero": "3380",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003289A",
+        "RE": "RE8265002766A",
+        "numgEdificacao": 361916,
+        "Nome_Edificacao": "RESIDENCIAL VILLA FORTUNY",
+        "Logradouro": "João de barro",
+        "Numero": "",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003288A",
+        "RE": "RE8265002765A",
+        "numgEdificacao": 361915,
+        "Nome_Edificacao": "JMT EMPREENDIMENTOS IMOBILIARIOS LTDA",
+        "Logradouro": "avenida governador celso ramos",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003287A",
+        "RE": "RE8265001992A",
+        "numgEdificacao": 263471,
+        "Nome_Edificacao": "VOKKAN BJ LTDA",
+        "Logradouro": "RUA HORTENCIA",
+        "Numero": "45",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003286A",
+        "RE": "RE8265002646A",
+        "numgEdificacao": 345782,
+        "Nome_Edificacao": "14 BIS HOME CLUB",
+        "Logradouro": "RUA CARLOS GOMES",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003285A",
+        "RE": "RE8265002764A",
+        "numgEdificacao": 361864,
+        "Nome_Edificacao": "Mar Amar Residence",
+        "Logradouro": "RUA MARÇAL PEREIRA DO NASCIMENTO",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003284A",
+        "RE": "RE8265002762A",
+        "numgEdificacao": 361821,
+        "Nome_Edificacao": "MELBOURNE TOWER",
+        "Logradouro": "RUA JOSE ROBERTO OTTO",
+        "Numero": "",
+        "Bairro": "PORTO BELO - BALNEARIO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003283A",
+        "RE": "RE8265002761A",
+        "numgEdificacao": 361820,
+        "Nome_Edificacao": "Valência SPE",
+        "Logradouro": "Rua Francisco Figueiró Moraes, s/n",
+        "Numero": "",
+        "Bairro": "PORTO BELO - Balneário Perequê",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8265003282A",
+        "RE": "RE8265002759A",
+        "numgEdificacao": 361738,
+        "Nome_Edificacao": "ABSOLUTO RESIDENCE",
+        "Logradouro": "Av. Francisco Severiano dos Santos",
+        "Numero": "",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": null
+      }
+    ],
+    "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000941A",
+        "RE": "RE8225000780A",
+        "numgEdificacao": 353449,
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+        "Logradouro": "RUA GERAL SERRAVAL",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - SERRAVAL",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000940A",
+        "RE": "RE8225000801A",
+        "numgEdificacao": 357504,
+        "Nome_Edificacao": "EVANDRO TOMIO",
+        "Logradouro": "RUA GUILHERME BOTTAMEDI",
+        "Numero": "410",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000939A",
+        "RE": "RE8225000539A",
+        "numgEdificacao": 266968,
+        "Nome_Edificacao": "IGREJA ADVENTISTA DE NOVA TRENTO",
+        "Logradouro": "RUA CARLOS TRIDAPALLI",
+        "Numero": "210",
+        "Bairro": "NOVA TRENTO - BESENELLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000938A",
+        "RE": "RE8225000700A",
+        "numgEdificacao": 342434,
+        "Nome_Edificacao": "MAURICIO WISINTAINER",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "2400",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000937A",
+        "RE": "RE8225000811A",
+        "numgEdificacao": 361464,
+        "Nome_Edificacao": "VAGNER DALLABRIDA",
+        "Logradouro": "RUA LUIS BUSNARDO",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CASCATA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000936A",
+        "RE": "RE8225000726A",
+        "numgEdificacao": 344389,
+        "Nome_Edificacao": "MARCIO MARTINELLI",
+        "Logradouro": "Rodovia SC 108",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000935A",
+        "RE": "RE8225000161A",
+        "numgEdificacao": 69013,
+        "Nome_Edificacao": "MARCENARIA DALRI LTDA",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "185",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000934A",
+        "RE": "RE8225000810A",
+        "numgEdificacao": 360799,
+        "Nome_Edificacao": "SIDNEI MARCHI",
+        "Logradouro": "RUA DA LAGOA",
+        "Numero": "160",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000933A",
+        "RE": "RE8225000183A",
+        "numgEdificacao": 89297,
+        "Nome_Edificacao": "VILSON VENERI",
+        "Logradouro": "rua alferes",
+        "Numero": "2815",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000932A",
+        "RE": "RE8225000286A",
+        "numgEdificacao": 144254,
+        "Nome_Edificacao": "ALECIO BATISTI",
+        "Logradouro": "RODOVIA ESTADUAL SC 108",
+        "Numero": "8355",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000931A",
+        "RE": "RE8225000286A",
+        "numgEdificacao": 144254,
+        "Nome_Edificacao": "ALECIO BATISTI",
+        "Logradouro": "RODOVIA ESTADUAL SC 108",
+        "Numero": "8355",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000930A",
+        "RE": "RE8225000286A",
+        "numgEdificacao": 144254,
+        "Nome_Edificacao": "ALECIO BATISTI",
+        "Logradouro": "RODOVIA ESTADUAL SC 108",
+        "Numero": "8355",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000929A",
+        "RE": "RE8225000808A",
+        "numgEdificacao": 359853,
+        "Nome_Edificacao": "JHOLMIR ZANDONAI",
+        "Logradouro": "RUA LUIZ ZANDONAI",
+        "Numero": "63",
+        "Bairro": "NOVA TRENTO - PONTA FINA NORTE",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000928A",
+        "RE": "RE8225000807A",
+        "numgEdificacao": 359812,
+        "Nome_Edificacao": "NEORI DELL'ANTONIO",
+        "Logradouro": "rua alferes",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000927A",
+        "RE": "RE8225000519A",
+        "numgEdificacao": 256421,
+        "Nome_Edificacao": "SIDNEY JOSE DELL ANTONIO",
+        "Logradouro": "rua alferes",
+        "Numero": "1836",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000926A",
+        "RE": "RE8225000519A",
+        "numgEdificacao": 256421,
+        "Nome_Edificacao": "SIDNEY JOSE DELL ANTONIO",
+        "Logradouro": "rua alferes",
+        "Numero": "1836",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000925A",
+        "RE": "RE8225000746A",
+        "numgEdificacao": 345451,
+        "Nome_Edificacao": "CONGREGAçAO DAS IRMAZINHAS DA IMACULADA CONCEIçAO",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "3988",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000924A",
+        "RE": "RE8225000746A",
+        "numgEdificacao": 345451,
+        "Nome_Edificacao": "CONGREGAçAO DAS IRMAZINHAS DA IMACULADA CONCEIçAO",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "3988",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000923A",
+        "RE": "RE8225000746A",
+        "numgEdificacao": 345451,
+        "Nome_Edificacao": "CONGREGAçAO DAS IRMAZINHAS DA IMACULADA CONCEIçAO",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "3988",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000922A",
+        "RE": "RE8225000746A",
+        "numgEdificacao": 345451,
+        "Nome_Edificacao": "CONGREGAçAO DAS IRMAZINHAS DA IMACULADA CONCEIçAO",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "3988",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000921A",
+        "RE": "RE8225000746A",
+        "numgEdificacao": 345451,
+        "Nome_Edificacao": "CONGREGAçAO DAS IRMAZINHAS DA IMACULADA CONCEIçAO",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "3988",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000920A",
+        "RE": "RE8225000767A",
+        "numgEdificacao": 349341,
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANOPOLIS",
+        "Logradouro": "Estrada geral São Caetano",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - SAO CAETANO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000919A",
+        "RE": "RE8225000696A",
+        "numgEdificacao": 341759,
+        "Nome_Edificacao": "RESIDENCIAL CADORI",
+        "Logradouro": "RUA PADRE AFONSO KURZO",
+        "Numero": "47",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000918A",
+        "RE": "RE8225000632A",
+        "numgEdificacao": 330703,
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANOPOLIS",
+        "Logradouro": "RODOVIA SC 410",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8225000917A",
+        "RE": "RE8225000806A",
+        "numgEdificacao": 358675,
+        "Nome_Edificacao": "Agro Rubileski Battisti Ltda",
+        "Logradouro": "EST GERAL DO AGUTI",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - AGUTI",
+        "Cidade": "Nova Trento",
+        "Detectado_em": null
+      }
+    ],
+    "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007072A",
+        "RE": "RE8163003687A",
+        "numgEdificacao": 198401,
+        "Nome_Edificacao": "JUCELIA TECCHIO",
+        "Logradouro": "RUA 234 Nro",
+        "Numero": "581",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007071A",
+        "RE": "RE8163005048A",
+        "numgEdificacao": 252093,
+        "Nome_Edificacao": "NATIVO COMERCIO VAREJISTA DE GAS LTDA",
+        "Logradouro": "RUA 902 D",
+        "Numero": "148",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007070A",
+        "RE": "RE8163005497A",
+        "numgEdificacao": 279405,
+        "Nome_Edificacao": "Maison Ladurée",
+        "Logradouro": "rua 123A",
+        "Numero": "33",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007069A",
+        "RE": "RE8163006625A",
+        "numgEdificacao": 353222,
+        "Nome_Edificacao": "Hotspot English School",
+        "Logradouro": "Rua 276",
+        "Numero": "505",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007068A",
+        "RE": "RE8163006753A",
+        "numgEdificacao": 363102,
+        "Nome_Edificacao": "Conveniência Duvarzea",
+        "Logradouro": "RUA 706",
+        "Numero": "1162",
+        "Bairro": "ITAPEMA - VARZEA",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007067A",
+        "RE": "RE8163006752A",
+        "numgEdificacao": 363055,
+        "Nome_Edificacao": "ELIFAZ RESIDENCE",
+        "Logradouro": "RUA 402",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007066A",
+        "RE": "RE8163001041A",
+        "numgEdificacao": 33223,
+        "Nome_Edificacao": "Residencial Villa Firenze",
+        "Logradouro": "RUA 294",
+        "Numero": "71",
+        "Bairro": "ITAPEMA - CASTELO BRANCO",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007065A",
+        "RE": "RE8163005048A",
+        "numgEdificacao": 252093,
+        "Nome_Edificacao": "NATIVO COMERCIO VAREJISTA DE GAS LTDA",
+        "Logradouro": "RUA 902 D",
+        "Numero": "148",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007064A",
+        "RE": "RE8163002592A",
+        "numgEdificacao": 156882,
+        "Nome_Edificacao": "VILSON VENERI",
+        "Logradouro": "rua 254A",
+        "Numero": "450",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007063A",
+        "RE": "RE8163005885A",
+        "numgEdificacao": 294071,
+        "Nome_Edificacao": "RESIDENCIAL MILLANI",
+        "Logradouro": "RUA 315",
+        "Numero": "48",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007062A",
+        "RE": "RE8163001332A",
+        "numgEdificacao": 59784,
+        "Nome_Edificacao": "RESID MULTIF - ANEL R226",
+        "Logradouro": "226",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007061A",
+        "RE": "RE8163006715A",
+        "numgEdificacao": 360676,
+        "Nome_Edificacao": "JJ Hamburgueria",
+        "Logradouro": "RUA 1202",
+        "Numero": "",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007060A",
+        "RE": "RE8163006750A",
+        "numgEdificacao": 362863,
+        "Nome_Edificacao": "COMERCIO",
+        "Logradouro": "Rua430",
+        "Numero": "21",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007059A",
+        "RE": "RE8163006749A",
+        "numgEdificacao": 362809,
+        "Nome_Edificacao": "ROBINSON ANZILIERO",
+        "Logradouro": "RUA 416",
+        "Numero": "220",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007058A",
+        "RE": "RE8163006743A",
+        "numgEdificacao": 362563,
+        "Nome_Edificacao": "MERCADO MATIAS LTDA",
+        "Logradouro": "436 A",
+        "Numero": "555",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007057A",
+        "RE": "RE8163006746A",
+        "numgEdificacao": 362669,
+        "Nome_Edificacao": "CRAS MORRETES",
+        "Logradouro": "Rua 434",
+        "Numero": "1000",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007056A",
+        "RE": "RE8163002371A",
+        "numgEdificacao": 150636,
+        "Nome_Edificacao": "RHS GREEN VILLAGE",
+        "Logradouro": "RUA 118",
+        "Numero": "100",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007055A",
+        "RE": "RE8163006742A",
+        "numgEdificacao": 362537,
+        "Nome_Edificacao": "Jaqueeh Boutique",
+        "Logradouro": "RUA 902 F",
+        "Numero": "46",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007054A",
+        "RE": "RE8163006745A",
+        "numgEdificacao": 362634,
+        "Nome_Edificacao": "GIANNA OLTRAMARI",
+        "Logradouro": "RUA 436",
+        "Numero": "717",
+        "Bairro": "ITAPEMA - Morretes",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007053A",
+        "RE": "RE8163005518A",
+        "numgEdificacao": 280500,
+        "Nome_Edificacao": "JULIANO CESAR VITORASSI",
+        "Logradouro": "RUA 416",
+        "Numero": "15",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007052A",
+        "RE": "RE8163006533A",
+        "numgEdificacao": 346001,
+        "Nome_Edificacao": "Residencial  Rodrigo Teles Costa de Souza",
+        "Logradouro": "RUA 290.",
+        "Numero": "526",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007051A",
+        "RE": "RE8163000176A",
+        "numgEdificacao": 10512,
+        "Nome_Edificacao": "CLAUDIA EXCLUSIVE CONSTRUTORA E INCORPORADORA LTDA",
+        "Logradouro": "Rua 275",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007050A",
+        "RE": "RE8163006739A",
+        "numgEdificacao": 362313,
+        "Nome_Edificacao": "SEM DENOMINAÇÃO OFICIAL",
+        "Logradouro": "RUA 438",
+        "Numero": "473",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007049A",
+        "RE": "RE8163005724A",
+        "numgEdificacao": 288564,
+        "Nome_Edificacao": "JEFF COMÉRCIO DE GÁS E ÁGUA LTDA",
+        "Logradouro": "rua 210",
+        "Numero": "190",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8163007048A",
+        "RE": "RE8163006735A",
+        "numgEdificacao": 362268,
+        "Nome_Edificacao": "RUTH IRACEMA BRAZ",
+        "Logradouro": "RUA 1200",
+        "Numero": "606",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": null
+      }
+    ],
+    "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012769A",
+        "RE": "RE8047011818A",
+        "numgEdificacao": 355981,
+        "Nome_Edificacao": "EDIFÍCIO RESIDENCIAL PERSUHN",
+        "Logradouro": "Rua Clara Persuhn",
+        "Numero": "88",
+        "Bairro": "BLUMENAU - ITOUPAVA SECA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-22T14:00:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012768A",
+        "RE": "RE8047011965A",
+        "numgEdificacao": 362882,
+        "Nome_Edificacao": "CENTRO COMERCIAL AUTOMOTIVO ITOUPAVA CENTRAL",
+        "Logradouro": "RUA GUSTAVO ZIMMERMANN",
+        "Numero": "1251",
+        "Bairro": "BLUMENAU - Itoupava Central",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-22T14:00:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012767A",
+        "RE": "RE8047011670A",
+        "numgEdificacao": 349748,
+        "Nome_Edificacao": "Marli Auxiliadora Pereira",
+        "Logradouro": "RUA JOSE REUTER",
+        "Numero": "3112",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012766A",
+        "RE": "RE8047011976A",
+        "numgEdificacao": 363150,
+        "Nome_Edificacao": "PMB - SEMUDES - CRAS VI - PARTE 2",
+        "Logradouro": "Rua Zelinde Cardoso",
+        "Numero": "28",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012765A",
+        "RE": "RE8047008117A",
+        "numgEdificacao": 231724,
+        "Nome_Edificacao": "PMB - SEMUDES CRAS VI - ITOUPAVA - PARTE 1",
+        "Logradouro": "Rua Zelinde Cardoso",
+        "Numero": "70",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012764A",
+        "RE": "RE8047011973A",
+        "numgEdificacao": 363141,
+        "Nome_Edificacao": "RESIDENCIAL CAMPOS ELISIOS",
+        "Logradouro": "R JOAO EHRAT",
+        "Numero": "95",
+        "Bairro": "BLUMENAU - GARCIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012763A",
+        "RE": "RE8047008118A",
+        "numgEdificacao": 231739,
+        "Nome_Edificacao": "PMB - SEMUDES CRAS VII - FIDELIS",
+        "Logradouro": "godofredo rangel",
+        "Numero": "670",
+        "Bairro": "BLUMENAU - FIDÉLIS",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012762A",
+        "RE": "RE8047011597A",
+        "numgEdificacao": 345951,
+        "Nome_Edificacao": "SCIRE VILA NOVA",
+        "Logradouro": "R BENJAMIN CONSTANT",
+        "Numero": "2154",
+        "Bairro": "BLUMENAU - ESCOLA AGRÍCOLA",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012761A",
+        "RE": "RE8047010357A",
+        "numgEdificacao": 294678,
+        "Nome_Edificacao": "OSNILDO ANTONIO VIEIRA",
+        "Logradouro": "Rua Nicolau Reiter",
+        "Numero": "502",
+        "Bairro": "BLUMENAU - ESCOLA AGRÍCOLA",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012760A",
+        "RE": "RE8047011663A",
+        "numgEdificacao": 349371,
+        "Nome_Edificacao": "ISMAEL E JONAS",
+        "Logradouro": "RUA FREI ESTANISLAU SCHAETTE",
+        "Numero": "750",
+        "Bairro": "BLUMENAU - ÁGUA VERDE",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012759A",
+        "RE": "RE8047006132A",
+        "numgEdificacao": 182281,
+        "Nome_Edificacao": "MARLENE DIAS",
+        "Logradouro": "Rua felipe camarao",
+        "Numero": "69",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012758A",
+        "RE": "RE8047011966A",
+        "numgEdificacao": 362944,
+        "Nome_Edificacao": "Edifício Itoupavazinha",
+        "Logradouro": "FREDERICO JENSEN",
+        "Numero": "3340",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012757A",
+        "RE": "RE8047001783A",
+        "numgEdificacao": 94969,
+        "Nome_Edificacao": "TRIBUNAL REGIONAL FEDERAL",
+        "Logradouro": "Rua Doutor Max Tavares D'Amaral",
+        "Numero": "",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012756A",
+        "RE": "RE8047000553A",
+        "numgEdificacao": 19809,
+        "Nome_Edificacao": "Vitrine 528 LTDA",
+        "Logradouro": "Rua Henrique Weise",
+        "Numero": "528",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012755A",
+        "RE": "RE8047001585A",
+        "numgEdificacao": 74465,
+        "Nome_Edificacao": "MARILUCI RAQUEL VOLPI VOIGT",
+        "Logradouro": "Rua Carlos Mueller Junior",
+        "Numero": "159",
+        "Bairro": "BLUMENAU - Itoupava Central",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012754A",
+        "RE": "RE8047011148A",
+        "numgEdificacao": 327728,
+        "Nome_Edificacao": "LIS BAR E RESTAURANTE",
+        "Logradouro": "RUA AMAZONAS",
+        "Numero": "3361",
+        "Bairro": "BLUMENAU - GARCIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012753A",
+        "RE": "RE8047011963A",
+        "numgEdificacao": 362789,
+        "Nome_Edificacao": "Fundo de Melhoria da Polícia Civil - FUMPC",
+        "Logradouro": "RUA 15 DE NOVEMBRO",
+        "Numero": "1415",
+        "Bairro": "BLUMENAU - Centro",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012752A",
+        "RE": "RE8047004031A",
+        "numgEdificacao": 133830,
+        "Nome_Edificacao": "GELSON LIMA DE SOUZA",
+        "Logradouro": "Rua Doutor Pedro Zimmermann",
+        "Numero": "3110",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012751A",
+        "RE": "RE8047003207A",
+        "numgEdificacao": 123909,
+        "Nome_Edificacao": "MRK",
+        "Logradouro": "Rua Água Branca",
+        "Numero": "10",
+        "Bairro": "BLUMENAU - ÁGUA VERDE",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012750A",
+        "RE": "RE8047004031A",
+        "numgEdificacao": 133830,
+        "Nome_Edificacao": "GELSON LIMA DE SOUZA",
+        "Logradouro": "Rua Doutor Pedro Zimmermann",
+        "Numero": "3110",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012749A",
+        "RE": "RE8047003207A",
+        "numgEdificacao": 123909,
+        "Nome_Edificacao": "MRK",
+        "Logradouro": "Rua Água Branca",
+        "Numero": "10",
+        "Bairro": "BLUMENAU - ÁGUA VERDE",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012748A",
+        "RE": "RE8047009104A",
+        "numgEdificacao": 257712,
+        "Nome_Edificacao": "LAURO WELMUTH",
+        "Logradouro": "RUA ANTONIO DA VEIGA",
+        "Numero": "363",
+        "Bairro": "BLUMENAU - VICTOR KONDER",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012747A",
+        "RE": "RE8047011953A",
+        "numgEdificacao": 362239,
+        "Nome_Edificacao": "KRIEGER METALÚRGICA INDÚSTRIA E COMÉRCIO LTDA",
+        "Logradouro": "Rua Engenheiro Vitus Theodor Hoh",
+        "Numero": "943",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012746A",
+        "RE": "RE8047010357A",
+        "numgEdificacao": 294678,
+        "Nome_Edificacao": "OSNILDO ANTONIO VIEIRA",
+        "Logradouro": "Rua Nicolau Reiter",
+        "Numero": "502",
+        "Bairro": "BLUMENAU - ESCOLA AGRÍCOLA",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012745A",
+        "RE": "RE8047009104A",
+        "numgEdificacao": 257712,
+        "Nome_Edificacao": "LAURO WELMUTH",
+        "Logradouro": "RUA ANTONIO DA VEIGA",
+        "Numero": "363",
+        "Bairro": "BLUMENAU - VICTOR KONDER",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012744A",
+        "RE": "RE8047000943A",
+        "numgEdificacao": 33242,
+        "Nome_Edificacao": "EDIFICAÇÃO",
+        "Logradouro": "Rua São Cristóvão",
+        "Numero": "179",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8047012743A",
+        "RE": "RE8047004168A",
+        "numgEdificacao": 135678,
+        "Nome_Edificacao": "MY ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "RUA DR. PEDRO ZIMMERMANN",
+        "Numero": "13663",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": null
+      }
+    ],
+    "Navegantes": [
+      {
+        "CodigoProtocolo": "A8221004922A",
+        "RE": "RE8221004065A",
+        "numgEdificacao": 362531,
+        "Nome_Edificacao": "EDIFICAÇÃO RESIDENCIAL MULTIFAMILIAR",
+        "Logradouro": "RUA ROSANE FAGUNDES DE SOUZA",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004921A",
+        "RE": "RE8221004078A",
+        "numgEdificacao": 362984,
+        "Nome_Edificacao": "Galpão RTC",
+        "Logradouro": "R ROMEU INACIO DA SILVA",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004920A",
+        "RE": "RE8221000013A",
+        "numgEdificacao": 1695,
+        "Nome_Edificacao": "VENDEMMIA COMERCIO INTERNACIONAL",
+        "Logradouro": "BR-470",
+        "Numero": "6800",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004919A",
+        "RE": "RE8221000427A",
+        "numgEdificacao": 30579,
+        "Nome_Edificacao": "ANCORA BADOTTI PARTCIPAÇÕES LTDA",
+        "Logradouro": "Rodovia BR-470",
+        "Numero": "4669",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004918A",
+        "RE": "RE8221004033A",
+        "numgEdificacao": 360330,
+        "Nome_Edificacao": "ED. BRISA ATLÂNTICA",
+        "Logradouro": "Rua Frei Antoninho",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004917A",
+        "RE": "RE8221004077A",
+        "numgEdificacao": 362962,
+        "Nome_Edificacao": "OSMAIR DONIZETE",
+        "Logradouro": "ROMEU INACIO DA SILVA",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004916A",
+        "RE": "RE8221004076A",
+        "numgEdificacao": 362956,
+        "Nome_Edificacao": "TERRENO",
+        "Logradouro": "AVENIDA PREFEITO JOSÉ JUVENAL MAFRA",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004915A",
+        "RE": "RE8221004075A",
+        "numgEdificacao": 362947,
+        "Nome_Edificacao": "RESIDENCIAL ILHA DE PAROS",
+        "Logradouro": "Rua Félix Krieger",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004914A",
+        "RE": "RE8221004069A",
+        "numgEdificacao": 362820,
+        "Nome_Edificacao": "PEDREIRA NAVEGANTES",
+        "Logradouro": "PEDRO VERGILIO RICOBON",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - PEDREIRAS",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004913A",
+        "RE": "RE8221004070A",
+        "numgEdificacao": 362839,
+        "Nome_Edificacao": "NEREU MARTINS",
+        "Logradouro": "Avenida Prefeito José Juvenal Mafra",
+        "Numero": "1588",
+        "Bairro": "NAVEGANTES - Centro",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004912A",
+        "RE": "RE8221004052A",
+        "numgEdificacao": 361559,
+        "Nome_Edificacao": "EDIFÍCIO RESIDENCIAL BELANAVE",
+        "Logradouro": "Rua Anastácio Silva",
+        "Numero": "164",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004911A",
+        "RE": "RE8221004074A",
+        "numgEdificacao": 362859,
+        "Nome_Edificacao": "MDC ADMINISTRADORA E PARTICIPAÇÕES",
+        "Logradouro": "RUA RANGHETTI",
+        "Numero": "325",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004910A",
+        "RE": "RE8221004073A",
+        "numgEdificacao": 362849,
+        "Nome_Edificacao": "RESIDENCIAL POR DO SOL",
+        "Logradouro": "Rua João Baldança Filho",
+        "Numero": "444",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004909A",
+        "RE": "RE8221004065A",
+        "numgEdificacao": 362531,
+        "Nome_Edificacao": "EDIFICAÇÃO RESIDENCIAL MULTIFAMILIAR",
+        "Logradouro": "RUA ROSANE FAGUNDES DE SOUZA",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004908A",
+        "RE": "RE8221001083A",
+        "numgEdificacao": 132495,
+        "Nome_Edificacao": "FLEXFORMA COMERCIAL DE MOVEIS E EQUIPAMENTOS PARA ESCRITORIO LTDA EPP",
+        "Logradouro": "Rua Francisco João Tobias",
+        "Numero": "50",
+        "Bairro": "NAVEGANTES - ESCALVADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004907A",
+        "RE": "RE8221002324A",
+        "numgEdificacao": 238280,
+        "Nome_Edificacao": "RESIDENCIAL ILHA DO CAMPECHE",
+        "Logradouro": "Rua Advogado Arão Rebello",
+        "Numero": "334",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004906A",
+        "RE": "RE8221003929A",
+        "numgEdificacao": 351864,
+        "Nome_Edificacao": "COMERCIAL BORK",
+        "Logradouro": "AVENIDA PREFEITO JOSÉ JUVENAL MAFRA",
+        "Numero": "3187",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004905A",
+        "RE": "RE8221004068A",
+        "numgEdificacao": 362589,
+        "Nome_Edificacao": "ASTERIO STOLF",
+        "Logradouro": "AVENIDA PREFEITO JOSE JUVENAL MAFRA",
+        "Numero": "6839",
+        "Bairro": "NAVEGANTES - Gravatá",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004904A",
+        "RE": "RE8221004066A",
+        "numgEdificacao": 362544,
+        "Nome_Edificacao": "Galpão 02",
+        "Logradouro": "Avenida Conselheiro João Gaya",
+        "Numero": "787",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004903A",
+        "RE": "RE8221004065A",
+        "numgEdificacao": 362531,
+        "Nome_Edificacao": "EDIFICAÇÃO RESIDENCIAL MULTIFAMILIAR",
+        "Logradouro": "RUA ROSANE FAGUNDES DE SOUZA",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004902A",
+        "RE": "RE8221004064A",
+        "numgEdificacao": 362488,
+        "Nome_Edificacao": "EDIFICIO JK",
+        "Logradouro": "Rua Antonio Gartner",
+        "Numero": "61",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004901A",
+        "RE": "RE8221004063A",
+        "numgEdificacao": 362487,
+        "Nome_Edificacao": "RESIDENCIAL ILHA DE PATMOS",
+        "Logradouro": "RUA BRASILIA",
+        "Numero": "80",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004900A",
+        "RE": "RE8221004060A",
+        "numgEdificacao": 362483,
+        "Nome_Edificacao": "RESIDENCIAL VITOR II",
+        "Logradouro": "Rua Aldo Mário de Almeida",
+        "Numero": "446",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004899A",
+        "RE": "RE8221004061A",
+        "numgEdificacao": 362484,
+        "Nome_Edificacao": "RESIDENCIAL BARI",
+        "Logradouro": "Rua Geraldo José Borba",
+        "Numero": "205",
+        "Bairro": "NAVEGANTES - Meia Praia",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8221004898A",
+        "RE": "RE8221004058A",
+        "numgEdificacao": 362131,
+        "Nome_Edificacao": "Clementino Mayer",
+        "Logradouro": "Avenida Prefeito José Juvenal Mafra",
+        "Numero": "4197",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": null
+      }
+    ],
+    "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014002A",
+        "RE": "RE8161013683A",
+        "numgEdificacao": 363194,
+        "Nome_Edificacao": "Condomínio Residencial Miami Gardens",
+        "Logradouro": "Avenida Itaipava",
+        "Numero": "3330",
+        "Bairro": "ITAJAÍ - Itaipava",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-22T14:00:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014001A",
+        "RE": "RE8161013513A",
+        "numgEdificacao": 357968,
+        "Nome_Edificacao": "Incotex Beneficiamento LTDA",
+        "Logradouro": "Domingos Rampelotti",
+        "Numero": "3601",
+        "Bairro": "ITAJAÍ - SÃO ROQUE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-22T14:00:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014000A",
+        "RE": "RE8161013681A",
+        "numgEdificacao": 363156,
+        "Nome_Edificacao": "Felipe Narcizo Machado",
+        "Logradouro": "AV VEREADOR ABRAHAO JOAO FRANCISCO",
+        "Numero": "2555",
+        "Bairro": "ITAJAÍ - Dom Bosco",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013999A",
+        "RE": "RE8161013624A",
+        "numgEdificacao": 361503,
+        "Nome_Edificacao": "REGIANE REHLANDER SILVESTRE",
+        "Logradouro": "Rua Hebert Kremer",
+        "Numero": "28",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013998A",
+        "RE": "RE8161000211A",
+        "numgEdificacao": 6857,
+        "Nome_Edificacao": "MACON EMPREENDIMENTOS IMOB. LTDA",
+        "Logradouro": "Rua Aririba",
+        "Numero": "1",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013997A",
+        "RE": "RE8161006060A",
+        "numgEdificacao": 171682,
+        "Nome_Edificacao": "LEANDRO ROBERTO SOARES",
+        "Logradouro": "AVENIDA IRINEU BORNHAUSEN",
+        "Numero": "840",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013996A",
+        "RE": "RE8161000748A",
+        "numgEdificacao": 20557,
+        "Nome_Edificacao": "EDIFICAÇÃO COMERCIAL",
+        "Logradouro": "Rua Elizário Pereira",
+        "Numero": "377",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013995A",
+        "RE": "RE8161011519A",
+        "numgEdificacao": 306203,
+        "Nome_Edificacao": "RESERVA",
+        "Logradouro": "Rua Lila Heusi",
+        "Numero": "155",
+        "Bairro": "ITAJAÍ - FAZENDINHA",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013994A",
+        "RE": "RE8161013673A",
+        "numgEdificacao": 362936,
+        "Nome_Edificacao": "GALPÃO ROBSON",
+        "Logradouro": "Domingos Antônio Borba",
+        "Numero": "521",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013993A",
+        "RE": "RE8161012560A",
+        "numgEdificacao": 331579,
+        "Nome_Edificacao": "Brava Coast",
+        "Logradouro": "Rua Laura dos Santos Laurindo",
+        "Numero": "",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013992A",
+        "RE": "RE8161011455A",
+        "numgEdificacao": 304684,
+        "Nome_Edificacao": "LIN LEI COMERCIO ATACADISTA DE MÁQUINAS E EQUIPAMENTOS LTDA",
+        "Logradouro": "Avenida Presidente Castelo Branco",
+        "Numero": "651",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013991A",
+        "RE": "RE8161012560A",
+        "numgEdificacao": 331579,
+        "Nome_Edificacao": "Brava Coast",
+        "Logradouro": "Rua Laura dos Santos Laurindo",
+        "Numero": "",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013990A",
+        "RE": "RE8161002458A",
+        "numgEdificacao": 85871,
+        "Nome_Edificacao": "VITTA",
+        "Logradouro": "Rua João Cunha",
+        "Numero": "220",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013989A",
+        "RE": "RE8161002458A",
+        "numgEdificacao": 85871,
+        "Nome_Edificacao": "VITTA",
+        "Logradouro": "Rua João Cunha",
+        "Numero": "220",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013988A",
+        "RE": "RE8161013671A",
+        "numgEdificacao": 362772,
+        "Nome_Edificacao": "SARDAGNA EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+        "Logradouro": "ROD BR 101",
+        "Numero": "12505",
+        "Bairro": "ITAJAÍ - Canhanduba",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013987A",
+        "RE": "RE8161013670A",
+        "numgEdificacao": 362714,
+        "Nome_Edificacao": "ROSELI GOMES DA COSTA",
+        "Logradouro": "R AGILIO CUNHA",
+        "Numero": "1574",
+        "Bairro": "ITAJAÍ - Cidade Nova",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013986A",
+        "RE": "RE8161013669A",
+        "numgEdificacao": 362711,
+        "Nome_Edificacao": "HENRY CONSTRUÇÕES E SERVIÇOS LTDA",
+        "Logradouro": "Rua Doutor Hermes Atílio Mariani",
+        "Numero": "837",
+        "Bairro": "ITAJAÍ - Cidade Nova",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013985A",
+        "RE": "RE8161005302A",
+        "numgEdificacao": 154331,
+        "Nome_Edificacao": "JOSE FRANCISCO BETTONI",
+        "Logradouro": "R ARQUITETO NILSON EDSON DOS SANTOS",
+        "Numero": "100",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013984A",
+        "RE": "RE8161013667A",
+        "numgEdificacao": 362702,
+        "Nome_Edificacao": "Leonardo Israel da Silva",
+        "Logradouro": "Rua Henrique Antônio Custódio",
+        "Numero": "366",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013983A",
+        "RE": "RE8161002711A",
+        "numgEdificacao": 94934,
+        "Nome_Edificacao": "LUTHER WESLEY DA SILVA",
+        "Logradouro": "Avenida Vereador Abrahão João Francisco",
+        "Numero": "3520",
+        "Bairro": "ITAJAÍ - RESSACADA",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013982A",
+        "RE": "RE8161013661A",
+        "numgEdificacao": 362550,
+        "Nome_Edificacao": "Cicero Mendes",
+        "Logradouro": "R FLORISA PERES GARCIA KUMM",
+        "Numero": "541",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013981A",
+        "RE": "RE8161001211A",
+        "numgEdificacao": 33590,
+        "Nome_Edificacao": "INDUSTRIA E COMERCIO RIOMAR CORDAS EIRELI",
+        "Logradouro": "Rodovia BR-101",
+        "Numero": "6601",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013980A",
+        "RE": "RE8161013665A",
+        "numgEdificacao": 362641,
+        "Nome_Edificacao": "SGO EMPREENDIMENTOS LTDA",
+        "Logradouro": "RODOVIA ANTONIO HEIL - RODOVIA DEPUTADO",
+        "Numero": "8500",
+        "Bairro": "ITAJAÍ - ARRAIAL DOS CUNHA",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013979A",
+        "RE": "RE8161013664A",
+        "numgEdificacao": 362633,
+        "Nome_Edificacao": "Luiza Catarina Saldanha dos Santos",
+        "Logradouro": "RUA JOSE GOTTARDI",
+        "Numero": "25",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013978A",
+        "RE": "RE8161013663A",
+        "numgEdificacao": 362618,
+        "Nome_Edificacao": "GIOLO",
+        "Logradouro": "AVENIDA JOSÉ MEDEIROS VIEIRA",
+        "Numero": "1126",
+        "Bairro": "ITAJAÍ - PRAIA BRAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013977A",
+        "RE": "RE8161013653A",
+        "numgEdificacao": 362393,
+        "Nome_Edificacao": "SALAS DIVA",
+        "Logradouro": "R PEREIRA NETO",
+        "Numero": "288",
+        "Bairro": "ITAJAÍ - Centro",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      },
+      {
+        "CodigoProtocolo": "A8161013976A",
+        "RE": "RE8161003411A",
+        "numgEdificacao": 106587,
+        "Nome_Edificacao": "MAERSK LOGISTICS & SERVICES BRASIL LTDA",
+        "Logradouro": "Rodovia Jorge Lacerda",
+        "Numero": "605",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": null
+      }
+    ]
+  },
+  "totais": {
+    "Brusque": 26,
+    "Botuvera": 25,
+    "Guabiruba": 25,
+    "Gaspar": 26,
+    "Porto Belo": 26,
+    "Nova Trento": 25,
+    "Itapema": 25,
+    "Blumenau": 27,
+    "Navegantes": 25,
+    "Itajai": 27
+  },
+  "total_geral": 257
+}

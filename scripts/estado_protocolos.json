@@ -1,0 +1,55 @@
+{
+  "_descricao": "Estado dos protocolos de analise PPCI/RPCI por cidade. Codigo: A{prefixo}{N:06d}A. ultimo_numero=0 dispara calibracao (busca binaria do maior N).",
+  "cidades": {
+    "Brusque": {
+      "prefixo": "8055",
+      "ultimo_numero": 7990,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Botuvera": {
+      "prefixo": "8051",
+      "ultimo_numero": 391,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Guabiruba": {
+      "prefixo": "8123",
+      "ultimo_numero": 1500,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Gaspar": {
+      "prefixo": "8117",
+      "ultimo_numero": 3792,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Porto Belo": {
+      "prefixo": "8265",
+      "ultimo_numero": 3307,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Nova Trento": {
+      "prefixo": "8225",
+      "ultimo_numero": 941,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Itapema": {
+      "prefixo": "8163",
+      "ultimo_numero": 7072,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Blumenau": {
+      "prefixo": "8047",
+      "ultimo_numero": 12769,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Navegantes": {
+      "prefixo": "8221",
+      "ultimo_numero": 4922,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    },
+    "Itajai": {
+      "prefixo": "8161",
+      "ultimo_numero": 14002,
+      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+    }
+  }
+}

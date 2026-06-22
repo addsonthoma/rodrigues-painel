@@ -148,6 +148,9 @@
   </div>
  </header>
  <div id="vendedores">
+  <button class="vtab vista on" data-vista="autos" onclick="setVista('autos')">📋 Multas & AFs</button>
+  <button class="vtab vista" data-vista="protocolos" onclick="setVista('protocolos')">📐 Protocolos</button>
+  <span class="vsep"></span>
   <span class="vlbl">Vendedor</span>
   <button class="vtab on" data-v="" onclick="setVendedor('')">👥 Todos</button>
   <button class="vtab" data-v="BANANA" onclick="setVendedor('BANANA')">🟢 Banana · Brusque/Vale</button>
@@ -440,9 +443,12 @@ function itemHTML(item, tipo, isFlash, drill){
   </div>`;
 }
 
-let dadosMul = {}, dadosAf = {}, dadosDrill = {};
+let dadosMul = {}, dadosAf = {}, dadosDrill = {}, dadosProto = {}, vista = 'autos';
 
 function render(){
+  if(vista === 'protocolos'){ return renderProtocolos(); }
+  const tmL=document.querySelector('.stat-mul'); if(tmL&&tmL.childNodes[0]) tmL.childNodes[0].nodeValue='Multas';
+  const taL=document.querySelector('.stat-af'); if(taL&&taL.childNodes[0]) taL.childNodes[0].nodeValue='Fiscalizações';
   const cidadesSet = new Set([...Object.keys(dadosMul.multas||{}), ...Object.keys(dadosAf.afs||{})]);
   const cidsKpi = vendedorAtivo ? [...cidadesSet].filter(c=>(VENDEDORES[vendedorAtivo]||[]).includes(c)) : [...cidadesSet];
   const totalMul = cidsKpi.reduce((s,c)=>s+(((dadosMul.multas||{})[c])||[]).length,0);
@@ -538,14 +544,16 @@ function render(){
 
 async function refresh(){
   try{
-    const [rMul, rAf, rDrill] = await Promise.all([
+    const [rMul, rAf, rDrill, rProto] = await Promise.all([
       fetch("dados.json?t=" + Date.now(), {cache:"no-store"}),
       fetch("afs.json?t=" + Date.now(), {cache:"no-store"}).catch(()=>null),
-      fetch("drill.json?t=" + Date.now(), {cache:"no-store"}).catch(()=>null)
+      fetch("drill.json?t=" + Date.now(), {cache:"no-store"}).catch(()=>null),
+      fetch("protocolos.json?t=" + Date.now(), {cache:"no-store"}).catch(()=>null)
     ]);
     if(rMul.ok) dadosMul = await rMul.json();
     if(rAf && rAf.ok) dadosAf = await rAf.json();
     if(rDrill && rDrill.ok) dadosDrill = await rDrill.json();
+    if(rProto && rProto.ok) dadosProto = await rProto.json();
     render();
     lastFetchOk = Date.now();
     tickHeartbeat();
@@ -682,13 +690,14 @@ function capToast(m){ const t=document.getElementById('cap-toast'); if(!t)return
 function acharItem(cod){
   for(const c in (dadosMul.multas||{})){ const f=(dadosMul.multas[c]||[]).find(x=>x.CodigoAuto===cod); if(f) return f; }
   for(const c in (dadosAf.afs||{})){ const f=(dadosAf.afs[c]||[]).find(x=>x.CodigoAuto===cod); if(f) return f; }
+  for(const c in (dadosProto.protocolos||{})){ const f=(dadosProto.protocolos[c]||[]).find(x=>x.CodigoProtocolo===cod); if(f) return f; }
   return null;
 }
 
 // controles que aparecem em cada cartao quando o modo captacao esta ligado
 function captacaoControls(item){
   if(!window.modoCaptacao) return "";
-  const cod=item.CodigoAuto, st=(window.statusMap[cod]||"novo"), sel=window.selecionados.has(cod);
+  const cod=(item.CodigoAuto||item.CodigoProtocolo), st=(window.statusMap[cod]||"novo"), sel=window.selecionados.has(cod);
   const e=cod.replace(/'/g,"\\'");
   return `<div class="cap-ctrl">
    <label class="cap-check"><input type="checkbox" ${sel?'checked':''} onchange="toggleSel('${e}')"> selecionar</label>
@@ -703,7 +712,7 @@ function captacaoControls(item){
 }
 function itemPassaStatus(item){
   if(!window.modoCaptacao || !window.filtroStatus.size) return true;
-  return window.filtroStatus.has(window.statusMap[item.CodigoAuto]||"novo");
+  return window.filtroStatus.has(window.statusMap[item.CodigoAuto||item.CodigoProtocolo]||"novo");
 }
 
 function toggleCaptacao(){
@@ -811,6 +820,107 @@ async function carregarStatusPainel(){
     window.statusMap=m;
     if(window.modoCaptacao) render();
   }catch(e){ console.warn(e); }
+}
+</script>
+
+<!-- ===== ABA PROTOCOLOS (radar de projetos de análise PPCI/RPCI) ===== -->
+<style>
+ #vendedores .vtab.vista{background:#15151a;color:#cfcfd6}
+ #vendedores .vtab.vista.on{background:#13283c;color:#6fc0ff;border:1px solid #1d4a6a}
+ .count-pill.proto{background:#1a1320;color:#ffb86b}
+ .proto-item .proto-meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:5px;font-size:.86em;color:var(--muted)}
+ .proto-badge{font-size:.82em;font-weight:700;padding:2px 8px;border-radius:10px}
+ .proto-badge.proj-def{background:#0c2f17;color:#3ee07a}
+ .proto-badge.proj-ind{background:#2f1116;color:#ff6b81}
+ .proto-badge.proj-anu{background:#2a2410;color:#e0c34a}
+ .proto-badge.proj-ana{background:#10283f;color:#6fc0ff}
+ .proto-badge.proj-na{background:#22222b;color:#9a9aa5}
+ .item-cod.proto{color:#ffb86b}
+ .proto-item.hot-def{border-left:3px solid #26de81;background:linear-gradient(90deg,rgba(38,222,129,.07),transparent 55%)}
+ body.vista-proto #total-mul,body.vista-proto #total-af{opacity:1}
+</style>
+<script>
+function setVista(v){
+  vista = v;
+  document.querySelectorAll('#vendedores .vtab.vista').forEach(b=>b.classList.toggle('on', b.dataset.vista===v));
+  document.body.classList.toggle('vista-proto', v==='protocolos');
+  const f=document.getElementById('filtros');
+  if(typeof construirChips==='function' && f && f.classList.contains('aberto')) construirChips();
+  render();
+}
+function _protoBadge(p){
+  if(p.deferido) return ['✅ Deferido','proj-def'];
+  if(p.codgSituacao==='INDEFERIDO' || (p.situacao||'').toLowerCase().includes('indefer')) return ['❌ Indeferido','proj-ind'];
+  if(p.anulado||p.cassado) return ['⚠️ '+(p.situacao||'Anulado/Cassado'),'proj-anu'];
+  if(p.situacao) return ['⏳ '+p.situacao,'proj-ana'];
+  if(p.area!=null) return ['• analisado','proj-ana'];
+  return ['⏳ a verificar','proj-na'];
+}
+function protoHTML(p){
+  const cod=p.CodigoProtocolo;
+  const bairro=(p.Bairro||'').replace(/^[^-]+ - /,'');
+  const end=`${p.Logradouro||''}${p.Numero?', '+p.Numero:''}${bairro?' — '+bairro:''}`;
+  const recente=(typeof ehRecente==='function')&&ehRecente(p.Detectado_em);
+  const det=(typeof fmtDetectado==='function')?fmtDetectado(p.Detectado_em):'';
+  const [badge,cls]=_protoBadge(p);
+  const meta=[];
+  if(p.area!=null) meta.push(`📐 ${(''+p.area).replace('.',',')} m²`);
+  if(p.data) meta.push(`📅 ${p.data.split('-').reverse().join('/')}`);
+  if(p.qtdAnexos) meta.push(`📎 ${p.qtdAnexos} anexo${p.qtdAnexos>1?'s':''}`);
+  const classes=['item','proto-item',cls];
+  if(recente) classes.push('nova-recente');
+  if(p.deferido) classes.push('hot-def');
+  return `<div class="${classes.join(' ')}">
+   <div class="item-data">
+    <div class="item-cod proto">${cod}</div>
+    <div class="item-nome">${p.Nome_Edificacao||'(sem nome)'}</div>
+    <div class="item-end">${end} · ${p.Cidade||''}</div>
+    <div class="proto-meta"><span class="proto-badge ${cls}">${badge}</span>${meta.length?' '+meta.join(' · '):''}</div>
+    ${det?`<div class="item-detectado">${det}</div>`:''}
+    ${(typeof captacaoControls==='function')?captacaoControls(p):''}
+   </div>
+   <div class="item-acoes">
+    <a class="btn-esci" href="#" onclick="return abrirESci(event, '${cod}')" title="Copia o código e abre o e-SCI — cole com Ctrl+V">📋 e-SCI</a>
+   </div>
+  </div>`;
+}
+function renderProtocolos(){
+  const proto = dadosProto.protocolos || {};
+  let cidades = Object.keys(proto).sort();
+  if(vendedorAtivo) cidades = cidades.filter(c=>(VENDEDORES[vendedorAtivo]||[]).includes(c));
+  const totalProto = cidades.reduce((s,c)=>s+(proto[c]||[]).length,0);
+  const defCount = cidades.reduce((s,c)=>s+(proto[c]||[]).filter(p=>p.deferido).length,0);
+  const tm=document.querySelector('.stat-mul'), ta=document.querySelector('.stat-af');
+  if(tm&&tm.childNodes[0]) tm.childNodes[0].nodeValue='Protocolos';
+  if(ta&&ta.childNodes[0]) ta.childNodes[0].nodeValue='Deferidos';
+  document.getElementById("total-mul").textContent = totalProto;
+  document.getElementById("total-af").textContent = defCount;
+  document.getElementById("cid-count").textContent = cidades.length;
+  document.getElementById("last-update").textContent = (typeof fmtDate==='function')?fmtDate(dadosProto.timestamp):(dadosProto.timestamp||'—');
+
+  let cidsView = filtroCidades.size ? cidades.filter(c=>filtroCidades.has(c)) : cidades;
+  const grid=document.getElementById("grid");
+  if(!cidsView.length){ grid.innerHTML='<div class="empty-state">Sem protocolos carregados ainda. (rode o coletor de protocolos)</div>'; return; }
+  const q = filtroTexto?normf(filtroTexto):"";
+  let totalRes=0;
+  const html = cidsView.map(cid=>{
+    let lst = (proto[cid]||[]).slice();
+    if(q) lst=lst.filter(p=>normf((p.Nome_Edificacao||'')+' '+(p.CodigoProtocolo||'')+' '+(p.Logradouro||'')+' '+(p.situacao||'')).includes(q));
+    if(window.modoCaptacao && window.filtroStatus.size) lst=lst.filter(p=>itemPassaStatus(p));
+    if(filtroAtivo() && !lst.length) return "";
+    totalRes += lst.length;
+    const itens = lst.map(p=>protoHTML(p)).join("") || '<div class="col-empty">Sem protocolos</div>';
+    return `<div class="cidade">
+     <div class="cidade-h">
+      <div class="cidade-nome">${cid}</div>
+      <div class="cidade-counts"><span class="count-pill proto">${lst.length} protocolo${lst.length===1?'':'s'}</span></div>
+     </div>
+     <div class="col-list">${itens}</div>
+    </div>`;
+  }).filter(Boolean).join("");
+  grid.innerHTML = html || '<div class="empty-state">Nenhum protocolo para os filtros.</div>';
+  const fr=document.getElementById("f-resultado");
+  if(fr) fr.textContent = filtroAtivo()?(totalRes+" resultado"+(totalRes===1?"":"s")):"";
 }
 </script>
 
