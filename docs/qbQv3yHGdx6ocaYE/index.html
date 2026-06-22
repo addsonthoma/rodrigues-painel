@@ -978,6 +978,7 @@ function renderProtocolos(){
  .claim-obs{color:var(--muted);font-style:italic;font-size:.92em;word-break:break-word}
  .claim-mini{background:#1b1b22;border:1px solid #2a2a33;border-radius:6px;color:#cfcfd6;cursor:pointer;font-size:.85em;padding:2px 7px}
  .claim-mini.soltar{color:#ff8a9a;border-color:#4a1820}
+ .claim-mini.falta-obs{color:#ffce85;border-color:#5a4a1a;background:#2a2410;font-weight:600}
  #claim-modal{display:none;position:fixed;inset:0;z-index:600;background:rgba(0,0,0,.72);align-items:center;justify-content:center;padding:20px}
  #claim-modal .cmx{background:#15151a;border:1px solid #34343f;border-radius:14px;padding:20px;width:min(440px,94vw);color:#f5f5f7}
  #claim-modal h3{margin:0 0 4px}
@@ -996,8 +997,8 @@ function renderProtocolos(){
  <p class="cmsub" id="clm-sub"></p>
  <div id="clm-vendwrap" style="display:none"><label>Direcionar para qual vendedor</label>
   <select id="clm-vend"><option value="BANANA">Banana</option><option value="GUILHERME">Guilherme</option><option value="ALINE">Aline</option></select></div>
- <label>Observação (obrigatória) — situação do lead: se já fez o serviço, se não precisa, o que combinou, etc.</label>
- <textarea id="clm-obs" placeholder="Ex.: liguei, vão me chamar semana que vem / já fizemos esse / não precisa..."></textarea>
+ <div id="clm-obswrap"><label>Observação (obrigatória) — situação do lead: se já fez o serviço, se não precisa, o que combinou, etc.</label>
+  <textarea id="clm-obs" placeholder="Ex.: liguei, vão me chamar semana que vem / já fizemos esse / não precisa..."></textarea></div>
  <div id="claim-err"></div>
  <div class="cmrow"><button class="cm-cancel" onclick="fecharClaim()">Cancelar</button><button class="cm-ok" id="clm-ok">📌 Pegar</button></div>
 </div></div>
@@ -1016,55 +1017,77 @@ function claimControls(item){
   const tag = `<span class="claim-tag dono-${dono}">📌 ${VEND_LABEL[dono]||dono}</span>`;
   const obsHTML = obs ? `<span class="claim-obs">“${obs}”</span>` : '';
   if(meu){
-    return `<div class="claim-row">${tag}${obsHTML}<button class="claim-mini" onclick="editarObs('${e}')">✏️ obs</button><button class="claim-mini soltar" onclick="soltarLead('${e}')">↩️ soltar</button></div>`;
+    const obsBtn = obs ? `<button class="claim-mini" onclick="editarObs('${e}')">✏️ obs</button>`
+                       : `<button class="claim-mini falta-obs" onclick="editarObs('${e}')">⚠️ escrever observação</button>`;
+    return `<div class="claim-row">${tag}${obsHTML}${obsBtn}<button class="claim-mini soltar" onclick="soltarLead('${e}')">↩️ soltar</button></div>`;
   }
   return `<div class="claim-row">${tag}${obsHTML}</div>`;
 }
-let _clmCod=null, _clmEdit=false;
-function pegarLead(cod){ if(!_logadoPodePegar()){ alert('Faça login pra pegar leads.'); return; } abrirClaim(cod,false); }
-function editarObs(cod){ abrirClaim(cod,true); }
-function abrirClaim(cod, edit){
-  _clmCod=cod; _clmEdit=edit;
-  const it=(typeof acharItem==='function')?acharItem(cod):null;
+let _clmCod=null, _clmModo='obs';
+function pegarLead(cod){
+  if(!_logadoPodePegar()){ alert('Faça login pra pegar leads.'); return; }
   const admin=(window.PERFIL_PAINEL&&window.PERFIL_PAINEL.papel==='admin');
-  document.getElementById('clm-title').textContent = edit?'✏️ Editar observação':'📌 Pegar lead';
+  if(admin) abrirClaimModal(cod,'admin'); else confirmarPegar(cod, window.PERFIL_PAINEL.vendedor, '');
+}
+async function confirmarPegar(cod, vend, obs){
+  if(!vend) return;
+  window.donoMap[cod]=vend; if(obs) window.obsMap[cod]=obs; render();   // ja vai pra aba do dono na hora
+  if(window.SB){
+    const payload={codigo_auto:cod, vendedor:vend, status:(window.statusMap&&window.statusMap[cod])||'novo', atualizado_em:new Date().toISOString()};
+    if(obs) payload.obs=obs;
+    const {error}=await window.SB.from('lead_status').upsert(payload,{onConflict:'codigo_auto'});
+    if(error){ alert('Não pegou: '+error.message); console.warn(error); }
+  }
+  const meu=(window.PERFIL_PAINEL&&window.PERFIL_PAINEL.vendedor);
+  if(vend===meu && !obs) abrirClaimModal(cod,'obs');   // obs OBRIGATORIA, mas DEPOIS de pegar
+  if(typeof carregarStatusPainel==='function') carregarStatusPainel();
+}
+function editarObs(cod){ abrirClaimModal(cod,'obs'); }
+function abrirClaimModal(cod, modo){
+  _clmCod=cod; _clmModo=modo;
+  const it=(typeof acharItem==='function')?acharItem(cod):null;
+  const admin=(modo==='admin');
+  document.getElementById('clm-title').textContent = admin?'📌 Direcionar lead':'📝 Observação do lead';
   document.getElementById('clm-sub').textContent = it?((it.Nome_Edificacao||'')+' · '+cod):cod;
-  document.getElementById('clm-vendwrap').style.display = (admin && !edit)?'block':'none';
-  if(admin && !edit && (window.donoMap||{})[cod]) document.getElementById('clm-vend').value=window.donoMap[cod];
-  document.getElementById('clm-obs').value = edit?((window.obsMap||{})[cod]||''):'';
+  document.getElementById('clm-vendwrap').style.display = admin?'block':'none';
+  document.getElementById('clm-obswrap').style.display = admin?'none':'block';
+  if(admin && (window.donoMap||{})[cod]) document.getElementById('clm-vend').value=window.donoMap[cod];
+  if(!admin) document.getElementById('clm-obs').value=(window.obsMap||{})[cod]||'';
   document.getElementById('claim-err').textContent='';
-  document.getElementById('clm-ok').textContent = edit?'Salvar':'📌 Pegar';
+  document.getElementById('clm-ok').textContent = admin?'📌 Direcionar':'Salvar';
   document.getElementById('claim-modal').style.display='flex';
-  setTimeout(()=>document.getElementById('clm-obs').focus(),50);
+  if(!admin) setTimeout(()=>document.getElementById('clm-obs').focus(),50);
 }
 function fecharClaim(){ document.getElementById('claim-modal').style.display='none'; _clmCod=null; }
 document.getElementById('clm-ok').onclick = async function(){
+  const err=document.getElementById('claim-err'); err.textContent='';
+  const cod=_clmCod; if(!cod) return;
+  if(_clmModo==='admin'){
+    fecharClaim(); confirmarPegar(cod, document.getElementById('clm-vend').value, ''); return;
+  }
   const obs=document.getElementById('clm-obs').value.trim();
-  const err=document.getElementById('claim-err');
-  if(!obs){ err.textContent='A observação é obrigatória.'; return; }
-  const admin=(window.PERFIL_PAINEL&&window.PERFIL_PAINEL.papel==='admin');
-  const cod=_clmCod;
-  let vend = _clmEdit ? ((window.donoMap||{})[cod] || (window.PERFIL_PAINEL&&window.PERFIL_PAINEL.vendedor))
-                      : (admin ? document.getElementById('clm-vend').value : (window.PERFIL_PAINEL&&window.PERFIL_PAINEL.vendedor));
-  if(!vend){ err.textContent='Seu login não está vinculado a um vendedor.'; return; }
-  window.donoMap[cod]=vend; window.obsMap[cod]=obs;
-  fecharClaim(); render();
+  if(!obs){ err.textContent='Escreva a observação (obrigatória).'; return; }
+  const vend=(window.donoMap||{})[cod] || (window.PERFIL_PAINEL&&window.PERFIL_PAINEL.vendedor);
+  if(!vend){ err.textContent='Sem vendedor pra atribuir.'; return; }
+  window.obsMap[cod]=obs; fecharClaim(); render();
   if(window.SB){
     const {error}=await window.SB.from('lead_status').upsert(
       {codigo_auto:cod, vendedor:vend, obs:obs, status:(window.statusMap&&window.statusMap[cod])||'contatado', atualizado_em:new Date().toISOString()},
       {onConflict:'codigo_auto'});
-    if(error){ alert('Não salvou: '+error.message); console.warn(error); }
+    if(error){ alert('Não salvou a obs: '+error.message); console.warn(error); }
     if(typeof carregarStatusPainel==='function') carregarStatusPainel();
   }
 };
 async function soltarLead(cod){
   if(!confirm('Soltar este lead de volta pro Todos?')) return;
-  delete window.donoMap[cod]; delete window.obsMap[cod]; render();
   if(window.SB){
-    const {error}=await window.SB.from('lead_status').delete().eq('codigo_auto',cod);
-    if(error){ alert('Não soltou: '+error.message); }
-    if(typeof carregarStatusPainel==='function') carregarStatusPainel();
+    const {data,error}=await window.SB.from('lead_status').delete().eq('codigo_auto',cod).select();
+    if(error){ alert('Não soltou: '+error.message); return; }
+    if(!data || !data.length){ alert('Não consegui soltar — rode o SQL pool_leads.sql no Supabase (faltou a permissão de excluir).'); return; }
   }
+  delete window.donoMap[cod]; delete window.obsMap[cod]; if(window.statusMap) delete window.statusMap[cod];
+  render();
+  if(typeof carregarStatusPainel==='function') carregarStatusPainel();
 }
 </script>
 
