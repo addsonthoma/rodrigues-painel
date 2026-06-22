@@ -153,9 +153,9 @@
   <span class="vsep"></span>
   <span class="vlbl">Vendedor</span>
   <button class="vtab on" data-v="" onclick="setVendedor('')">👥 Todos</button>
-  <button class="vtab" data-v="BANANA" onclick="setVendedor('BANANA')">🟢 Banana · Brusque/Vale</button>
-  <button class="vtab" data-v="GUILHERME" onclick="setVendedor('GUILHERME')">🔵 Guilherme · Litoral</button>
-  <button class="vtab" data-v="ALINE" onclick="setVendedor('ALINE')">🟣 Aline · Botuverá</button>
+  <button class="vtab" data-v="BANANA" onclick="setVendedor('BANANA')">🟢 Banana</button>
+  <button class="vtab" data-v="GUILHERME" onclick="setVendedor('GUILHERME')">🔵 Guilherme</button>
+  <button class="vtab" data-v="ALINE" onclick="setVendedor('ALINE')">🟣 Aline</button>
   <span class="vsep"></span>
   <button id="btn-captacao" class="vtab cap" onclick="toggleCaptacao()">🚗 Captação / Rota</button>
  </div>
@@ -435,6 +435,7 @@ function itemHTML(item, tipo, isFlash, drill){
     <div class="item-end">${end}</div>
     ${detectLabel ? `<div class="item-detectado">${detectLabel}</div>` : ''}
     ${drillHTML(d)}
+    ${(typeof claimControls==='function')?claimControls(item):''}
     ${(typeof captacaoControls==='function')?captacaoControls(item):''}
    </div>
    <div class="item-acoes">
@@ -444,15 +445,22 @@ function itemHTML(item, tipo, isFlash, drill){
 }
 
 let dadosMul = {}, dadosAf = {}, dadosDrill = {}, dadosProto = {}, vista = 'autos';
+window.donoMap = window.donoMap || {}; window.obsMap = window.obsMap || {};
+// POOL: filtra por dono. Aba "Todos" = sem dono; aba do vendedor = leads que ele pegou.
+function itemPassaAba(it){
+  const cod = it.CodigoAuto || it.CodigoProtocolo;
+  const dono = (window.donoMap||{})[cod] || "";
+  return vendedorAtivo ? (dono === vendedorAtivo) : (dono === "");
+}
 
 function render(){
   if(vista === 'protocolos'){ return renderProtocolos(); }
   const tmL=document.querySelector('.stat-mul'); if(tmL&&tmL.childNodes[0]) tmL.childNodes[0].nodeValue='Multas';
   const taL=document.querySelector('.stat-af'); if(taL&&taL.childNodes[0]) taL.childNodes[0].nodeValue='Fiscalizações';
   const cidadesSet = new Set([...Object.keys(dadosMul.multas||{}), ...Object.keys(dadosAf.afs||{})]);
-  const cidsKpi = vendedorAtivo ? [...cidadesSet].filter(c=>(VENDEDORES[vendedorAtivo]||[]).includes(c)) : [...cidadesSet];
-  const totalMul = cidsKpi.reduce((s,c)=>s+(((dadosMul.multas||{})[c])||[]).length,0);
-  const totalAf = cidsKpi.reduce((s,c)=>s+(((dadosAf.afs||{})[c])||[]).length,0);
+  const cidsKpi = [...cidadesSet];
+  const totalMul = cidsKpi.reduce((s,c)=>s+(((dadosMul.multas||{})[c])||[]).filter(itemPassaAba).length,0);
+  const totalAf = cidsKpi.reduce((s,c)=>s+(((dadosAf.afs||{})[c])||[]).filter(itemPassaAba).length,0);
 
   document.getElementById("total-mul").textContent = totalMul;
   document.getElementById("total-af").textContent = totalAf;
@@ -467,20 +475,20 @@ function render(){
   if(!cidades.length){ grid.innerHTML = '<div class="empty-state">Nenhum dado carregado.</div>'; return; }
 
   const drill = dadosDrill.drill || {};
-  let cidadesView = vendedorAtivo ? cidades.filter(c=>(VENDEDORES[vendedorAtivo]||[]).includes(c)) : cidades;
+  let cidadesView = cidades;
   if(filtroCidades.size) cidadesView = cidadesView.filter(c=>filtroCidades.has(c));
   const capStatusOn = (window.modoCaptacao && window.filtroStatus && window.filtroStatus.size>0);
   const filtrarItens = filtroCategorias.size>0 || filtroTexto.length>0 || capStatusOn;
   let totalRes = 0;
   const html = cidadesView.map(cid=>{
-    let muls = (dadosMul.multas && dadosMul.multas[cid]) || [];
-    let afs  = (dadosAf.afs && dadosAf.afs[cid]) || [];
+    let muls = ((dadosMul.multas && dadosMul.multas[cid]) || []).filter(itemPassaAba);
+    let afs  = ((dadosAf.afs && dadosAf.afs[cid]) || []).filter(itemPassaAba);
     if(filtrarItens){
       muls = muls.filter(m=>itemPassaPend(m, drill) && (typeof itemPassaStatus!=='function'||itemPassaStatus(m)));
       afs  = afs.filter(a=>itemPassaPend(a, drill) && (typeof itemPassaStatus!=='function'||itemPassaStatus(a)));
     }
     totalRes += muls.length + afs.length;
-    if(filtroAtivo() && muls.length===0 && afs.length===0) return "";
+    if(muls.length===0 && afs.length===0) return "";
     const cfgM = (dadosMul.cidades && dadosMul.cidades[cid]) || {};
     const cfgA = (dadosAf.cidades && dadosAf.cidades[cid]) || {};
     const meta = [];
@@ -735,9 +743,8 @@ async function marcarStatus(cod, status){
   window.statusMap[cod]=novo; render();
   if(!window.SB){ capToast('⚠️ Faça login p/ salvar'); return; }
   const it=acharItem(cod);
-  const vend=(window.PERFIL_PAINEL&&window.PERFIL_PAINEL.papel==='admin')
-      ? vendedorDaCidade(it?it.Cidade:null)
-      : (window.PERFIL_PAINEL&&window.PERFIL_PAINEL.vendedor) || vendedorDaCidade(it?it.Cidade:null);
+  const vend=(window.donoMap&&window.donoMap[cod]) || (window.PERFIL_PAINEL&&window.PERFIL_PAINEL.vendedor) || null;
+  if(!vend){ capToast('Pegue o lead antes (📌) pra marcar status.'); return; }
   const {error}=await window.SB.from('lead_status')
     .upsert({codigo_auto:cod,vendedor:vend,status:novo,atualizado_em:new Date().toISOString()},{onConflict:'codigo_auto'});
   if(error){ capToast('⚠️ Não salvou (login?)'); console.warn(error); }
@@ -815,10 +822,11 @@ async function capInit(user){
 async function carregarStatusPainel(){
   if(!window.SB) return;
   try{
-    const {data}=await window.SB.from('lead_status').select('codigo_auto,status');
-    const m={}; for(const r of (data||[])) m[r.codigo_auto]=r.status;
-    window.statusMap=m;
-    if(window.modoCaptacao) render();
+    const {data}=await window.SB.from('lead_status').select('codigo_auto,status,vendedor,obs');
+    const m={}, dono={}, obs={};
+    for(const r of (data||[])){ m[r.codigo_auto]=r.status; if(r.vendedor) dono[r.codigo_auto]=r.vendedor; if(r.obs) obs[r.codigo_auto]=r.obs; }
+    window.statusMap=m; window.donoMap=dono; window.obsMap=obs;
+    render();
   }catch(e){ console.warn(e); }
 }
 </script>
@@ -922,9 +930,8 @@ function protoHTML(p){
 function renderProtocolos(){
   const proto = dadosProto.protocolos || {};
   let cidades = Object.keys(proto).sort();
-  if(vendedorAtivo) cidades = cidades.filter(c=>(VENDEDORES[vendedorAtivo]||[]).includes(c));
-  const totalProto = cidades.reduce((s,c)=>s+(proto[c]||[]).length,0);
-  const defCount = cidades.reduce((s,c)=>s+(proto[c]||[]).filter(p=>p.deferido).length,0);
+  const totalProto = cidades.reduce((s,c)=>s+(proto[c]||[]).filter(itemPassaAba).length,0);
+  const defCount = cidades.reduce((s,c)=>s+(proto[c]||[]).filter(p=>p.deferido&&itemPassaAba(p)).length,0);
   const tm=document.querySelector('.stat-mul'), ta=document.querySelector('.stat-af');
   if(tm&&tm.childNodes[0]) tm.childNodes[0].nodeValue='Protocolos';
   if(ta&&ta.childNodes[0]) ta.childNodes[0].nodeValue='Deferidos';
@@ -939,10 +946,10 @@ function renderProtocolos(){
   const q = filtroTexto?normf(filtroTexto):"";
   let totalRes=0;
   const html = cidsView.map(cid=>{
-    let lst = (proto[cid]||[]).slice();
+    let lst = (proto[cid]||[]).filter(itemPassaAba);
     if(q) lst=lst.filter(p=>normf((p.Nome_Edificacao||'')+' '+(p.CodigoProtocolo||'')+' '+(p.Logradouro||'')+' '+(p.situacao||'')).includes(q));
     if(window.modoCaptacao && window.filtroStatus.size) lst=lst.filter(p=>itemPassaStatus(p));
-    if(filtroAtivo() && !lst.length) return "";
+    if(!lst.length) return "";
     totalRes += lst.length;
     const itens = lst.map(p=>protoHTML(p)).join("") || '<div class="col-empty">Sem protocolos</div>';
     return `<div class="cidade">
@@ -956,6 +963,108 @@ function renderProtocolos(){
   grid.innerHTML = html || '<div class="empty-state">Nenhum protocolo para os filtros.</div>';
   const fr=document.getElementById("f-resultado");
   if(fr) fr.textContent = filtroAtivo()?(totalRes+" resultado"+(totalRes===1?"":"s")):"";
+}
+</script>
+
+<!-- ===== POOL DE LEADS (pegar/soltar + obs obrigatória + abas por dono) ===== -->
+<style>
+ .claim-row{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:6px;font-size:.86em}
+ .claim-btn{background:#1d3a1d;color:#7fffa8;border:1px solid #2e5a2e;border-radius:8px;padding:4px 12px;cursor:pointer;font-weight:600;font-size:.95em}
+ .claim-btn:hover{background:#264e26}
+ .claim-tag{font-size:.92em;font-weight:700;padding:2px 8px;border-radius:10px;background:#22222b;color:#cfcfd6}
+ .claim-tag.dono-BANANA{background:#0c2f17;color:#3ee07a}
+ .claim-tag.dono-GUILHERME{background:#10283f;color:#6fc0ff}
+ .claim-tag.dono-ALINE{background:#1e1030;color:#c79bff}
+ .claim-obs{color:var(--muted);font-style:italic;font-size:.92em;word-break:break-word}
+ .claim-mini{background:#1b1b22;border:1px solid #2a2a33;border-radius:6px;color:#cfcfd6;cursor:pointer;font-size:.85em;padding:2px 7px}
+ .claim-mini.soltar{color:#ff8a9a;border-color:#4a1820}
+ #claim-modal{display:none;position:fixed;inset:0;z-index:600;background:rgba(0,0,0,.72);align-items:center;justify-content:center;padding:20px}
+ #claim-modal .cmx{background:#15151a;border:1px solid #34343f;border-radius:14px;padding:20px;width:min(440px,94vw);color:#f5f5f7}
+ #claim-modal h3{margin:0 0 4px}
+ #claim-modal .cmsub{font-size:12.5px;color:#9a9aa5;margin:0 0 12px}
+ #claim-modal label{font-size:12px;color:#9a9aa5;display:block;margin:10px 0 4px}
+ #claim-modal textarea{width:100%;min-height:74px;background:#0d0d10;border:1px solid #34343f;border-radius:8px;color:#f5f5f7;padding:9px;font-size:14px;font-family:inherit;resize:vertical;box-sizing:border-box}
+ #claim-modal select{width:100%;background:#0d0d10;border:1px solid #34343f;border-radius:8px;color:#f5f5f7;padding:9px;font-size:14px;box-sizing:border-box}
+ #claim-modal .cmrow{display:flex;gap:8px;margin-top:14px}
+ #claim-modal .cmrow button{flex:1;border:0;border-radius:8px;padding:11px;font-weight:700;cursor:pointer;font-size:14px}
+ #claim-modal .cm-ok{background:#26de81;color:#0a1929}
+ #claim-modal .cm-cancel{background:#1b1b22;color:#cfcfd6;border:1px solid #34343f}
+ #claim-err{color:#e8334a;font-size:12px;min-height:14px;margin-top:6px}
+</style>
+<div id="claim-modal"><div class="cmx">
+ <h3 id="clm-title">📌 Pegar lead</h3>
+ <p class="cmsub" id="clm-sub"></p>
+ <div id="clm-vendwrap" style="display:none"><label>Direcionar para qual vendedor</label>
+  <select id="clm-vend"><option value="BANANA">Banana</option><option value="GUILHERME">Guilherme</option><option value="ALINE">Aline</option></select></div>
+ <label>Observação (obrigatória) — situação do lead: se já fez o serviço, se não precisa, o que combinou, etc.</label>
+ <textarea id="clm-obs" placeholder="Ex.: liguei, vão me chamar semana que vem / já fizemos esse / não precisa..."></textarea>
+ <div id="claim-err"></div>
+ <div class="cmrow"><button class="cm-cancel" onclick="fecharClaim()">Cancelar</button><button class="cm-ok" id="clm-ok">📌 Pegar</button></div>
+</div></div>
+<script>
+const VEND_LABEL = {BANANA:'Banana',GUILHERME:'Guilherme',ALINE:'Aline'};
+function _logadoPodePegar(){ return !!(window.PERFIL_PAINEL && (window.PERFIL_PAINEL.vendedor || window.PERFIL_PAINEL.papel==='admin')); }
+function claimControls(item){
+  const cod = item.CodigoAuto || item.CodigoProtocolo;
+  const dono = (window.donoMap||{})[cod] || "";
+  const obs = (window.obsMap||{})[cod] || "";
+  const e = cod.replace(/'/g,"\\'");
+  if(!dono){
+    return _logadoPodePegar() ? `<div class="claim-row"><button class="claim-btn" onclick="pegarLead('${e}')">📌 Pegar lead</button></div>` : "";
+  }
+  const meu = window.PERFIL_PAINEL && (dono===window.PERFIL_PAINEL.vendedor || window.PERFIL_PAINEL.papel==='admin');
+  const tag = `<span class="claim-tag dono-${dono}">📌 ${VEND_LABEL[dono]||dono}</span>`;
+  const obsHTML = obs ? `<span class="claim-obs">“${obs}”</span>` : '';
+  if(meu){
+    return `<div class="claim-row">${tag}${obsHTML}<button class="claim-mini" onclick="editarObs('${e}')">✏️ obs</button><button class="claim-mini soltar" onclick="soltarLead('${e}')">↩️ soltar</button></div>`;
+  }
+  return `<div class="claim-row">${tag}${obsHTML}</div>`;
+}
+let _clmCod=null, _clmEdit=false;
+function pegarLead(cod){ if(!_logadoPodePegar()){ alert('Faça login pra pegar leads.'); return; } abrirClaim(cod,false); }
+function editarObs(cod){ abrirClaim(cod,true); }
+function abrirClaim(cod, edit){
+  _clmCod=cod; _clmEdit=edit;
+  const it=(typeof acharItem==='function')?acharItem(cod):null;
+  const admin=(window.PERFIL_PAINEL&&window.PERFIL_PAINEL.papel==='admin');
+  document.getElementById('clm-title').textContent = edit?'✏️ Editar observação':'📌 Pegar lead';
+  document.getElementById('clm-sub').textContent = it?((it.Nome_Edificacao||'')+' · '+cod):cod;
+  document.getElementById('clm-vendwrap').style.display = (admin && !edit)?'block':'none';
+  if(admin && !edit && (window.donoMap||{})[cod]) document.getElementById('clm-vend').value=window.donoMap[cod];
+  document.getElementById('clm-obs').value = edit?((window.obsMap||{})[cod]||''):'';
+  document.getElementById('claim-err').textContent='';
+  document.getElementById('clm-ok').textContent = edit?'Salvar':'📌 Pegar';
+  document.getElementById('claim-modal').style.display='flex';
+  setTimeout(()=>document.getElementById('clm-obs').focus(),50);
+}
+function fecharClaim(){ document.getElementById('claim-modal').style.display='none'; _clmCod=null; }
+document.getElementById('clm-ok').onclick = async function(){
+  const obs=document.getElementById('clm-obs').value.trim();
+  const err=document.getElementById('claim-err');
+  if(!obs){ err.textContent='A observação é obrigatória.'; return; }
+  const admin=(window.PERFIL_PAINEL&&window.PERFIL_PAINEL.papel==='admin');
+  const cod=_clmCod;
+  let vend = _clmEdit ? ((window.donoMap||{})[cod] || (window.PERFIL_PAINEL&&window.PERFIL_PAINEL.vendedor))
+                      : (admin ? document.getElementById('clm-vend').value : (window.PERFIL_PAINEL&&window.PERFIL_PAINEL.vendedor));
+  if(!vend){ err.textContent='Seu login não está vinculado a um vendedor.'; return; }
+  window.donoMap[cod]=vend; window.obsMap[cod]=obs;
+  fecharClaim(); render();
+  if(window.SB){
+    const {error}=await window.SB.from('lead_status').upsert(
+      {codigo_auto:cod, vendedor:vend, obs:obs, status:(window.statusMap&&window.statusMap[cod])||'contatado', atualizado_em:new Date().toISOString()},
+      {onConflict:'codigo_auto'});
+    if(error){ alert('Não salvou: '+error.message); console.warn(error); }
+    if(typeof carregarStatusPainel==='function') carregarStatusPainel();
+  }
+};
+async function soltarLead(cod){
+  if(!confirm('Soltar este lead de volta pro Todos?')) return;
+  delete window.donoMap[cod]; delete window.obsMap[cod]; render();
+  if(window.SB){
+    const {error}=await window.SB.from('lead_status').delete().eq('codigo_auto',cod);
+    if(error){ alert('Não soltou: '+error.message); }
+    if(typeof carregarStatusPainel==='function') carregarStatusPainel();
+  }
 }
 </script>
 
@@ -1001,10 +1110,8 @@ function renderProtocolos(){
     try{
       var r = await sb.from('perfis').select('papel,vendedor').eq('id', user.id).single();
       var p = r.data || {};
-      if (p.papel !== 'admin' && p.vendedor && typeof setVendedor === 'function'){
-        setVendedor(p.vendedor);                 // trava no vendedor do usuário
-        document.body.classList.add('lead-locked'); // esconde a barra de troca de vendedor
-      }
+      // POOL: ninguem fica travado por cidade; todos veem todas as abas.
+      // (papel/vendedor ficam em PERFIL_PAINEL via capInit, usados pra "pegar" lead)
     }catch(e){}
     if (typeof capInit === 'function') capInit(user);
     ov.style.display = 'none';
