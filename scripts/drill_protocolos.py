@@ -19,6 +19,7 @@ BASE = "https://esci.cbm.sc.gov.br"
 EP = {
     "edif":  "/Safe/Gerencial/ControllerRegistroEdificacoes/carregarDadosEdificacao/",
     "bloco": "/Safe/Geral/Edificacao/ControllerBloco/carregarDadosBlocoUltimoHomologacaoOuEnquadramento/",
+    "docsAnalise": "/Safe/Analise/ControllerAnaliseProjeto/carregarDocumentosSolicitacaoAnalise/",
 }
 PAUSE = 0.3
 TZ_BR = timezone(timedelta(hours=-3))
@@ -34,10 +35,27 @@ def load_cookies():
             k, v = part.split("=", 1); ck[k.strip()] = v.strip()
     return ck or None
 
+def cookies_do_chrome():
+    """Le o cookie fresco direto do Chrome logado no e-SCI (mesma automacao do drill_local)."""
+    try:
+        import browser_cookie3
+        cj = browser_cookie3.chrome(domain_name="esci.cbm.sc.gov.br")
+        ck = {c.name: c.value for c in cj}
+        return ck or None
+    except Exception as e:
+        print(f"[!] browser_cookie3 (Chrome) falhou: {e}")
+        return None
+
 def get_session():
-    ck = load_cookies()
+    # 1) cookie fresco do Chrome logado (automatico); 2) fallback cookies.txt
+    ck = cookies_do_chrome()
+    if ck:
+        print(f"[*] {len(ck)} cookies lidos do Chrome (e-SCI, fresco).")
+    else:
+        ck = load_cookies()
+        if ck: print(f"[*] Cookies de {COOKIES_TXT}.")
     if not ck:
-        print(f"[!] Sem cookies em {COOKIES_TXT}. Cole o cookie do e-SCI (logado) ali.")
+        print("[!] Sem cookies: Chrome nao logado no e-SCI e cookies.txt vazio.")
         sys.exit(1)
     s = requests.Session(); s.cookies.update(ck)
     s.headers.update({"Content-Type":"application/json;charset=UTF-8",
@@ -80,8 +98,25 @@ def projetos_da_edif(s, numg):
             cod = p.get("codgProtocolo")
             if not cod: continue
             sit = (p.get("situacao") or {})
-            docs = [{"id": dc.get("numgDocumento"), "nome": dc.get("nomeOriginal") or dc.get("nomeDocumento")}
-                    for dc in (p.get("documentos") or []) if dc.get("numgDocumento")]
+            # RELATORIO de indeferimento (NAO o atestado de aprovacao): so docs com categoria de relatorio
+            relat = [{"id": dc.get("numgDocumento"), "nome": dc.get("nomeOriginal") or dc.get("nomeDocumento")}
+                     for dc in (p.get("documentos") or [])
+                     if dc.get("numgDocumento") and dc.get("codgCategoriaRelatorio")]
+            # ANEXOS do projeto submetido (PPCI, matricula, ART...) via solicitacao de analise
+            anexos = []
+            nsp = p.get("numgSolicitacaoProjeto")
+            if nsp:
+                da = api(s, "docsAnalise", {"numgSolicitacaoProjeto": nsp})
+                if da == "EXPIRED": return "EXPIRED"
+                if isinstance(da, list):
+                    for dc in da:
+                        if not dc.get("numgDocumento"): continue
+                        anexos.append({
+                            "id": dc.get("numgDocumento"),
+                            "nome": dc.get("nomeOriginal") or dc.get("nomeDocumento"),
+                            "desc": dc.get("descDocumento"),
+                        })
+                time.sleep(PAUSE)
             out[cod] = {
                 "area": p.get("numrAreaTotalSolicitacao"),
                 "data": _date(p.get("dataProtocolo")),
@@ -92,8 +127,10 @@ def projetos_da_edif(s, numg):
                 "anulado": bool(p.get("flagAnulado")),
                 "suspenso": bool(p.get("flagSuspenso")),
                 "numgProcesso": p.get("numgProcesso"),
-                "qtdAnexos": len(docs),
-                "anexos": docs,
+                "numgSolicitacaoProjeto": nsp,
+                "qtdAnexos": len(anexos),
+                "anexos": anexos,        # arquivos de projeto submetidos
+                "relatorio": relat,      # relatorio de indeferimento (quando houver)
                 "_drillTs": datetime.now(TZ_BR).isoformat(timespec="seconds"),
             }
         time.sleep(PAUSE)
@@ -102,6 +139,7 @@ def projetos_da_edif(s, numg):
 def _fresco(it, horas=18):
     ts = it.get("_drillTs")
     if not ts: return False
+    if "relatorio" not in it: return False   # formato ANTIGO (anexos=atestado) -> re-enriquece
     try:
         t = datetime.fromisoformat(ts)
         return (datetime.now(TZ_BR) - t).total_seconds() < horas * 3600

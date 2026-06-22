@@ -842,6 +842,8 @@ async function carregarStatusPainel(){
  .anexos-list{display:flex;flex-direction:column;gap:4px;margin-top:6px;padding-left:4px}
  .anexos-list a{color:#9fd0ff;text-decoration:none;background:#15151a;border:1px solid #2a2a33;border-radius:7px;padding:5px 9px;word-break:break-all}
  .anexos-list a:hover{background:#1b1b22;border-color:#3da5ff}
+ .anexos-list a.ax-ppci{background:#0c2f17;border-color:#1a5a30;color:#7fffa8;font-weight:600}
+ .anexos-det.ind summary{background:#2f1116;border-color:#5a1a24;color:#ff8a9a}
  .anexos-hint{font-size:.85em;color:var(--muted);opacity:.8;margin-top:2px}
  .proto-item.hot-def{border-left:3px solid #26de81;background:linear-gradient(90deg,rgba(38,222,129,.07),transparent 55%)}
  body.vista-proto #total-mul,body.vista-proto #total-af{opacity:1}
@@ -866,10 +868,27 @@ function _protoBadge(p){
 // download de anexo direto do e-SCI (usa o login do e-SCI do escritorio)
 const DOC_DL = "https://esci.cbm.sc.gov.br/Safe/Geral/Tecnico/ControllerDocumento/downloadDocumento/?documento=";
 function anexosHTML(p){
+  if(!('relatorio' in p)) return "";   // formato antigo (atestado) — esconde até re-enriquecer
+  const out = [];
+  // arquivos de PROJETO submetidos (PPCI em destaque)
   const ax = p.anexos || [];
-  if(!ax.length) return "";
-  const links = ax.map((a,i)=>`<a href="${DOC_DL}${a.id}" target="_blank" rel="noopener">📄 ${(a.nome||('documento '+a.id))}</a>`).join("");
-  return `<details class="anexos-det"><summary>📎 Anexos do projeto (${ax.length})</summary><div class="anexos-list">${links}<span class="anexos-hint">precisa estar logado no e-SCI</span></div></details>`;
+  if(ax.length){
+    const ehPPCI = a => /ppci|preven|projeto|rpci/i.test((a.desc||'')+' '+(a.nome||''));
+    const ord = ax.slice().sort((a,b)=> (ehPPCI(b)?1:0) - (ehPPCI(a)?1:0)); // PPCI primeiro
+    const links = ord.map(a=>{
+      const ppci = ehPPCI(a);
+      const txt = (a.desc || a.nome || ('documento '+a.id));
+      return `<a class="${ppci?'ax-ppci':''}" href="${DOC_DL}${a.id}" target="_blank" rel="noopener">${ppci?'📐':'📄'} ${txt}</a>`;
+    }).join("");
+    out.push(`<details class="anexos-det"><summary>📎 Arquivos do projeto (${ax.length})</summary><div class="anexos-list">${links}<span class="anexos-hint">baixa do e-SCI — precisa estar logado</span></div></details>`);
+  }
+  // relatorio de INDEFERIMENTO (por que nao aprovou)
+  const rl = p.relatorio || [];
+  if(rl.length && (p.codgSituacao==='INDEFERIDO' || (p.situacao||'').toLowerCase().includes('indefer'))){
+    const links = rl.map(a=>`<a href="${DOC_DL}${a.id}" target="_blank" rel="noopener">📄 ${(a.nome||('relatorio '+a.id))}</a>`).join("");
+    out.push(`<details class="anexos-det ind"><summary>❌ Relatório de indeferimento (${rl.length})</summary><div class="anexos-list">${links}<span class="anexos-hint">o que reprovou — precisa logar no e-SCI</span></div></details>`);
+  }
+  return out.join("");
 }
 function protoHTML(p){
   const cod=p.CodigoProtocolo;
