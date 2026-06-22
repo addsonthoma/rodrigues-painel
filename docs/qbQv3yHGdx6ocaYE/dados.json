@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-06-22T14:57:31-03:00",
+  "timestamp": "2026-06-22T15:07:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 78,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
+      "ultima_verificacao": "2026-06-22T15:07:31-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
+      "ultima_verificacao": "2026-06-22T15:07:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
+      "ultima_verificacao": "2026-06-22T15:07:31-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 41,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
+      "ultima_verificacao": "2026-06-22T15:07:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 80,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
+      "ultima_verificacao": "2026-06-22T15:07:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 104,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
+      "ultima_verificacao": "2026-06-22T15:07:31-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 141,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
+      "ultima_verificacao": "2026-06-22T15:07:31-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 170,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
+      "ultima_verificacao": "2026-06-22T15:07:31-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 53,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
+      "ultima_verificacao": "2026-06-22T15:07:31-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 303,
+      "ultimo_numero": 305,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-22T14:57:31-03:00"
+      "ultima_verificacao": "2026-06-22T15:07:31-03:00"
     }
   },
   "multas": {
@@ -843,6 +843,26 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000304A/26",
+        "RE": "RE8161009554A",
+        "Nome_Edificacao": "SERGIO DAVI DE FREITAS",
+        "Logradouro": "Rua Vereador Pedro João de Souza Filho",
+        "Numero": "2711",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-22T15:07:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000305A/26",
+        "RE": "RE8161009554A",
+        "Nome_Edificacao": "SERGIO DAVI DE FREITAS",
+        "Logradouro": "Rua Vereador Pedro João de Souza Filho",
+        "Numero": "2711",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-22T15:07:31-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000303A/26",
         "RE": "RE8161009568A",
@@ -1817,14 +1837,28 @@
     "Brusque": 23,
     "Gaspar": 17,
     "Guabiruba": 3,
-    "Itajai": 21,
+    "Itajai": 23,
     "Itapema": 24,
     "Navegantes": 15,
     "Nova Trento": 21,
     "Porto Belo": 23
   },
-  "total_geral": 185,
+  "total_geral": 187,
   "eventos_recentes": [
+    {
+      "ts": "2026-06-22T15:07:31-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000305A/26",
+      "nome": "SERGIO DAVI DE FREITAS",
+      "re": "RE8161009554A"
+    },
+    {
+      "ts": "2026-06-22T15:07:31-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000304A/26",
+      "nome": "SERGIO DAVI DE FREITAS",
+      "re": "RE8161009554A"
+    },
     {
       "ts": "2026-06-22T14:57:31-03:00",
       "cidade": "Itajai",
