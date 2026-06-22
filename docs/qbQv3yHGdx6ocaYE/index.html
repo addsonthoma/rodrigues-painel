@@ -836,6 +836,13 @@ async function carregarStatusPainel(){
  .proto-badge.proj-ana{background:#10283f;color:#6fc0ff}
  .proto-badge.proj-na{background:#22222b;color:#9a9aa5}
  .item-cod.proto{color:#ffb86b}
+ .anexos-det{margin-top:6px;font-size:.84em}
+ .anexos-det summary{cursor:pointer;color:#6fc0ff;list-style:none;display:inline-block;background:#10283f;border:1px solid #1d4a6a;border-radius:8px;padding:3px 10px}
+ .anexos-det summary::-webkit-details-marker{display:none}
+ .anexos-list{display:flex;flex-direction:column;gap:4px;margin-top:6px;padding-left:4px}
+ .anexos-list a{color:#9fd0ff;text-decoration:none;background:#15151a;border:1px solid #2a2a33;border-radius:7px;padding:5px 9px;word-break:break-all}
+ .anexos-list a:hover{background:#1b1b22;border-color:#3da5ff}
+ .anexos-hint{font-size:.85em;color:var(--muted);opacity:.8;margin-top:2px}
  .proto-item.hot-def{border-left:3px solid #26de81;background:linear-gradient(90deg,rgba(38,222,129,.07),transparent 55%)}
  body.vista-proto #total-mul,body.vista-proto #total-af{opacity:1}
 </style>
@@ -855,6 +862,14 @@ function _protoBadge(p){
   if(p.situacao) return ['⏳ '+p.situacao,'proj-ana'];
   if(p.area!=null) return ['• analisado','proj-ana'];
   return ['⏳ a verificar','proj-na'];
+}
+// download de anexo direto do e-SCI (usa o login do e-SCI do escritorio)
+const DOC_DL = "https://esci.cbm.sc.gov.br/Safe/Geral/Tecnico/ControllerDocumento/downloadDocumento/?documento=";
+function anexosHTML(p){
+  const ax = p.anexos || [];
+  if(!ax.length) return "";
+  const links = ax.map((a,i)=>`<a href="${DOC_DL}${a.id}" target="_blank" rel="noopener">📄 ${(a.nome||('documento '+a.id))}</a>`).join("");
+  return `<details class="anexos-det"><summary>📎 Anexos do projeto (${ax.length})</summary><div class="anexos-list">${links}<span class="anexos-hint">precisa estar logado no e-SCI</span></div></details>`;
 }
 function protoHTML(p){
   const cod=p.CodigoProtocolo;
@@ -876,6 +891,7 @@ function protoHTML(p){
     <div class="item-nome">${p.Nome_Edificacao||'(sem nome)'}</div>
     <div class="item-end">${end} · ${p.Cidade||''}</div>
     <div class="proto-meta"><span class="proto-badge ${cls}">${badge}</span>${meta.length?' '+meta.join(' · '):''}</div>
+    ${(typeof anexosHTML==='function')?anexosHTML(p):''}
     ${det?`<div class="item-detectado">${det}</div>`:''}
     ${(typeof captacaoControls==='function')?captacaoControls(p):''}
    </div>
