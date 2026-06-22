@@ -1,6 +1,10 @@
 @echo off
 REM Drill agendado - roda sem interacao, loga resultado.
-REM Requer: cookies.txt valido (renovar no Chrome de manha) + Chrome logado no e-SCI.
+REM SYNC ROBUSTO (corrigido 22/06/2026): usa MERGE preferindo o remoto, em vez de
+REM "git pull --rebase --autostash". O autostash conflitava com os commits do bot
+REM (ambos mexem em dados.json/estado.json), o "stash pop" falhava e DEIXAVA
+REM marcadores de conflito (<<<<<<< ======= >>>>>>>) dentro do JSON -> quebrava o
+REM painel ("fora do ar"). Merge nunca deixa stash preso. Mesmo padrao do coletar_agendado.bat.
 cd /d "%~dp0\.."
 set LOG=scripts\drill_agendado.log
 echo ====== %DATE% %TIME% ====== >> "%LOG%"
@@ -8,25 +12,29 @@ echo ====== %DATE% %TIME% ====== >> "%LOG%"
 REM garante dependencias
 python -c "import browser_cookie3, requests" 2>nul || python -m pip install browser_cookie3 requests --quiet
 
-REM 1) PUXA O PAINEL MAIS RECENTE PRIMEIRO (afs.json/dados.json que o GitHub Actions coletou)
-REM    Sem isso o drill rodaria em cima de dados velhos e perderia os AFs novos.
-git pull --rebase --autostash >> "%LOG%" 2>&1
+REM 1) Sincroniza com o remoto via MERGE (nunca conflita / nunca deixa stash preso)
+git checkout main >> "%LOG%" 2>&1
+git fetch origin -q >> "%LOG%" 2>&1
+git merge -X theirs origin/main -m "sync drill" >> "%LOG%" 2>&1
 
-REM 2) Roda o drill em cima dos dados FRESCOS
+REM 2) Roda o drill em cima dos dados frescos
 python scripts\drill_local.py >> "%LOG%" 2>&1
 
-REM 3) Agora sim: stage + commit + push (na ordem certa, sem autostash desfazer o stage)
+REM 3) Commit + push (so o drill.json / drill_cache.json), com 1 retry se o origin mudou
 git add docs/qbQv3yHGdx6ocaYE/drill.json scripts/drill_cache.json
 git diff --cached --quiet
 if errorlevel 1 (
     git commit -m "Drill agendado %DATE%" >> "%LOG%" 2>&1
-    git pull --rebase --autostash >> "%LOG%" 2>&1
     git push >> "%LOG%" 2>&1
+    if errorlevel 1 (
+        git fetch origin -q >> "%LOG%" 2>&1
+        git merge -X ours origin/main -m "sync drill (retry push)" >> "%LOG%" 2>&1
+        git push >> "%LOG%" 2>&1
+    )
     echo [OK] Drill atualizado e enviado. >> "%LOG%"
 ) else (
     echo [--] Sem mudancas no drill. >> "%LOG%"
 )
 
-REM Sai com sucesso (o git diff --cached --quiet acima retorna 1 por design e
-REM nao deve marcar a tarefa agendada como "falha"). O log e a fonte da verdade.
+REM Sai com sucesso (o git diff --cached --quiet retorna 1 por design).
 exit /b 0
