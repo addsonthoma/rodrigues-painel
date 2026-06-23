@@ -921,6 +921,7 @@ function protoHTML(p){
     <div class="item-end">${end} · ${p.Cidade||''}</div>
     <div class="proto-meta"><span class="proto-badge ${cls}">${badge}</span>${meta.length?' '+meta.join(' · '):''}</div>
     ${(typeof anexosHTML==='function')?anexosHTML(p):''}
+    ${(typeof claimControls==='function')?claimControls(p):''}
     ${det?`<div class="item-detectado">${det}</div>`:''}
     ${(typeof captacaoControls==='function')?captacaoControls(p):''}
    </div>
