@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-06-23T12:58:30-03:00",
+  "timestamp": "2026-06-23T13:08:36-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 7992,
-      "ultima_verificacao": "2026-06-23T12:58:30-03:00"
+      "ultima_verificacao": "2026-06-23T13:08:36-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 391,
-      "ultima_verificacao": "2026-06-23T12:58:30-03:00"
+      "ultima_verificacao": "2026-06-23T13:08:36-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-23T12:58:30-03:00"
+      "ultima_verificacao": "2026-06-23T13:08:36-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3793,
-      "ultima_verificacao": "2026-06-23T12:58:30-03:00"
+      "ultima_verificacao": "2026-06-23T13:08:36-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3307,
-      "ultima_verificacao": "2026-06-23T12:58:30-03:00"
+      "ultima_verificacao": "2026-06-23T13:08:36-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 943,
-      "ultima_verificacao": "2026-06-23T12:58:30-03:00"
+      "ultima_verificacao": "2026-06-23T13:08:36-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7073,
-      "ultima_verificacao": "2026-06-23T12:58:30-03:00"
+      "ultima_verificacao": "2026-06-23T13:08:36-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12774,
-      "ultima_verificacao": "2026-06-23T12:58:30-03:00"
+      "ultima_verificacao": "2026-06-23T13:08:36-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4924,
-      "ultima_verificacao": "2026-06-23T12:58:30-03:00"
+      "ultima_verificacao": "2026-06-23T13:08:36-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14006,
-      "ultima_verificacao": "2026-06-23T12:58:30-03:00"
+      "ultimo_numero": 14007,
+      "ultima_verificacao": "2026-06-23T13:08:36-03:00"
     }
   },
   "protocolos": {
@@ -19496,6 +19496,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014007A",
+        "RE": "RE8161000400A",
+        "numgEdificacao": 11656,
+        "Nome_Edificacao": "VILSON DAVID PETERS-",
+        "Logradouro": "Rodovia Jorge Lacerda",
+        "Numero": "255",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-23T13:08:36-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014006A",
         "RE": "RE8161002407A",
         "numgEdificacao": 83027,
@@ -22178,7 +22189,7 @@
     "Itapema": 26,
     "Blumenau": 32,
     "Navegantes": 27,
-    "Itajai": 31
+    "Itajai": 32
   },
-  "total_geral": 274
+  "total_geral": 275
 }
