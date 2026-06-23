@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-23T13:22:13-03:00",
+  "timestamp": "2026-06-23T13:32:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 691,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T13:22:13-03:00"
+      "ultima_verificacao": "2026-06-23T13:32:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T13:22:13-03:00"
+      "ultima_verificacao": "2026-06-23T13:32:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 54,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T13:22:13-03:00"
+      "ultima_verificacao": "2026-06-23T13:32:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 463,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T13:22:13-03:00"
+      "ultima_verificacao": "2026-06-23T13:32:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 379,
+      "ultimo_numero": 382,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T13:22:13-03:00"
+      "ultima_verificacao": "2026-06-23T13:32:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 354,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T13:22:13-03:00"
+      "ultima_verificacao": "2026-06-23T13:32:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 813,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T13:22:13-03:00"
+      "ultima_verificacao": "2026-06-23T13:32:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 793,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T13:22:13-03:00"
+      "ultima_verificacao": "2026-06-23T13:32:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 245,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T13:22:13-03:00"
+      "ultima_verificacao": "2026-06-23T13:32:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 842,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T13:22:13-03:00"
+      "ultima_verificacao": "2026-06-23T13:32:03-03:00"
     }
   },
   "afs": {
@@ -2140,6 +2140,39 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000382A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000646A",
+        "Nome_Edificacao": "CARIN KLUG",
+        "Logradouro": "Rua Felipe Sestren",
+        "Numero": "50",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-23T13:32:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000381A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001479A",
+        "Nome_Edificacao": "VALENTIM DALLA BRIDA",
+        "Logradouro": "RUA JOSÉ ROBERTO OTTO - 62797",
+        "Numero": "2060",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-23T13:32:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000380A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000938A",
+        "Nome_Edificacao": "RAFAEL GUSTAVO PFITZER SCHAFFER",
+        "Logradouro": "avenida  governador celso ramos",
+        "Numero": "942",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-23T13:32:03-03:00"
+      },
       {
         "CodigoAuto": "AF8265000379A/26",
         "Tipo": "AF",
@@ -6821,12 +6854,12 @@
     "Botuvera": 24,
     "Guabiruba": 34,
     "Gaspar": 49,
-    "Porto Belo": 88,
+    "Porto Belo": 91,
     "Nova Trento": 44,
     "Itapema": 80,
     "Blumenau": 80,
     "Navegantes": 41,
     "Itajai": 91
   },
-  "total_geral": 612
+  "total_geral": 615
 }
