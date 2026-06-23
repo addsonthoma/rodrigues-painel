@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-06-23T09:08:46-03:00",
+  "timestamp": "2026-06-23T09:18:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 7991,
-      "ultima_verificacao": "2026-06-23T09:08:46-03:00"
+      "ultima_verificacao": "2026-06-23T09:18:26-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 391,
-      "ultima_verificacao": "2026-06-23T09:08:46-03:00"
+      "ultima_verificacao": "2026-06-23T09:18:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-23T09:08:46-03:00"
+      "ultima_verificacao": "2026-06-23T09:18:26-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3793,
-      "ultima_verificacao": "2026-06-23T09:08:46-03:00"
+      "ultima_verificacao": "2026-06-23T09:18:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3307,
-      "ultima_verificacao": "2026-06-23T09:08:46-03:00"
+      "ultima_verificacao": "2026-06-23T09:18:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 943,
-      "ultima_verificacao": "2026-06-23T09:08:46-03:00"
+      "ultima_verificacao": "2026-06-23T09:18:26-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7073,
-      "ultima_verificacao": "2026-06-23T09:08:46-03:00"
+      "ultima_verificacao": "2026-06-23T09:18:26-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12772,
-      "ultima_verificacao": "2026-06-23T09:08:46-03:00"
+      "ultima_verificacao": "2026-06-23T09:18:26-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4924,
-      "ultima_verificacao": "2026-06-23T09:08:46-03:00"
+      "ultima_verificacao": "2026-06-23T09:18:26-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14004,
-      "ultima_verificacao": "2026-06-23T09:08:46-03:00"
+      "ultimo_numero": 14005,
+      "ultima_verificacao": "2026-06-23T09:18:26-03:00"
     }
   },
   "protocolos": {
@@ -19463,6 +19463,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014005A",
+        "RE": "RE8161013686A",
+        "numgEdificacao": 363319,
+        "Nome_Edificacao": "Mariana Carla Prazeres Ribeiro II",
+        "Logradouro": "RUA ADEMAR BARBI",
+        "Numero": "0200",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-23T09:18:26-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014004A",
         "RE": "RE8161013684A",
         "numgEdificacao": 363272,
@@ -22123,7 +22134,7 @@
     "Itapema": 26,
     "Blumenau": 30,
     "Navegantes": 27,
-    "Itajai": 29
+    "Itajai": 30
   },
-  "total_geral": 269
+  "total_geral": 270
 }
