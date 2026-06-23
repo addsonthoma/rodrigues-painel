@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-23T09:12:12-03:00",
+  "timestamp": "2026-06-23T09:22:01-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 687,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T09:12:12-03:00"
+      "ultima_verificacao": "2026-06-23T09:22:01-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T09:12:12-03:00"
+      "ultima_verificacao": "2026-06-23T09:22:01-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 52,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T09:12:12-03:00"
+      "ultima_verificacao": "2026-06-23T09:22:01-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 461,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T09:12:12-03:00"
+      "ultima_verificacao": "2026-06-23T09:22:01-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 371,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T09:12:12-03:00"
+      "ultima_verificacao": "2026-06-23T09:22:01-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 354,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T09:12:12-03:00"
+      "ultima_verificacao": "2026-06-23T09:22:01-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 813,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T09:12:12-03:00"
+      "ultima_verificacao": "2026-06-23T09:22:01-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 788,
+      "ultimo_numero": 789,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T09:12:12-03:00"
+      "ultima_verificacao": "2026-06-23T09:22:01-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 245,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T09:12:12-03:00"
+      "ultima_verificacao": "2026-06-23T09:22:01-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 838,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T09:12:12-03:00"
+      "ultima_verificacao": "2026-06-23T09:22:01-03:00"
     }
   },
   "afs": {
@@ -4303,6 +4303,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000789A/26",
+        "Tipo": "AF",
+        "RE": "RE8047000667A",
+        "Nome_Edificacao": "EDIFÍCIO FILHINHA",
+        "Logradouro": "antonio da veiga",
+        "Numero": "416",
+        "Bairro": "BLUMENAU - VICTOR KONDER",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-23T09:22:01-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000788A/26",
         "Tipo": "AF",
         "RE": "RE8047004168A",
@@ -6549,9 +6560,9 @@
     "Porto Belo": 80,
     "Nova Trento": 44,
     "Itapema": 80,
-    "Blumenau": 75,
+    "Blumenau": 76,
     "Navegantes": 41,
     "Itajai": 87
   },
-  "total_geral": 587
+  "total_geral": 588
 }
