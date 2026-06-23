@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-06-23T12:41:42-03:00",
+  "timestamp": "2026-06-23T12:51:42-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 78,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T12:41:42-03:00"
+      "ultima_verificacao": "2026-06-23T12:51:42-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T12:41:42-03:00"
+      "ultima_verificacao": "2026-06-23T12:51:42-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T12:41:42-03:00"
+      "ultima_verificacao": "2026-06-23T12:51:42-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 41,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T12:41:42-03:00"
+      "ultima_verificacao": "2026-06-23T12:51:42-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 80,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T12:41:42-03:00"
+      "ultima_verificacao": "2026-06-23T12:51:42-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 104,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T12:41:42-03:00"
+      "ultima_verificacao": "2026-06-23T12:51:42-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 141,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T12:41:42-03:00"
+      "ultima_verificacao": "2026-06-23T12:51:42-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 172,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T12:41:42-03:00"
+      "ultima_verificacao": "2026-06-23T12:51:42-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
-      "ultimo_numero": 53,
+      "ultimo_numero": 54,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T12:41:42-03:00"
+      "ultima_verificacao": "2026-06-23T12:51:42-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 305,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T12:41:42-03:00"
+      "ultima_verificacao": "2026-06-23T12:51:42-03:00"
     }
   },
   "multas": {
@@ -1305,6 +1305,16 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "MUL8221000054A/26",
+        "RE": "RE8221001593A",
+        "Nome_Edificacao": "EDIFÍCIO FC PERFETTO",
+        "Logradouro": "Rua Dalério Gazaniga",
+        "Numero": "123",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-23T12:51:42-03:00"
+      },
+      {
         "CodigoAuto": "MUL8221000052A/26",
         "RE": "RE8221003072A",
         "Nome_Edificacao": "Residencial Maria Helena II",
@@ -1859,12 +1869,19 @@
     "Guabiruba": 3,
     "Itajai": 23,
     "Itapema": 24,
-    "Navegantes": 15,
+    "Navegantes": 16,
     "Nova Trento": 21,
     "Porto Belo": 23
   },
-  "total_geral": 189,
+  "total_geral": 190,
   "eventos_recentes": [
+    {
+      "ts": "2026-06-23T12:51:42-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000054A/26",
+      "nome": "EDIFÍCIO FC PERFETTO",
+      "re": "RE8221001593A"
+    },
     {
       "ts": "2026-06-19T16:10:02-03:00",
       "cidade": "Blumenau",
@@ -2123,20 +2140,6 @@
       "codigo": "MUL8047000158A/26",
       "nome": "Mill Participações LTDA",
       "re": "RE8047005053A"
-    },
-    {
-      "ts": "2026-06-16T12:44:30-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000138A/26",
-      "nome": "EDIFICIO COMERCIAL",
-      "re": "RE8163001891A"
-    },
-    {
-      "ts": "2026-06-16T12:44:30-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000078A/26",
-      "nome": "SHOPPING PORTO DAS AGUAS",
-      "re": "RE8265000019A"
     }
   ]
 }
