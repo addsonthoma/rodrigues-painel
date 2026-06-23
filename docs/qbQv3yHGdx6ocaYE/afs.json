@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-23T14:52:05-03:00",
+  "timestamp": "2026-06-23T15:12:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 692,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T14:52:05-03:00"
+      "ultima_verificacao": "2026-06-23T15:12:04-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T14:52:05-03:00"
+      "ultima_verificacao": "2026-06-23T15:12:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 54,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T14:52:05-03:00"
+      "ultima_verificacao": "2026-06-23T15:12:04-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 463,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T14:52:05-03:00"
+      "ultima_verificacao": "2026-06-23T15:12:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 383,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T14:52:05-03:00"
+      "ultima_verificacao": "2026-06-23T15:12:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 355,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T14:52:05-03:00"
+      "ultima_verificacao": "2026-06-23T15:12:04-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 813,
+      "ultimo_numero": 817,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T14:52:05-03:00"
+      "ultima_verificacao": "2026-06-23T15:12:04-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 793,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T14:52:05-03:00"
+      "ultima_verificacao": "2026-06-23T15:12:04-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 245,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T14:52:05-03:00"
+      "ultima_verificacao": "2026-06-23T15:12:04-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 843,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T14:52:05-03:00"
+      "ultima_verificacao": "2026-06-23T15:12:04-03:00"
     }
   },
   "afs": {
@@ -3663,6 +3663,50 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163000817A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002638A",
+        "Nome_Edificacao": "LUMIéRE RESIDENCE",
+        "Logradouro": "Rua 279",
+        "Numero": "90",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-23T15:12:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000816A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003241A",
+        "Nome_Edificacao": "RESIDENCIAL SOLAR HEIDELBERG",
+        "Logradouro": "AVENIDA AV BEIRA MAR",
+        "Numero": "1800",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-23T15:12:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000815A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002585A",
+        "Nome_Edificacao": "RESIDENCIAL DONA MARIA",
+        "Logradouro": "Rua 406",
+        "Numero": "411",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-23T15:12:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000814A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001548A",
+        "Nome_Edificacao": "Comunidade Evangélica de Confissão  Luterana",
+        "Logradouro": "Rua 318",
+        "Numero": "400",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-23T15:12:04-03:00"
+      },
+      {
         "CodigoAuto": "AF8163000813A/26",
         "Tipo": "AF",
         "RE": "RE8163002086A",
@@ -6900,10 +6944,10 @@
     "Gaspar": 49,
     "Porto Belo": 92,
     "Nova Trento": 45,
-    "Itapema": 80,
+    "Itapema": 84,
     "Blumenau": 80,
     "Navegantes": 41,
     "Itajai": 92
   },
-  "total_geral": 619
+  "total_geral": 623
 }
