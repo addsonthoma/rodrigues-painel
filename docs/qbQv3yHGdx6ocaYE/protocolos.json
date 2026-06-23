@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-06-23T14:40:50-03:00",
+  "timestamp": "2026-06-23T15:00:10-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 7992,
-      "ultima_verificacao": "2026-06-23T14:40:50-03:00"
+      "ultima_verificacao": "2026-06-23T15:00:10-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 391,
-      "ultima_verificacao": "2026-06-23T14:40:50-03:00"
+      "ultima_verificacao": "2026-06-23T15:00:10-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-23T14:40:50-03:00"
+      "ultima_verificacao": "2026-06-23T15:00:10-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3793,
-      "ultima_verificacao": "2026-06-23T14:40:50-03:00"
+      "ultima_verificacao": "2026-06-23T15:00:10-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3308,
-      "ultima_verificacao": "2026-06-23T14:40:50-03:00"
+      "ultima_verificacao": "2026-06-23T15:00:10-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 943,
-      "ultima_verificacao": "2026-06-23T14:40:50-03:00"
+      "ultima_verificacao": "2026-06-23T15:00:10-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7073,
-      "ultima_verificacao": "2026-06-23T14:40:50-03:00"
+      "ultima_verificacao": "2026-06-23T15:00:10-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12776,
-      "ultima_verificacao": "2026-06-23T14:40:50-03:00"
+      "ultima_verificacao": "2026-06-23T15:00:10-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4924,
-      "ultima_verificacao": "2026-06-23T14:40:50-03:00"
+      "ultima_verificacao": "2026-06-23T15:00:10-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14008,
-      "ultima_verificacao": "2026-06-23T14:40:50-03:00"
+      "ultimo_numero": 14009,
+      "ultima_verificacao": "2026-06-23T15:00:10-03:00"
     }
   },
   "protocolos": {
@@ -19529,6 +19529,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014009A",
+        "RE": "RE8161005107A",
+        "numgEdificacao": 150075,
+        "Nome_Edificacao": "CONCORDIA LOGISTICA SA",
+        "Logradouro": "RODOVIA BR-101",
+        "Numero": "4075",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-23T15:00:10-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014008A",
         "RE": "RE8161005107A",
         "numgEdificacao": 150075,
@@ -22233,7 +22244,7 @@
     "Itapema": 26,
     "Blumenau": 34,
     "Navegantes": 27,
-    "Itajai": 33
+    "Itajai": 34
   },
-  "total_geral": 279
+  "total_geral": 280
 }

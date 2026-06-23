@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-06-23T14:31:39-03:00",
+  "timestamp": "2026-06-23T14:51:40-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 81,
+      "ultimo_numero": 83,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:31:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:51:40-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:31:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:51:40-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:31:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:51:40-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:31:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:51:40-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 80,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:31:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:51:40-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 104,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:31:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:51:40-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 141,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:31:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:51:40-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 173,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:31:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:51:40-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:31:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:51:40-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 305,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:31:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:51:40-03:00"
     }
   },
   "multas": {
@@ -470,6 +470,26 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000082A/26",
+        "RE": "RE8055000867A",
+        "Nome_Edificacao": "PREMOLDI",
+        "Logradouro": "RUA FERNADO DALLAGO",
+        "Numero": "150",
+        "Bairro": "BRUSQUE - LIMEIRA ALTA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-23T14:51:40-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000083A/26",
+        "RE": "RE8055005101A",
+        "Nome_Edificacao": "SUPERMERCADO",
+        "Logradouro": "RUA ERNESTO BIANCHINI",
+        "Numero": "22",
+        "Bairro": "BRUSQUE - GUARANI",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-23T14:51:40-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000080A/26",
         "RE": "RE8055003930A",
@@ -1924,7 +1944,7 @@
   "totais": {
     "Blumenau": 38,
     "Botuvera": 3,
-    "Brusque": 26,
+    "Brusque": 28,
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 23,
@@ -1933,8 +1953,22 @@
     "Nova Trento": 21,
     "Porto Belo": 23
   },
-  "total_geral": 196,
+  "total_geral": 198,
   "eventos_recentes": [
+    {
+      "ts": "2026-06-23T14:51:40-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000083A/26",
+      "nome": "SUPERMERCADO",
+      "re": "RE8055005101A"
+    },
+    {
+      "ts": "2026-06-23T14:51:40-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000082A/26",
+      "nome": "PREMOLDI",
+      "re": "RE8055000867A"
+    },
     {
       "ts": "2026-06-23T14:31:39-03:00",
       "cidade": "Brusque",
@@ -2214,13 +2248,6 @@
       "codigo": "MUL8117000041A/26",
       "nome": "Mix Collor",
       "re": "RE8117001403A"
-    },
-    {
-      "ts": "2026-06-16T14:34:30-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000161A/26",
-      "nome": "Casa Doce Artesan",
-      "re": "RE8047011817A"
     }
   ]
 }
