@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-23T12:12:00-03:00",
+  "timestamp": "2026-06-23T12:21:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 688,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T12:12:00-03:00"
+      "ultima_verificacao": "2026-06-23T12:21:58-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T12:12:00-03:00"
+      "ultima_verificacao": "2026-06-23T12:21:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 54,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T12:12:00-03:00"
+      "ultima_verificacao": "2026-06-23T12:21:58-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 463,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T12:12:00-03:00"
+      "ultima_verificacao": "2026-06-23T12:21:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 375,
+      "ultimo_numero": 376,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T12:12:00-03:00"
+      "ultima_verificacao": "2026-06-23T12:21:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 354,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T12:12:00-03:00"
+      "ultima_verificacao": "2026-06-23T12:21:58-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 813,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T12:12:00-03:00"
+      "ultima_verificacao": "2026-06-23T12:21:58-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 792,
+      "ultimo_numero": 793,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T12:12:00-03:00"
+      "ultima_verificacao": "2026-06-23T12:21:58-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 245,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T12:12:00-03:00"
+      "ultima_verificacao": "2026-06-23T12:21:58-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 839,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T12:12:00-03:00"
+      "ultima_verificacao": "2026-06-23T12:21:58-03:00"
     }
   },
   "afs": {
@@ -2107,6 +2107,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000376A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000292A",
+        "Nome_Edificacao": "QARIB COMPOSITES",
+        "Logradouro": "Rodovia BR101, KM 157",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-23T12:21:58-03:00"
+      },
       {
         "CodigoAuto": "AF8265000375A/26",
         "Tipo": "AF",
@@ -4401,6 +4412,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047000793A/26",
+        "Tipo": "AF",
+        "RE": "RE8047011640A",
+        "Nome_Edificacao": "HAVAN S.A",
+        "Logradouro": "Rua Oscar Jenichen",
+        "Numero": "44",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-23T12:21:58-03:00"
+      },
       {
         "CodigoAuto": "AF8047000792A/26",
         "Tipo": "AF",
@@ -6700,12 +6722,12 @@
     "Botuvera": 24,
     "Guabiruba": 34,
     "Gaspar": 49,
-    "Porto Belo": 84,
+    "Porto Belo": 85,
     "Nova Trento": 44,
     "Itapema": 80,
-    "Blumenau": 79,
+    "Blumenau": 80,
     "Navegantes": 41,
     "Itajai": 88
   },
-  "total_geral": 601
+  "total_geral": 603
 }
