@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-06-23T14:09:18-03:00",
+  "timestamp": "2026-06-23T14:19:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 7992,
-      "ultima_verificacao": "2026-06-23T14:09:18-03:00"
+      "ultima_verificacao": "2026-06-23T14:19:26-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 391,
-      "ultima_verificacao": "2026-06-23T14:09:18-03:00"
+      "ultima_verificacao": "2026-06-23T14:19:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-23T14:09:18-03:00"
+      "ultima_verificacao": "2026-06-23T14:19:26-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3793,
-      "ultima_verificacao": "2026-06-23T14:09:18-03:00"
+      "ultima_verificacao": "2026-06-23T14:19:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3308,
-      "ultima_verificacao": "2026-06-23T14:09:18-03:00"
+      "ultima_verificacao": "2026-06-23T14:19:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 943,
-      "ultima_verificacao": "2026-06-23T14:09:18-03:00"
+      "ultima_verificacao": "2026-06-23T14:19:26-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7073,
-      "ultima_verificacao": "2026-06-23T14:09:18-03:00"
+      "ultima_verificacao": "2026-06-23T14:19:26-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12774,
-      "ultima_verificacao": "2026-06-23T14:09:18-03:00"
+      "ultimo_numero": 12776,
+      "ultima_verificacao": "2026-06-23T14:19:26-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4924,
-      "ultima_verificacao": "2026-06-23T14:09:18-03:00"
+      "ultima_verificacao": "2026-06-23T14:19:26-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14008,
-      "ultima_verificacao": "2026-06-23T14:09:18-03:00"
+      "ultima_verificacao": "2026-06-23T14:19:26-03:00"
     }
   },
   "protocolos": {
@@ -15997,6 +15997,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012776A",
+        "RE": "RE8047011978A",
+        "numgEdificacao": 363271,
+        "Nome_Edificacao": "CONSTRUTORA  ITA LTDA.",
+        "Logradouro": "RUA ARARANGUA",
+        "Numero": "11",
+        "Bairro": "BLUMENAU - GARCIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-23T14:19:26-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012775A",
+        "RE": "RE8047007620A",
+        "numgEdificacao": 215829,
+        "Nome_Edificacao": "ILHA GRANDE PARTICIPACOES LTDA",
+        "Logradouro": "RUA FRANZ VOLLES",
+        "Numero": "145",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-23T14:19:26-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012774A",
         "RE": "RE8047005299A",
         "numgEdificacao": 162997,
@@ -22209,9 +22231,9 @@
     "Porto Belo": 27,
     "Nova Trento": 27,
     "Itapema": 26,
-    "Blumenau": 32,
+    "Blumenau": 34,
     "Navegantes": 27,
     "Itajai": 33
   },
-  "total_geral": 277
+  "total_geral": 279
 }

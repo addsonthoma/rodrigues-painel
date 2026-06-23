@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-06-23T14:01:43-03:00",
+  "timestamp": "2026-06-23T14:11:39-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:01:43-03:00"
+      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:01:43-03:00"
+      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:01:43-03:00"
+      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
-      "ultimo_numero": 41,
+      "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:01:43-03:00"
+      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 80,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:01:43-03:00"
+      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 104,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:01:43-03:00"
+      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 141,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:01:43-03:00"
+      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 172,
+      "ultimo_numero": 173,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:01:43-03:00"
+      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:01:43-03:00"
+      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 305,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:01:43-03:00"
+      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000173A/26",
+        "RE": "RE8047002102A",
+        "Nome_Edificacao": "BLU PIZZA LTDA",
+        "Logradouro": "RUA 7 DE SETEMBRO",
+        "Numero": "2070",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-23T14:11:39-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000172A/26",
         "RE": "RE8047011241A",
@@ -687,6 +697,16 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "MUL8117000042A/26",
+        "RE": "RE8117002606A",
+        "Nome_Edificacao": "EDERSON ZUCCHI",
+        "Logradouro": "ROD IVO SILVEIRA",
+        "Numero": "5355",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-23T14:11:39-03:00"
+      },
       {
         "CodigoAuto": "MUL8117000041A/26",
         "RE": "RE8117001403A",
@@ -1882,10 +1902,10 @@
     ]
   },
   "totais": {
-    "Blumenau": 37,
+    "Blumenau": 38,
     "Botuvera": 3,
     "Brusque": 24,
-    "Gaspar": 17,
+    "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 23,
     "Itapema": 24,
@@ -1893,8 +1913,22 @@
     "Nova Trento": 21,
     "Porto Belo": 23
   },
-  "total_geral": 192,
+  "total_geral": 194,
   "eventos_recentes": [
+    {
+      "ts": "2026-06-23T14:11:39-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000173A/26",
+      "nome": "BLU PIZZA LTDA",
+      "re": "RE8047002102A"
+    },
+    {
+      "ts": "2026-06-23T14:11:39-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000042A/26",
+      "nome": "EDERSON ZUCCHI",
+      "re": "RE8117002606A"
+    },
     {
       "ts": "2026-06-23T14:01:43-03:00",
       "cidade": "Brusque",
@@ -2167,13 +2201,6 @@
       "codigo": "MUL8047000159A/26",
       "nome": "PINTARTE",
       "re": "RE8047010991A"
-    },
-    {
-      "ts": "2026-06-16T14:04:30-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000158A/26",
-      "nome": "Mill Participações LTDA",
-      "re": "RE8047005053A"
     }
   ]
 }
