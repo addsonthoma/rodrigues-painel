@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-06-23T11:19:23-03:00",
+  "timestamp": "2026-06-23T11:38:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 7992,
-      "ultima_verificacao": "2026-06-23T11:19:23-03:00"
+      "ultima_verificacao": "2026-06-23T11:38:34-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 391,
-      "ultima_verificacao": "2026-06-23T11:19:23-03:00"
+      "ultima_verificacao": "2026-06-23T11:38:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-23T11:19:23-03:00"
+      "ultima_verificacao": "2026-06-23T11:38:34-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3793,
-      "ultima_verificacao": "2026-06-23T11:19:23-03:00"
+      "ultima_verificacao": "2026-06-23T11:38:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3307,
-      "ultima_verificacao": "2026-06-23T11:19:23-03:00"
+      "ultima_verificacao": "2026-06-23T11:38:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 943,
-      "ultima_verificacao": "2026-06-23T11:19:23-03:00"
+      "ultima_verificacao": "2026-06-23T11:38:34-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7073,
-      "ultima_verificacao": "2026-06-23T11:19:23-03:00"
+      "ultima_verificacao": "2026-06-23T11:38:34-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12773,
-      "ultima_verificacao": "2026-06-23T11:19:23-03:00"
+      "ultimo_numero": 12774,
+      "ultima_verificacao": "2026-06-23T11:38:34-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4924,
-      "ultima_verificacao": "2026-06-23T11:19:23-03:00"
+      "ultima_verificacao": "2026-06-23T11:38:34-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14006,
-      "ultima_verificacao": "2026-06-23T11:19:23-03:00"
+      "ultima_verificacao": "2026-06-23T11:38:34-03:00"
     }
   },
   "protocolos": {
@@ -15986,6 +15986,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012774A",
+        "RE": "RE8047005299A",
+        "numgEdificacao": 162997,
+        "Nome_Edificacao": "PARQUE AQUATICO RECANTO DOS ANJOS",
+        "Logradouro": "Rua Gustavo Zimmermann",
+        "Numero": "8676",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-23T11:38:34-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012773A",
         "RE": "RE8047004368A",
         "numgEdificacao": 139356,
@@ -22165,9 +22176,9 @@
     "Porto Belo": 26,
     "Nova Trento": 27,
     "Itapema": 26,
-    "Blumenau": 31,
+    "Blumenau": 32,
     "Navegantes": 27,
     "Itajai": 31
   },
-  "total_geral": 273
+  "total_geral": 274
 }
