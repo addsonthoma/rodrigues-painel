@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-06-23T08:38:46-03:00",
+  "timestamp": "2026-06-23T08:34:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 7991,
-      "ultima_verificacao": "2026-06-23T08:38:46-03:00"
+      "ultima_verificacao": "2026-06-23T08:34:20-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 391,
-      "ultima_verificacao": "2026-06-23T08:38:46-03:00"
+      "ultima_verificacao": "2026-06-23T08:34:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-23T08:38:46-03:00"
+      "ultima_verificacao": "2026-06-23T08:34:20-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3793,
-      "ultima_verificacao": "2026-06-23T08:38:46-03:00"
+      "ultima_verificacao": "2026-06-23T08:34:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3307,
-      "ultima_verificacao": "2026-06-23T08:38:46-03:00"
+      "ultima_verificacao": "2026-06-23T08:34:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 943,
-      "ultima_verificacao": "2026-06-23T08:38:46-03:00"
+      "ultima_verificacao": "2026-06-23T08:34:20-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7073,
-      "ultima_verificacao": "2026-06-23T08:38:46-03:00"
+      "ultima_verificacao": "2026-06-23T08:34:20-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12772,
-      "ultima_verificacao": "2026-06-23T08:38:46-03:00"
+      "ultima_verificacao": "2026-06-23T08:34:20-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4924,
-      "ultima_verificacao": "2026-06-23T08:38:46-03:00"
+      "ultima_verificacao": "2026-06-23T08:34:20-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14004,
-      "ultima_verificacao": "2026-06-23T08:38:46-03:00"
+      "ultima_verificacao": "2026-06-23T08:34:20-03:00"
     }
   },
   "protocolos": {
@@ -63,7 +63,52 @@
         "Numero": "620",
         "Bairro": "BRUSQUE - RIO BRANCO",
         "Cidade": "Brusque",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 420.6,
+        "data": "2026-06-22",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2985657",
+        "numgSolicitacaoProjeto": "511553",
+        "qtdAnexos": 6,
+        "anexos": [
+          {
+            "id": 15339638,
+            "nome": "CBMSC_22-06-2026_15339638.pdf",
+            "desc": "COMPROVANTE DE SOLICITAÇÃO"
+          },
+          {
+            "id": 15339612,
+            "nome": "RRT PROJETO.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15339613,
+            "nome": "RRT EXECUCAO.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15339622,
+            "nome": "Matricula 61.279.pdf",
+            "desc": "Cópia da matrícula atualizada do imóvel"
+          },
+          {
+            "id": 15339639,
+            "nome": "ANEXO_H_22-06-2026_15339639.pdf",
+            "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+          },
+          {
+            "id": 15339640,
+            "nome": "DOC_AUXILIO_22-06-2026_15339640.pdf",
+            "desc": ""
+          }
+        ],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:39:37-03:00"
       },
       {
         "CodigoProtocolo": "A8055007990A",
@@ -1450,7 +1495,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T14:54:06-03:00",
+        "_drillTs": "2026-06-23T08:39:42-03:00",
         "numgSolicitacaoProjeto": "510011",
         "relatorio": []
       },
@@ -1816,7 +1861,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T14:54:15-03:00",
+        "_drillTs": "2026-06-23T08:39:49-03:00",
         "numgSolicitacaoProjeto": "509604",
         "relatorio": []
       },
@@ -2216,7 +2261,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T14:54:21-03:00",
+        "_drillTs": "2026-06-23T08:39:59-03:00",
         "numgSolicitacaoProjeto": "488426",
         "relatorio": []
       },
@@ -3408,7 +3453,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T14:54:53-03:00",
+        "_drillTs": "2026-06-23T08:40:24-03:00",
         "numgSolicitacaoProjeto": "511210",
         "relatorio": []
       },
@@ -4078,7 +4123,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T14:55:31-03:00",
+        "_drillTs": "2026-06-23T08:41:02-03:00",
         "numgSolicitacaoProjeto": "506468",
         "relatorio": []
       },
@@ -4585,7 +4630,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T14:55:40-03:00",
+        "_drillTs": "2026-06-23T08:41:15-03:00",
         "numgSolicitacaoProjeto": "504902",
         "relatorio": []
       },
@@ -4946,7 +4991,62 @@
         "Numero": "3175",
         "Bairro": "GASPAR - GASPARINHO",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 594.22,
+        "data": "2026-06-22",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2985827",
+        "numgSolicitacaoProjeto": "511565",
+        "qtdAnexos": 8,
+        "anexos": [
+          {
+            "id": 15340492,
+            "nome": "CBMSC_22-06-2026_15340492.pdf",
+            "desc": "COMPROVANTE DE SOLICITAÇÃO"
+          },
+          {
+            "id": 15340451,
+            "nome": "art.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15340459,
+            "nome": "PI 01.pdf",
+            "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15340462,
+            "nome": "PI 02.pdf",
+            "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15340461,
+            "nome": "PI 03.pdf",
+            "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15340464,
+            "nome": "PI 04.pdf",
+            "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15340493,
+            "nome": "ANEXO_H_22-06-2026_15340493.pdf",
+            "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+          },
+          {
+            "id": 15340494,
+            "nome": "DOC_AUXILIO_22-06-2026_15340494.pdf",
+            "desc": ""
+          }
+        ],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:41:29-03:00"
       },
       {
         "CodigoProtocolo": "A8117003792A",
@@ -5344,7 +5444,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T14:57:25-03:00",
+        "_drillTs": "2026-06-23T08:41:41-03:00",
         "numgSolicitacaoProjeto": "510674",
         "relatorio": []
       },
@@ -5497,7 +5597,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T14:57:52-03:00",
+        "_drillTs": "2026-06-23T08:41:49-03:00",
         "numgSolicitacaoProjeto": "509883",
         "relatorio": []
       },
@@ -7124,9 +7224,9 @@
         "Detectado_em": null,
         "area": 283.9,
         "data": "2026-06-22",
-        "deferido": false,
-        "situacao": "Pendente de Pagamento",
-        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
         "cassado": false,
         "anulado": false,
         "suspenso": false,
@@ -7154,7 +7254,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T15:02:05-03:00",
+        "_drillTs": "2026-06-23T08:42:02-03:00",
         "numgSolicitacaoProjeto": "511434",
         "relatorio": []
       },
@@ -10997,7 +11097,67 @@
         "Numero": "",
         "Bairro": "NOVA TRENTO - VALSUGANA",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 267.83,
+        "data": "2026-06-22",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2985512",
+        "numgSolicitacaoProjeto": "511538",
+        "qtdAnexos": 9,
+        "anexos": [
+          {
+            "id": 15339038,
+            "nome": "CBMSC_22-06-2026_15339038.pdf",
+            "desc": "COMPROVANTE DE SOLICITAÇÃO"
+          },
+          {
+            "id": 15338918,
+            "nome": "RRT EXECUÇÃO.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15338917,
+            "nome": "RRT PROJETO.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15338922,
+            "nome": "Memorial_Projeto_Preventivo_assinado.pdf",
+            "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+          },
+          {
+            "id": 15338929,
+            "nome": "PPCI_01_assinado.pdf",
+            "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15338932,
+            "nome": "PPCI_02_assinado.pdf",
+            "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15338928,
+            "nome": "PPCI_03_assinado.pdf",
+            "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15339039,
+            "nome": "ANEXO_H_22-06-2026_15339039.pdf",
+            "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+          },
+          {
+            "id": 15339040,
+            "nome": "DOC_AUXILIO_22-06-2026_15339040.pdf",
+            "desc": ""
+          }
+        ],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:42:22-03:00"
       },
       {
         "CodigoProtocolo": "A8225000942A",
@@ -11008,7 +11168,72 @@
         "Numero": "",
         "Bairro": "NOVA TRENTO - VALSUGANA",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 894.67,
+        "data": "2026-06-22",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2985475",
+        "numgSolicitacaoProjeto": "511533",
+        "qtdAnexos": 10,
+        "anexos": [
+          {
+            "id": 15338841,
+            "nome": "CBMSC_22-06-2026_15338841.pdf",
+            "desc": "COMPROVANTE DE SOLICITAÇÃO"
+          },
+          {
+            "id": 15338819,
+            "nome": "RRT EXECUÇÃO.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15338820,
+            "nome": "RRT PROJETO.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15338828,
+            "nome": "Memorial_Projeto_Preventivo_assinado.pdf",
+            "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+          },
+          {
+            "id": 15338833,
+            "nome": "PPCI_01_assinado.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15338835,
+            "nome": "PPCI_02_assinado.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15338832,
+            "nome": "PPCI_03_assinado.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15338837,
+            "nome": "Memorial_Reducao_Carga_de_Incendio_assinado.pdf",
+            "desc": "Solicitação de reenquadramento de risco"
+          },
+          {
+            "id": 15338842,
+            "nome": "ANEXO_H_22-06-2026_15338842.pdf",
+            "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+          },
+          {
+            "id": 15338843,
+            "nome": "DOC_AUXILIO_22-06-2026_15338843.pdf",
+            "desc": ""
+          }
+        ],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:42:28-03:00"
       },
       {
         "CodigoProtocolo": "A8225000941A",
@@ -12035,7 +12260,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T15:08:07-03:00",
+        "_drillTs": "2026-06-23T08:42:58-03:00",
         "numgSolicitacaoProjeto": "505025",
         "relatorio": []
       },
@@ -12845,7 +13070,32 @@
         "Numero": "52",
         "Bairro": "ITAPEMA - ILHOTA",
         "Cidade": "Itapema",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 9,
+        "data": "2026-06-22",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2986070",
+        "numgSolicitacaoProjeto": "511597",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15341706,
+            "nome": "CBMSC_22-06-2026_15341706.pdf",
+            "desc": "COMPROVANTE DE SOLICITAÇÃO"
+          },
+          {
+            "id": 15341707,
+            "nome": "DOC_AUXILIO_22-06-2026_15341707.pdf",
+            "desc": ""
+          }
+        ],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:43:12-03:00"
       },
       {
         "CodigoProtocolo": "A8163007072A",
@@ -15733,7 +15983,42 @@
         "Numero": "3112",
         "Bairro": "BLUMENAU - VELHA CENTRAL",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 511.05,
+        "data": "2026-06-23",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2986629",
+        "numgSolicitacaoProjeto": "511669",
+        "qtdAnexos": 4,
+        "anexos": [
+          {
+            "id": 15345730,
+            "nome": "CBMSC_23-06-2026_15345730.pdf",
+            "desc": "COMPROVANTE DE SOLICITAÇÃO"
+          },
+          {
+            "id": 15345717,
+            "nome": "ART ASSINADA.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15345731,
+            "nome": "ANEXO_H_23-06-2026_15345731.pdf",
+            "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+          },
+          {
+            "id": 15345732,
+            "nome": "DOC_AUXILIO_23-06-2026_15345732.pdf",
+            "desc": ""
+          }
+        ],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:43:24-03:00"
       },
       {
         "CodigoProtocolo": "A8047012771A",
@@ -15744,7 +16029,57 @@
         "Numero": "502",
         "Bairro": "BLUMENAU - ESCOLA AGRÍCOLA",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 612.58,
+        "data": "2026-06-22",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2986383",
+        "numgSolicitacaoProjeto": "511616",
+        "qtdAnexos": 7,
+        "anexos": [
+          {
+            "id": 15343225,
+            "nome": "CBMSC_22-06-2026_15343225.pdf",
+            "desc": "COMPROVANTE DE SOLICITAÇÃO"
+          },
+          {
+            "id": 15343208,
+            "nome": "ART_10184621-2_assinado_assinado.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15343209,
+            "nome": "ART_10546378-2_assinado.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15343217,
+            "nome": "PPCI_-_Galpao_-_Obra_Maximiano_assinado_assinado.pdf",
+            "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343220,
+            "nome": "Memorial_Descritivo_-_Obra_Maximiano_assinado.pdf",
+            "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+          },
+          {
+            "id": 15343226,
+            "nome": "ANEXO_H_22-06-2026_15343226.pdf",
+            "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+          },
+          {
+            "id": 15343227,
+            "nome": "DOC_AUXILIO_22-06-2026_15343227.pdf",
+            "desc": ""
+          }
+        ],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:43:36-03:00"
       },
       {
         "CodigoProtocolo": "A8047012770A",
@@ -15755,7 +16090,21 @@
         "Numero": "45",
         "Bairro": "BLUMENAU - JARDIM BLUMENAU",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 8319.42,
+        "data": "2026-06-22",
+        "deferido": true,
+        "situacao": "Deferido",
+        "codgSituacao": "DEFERIDO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2985277",
+        "numgSolicitacaoProjeto": "511521",
+        "qtdAnexos": 0,
+        "anexos": [],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:43:42-03:00"
       },
       {
         "CodigoProtocolo": "A8047012769A",
@@ -17023,7 +17372,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T15:15:59-03:00",
+        "_drillTs": "2026-06-23T08:43:52-03:00",
         "numgSolicitacaoProjeto": "510679",
         "relatorio": []
       },
@@ -17089,7 +17438,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T15:16:07-03:00",
+        "_drillTs": "2026-06-23T08:44:05-03:00",
         "numgSolicitacaoProjeto": "510596",
         "relatorio": []
       },
@@ -17136,7 +17485,7 @@
         "numgProcesso": "2970672",
         "qtdAnexos": 0,
         "anexos": [],
-        "_drillTs": "2026-06-22T15:16:13-03:00",
+        "_drillTs": "2026-06-23T08:44:11-03:00",
         "numgSolicitacaoProjeto": "510101",
         "relatorio": []
       },
@@ -17431,7 +17780,122 @@
         "Numero": "193",
         "Bairro": "NAVEGANTES - CENTRO",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 1058.9,
+        "data": "2026-06-22",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2986478",
+        "numgSolicitacaoProjeto": "511636",
+        "qtdAnexos": 20,
+        "anexos": [
+          {
+            "id": 15343904,
+            "nome": "CBMSC_22-06-2026_15343904.pdf",
+            "desc": "COMPROVANTE DE SOLICITAÇÃO"
+          },
+          {
+            "id": 13829813,
+            "nome": "ART 10275770-0 ass.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 13829821,
+            "nome": "DOC_AUXILIO_18-12-2025_13829821.pdf",
+            "desc": ""
+          },
+          {
+            "id": 15343470,
+            "nome": "25086.IN.MD.R02.pdf",
+            "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+          },
+          {
+            "id": 15343713,
+            "nome": "01 - 25086.IN.LG.R04 - IMPLANTAÇÃO E SITUAÇÃO.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343706,
+            "nome": "02 - 25086.IN.LG.R04 - PLANTA TÉRREO E G1.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343705,
+            "nome": "03 - 25086.IN.LG.R04 - PLANTA G2 E TIPO DIF..pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343704,
+            "nome": "04 - 25086.IN.LG.R04 - PLANTA TIPO X9 E COBERTURA.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343714,
+            "nome": "05 - 25086.IN.LG.R04 - ISOMÉTRICO DE HIDRANTES.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343712,
+            "nome": "06 - 25086.IN.LG.R04 - DETALHES DUTOS DA ESCADA.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343710,
+            "nome": "07 - 25086.IN.LG.R04 - TÉRREO E TIPO DIF. GLP.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343707,
+            "nome": "08 - 25086.IN.LG.R04 - TIPO X9 GLP.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343715,
+            "nome": "09 - 25086.IN.LG.R04 - ISOMÉTRICO DE GLP TÉRREO TIPO DIF E 9XTIPO.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343716,
+            "nome": "10 - 25086.IN.LG.R04 - ISOMÉTRICO DE GLP GERAL.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343719,
+            "nome": "11 - 25086.IN.LG.R04 - PLANTA DE CAMINHAMENTOS.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343717,
+            "nome": "12 - 25086.IN.LG.R04 - DETALHES GERAIS.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343718,
+            "nome": "13 - 25086.IN.LG.R04 - DETALHES GERAIS.pdf",
+            "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15343755,
+            "nome": "25086.Ofício de Alterações.R00.pdf",
+            "desc": "Outros documentos"
+          },
+          {
+            "id": 15343905,
+            "nome": "ANEXO_H_22-06-2026_15343905.pdf",
+            "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+          },
+          {
+            "id": 15343906,
+            "nome": "DOC_AUXILIO_22-06-2026_15343906.pdf",
+            "desc": ""
+          }
+        ],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:44:16-03:00"
       },
       {
         "CodigoProtocolo": "A8221004923A",
@@ -17442,7 +17906,62 @@
         "Numero": "838",
         "Bairro": "NAVEGANTES - GRAVATÁ",
         "Cidade": "Navegantes",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 370.46,
+        "data": "2026-06-22",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2985935",
+        "numgSolicitacaoProjeto": "511572",
+        "qtdAnexos": 8,
+        "anexos": [
+          {
+            "id": 15341056,
+            "nome": "CBMSC_22-06-2026_15341056.pdf",
+            "desc": "COMPROVANTE DE SOLICITAÇÃO"
+          },
+          {
+            "id": 15340947,
+            "nome": "RRT Regularização.pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15341007,
+            "nome": "26014 - PCI - Memorial Descritivo e de Cálculo - RV00.pdf",
+            "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+          },
+          {
+            "id": 15341027,
+            "nome": "26014 - PCI - Pranchas-1.pdf",
+            "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15341028,
+            "nome": "26014 - PCI - Pranchas-2.pdf",
+            "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15341029,
+            "nome": "26014 - PCI - Pranchas-3.pdf",
+            "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+          },
+          {
+            "id": 15341058,
+            "nome": "ANEXO_H_22-06-2026_15341058.pdf",
+            "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+          },
+          {
+            "id": 15341059,
+            "nome": "DOC_AUXILIO_22-06-2026_15341059.pdf",
+            "desc": ""
+          }
+        ],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:44:27-03:00"
       },
       {
         "CodigoProtocolo": "A8221004922A",
@@ -18952,7 +19471,42 @@
         "Numero": "221",
         "Bairro": "ITAJAÍ - Cidade Nova",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 347.9,
+        "data": "2026-06-22",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2986387",
+        "numgSolicitacaoProjeto": "511617",
+        "qtdAnexos": 4,
+        "anexos": [
+          {
+            "id": 15343240,
+            "nome": "CBMSC_22-06-2026_15343240.pdf",
+            "desc": "COMPROVANTE DE SOLICITAÇÃO"
+          },
+          {
+            "id": 15343236,
+            "nome": "ART PACIFIC (2).pdf",
+            "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+          },
+          {
+            "id": 15343241,
+            "nome": "ANEXO_H_22-06-2026_15343241.pdf",
+            "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+          },
+          {
+            "id": 15343243,
+            "nome": "DOC_AUXILIO_22-06-2026_15343243.pdf",
+            "desc": ""
+          }
+        ],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:44:33-03:00"
       },
       {
         "CodigoProtocolo": "A8161014003A",
@@ -18963,7 +19517,32 @@
         "Numero": "1014",
         "Bairro": "ITAJAÍ - CENTRO",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-06-23T08:10:44-03:00"
+        "Detectado_em": "2026-06-23T08:10:44-03:00",
+        "area": 159,
+        "data": "2026-06-22",
+        "deferido": false,
+        "situacao": "Pendente de Pagamento",
+        "codgSituacao": "PENDENTE_PAGAMENTO",
+        "cassado": false,
+        "anulado": false,
+        "suspenso": false,
+        "numgProcesso": "2985497",
+        "numgSolicitacaoProjeto": "511537",
+        "qtdAnexos": 2,
+        "anexos": [
+          {
+            "id": 15338949,
+            "nome": "CBMSC_22-06-2026_15338949.pdf",
+            "desc": "COMPROVANTE DE SOLICITAÇÃO"
+          },
+          {
+            "id": 15338950,
+            "nome": "DOC_AUXILIO_22-06-2026_15338950.pdf",
+            "desc": ""
+          }
+        ],
+        "relatorio": [],
+        "_drillTs": "2026-06-23T08:44:40-03:00"
       },
       {
         "CodigoProtocolo": "A8161014002A",
@@ -20136,7 +20715,7 @@
             "desc": ""
           }
         ],
-        "_drillTs": "2026-06-22T15:23:30-03:00",
+        "_drillTs": "2026-06-23T08:44:47-03:00",
         "numgSolicitacaoProjeto": "510748",
         "relatorio": []
       },
@@ -20571,7 +21150,7 @@
           }
         ],
         "relatorio": [],
-        "_drillTs": "2026-06-22T15:23:59-03:00"
+        "_drillTs": "2026-06-23T08:45:00-03:00"
       },
       {
         "CodigoProtocolo": "A8161013989A",
