@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-06-22T14:00:27-03:00",
+  "timestamp": "2026-06-23T08:10:44-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 7990,
-      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+      "ultimo_numero": 7991,
+      "ultima_verificacao": "2026-06-23T08:10:44-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 391,
-      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+      "ultima_verificacao": "2026-06-23T08:10:44-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+      "ultima_verificacao": "2026-06-23T08:10:44-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3792,
-      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+      "ultimo_numero": 3793,
+      "ultima_verificacao": "2026-06-23T08:10:44-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3307,
-      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+      "ultima_verificacao": "2026-06-23T08:10:44-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 941,
-      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+      "ultimo_numero": 943,
+      "ultima_verificacao": "2026-06-23T08:10:44-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7072,
-      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+      "ultimo_numero": 7073,
+      "ultima_verificacao": "2026-06-23T08:10:44-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12769,
-      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+      "ultimo_numero": 12772,
+      "ultima_verificacao": "2026-06-23T08:10:44-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4922,
-      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+      "ultimo_numero": 4924,
+      "ultima_verificacao": "2026-06-23T08:10:44-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14002,
-      "ultima_verificacao": "2026-06-22T14:00:27-03:00"
+      "ultimo_numero": 14004,
+      "ultima_verificacao": "2026-06-23T08:10:44-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055007991A",
+        "RE": "RE8055006741A",
+        "numgEdificacao": 363243,
+        "Nome_Edificacao": "CONSTRUTORA E INCORPORADORA OTS LTDA - RESIDENCIAL OLIARI XXXVII",
+        "Logradouro": "Rua das Tulipas",
+        "Numero": "620",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
       {
         "CodigoProtocolo": "A8055007990A",
         "RE": "RE8055006738A",
@@ -4926,6 +4937,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003793A",
+        "RE": "RE8117000747A",
+        "numgEdificacao": 104817,
+        "Nome_Edificacao": "Myroma Industria e Comercio de Artigos Pet e Jardinagem LTDA",
+        "Logradouro": "Rua Frei Solano",
+        "Numero": "3175",
+        "Bairro": "GASPAR - GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003792A",
         "RE": "RE8117001581A",
@@ -10967,6 +10989,28 @@
     ],
     "Nova Trento": [
       {
+        "CodigoProtocolo": "A8225000943A",
+        "RE": "RE8225000666A",
+        "numgEdificacao": 336791,
+        "Nome_Edificacao": "CAPELA SANTO ESTANISLAU",
+        "Logradouro": "RUA GERAL VALSUGANA",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - VALSUGANA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8225000942A",
+        "RE": "RE8225000666A",
+        "numgEdificacao": 336791,
+        "Nome_Edificacao": "CAPELA SANTO ESTANISLAU",
+        "Logradouro": "RUA GERAL VALSUGANA",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - VALSUGANA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
+      {
         "CodigoProtocolo": "A8225000941A",
         "RE": "RE8225000780A",
         "numgEdificacao": 353449,
@@ -12792,6 +12836,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007073A",
+        "RE": "RE8163006713A",
+        "numgEdificacao": 360645,
+        "Nome_Edificacao": "Galpão e sala comercial",
+        "Logradouro": "RUA 1202",
+        "Numero": "52",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007072A",
         "RE": "RE8163003687A",
@@ -15670,6 +15725,39 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012772A",
+        "RE": "RE8047011924A",
+        "numgEdificacao": 360871,
+        "Nome_Edificacao": "MARLI AUXILIADORA PEREIRA",
+        "Logradouro": "RUA JOSE REUTER",
+        "Numero": "3112",
+        "Bairro": "BLUMENAU - VELHA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012771A",
+        "RE": "RE8047010357A",
+        "numgEdificacao": 294678,
+        "Nome_Edificacao": "OSNILDO ANTONIO VIEIRA",
+        "Logradouro": "Rua Nicolau Reiter",
+        "Numero": "502",
+        "Bairro": "BLUMENAU - ESCOLA AGRÍCOLA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012770A",
+        "RE": "RE8047011977A",
+        "numgEdificacao": 363227,
+        "Nome_Edificacao": "EDIFÍCIO CHATEAUNEUF DU PAPE",
+        "Logradouro": "Rua Doutor Pedro Celestino de Araújo",
+        "Numero": "45",
+        "Bairro": "BLUMENAU - JARDIM BLUMENAU",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012769A",
         "RE": "RE8047011818A",
         "numgEdificacao": 355981,
@@ -17335,6 +17423,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004924A",
+        "RE": "RE8221003915A",
+        "numgEdificacao": 349858,
+        "Nome_Edificacao": "RESIDENCIAL UP",
+        "Logradouro": "R JOAO DOMINGOS DA COSTA",
+        "Numero": "193",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004923A",
+        "RE": "RE8221004079A",
+        "numgEdificacao": 363211,
+        "Nome_Edificacao": "RESIDENCIAL UNIFAMILIAR E COMERCIAL",
+        "Logradouro": "RUA ALDO MARIO DE ALMEIDA",
+        "Numero": "838",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004922A",
         "RE": "RE8221004065A",
         "numgEdificacao": 362531,
@@ -18833,6 +18943,28 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014004A",
+        "RE": "RE8161013684A",
+        "numgEdificacao": 363272,
+        "Nome_Edificacao": "PACIFIC ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "RUA SIDNEY SCHULZE",
+        "Numero": "221",
+        "Bairro": "ITAJAÍ - Cidade Nova",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014003A",
+        "RE": "RE8161005478A",
+        "numgEdificacao": 158906,
+        "Nome_Edificacao": "MARIA JULIETA MOSER",
+        "Logradouro": "Rua Brusque",
+        "Numero": "1014",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-23T08:10:44-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014002A",
         "RE": "RE8161013683A",
@@ -21403,16 +21535,16 @@
     ]
   },
   "totais": {
-    "Brusque": 26,
+    "Brusque": 27,
     "Botuvera": 25,
     "Guabiruba": 25,
-    "Gaspar": 26,
+    "Gaspar": 27,
     "Porto Belo": 26,
-    "Nova Trento": 25,
-    "Itapema": 25,
-    "Blumenau": 27,
-    "Navegantes": 25,
-    "Itajai": 27
+    "Nova Trento": 27,
+    "Itapema": 26,
+    "Blumenau": 30,
+    "Navegantes": 27,
+    "Itajai": 29
   },
-  "total_geral": 257
+  "total_geral": 269
 }

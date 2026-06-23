@@ -16,12 +16,13 @@ REM 1) Sincroniza via MERGE preferindo o remoto (nunca conflita / nunca detacha)
 git fetch origin -q >> "%LOG%" 2>&1
 git merge -X theirs origin/main -m "sync coletor" >> "%LOG%" 2>&1
 
-REM 2) Coleta multas + AFs (API publica e-SCI, sem login)
+REM 2) Coleta multas + AFs + PROTOCOLOS (API publica e-SCI, sem login)
 python scripts\coletar.py >> "%LOG%" 2>&1
 python scripts\coletar_afs.py >> "%LOG%" 2>&1
+python scripts\coletar_protocolos.py 8 >> "%LOG%" 2>&1
 
 REM 3) Commit + push (com 1 retry se o origin mudou no meio)
-git add docs/qbQv3yHGdx6ocaYE/dados.json docs/qbQv3yHGdx6ocaYE/afs.json scripts/estado.json scripts/estado_afs.json
+git add docs/qbQv3yHGdx6ocaYE/dados.json docs/qbQv3yHGdx6ocaYE/afs.json scripts/estado.json scripts/estado_afs.json docs/qbQv3yHGdx6ocaYE/protocolos.json scripts/estado_protocolos.json
 git diff --cached --quiet
 if errorlevel 1 (
     git commit -m "Coleta local automatica" >> "%LOG%" 2>&1
