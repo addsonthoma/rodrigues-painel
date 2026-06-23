@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-23T17:02:10-03:00",
+  "timestamp": "2026-06-23T17:12:13-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 692,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T17:02:10-03:00"
+      "ultima_verificacao": "2026-06-23T17:12:13-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T17:02:10-03:00"
+      "ultima_verificacao": "2026-06-23T17:12:13-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 54,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T17:02:10-03:00"
+      "ultima_verificacao": "2026-06-23T17:12:13-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 465,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T17:02:10-03:00"
+      "ultima_verificacao": "2026-06-23T17:12:13-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 383,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T17:02:10-03:00"
+      "ultima_verificacao": "2026-06-23T17:12:13-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 356,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T17:02:10-03:00"
+      "ultima_verificacao": "2026-06-23T17:12:13-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 818,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T17:02:10-03:00"
+      "ultima_verificacao": "2026-06-23T17:12:13-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 793,
+      "ultimo_numero": 794,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T17:02:10-03:00"
+      "ultima_verificacao": "2026-06-23T17:12:13-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 245,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T17:02:10-03:00"
+      "ultima_verificacao": "2026-06-23T17:12:13-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 843,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-23T17:02:10-03:00"
+      "ultima_verificacao": "2026-06-23T17:12:13-03:00"
     }
   },
   "afs": {
@@ -4633,6 +4633,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000794A/26",
+        "Tipo": "AF",
+        "RE": "RE8047011949A",
+        "Nome_Edificacao": "CEI Walter Rosemann",
+        "Logradouro": "R PROFESSOR HERMANN LANGE",
+        "Numero": "330",
+        "Bairro": "BLUMENAU - FIDÉLIS",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-23T17:12:13-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000793A/26",
         "Tipo": "AF",
         "RE": "RE8047011640A",
@@ -6989,9 +7000,9 @@
     "Porto Belo": 92,
     "Nova Trento": 46,
     "Itapema": 85,
-    "Blumenau": 80,
+    "Blumenau": 81,
     "Navegantes": 41,
     "Itajai": 92
   },
-  "total_geral": 627
+  "total_geral": 628
 }
