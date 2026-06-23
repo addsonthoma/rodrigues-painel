@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-06-23T14:11:39-03:00",
+  "timestamp": "2026-06-23T14:31:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 79,
+      "ultimo_numero": 81,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:31:23-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:31:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:31:23-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:31:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 80,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:31:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 104,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:31:23-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 141,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:31:23-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 173,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:31:23-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:31:23-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 305,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-23T14:11:39-03:00"
+      "ultima_verificacao": "2026-06-23T14:31:23-03:00"
     }
   },
   "multas": {
@@ -470,6 +470,26 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000080A/26",
+        "RE": "RE8055003930A",
+        "Nome_Edificacao": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
+        "Logradouro": "RUA FLORIANÓPOLIS",
+        "Numero": "1017",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-23T14:31:23-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000081A/26",
+        "RE": "RE8055005573A",
+        "Nome_Edificacao": "INES TEREZINHA CERVI",
+        "Logradouro": "RUA SANTOS DUMONT",
+        "Numero": "220",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-23T14:31:23-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000079A/26",
         "RE": "RE8055001751A",
@@ -1904,7 +1924,7 @@
   "totais": {
     "Blumenau": 38,
     "Botuvera": 3,
-    "Brusque": 24,
+    "Brusque": 26,
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 23,
@@ -1913,42 +1933,21 @@
     "Nova Trento": 21,
     "Porto Belo": 23
   },
-  "total_geral": 194,
+  "total_geral": 196,
   "eventos_recentes": [
     {
-      "ts": "2026-06-23T14:11:39-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000173A/26",
-      "nome": "BLU PIZZA LTDA",
-      "re": "RE8047002102A"
-    },
-    {
-      "ts": "2026-06-23T14:11:39-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000042A/26",
-      "nome": "EDERSON ZUCCHI",
-      "re": "RE8117002606A"
-    },
-    {
-      "ts": "2026-06-23T14:01:43-03:00",
+      "ts": "2026-06-23T14:31:23-03:00",
       "cidade": "Brusque",
-      "codigo": "MUL8055000079A/26",
-      "nome": "ALESSIO GROH",
-      "re": "RE8055001751A"
+      "codigo": "MUL8055000081A/26",
+      "nome": "INES TEREZINHA CERVI",
+      "re": "RE8055005573A"
     },
     {
-      "ts": "2026-06-23T13:01:41-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000055A/26",
-      "nome": "Edificio comercial",
-      "re": "RE8221001860A"
-    },
-    {
-      "ts": "2026-06-23T12:51:42-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000054A/26",
-      "nome": "EDIFÍCIO FC PERFETTO",
-      "re": "RE8221001593A"
+      "ts": "2026-06-23T14:31:23-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000080A/26",
+      "nome": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
+      "re": "RE8055003930A"
     },
     {
       "ts": "2026-06-19T16:10:02-03:00",
@@ -2187,20 +2186,6 @@
       "codigo": "MUL8047000161A/26",
       "nome": "Casa Doce Artesan",
       "re": "RE8047011817A"
-    },
-    {
-      "ts": "2026-06-16T14:14:31-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000160A/26",
-      "nome": "CASA RUA ALWIN SCHRADER",
-      "re": "RE8047004396A"
-    },
-    {
-      "ts": "2026-06-16T14:14:31-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000159A/26",
-      "nome": "PINTARTE",
-      "re": "RE8047010991A"
     }
   ]
 }
