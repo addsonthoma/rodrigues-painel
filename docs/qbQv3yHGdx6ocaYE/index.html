@@ -156,6 +156,8 @@
   <button class="vtab" data-v="BANANA" onclick="setVendedor('BANANA')">🟢 Banana</button>
   <button class="vtab" data-v="GUILHERME" onclick="setVendedor('GUILHERME')">🔵 Guilherme</button>
   <button class="vtab" data-v="ALINE" onclick="setVendedor('ALINE')">🟣 Aline</button>
+  <button class="vtab" data-v="ADDSON" onclick="setVendedor('ADDSON')">🟠 Addson</button>
+  <button class="vtab" data-v="HENRIQUE" onclick="setVendedor('HENRIQUE')">🟡 Henrique</button>
   <span class="vsep"></span>
   <button id="btn-captacao" class="vtab cap" onclick="toggleCaptacao()">🚗 Captação / Rota</button>
  </div>
@@ -975,6 +977,8 @@ function renderProtocolos(){
  .claim-tag.dono-BANANA{background:#0c2f17;color:#3ee07a}
  .claim-tag.dono-GUILHERME{background:#10283f;color:#6fc0ff}
  .claim-tag.dono-ALINE{background:#1e1030;color:#c79bff}
+ .claim-tag.dono-ADDSON{background:#2e1e08;color:#ffb86b}
+ .claim-tag.dono-HENRIQUE{background:#2a2410;color:#e0c34a}
  .claim-obs{color:var(--muted);font-style:italic;font-size:.92em;word-break:break-word}
  .claim-mini{background:#1b1b22;border:1px solid #2a2a33;border-radius:6px;color:#cfcfd6;cursor:pointer;font-size:.85em;padding:2px 7px}
  .claim-mini.soltar{color:#ff8a9a;border-color:#4a1820}
@@ -996,14 +1000,14 @@ function renderProtocolos(){
  <h3 id="clm-title">📌 Pegar lead</h3>
  <p class="cmsub" id="clm-sub"></p>
  <div id="clm-vendwrap" style="display:none"><label>Direcionar para qual vendedor</label>
-  <select id="clm-vend"><option value="BANANA">Banana</option><option value="GUILHERME">Guilherme</option><option value="ALINE">Aline</option></select></div>
+  <select id="clm-vend"><option value="BANANA">Banana</option><option value="GUILHERME">Guilherme</option><option value="ALINE">Aline</option><option value="ADDSON">Addson</option><option value="HENRIQUE">Henrique</option></select></div>
  <div id="clm-obswrap"><label>Observação (obrigatória) — situação do lead: se já fez o serviço, se não precisa, o que combinou, etc.</label>
   <textarea id="clm-obs" placeholder="Ex.: liguei, vão me chamar semana que vem / já fizemos esse / não precisa..."></textarea></div>
  <div id="claim-err"></div>
  <div class="cmrow"><button class="cm-cancel" onclick="fecharClaim()">Cancelar</button><button class="cm-ok" id="clm-ok">📌 Pegar</button></div>
 </div></div>
 <script>
-const VEND_LABEL = {BANANA:'Banana',GUILHERME:'Guilherme',ALINE:'Aline'};
+const VEND_LABEL = {BANANA:'Banana',GUILHERME:'Guilherme',ALINE:'Aline',ADDSON:'Addson',HENRIQUE:'Henrique'};
 function _logadoPodePegar(){ return !!(window.PERFIL_PAINEL && (window.PERFIL_PAINEL.vendedor || window.PERFIL_PAINEL.papel==='admin')); }
 function claimControls(item){
   const cod = item.CodigoAuto || item.CodigoProtocolo;
@@ -1026,8 +1030,9 @@ function claimControls(item){
 let _clmCod=null, _clmModo='obs';
 function pegarLead(cod){
   if(!_logadoPodePegar()){ alert('Faça login pra pegar leads.'); return; }
-  const admin=(window.PERFIL_PAINEL&&window.PERFIL_PAINEL.papel==='admin');
-  if(admin) abrirClaimModal(cod,'admin'); else confirmarPegar(cod, window.PERFIL_PAINEL.vendedor, '');
+  const meu = window.PERFIL_PAINEL && window.PERFIL_PAINEL.vendedor;
+  if(meu) confirmarPegar(cod, meu, '');        // tem vendedor (inclui Addson/Henrique) -> pega pra si na hora
+  else abrirClaimModal(cod,'admin');            // admin sem vendedor (escritório puro) -> direciona
 }
 async function confirmarPegar(cod, vend, obs){
   if(!vend) return;
