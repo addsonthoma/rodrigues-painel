@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-06-23T16:39:41-03:00",
+  "timestamp": "2026-06-23T16:58:28-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 7992,
-      "ultima_verificacao": "2026-06-23T16:39:41-03:00"
+      "ultima_verificacao": "2026-06-23T16:58:28-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 391,
-      "ultima_verificacao": "2026-06-23T16:39:41-03:00"
+      "ultima_verificacao": "2026-06-23T16:58:28-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-23T16:39:41-03:00"
+      "ultima_verificacao": "2026-06-23T16:58:28-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3793,
-      "ultima_verificacao": "2026-06-23T16:39:41-03:00"
+      "ultima_verificacao": "2026-06-23T16:58:28-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3309,
-      "ultima_verificacao": "2026-06-23T16:39:41-03:00"
+      "ultimo_numero": 3310,
+      "ultima_verificacao": "2026-06-23T16:58:28-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 943,
-      "ultima_verificacao": "2026-06-23T16:39:41-03:00"
+      "ultima_verificacao": "2026-06-23T16:58:28-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7073,
-      "ultima_verificacao": "2026-06-23T16:39:41-03:00"
+      "ultima_verificacao": "2026-06-23T16:58:28-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12776,
-      "ultima_verificacao": "2026-06-23T16:39:41-03:00"
+      "ultima_verificacao": "2026-06-23T16:58:28-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4924,
-      "ultima_verificacao": "2026-06-23T16:39:41-03:00"
+      "ultima_verificacao": "2026-06-23T16:58:28-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14009,
-      "ultima_verificacao": "2026-06-23T16:39:41-03:00"
+      "ultima_verificacao": "2026-06-23T16:58:28-03:00"
     }
   },
   "protocolos": {
@@ -6841,6 +6841,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003310A",
+        "RE": "RE8265002645A",
+        "numgEdificacao": 345624,
+        "Nome_Edificacao": "VISTTA 206",
+        "Logradouro": "R. MELANIE GLAUSCH",
+        "Numero": "206",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-23T16:58:28-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003309A",
         "RE": "RE8265002785A",
@@ -22250,12 +22261,12 @@
     "Botuvera": 25,
     "Guabiruba": 25,
     "Gaspar": 27,
-    "Porto Belo": 28,
+    "Porto Belo": 29,
     "Nova Trento": 27,
     "Itapema": 26,
     "Blumenau": 34,
     "Navegantes": 27,
     "Itajai": 34
   },
-  "total_geral": 281
+  "total_geral": 282
 }
