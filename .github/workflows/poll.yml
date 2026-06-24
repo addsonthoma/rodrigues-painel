@@ -25,7 +25,8 @@ permissions:
 
 concurrency:
   group: coletor-nuvem
-  cancel-in-progress: true
+  cancel-in-progress: false   # o run demora ~12 min (latencia EUA->Brasil); NAO cancelar no meio.
+                              # se outro cron disparar, ele espera o atual terminar (sem pileup, sem cancelamento).
 
 jobs:
   coletar:
