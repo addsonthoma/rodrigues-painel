@@ -167,13 +167,9 @@ def main():
                 det = agora_iso
             else:
                 det = None
-            # preserva TODO o enriquecimento ja feito pelo drill (area/data/deferido/anexos/_drillTs...)
-            novo_item = item_de(codigo, r, cidade, det)
-            if prev_item:
-                for k, v in prev_item.items():
-                    if k not in novo_item:   # nao sobrescreve os campos-base recem-lidos da API
-                        novo_item[k] = v
-            coletadas.append(novo_item)
+            # protocolos.json = SO COLETA (o enriquecimento mora em protocolos_enrich.json,
+            # gravado pelo PC; a nuvem nunca toca nele -> sem conflito)
+            coletadas.append(item_de(codigo, r, cidade, det))
 
         combinado = {x["CodigoProtocolo"]: x for x in (arquivo_prev.get(cidade) or [])}
         for it in coletadas:
