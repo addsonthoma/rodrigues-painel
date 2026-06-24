@@ -8,8 +8,17 @@ name: Coletor CBMSC (nuvem) — multas, AFs e protocolos
 
 on:
   schedule:
-    - cron: '*/10 * * * *'   # a cada 10 min, todos os dias
-  workflow_dispatch:          # botao "Run workflow" no GitHub, se quiser forcar
+    # minutos FORA da hora cheia (o GitHub throttla cron em :00; :05,:15... pega melhor) -> a cada 10 min
+    - cron: '5,15,25,35,45,55 * * * *'
+  push:
+    branches: [main]
+    paths-ignore:               # commits SO de dados NAO re-disparam o workflow (evita loop)
+      - 'docs/**'
+      - 'scripts/estado*.json'
+      - 'scripts/eventos.json'
+      - 'scripts/drill_cache.json'
+      - '**.md'
+  workflow_dispatch:            # botao "Run workflow" no GitHub, se quiser forcar
 
 permissions:
   contents: write
