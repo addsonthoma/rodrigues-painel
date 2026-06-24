@@ -14,6 +14,7 @@ from datetime import datetime, timezone, timedelta
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 SLUG = "qbQv3yHGdx6ocaYE"
 PROTO_FP = os.path.join(REPO_ROOT, "docs", SLUG, "protocolos.json")
+ENRICH_FP = os.path.join(REPO_ROOT, "docs", SLUG, "protocolos_enrich.json")
 COOKIES_TXT = os.path.join(REPO_ROOT, "scripts", "cookies.txt")
 BASE = "https://esci.cbm.sc.gov.br"
 EP = {
@@ -136,10 +137,10 @@ def projetos_da_edif(s, numg):
         time.sleep(PAUSE)
     return out
 
-def _fresco(it, horas=18):
-    ts = it.get("_drillTs")
+def _fresco(enr, horas=18):
+    if not enr: return False
+    ts = enr.get("_drillTs")
     if not ts: return False
-    if "relatorio" not in it: return False   # formato ANTIGO (anexos=atestado) -> re-enriquece
     try:
         t = datetime.fromisoformat(ts)
         return (datetime.now(TZ_BR) - t).total_seconds() < horas * 3600
@@ -150,42 +151,46 @@ def main():
     force = "--force" in sys.argv
     if not os.path.exists(PROTO_FP):
         print("[!] protocolos.json nao existe ainda. Rode coletar_protocolos.py antes."); return
-    data = json.load(open(PROTO_FP, encoding="utf-8"))
-    por_cidade = data.get("protocolos") or {}
+    por_cidade = (json.load(open(PROTO_FP, encoding="utf-8")).get("protocolos") or {})
+    # enriquecimento mora em arquivo PROPRIO (a nuvem nunca escreve aqui -> nunca conflita)
+    enrich = {}
+    if os.path.exists(ENRICH_FP):
+        try: enrich = json.load(open(ENRICH_FP, encoding="utf-8")).get("enrich") or {}
+        except Exception: enrich = {}
 
-    # mapeia numgEdificacao -> lista de itens (de qualquer cidade)
-    edif_map = {}
-    total = 0
+    edif_map = {}; total = 0
     for cidade, lst in por_cidade.items():
         for it in lst:
             total += 1
             ne = it.get("numgEdificacao")
             if ne: edif_map.setdefault(ne, []).append(it)
-    print(f"[*] {total} protocolos em {len(edif_map)} edificacoes. Drilando...")
+    print(f"[*] {total} protocolos em {len(edif_map)} edificacoes. Drilando -> protocolos_enrich.json")
+
+    def salvar_enrich():
+        json.dump({"timestamp": datetime.now(TZ_BR).isoformat(timespec="seconds"), "enrich": enrich},
+                  open(ENRICH_FP, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
 
     s = get_session()
     feitos = 0; enriquecidos = 0; pulados = 0
     for ne, itens in edif_map.items():
-        # pula edificacao cujos protocolos ja estao enriquecidos e frescos (<18h), salvo --force
-        if not force and all(_fresco(it) for it in itens):
-            pulados += 1
-            continue
+        # pula edificacao ja enriquecida e fresca (<18h), salvo --force
+        if not force and all(_fresco(enrich.get(it["CodigoProtocolo"])) for it in itens):
+            pulados += 1; continue
         res = projetos_da_edif(s, ne)
         if res == "EXPIRED":
             print("[!] COOKIE EXPIRADO — renove scripts/cookies.txt e rode de novo.")
             break
         for it in itens:
-            enr = res.get(it["CodigoProtocolo"])
-            if enr:
-                it.update(enr); enriquecidos += 1
+            er = res.get(it["CodigoProtocolo"])
+            if er:
+                enrich[it["CodigoProtocolo"]] = er; enriquecidos += 1
         feitos += 1
         if feitos % 10 == 0:
-            json.dump(data, open(PROTO_FP, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-            print(f"  [{feitos}/{len(edif_map)} edif] {enriquecidos} protocolos enriquecidos (parcial salvo)")
+            salvar_enrich()
+            print(f"  [{feitos}/{len(edif_map)} edif] {enriquecidos} enriquecidos (parcial salvo)")
 
-    # recalcula totais e salva
-    json.dump(data, open(PROTO_FP, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-    print(f"\n[OK] {enriquecidos}/{total} protocolos enriquecidos | {pulados} edif. puladas (ja frescas).")
+    salvar_enrich()
+    print(f"\n[OK] {enriquecidos}/{total} protocolos enriquecidos -> protocolos_enrich.json | {pulados} edif. puladas.")
 
 if __name__ == "__main__":
     main()

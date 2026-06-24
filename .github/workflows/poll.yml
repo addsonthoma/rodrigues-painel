@@ -1,39 +1,54 @@
-name: Polling de Multas e Fiscalizações CBMSC
+name: Coletor CBMSC (nuvem) — multas, AFs e protocolos
+
+# ARQUITETURA (2026-06-23): a COLETA (publica, sem cookie) roda 100% na NUVEM, a
+# cada 10 min, 24/7 — nao depende do PC do escritorio estar ligado. Escreve SO os
+# arquivos de coleta (dados/afs/protocolos + estados). O enriquecimento (deferido/
+# anexos/contatos, que precisa de cookie) roda no PC e grava em arquivos SEPARADOS
+# (drill.json, protocolos_enrich.json) -> nunca conflita com a nuvem.
 
 on:
-  # DESLIGADO 2026-06-23: o coletor LOCAL (PC, a cada 10 min, faz multas+AFs+PROTOCOLOS)
-  # virou a unica fonte. O cron do Actions rodava em paralelo, o origin "andava" sozinho,
-  # o push do PC era rejeitado e os protocolos ficavam presos (ahead/behind). Sem cron,
-  # so o PC empurra -> sem divergencia. Fica so manual (botao Run no GitHub) se precisar.
-  workflow_dispatch:
+  schedule:
+    - cron: '*/10 * * * *'   # a cada 10 min, todos os dias
+  workflow_dispatch:          # botao "Run workflow" no GitHub, se quiser forcar
 
 permissions:
   contents: write
 
+concurrency:
+  group: coletor-nuvem
+  cancel-in-progress: true
+
 jobs:
-  poll:
+  coletar:
     runs-on: ubuntu-latest
-    concurrency:
-      group: poll-multas
-      cancel-in-progress: true   # se vier outro run, cancela o antigo (evita fila travada)
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Coletar Multas
+      - name: Coletar multas
         run: python scripts/coletar.py
-
-      - name: Coletar Autos de Fiscalização
+      - name: Coletar Autos de Fiscalizacao
         run: python scripts/coletar_afs.py
+      - name: Coletar protocolos
+        run: python scripts/coletar_protocolos.py 8
 
-      - name: Commit e push se houver mudanças
+      - name: Commit e push (so arquivos de coleta)
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add docs/qbQv3yHGdx6ocaYE/dados.json \
+                  docs/qbQv3yHGdx6ocaYE/afs.json \
+                  docs/qbQv3yHGdx6ocaYE/protocolos.json \
+                  scripts/estado.json scripts/estado_afs.json scripts/estado_protocolos.json \
+                  scripts/eventos.json
           if git diff --cached --quiet; then
-            echo "Sem mudanças."
+            echo "Sem mudancas."
           else
-            git commit -m "Atualização automática $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            git commit -m "Coleta automatica (nuvem) $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # push robusto: se o PC empurrou enriquecimento no meio, rebaseia (arquivos
+            # disjuntos -> sem conflito) e tenta de novo. Ate 3x.
+            for i in 1 2 3; do
+              git push && break
+              echo "push rejeitado, rebaseando (tentativa $i)..."
+              git pull --rebase -X theirs origin main || git rebase --abort
+            done
           fi

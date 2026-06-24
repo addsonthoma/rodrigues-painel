@@ -554,16 +554,19 @@ function render(){
 
 async function refresh(){
   try{
-    const [rMul, rAf, rDrill, rProto] = await Promise.all([
+    const [rMul, rAf, rDrill, rProto, rPEnr] = await Promise.all([
       fetch("dados.json?t=" + Date.now(), {cache:"no-store"}),
       fetch("afs.json?t=" + Date.now(), {cache:"no-store"}).catch(()=>null),
       fetch("drill.json?t=" + Date.now(), {cache:"no-store"}).catch(()=>null),
-      fetch("protocolos.json?t=" + Date.now(), {cache:"no-store"}).catch(()=>null)
+      fetch("protocolos.json?t=" + Date.now(), {cache:"no-store"}).catch(()=>null),
+      fetch("protocolos_enrich.json?t=" + Date.now(), {cache:"no-store"}).catch(()=>null)
     ]);
     if(rMul.ok) dadosMul = await rMul.json();
     if(rAf && rAf.ok) dadosAf = await rAf.json();
     if(rDrill && rDrill.ok) dadosDrill = await rDrill.json();
     if(rProto && rProto.ok) dadosProto = await rProto.json();
+    // enriquecimento dos protocolos vem de arquivo SEPARADO (PC) -> junta na coleta (nuvem)
+    if(rPEnr && rPEnr.ok){ try{ const pe = await rPEnr.json(); window._protoEnrich = pe.enrich||{}; if(typeof aplicarEnriqueProto==='function') aplicarEnriqueProto(window._protoEnrich); }catch(_){} }
     render();
     lastFetchOk = Date.now();
     tickHeartbeat();
@@ -930,7 +933,12 @@ function protoHTML(p){
    </div>
   </div>`;
 }
+function aplicarEnriqueProto(map){
+  const proto = (dadosProto && dadosProto.protocolos) || {};
+  for(const cid in proto){ for(const p of (proto[cid]||[])){ const e=map[p.CodigoProtocolo]; if(e) Object.assign(p, e); } }
+}
 function renderProtocolos(){
+  if(window._protoEnrich) aplicarEnriqueProto(window._protoEnrich);
   const proto = dadosProto.protocolos || {};
   let cidades = Object.keys(proto).sort();
   const totalProto = cidades.reduce((s,c)=>s+(proto[c]||[]).filter(itemPassaAba).length,0);
