@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-06-24T09:22:59-03:00",
+  "timestamp": "2026-06-24T15:33:40-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 7992,
-      "ultima_verificacao": "2026-06-24T09:22:59-03:00"
+      "ultimo_numero": 7993,
+      "ultima_verificacao": "2026-06-24T15:33:40-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 391,
-      "ultima_verificacao": "2026-06-24T09:22:59-03:00"
+      "ultima_verificacao": "2026-06-24T15:33:40-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-24T09:22:59-03:00"
+      "ultima_verificacao": "2026-06-24T15:33:40-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3793,
-      "ultima_verificacao": "2026-06-24T09:22:59-03:00"
+      "ultimo_numero": 3794,
+      "ultima_verificacao": "2026-06-24T15:33:40-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3318,
-      "ultima_verificacao": "2026-06-24T09:22:59-03:00"
+      "ultimo_numero": 3320,
+      "ultima_verificacao": "2026-06-24T15:33:40-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 944,
-      "ultima_verificacao": "2026-06-24T09:22:59-03:00"
+      "ultima_verificacao": "2026-06-24T15:33:40-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7073,
-      "ultima_verificacao": "2026-06-24T09:22:59-03:00"
+      "ultimo_numero": 7075,
+      "ultima_verificacao": "2026-06-24T15:33:40-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12778,
-      "ultima_verificacao": "2026-06-24T09:22:59-03:00"
+      "ultimo_numero": 12780,
+      "ultima_verificacao": "2026-06-24T15:33:40-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4924,
-      "ultima_verificacao": "2026-06-24T09:22:59-03:00"
+      "ultimo_numero": 4926,
+      "ultima_verificacao": "2026-06-24T15:33:40-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14011,
-      "ultima_verificacao": "2026-06-24T09:22:59-03:00"
+      "ultimo_numero": 14015,
+      "ultima_verificacao": "2026-06-24T15:33:40-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055007993A",
+        "RE": "RE8055002425A",
+        "numgEdificacao": 180728,
+        "Nome_Edificacao": "ROBERTO CESTARI",
+        "Logradouro": "Rua Maria Andre de Freitas",
+        "Numero": "330",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
       {
         "CodigoProtocolo": "A8055007992A",
         "RE": "RE8055006725A",
@@ -919,6 +930,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003794A",
+        "RE": "RE8117003234A",
+        "numgEdificacao": 363408,
+        "Nome_Edificacao": "MAKSUEL SILVA",
+        "Logradouro": "R FREI CANISIO",
+        "Numero": "710",
+        "Bairro": "GASPAR - COLONINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003793A",
         "RE": "RE8117000747A",
         "numgEdificacao": 104817,
@@ -1217,6 +1239,28 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003320A",
+        "RE": "RE8265002677A",
+        "numgEdificacao": 350646,
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL COSTA DO PEREQUE",
+        "Logradouro": "GAUDÊNCIO CAMPOS",
+        "Numero": "53",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003319A",
+        "RE": "RE8265002788A",
+        "numgEdificacao": 363421,
+        "Nome_Edificacao": "OPORTO DISTRITO",
+        "Logradouro": "Rua Geraldo Marques Branquinho",
+        "Numero": "",
+        "Bairro": "PORTO BELO - Balneário Perequê",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003318A",
         "RE": "RE8265002783A",
@@ -1937,6 +1981,28 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007075A",
+        "RE": "RE8163006761A",
+        "numgEdificacao": 363473,
+        "Nome_Edificacao": "BRASA EMPREENDIMENTOS IMOBILIARIOS",
+        "Logradouro": "Rua 254",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007074A",
+        "RE": "RE8163002777A",
+        "numgEdificacao": 164486,
+        "Nome_Edificacao": "LURDES TURATTO",
+        "Logradouro": "RUA 902 E",
+        "Numero": "171",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007073A",
         "RE": "RE8163006713A",
         "numgEdificacao": 360645,
@@ -2224,6 +2290,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012780A",
+        "RE": "RE8047002146A",
+        "numgEdificacao": 109924,
+        "Nome_Edificacao": "CASA DE REPOUSO CONTINUANDO A VIDA LTDA",
+        "Logradouro": "Rua São Paulo",
+        "Numero": "2457",
+        "Bairro": "BLUMENAU - ITOUPAVA SECA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012779A",
+        "RE": "RE8047006185A",
+        "numgEdificacao": 183601,
+        "Nome_Edificacao": "CARLOS RADUNZ",
+        "Logradouro": "RUA THEODORO HOLTRUPP",
+        "Numero": "653",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012778A",
         "RE": "RE8047011981A",
@@ -2623,6 +2711,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004926A",
+        "RE": "RE8221004071A",
+        "numgEdificacao": 362845,
+        "Nome_Edificacao": "MDO CONSTRUTORA E INCORPORADORA LTDA",
+        "Logradouro": "RUA JORNALISTA RUI ABDON FOES",
+        "Numero": "68",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004925A",
+        "RE": "RE8221004081A",
+        "numgEdificacao": 363411,
+        "Nome_Edificacao": "SANTIAGO COMERCIO LTDA",
+        "Logradouro": "R VEREADOR THIMOTEO DE GOES REBELO",
+        "Numero": "842",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004924A",
         "RE": "RE8221003915A",
         "numgEdificacao": 349858,
@@ -2921,6 +3031,50 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014015A",
+        "RE": "RE8161000766A",
+        "numgEdificacao": 21155,
+        "Nome_Edificacao": "GALPÃO LOGISTICO NAVLOG",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "10070",
+        "Bairro": "ITAJAÍ - ARRAIAL DOS CUNHAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014014A",
+        "RE": "RE8161013344A",
+        "numgEdificacao": 353495,
+        "Nome_Edificacao": "SALA COMERCIAL",
+        "Logradouro": "RUA SAO VICENTE",
+        "Numero": "821",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014013A",
+        "RE": "RE8161013674A",
+        "numgEdificacao": 363024,
+        "Nome_Edificacao": "Residencial Anita 155",
+        "Logradouro": "Rua Anita Garibaldi",
+        "Numero": "155",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014012A",
+        "RE": "RE8161000474A",
+        "numgEdificacao": 13259,
+        "Nome_Edificacao": "WM EMPREENDIMENTOS COMERCIAIS LTDA",
+        "Logradouro": "Avenida Mário Uriarte",
+        "Numero": "1060",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-24T15:33:40-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014011A",
         "RE": "RE8161000329A",
@@ -3320,16 +3474,16 @@
     ]
   },
   "totais": {
-    "Brusque": 28,
+    "Brusque": 29,
     "Botuvera": 25,
     "Guabiruba": 25,
-    "Gaspar": 27,
-    "Porto Belo": 37,
+    "Gaspar": 28,
+    "Porto Belo": 39,
     "Nova Trento": 28,
-    "Itapema": 26,
-    "Blumenau": 36,
-    "Navegantes": 27,
-    "Itajai": 36
+    "Itapema": 28,
+    "Blumenau": 38,
+    "Navegantes": 29,
+    "Itajai": 40
   },
-  "total_geral": 295
+  "total_geral": 309
 }
