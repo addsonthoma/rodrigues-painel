@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-06-24T19:58:48-03:00",
+  "timestamp": "2026-06-25T07:32:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 7996,
-      "ultima_verificacao": "2026-06-24T19:58:48-03:00"
+      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-06-24T19:58:48-03:00"
+      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-24T19:58:48-03:00"
+      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3795,
-      "ultima_verificacao": "2026-06-24T19:58:48-03:00"
+      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3320,
-      "ultima_verificacao": "2026-06-24T19:58:48-03:00"
+      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 944,
-      "ultima_verificacao": "2026-06-24T19:58:48-03:00"
+      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7077,
-      "ultima_verificacao": "2026-06-24T19:58:48-03:00"
+      "ultimo_numero": 7078,
+      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12780,
-      "ultima_verificacao": "2026-06-24T19:58:48-03:00"
+      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4927,
-      "ultima_verificacao": "2026-06-24T19:58:48-03:00"
+      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14018,
-      "ultima_verificacao": "2026-06-24T19:58:48-03:00"
+      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
     }
   },
   "protocolos": {
@@ -2036,6 +2036,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007078A",
+        "RE": "RE8163006755A",
+        "numgEdificacao": 363188,
+        "Nome_Edificacao": "SOLARO",
+        "Logradouro": "RUA 300 (FRENTE, RUA 298 (FUNDOS)",
+        "Numero": "44",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-25T07:32:30-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007077A",
         "RE": "RE8163000176A",
         "numgEdificacao": 10512,
@@ -3601,10 +3612,10 @@
     "Gaspar": 29,
     "Porto Belo": 39,
     "Nova Trento": 28,
-    "Itapema": 30,
+    "Itapema": 31,
     "Blumenau": 38,
     "Navegantes": 30,
     "Itajai": 43
   },
-  "total_geral": 320
+  "total_geral": 321
 }

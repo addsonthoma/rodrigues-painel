@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-24T19:51:35-03:00",
+  "timestamp": "2026-06-25T07:24:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 702,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-24T19:51:35-03:00"
+      "ultima_verificacao": "2026-06-25T07:24:57-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-24T19:51:35-03:00"
+      "ultima_verificacao": "2026-06-25T07:24:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 54,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-24T19:51:35-03:00"
+      "ultima_verificacao": "2026-06-25T07:24:57-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 466,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-24T19:51:35-03:00"
+      "ultima_verificacao": "2026-06-25T07:24:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 392,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-24T19:51:35-03:00"
+      "ultima_verificacao": "2026-06-25T07:24:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 359,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-24T19:51:35-03:00"
+      "ultima_verificacao": "2026-06-25T07:24:57-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 832,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-24T19:51:35-03:00"
+      "ultima_verificacao": "2026-06-25T07:24:57-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 804,
+      "ultimo_numero": 805,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-24T19:51:35-03:00"
+      "ultima_verificacao": "2026-06-25T07:24:57-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 247,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-24T19:51:35-03:00"
+      "ultima_verificacao": "2026-06-25T07:24:57-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 857,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-24T19:51:35-03:00"
+      "ultima_verificacao": "2026-06-25T07:24:57-03:00"
     }
   },
   "afs": {
@@ -5040,6 +5040,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000805A/26",
+        "Tipo": "AF",
+        "RE": "RE8047003931A",
+        "Nome_Edificacao": "VILA DO FAROL CONST E INCORP LTDA",
+        "Logradouro": "Rua São Paulo",
+        "Numero": "1773",
+        "Bairro": "BLUMENAU - ITOUPAVA SECA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-25T07:24:57-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000804A/26",
         "Tipo": "AF",
         "RE": "RE8047001159A",
@@ -7693,9 +7704,9 @@
     "Porto Belo": 101,
     "Nova Trento": 49,
     "Itapema": 99,
-    "Blumenau": 91,
+    "Blumenau": 92,
     "Navegantes": 43,
     "Itajai": 106
   },
-  "total_geral": 691
+  "total_geral": 692
 }
