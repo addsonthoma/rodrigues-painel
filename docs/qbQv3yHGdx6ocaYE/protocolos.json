@@ -1,59 +1,92 @@
 {
-  "timestamp": "2026-06-25T07:32:30-03:00",
+  "timestamp": "2026-06-25T15:40:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 7996,
-      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
+      "ultimo_numero": 7999,
+      "ultima_verificacao": "2026-06-25T15:40:27-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
+      "ultima_verificacao": "2026-06-25T15:40:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
+      "ultima_verificacao": "2026-06-25T15:40:27-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3795,
-      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
+      "ultima_verificacao": "2026-06-25T15:40:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3320,
-      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
+      "ultima_verificacao": "2026-06-25T15:40:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 944,
-      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
+      "ultima_verificacao": "2026-06-25T15:40:27-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7078,
-      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
+      "ultimo_numero": 7079,
+      "ultima_verificacao": "2026-06-25T15:40:27-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12780,
-      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
+      "ultimo_numero": 12783,
+      "ultima_verificacao": "2026-06-25T15:40:27-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4927,
-      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
+      "ultimo_numero": 4928,
+      "ultima_verificacao": "2026-06-25T15:40:27-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14018,
-      "ultima_verificacao": "2026-06-25T07:32:30-03:00"
+      "ultimo_numero": 14021,
+      "ultima_verificacao": "2026-06-25T15:40:27-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055007999A",
+        "RE": "RE8055003727A",
+        "numgEdificacao": 240916,
+        "Nome_Edificacao": "ADEMAR REUTER",
+        "Logradouro": "Rua João Tormena",
+        "Numero": "411",
+        "Bairro": "BRUSQUE - POÇO FUNDO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-25T15:40:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007998A",
+        "RE": "RE8055005187A",
+        "numgEdificacao": 295872,
+        "Nome_Edificacao": "UNIBOX EMPREENDIMENTOS LTDA - UP",
+        "Logradouro": "Rua Mathias Moritz",
+        "Numero": "",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-25T15:40:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055007997A",
+        "RE": "RE8055006746A",
+        "numgEdificacao": 363536,
+        "Nome_Edificacao": "F & F ARTIGOS DE DECORACAO E ILUMINACAO LTDA",
+        "Logradouro": "FELIPE SCHMIDT",
+        "Numero": "540",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-25T15:40:27-03:00"
+      },
       {
         "CodigoProtocolo": "A8055007996A",
         "RE": "RE8055006745A",
@@ -2036,6 +2069,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007079A",
+        "RE": "RE8163006763A",
+        "numgEdificacao": 363573,
+        "Nome_Edificacao": "Pé de Amora - Jardim Brincante e Casa de Festas",
+        "Logradouro": "900",
+        "Numero": "820",
+        "Bairro": "ITAPEMA - SERTAOZINHO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-25T15:40:27-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007078A",
         "RE": "RE8163006755A",
         "numgEdificacao": 363188,
@@ -2378,6 +2422,39 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012783A",
+        "RE": "RE8047000265A",
+        "numgEdificacao": 8354,
+        "Nome_Edificacao": "Banco Santander",
+        "Logradouro": "Rua 15 de Novembro",
+        "Numero": "714",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-25T15:40:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012782A",
+        "RE": "RE8047007620A",
+        "numgEdificacao": 215829,
+        "Nome_Edificacao": "ILHA GRANDE PARTICIPACOES LTDA",
+        "Logradouro": "RUA FRANZ VOLLES",
+        "Numero": "145",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-25T15:40:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012781A",
+        "RE": "RE8047011984A",
+        "numgEdificacao": 363545,
+        "Nome_Edificacao": "FIEDLER AUTOMAÇÃO INDUSTRIAL LTDA",
+        "Logradouro": "R SAO PAULO",
+        "Numero": "2661",
+        "Bairro": "BLUMENAU - ITOUPAVA SECA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-25T15:40:27-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012780A",
         "RE": "RE8047002146A",
@@ -2799,6 +2876,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004928A",
+        "RE": "RE8221004082A",
+        "numgEdificacao": 363551,
+        "Nome_Edificacao": "Gran Marine",
+        "Logradouro": "AVENIDA PREFEITO CIRINO ADOLFO CABRAL",
+        "Numero": "9698",
+        "Bairro": "NAVEGANTES - Gravatá",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-25T15:40:27-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004927A",
         "RE": "RE8221004056A",
         "numgEdificacao": 361804,
@@ -3130,6 +3218,39 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014021A",
+        "RE": "RE8161013694A",
+        "numgEdificacao": 363589,
+        "Nome_Edificacao": "FAST PARTICIPAÇÕES LTDA",
+        "Logradouro": "Avenida José Medeiros de Vieira",
+        "Numero": "588",
+        "Bairro": "ITAJAÍ - PRAIA BRAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-25T15:40:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014020A",
+        "RE": "RE8161008969A",
+        "numgEdificacao": 238956,
+        "Nome_Edificacao": "LOTISA ART TOWER EMREENDIMENTOS IMOBILIARIOS SPE LTDA",
+        "Logradouro": "RUA URUGUAI",
+        "Numero": "",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-25T15:40:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014019A",
+        "RE": "RE8161013637A",
+        "numgEdificacao": 361883,
+        "Nome_Edificacao": "LUIZ TEIXEIRA DA COSTA",
+        "Logradouro": "RUA ESTEFANO JOSE VANOLLI",
+        "Numero": "1701",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-25T15:40:27-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014018A",
         "RE": "RE8161000766A",
@@ -3606,16 +3727,16 @@
     ]
   },
   "totais": {
-    "Brusque": 32,
+    "Brusque": 35,
     "Botuvera": 26,
     "Guabiruba": 25,
     "Gaspar": 29,
     "Porto Belo": 39,
     "Nova Trento": 28,
-    "Itapema": 31,
-    "Blumenau": 38,
-    "Navegantes": 30,
-    "Itajai": 43
+    "Itapema": 32,
+    "Blumenau": 41,
+    "Navegantes": 31,
+    "Itajai": 46
   },
-  "total_geral": 321
+  "total_geral": 332
 }
