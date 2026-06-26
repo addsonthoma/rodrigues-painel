@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-06-26T07:38:50-03:00",
+  "timestamp": "2026-06-26T14:18:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 84,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-26T07:38:50-03:00"
+      "ultima_verificacao": "2026-06-26T14:18:56-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-26T07:38:50-03:00"
+      "ultima_verificacao": "2026-06-26T14:18:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-26T07:38:50-03:00"
+      "ultima_verificacao": "2026-06-26T14:18:56-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-26T07:38:50-03:00"
+      "ultima_verificacao": "2026-06-26T14:18:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 80,
+      "ultimo_numero": 81,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-26T07:38:50-03:00"
+      "ultima_verificacao": "2026-06-26T14:18:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 104,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-26T07:38:50-03:00"
+      "ultima_verificacao": "2026-06-26T14:18:56-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 142,
+      "ultimo_numero": 143,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-26T07:38:50-03:00"
+      "ultima_verificacao": "2026-06-26T14:18:56-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 174,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-26T07:38:50-03:00"
+      "ultima_verificacao": "2026-06-26T14:18:56-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-26T07:38:50-03:00"
+      "ultima_verificacao": "2026-06-26T14:18:56-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 305,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-26T07:38:50-03:00"
+      "ultima_verificacao": "2026-06-26T14:18:56-03:00"
     }
   },
   "multas": {
@@ -1169,6 +1169,16 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000143A/26",
+        "RE": "RE8163005034A",
+        "Nome_Edificacao": "Studio Camila Massarolli",
+        "Logradouro": "RUA 1200",
+        "Numero": "299",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-26T14:18:56-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000142A/26",
         "RE": "RE8163004729A",
         "Nome_Edificacao": "COMERCIAL  DUTRA",
@@ -1758,6 +1768,16 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "MUL8265000081A/26",
+        "RE": "RE8265001690A",
+        "Nome_Edificacao": "ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE PORTO BELO",
+        "Logradouro": "governador celso ramos",
+        "Numero": "3016",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-26T14:18:56-03:00"
+      },
+      {
         "CodigoAuto": "MUL8265000079A/26",
         "RE": "RE8265001466A",
         "Nome_Edificacao": "JEAN CESAR DE MELO",
@@ -1978,13 +1998,27 @@
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 23,
-    "Itapema": 25,
+    "Itapema": 26,
     "Navegantes": 17,
     "Nova Trento": 21,
-    "Porto Belo": 23
+    "Porto Belo": 24
   },
-  "total_geral": 201,
+  "total_geral": 203,
   "eventos_recentes": [
+    {
+      "ts": "2026-06-26T14:18:56-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000143A/26",
+      "nome": "Studio Camila Massarolli",
+      "re": "RE8163005034A"
+    },
+    {
+      "ts": "2026-06-26T14:18:56-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000081A/26",
+      "nome": "ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE PORTO BELO",
+      "re": "RE8265001690A"
+    },
     {
       "ts": "2026-06-24T15:22:42-03:00",
       "cidade": "Blumenau",
@@ -2054,13 +2088,6 @@
       "codigo": "MUL8047000165A/26",
       "nome": "MONTIBELER EQUIPAMENTOS LTDA EPP",
       "re": "RE8047011359A"
-    },
-    {
-      "ts": "2026-06-19T13:20:02-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000139A/26",
-      "nome": "Hotspot English School",
-      "re": "RE8163006625A"
     }
   ]
 }
