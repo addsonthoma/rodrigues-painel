@@ -1,79 +1,119 @@
 {
-  "timestamp": "2026-06-27T03:33:12-03:00",
+  "timestamp": "2026-06-27T07:54:02-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 84,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-27T03:33:12-03:00"
+      "ultima_verificacao": "2026-06-27T07:54:02-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-27T03:33:12-03:00"
+      "ultima_verificacao": "2026-06-27T07:54:02-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-27T03:33:12-03:00"
+      "ultima_verificacao": "2026-06-27T07:54:02-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-27T03:33:12-03:00"
+      "ultima_verificacao": "2026-06-27T07:54:02-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 81,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-27T03:33:12-03:00"
+      "ultima_verificacao": "2026-06-27T07:54:02-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 104,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-27T03:33:12-03:00"
+      "ultima_verificacao": "2026-06-27T07:54:02-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 143,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-27T03:33:12-03:00"
+      "ultima_verificacao": "2026-06-27T07:54:02-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 174,
+      "ultimo_numero": 178,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-27T03:33:12-03:00"
+      "ultima_verificacao": "2026-06-27T07:54:02-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-27T03:33:12-03:00"
+      "ultima_verificacao": "2026-06-27T07:54:02-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 305,
+      "ultimo_numero": 308,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-27T03:33:12-03:00"
+      "ultima_verificacao": "2026-06-27T07:54:02-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000175A/26",
+        "RE": "RE8047004736A",
+        "Nome_Edificacao": "VENEZA-COND. RESIDENCIAL",
+        "Logradouro": "Rua 11 de Junho",
+        "Numero": "73",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-27T07:54:02-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000176A/26",
+        "RE": "RE8047007712A",
+        "Nome_Edificacao": "AESA PART E NEGOC IMOB LTDA",
+        "Logradouro": "RUA REPUBLICA ARGENTINA",
+        "Numero": "2499",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-27T07:54:02-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000177A/26",
+        "RE": "RE8047005500A",
+        "Nome_Edificacao": "CAROLINA ROUSEAU ABAGE",
+        "Logradouro": "ALAMEDA RIO BRANCO",
+        "Numero": "390",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-27T07:54:02-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000178A/26",
+        "RE": "RE8047003938A",
+        "Nome_Edificacao": "MARIA SABEL",
+        "Logradouro": "RUA FRANCISCO VAHLDIECK",
+        "Numero": "1540",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-27T07:54:02-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000174A/26",
         "RE": "RE8047006872A",
@@ -953,6 +993,36 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000306A/26",
+        "RE": "RE8161005328A",
+        "Nome_Edificacao": "JOAO JOSE FERREIRA",
+        "Logradouro": "R ARQUITETO NILSON EDSON DOS SANTOS",
+        "Numero": "88",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-27T07:54:02-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000307A/26",
+        "RE": "RE8161009526A",
+        "Nome_Edificacao": "RESIDENCIAL FISCHER",
+        "Logradouro": "RUA EREDES SERPA",
+        "Numero": "1175",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-27T07:54:02-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000308A/26",
+        "RE": "RE8161000623A",
+        "Nome_Edificacao": "CAPSi",
+        "Logradouro": "Rua Alfredo Trompowski",
+        "Numero": "405",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-27T07:54:02-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000304A/26",
         "RE": "RE8161009554A",
@@ -1992,19 +2062,68 @@
     ]
   },
   "totais": {
-    "Blumenau": 39,
+    "Blumenau": 43,
     "Botuvera": 3,
     "Brusque": 29,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 23,
+    "Itajai": 26,
     "Itapema": 26,
     "Navegantes": 17,
     "Nova Trento": 21,
     "Porto Belo": 24
   },
-  "total_geral": 203,
+  "total_geral": 210,
   "eventos_recentes": [
+    {
+      "ts": "2026-06-27T07:54:02-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000308A/26",
+      "nome": "CAPSi",
+      "re": "RE8161000623A"
+    },
+    {
+      "ts": "2026-06-27T07:54:02-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000307A/26",
+      "nome": "RESIDENCIAL FISCHER",
+      "re": "RE8161009526A"
+    },
+    {
+      "ts": "2026-06-27T07:54:02-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000306A/26",
+      "nome": "JOAO JOSE FERREIRA",
+      "re": "RE8161005328A"
+    },
+    {
+      "ts": "2026-06-27T07:54:02-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000178A/26",
+      "nome": "MARIA SABEL",
+      "re": "RE8047003938A"
+    },
+    {
+      "ts": "2026-06-27T07:54:02-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000177A/26",
+      "nome": "CAROLINA ROUSEAU ABAGE",
+      "re": "RE8047005500A"
+    },
+    {
+      "ts": "2026-06-27T07:54:02-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000176A/26",
+      "nome": "AESA PART E NEGOC IMOB LTDA",
+      "re": "RE8047007712A"
+    },
+    {
+      "ts": "2026-06-27T07:54:02-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000175A/26",
+      "nome": "VENEZA-COND. RESIDENCIAL",
+      "re": "RE8047004736A"
+    },
     {
       "ts": "2026-06-26T14:18:56-03:00",
       "cidade": "Itapema",

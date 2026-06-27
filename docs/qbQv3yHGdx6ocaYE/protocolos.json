@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-06-27T06:12:52-03:00",
+  "timestamp": "2026-06-27T08:02:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8003,
-      "ultima_verificacao": "2026-06-27T06:12:52-03:00"
+      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-06-27T06:12:52-03:00"
+      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-27T06:12:52-03:00"
+      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3796,
-      "ultima_verificacao": "2026-06-27T06:12:52-03:00"
+      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3322,
-      "ultima_verificacao": "2026-06-27T06:12:52-03:00"
+      "ultimo_numero": 3324,
+      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 944,
-      "ultima_verificacao": "2026-06-27T06:12:52-03:00"
+      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7082,
-      "ultima_verificacao": "2026-06-27T06:12:52-03:00"
+      "ultimo_numero": 7085,
+      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12785,
-      "ultima_verificacao": "2026-06-27T06:12:52-03:00"
+      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4930,
-      "ultima_verificacao": "2026-06-27T06:12:52-03:00"
+      "ultimo_numero": 4934,
+      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14024,
-      "ultima_verificacao": "2026-06-27T06:12:52-03:00"
+      "ultimo_numero": 14029,
+      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
     }
   },
   "protocolos": {
@@ -1383,6 +1383,28 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003324A",
+        "RE": "RE8265002789A",
+        "numgEdificacao": 363591,
+        "Nome_Edificacao": "EDIFICAÇÃO MISTA - MARCO AURELIO JAQUES",
+        "Logradouro": "AV. SENADOR ATILIO FONTANA",
+        "Numero": "1880",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003323A",
+        "RE": "RE8265002538A",
+        "numgEdificacao": 331231,
+        "Nome_Edificacao": "Aquarella Residence",
+        "Logradouro": "RUA MANOEL SERGIO PEREIRA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003322A",
         "RE": "RE8265002783A",
         "numgEdificacao": 363027,
@@ -2145,6 +2167,39 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007085A",
+        "RE": "RE8163006738A",
+        "numgEdificacao": 362291,
+        "Nome_Edificacao": "58.900.373 CAMILA MARYEL DE SOUZA",
+        "Logradouro": "R 902F",
+        "Numero": "22",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007084A",
+        "RE": "RE8163006772A",
+        "numgEdificacao": 363742,
+        "Nome_Edificacao": "JOSE BENICIO SOARES",
+        "Logradouro": "RUA 902C",
+        "Numero": "914",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007083A",
+        "RE": "RE8163006769A",
+        "numgEdificacao": 363729,
+        "Nome_Edificacao": "LILIANE MARIA DE JESUS PIRES",
+        "Logradouro": "RUA 902 B",
+        "Numero": "280",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007082A",
         "RE": "RE8163005383A",
@@ -3008,6 +3063,50 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004934A",
+        "RE": "RE8221004089A",
+        "numgEdificacao": 363727,
+        "Nome_Edificacao": "VISAO E OTICA LTDA ME",
+        "Logradouro": "Rua Paulina Borba Vieira",
+        "Numero": "81",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004933A",
+        "RE": "RE8221004088A",
+        "numgEdificacao": 363719,
+        "Nome_Edificacao": "RESIDENCIAL ZAFIRA",
+        "Logradouro": "Rua Antonio José Batista",
+        "Numero": "330",
+        "Bairro": "NAVEGANTES - São Domingos",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004932A",
+        "RE": "RE8221004087A",
+        "numgEdificacao": 363715,
+        "Nome_Edificacao": "FRATELLI ENGENHARIA E CONSTRUÇÕES LTDA",
+        "Logradouro": "RUA MIGUEL NARCISO",
+        "Numero": "496",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004931A",
+        "RE": "RE8221004086A",
+        "numgEdificacao": 363710,
+        "Nome_Edificacao": "W.F. CONSTRUTORA E INCORPORADORA LTDA",
+        "Logradouro": "RUA CARLOS BOOS",
+        "Numero": "1286",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004930A",
         "RE": "RE8221004084A",
         "numgEdificacao": 363667,
@@ -3372,6 +3471,61 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014029A",
+        "RE": "RE8161012525A",
+        "numgEdificacao": 330389,
+        "Nome_Edificacao": "AUTO VALLE VEÍCULOS LTDA",
+        "Logradouro": "RUA HERBERT KREMER",
+        "Numero": "328",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014028A",
+        "RE": "RE8161013697A",
+        "numgEdificacao": 363704,
+        "Nome_Edificacao": "Coast Way Construtora e Incorporadora SPA",
+        "Logradouro": "RUA JOAO ANTONIO DE OLIVEIRA",
+        "Numero": "97",
+        "Bairro": "ITAJAÍ - FAZENDINHA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014027A",
+        "RE": "RE8161013408A",
+        "numgEdificacao": 355417,
+        "Nome_Edificacao": "DAGNONI ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Antônio Bento da Silva",
+        "Numero": "207",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014026A",
+        "RE": "RE8161013696A",
+        "numgEdificacao": 363693,
+        "Nome_Edificacao": "EDSON DA SILVA JUNIOR",
+        "Logradouro": "RUA DAS ACACIAS",
+        "Numero": "125",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014025A",
+        "RE": "RE8161013225A",
+        "numgEdificacao": 350273,
+        "Nome_Edificacao": "59.938.592 THIAGO RODRIGUES",
+        "Logradouro": "Agenor Cesário de Aragão",
+        "Numero": "105",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-27T08:02:34-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014024A",
         "RE": "RE8161001791A",
@@ -3918,12 +4072,12 @@
     "Botuvera": 26,
     "Guabiruba": 25,
     "Gaspar": 30,
-    "Porto Belo": 41,
+    "Porto Belo": 43,
     "Nova Trento": 28,
-    "Itapema": 35,
+    "Itapema": 38,
     "Blumenau": 43,
-    "Navegantes": 33,
-    "Itajai": 49
+    "Navegantes": 37,
+    "Itajai": 54
   },
-  "total_geral": 349
+  "total_geral": 363
 }
