@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-06-27T08:02:34-03:00",
+  "timestamp": "2026-06-27T08:33:10-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8003,
-      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
+      "ultimo_numero": 8004,
+      "ultima_verificacao": "2026-06-27T08:33:10-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
+      "ultima_verificacao": "2026-06-27T08:33:10-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
+      "ultima_verificacao": "2026-06-27T08:33:10-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3796,
-      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
+      "ultima_verificacao": "2026-06-27T08:33:10-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3324,
-      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
+      "ultima_verificacao": "2026-06-27T08:33:10-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 944,
-      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
+      "ultima_verificacao": "2026-06-27T08:33:10-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7085,
-      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
+      "ultima_verificacao": "2026-06-27T08:33:10-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12785,
-      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
+      "ultima_verificacao": "2026-06-27T08:33:10-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4934,
-      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
+      "ultima_verificacao": "2026-06-27T08:33:10-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14029,
-      "ultima_verificacao": "2026-06-27T08:02:34-03:00"
+      "ultima_verificacao": "2026-06-27T08:33:10-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008004A",
+        "RE": "RE8055006206A",
+        "numgEdificacao": 330960,
+        "Nome_Edificacao": "L.J ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Bruno Jönk",
+        "Numero": "130",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-27T08:33:10-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008003A",
         "RE": "RE8055002772A",
@@ -4068,7 +4079,7 @@
     ]
   },
   "totais": {
-    "Brusque": 39,
+    "Brusque": 40,
     "Botuvera": 26,
     "Guabiruba": 25,
     "Gaspar": 30,
@@ -4079,5 +4090,5 @@
     "Navegantes": 37,
     "Itajai": 54
   },
-  "total_geral": 363
+  "total_geral": 364
 }
