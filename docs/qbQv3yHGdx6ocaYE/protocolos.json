@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-06-27T19:29:50-03:00",
+  "timestamp": "2026-06-27T21:18:47-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8004,
-      "ultima_verificacao": "2026-06-27T19:29:50-03:00"
+      "ultima_verificacao": "2026-06-27T21:18:47-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-06-27T19:29:50-03:00"
+      "ultima_verificacao": "2026-06-27T21:18:47-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-27T19:29:50-03:00"
+      "ultima_verificacao": "2026-06-27T21:18:47-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3796,
-      "ultima_verificacao": "2026-06-27T19:29:50-03:00"
+      "ultima_verificacao": "2026-06-27T21:18:47-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3324,
-      "ultima_verificacao": "2026-06-27T19:29:50-03:00"
+      "ultima_verificacao": "2026-06-27T21:18:47-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 944,
-      "ultima_verificacao": "2026-06-27T19:29:50-03:00"
+      "ultima_verificacao": "2026-06-27T21:18:47-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7085,
-      "ultima_verificacao": "2026-06-27T19:29:50-03:00"
+      "ultima_verificacao": "2026-06-27T21:18:47-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12785,
-      "ultima_verificacao": "2026-06-27T19:29:50-03:00"
+      "ultima_verificacao": "2026-06-27T21:18:47-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4934,
-      "ultima_verificacao": "2026-06-27T19:29:50-03:00"
+      "ultima_verificacao": "2026-06-27T21:18:47-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14031,
-      "ultima_verificacao": "2026-06-27T19:29:50-03:00"
+      "ultimo_numero": 14032,
+      "ultima_verificacao": "2026-06-27T21:18:47-03:00"
     }
   },
   "protocolos": {
@@ -3483,6 +3483,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014032A",
+        "RE": "RE8161013701A",
+        "numgEdificacao": 363770,
+        "Nome_Edificacao": "Sala Comercial",
+        "Logradouro": "R ARQUITETO LUIZ AUGUSTO TROJAN",
+        "Numero": "748",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-06-27T21:18:47-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014031A",
         "RE": "RE8161013701A",
         "numgEdificacao": 363770,
@@ -4110,7 +4121,7 @@
     "Itapema": 38,
     "Blumenau": 43,
     "Navegantes": 37,
-    "Itajai": 56
+    "Itajai": 57
   },
-  "total_geral": 366
+  "total_geral": 367
 }
