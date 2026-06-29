@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-06-28T19:43:11-03:00",
+  "timestamp": "2026-06-28T21:32:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8004,
-      "ultima_verificacao": "2026-06-28T19:43:11-03:00"
+      "ultimo_numero": 8005,
+      "ultima_verificacao": "2026-06-28T21:32:26-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-06-28T19:43:11-03:00"
+      "ultima_verificacao": "2026-06-28T21:32:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-28T19:43:11-03:00"
+      "ultima_verificacao": "2026-06-28T21:32:26-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3796,
-      "ultima_verificacao": "2026-06-28T19:43:11-03:00"
+      "ultima_verificacao": "2026-06-28T21:32:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3324,
-      "ultima_verificacao": "2026-06-28T19:43:11-03:00"
+      "ultima_verificacao": "2026-06-28T21:32:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 944,
-      "ultima_verificacao": "2026-06-28T19:43:11-03:00"
+      "ultima_verificacao": "2026-06-28T21:32:26-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7085,
-      "ultima_verificacao": "2026-06-28T19:43:11-03:00"
+      "ultimo_numero": 7086,
+      "ultima_verificacao": "2026-06-28T21:32:26-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12785,
-      "ultima_verificacao": "2026-06-28T19:43:11-03:00"
+      "ultima_verificacao": "2026-06-28T21:32:26-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4934,
-      "ultima_verificacao": "2026-06-28T19:43:11-03:00"
+      "ultimo_numero": 4935,
+      "ultima_verificacao": "2026-06-28T21:32:26-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14032,
-      "ultima_verificacao": "2026-06-28T19:43:11-03:00"
+      "ultima_verificacao": "2026-06-28T21:32:26-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008005A",
+        "RE": "RE8055006748A",
+        "numgEdificacao": 363773,
+        "Nome_Edificacao": "NH EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+        "Logradouro": "Rodovia Ivo Silveira",
+        "Numero": "",
+        "Bairro": "BRUSQUE - Bateas",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-28T21:32:26-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008004A",
         "RE": "RE8055006206A",
@@ -2179,6 +2190,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007086A",
+        "RE": "RE8163003885A",
+        "numgEdificacao": 206256,
+        "Nome_Edificacao": "GRAND VIEW RESIDENCE",
+        "Logradouro": "RUA 414 ESQ COM A RUA 412 A e 412",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-28T21:32:26-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007085A",
         "RE": "RE8163006738A",
         "numgEdificacao": 362291,
@@ -3073,6 +3095,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoProtocolo": "A8221004935A",
+        "RE": "RE8221004091A",
+        "numgEdificacao": 363771,
+        "Nome_Edificacao": "Mario Luiz Schmidt Kreibich",
+        "Logradouro": "Rua Hercílio Rocha Weber",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-28T21:32:26-03:00"
+      },
       {
         "CodigoProtocolo": "A8221004934A",
         "RE": "RE8221004089A",
@@ -4112,16 +4145,16 @@
     ]
   },
   "totais": {
-    "Brusque": 40,
+    "Brusque": 41,
     "Botuvera": 26,
     "Guabiruba": 25,
     "Gaspar": 30,
     "Porto Belo": 43,
     "Nova Trento": 28,
-    "Itapema": 38,
+    "Itapema": 39,
     "Blumenau": 43,
-    "Navegantes": 37,
+    "Navegantes": 38,
     "Itajai": 57
   },
-  "total_geral": 367
+  "total_geral": 370
 }

@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-28T17:20:10-03:00",
+  "timestamp": "2026-06-28T21:24:51-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 714,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-28T17:20:10-03:00"
+      "ultima_verificacao": "2026-06-28T21:24:51-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 24,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-28T17:20:10-03:00"
+      "ultima_verificacao": "2026-06-28T21:24:51-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 54,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-28T17:20:10-03:00"
+      "ultima_verificacao": "2026-06-28T21:24:51-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 468,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-28T17:20:10-03:00"
+      "ultima_verificacao": "2026-06-28T21:24:51-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 398,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-28T17:20:10-03:00"
+      "ultima_verificacao": "2026-06-28T21:24:51-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 361,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-28T17:20:10-03:00"
+      "ultima_verificacao": "2026-06-28T21:24:51-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 869,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-28T17:20:10-03:00"
+      "ultima_verificacao": "2026-06-28T21:24:51-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 815,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-28T17:20:10-03:00"
+      "ultima_verificacao": "2026-06-28T21:24:51-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 251,
+      "ultimo_numero": 252,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-28T17:20:10-03:00"
+      "ultima_verificacao": "2026-06-28T21:24:51-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 862,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-06-28T17:20:10-03:00"
+      "ultima_verificacao": "2026-06-28T21:24:51-03:00"
     }
   },
   "afs": {
@@ -6813,6 +6813,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000252A/26",
+        "Tipo": "AF",
+        "RE": "RE8221001796A",
+        "Nome_Edificacao": "AEROPORTO FLAT HOTEL",
+        "Logradouro": "Rua Vereador Nereu Liberato Nunes",
+        "Numero": "2510",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-28T21:24:51-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000251A/26",
         "Tipo": "AF",
         "RE": "RE8221001169A",
@@ -8563,8 +8574,8 @@
     "Nova Trento": 51,
     "Itapema": 136,
     "Blumenau": 102,
-    "Navegantes": 47,
+    "Navegantes": 48,
     "Itajai": 111
   },
-  "total_geral": 770
+  "total_geral": 771
 }
