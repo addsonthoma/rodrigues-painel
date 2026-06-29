@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-06-29T04:23:35-03:00",
+  "timestamp": "2026-06-29T09:25:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8005,
-      "ultima_verificacao": "2026-06-29T04:23:35-03:00"
+      "ultima_verificacao": "2026-06-29T09:25:23-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-06-29T04:23:35-03:00"
+      "ultima_verificacao": "2026-06-29T09:25:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-29T04:23:35-03:00"
+      "ultima_verificacao": "2026-06-29T09:25:23-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3796,
-      "ultima_verificacao": "2026-06-29T04:23:35-03:00"
+      "ultima_verificacao": "2026-06-29T09:25:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3324,
-      "ultima_verificacao": "2026-06-29T04:23:35-03:00"
+      "ultima_verificacao": "2026-06-29T09:25:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 944,
-      "ultima_verificacao": "2026-06-29T04:23:35-03:00"
+      "ultima_verificacao": "2026-06-29T09:25:23-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7086,
-      "ultima_verificacao": "2026-06-29T04:23:35-03:00"
+      "ultimo_numero": 7087,
+      "ultima_verificacao": "2026-06-29T09:25:23-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12785,
-      "ultima_verificacao": "2026-06-29T04:23:35-03:00"
+      "ultima_verificacao": "2026-06-29T09:25:23-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4935,
-      "ultima_verificacao": "2026-06-29T04:23:35-03:00"
+      "ultima_verificacao": "2026-06-29T09:25:23-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14032,
-      "ultima_verificacao": "2026-06-29T04:23:35-03:00"
+      "ultima_verificacao": "2026-06-29T09:25:23-03:00"
     }
   },
   "protocolos": {
@@ -2190,6 +2190,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007087A",
+        "RE": "RE8163006773A",
+        "numgEdificacao": 363779,
+        "Nome_Edificacao": "RESIDENCIAL RIGO I",
+        "Logradouro": "RUA 802 E",
+        "Numero": "151",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-06-29T09:25:23-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007086A",
         "RE": "RE8163003885A",
         "numgEdificacao": 206256,
@@ -4151,10 +4162,10 @@
     "Gaspar": 30,
     "Porto Belo": 43,
     "Nova Trento": 28,
-    "Itapema": 39,
+    "Itapema": 40,
     "Blumenau": 43,
     "Navegantes": 38,
     "Itajai": 57
   },
-  "total_geral": 370
+  "total_geral": 371
 }
