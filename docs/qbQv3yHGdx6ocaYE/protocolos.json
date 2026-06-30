@@ -1,59 +1,81 @@
 {
-  "timestamp": "2026-06-29T22:26:53-03:00",
+  "timestamp": "2026-06-30T00:15:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8007,
-      "ultima_verificacao": "2026-06-29T22:26:53-03:00"
+      "ultimo_numero": 8009,
+      "ultima_verificacao": "2026-06-30T00:15:19-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-06-29T22:26:53-03:00"
+      "ultima_verificacao": "2026-06-30T00:15:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1500,
-      "ultima_verificacao": "2026-06-29T22:26:53-03:00"
+      "ultima_verificacao": "2026-06-30T00:15:19-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3797,
-      "ultima_verificacao": "2026-06-29T22:26:53-03:00"
+      "ultima_verificacao": "2026-06-30T00:15:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3324,
-      "ultima_verificacao": "2026-06-29T22:26:53-03:00"
+      "ultimo_numero": 3327,
+      "ultima_verificacao": "2026-06-30T00:15:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 944,
-      "ultima_verificacao": "2026-06-29T22:26:53-03:00"
+      "ultima_verificacao": "2026-06-30T00:15:19-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7087,
-      "ultima_verificacao": "2026-06-29T22:26:53-03:00"
+      "ultima_verificacao": "2026-06-30T00:15:19-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12786,
-      "ultima_verificacao": "2026-06-29T22:26:53-03:00"
+      "ultimo_numero": 12787,
+      "ultima_verificacao": "2026-06-30T00:15:19-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4935,
-      "ultima_verificacao": "2026-06-29T22:26:53-03:00"
+      "ultimo_numero": 4937,
+      "ultima_verificacao": "2026-06-30T00:15:19-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14032,
-      "ultima_verificacao": "2026-06-29T22:26:53-03:00"
+      "ultima_verificacao": "2026-06-30T00:15:19-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008009A",
+        "RE": "RE8055006750A",
+        "numgEdificacao": 363841,
+        "Nome_Edificacao": "JTHA COMERCIO DE AUTOMÓVEIS E CONSTRUTORA EIRELI",
+        "Logradouro": "Rua Itajaí",
+        "Numero": "",
+        "Bairro": "BRUSQUE - Limoeiro",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-30T00:15:19-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008008A",
+        "RE": "RE8055003273A",
+        "numgEdificacao": 221473,
+        "Nome_Edificacao": "NB TEXTIL - DOM JOAQUIM",
+        "Logradouro": "RUA BOTUVERÁ (SC-468)",
+        "Numero": "666",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-06-30T00:15:19-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008007A",
         "RE": "RE8055006502A",
@@ -1438,6 +1460,39 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003327A",
+        "RE": "RE8265002769A",
+        "numgEdificacao": 362230,
+        "Nome_Edificacao": "CIRCUITO DE ESPORTE DE PRAIA CATARINENSE",
+        "Logradouro": "R PEDRO CLAUDINO RAMOS",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-30T00:15:19-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003326A",
+        "RE": "RE8265002759A",
+        "numgEdificacao": 361738,
+        "Nome_Edificacao": "ABSOLUTO RESIDENCE",
+        "Logradouro": "Av. Francisco Severiano dos Santos",
+        "Numero": "",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-30T00:15:19-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003325A",
+        "RE": "RE8265002646A",
+        "numgEdificacao": 345782,
+        "Nome_Edificacao": "14 BIS HOME CLUB",
+        "Logradouro": "RUA CARLOS GOMES",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-06-30T00:15:19-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003324A",
         "RE": "RE8265002789A",
         "numgEdificacao": 363591,
@@ -2665,6 +2720,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012787A",
+        "RE": "RE8047011990A",
+        "numgEdificacao": 363828,
+        "Nome_Edificacao": "Igreja Evangélica Assembléia de Deus",
+        "Logradouro": "GUSTAVO ZIMMERMANN",
+        "Numero": "6961",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-06-30T00:15:19-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012786A",
         "RE": "RE8047009639A",
         "numgEdificacao": 270860,
@@ -3150,6 +3216,28 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoProtocolo": "A8221004937A",
+        "RE": "RE8221000304A",
+        "numgEdificacao": 21367,
+        "Nome_Edificacao": "CONDOMINIO EMPRESARIAL NAVEGANTES SPE LTDA",
+        "Logradouro": "Rodovia Governador Mário Covas",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-30T00:15:19-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004936A",
+        "RE": "RE8221004092A",
+        "numgEdificacao": 363831,
+        "Nome_Edificacao": "Gran Villagio",
+        "Logradouro": "RUA DOUTOR NELY PICCOLI",
+        "Numero": "130",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-06-30T00:15:19-03:00"
+      },
       {
         "CodigoProtocolo": "A8221004935A",
         "RE": "RE8221004091A",
@@ -4200,16 +4288,16 @@
     ]
   },
   "totais": {
-    "Brusque": 43,
+    "Brusque": 45,
     "Botuvera": 26,
     "Guabiruba": 25,
     "Gaspar": 31,
-    "Porto Belo": 43,
+    "Porto Belo": 46,
     "Nova Trento": 28,
     "Itapema": 40,
-    "Blumenau": 44,
-    "Navegantes": 38,
+    "Blumenau": 45,
+    "Navegantes": 40,
     "Itajai": 57
   },
-  "total_geral": 375
+  "total_geral": 383
 }
