@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-06-30T20:14:34-03:00",
+  "timestamp": "2026-07-01T00:35:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 84,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-30T20:14:34-03:00"
+      "ultima_verificacao": "2026-07-01T00:35:24-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-30T20:14:34-03:00"
+      "ultima_verificacao": "2026-07-01T00:35:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-30T20:14:34-03:00"
+      "ultima_verificacao": "2026-07-01T00:35:24-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-30T20:14:34-03:00"
+      "ultima_verificacao": "2026-07-01T00:35:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 82,
+      "ultimo_numero": 83,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-30T20:14:34-03:00"
+      "ultima_verificacao": "2026-07-01T00:35:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 104,
+      "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-30T20:14:34-03:00"
+      "ultima_verificacao": "2026-07-01T00:35:24-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 146,
+      "ultimo_numero": 148,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-30T20:14:34-03:00"
+      "ultima_verificacao": "2026-07-01T00:35:24-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 178,
+      "ultimo_numero": 179,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-30T20:14:34-03:00"
+      "ultima_verificacao": "2026-07-01T00:35:24-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-30T20:14:34-03:00"
+      "ultima_verificacao": "2026-07-01T00:35:24-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 308,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-06-30T20:14:34-03:00"
+      "ultima_verificacao": "2026-07-01T00:35:24-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000179A/26",
+        "RE": "RE8047006298A",
+        "Nome_Edificacao": "CARLITO KLOCK",
+        "Logradouro": "Rua Espírito Santo",
+        "Numero": "88",
+        "Bairro": "BLUMENAU - VALPARAISO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-01T00:35:24-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000175A/26",
         "RE": "RE8047004736A",
@@ -1239,6 +1249,26 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000147A/26",
+        "RE": "RE8163003653A",
+        "Nome_Edificacao": "COND. RES. ANTONIO CRUZ NETO",
+        "Logradouro": "Rua 265",
+        "Numero": "131",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-01T00:35:24-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000148A/26",
+        "RE": "RE8163006009A",
+        "Nome_Edificacao": "HOTEL BLUE SEA",
+        "Logradouro": "rua 1106",
+        "Numero": "",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-01T00:35:24-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000144A/26",
         "RE": "RE8163006700A",
         "Nome_Edificacao": "Sala comercial",
@@ -1672,6 +1702,16 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000105A/26",
+        "RE": "RE8225000773A",
+        "Nome_Edificacao": "FABRISIO COMANDOLI",
+        "Logradouro": "RODOVIA ESTADUAL SC 108",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-01T00:35:24-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000104A/26",
         "RE": "RE8225000143A",
         "Nome_Edificacao": "Carlos Cesar Batisti",
@@ -1867,6 +1907,16 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "MUL8265000083A/26",
+        "RE": "RE8265002477A",
+        "Nome_Edificacao": "Assembleia de Deus",
+        "Logradouro": "Avenida José Neoli Cruz",
+        "Numero": "975",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-01T00:35:24-03:00"
+      },
       {
         "CodigoAuto": "MUL8265000082A/26",
         "RE": "RE8265002471A",
@@ -2102,19 +2152,54 @@
     ]
   },
   "totais": {
-    "Blumenau": 43,
+    "Blumenau": 44,
     "Botuvera": 3,
     "Brusque": 29,
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 26,
-    "Itapema": 29,
+    "Itapema": 31,
     "Navegantes": 17,
-    "Nova Trento": 21,
-    "Porto Belo": 25
+    "Nova Trento": 22,
+    "Porto Belo": 26
   },
-  "total_geral": 214,
+  "total_geral": 219,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-01T00:35:24-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000179A/26",
+      "nome": "CARLITO KLOCK",
+      "re": "RE8047006298A"
+    },
+    {
+      "ts": "2026-07-01T00:35:24-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000148A/26",
+      "nome": "HOTEL BLUE SEA",
+      "re": "RE8163006009A"
+    },
+    {
+      "ts": "2026-07-01T00:35:24-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000147A/26",
+      "nome": "COND. RES. ANTONIO CRUZ NETO",
+      "re": "RE8163003653A"
+    },
+    {
+      "ts": "2026-07-01T00:35:24-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000105A/26",
+      "nome": "FABRISIO COMANDOLI",
+      "re": "RE8225000773A"
+    },
+    {
+      "ts": "2026-07-01T00:35:24-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000083A/26",
+      "nome": "Assembleia de Deus",
+      "re": "RE8265002477A"
+    },
     {
       "ts": "2026-06-29T09:14:19-03:00",
       "cidade": "Itapema",
