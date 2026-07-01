@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-07-01T16:15:34-03:00",
+  "timestamp": "2026-07-01T18:06:07-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8009,
-      "ultima_verificacao": "2026-07-01T16:15:34-03:00"
+      "ultimo_numero": 8010,
+      "ultima_verificacao": "2026-07-01T18:06:07-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-01T16:15:34-03:00"
+      "ultima_verificacao": "2026-07-01T18:06:07-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-01T16:15:34-03:00"
+      "ultima_verificacao": "2026-07-01T18:06:07-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3798,
-      "ultima_verificacao": "2026-07-01T16:15:34-03:00"
+      "ultimo_numero": 3800,
+      "ultima_verificacao": "2026-07-01T18:06:07-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3329,
-      "ultima_verificacao": "2026-07-01T16:15:34-03:00"
+      "ultima_verificacao": "2026-07-01T18:06:07-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 947,
-      "ultima_verificacao": "2026-07-01T16:15:34-03:00"
+      "ultima_verificacao": "2026-07-01T18:06:07-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7088,
-      "ultima_verificacao": "2026-07-01T16:15:34-03:00"
+      "ultimo_numero": 7090,
+      "ultima_verificacao": "2026-07-01T18:06:07-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12790,
-      "ultima_verificacao": "2026-07-01T16:15:34-03:00"
+      "ultimo_numero": 12793,
+      "ultima_verificacao": "2026-07-01T18:06:07-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4940,
-      "ultima_verificacao": "2026-07-01T16:15:34-03:00"
+      "ultima_verificacao": "2026-07-01T18:06:07-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14036,
-      "ultima_verificacao": "2026-07-01T16:15:34-03:00"
+      "ultimo_numero": 14038,
+      "ultima_verificacao": "2026-07-01T18:06:07-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008010A",
+        "RE": "RE8055000464A",
+        "numgEdificacao": 34164,
+        "Nome_Edificacao": "GIRACOR TEXTIL LTDA",
+        "Logradouro": "RODOVIA IVO SILVEIRA",
+        "Numero": "7711",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-01T18:06:07-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008009A",
         "RE": "RE8055006750A",
@@ -1127,6 +1138,28 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003800A",
+        "RE": "RE8117003239A",
+        "numgEdificacao": 364044,
+        "Nome_Edificacao": "EDIFICAÇÃO RESIDENCIAL MULTIFAMILIAR - WE GESTÃO DE NEGÓCIOS LTDA",
+        "Logradouro": "Rua Francisco Spengler",
+        "Numero": "",
+        "Bairro": "GASPAR - POÇO GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-01T18:06:07-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003799A",
+        "RE": "RE8117001527A",
+        "numgEdificacao": 204831,
+        "Nome_Edificacao": "SOUL INDUSTRIA DE TECIDOS LTDA",
+        "Logradouro": "AVENIDA FREI GODOFREDO",
+        "Numero": "2550",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-01T18:06:07-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003798A",
         "RE": "RE8117003008A",
@@ -2355,6 +2388,28 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007090A",
+        "RE": "RE8163006778A",
+        "numgEdificacao": 364029,
+        "Nome_Edificacao": "GALPÃO CICERO",
+        "Logradouro": "Rua 450",
+        "Numero": "917",
+        "Bairro": "ITAPEMA - JARDIM PRAIA MAR",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-01T18:06:07-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007089A",
+        "RE": "RE8163006678A",
+        "numgEdificacao": 358346,
+        "Nome_Edificacao": "COMERCIO",
+        "Logradouro": "RUA 406 A",
+        "Numero": "66",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-01T18:06:07-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007088A",
         "RE": "RE8163006774A",
         "numgEdificacao": 363872,
@@ -2807,6 +2862,39 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012793A",
+        "RE": "RE8047011993A",
+        "numgEdificacao": 364058,
+        "Nome_Edificacao": "SINTESE TECNOLOGIA LTDA",
+        "Logradouro": "RUA BELIZARIO VEDES",
+        "Numero": "59",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-01T18:06:07-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012792A",
+        "RE": "RE8047011670A",
+        "numgEdificacao": 349748,
+        "Nome_Edificacao": "Marli Auxiliadora Pereira",
+        "Logradouro": "RUA JOSE REUTER",
+        "Numero": "3112",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-01T18:06:07-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012791A",
+        "RE": "RE8047008761A",
+        "numgEdificacao": 250187,
+        "Nome_Edificacao": "STUDIO E EDITE BY EQUIPE CABELEIREIROS LTDA",
+        "Logradouro": "Rua Professor Trindade",
+        "Numero": "134",
+        "Bairro": "BLUMENAU - ÁGUA VERDE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-01T18:06:07-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012790A",
         "RE": "RE8047011985A",
@@ -3813,6 +3901,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014038A",
+        "RE": "RE8161013707A",
+        "numgEdificacao": 364048,
+        "Nome_Edificacao": "RESIDENCIAL TOP HOME I",
+        "Logradouro": "RUA PASCO RAIMUNDO VICENTE",
+        "Numero": "89",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-01T18:06:07-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014037A",
+        "RE": "RE8161013706A",
+        "numgEdificacao": 364010,
+        "Nome_Edificacao": "CASA 78",
+        "Logradouro": "Rua Conceição Dionizio Gabriel",
+        "Numero": "78",
+        "Bairro": "ITAJAÍ - FAZENDINHA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-01T18:06:07-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014036A",
         "RE": "RE8161003963A",
         "numgEdificacao": 120839,
@@ -4486,16 +4596,16 @@
     ]
   },
   "totais": {
-    "Brusque": 45,
+    "Brusque": 46,
     "Botuvera": 26,
     "Guabiruba": 26,
-    "Gaspar": 32,
+    "Gaspar": 34,
     "Porto Belo": 48,
     "Nova Trento": 31,
-    "Itapema": 41,
-    "Blumenau": 48,
+    "Itapema": 43,
+    "Blumenau": 51,
     "Navegantes": 43,
-    "Itajai": 61
+    "Itajai": 63
   },
-  "total_geral": 401
+  "total_geral": 411
 }
