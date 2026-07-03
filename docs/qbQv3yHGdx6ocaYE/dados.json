@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-03T15:21:49-03:00",
+  "timestamp": "2026-07-03T16:56:55-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 89,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
+      "ultima_verificacao": "2026-07-03T16:56:55-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
+      "ultima_verificacao": "2026-07-03T16:56:55-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
+      "ultima_verificacao": "2026-07-03T16:56:55-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
+      "ultima_verificacao": "2026-07-03T16:56:55-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 85,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
+      "ultima_verificacao": "2026-07-03T16:56:55-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 106,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
+      "ultima_verificacao": "2026-07-03T16:56:55-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 151,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
+      "ultima_verificacao": "2026-07-03T16:56:55-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 180,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
+      "ultima_verificacao": "2026-07-03T16:56:55-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
+      "ultima_verificacao": "2026-07-03T16:56:55-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 346,
+      "ultimo_numero": 351,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
+      "ultima_verificacao": "2026-07-03T16:56:55-03:00"
     }
   },
   "multas": {
@@ -1063,6 +1063,56 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000347A/26",
+        "RE": "RE8161009274A",
+        "Nome_Edificacao": "CASA DAS CHAVES ZULLIAN",
+        "Logradouro": "Rua Tijucas",
+        "Numero": "373",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T16:56:55-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000348A/26",
+        "RE": "RE8161005353A",
+        "Nome_Edificacao": "HAMILTON JOSE DA SILVA",
+        "Logradouro": "Rua dos Crisântemos",
+        "Numero": "91",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T16:56:55-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000349A/26",
+        "RE": "RE8161004891A",
+        "Nome_Edificacao": "VALDECIR LUIS TRES",
+        "Logradouro": "Rua Bahia",
+        "Numero": "37",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T16:56:55-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000350A/26",
+        "RE": "RE8161007590A",
+        "Nome_Edificacao": "RESIDENCIAL/COMERCIAL",
+        "Logradouro": "Avenida Guanabara",
+        "Numero": "207",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T16:56:55-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000351A/26",
+        "RE": "RE8161004202A",
+        "Nome_Edificacao": "VILMAR BOIANI",
+        "Logradouro": "Rua Emerson Schneider",
+        "Numero": "120",
+        "Bairro": "ITAJAÍ - RIO DO MEIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T16:56:55-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000342A/26",
         "RE": "RE8161001264A",
@@ -2657,14 +2707,49 @@
     "Brusque": 34,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 64,
+    "Itajai": 69,
     "Itapema": 34,
     "Navegantes": 17,
     "Nova Trento": 23,
     "Porto Belo": 28
   },
-  "total_geral": 269,
+  "total_geral": 274,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-03T16:56:55-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000351A/26",
+      "nome": "VILMAR BOIANI",
+      "re": "RE8161004202A"
+    },
+    {
+      "ts": "2026-07-03T16:56:55-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000350A/26",
+      "nome": "RESIDENCIAL/COMERCIAL",
+      "re": "RE8161007590A"
+    },
+    {
+      "ts": "2026-07-03T16:56:55-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000349A/26",
+      "nome": "VALDECIR LUIS TRES",
+      "re": "RE8161004891A"
+    },
+    {
+      "ts": "2026-07-03T16:56:55-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000348A/26",
+      "nome": "HAMILTON JOSE DA SILVA",
+      "re": "RE8161005353A"
+    },
+    {
+      "ts": "2026-07-03T16:56:55-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000347A/26",
+      "nome": "CASA DAS CHAVES ZULLIAN",
+      "re": "RE8161009274A"
+    },
     {
       "ts": "2026-07-03T15:21:49-03:00",
       "cidade": "Itajai",
@@ -2979,41 +3064,6 @@
       "codigo": "MUL8225000106A/26",
       "nome": "MITRA METROPOLITANA DE FLORIANOPOLIS",
       "re": "RE8225000630A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000089A/26",
-      "nome": "ELIANA VECHI DE SOUZA",
-      "re": "RE8055004874A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000088A/26",
-      "nome": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
-      "re": "RE8055003933A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000087A/26",
-      "nome": "SECRETARIA DE ESTADO DA EDUCAÇÃO",
-      "re": "RE8055003933A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000086A/26",
-      "nome": "HOSPITAL E MATERNIDADE DOM JOAQUIM",
-      "re": "RE8055000428A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000085A/26",
-      "nome": "EDSON GILMAR CAVICHIOLI",
-      "re": "RE8055001157A"
     }
   ]
 }

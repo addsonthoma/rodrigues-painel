@@ -1,69 +1,91 @@
 {
-  "timestamp": "2026-07-03T15:22:34-03:00",
+  "timestamp": "2026-07-03T16:57:40-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 757,
+      "ultimo_numero": 759,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T15:22:34-03:00"
+      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 26,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T15:22:34-03:00"
+      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 55,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T15:22:34-03:00"
+      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 477,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T15:22:34-03:00"
+      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 432,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T15:22:34-03:00"
+      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 366,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T15:22:34-03:00"
+      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 897,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T15:22:34-03:00"
+      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 855,
+      "ultimo_numero": 857,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T15:22:34-03:00"
+      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 257,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T15:22:34-03:00"
+      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 890,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T15:22:34-03:00"
+      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000759A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000516A",
+        "Nome_Edificacao": "Arnestino Bras Schvambach",
+        "Logradouro": "Rua Santos Dumont",
+        "Numero": "1380",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-03T16:57:40-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000758A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005203A",
+        "Nome_Edificacao": "MOAIR JOSÉ DALMARCO",
+        "Logradouro": "Rua Florianópolis",
+        "Numero": "1239",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-03T16:57:40-03:00"
+      },
       {
         "CodigoAuto": "AF8055000757A/26",
         "Tipo": "AF",
@@ -7031,6 +7053,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000857A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001542A",
+        "Nome_Edificacao": "Johnny Raizel",
+        "Logradouro": "Rua Jacó Brueckheimer",
+        "Numero": "234",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-03T16:57:40-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000856A/26",
+        "Tipo": "AF",
+        "RE": "RE8047004046A",
+        "Nome_Edificacao": "JOÃO ALBERTO PRADI",
+        "Logradouro": "Rua Frederico Jensen",
+        "Numero": "4396",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-03T16:57:40-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000855A/26",
         "Tipo": "AF",
         "RE": "RE8047002914A",
@@ -10711,16 +10755,16 @@
     ]
   },
   "totais": {
-    "Brusque": 147,
+    "Brusque": 149,
     "Botuvera": 26,
     "Guabiruba": 35,
     "Gaspar": 63,
     "Porto Belo": 141,
     "Nova Trento": 56,
     "Itapema": 164,
-    "Blumenau": 142,
+    "Blumenau": 144,
     "Navegantes": 53,
     "Itajai": 139
   },
-  "total_geral": 966
+  "total_geral": 970
 }
