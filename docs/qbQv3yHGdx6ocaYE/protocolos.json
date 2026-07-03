@@ -1,59 +1,92 @@
 {
-  "timestamp": "2026-07-02T20:16:19-03:00",
+  "timestamp": "2026-07-02T22:06:41-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8011,
-      "ultima_verificacao": "2026-07-02T20:16:19-03:00"
+      "ultimo_numero": 8014,
+      "ultima_verificacao": "2026-07-02T22:06:41-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-02T20:16:19-03:00"
+      "ultima_verificacao": "2026-07-02T22:06:41-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-02T20:16:19-03:00"
+      "ultima_verificacao": "2026-07-02T22:06:41-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3800,
-      "ultima_verificacao": "2026-07-02T20:16:19-03:00"
+      "ultimo_numero": 3801,
+      "ultima_verificacao": "2026-07-02T22:06:41-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3330,
-      "ultima_verificacao": "2026-07-02T20:16:19-03:00"
+      "ultima_verificacao": "2026-07-02T22:06:41-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 947,
-      "ultima_verificacao": "2026-07-02T20:16:19-03:00"
+      "ultima_verificacao": "2026-07-02T22:06:41-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7091,
-      "ultima_verificacao": "2026-07-02T20:16:19-03:00"
+      "ultimo_numero": 7093,
+      "ultima_verificacao": "2026-07-02T22:06:41-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12793,
-      "ultima_verificacao": "2026-07-02T20:16:19-03:00"
+      "ultimo_numero": 12796,
+      "ultima_verificacao": "2026-07-02T22:06:41-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4940,
-      "ultima_verificacao": "2026-07-02T20:16:19-03:00"
+      "ultima_verificacao": "2026-07-02T22:06:41-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14043,
-      "ultima_verificacao": "2026-07-02T20:16:19-03:00"
+      "ultima_verificacao": "2026-07-02T22:06:41-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008014A",
+        "RE": "RE8055006040A",
+        "numgEdificacao": 322645,
+        "Nome_Edificacao": "Bett Construção SPE Ltda",
+        "Logradouro": "RODOVIA ANTONIO HEIL",
+        "Numero": "15205",
+        "Bairro": "BRUSQUE - NOVA BRASÍLIA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-02T22:06:41-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008013A",
+        "RE": "RE8055006605A",
+        "numgEdificacao": 354151,
+        "Nome_Edificacao": "OFICINA MECANICA KOHLER",
+        "Logradouro": "Rua General Osório",
+        "Numero": "575",
+        "Bairro": "BRUSQUE - GUARANI",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-02T22:06:41-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008012A",
+        "RE": "RE8055001554A",
+        "numgEdificacao": 143710,
+        "Nome_Edificacao": "ATERRO SANITÁRIO RECICLE",
+        "Logradouro": "RUA RIO NEGRO",
+        "Numero": "2200",
+        "Bairro": "BRUSQUE - VOLTA GRANDE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-02T22:06:41-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008011A",
         "RE": "RE8055006752A",
@@ -1149,6 +1182,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003801A",
+        "RE": "RE8117003236A",
+        "numgEdificacao": 363686,
+        "Nome_Edificacao": "SEDE DA SUBSEÇÃO DA OAB-SC",
+        "Logradouro": "Rua Jackicelia Andrade",
+        "Numero": "99",
+        "Bairro": "GASPAR - Sete de Setembro",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-02T22:06:41-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003800A",
         "RE": "RE8117003239A",
@@ -2410,6 +2454,28 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007093A",
+        "RE": "RE8163006692A",
+        "numgEdificacao": 359806,
+        "Nome_Edificacao": "TEKOA",
+        "Logradouro": "BR 101",
+        "Numero": "",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-02T22:06:41-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007092A",
+        "RE": "RE8163006781A",
+        "numgEdificacao": 364108,
+        "Nome_Edificacao": "FERNANDO DA ROSA ANDRADE",
+        "Logradouro": "RUA 250",
+        "Numero": "573",
+        "Bairro": "ITAPEMA - ANDORINHA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-02T22:06:41-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007091A",
         "RE": "RE8163002261A",
         "numgEdificacao": 146518,
@@ -2895,6 +2961,39 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012796A",
+        "RE": "RE8047011996A",
+        "numgEdificacao": 364148,
+        "Nome_Edificacao": "Estacionamento",
+        "Logradouro": "Rua João Gomes da Nóbrega",
+        "Numero": "121",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-02T22:06:41-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012795A",
+        "RE": "RE8047001585A",
+        "numgEdificacao": 74465,
+        "Nome_Edificacao": "MARILUCI RAQUEL VOLPI VOIGT",
+        "Logradouro": "Rua Carlos Mueller Junior",
+        "Numero": "159",
+        "Bairro": "BLUMENAU - Itoupava Central",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-02T22:06:41-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012794A",
+        "RE": "RE8047007620A",
+        "numgEdificacao": 215829,
+        "Nome_Edificacao": "ILHA GRANDE PARTICIPACOES LTDA",
+        "Logradouro": "RUA FRANZ VOLLES",
+        "Numero": "145",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-02T22:06:41-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012793A",
         "RE": "RE8047011993A",
@@ -4684,16 +4783,16 @@
     ]
   },
   "totais": {
-    "Brusque": 47,
+    "Brusque": 50,
     "Botuvera": 26,
     "Guabiruba": 26,
-    "Gaspar": 34,
+    "Gaspar": 35,
     "Porto Belo": 49,
     "Nova Trento": 31,
-    "Itapema": 44,
-    "Blumenau": 51,
+    "Itapema": 46,
+    "Blumenau": 54,
     "Navegantes": 43,
     "Itajai": 68
   },
-  "total_geral": 419
+  "total_geral": 428
 }
