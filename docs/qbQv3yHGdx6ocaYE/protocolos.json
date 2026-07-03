@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-03T12:22:27-03:00",
+  "timestamp": "2026-07-03T14:12:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8014,
-      "ultima_verificacao": "2026-07-03T12:22:27-03:00"
+      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-03T12:22:27-03:00"
+      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-03T12:22:27-03:00"
+      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3801,
-      "ultima_verificacao": "2026-07-03T12:22:27-03:00"
+      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3330,
-      "ultima_verificacao": "2026-07-03T12:22:27-03:00"
+      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 947,
-      "ultima_verificacao": "2026-07-03T12:22:27-03:00"
+      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7093,
-      "ultima_verificacao": "2026-07-03T12:22:27-03:00"
+      "ultimo_numero": 7094,
+      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12796,
-      "ultima_verificacao": "2026-07-03T12:22:27-03:00"
+      "ultimo_numero": 12798,
+      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4940,
-      "ultima_verificacao": "2026-07-03T12:22:27-03:00"
+      "ultimo_numero": 4942,
+      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14043,
-      "ultima_verificacao": "2026-07-03T12:22:27-03:00"
+      "ultimo_numero": 14048,
+      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
     }
   },
   "protocolos": {
@@ -2454,6 +2454,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007094A",
+        "RE": "RE8163003050A",
+        "numgEdificacao": 176504,
+        "Nome_Edificacao": "Salzburgo",
+        "Logradouro": "rua 256",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-03T14:12:58-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007093A",
         "RE": "RE8163006692A",
         "numgEdificacao": 359806,
@@ -2961,6 +2972,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012798A",
+        "RE": "RE8047007701A",
+        "numgEdificacao": 218206,
+        "Nome_Edificacao": "PAZ EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+        "Logradouro": "R HERMANN HUSCHER",
+        "Numero": "",
+        "Bairro": "BLUMENAU - VILA FORMOSA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-03T14:12:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012797A",
+        "RE": "RE8047007701A",
+        "numgEdificacao": 218206,
+        "Nome_Edificacao": "PAZ EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+        "Logradouro": "R HERMANN HUSCHER",
+        "Numero": "",
+        "Bairro": "BLUMENAU - VILA FORMOSA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-03T14:12:58-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012796A",
         "RE": "RE8047011996A",
@@ -3558,6 +3591,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004942A",
+        "RE": "RE8221004094A",
+        "numgEdificacao": 364053,
+        "Nome_Edificacao": "Maurilho Tadeu Fagundes Filho",
+        "Logradouro": "Servidão Manoel Costa",
+        "Numero": "76",
+        "Bairro": "NAVEGANTES - Centro",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-03T14:12:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004941A",
+        "RE": "RE8221004090A",
+        "numgEdificacao": 363764,
+        "Nome_Edificacao": "EMPREENDIMENTO ALEGRIA DE SÃO DOMINGOS SPE LTDA",
+        "Logradouro": "RUA GIRASSOL, 39",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-03T14:12:58-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004940A",
         "RE": "RE8221004085A",
         "numgEdificacao": 363698,
@@ -4032,6 +4087,61 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014048A",
+        "RE": "RE8161013696A",
+        "numgEdificacao": 363693,
+        "Nome_Edificacao": "EDSON DA SILVA JUNIOR",
+        "Logradouro": "RUA DAS ACACIAS",
+        "Numero": "125",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T14:12:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014047A",
+        "RE": "RE8161002257A",
+        "numgEdificacao": 75067,
+        "Nome_Edificacao": "AGENOR ZERMIANI",
+        "Logradouro": "RODOVIA BR-101",
+        "Numero": "920",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T14:12:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014046A",
+        "RE": "RE8161011737A",
+        "numgEdificacao": 311832,
+        "Nome_Edificacao": "SUSAN MODAS LTDA. M.E.",
+        "Logradouro": "Rua Saul Schead dos Santos",
+        "Numero": "297",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T14:12:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014045A",
+        "RE": "RE8161013716A",
+        "numgEdificacao": 364161,
+        "Nome_Edificacao": "Daniela Lorenzett Pachecowski",
+        "Logradouro": "Avenida Nilo Bittencourt",
+        "Numero": "425",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T14:12:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014044A",
+        "RE": "RE8161013711A",
+        "numgEdificacao": 364122,
+        "Nome_Edificacao": "Galpão Comercial Alcacer",
+        "Logradouro": "Avenida Presidente Castelo Branco",
+        "Numero": "621",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T14:12:58-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014043A",
         "RE": "RE8161013710A",
@@ -4789,10 +4899,10 @@
     "Gaspar": 35,
     "Porto Belo": 49,
     "Nova Trento": 31,
-    "Itapema": 46,
-    "Blumenau": 54,
-    "Navegantes": 43,
-    "Itajai": 68
+    "Itapema": 47,
+    "Blumenau": 56,
+    "Navegantes": 45,
+    "Itajai": 73
   },
-  "total_geral": 428
+  "total_geral": 438
 }
