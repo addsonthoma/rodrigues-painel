@@ -1,69 +1,91 @@
 {
-  "timestamp": "2026-07-03T16:57:40-03:00",
+  "timestamp": "2026-07-03T18:20:14-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 759,
+      "ultimo_numero": 761,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
+      "ultima_verificacao": "2026-07-03T18:20:14-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 26,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
+      "ultima_verificacao": "2026-07-03T18:20:14-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 55,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
+      "ultima_verificacao": "2026-07-03T18:20:14-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 477,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
+      "ultima_verificacao": "2026-07-03T18:20:14-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 432,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
+      "ultima_verificacao": "2026-07-03T18:20:14-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 366,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
+      "ultima_verificacao": "2026-07-03T18:20:14-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 897,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
+      "ultima_verificacao": "2026-07-03T18:20:14-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 857,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
+      "ultima_verificacao": "2026-07-03T18:20:14-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 257,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
+      "ultima_verificacao": "2026-07-03T18:20:14-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 890,
+      "ultimo_numero": 892,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-03T16:57:40-03:00"
+      "ultima_verificacao": "2026-07-03T18:20:14-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000761A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000593A",
+        "Nome_Edificacao": "CLETO RISTOW",
+        "Logradouro": "Avenida Primeiro de Maio",
+        "Numero": "476",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-03T18:20:14-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000760A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000747A",
+        "Nome_Edificacao": "Bar Eder Czinvinsky",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "",
+        "Bairro": "BRUSQUE - CENTRO II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-03T18:20:14-03:00"
+      },
       {
         "CodigoAuto": "AF8055000759A/26",
         "Tipo": "AF",
@@ -9224,6 +9246,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000892A/26",
+        "Tipo": "AF",
+        "RE": "RE8161003950A",
+        "Nome_Edificacao": "CENTRO COMERCIAL ITAGUAÇÚ",
+        "Logradouro": "BRUSQUE",
+        "Numero": "500",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T18:20:14-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000891A/26",
+        "Tipo": "AF",
+        "RE": "RE8161000531A",
+        "Nome_Edificacao": "COMUNIDADE AMAR EM ITAJAI SETOR I",
+        "Logradouro": "Rua Nono Emílio Dalçóquio",
+        "Numero": "201",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T18:20:14-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000890A/26",
         "Tipo": "AF",
         "RE": "RE8161004117A",
@@ -10755,7 +10799,7 @@
     ]
   },
   "totais": {
-    "Brusque": 149,
+    "Brusque": 151,
     "Botuvera": 26,
     "Guabiruba": 35,
     "Gaspar": 63,
@@ -10764,7 +10808,7 @@
     "Itapema": 164,
     "Blumenau": 144,
     "Navegantes": 53,
-    "Itajai": 139
+    "Itajai": 141
   },
-  "total_geral": 970
+  "total_geral": 974
 }
