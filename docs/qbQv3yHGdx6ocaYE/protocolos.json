@@ -1,59 +1,81 @@
 {
-  "timestamp": "2026-07-03T14:12:58-03:00",
+  "timestamp": "2026-07-03T15:29:44-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8014,
-      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
+      "ultimo_numero": 8016,
+      "ultima_verificacao": "2026-07-03T15:29:44-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
+      "ultima_verificacao": "2026-07-03T15:29:44-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
+      "ultima_verificacao": "2026-07-03T15:29:44-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3801,
-      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
+      "ultimo_numero": 3802,
+      "ultima_verificacao": "2026-07-03T15:29:44-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3330,
-      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
+      "ultima_verificacao": "2026-07-03T15:29:44-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 947,
-      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
+      "ultima_verificacao": "2026-07-03T15:29:44-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7094,
-      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
+      "ultima_verificacao": "2026-07-03T15:29:44-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12798,
-      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
+      "ultima_verificacao": "2026-07-03T15:29:44-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4942,
-      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
+      "ultima_verificacao": "2026-07-03T15:29:44-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14048,
-      "ultima_verificacao": "2026-07-03T14:12:58-03:00"
+      "ultimo_numero": 14050,
+      "ultima_verificacao": "2026-07-03T15:29:44-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008016A",
+        "RE": "RE8055006749A",
+        "numgEdificacao": 363822,
+        "Nome_Edificacao": "FABRISIO COMANDOLI FILHO - PRÉDIO 06 UNID. - 111.804",
+        "Logradouro": "Rua Miguel Comandoli",
+        "Numero": "",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-03T15:29:44-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008015A",
+        "RE": "RE8055006456A",
+        "numgEdificacao": 345737,
+        "Nome_Edificacao": "TRANSPORTADORA SETE DE SETEMBRO LTDA",
+        "Logradouro": "Rua Osvaldo Niebuhr",
+        "Numero": "61",
+        "Bairro": "BRUSQUE - SANTA RITA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-03T15:29:44-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008014A",
         "RE": "RE8055006040A",
@@ -1182,6 +1204,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003802A",
+        "RE": "RE8117000480A",
+        "numgEdificacao": 39902,
+        "Nome_Edificacao": "ELISABETHA ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Bonifacio Haendchen",
+        "Numero": "362",
+        "Bairro": "GASPAR - Belchior Alto",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-03T15:29:44-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003801A",
         "RE": "RE8117003236A",
@@ -4088,6 +4121,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014050A",
+        "RE": "RE8161013718A",
+        "numgEdificacao": 364210,
+        "Nome_Edificacao": "MANES COMERCIAL",
+        "Logradouro": "RUA DELFIM MARIO PADUA PEIXOTO",
+        "Numero": "73",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T15:29:44-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014049A",
+        "RE": "RE8161013696A",
+        "numgEdificacao": 363693,
+        "Nome_Edificacao": "EDSON DA SILVA JUNIOR",
+        "Logradouro": "RUA DAS ACACIAS",
+        "Numero": "125",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T15:29:44-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014048A",
         "RE": "RE8161013696A",
         "numgEdificacao": 363693,
@@ -4893,16 +4948,16 @@
     ]
   },
   "totais": {
-    "Brusque": 50,
+    "Brusque": 52,
     "Botuvera": 26,
     "Guabiruba": 26,
-    "Gaspar": 35,
+    "Gaspar": 36,
     "Porto Belo": 49,
     "Nova Trento": 31,
     "Itapema": 47,
     "Blumenau": 56,
     "Navegantes": 45,
-    "Itajai": 73
+    "Itajai": 75
   },
-  "total_geral": 438
+  "total_geral": 443
 }

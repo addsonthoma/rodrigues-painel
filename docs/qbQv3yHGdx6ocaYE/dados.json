@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-07-03T14:03:12-03:00",
+  "timestamp": "2026-07-03T15:21:49-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 89,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T14:03:12-03:00"
+      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T14:03:12-03:00"
+      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T14:03:12-03:00"
+      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T14:03:12-03:00"
+      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 85,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T14:03:12-03:00"
+      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 106,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T14:03:12-03:00"
+      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 151,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T14:03:12-03:00"
+      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 179,
+      "ultimo_numero": 180,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T14:03:12-03:00"
+      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T14:03:12-03:00"
+      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 341,
+      "ultimo_numero": 346,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-03T14:03:12-03:00"
+      "ultima_verificacao": "2026-07-03T15:21:49-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000180A/26",
+        "RE": "RE8047008885A",
+        "Nome_Edificacao": "MARIA LUCIA",
+        "Logradouro": "RUA ANTONIO ZENDRON",
+        "Numero": "1979",
+        "Bairro": "BLUMENAU - VALPARAISO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-03T15:21:49-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000179A/26",
         "RE": "RE8047006298A",
@@ -1053,6 +1063,56 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000342A/26",
+        "RE": "RE8161001264A",
+        "Nome_Edificacao": "EDIFICAÇÃO IVO DORNELES",
+        "Logradouro": "Rua Professora Erotides da Silva Fontes",
+        "Numero": "1227",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T15:21:49-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000343A/26",
+        "RE": "RE8161004425A",
+        "Nome_Edificacao": "AURELIO GERMANO GONÇALVES",
+        "Logradouro": "RUA ESTEFANO JOSE VANOLLI",
+        "Numero": "1570",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T15:21:49-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000344A/26",
+        "RE": "RE8161002501A",
+        "Nome_Edificacao": "GONZE INCORPORADORA IMOBILIARIA LTDA",
+        "Logradouro": "Rua Heitor Liberato",
+        "Numero": "2110",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T15:21:49-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000345A/26",
+        "RE": "RE8161003144A",
+        "Nome_Edificacao": "RONALDO LEMOS",
+        "Logradouro": "Rua Romualdo Manoel Fagundes",
+        "Numero": "220",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T15:21:49-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000346A/26",
+        "RE": "RE8161000438A",
+        "Nome_Edificacao": "IVONE HELLMANN",
+        "Logradouro": "Rua Estefano José Vanolli",
+        "Numero": "1460",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-03T15:21:49-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000340A/26",
         "RE": "RE8161002303A",
@@ -2592,19 +2652,61 @@
     ]
   },
   "totais": {
-    "Blumenau": 44,
+    "Blumenau": 45,
     "Botuvera": 3,
     "Brusque": 34,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 59,
+    "Itajai": 64,
     "Itapema": 34,
     "Navegantes": 17,
     "Nova Trento": 23,
     "Porto Belo": 28
   },
-  "total_geral": 263,
+  "total_geral": 269,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-03T15:21:49-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000346A/26",
+      "nome": "IVONE HELLMANN",
+      "re": "RE8161000438A"
+    },
+    {
+      "ts": "2026-07-03T15:21:49-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000345A/26",
+      "nome": "RONALDO LEMOS",
+      "re": "RE8161003144A"
+    },
+    {
+      "ts": "2026-07-03T15:21:49-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000344A/26",
+      "nome": "GONZE INCORPORADORA IMOBILIARIA LTDA",
+      "re": "RE8161002501A"
+    },
+    {
+      "ts": "2026-07-03T15:21:49-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000343A/26",
+      "nome": "AURELIO GERMANO GONÇALVES",
+      "re": "RE8161004425A"
+    },
+    {
+      "ts": "2026-07-03T15:21:49-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000342A/26",
+      "nome": "EDIFICAÇÃO IVO DORNELES",
+      "re": "RE8161001264A"
+    },
+    {
+      "ts": "2026-07-03T15:21:49-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000180A/26",
+      "nome": "MARIA LUCIA",
+      "re": "RE8047008885A"
+    },
     {
       "ts": "2026-07-03T14:03:12-03:00",
       "cidade": "Itajai",
@@ -2912,48 +3014,6 @@
       "codigo": "MUL8055000085A/26",
       "nome": "EDSON GILMAR CAVICHIOLI",
       "re": "RE8055001157A"
-    },
-    {
-      "ts": "2026-07-01T00:35:24-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000179A/26",
-      "nome": "CARLITO KLOCK",
-      "re": "RE8047006298A"
-    },
-    {
-      "ts": "2026-07-01T00:35:24-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000148A/26",
-      "nome": "HOTEL BLUE SEA",
-      "re": "RE8163006009A"
-    },
-    {
-      "ts": "2026-07-01T00:35:24-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000147A/26",
-      "nome": "COND. RES. ANTONIO CRUZ NETO",
-      "re": "RE8163003653A"
-    },
-    {
-      "ts": "2026-07-01T00:35:24-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000105A/26",
-      "nome": "FABRISIO COMANDOLI",
-      "re": "RE8225000773A"
-    },
-    {
-      "ts": "2026-07-01T00:35:24-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000083A/26",
-      "nome": "Assembleia de Deus",
-      "re": "RE8265002477A"
-    },
-    {
-      "ts": "2026-06-29T09:14:19-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000146A/26",
-      "nome": "EDIFICAÇÃO COMERCIAL M7 II",
-      "re": "RE8163003350A"
     }
   ]
 }
