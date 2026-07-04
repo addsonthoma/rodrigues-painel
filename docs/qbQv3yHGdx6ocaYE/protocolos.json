@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-04T13:22:54-03:00",
+  "timestamp": "2026-07-04T15:11:16-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8017,
-      "ultima_verificacao": "2026-07-04T13:22:54-03:00"
+      "ultima_verificacao": "2026-07-04T15:11:16-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-04T13:22:54-03:00"
+      "ultima_verificacao": "2026-07-04T15:11:16-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-04T13:22:54-03:00"
+      "ultima_verificacao": "2026-07-04T15:11:16-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3802,
-      "ultima_verificacao": "2026-07-04T13:22:54-03:00"
+      "ultima_verificacao": "2026-07-04T15:11:16-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3330,
-      "ultima_verificacao": "2026-07-04T13:22:54-03:00"
+      "ultima_verificacao": "2026-07-04T15:11:16-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 947,
-      "ultima_verificacao": "2026-07-04T13:22:54-03:00"
+      "ultima_verificacao": "2026-07-04T15:11:16-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7095,
-      "ultima_verificacao": "2026-07-04T13:22:54-03:00"
+      "ultima_verificacao": "2026-07-04T15:11:16-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12799,
-      "ultima_verificacao": "2026-07-04T13:22:54-03:00"
+      "ultima_verificacao": "2026-07-04T15:11:16-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4942,
-      "ultima_verificacao": "2026-07-04T13:22:54-03:00"
+      "ultima_verificacao": "2026-07-04T15:11:16-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14052,
-      "ultima_verificacao": "2026-07-04T13:22:54-03:00"
+      "ultimo_numero": 14053,
+      "ultima_verificacao": "2026-07-04T15:11:16-03:00"
     }
   },
   "protocolos": {
@@ -4154,6 +4154,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014053A",
+        "RE": "RE8161013721A",
+        "numgEdificacao": 364265,
+        "Nome_Edificacao": "Ed.Comercial - Nilo Simas",
+        "Logradouro": "Avenida Nilo Simas",
+        "Numero": "584",
+        "Bairro": "ITAJAÍ - Cidade Nova",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-04T15:11:16-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014052A",
         "RE": "RE8161000170A",
         "numgEdificacao": 5720,
@@ -5012,7 +5023,7 @@
     "Itapema": 48,
     "Blumenau": 57,
     "Navegantes": 45,
-    "Itajai": 77
+    "Itajai": 78
   },
-  "total_geral": 448
+  "total_geral": 449
 }
