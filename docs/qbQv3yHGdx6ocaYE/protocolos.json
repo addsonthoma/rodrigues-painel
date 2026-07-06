@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-06T02:34:08-03:00",
+  "timestamp": "2026-07-06T04:22:37-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8017,
-      "ultima_verificacao": "2026-07-06T02:34:08-03:00"
+      "ultima_verificacao": "2026-07-06T04:22:37-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-06T02:34:08-03:00"
+      "ultima_verificacao": "2026-07-06T04:22:37-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-06T02:34:08-03:00"
+      "ultima_verificacao": "2026-07-06T04:22:37-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3802,
-      "ultima_verificacao": "2026-07-06T02:34:08-03:00"
+      "ultima_verificacao": "2026-07-06T04:22:37-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3330,
-      "ultima_verificacao": "2026-07-06T02:34:08-03:00"
+      "ultima_verificacao": "2026-07-06T04:22:37-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 947,
-      "ultima_verificacao": "2026-07-06T02:34:08-03:00"
+      "ultima_verificacao": "2026-07-06T04:22:37-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7095,
-      "ultima_verificacao": "2026-07-06T02:34:08-03:00"
+      "ultima_verificacao": "2026-07-06T04:22:37-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12800,
-      "ultima_verificacao": "2026-07-06T02:34:08-03:00"
+      "ultimo_numero": 12801,
+      "ultima_verificacao": "2026-07-06T04:22:37-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4943,
-      "ultima_verificacao": "2026-07-06T02:34:08-03:00"
+      "ultima_verificacao": "2026-07-06T04:22:37-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14053,
-      "ultima_verificacao": "2026-07-06T02:34:08-03:00"
+      "ultimo_numero": 14054,
+      "ultima_verificacao": "2026-07-06T04:22:37-03:00"
     }
   },
   "protocolos": {
@@ -3028,6 +3028,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012801A",
+        "RE": "RE8047012000A",
+        "numgEdificacao": 364273,
+        "Nome_Edificacao": "ESCOLA SESI",
+        "Logradouro": "Rua Max Hering",
+        "Numero": "",
+        "Bairro": "BLUMENAU - Victor Konder",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-06T04:22:37-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012800A",
         "RE": "RE8047011999A",
         "numgEdificacao": 364269,
@@ -4176,6 +4187,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014054A",
+        "RE": "RE8161013720A",
+        "numgEdificacao": 364247,
+        "Nome_Edificacao": "Terreno N°96",
+        "Logradouro": "R HILDA BREITTENBAUCH",
+        "Numero": "96",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-06T04:22:37-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014053A",
         "RE": "RE8161013721A",
         "numgEdificacao": 364265,
@@ -5043,9 +5065,9 @@
     "Porto Belo": 49,
     "Nova Trento": 31,
     "Itapema": 48,
-    "Blumenau": 58,
+    "Blumenau": 59,
     "Navegantes": 46,
-    "Itajai": 78
+    "Itajai": 79
   },
-  "total_geral": 451
+  "total_geral": 453
 }
