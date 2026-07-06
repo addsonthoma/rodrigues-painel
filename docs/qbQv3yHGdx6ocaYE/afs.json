@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-07-06T08:24:38-03:00",
+  "timestamp": "2026-07-06T11:43:08-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 761,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T08:24:38-03:00"
+      "ultima_verificacao": "2026-07-06T11:43:08-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
-      "ultimo_numero": 26,
+      "ultimo_numero": 27,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T08:24:38-03:00"
+      "ultima_verificacao": "2026-07-06T11:43:08-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 55,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T08:24:38-03:00"
+      "ultima_verificacao": "2026-07-06T11:43:08-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 478,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T08:24:38-03:00"
+      "ultima_verificacao": "2026-07-06T11:43:08-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 432,
+      "ultimo_numero": 435,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T08:24:38-03:00"
+      "ultima_verificacao": "2026-07-06T11:43:08-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 366,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T08:24:38-03:00"
+      "ultima_verificacao": "2026-07-06T11:43:08-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 897,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T08:24:38-03:00"
+      "ultima_verificacao": "2026-07-06T11:43:08-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 858,
+      "ultimo_numero": 860,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T08:24:38-03:00"
+      "ultima_verificacao": "2026-07-06T11:43:08-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 257,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T08:24:38-03:00"
+      "ultima_verificacao": "2026-07-06T11:43:08-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 892,
+      "ultimo_numero": 893,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T08:24:38-03:00"
+      "ultima_verificacao": "2026-07-06T11:43:08-03:00"
     }
   },
   "afs": {
@@ -1728,6 +1728,17 @@
     ],
     "Botuvera": [
       {
+        "CodigoAuto": "AF8051000027A/26",
+        "Tipo": "AF",
+        "RE": "RE8051000005A",
+        "Nome_Edificacao": "PEDRAS GRANDES SERVICOS TEXTEIS EIRELI",
+        "Logradouro": "rodovia pedro merisio",
+        "Numero": "",
+        "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-07-06T11:43:08-03:00"
+      },
+      {
         "CodigoAuto": "AF8051000026A/26",
         "Tipo": "AF",
         "RE": "RE8051000245A",
@@ -3108,6 +3119,39 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000435A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002225A",
+        "Nome_Edificacao": "NOACIR AIRTON RODRIGES",
+        "Logradouro": "AVENIDA HIRONILDO CONCEICAO DOS SANTOS",
+        "Numero": "128",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-06T11:43:08-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000434A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000574A",
+        "Nome_Edificacao": "JULIO CESAR MANDELLI",
+        "Logradouro": "AVENIDA ATILIO FONTANA",
+        "Numero": "2109",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-06T11:43:08-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000433A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000249A",
+        "Nome_Edificacao": "ABC BUSINESS PARK - QUADRA A – LOTE  15",
+        "Logradouro": "Avenida José Neoli Cruz",
+        "Numero": "5000",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-06T11:43:08-03:00"
+      },
       {
         "CodigoAuto": "AF8265000432A/26",
         "Tipo": "AF",
@@ -7086,6 +7130,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000860A/26",
+        "Tipo": "AF",
+        "RE": "RE8047002528A",
+        "Nome_Edificacao": "MAURO HAUSMANN",
+        "Logradouro": "Rua 25 de Julho",
+        "Numero": "1118",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-06T11:43:08-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000859A/26",
+        "Tipo": "AF",
+        "RE": "RE8047009303A",
+        "Nome_Edificacao": "ALMIR GERALDO MARTINS",
+        "Logradouro": "RUA ITAJAI",
+        "Numero": "1478",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-06T11:43:08-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000858A/26",
         "Tipo": "AF",
         "RE": "RE8047000202A",
@@ -9268,6 +9334,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000893A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005101A",
+        "Nome_Edificacao": "COND. RES. PORTAL DE ITAJAI",
+        "Logradouro": "Avenida Ministro Luiz Gallotti",
+        "Numero": "251",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-06T11:43:08-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000892A/26",
         "Tipo": "AF",
         "RE": "RE8161003950A",
@@ -10822,15 +10899,15 @@
   },
   "totais": {
     "Brusque": 151,
-    "Botuvera": 26,
+    "Botuvera": 27,
     "Guabiruba": 35,
     "Gaspar": 64,
-    "Porto Belo": 141,
+    "Porto Belo": 144,
     "Nova Trento": 56,
     "Itapema": 164,
-    "Blumenau": 145,
+    "Blumenau": 147,
     "Navegantes": 53,
-    "Itajai": 141
+    "Itajai": 142
   },
-  "total_geral": 976
+  "total_geral": 983
 }
