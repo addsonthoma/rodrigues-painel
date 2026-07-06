@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-06T16:28:52-03:00",
+  "timestamp": "2026-07-06T18:16:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8017,
-      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
+      "ultima_verificacao": "2026-07-06T18:16:24-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
+      "ultima_verificacao": "2026-07-06T18:16:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
+      "ultima_verificacao": "2026-07-06T18:16:24-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3803,
-      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
+      "ultimo_numero": 3804,
+      "ultima_verificacao": "2026-07-06T18:16:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3330,
-      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
+      "ultima_verificacao": "2026-07-06T18:16:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 948,
-      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
+      "ultima_verificacao": "2026-07-06T18:16:24-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7095,
-      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
+      "ultima_verificacao": "2026-07-06T18:16:24-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12804,
-      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
+      "ultima_verificacao": "2026-07-06T18:16:24-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4946,
-      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
+      "ultima_verificacao": "2026-07-06T18:16:24-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14057,
-      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
+      "ultimo_numero": 14059,
+      "ultima_verificacao": "2026-07-06T18:16:24-03:00"
     }
   },
   "protocolos": {
@@ -1215,6 +1215,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003804A",
+        "RE": "RE8117003241A",
+        "numgEdificacao": 364369,
+        "Nome_Edificacao": "Rodrigo Marcolla",
+        "Logradouro": "Rua Luiz Franzói",
+        "Numero": "320",
+        "Bairro": "GASPAR - Margem Esquerda",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-06T18:16:24-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003803A",
         "RE": "RE8117000311A",
@@ -4275,6 +4286,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014059A",
+        "RE": "RE8161013713A",
+        "numgEdificacao": 364142,
+        "Nome_Edificacao": "RESIDENCIAL  MULTIFAMILIAR UBIRATA GAVIOLLI DE ARRUDA",
+        "Logradouro": "Rua Júlia Raulina Chaves",
+        "Numero": "140",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-06T18:16:24-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014058A",
+        "RE": "RE8161013723A",
+        "numgEdificacao": 364361,
+        "Nome_Edificacao": "INSTITUTO ABCIDADE",
+        "Logradouro": "RUA JOSE DOMINGOS MACHADO",
+        "Numero": "484",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-06T18:16:24-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014057A",
         "RE": "RE8161011254A",
         "numgEdificacao": 298892,
@@ -5182,13 +5215,13 @@
     "Brusque": 53,
     "Botuvera": 26,
     "Guabiruba": 26,
-    "Gaspar": 37,
+    "Gaspar": 38,
     "Porto Belo": 49,
     "Nova Trento": 32,
     "Itapema": 48,
     "Blumenau": 62,
     "Navegantes": 49,
-    "Itajai": 82
+    "Itajai": 84
   },
-  "total_geral": 464
+  "total_geral": 467
 }
