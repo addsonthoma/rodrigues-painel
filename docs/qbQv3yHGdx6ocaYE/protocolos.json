@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-06T14:38:37-03:00",
+  "timestamp": "2026-07-06T16:28:52-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8017,
-      "ultima_verificacao": "2026-07-06T14:38:37-03:00"
+      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-06T14:38:37-03:00"
+      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-06T14:38:37-03:00"
+      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3803,
-      "ultima_verificacao": "2026-07-06T14:38:37-03:00"
+      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3330,
-      "ultima_verificacao": "2026-07-06T14:38:37-03:00"
+      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 947,
-      "ultima_verificacao": "2026-07-06T14:38:37-03:00"
+      "ultimo_numero": 948,
+      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7095,
-      "ultima_verificacao": "2026-07-06T14:38:37-03:00"
+      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12803,
-      "ultima_verificacao": "2026-07-06T14:38:37-03:00"
+      "ultimo_numero": 12804,
+      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4946,
-      "ultima_verificacao": "2026-07-06T14:38:37-03:00"
+      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14056,
-      "ultima_verificacao": "2026-07-06T14:38:37-03:00"
+      "ultimo_numero": 14057,
+      "ultima_verificacao": "2026-07-06T16:28:52-03:00"
     }
   },
   "protocolos": {
@@ -2166,6 +2166,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoProtocolo": "A8225000948A",
+        "RE": "RE8225000644A",
+        "numgEdificacao": 335102,
+        "Nome_Edificacao": "RUBERTI CONTABILIDADE EIRELI",
+        "Logradouro": "RUA DOS IMIGRANTES",
+        "Numero": "191",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-06T16:28:52-03:00"
+      },
+      {
         "CodigoProtocolo": "A8225000947A",
         "RE": "RE8225000747A",
         "numgEdificacao": 345460,
@@ -3038,6 +3049,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012804A",
+        "RE": "RE8047011944A",
+        "numgEdificacao": 362023,
+        "Nome_Edificacao": "J P GÁS",
+        "Logradouro": "R CHRISTIANO KARSTEN",
+        "Numero": "266",
+        "Bairro": "BLUMENAU - TESTO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-06T16:28:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012803A",
         "RE": "RE8047012002A",
@@ -4253,6 +4275,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014057A",
+        "RE": "RE8161011254A",
+        "numgEdificacao": 298892,
+        "Nome_Edificacao": "ARTISAN RESIDENCE EMPREENDIMENTOS IMOBILIARIOS SPE LTDA",
+        "Logradouro": "RUA ESTADOS UNIDOS",
+        "Numero": "75",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-06T16:28:52-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014056A",
         "RE": "RE8161000965A",
         "numgEdificacao": 27025,
@@ -5151,11 +5184,11 @@
     "Guabiruba": 26,
     "Gaspar": 37,
     "Porto Belo": 49,
-    "Nova Trento": 31,
+    "Nova Trento": 32,
     "Itapema": 48,
-    "Blumenau": 61,
+    "Blumenau": 62,
     "Navegantes": 49,
-    "Itajai": 81
+    "Itajai": 82
   },
-  "total_geral": 461
+  "total_geral": 464
 }

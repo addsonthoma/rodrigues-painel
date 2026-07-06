@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-07-06T14:30:57-03:00",
+  "timestamp": "2026-07-06T16:21:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 765,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T14:30:57-03:00"
+      "ultima_verificacao": "2026-07-06T16:21:21-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 27,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T14:30:57-03:00"
+      "ultima_verificacao": "2026-07-06T16:21:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 55,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T14:30:57-03:00"
+      "ultima_verificacao": "2026-07-06T16:21:21-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 478,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T14:30:57-03:00"
+      "ultima_verificacao": "2026-07-06T16:21:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 437,
+      "ultimo_numero": 438,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T14:30:57-03:00"
+      "ultima_verificacao": "2026-07-06T16:21:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 369,
+      "ultimo_numero": 370,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T14:30:57-03:00"
+      "ultima_verificacao": "2026-07-06T16:21:21-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 899,
+      "ultimo_numero": 900,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T14:30:57-03:00"
+      "ultima_verificacao": "2026-07-06T16:21:21-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 863,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T14:30:57-03:00"
+      "ultima_verificacao": "2026-07-06T16:21:21-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 257,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T14:30:57-03:00"
+      "ultima_verificacao": "2026-07-06T16:21:21-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 898,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-06T14:30:57-03:00"
+      "ultima_verificacao": "2026-07-06T16:21:21-03:00"
     }
   },
   "afs": {
@@ -3164,6 +3164,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "AF8265000438A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000548A",
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL AGUAS DE PORTO BELO",
+        "Logradouro": "AVENIDA JOSé NEOLI CRUZ",
+        "Numero": "448",
+        "Bairro": "PORTO BELO - SANTA LUZIA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-06T16:21:21-03:00"
+      },
+      {
         "CodigoAuto": "AF8265000437A/26",
         "Tipo": "AF",
         "RE": "RE8265000370A",
@@ -4772,6 +4783,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000370A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000054A",
+        "Nome_Edificacao": "ANTONIO VILMAR BOSO",
+        "Logradouro": "Rua dos Imigrantes",
+        "Numero": "845",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-06T16:21:21-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000369A/26",
         "Tipo": "AF",
         "RE": "RE8225000197A",
@@ -5422,6 +5444,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163000900A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002834A",
+        "Nome_Edificacao": "RESIDENCIAL MANCHESTER",
+        "Logradouro": "Rua 319",
+        "Numero": "25",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-06T16:21:21-03:00"
+      },
       {
         "CodigoAuto": "AF8163000899A/26",
         "Tipo": "AF",
@@ -11111,12 +11144,12 @@
     "Botuvera": 27,
     "Guabiruba": 35,
     "Gaspar": 64,
-    "Porto Belo": 146,
-    "Nova Trento": 59,
-    "Itapema": 166,
+    "Porto Belo": 147,
+    "Nova Trento": 60,
+    "Itapema": 167,
     "Blumenau": 150,
     "Navegantes": 53,
     "Itajai": 147
   },
-  "total_geral": 1002
+  "total_geral": 1005
 }
