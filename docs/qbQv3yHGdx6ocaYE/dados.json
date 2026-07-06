@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-07-06T11:42:34-03:00",
+  "timestamp": "2026-07-06T14:30:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 89,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-06T11:42:34-03:00"
+      "ultima_verificacao": "2026-07-06T14:30:24-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-06T11:42:34-03:00"
+      "ultima_verificacao": "2026-07-06T14:30:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-06T11:42:34-03:00"
+      "ultima_verificacao": "2026-07-06T14:30:24-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-06T11:42:34-03:00"
+      "ultima_verificacao": "2026-07-06T14:30:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 85,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-06T11:42:34-03:00"
+      "ultima_verificacao": "2026-07-06T14:30:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 107,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-06T11:42:34-03:00"
+      "ultima_verificacao": "2026-07-06T14:30:24-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 151,
+      "ultimo_numero": 153,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-06T11:42:34-03:00"
+      "ultima_verificacao": "2026-07-06T14:30:24-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 180,
+      "ultimo_numero": 181,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-06T11:42:34-03:00"
+      "ultima_verificacao": "2026-07-06T14:30:24-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-06T11:42:34-03:00"
+      "ultima_verificacao": "2026-07-06T14:30:24-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 351,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-06T11:42:34-03:00"
+      "ultima_verificacao": "2026-07-06T14:30:24-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000181A/26",
+        "RE": "RE8047005396A",
+        "Nome_Edificacao": "EDIFICIO SETENTRIONAL",
+        "Logradouro": "RUA 15 DE NOVEMBRO",
+        "Numero": "1071",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-06T14:30:24-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000180A/26",
         "RE": "RE8047008885A",
@@ -1739,6 +1749,26 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000152A/26",
+        "RE": "RE8163006402A",
+        "Nome_Edificacao": "LOJAS COMERCIAIS VÔ JAQUES",
+        "Logradouro": "2ª Avenida",
+        "Numero": "379",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-06T14:30:24-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000153A/26",
+        "RE": "RE8163003323A",
+        "Nome_Edificacao": "EDIFICIO DOMINIQUE",
+        "Logradouro": "RUA 216",
+        "Numero": "50",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-06T14:30:24-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000151A/26",
         "RE": "RE8163001311A",
         "Nome_Edificacao": "GALPÃO KIRCHNER L14Q09",
@@ -2712,19 +2742,40 @@
     ]
   },
   "totais": {
-    "Blumenau": 45,
+    "Blumenau": 46,
     "Botuvera": 3,
     "Brusque": 34,
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 69,
-    "Itapema": 34,
+    "Itapema": 36,
     "Navegantes": 17,
     "Nova Trento": 24,
     "Porto Belo": 28
   },
-  "total_geral": 275,
+  "total_geral": 278,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-06T14:30:24-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000181A/26",
+      "nome": "EDIFICIO SETENTRIONAL",
+      "re": "RE8047005396A"
+    },
+    {
+      "ts": "2026-07-06T14:30:24-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000153A/26",
+      "nome": "EDIFICIO DOMINIQUE",
+      "re": "RE8163003323A"
+    },
+    {
+      "ts": "2026-07-06T14:30:24-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000152A/26",
+      "nome": "LOJAS COMERCIAIS VÔ JAQUES",
+      "re": "RE8163006402A"
+    },
     {
       "ts": "2026-07-06T11:42:34-03:00",
       "cidade": "Nova Trento",
@@ -3053,27 +3104,6 @@
       "codigo": "MUL8161000312A/26",
       "nome": "UBS IMARUÍ",
       "re": "RE8161001756A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000311A/26",
-      "nome": "UBS Praia Brava - Vivaldo João Linhares",
-      "re": "RE8161001755A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000310A/26",
-      "nome": "UNIDADE BASICA DE SAUDE PORTAL II",
-      "re": "RE8161012369A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000309A/26",
-      "nome": "UBS SANTA REGINA",
-      "re": "RE8161013191A"
     }
   ]
 }
