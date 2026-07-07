@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-07-07T02:39:23-03:00",
+  "timestamp": "2026-07-07T04:27:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8017,
-      "ultima_verificacao": "2026-07-07T02:39:23-03:00"
+      "ultimo_numero": 8018,
+      "ultima_verificacao": "2026-07-07T04:27:56-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-07T02:39:23-03:00"
+      "ultima_verificacao": "2026-07-07T04:27:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-07T02:39:23-03:00"
+      "ultima_verificacao": "2026-07-07T04:27:56-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3804,
-      "ultima_verificacao": "2026-07-07T02:39:23-03:00"
+      "ultima_verificacao": "2026-07-07T04:27:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3330,
-      "ultima_verificacao": "2026-07-07T02:39:23-03:00"
+      "ultima_verificacao": "2026-07-07T04:27:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 948,
-      "ultima_verificacao": "2026-07-07T02:39:23-03:00"
+      "ultima_verificacao": "2026-07-07T04:27:56-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7095,
-      "ultima_verificacao": "2026-07-07T02:39:23-03:00"
+      "ultima_verificacao": "2026-07-07T04:27:56-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12804,
-      "ultima_verificacao": "2026-07-07T02:39:23-03:00"
+      "ultimo_numero": 12806,
+      "ultima_verificacao": "2026-07-07T04:27:56-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4946,
-      "ultima_verificacao": "2026-07-07T02:39:23-03:00"
+      "ultima_verificacao": "2026-07-07T04:27:56-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14059,
-      "ultima_verificacao": "2026-07-07T02:39:23-03:00"
+      "ultima_verificacao": "2026-07-07T04:27:56-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008018A",
+        "RE": "RE8055006756A",
+        "numgEdificacao": 364249,
+        "Nome_Edificacao": "MZH ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Florianópolis",
+        "Numero": "1729",
+        "Bairro": "BRUSQUE - Águas Claras",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-07T04:27:56-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008017A",
         "RE": "RE8055006754A",
@@ -3061,6 +3072,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012806A",
+        "RE": "RE8047011278A",
+        "numgEdificacao": 333027,
+        "Nome_Edificacao": "SCHMITZ,  GILMAR V.",
+        "Logradouro": "R PROFESSOR JACOB INEICHEN",
+        "Numero": "5210",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-07T04:27:56-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012805A",
+        "RE": "RE8047002181A",
+        "numgEdificacao": 110967,
+        "Nome_Edificacao": "W. BREITKOPF COMÉRCIO E INDÚSTRIA LTDA",
+        "Logradouro": "Rodovia BR-470",
+        "Numero": "8000",
+        "Bairro": "BLUMENAU - BADENFURT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-07T04:27:56-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012804A",
         "RE": "RE8047011944A",
         "numgEdificacao": 362023,
@@ -5212,16 +5245,16 @@
     ]
   },
   "totais": {
-    "Brusque": 53,
+    "Brusque": 54,
     "Botuvera": 26,
     "Guabiruba": 26,
     "Gaspar": 38,
     "Porto Belo": 49,
     "Nova Trento": 32,
     "Itapema": 48,
-    "Blumenau": 62,
+    "Blumenau": 64,
     "Navegantes": 49,
     "Itajai": 84
   },
-  "total_geral": 467
+  "total_geral": 470
 }
