@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-07-08T09:20:03-03:00",
+  "timestamp": "2026-07-08T11:09:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8019,
-      "ultima_verificacao": "2026-07-08T09:20:03-03:00"
+      "ultimo_numero": 8020,
+      "ultima_verificacao": "2026-07-08T11:09:20-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-08T09:20:03-03:00"
+      "ultima_verificacao": "2026-07-08T11:09:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-08T09:20:03-03:00"
+      "ultima_verificacao": "2026-07-08T11:09:20-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3804,
-      "ultima_verificacao": "2026-07-08T09:20:03-03:00"
+      "ultima_verificacao": "2026-07-08T11:09:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3333,
-      "ultima_verificacao": "2026-07-08T09:20:03-03:00"
+      "ultima_verificacao": "2026-07-08T11:09:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 948,
-      "ultima_verificacao": "2026-07-08T09:20:03-03:00"
+      "ultima_verificacao": "2026-07-08T11:09:20-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7095,
-      "ultima_verificacao": "2026-07-08T09:20:03-03:00"
+      "ultima_verificacao": "2026-07-08T11:09:20-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12811,
-      "ultima_verificacao": "2026-07-08T09:20:03-03:00"
+      "ultima_verificacao": "2026-07-08T11:09:20-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4948,
-      "ultima_verificacao": "2026-07-08T09:20:03-03:00"
+      "ultima_verificacao": "2026-07-08T11:09:20-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14068,
-      "ultima_verificacao": "2026-07-08T09:20:03-03:00"
+      "ultima_verificacao": "2026-07-08T11:09:20-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008020A",
+        "RE": "RE8055006338A",
+        "numgEdificacao": 339306,
+        "Nome_Edificacao": "DUO RESERVA",
+        "Logradouro": "R ALBERTO MUELLER - DE 1252/1253 AO FIM",
+        "Numero": "1410",
+        "Bairro": "BRUSQUE - LIMEIRA ALTA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-08T11:09:20-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008019A",
         "RE": "RE8055006756A",
@@ -5454,7 +5465,7 @@
     ]
   },
   "totais": {
-    "Brusque": 55,
+    "Brusque": 56,
     "Botuvera": 26,
     "Guabiruba": 26,
     "Gaspar": 38,
@@ -5465,5 +5476,5 @@
     "Navegantes": 51,
     "Itajai": 92
   },
-  "total_geral": 489
+  "total_geral": 490
 }
