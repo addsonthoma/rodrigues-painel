@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-08T18:28:04-03:00",
+  "timestamp": "2026-07-08T20:17:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8021,
-      "ultima_verificacao": "2026-07-08T18:28:04-03:00"
+      "ultima_verificacao": "2026-07-08T20:17:21-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-08T18:28:04-03:00"
+      "ultima_verificacao": "2026-07-08T20:17:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-08T18:28:04-03:00"
+      "ultima_verificacao": "2026-07-08T20:17:21-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3805,
-      "ultima_verificacao": "2026-07-08T18:28:04-03:00"
+      "ultimo_numero": 3806,
+      "ultima_verificacao": "2026-07-08T20:17:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3333,
-      "ultima_verificacao": "2026-07-08T18:28:04-03:00"
+      "ultima_verificacao": "2026-07-08T20:17:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 948,
-      "ultima_verificacao": "2026-07-08T18:28:04-03:00"
+      "ultima_verificacao": "2026-07-08T20:17:21-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7095,
-      "ultima_verificacao": "2026-07-08T18:28:04-03:00"
+      "ultimo_numero": 7099,
+      "ultima_verificacao": "2026-07-08T20:17:21-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12811,
-      "ultima_verificacao": "2026-07-08T18:28:04-03:00"
+      "ultimo_numero": 12813,
+      "ultima_verificacao": "2026-07-08T20:17:21-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4948,
-      "ultima_verificacao": "2026-07-08T18:28:04-03:00"
+      "ultima_verificacao": "2026-07-08T20:17:21-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14069,
-      "ultima_verificacao": "2026-07-08T18:28:04-03:00"
+      "ultimo_numero": 14075,
+      "ultima_verificacao": "2026-07-08T20:17:21-03:00"
     }
   },
   "protocolos": {
@@ -1259,6 +1259,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003806A",
+        "RE": "RE8117002624A",
+        "numgEdificacao": 295614,
+        "Nome_Edificacao": "STK CONFECÇÕES LTDA",
+        "Logradouro": "Anfiloquio Nunes pires",
+        "Numero": "4100",
+        "Bairro": "GASPAR - BELA VISTA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003805A",
         "RE": "RE8117003247A",
@@ -2619,6 +2630,50 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007099A",
+        "RE": "RE8163006787A",
+        "numgEdificacao": 364458,
+        "Nome_Edificacao": "CRISPIM",
+        "Logradouro": "RUA 904A",
+        "Numero": "37",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007098A",
+        "RE": "RE8163006718A",
+        "numgEdificacao": 360955,
+        "Nome_Edificacao": "Salão de Beleza Paula Snaider",
+        "Logradouro": "Rua 1208",
+        "Numero": "701",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007097A",
+        "RE": "RE8163006787A",
+        "numgEdificacao": 364458,
+        "Nome_Edificacao": "CRISPIM",
+        "Logradouro": "RUA 904A",
+        "Numero": "37",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007096A",
+        "RE": "RE8163006788A",
+        "numgEdificacao": 364477,
+        "Nome_Edificacao": "ZILDA DA SILVA PACHECO",
+        "Logradouro": "Rua 454",
+        "Numero": "728",
+        "Bairro": "ITAPEMA - JARDIM PRAIA MAR",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007095A",
         "RE": "RE8163006274A",
         "numgEdificacao": 329293,
@@ -3148,6 +3203,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012813A",
+        "RE": "RE8047010312A",
+        "numgEdificacao": 293560,
+        "Nome_Edificacao": "FURB, CAMPUS II",
+        "Logradouro": "RUA SAO PAULO",
+        "Numero": "3250",
+        "Bairro": "BLUMENAU - ITOUPAVA SECA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012812A",
+        "RE": "RE8047011483A",
+        "numgEdificacao": 341496,
+        "Nome_Edificacao": "Hermann Tiedt",
+        "Logradouro": "Rua Hermann Tiedt",
+        "Numero": "241",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012811A",
         "RE": "RE8047012013A",
@@ -4473,6 +4550,72 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014075A",
+        "RE": "RE8161007696A",
+        "numgEdificacao": 206116,
+        "Nome_Edificacao": "IGREJA EVANGELICA ASSEMBLEIA DE DEUS",
+        "Logradouro": "Rua Capitão Adolfo Germano de Andrade",
+        "Numero": "123",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014074A",
+        "RE": "RE8161007696A",
+        "numgEdificacao": 206116,
+        "Nome_Edificacao": "IGREJA EVANGELICA ASSEMBLEIA DE DEUS",
+        "Logradouro": "Rua Capitão Adolfo Germano de Andrade",
+        "Numero": "123",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014073A",
+        "RE": "RE8161007696A",
+        "numgEdificacao": 206116,
+        "Nome_Edificacao": "IGREJA EVANGELICA ASSEMBLEIA DE DEUS",
+        "Logradouro": "Rua Capitão Adolfo Germano de Andrade",
+        "Numero": "123",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014072A",
+        "RE": "RE8161013726A",
+        "numgEdificacao": 364564,
+        "Nome_Edificacao": "GALPÃO COMERCIAL FOCOSC",
+        "Logradouro": "R JOSE PEREIRA LIBERATO",
+        "Numero": "3137",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014071A",
+        "RE": "RE8161013727A",
+        "numgEdificacao": 364580,
+        "Nome_Edificacao": "Josué Maurer Carneiro",
+        "Logradouro": "Rua Jasiel José Rosa",
+        "Numero": "563",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014070A",
+        "RE": "RE8161013675A",
+        "numgEdificacao": 363066,
+        "Nome_Edificacao": "REI ROSA (SALSEIROS)",
+        "Logradouro": "AV PRESIDENTE CASTELO BRANCO",
+        "Numero": "591",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:17:21-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014069A",
         "RE": "RE8161013717A",
         "numgEdificacao": 364171,
@@ -5501,13 +5644,13 @@
     "Brusque": 57,
     "Botuvera": 26,
     "Guabiruba": 26,
-    "Gaspar": 39,
+    "Gaspar": 40,
     "Porto Belo": 52,
     "Nova Trento": 32,
-    "Itapema": 48,
-    "Blumenau": 69,
+    "Itapema": 52,
+    "Blumenau": 71,
     "Navegantes": 51,
-    "Itajai": 93
+    "Itajai": 99
   },
-  "total_geral": 493
+  "total_geral": 506
 }

@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-08T15:48:50-03:00",
+  "timestamp": "2026-07-08T20:08:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T15:48:50-03:00"
+      "ultima_verificacao": "2026-07-08T20:08:58-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T15:48:50-03:00"
+      "ultima_verificacao": "2026-07-08T20:08:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T15:48:50-03:00"
+      "ultima_verificacao": "2026-07-08T20:08:58-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T15:48:50-03:00"
+      "ultima_verificacao": "2026-07-08T20:08:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 85,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T15:48:50-03:00"
+      "ultima_verificacao": "2026-07-08T20:08:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 107,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T15:48:50-03:00"
+      "ultima_verificacao": "2026-07-08T20:08:58-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 153,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T15:48:50-03:00"
+      "ultima_verificacao": "2026-07-08T20:08:58-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 183,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T15:48:50-03:00"
+      "ultima_verificacao": "2026-07-08T20:08:58-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T15:48:50-03:00"
+      "ultima_verificacao": "2026-07-08T20:08:58-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 356,
+      "ultimo_numero": 363,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T15:48:50-03:00"
+      "ultima_verificacao": "2026-07-08T20:08:58-03:00"
     }
   },
   "multas": {
@@ -1103,6 +1103,76 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000357A/26",
+        "RE": "RE8161012285A",
+        "Nome_Edificacao": "MARIA APARECIDA  PROVESI",
+        "Logradouro": "R ERNESTO KOBARG",
+        "Numero": "154",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:08:58-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000358A/26",
+        "RE": "RE8161006133A",
+        "Nome_Edificacao": "ESPOLIO DE ANTONINO JARES LONGO",
+        "Logradouro": "R INDAIAL",
+        "Numero": "911",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:08:58-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000359A/26",
+        "RE": "RE8161005670A",
+        "Nome_Edificacao": "ORSI LOGISTICA",
+        "Logradouro": "Rua Doutor Reinaldo Schmithausen",
+        "Numero": "495",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:08:58-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000360A/26",
+        "RE": "RE8161002361A",
+        "Nome_Edificacao": "Residencial Lago Maggiore",
+        "Logradouro": "Rua São Paulo",
+        "Numero": "270",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:08:58-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000361A/26",
+        "RE": "RE8161004017A",
+        "Nome_Edificacao": "NINO MARTINS EMPREENDIMENTOS IMOBILIARIOS LTDA",
+        "Logradouro": "Rua Henrique Borba dos Santos",
+        "Numero": "242",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:08:58-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000362A/26",
+        "RE": "RE8161005743A",
+        "Nome_Edificacao": "ÉLIA MARIA DE AVIZ",
+        "Logradouro": "Rua José Luiz Marcelino",
+        "Numero": "649",
+        "Bairro": "ITAJAÍ - MURTA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:08:58-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000363A/26",
+        "RE": "RE8161005123A",
+        "Nome_Edificacao": "FEMEPE CAPTURA DE PESCADOS LTDA",
+        "Logradouro": "Rua Henrique Dauer",
+        "Numero": "273",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T20:08:58-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000352A/26",
         "RE": "RE8161009102A",
@@ -2827,14 +2897,63 @@
     "Brusque": 35,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 74,
+    "Itajai": 81,
     "Itapema": 36,
     "Navegantes": 17,
     "Nova Trento": 24,
     "Porto Belo": 28
   },
-  "total_geral": 286,
+  "total_geral": 293,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-08T20:08:58-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000363A/26",
+      "nome": "FEMEPE CAPTURA DE PESCADOS LTDA",
+      "re": "RE8161005123A"
+    },
+    {
+      "ts": "2026-07-08T20:08:58-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000362A/26",
+      "nome": "ÉLIA MARIA DE AVIZ",
+      "re": "RE8161005743A"
+    },
+    {
+      "ts": "2026-07-08T20:08:58-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000361A/26",
+      "nome": "NINO MARTINS EMPREENDIMENTOS IMOBILIARIOS LTDA",
+      "re": "RE8161004017A"
+    },
+    {
+      "ts": "2026-07-08T20:08:58-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000360A/26",
+      "nome": "Residencial Lago Maggiore",
+      "re": "RE8161002361A"
+    },
+    {
+      "ts": "2026-07-08T20:08:58-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000359A/26",
+      "nome": "ORSI LOGISTICA",
+      "re": "RE8161005670A"
+    },
+    {
+      "ts": "2026-07-08T20:08:58-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000358A/26",
+      "nome": "ESPOLIO DE ANTONINO JARES LONGO",
+      "re": "RE8161006133A"
+    },
+    {
+      "ts": "2026-07-08T20:08:58-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000357A/26",
+      "nome": "MARIA APARECIDA  PROVESI",
+      "re": "RE8161012285A"
+    },
     {
       "ts": "2026-07-08T14:11:18-03:00",
       "cidade": "Itajai",
@@ -3058,132 +3177,6 @@
       "codigo": "MUL8163000149A/26",
       "nome": "Galpão e sala comercial",
       "re": "RE8163006713A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000337A/26",
-      "nome": "C.E.I. Darlan Dotto Wiersinski - SEMA ADMINISTRADORA DE BENS E PARTICIPACOES LTDA",
-      "re": "RE8161004749A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000336A/26",
-      "nome": "EB ELIAS ADAIME",
-      "re": "RE8161000972A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000335A/26",
-      "nome": "CEI PROF. MARIA DO CARMO ESPÍNDOLA",
-      "re": "RE8161000983A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000334A/26",
-      "nome": "UBS São João - Diva Vieira Abrantes",
-      "re": "RE8161001765A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000333A/26",
-      "nome": "UBS Cidade Nova II",
-      "re": "RE8161001780A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000332A/26",
-      "nome": "EB DE CAMPO MARIA DO CARMO VIEIRA",
-      "re": "RE8161001018A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000331A/26",
-      "nome": "UBS Cordeiros",
-      "re": "RE8161001782A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000330A/26",
-      "nome": "UBS Cidade Nova I",
-      "re": "RE8161001779A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000329A/26",
-      "nome": "UBS Fazenda Cabeçudas",
-      "re": "RE8161001730A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000328A/26",
-      "nome": "Centro Terapêutico Especializado em Autismo - CTEA",
-      "re": "RE8161001840A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000327A/26",
-      "nome": "UBS Itaipava",
-      "re": "RE8161001781A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000326A/26",
-      "nome": "UBS Brilhante Leopoldo Fischer",
-      "re": "RE8161001776A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000325A/26",
-      "nome": "UBS SÃO FRANCISCO DE ASSIS",
-      "re": "RE8161001541A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000324A/26",
-      "nome": "UBS Costa Cavalcante",
-      "re": "RE8161001783A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000323A/26",
-      "nome": "UPA CORDEIROS",
-      "re": "RE8161001544A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000322A/26",
-      "nome": "UBS Votorantim",
-      "re": "RE8161001787A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000321A/26",
-      "nome": "UBS São Pedro - JOICE CHAIANE MARCOLINO",
-      "re": "RE8161001777A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000320A/26",
-      "nome": "UBS Fazenda - Nancy Patino Reiser",
-      "re": "RE8161001729A"
     }
   ]
 }
