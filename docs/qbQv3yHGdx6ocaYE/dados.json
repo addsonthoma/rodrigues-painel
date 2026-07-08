@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-07T20:05:09-03:00",
+  "timestamp": "2026-07-08T00:27:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 89,
+      "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-07T20:05:09-03:00"
+      "ultima_verificacao": "2026-07-08T00:27:23-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-07T20:05:09-03:00"
+      "ultima_verificacao": "2026-07-08T00:27:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-07T20:05:09-03:00"
+      "ultima_verificacao": "2026-07-08T00:27:23-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-07T20:05:09-03:00"
+      "ultima_verificacao": "2026-07-08T00:27:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 85,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-07T20:05:09-03:00"
+      "ultima_verificacao": "2026-07-08T00:27:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 107,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-07T20:05:09-03:00"
+      "ultima_verificacao": "2026-07-08T00:27:23-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 153,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-07T20:05:09-03:00"
+      "ultima_verificacao": "2026-07-08T00:27:23-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 183,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-07T20:05:09-03:00"
+      "ultima_verificacao": "2026-07-08T00:27:23-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-07T20:05:09-03:00"
+      "ultima_verificacao": "2026-07-08T00:27:23-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 351,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-07T20:05:09-03:00"
+      "ultima_verificacao": "2026-07-08T00:27:23-03:00"
     }
   },
   "multas": {
@@ -570,6 +570,16 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000090A/26",
+        "RE": "RE8055002848A",
+        "Nome_Edificacao": "MITRA METROPOLITANA",
+        "Logradouro": "Rua João XXIII",
+        "Numero": "191",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-08T00:27:23-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000085A/26",
         "RE": "RE8055001157A",
@@ -2764,7 +2774,7 @@
   "totais": {
     "Blumenau": 48,
     "Botuvera": 3,
-    "Brusque": 34,
+    "Brusque": 35,
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 69,
@@ -2773,8 +2783,15 @@
     "Nova Trento": 24,
     "Porto Belo": 28
   },
-  "total_geral": 280,
+  "total_geral": 281,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-08T00:27:23-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000090A/26",
+      "nome": "MITRA METROPOLITANA",
+      "re": "RE8055002848A"
+    },
     {
       "ts": "2026-07-06T18:08:33-03:00",
       "cidade": "Blumenau",
@@ -3117,13 +3134,6 @@
       "codigo": "MUL8161000315A/26",
       "nome": "UBS MURTA",
       "re": "RE8161001785A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000314A/26",
-      "nome": "Centro de Referência da Criança e da Mulher - CRESCEM",
-      "re": "RE8161001841A"
     }
   ]
 }

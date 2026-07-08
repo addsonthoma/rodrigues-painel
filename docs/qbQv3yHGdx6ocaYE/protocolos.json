@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-07-07T22:45:11-03:00",
+  "timestamp": "2026-07-08T00:35:54-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8018,
-      "ultima_verificacao": "2026-07-07T22:45:11-03:00"
+      "ultimo_numero": 8019,
+      "ultima_verificacao": "2026-07-08T00:35:54-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-07T22:45:11-03:00"
+      "ultima_verificacao": "2026-07-08T00:35:54-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-07T22:45:11-03:00"
+      "ultima_verificacao": "2026-07-08T00:35:54-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3804,
-      "ultima_verificacao": "2026-07-07T22:45:11-03:00"
+      "ultima_verificacao": "2026-07-08T00:35:54-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3330,
-      "ultima_verificacao": "2026-07-07T22:45:11-03:00"
+      "ultimo_numero": 3333,
+      "ultima_verificacao": "2026-07-08T00:35:54-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 948,
-      "ultima_verificacao": "2026-07-07T22:45:11-03:00"
+      "ultima_verificacao": "2026-07-08T00:35:54-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7095,
-      "ultima_verificacao": "2026-07-07T22:45:11-03:00"
+      "ultima_verificacao": "2026-07-08T00:35:54-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12806,
-      "ultima_verificacao": "2026-07-07T22:45:11-03:00"
+      "ultimo_numero": 12811,
+      "ultima_verificacao": "2026-07-08T00:35:54-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4946,
-      "ultima_verificacao": "2026-07-07T22:45:11-03:00"
+      "ultimo_numero": 4948,
+      "ultima_verificacao": "2026-07-08T00:35:54-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14059,
-      "ultima_verificacao": "2026-07-07T22:45:11-03:00"
+      "ultimo_numero": 14068,
+      "ultima_verificacao": "2026-07-08T00:35:54-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008019A",
+        "RE": "RE8055006756A",
+        "numgEdificacao": 364249,
+        "Nome_Edificacao": "MZH ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Florianópolis",
+        "Numero": "1729",
+        "Bairro": "BRUSQUE - Águas Claras",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008018A",
         "RE": "RE8055006756A",
@@ -1647,6 +1658,39 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003333A",
+        "RE": "RE8265002765A",
+        "numgEdificacao": 361915,
+        "Nome_Edificacao": "JMT EMPREENDIMENTOS IMOBILIARIOS LTDA",
+        "Logradouro": "avenida governador celso ramos",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003332A",
+        "RE": "RE8265002798A",
+        "numgEdificacao": 364454,
+        "Nome_Edificacao": "Galpão Depósito C.A.T Participações Eireli",
+        "Logradouro": "Rua José Neoli da Cruz",
+        "Numero": "5000",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003331A",
+        "RE": "RE8265002797A",
+        "numgEdificacao": 364443,
+        "Nome_Edificacao": "Ecalthi construtora e incorporadora",
+        "Logradouro": "RUA ALDO BRANDO",
+        "Numero": "46",
+        "Bairro": "PORTO BELO - Balneário Perequê",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003330A",
         "RE": "RE8265002796A",
         "numgEdificacao": 364068,
@@ -3072,6 +3116,61 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012811A",
+        "RE": "RE8047012013A",
+        "numgEdificacao": 364507,
+        "Nome_Edificacao": "INSTITUTO PEDRO FELIPE FISIOTERAPIA ESPECIALIZADA LTDA",
+        "Logradouro": "Rua Linus Hadlich",
+        "Numero": "19",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012810A",
+        "RE": "RE8047012012A",
+        "numgEdificacao": 364499,
+        "Nome_Edificacao": "GARBE INDUSTRIA E COMÉRCIO LTDA",
+        "Logradouro": "RUA ERNST KAESTNER",
+        "Numero": "905",
+        "Bairro": "BLUMENAU - Itoupava Central",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012809A",
+        "RE": "RE8047011946A",
+        "numgEdificacao": 362076,
+        "Nome_Edificacao": "ITALO BYUNG GUALBERTO CHEI",
+        "Logradouro": "Rua Curt Hering",
+        "Numero": "161",
+        "Bairro": "BLUMENAU - Centro",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012808A",
+        "RE": "RE8047012010A",
+        "numgEdificacao": 364432,
+        "Nome_Edificacao": "RESIDENCIAL MULTIFAMILIAR",
+        "Logradouro": "Rua Monteiro Lobato",
+        "Numero": "34",
+        "Bairro": "BLUMENAU - TRIBESS",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012807A",
+        "RE": "RE8047012009A",
+        "numgEdificacao": 364426,
+        "Nome_Edificacao": "RAIZEL & GRASSI POUSADA E HOTELARIA LTDA",
+        "Logradouro": "RUA JACO BRUECKHEIMER",
+        "Numero": "234",
+        "Bairro": "BLUMENAU - Velha",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012806A",
         "RE": "RE8047011278A",
         "numgEdificacao": 333027,
@@ -3778,6 +3877,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004948A",
+        "RE": "RE8221000419A",
+        "numgEdificacao": 30116,
+        "Nome_Edificacao": "HOSPITAL NOSSA SENHORA DOS NAVEGANTES",
+        "Logradouro": "Rua Natividade Costa",
+        "Numero": "641",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004947A",
+        "RE": "RE8221000071A",
+        "numgEdificacao": 5096,
+        "Nome_Edificacao": "Posto Presidente Ltda",
+        "Logradouro": "Avenida Conselheiro João Gaya 1300",
+        "Numero": "1300",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004946A",
         "RE": "RE8221004093A",
         "numgEdificacao": 363939,
@@ -4318,6 +4439,94 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014068A",
+        "RE": "RE8161013714A",
+        "numgEdificacao": 364149,
+        "Nome_Edificacao": "Residencial Alves",
+        "Logradouro": "Rua Vereador Pedro João de Souza Filho",
+        "Numero": "2442",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014067A",
+        "RE": "RE8161001556A",
+        "numgEdificacao": 44138,
+        "Nome_Edificacao": "VIGANDO VITTI",
+        "Logradouro": "Rua Antônio Bento da Silva",
+        "Numero": "348",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014066A",
+        "RE": "RE8161003506A",
+        "numgEdificacao": 107563,
+        "Nome_Edificacao": "TOIGO",
+        "Logradouro": "Rua Lico Amaral",
+        "Numero": "200",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014065A",
+        "RE": "RE8161013704A",
+        "numgEdificacao": 363950,
+        "Nome_Edificacao": "DISTRIBUIDORA SAO FRANCISCO LTDA",
+        "Logradouro": "RUA INDAIAL",
+        "Numero": "864",
+        "Bairro": "ITAJAÍ - São Judas",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014064A",
+        "RE": "RE8161011942A",
+        "numgEdificacao": 316291,
+        "Nome_Edificacao": "Trade Park Sardagna Empreendimento SPE LTDA",
+        "Logradouro": "RODVIA BR-101",
+        "Numero": "12750",
+        "Bairro": "ITAJAÍ - CANHANDUBA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014063A",
+        "RE": "RE8161009909A",
+        "numgEdificacao": 265211,
+        "Nome_Edificacao": "51.949.041 GERONIMO DE JESUS CORREIA",
+        "Logradouro": "R ARQUITETO LUIZ AUGUSTO TROJAN",
+        "Numero": "428",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014062A",
+        "RE": "RE8161008478A",
+        "numgEdificacao": 224739,
+        "Nome_Edificacao": "GALPÕES GNOATTO & RAIMONDI",
+        "Logradouro": "Rua Bruno Vicente da Luz",
+        "Numero": "1087",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014061A",
+        "RE": "RE8161008478A",
+        "numgEdificacao": 224739,
+        "Nome_Edificacao": "GALPÕES GNOATTO & RAIMONDI",
+        "Logradouro": "Rua Bruno Vicente da Luz",
+        "Numero": "1087",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T00:35:54-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014059A",
         "RE": "RE8161013713A",
@@ -5245,16 +5454,16 @@
     ]
   },
   "totais": {
-    "Brusque": 54,
+    "Brusque": 55,
     "Botuvera": 26,
     "Guabiruba": 26,
     "Gaspar": 38,
-    "Porto Belo": 49,
+    "Porto Belo": 52,
     "Nova Trento": 32,
     "Itapema": 48,
-    "Blumenau": 64,
-    "Navegantes": 49,
-    "Itajai": 84
+    "Blumenau": 69,
+    "Navegantes": 51,
+    "Itajai": 92
   },
-  "total_geral": 470
+  "total_geral": 489
 }
