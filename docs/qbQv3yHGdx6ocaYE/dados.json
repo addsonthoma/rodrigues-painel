@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-08T12:37:19-03:00",
+  "timestamp": "2026-07-08T14:11:18-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T12:37:19-03:00"
+      "ultima_verificacao": "2026-07-08T14:11:18-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T12:37:19-03:00"
+      "ultima_verificacao": "2026-07-08T14:11:18-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T12:37:19-03:00"
+      "ultima_verificacao": "2026-07-08T14:11:18-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T12:37:19-03:00"
+      "ultima_verificacao": "2026-07-08T14:11:18-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 85,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T12:37:19-03:00"
+      "ultima_verificacao": "2026-07-08T14:11:18-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 107,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T12:37:19-03:00"
+      "ultima_verificacao": "2026-07-08T14:11:18-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 153,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T12:37:19-03:00"
+      "ultima_verificacao": "2026-07-08T14:11:18-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 183,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T12:37:19-03:00"
+      "ultima_verificacao": "2026-07-08T14:11:18-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 55,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T12:37:19-03:00"
+      "ultima_verificacao": "2026-07-08T14:11:18-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 351,
+      "ultimo_numero": 356,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-08T12:37:19-03:00"
+      "ultima_verificacao": "2026-07-08T14:11:18-03:00"
     }
   },
   "multas": {
@@ -1103,6 +1103,56 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000352A/26",
+        "RE": "RE8161009102A",
+        "Nome_Edificacao": "SANDRA DOS SANTOS CAMPOS",
+        "Logradouro": "Rua São Joaquim",
+        "Numero": "193",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T14:11:18-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000353A/26",
+        "RE": "RE8161004421A",
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL ATALAIA",
+        "Logradouro": "Rua Franklin Máximo Pereira",
+        "Numero": "166",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T14:11:18-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000354A/26",
+        "RE": "RE8161004132A",
+        "Nome_Edificacao": "FERNANDO RODRIGO WERNER DE OLIVEIRA",
+        "Logradouro": "Rua Hildebrando José da Silva",
+        "Numero": "226",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T14:11:18-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000355A/26",
+        "RE": "RE8161005944A",
+        "Nome_Edificacao": "Olavio Valentin de Mello",
+        "Logradouro": "Rua Indaial",
+        "Numero": "1118",
+        "Bairro": "ITAJAÍ - SÃO JUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T14:11:18-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000356A/26",
+        "RE": "RE8161000640A",
+        "Nome_Edificacao": "CEI LÉA LEAL DE SOUZA",
+        "Logradouro": "Rua Curt Hering",
+        "Numero": "387",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-08T14:11:18-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000347A/26",
         "RE": "RE8161009274A",
@@ -2777,14 +2827,49 @@
     "Brusque": 35,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 69,
+    "Itajai": 74,
     "Itapema": 36,
     "Navegantes": 17,
     "Nova Trento": 24,
     "Porto Belo": 28
   },
-  "total_geral": 281,
+  "total_geral": 286,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-08T14:11:18-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000356A/26",
+      "nome": "CEI LÉA LEAL DE SOUZA",
+      "re": "RE8161000640A"
+    },
+    {
+      "ts": "2026-07-08T14:11:18-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000355A/26",
+      "nome": "Olavio Valentin de Mello",
+      "re": "RE8161005944A"
+    },
+    {
+      "ts": "2026-07-08T14:11:18-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000354A/26",
+      "nome": "FERNANDO RODRIGO WERNER DE OLIVEIRA",
+      "re": "RE8161004132A"
+    },
+    {
+      "ts": "2026-07-08T14:11:18-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000353A/26",
+      "nome": "CONDOMINIO RESIDENCIAL ATALAIA",
+      "re": "RE8161004421A"
+    },
+    {
+      "ts": "2026-07-08T14:11:18-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000352A/26",
+      "nome": "SANDRA DOS SANTOS CAMPOS",
+      "re": "RE8161009102A"
+    },
     {
       "ts": "2026-07-08T00:27:23-03:00",
       "cidade": "Brusque",
@@ -3099,41 +3184,6 @@
       "codigo": "MUL8161000320A/26",
       "nome": "UBS Fazenda - Nancy Patino Reiser",
       "re": "RE8161001729A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000319A/26",
-      "nome": "UBS Rotariano Agenor Krobel – Bambuzal",
-      "re": "RE8161000848A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000318A/26",
-      "nome": "UBS SAO VICENTE",
-      "re": "RE8161001549A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000317A/26",
-      "nome": "UBS Jardim Esperança",
-      "re": "RE8161001784A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000316A/26",
-      "nome": "UBS Espinheiros - Rachel Dalçóquio de Borba",
-      "re": "RE8161001838A"
-    },
-    {
-      "ts": "2026-07-01T17:56:13-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000315A/26",
-      "nome": "UBS MURTA",
-      "re": "RE8161001785A"
     }
   ]
 }
