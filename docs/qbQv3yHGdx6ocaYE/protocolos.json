@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-07-09T07:36:58-03:00",
+  "timestamp": "2026-07-09T10:43:11-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8021,
-      "ultima_verificacao": "2026-07-09T07:36:58-03:00"
+      "ultimo_numero": 8022,
+      "ultima_verificacao": "2026-07-09T10:43:11-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-09T07:36:58-03:00"
+      "ultima_verificacao": "2026-07-09T10:43:11-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1501,
-      "ultima_verificacao": "2026-07-09T07:36:58-03:00"
+      "ultima_verificacao": "2026-07-09T10:43:11-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3806,
-      "ultima_verificacao": "2026-07-09T07:36:58-03:00"
+      "ultimo_numero": 3807,
+      "ultima_verificacao": "2026-07-09T10:43:11-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3333,
-      "ultima_verificacao": "2026-07-09T07:36:58-03:00"
+      "ultimo_numero": 3335,
+      "ultima_verificacao": "2026-07-09T10:43:11-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 948,
-      "ultima_verificacao": "2026-07-09T07:36:58-03:00"
+      "ultima_verificacao": "2026-07-09T10:43:11-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7099,
-      "ultima_verificacao": "2026-07-09T07:36:58-03:00"
+      "ultima_verificacao": "2026-07-09T10:43:11-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12813,
-      "ultima_verificacao": "2026-07-09T07:36:58-03:00"
+      "ultimo_numero": 12815,
+      "ultima_verificacao": "2026-07-09T10:43:11-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4948,
-      "ultima_verificacao": "2026-07-09T07:36:58-03:00"
+      "ultimo_numero": 4949,
+      "ultima_verificacao": "2026-07-09T10:43:11-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14075,
-      "ultima_verificacao": "2026-07-09T07:36:58-03:00"
+      "ultimo_numero": 14077,
+      "ultima_verificacao": "2026-07-09T10:43:11-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008022A",
+        "RE": "RE8055006762A",
+        "numgEdificacao": 364657,
+        "Nome_Edificacao": "RAISER IMOVEIS E CONSTRUTORA LTDA - RUA ANSELMO BECKER",
+        "Logradouro": "Rua Anselmo Becker",
+        "Numero": "130",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-09T10:43:11-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008021A",
         "RE": "RE8055005374A",
@@ -1260,6 +1271,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003807A",
+        "RE": "RE8117003232A",
+        "numgEdificacao": 363073,
+        "Nome_Edificacao": "GALPÃO COMERCIAL",
+        "Logradouro": "Rua Jacob Junkes",
+        "Numero": "523",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-09T10:43:11-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003806A",
         "RE": "RE8117002624A",
         "numgEdificacao": 295614,
@@ -1701,6 +1723,28 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003335A",
+        "RE": "RE8265001941A",
+        "numgEdificacao": 255769,
+        "Nome_Edificacao": "Edifício Vega",
+        "Logradouro": "Rua Raynério Osvaldo Krieger",
+        "Numero": "",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-09T10:43:11-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003334A",
+        "RE": "RE8265001777A",
+        "numgEdificacao": 226677,
+        "Nome_Edificacao": "RESIDENCIAL LAROMANÉE",
+        "Logradouro": "Av. Senador Atílio Fontana",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-09T10:43:11-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003333A",
         "RE": "RE8265002765A",
@@ -3204,6 +3248,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012815A",
+        "RE": "RE8047012016A",
+        "numgEdificacao": 364652,
+        "Nome_Edificacao": "RESIDENCIAL LONDRES SPE LTDA",
+        "Logradouro": "Rua Londres",
+        "Numero": "",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-09T10:43:11-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012814A",
+        "RE": "RE8047011226A",
+        "numgEdificacao": 331019,
+        "Nome_Edificacao": "ALEXANDRE WIPPEL EGER",
+        "Logradouro": "R IMPERATRIZ LEOPOLDINA",
+        "Numero": "277",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-09T10:43:11-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012813A",
         "RE": "RE8047010312A",
         "numgEdificacao": 293560,
@@ -3987,6 +4053,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004949A",
+        "RE": "RE8221003217A",
+        "numgEdificacao": 295943,
+        "Nome_Edificacao": "PROJETO MARTA D'ONOFRE TAVARES",
+        "Logradouro": "rua argentina",
+        "Numero": "994",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-09T10:43:11-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004948A",
         "RE": "RE8221000419A",
         "numgEdificacao": 30116,
@@ -4549,6 +4626,28 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014077A",
+        "RE": "RE8161013121A",
+        "numgEdificacao": 346894,
+        "Nome_Edificacao": "ADRY HOTEL E RESTAURANTE LTDA",
+        "Logradouro": "RUA BLUMENAU",
+        "Numero": "1244",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-09T10:43:11-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014076A",
+        "RE": "RE8161007532A",
+        "numgEdificacao": 203702,
+        "Nome_Edificacao": "SERGIO RENATO BITTENCOURT",
+        "Logradouro": "Rua Analina Régis",
+        "Numero": "66",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-09T10:43:11-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014075A",
         "RE": "RE8161007696A",
@@ -5641,16 +5740,16 @@
     ]
   },
   "totais": {
-    "Brusque": 57,
+    "Brusque": 58,
     "Botuvera": 26,
     "Guabiruba": 26,
-    "Gaspar": 40,
-    "Porto Belo": 52,
+    "Gaspar": 41,
+    "Porto Belo": 54,
     "Nova Trento": 32,
     "Itapema": 52,
-    "Blumenau": 71,
-    "Navegantes": 51,
-    "Itajai": 99
+    "Blumenau": 73,
+    "Navegantes": 52,
+    "Itajai": 101
   },
-  "total_geral": 506
+  "total_geral": 515
 }

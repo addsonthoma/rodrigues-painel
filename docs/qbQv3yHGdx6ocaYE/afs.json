@@ -1,69 +1,102 @@
 {
-  "timestamp": "2026-07-09T07:30:19-03:00",
+  "timestamp": "2026-07-09T10:35:17-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 783,
+      "ultimo_numero": 786,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-09T07:30:19-03:00"
+      "ultima_verificacao": "2026-07-09T10:35:17-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
-      "ultimo_numero": 27,
+      "ultimo_numero": 28,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-09T07:30:19-03:00"
+      "ultima_verificacao": "2026-07-09T10:35:17-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 56,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-09T07:30:19-03:00"
+      "ultima_verificacao": "2026-07-09T10:35:17-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 488,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-09T07:30:19-03:00"
+      "ultima_verificacao": "2026-07-09T10:35:17-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 440,
+      "ultimo_numero": 443,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-09T07:30:19-03:00"
+      "ultima_verificacao": "2026-07-09T10:35:17-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 373,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-09T07:30:19-03:00"
+      "ultima_verificacao": "2026-07-09T10:35:17-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 930,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-09T07:30:19-03:00"
+      "ultima_verificacao": "2026-07-09T10:35:17-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 886,
+      "ultimo_numero": 887,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-09T07:30:19-03:00"
+      "ultima_verificacao": "2026-07-09T10:35:17-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 259,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-09T07:30:19-03:00"
+      "ultima_verificacao": "2026-07-09T10:35:17-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 906,
+      "ultimo_numero": 907,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-09T07:30:19-03:00"
+      "ultima_verificacao": "2026-07-09T10:35:17-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000786A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002127A",
+        "Nome_Edificacao": "ED Maria Eugenia",
+        "Logradouro": "Praça Barão de Schneeburg",
+        "Numero": "39",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-09T10:35:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000785A/26",
+        "Tipo": "AF",
+        "RE": "RE8055006759A",
+        "Nome_Edificacao": "TOTAL PLUS PARTICIPACOES LTDA",
+        "Logradouro": "Rua Abrão de Souza e Silva",
+        "Numero": "1455",
+        "Bairro": "BRUSQUE - Volta Grande",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-09T10:35:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000784A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003401A",
+        "Nome_Edificacao": "PAULO CARDOSO",
+        "Logradouro": "R FELIPE SCHMIDT",
+        "Numero": "136",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-09T10:35:17-03:00"
+      },
       {
         "CodigoAuto": "AF8055000783A/26",
         "Tipo": "AF",
@@ -1970,6 +2003,17 @@
     ],
     "Botuvera": [
       {
+        "CodigoAuto": "AF8051000028A/26",
+        "Tipo": "AF",
+        "RE": "RE8051000294A",
+        "Nome_Edificacao": "Embutidos do Nene",
+        "Logradouro": "RUA ESTRADA GERAL GABIROBA",
+        "Numero": "2233",
+        "Bairro": "BOTUVERÁ - GABIROBA",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-07-09T10:35:17-03:00"
+      },
+      {
         "CodigoAuto": "AF8051000027A/26",
         "Tipo": "AF",
         "RE": "RE8051000005A",
@@ -3482,6 +3526,39 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000443A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001352A",
+        "Nome_Edificacao": "JEREMIAS DOS SANTOS",
+        "Logradouro": "RUA MAURILIO MANOEL DA SILVA",
+        "Numero": "344",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-09T10:35:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000442A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001455A",
+        "Nome_Edificacao": "JOAO AMARO FRANCISCO",
+        "Logradouro": "AVENIDA JOSE NOELI CRUZ",
+        "Numero": "1184",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-09T10:35:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000441A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001157A",
+        "Nome_Edificacao": "DOUGLAS DOGLIMAR PARODI",
+        "Logradouro": "avenida governador celso ramos",
+        "Numero": "1510",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-09T10:35:17-03:00"
+      },
       {
         "CodigoAuto": "AF8265000440A/26",
         "Tipo": "AF",
@@ -7988,6 +8065,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000887A/26",
+        "Tipo": "AF",
+        "RE": "RE8047009257A",
+        "Nome_Edificacao": "OLIRIO MILANEZ",
+        "Logradouro": "Rua Timbo,",
+        "Numero": "276",
+        "Bairro": "BLUMENAU - VICTOR KONDER",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-09T10:35:17-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000886A/26",
         "Tipo": "AF",
         "RE": "RE8047002131A",
@@ -10500,6 +10588,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000907A/26",
+        "Tipo": "AF",
+        "RE": "RE8161007696A",
+        "Nome_Edificacao": "IGREJA EVANGELICA ASSEMBLEIA DE DEUS",
+        "Logradouro": "Rua Capitão Adolfo Germano de Andrade",
+        "Numero": "123",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-09T10:35:17-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000906A/26",
         "Tipo": "AF",
         "RE": "RE8161010793A",
@@ -12207,16 +12306,16 @@
     ]
   },
   "totais": {
-    "Brusque": 173,
-    "Botuvera": 27,
+    "Brusque": 176,
+    "Botuvera": 28,
     "Guabiruba": 36,
     "Gaspar": 74,
-    "Porto Belo": 149,
+    "Porto Belo": 152,
     "Nova Trento": 63,
     "Itapema": 197,
-    "Blumenau": 173,
+    "Blumenau": 174,
     "Navegantes": 55,
-    "Itajai": 155
+    "Itajai": 156
   },
-  "total_geral": 1102
+  "total_geral": 1111
 }
