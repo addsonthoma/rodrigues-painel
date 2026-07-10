@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-07-10T08:16:12-03:00",
+  "timestamp": "2026-07-10T10:23:25-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 791,
+      "ultimo_numero": 792,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T08:16:12-03:00"
+      "ultima_verificacao": "2026-07-10T10:23:25-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 28,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T08:16:12-03:00"
+      "ultima_verificacao": "2026-07-10T10:23:25-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 57,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T08:16:12-03:00"
+      "ultima_verificacao": "2026-07-10T10:23:25-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 494,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T08:16:12-03:00"
+      "ultima_verificacao": "2026-07-10T10:23:25-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 444,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T08:16:12-03:00"
+      "ultima_verificacao": "2026-07-10T10:23:25-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 378,
+      "ultimo_numero": 379,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T08:16:12-03:00"
+      "ultima_verificacao": "2026-07-10T10:23:25-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 937,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T08:16:12-03:00"
+      "ultima_verificacao": "2026-07-10T10:23:25-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 893,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T08:16:12-03:00"
+      "ultima_verificacao": "2026-07-10T10:23:25-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 260,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T08:16:12-03:00"
+      "ultima_verificacao": "2026-07-10T10:23:25-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 909,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T08:16:12-03:00"
+      "ultima_verificacao": "2026-07-10T10:23:25-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000792A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004781A",
+        "Nome_Edificacao": "CASA PROPIA MATERIAL DE CONSTRUÇÃO",
+        "Logradouro": "RUA SAO PEDRO",
+        "Numero": "440",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-10T10:23:25-03:00"
+      },
       {
         "CodigoAuto": "AF8055000791A/26",
         "Tipo": "AF",
@@ -5343,6 +5354,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000379A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000666A",
+        "Nome_Edificacao": "CAPELA SANTO ESTANISLAU",
+        "Logradouro": "RUA GERAL VALSUGANA",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - VALSUGANA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-10T10:23:25-03:00"
+      },
       {
         "CodigoAuto": "AF8225000378A/26",
         "Tipo": "AF",
@@ -12680,16 +12702,16 @@
     ]
   },
   "totais": {
-    "Brusque": 181,
+    "Brusque": 182,
     "Botuvera": 28,
     "Guabiruba": 37,
     "Gaspar": 80,
     "Porto Belo": 153,
-    "Nova Trento": 68,
+    "Nova Trento": 69,
     "Itapema": 204,
     "Blumenau": 180,
     "Navegantes": 56,
     "Itajai": 158
   },
-  "total_geral": 1145
+  "total_geral": 1147
 }
