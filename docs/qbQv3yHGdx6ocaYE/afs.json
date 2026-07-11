@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-07-10T18:04:19-03:00",
+  "timestamp": "2026-07-10T22:08:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 799,
+      "ultimo_numero": 800,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T18:04:19-03:00"
+      "ultima_verificacao": "2026-07-10T22:08:58-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 28,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T18:04:19-03:00"
+      "ultima_verificacao": "2026-07-10T22:08:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 57,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T18:04:19-03:00"
+      "ultima_verificacao": "2026-07-10T22:08:58-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 494,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T18:04:19-03:00"
+      "ultima_verificacao": "2026-07-10T22:08:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 444,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T18:04:19-03:00"
+      "ultima_verificacao": "2026-07-10T22:08:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 382,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T18:04:19-03:00"
+      "ultima_verificacao": "2026-07-10T22:08:58-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 939,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T18:04:19-03:00"
+      "ultima_verificacao": "2026-07-10T22:08:58-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 895,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T18:04:19-03:00"
+      "ultima_verificacao": "2026-07-10T22:08:58-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 262,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T18:04:19-03:00"
+      "ultima_verificacao": "2026-07-10T22:08:58-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 920,
+      "ultimo_numero": 922,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-10T18:04:19-03:00"
+      "ultima_verificacao": "2026-07-10T22:08:58-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000800A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000611A",
+        "Nome_Edificacao": "SERGIO",
+        "Logradouro": "Rua Elvira Marques",
+        "Numero": "54",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-10T22:08:58-03:00"
+      },
       {
         "CodigoAuto": "AF8055000799A/26",
         "Tipo": "AF",
@@ -11138,6 +11149,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000922A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005120A",
+        "Nome_Edificacao": "MARIA CAETANO HESS",
+        "Logradouro": "Rua João Honório de Miranda",
+        "Numero": "10",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-10T22:08:58-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000921A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005653A",
+        "Nome_Edificacao": "DELEGACIA DE POLICIA CIVIL DE ITAJAÍ",
+        "Logradouro": "AVENIDA SETE DE SETEMBRO",
+        "Numero": "600",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-10T22:08:58-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000920A/26",
         "Tipo": "AF",
         "RE": "RE8161000291A",
@@ -12999,7 +13032,7 @@
     ]
   },
   "totais": {
-    "Brusque": 189,
+    "Brusque": 190,
     "Botuvera": 28,
     "Guabiruba": 37,
     "Gaspar": 80,
@@ -13008,7 +13041,7 @@
     "Itapema": 206,
     "Blumenau": 182,
     "Navegantes": 58,
-    "Itajai": 169
+    "Itajai": 171
   },
-  "total_geral": 1174
+  "total_geral": 1177
 }
