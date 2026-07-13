@@ -1,79 +1,99 @@
 {
-  "timestamp": "2026-07-13T12:58:24-03:00",
+  "timestamp": "2026-07-13T15:03:00-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 90,
+      "ultimo_numero": 92,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-13T12:58:24-03:00"
+      "ultima_verificacao": "2026-07-13T15:03:00-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-13T12:58:24-03:00"
+      "ultima_verificacao": "2026-07-13T15:03:00-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-13T12:58:24-03:00"
+      "ultima_verificacao": "2026-07-13T15:03:00-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-13T12:58:24-03:00"
+      "ultima_verificacao": "2026-07-13T15:03:00-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 86,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-13T12:58:24-03:00"
+      "ultima_verificacao": "2026-07-13T15:03:00-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 108,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-13T12:58:24-03:00"
+      "ultima_verificacao": "2026-07-13T15:03:00-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 154,
+      "ultimo_numero": 156,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-13T12:58:24-03:00"
+      "ultima_verificacao": "2026-07-13T15:03:00-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 185,
+      "ultimo_numero": 187,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-13T12:58:24-03:00"
+      "ultima_verificacao": "2026-07-13T15:03:00-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 60,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-13T12:58:24-03:00"
+      "ultima_verificacao": "2026-07-13T15:03:00-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 364,
+      "ultimo_numero": 367,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-13T12:58:24-03:00"
+      "ultima_verificacao": "2026-07-13T15:03:00-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000186A/26",
+        "RE": "RE8047011295A",
+        "Nome_Edificacao": "JULINE REVISAO E EMPACOTAMENTO LTDA",
+        "Logradouro": "Rua Nova Zelândia",
+        "Numero": "156",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-13T15:03:00-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000187A/26",
+        "RE": "RE8047011295A",
+        "Nome_Edificacao": "JULINE REVISAO E EMPACOTAMENTO LTDA",
+        "Logradouro": "Rua Nova Zelândia",
+        "Numero": "156",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-13T15:03:00-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000185A/26",
         "RE": "RE8047000539A",
@@ -590,6 +610,26 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000091A/26",
+        "RE": "RE8055003206A",
+        "Nome_Edificacao": "ZM S/A",
+        "Logradouro": "RUA GUILHERME STEFFEN",
+        "Numero": "800",
+        "Bairro": "BRUSQUE - CERÂMICA REIS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-13T15:03:00-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000092A/26",
+        "RE": "RE8055004285A",
+        "Nome_Edificacao": "CAPELA E SALÃO COMUNITÁRIO SANTA CRUZ",
+        "Logradouro": "Rua Arnoldo Ristow",
+        "Numero": "780",
+        "Bairro": "BRUSQUE - ZANTÃO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-13T15:03:00-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000090A/26",
         "RE": "RE8055002848A",
@@ -1123,6 +1163,36 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000365A/26",
+        "RE": "RE8161006133A",
+        "Nome_Edificacao": "ESPOLIO DE ANTONINO JARES LONGO",
+        "Logradouro": "R INDAIAL",
+        "Numero": "911",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-13T15:03:00-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000366A/26",
+        "RE": "RE8161000376A",
+        "Nome_Edificacao": "CONDOMÍNIO RESIDENCIAL E COMERCIAL TORRES DA BRAVA - TORRE SIRENA",
+        "Logradouro": "Rua Luci Canziani",
+        "Numero": "100",
+        "Bairro": "ITAJAÍ - PRAIA BRAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-13T15:03:00-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000367A/26",
+        "RE": "RE8161002583A",
+        "Nome_Edificacao": "VALMOR DAGNONI",
+        "Logradouro": "JOSE BONIFACIO MALBURG",
+        "Numero": "236",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-13T15:03:00-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000364A/26",
         "RE": "RE8161010439A",
@@ -1928,6 +1998,26 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "MUL8163000155A/26",
+        "RE": "RE8163002678A",
+        "Nome_Edificacao": "STRAMOSK LAVA CAR ME",
+        "Logradouro": "RUA - 230",
+        "Numero": "367",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-13T15:03:00-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000156A/26",
+        "RE": "RE8163005179A",
+        "Nome_Edificacao": "RUDINEI LOPES",
+        "Logradouro": "RUA 2160",
+        "Numero": "466",
+        "Bairro": "ITAPEMA - SERTAO TROMBUDO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-13T15:03:00-03:00"
+      },
       {
         "CodigoAuto": "MUL8163000154A/26",
         "RE": "RE8163000906A",
@@ -3002,19 +3092,82 @@
     ]
   },
   "totais": {
-    "Blumenau": 50,
+    "Blumenau": 52,
     "Botuvera": 3,
-    "Brusque": 35,
+    "Brusque": 37,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 82,
-    "Itapema": 37,
+    "Itajai": 85,
+    "Itapema": 39,
     "Navegantes": 22,
     "Nova Trento": 25,
     "Porto Belo": 29
   },
-  "total_geral": 304,
+  "total_geral": 313,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-13T15:03:00-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000367A/26",
+      "nome": "VALMOR DAGNONI",
+      "re": "RE8161002583A"
+    },
+    {
+      "ts": "2026-07-13T15:03:00-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000366A/26",
+      "nome": "CONDOMÍNIO RESIDENCIAL E COMERCIAL TORRES DA BRAVA - TORRE SIRENA",
+      "re": "RE8161000376A"
+    },
+    {
+      "ts": "2026-07-13T15:03:00-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000365A/26",
+      "nome": "ESPOLIO DE ANTONINO JARES LONGO",
+      "re": "RE8161006133A"
+    },
+    {
+      "ts": "2026-07-13T15:03:00-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000187A/26",
+      "nome": "JULINE REVISAO E EMPACOTAMENTO LTDA",
+      "re": "RE8047011295A"
+    },
+    {
+      "ts": "2026-07-13T15:03:00-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000186A/26",
+      "nome": "JULINE REVISAO E EMPACOTAMENTO LTDA",
+      "re": "RE8047011295A"
+    },
+    {
+      "ts": "2026-07-13T15:03:00-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000156A/26",
+      "nome": "RUDINEI LOPES",
+      "re": "RE8163005179A"
+    },
+    {
+      "ts": "2026-07-13T15:03:00-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000155A/26",
+      "nome": "STRAMOSK LAVA CAR ME",
+      "re": "RE8163002678A"
+    },
+    {
+      "ts": "2026-07-13T15:03:00-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000092A/26",
+      "nome": "CAPELA E SALÃO COMUNITÁRIO SANTA CRUZ",
+      "re": "RE8055004285A"
+    },
+    {
+      "ts": "2026-07-13T15:03:00-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000091A/26",
+      "nome": "ZM S/A",
+      "re": "RE8055003206A"
+    },
     {
       "ts": "2026-07-13T12:58:24-03:00",
       "cidade": "Nova Trento",
@@ -3196,27 +3349,6 @@
       "codigo": "MUL8047000182A/26",
       "nome": "EDIFICIO MANHATANN",
       "re": "RE8047001207A"
-    },
-    {
-      "ts": "2026-07-06T14:30:24-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000181A/26",
-      "nome": "EDIFICIO SETENTRIONAL",
-      "re": "RE8047005396A"
-    },
-    {
-      "ts": "2026-07-06T14:30:24-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000153A/26",
-      "nome": "EDIFICIO DOMINIQUE",
-      "re": "RE8163003323A"
-    },
-    {
-      "ts": "2026-07-06T14:30:24-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000152A/26",
-      "nome": "LOJAS COMERCIAIS VÔ JAQUES",
-      "re": "RE8163006402A"
     }
   ]
 }

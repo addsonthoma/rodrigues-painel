@@ -1,69 +1,102 @@
 {
-  "timestamp": "2026-07-13T12:58:56-03:00",
+  "timestamp": "2026-07-13T15:04:01-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 802,
+      "ultimo_numero": 805,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
+      "ultima_verificacao": "2026-07-13T15:04:01-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 28,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
+      "ultima_verificacao": "2026-07-13T15:04:01-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 57,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
+      "ultima_verificacao": "2026-07-13T15:04:01-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 494,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
+      "ultima_verificacao": "2026-07-13T15:04:01-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 444,
+      "ultimo_numero": 445,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
+      "ultima_verificacao": "2026-07-13T15:04:01-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 384,
+      "ultimo_numero": 387,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
+      "ultima_verificacao": "2026-07-13T15:04:01-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 939,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
+      "ultima_verificacao": "2026-07-13T15:04:01-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 895,
+      "ultimo_numero": 897,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
+      "ultima_verificacao": "2026-07-13T15:04:01-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 265,
+      "ultimo_numero": 266,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
+      "ultima_verificacao": "2026-07-13T15:04:01-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 923,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
+      "ultima_verificacao": "2026-07-13T15:04:01-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000805A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002489A",
+        "Nome_Edificacao": "MOVEIS VERDE VALE INDUSTRIA E COMERCIO LTDA",
+        "Logradouro": "R DORVAL LUZ",
+        "Numero": "116",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-13T15:04:01-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000804A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000298A",
+        "Nome_Edificacao": "Vila di Afari",
+        "Logradouro": "Avenida Hugo Schlosser",
+        "Numero": "555",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-13T15:04:01-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000803A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003835A",
+        "Nome_Edificacao": "Made Administradora de Bens Eireli",
+        "Logradouro": "Alameda Ida Westarb",
+        "Numero": "230",
+        "Bairro": "BRUSQUE - Limeira Baixa",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-13T15:04:01-03:00"
+      },
       {
         "CodigoAuto": "AF8055000802A/26",
         "Tipo": "AF",
@@ -3780,6 +3813,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "AF8265000445A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000196A",
+        "Nome_Edificacao": "E.M.NAIR REBELO DOS SANTOS",
+        "Logradouro": "Rua Francisco Severiano dos Santos",
+        "Numero": "192",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-13T15:04:01-03:00"
+      },
+      {
         "CodigoAuto": "AF8265000444A/26",
         "Tipo": "AF",
         "RE": "RE8265000264A",
@@ -5464,6 +5508,39 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000387A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000359A",
+        "Nome_Edificacao": "VALENTIM LUIZ BIANCHINI",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "2132",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-13T15:04:01-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000386A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000652A",
+        "Nome_Edificacao": "LILIAN TEREZINHA SPENCER DALBOSCO",
+        "Logradouro": "RUA SANTO INÁCIO",
+        "Numero": "285",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-13T15:04:01-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000385A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000545A",
+        "Nome_Edificacao": "GALPÃO - EDICLEIA",
+        "Logradouro": "Rua João Bayer Sobrinho",
+        "Numero": "553",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-13T15:04:01-03:00"
+      },
       {
         "CodigoAuto": "AF8225000384A/26",
         "Tipo": "AF",
@@ -8549,6 +8626,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000897A/26",
+        "Tipo": "AF",
+        "RE": "RE8047003959A",
+        "Nome_Edificacao": "EVERALDINO DA SILVA",
+        "Logradouro": "Rua General Osório",
+        "Numero": "2065",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-13T15:04:01-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000896A/26",
+        "Tipo": "AF",
+        "RE": "RE8047000615A",
+        "Nome_Edificacao": "ADMINISTRADORA DE BENS DYCASE LTDA",
+        "Logradouro": "RUA JOAO PESSOA",
+        "Numero": "2870",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-13T15:04:01-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000895A/26",
         "Tipo": "AF",
         "RE": "RE8047007033A",
@@ -10552,6 +10651,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoAuto": "AF8221000266A/26",
+        "Tipo": "AF",
+        "RE": "RE8221004097A",
+        "Nome_Edificacao": "APLICA",
+        "Logradouro": "AVENIDA PREFEITO JOSE JUVENAL MAFRA",
+        "Numero": "5335",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-13T15:04:01-03:00"
+      },
       {
         "CodigoAuto": "AF8221000265A/26",
         "Tipo": "AF",
@@ -13120,16 +13230,16 @@
     ]
   },
   "totais": {
-    "Brusque": 192,
+    "Brusque": 195,
     "Botuvera": 28,
     "Guabiruba": 37,
     "Gaspar": 80,
-    "Porto Belo": 153,
-    "Nova Trento": 74,
+    "Porto Belo": 154,
+    "Nova Trento": 77,
     "Itapema": 206,
-    "Blumenau": 182,
-    "Navegantes": 61,
+    "Blumenau": 184,
+    "Navegantes": 62,
     "Itajai": 172
   },
-  "total_geral": 1185
+  "total_geral": 1195
 }
