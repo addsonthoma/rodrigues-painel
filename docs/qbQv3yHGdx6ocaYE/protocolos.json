@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-13T07:49:22-03:00",
+  "timestamp": "2026-07-13T10:15:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8023,
-      "ultima_verificacao": "2026-07-13T07:49:22-03:00"
+      "ultima_verificacao": "2026-07-13T10:15:21-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 392,
-      "ultima_verificacao": "2026-07-13T07:49:22-03:00"
+      "ultima_verificacao": "2026-07-13T10:15:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1502,
-      "ultima_verificacao": "2026-07-13T07:49:22-03:00"
+      "ultima_verificacao": "2026-07-13T10:15:21-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3813,
-      "ultima_verificacao": "2026-07-13T07:49:22-03:00"
+      "ultima_verificacao": "2026-07-13T10:15:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3339,
-      "ultima_verificacao": "2026-07-13T07:49:22-03:00"
+      "ultima_verificacao": "2026-07-13T10:15:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 948,
-      "ultima_verificacao": "2026-07-13T07:49:22-03:00"
+      "ultima_verificacao": "2026-07-13T10:15:21-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7101,
-      "ultima_verificacao": "2026-07-13T07:49:22-03:00"
+      "ultima_verificacao": "2026-07-13T10:15:21-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12821,
-      "ultima_verificacao": "2026-07-13T07:49:22-03:00"
+      "ultima_verificacao": "2026-07-13T10:15:21-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4952,
-      "ultima_verificacao": "2026-07-13T07:49:22-03:00"
+      "ultima_verificacao": "2026-07-13T10:15:21-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14094,
-      "ultima_verificacao": "2026-07-13T07:49:22-03:00"
+      "ultimo_numero": 14095,
+      "ultima_verificacao": "2026-07-13T10:15:21-03:00"
     }
   },
   "protocolos": {
@@ -4880,6 +4880,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014095A",
+        "RE": "RE8161013347A",
+        "numgEdificacao": 353532,
+        "Nome_Edificacao": "LUIZ CARLOS KOWALSKY",
+        "Logradouro": "Rua São Vicente",
+        "Numero": "54",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-13T10:15:21-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014094A",
         "RE": "RE8161013364A",
         "numgEdificacao": 353969,
@@ -6189,7 +6200,7 @@
     "Itapema": 54,
     "Blumenau": 79,
     "Navegantes": 55,
-    "Itajai": 118
+    "Itajai": 119
   },
-  "total_geral": 555
+  "total_geral": 556
 }
