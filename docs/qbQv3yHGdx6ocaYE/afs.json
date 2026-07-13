@@ -1,69 +1,91 @@
 {
-  "timestamp": "2026-07-13T10:07:35-03:00",
+  "timestamp": "2026-07-13T12:58:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 800,
+      "ultimo_numero": 802,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T10:07:35-03:00"
+      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 28,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T10:07:35-03:00"
+      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 57,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T10:07:35-03:00"
+      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 494,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T10:07:35-03:00"
+      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 444,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T10:07:35-03:00"
+      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 382,
+      "ultimo_numero": 384,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T10:07:35-03:00"
+      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 939,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T10:07:35-03:00"
+      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 895,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T10:07:35-03:00"
+      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 263,
+      "ultimo_numero": 265,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T10:07:35-03:00"
+      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 923,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-13T10:07:35-03:00"
+      "ultima_verificacao": "2026-07-13T12:58:56-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000802A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001548A",
+        "Nome_Edificacao": "MERCADINHO BIZARI",
+        "Logradouro": "RUA ERNESTO BIANCHINI",
+        "Numero": "187",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-13T12:58:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000801A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001124A",
+        "Nome_Edificacao": "AI E 2 R ADM. BENS E PART SOCIETáRIAS LTDA",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "5320",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-13T12:58:56-03:00"
+      },
       {
         "CodigoAuto": "AF8055000800A/26",
         "Tipo": "AF",
@@ -5443,6 +5465,28 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000384A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000658A",
+        "Nome_Edificacao": "VIDRAÇARIA DAROSSI LTDA",
+        "Logradouro": "Rodovia SC 410",
+        "Numero": "292",
+        "Bairro": "NOVA TRENTO - BESENELLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-13T12:58:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000383A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000083A",
+        "Nome_Edificacao": "ALSIZIO BOSO",
+        "Logradouro": "RUA ANTONIO CARLOS BOSO",
+        "Numero": "272",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-13T12:58:56-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000382A/26",
         "Tipo": "AF",
         "RE": "RE8225000502A",
@@ -10509,6 +10553,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000265A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000857A",
+        "Nome_Edificacao": "Fibra Transporte e Logistica Integrada Ltda",
+        "Logradouro": "Rua Onório Bortolato",
+        "Numero": "1818",
+        "Bairro": "NAVEGANTES - PEDREIRAS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-13T12:58:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8221000264A/26",
+        "Tipo": "AF",
+        "RE": "RE8221001450A",
+        "Nome_Edificacao": "ALEXANDRE PEDRO DIAS",
+        "Logradouro": "Rua Manoel Leopoldo Rocha",
+        "Numero": "165",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-13T12:58:56-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000263A/26",
         "Tipo": "AF",
         "RE": "RE8221001334A",
@@ -13054,16 +13120,16 @@
     ]
   },
   "totais": {
-    "Brusque": 190,
+    "Brusque": 192,
     "Botuvera": 28,
     "Guabiruba": 37,
     "Gaspar": 80,
     "Porto Belo": 153,
-    "Nova Trento": 72,
+    "Nova Trento": 74,
     "Itapema": 206,
     "Blumenau": 182,
-    "Navegantes": 59,
+    "Navegantes": 61,
     "Itajai": 172
   },
-  "total_geral": 1179
+  "total_geral": 1185
 }
