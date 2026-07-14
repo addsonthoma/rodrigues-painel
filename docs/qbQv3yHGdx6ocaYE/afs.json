@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-07-14T14:04:45-03:00",
+  "timestamp": "2026-07-14T15:16:10-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 808,
+      "ultimo_numero": 809,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T14:04:45-03:00"
+      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 28,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T14:04:45-03:00"
+      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
-      "ultimo_numero": 57,
+      "ultimo_numero": 58,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T14:04:45-03:00"
+      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 496,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T14:04:45-03:00"
+      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 448,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T14:04:45-03:00"
+      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 390,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T14:04:45-03:00"
+      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 958,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T14:04:45-03:00"
+      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 904,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T14:04:45-03:00"
+      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 269,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T14:04:45-03:00"
+      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 936,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T14:04:45-03:00"
+      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000809A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002915A",
+        "Nome_Edificacao": "ADMINISTRADORA CALOCA & LECA LTDA",
+        "Logradouro": "Rua Wendelin Winter",
+        "Numero": "250",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-14T15:16:10-03:00"
+      },
       {
         "CodigoAuto": "AF8055000808A/26",
         "Tipo": "AF",
@@ -2554,6 +2565,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoAuto": "AF8123000058A/26",
+        "Tipo": "AF",
+        "RE": "RE8123001192A",
+        "Nome_Edificacao": "ROQUE RIFFEL -  CAPS – CENTRO DE ATENÇÃO PSICOSSOCIAL DE GUABIRUBA",
+        "Logradouro": "Guabiruba Sul",
+        "Numero": "3574",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-07-14T15:16:10-03:00"
+      },
       {
         "CodigoAuto": "AF8123000057A/26",
         "Tipo": "AF",
@@ -13813,9 +13835,9 @@
     ]
   },
   "totais": {
-    "Brusque": 198,
+    "Brusque": 199,
     "Botuvera": 28,
-    "Guabiruba": 37,
+    "Guabiruba": 38,
     "Gaspar": 82,
     "Porto Belo": 157,
     "Nova Trento": 80,
@@ -13824,5 +13846,5 @@
     "Navegantes": 65,
     "Itajai": 185
   },
-  "total_geral": 1248
+  "total_geral": 1250
 }
