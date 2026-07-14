@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-14T15:24:32-03:00",
+  "timestamp": "2026-07-14T16:58:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8024,
-      "ultima_verificacao": "2026-07-14T15:24:32-03:00"
+      "ultima_verificacao": "2026-07-14T16:58:34-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 394,
-      "ultima_verificacao": "2026-07-14T15:24:32-03:00"
+      "ultima_verificacao": "2026-07-14T16:58:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1502,
-      "ultima_verificacao": "2026-07-14T15:24:32-03:00"
+      "ultima_verificacao": "2026-07-14T16:58:34-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3817,
-      "ultima_verificacao": "2026-07-14T15:24:32-03:00"
+      "ultima_verificacao": "2026-07-14T16:58:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3340,
-      "ultima_verificacao": "2026-07-14T15:24:32-03:00"
+      "ultima_verificacao": "2026-07-14T16:58:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 952,
-      "ultima_verificacao": "2026-07-14T15:24:32-03:00"
+      "ultima_verificacao": "2026-07-14T16:58:34-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7103,
-      "ultima_verificacao": "2026-07-14T15:24:32-03:00"
+      "ultima_verificacao": "2026-07-14T16:58:34-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12830,
-      "ultima_verificacao": "2026-07-14T15:24:32-03:00"
+      "ultimo_numero": 12833,
+      "ultima_verificacao": "2026-07-14T16:58:34-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4954,
-      "ultima_verificacao": "2026-07-14T15:24:32-03:00"
+      "ultimo_numero": 4955,
+      "ultima_verificacao": "2026-07-14T16:58:34-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14105,
-      "ultima_verificacao": "2026-07-14T15:24:32-03:00"
+      "ultimo_numero": 14106,
+      "ultima_verificacao": "2026-07-14T16:58:34-03:00"
     }
   },
   "protocolos": {
@@ -3556,6 +3556,39 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012833A",
+        "RE": "RE8047012038A",
+        "numgEdificacao": 365122,
+        "Nome_Edificacao": "LUIZ CARLOS F.VALVERDE",
+        "Logradouro": "RUA JOHANN OHF",
+        "Numero": "3191",
+        "Bairro": "BLUMENAU - Velha Central",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-14T16:58:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012832A",
+        "RE": "RE8047012036A",
+        "numgEdificacao": 365109,
+        "Nome_Edificacao": "WAL ADMINISTRADORA LTDA",
+        "Logradouro": "Rua São Paulo",
+        "Numero": "3469",
+        "Bairro": "BLUMENAU - Itoupava Seca",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-14T16:58:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012831A",
+        "RE": "RE8047006350A",
+        "numgEdificacao": 186930,
+        "Nome_Edificacao": "Edifício Dona Isabel",
+        "Logradouro": "Rua Castro Alves",
+        "Numero": "78",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-14T16:58:34-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012830A",
         "RE": "RE8047005529A",
         "numgEdificacao": 168075,
@@ -4526,6 +4559,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004955A",
+        "RE": "RE8221001854A",
+        "numgEdificacao": 208171,
+        "Nome_Edificacao": "Residencial Maju",
+        "Logradouro": "Rua Francisco Schmitz",
+        "Numero": "589",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-14T16:58:34-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004954A",
         "RE": "RE8221003449A",
         "numgEdificacao": 316594,
@@ -5154,6 +5198,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014106A",
+        "RE": "RE8161013738A",
+        "numgEdificacao": 365108,
+        "Nome_Edificacao": "RESIDENCIAL DE LOFTS NEVES E NUNES",
+        "Logradouro": "RUA SIDNEY SCHULZE",
+        "Numero": "433",
+        "Bairro": "ITAJAÍ - Cidade Nova",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-14T16:58:34-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014105A",
         "RE": "RE8161013611A",
@@ -6583,9 +6638,9 @@
     "Porto Belo": 59,
     "Nova Trento": 36,
     "Itapema": 56,
-    "Blumenau": 88,
-    "Navegantes": 57,
-    "Itajai": 129
+    "Blumenau": 91,
+    "Navegantes": 58,
+    "Itajai": 130
   },
-  "total_geral": 591
+  "total_geral": 596
 }

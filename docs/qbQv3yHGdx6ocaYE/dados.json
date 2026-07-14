@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-14T15:15:29-03:00",
+  "timestamp": "2026-07-14T16:50:16-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 92,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T15:15:29-03:00"
+      "ultima_verificacao": "2026-07-14T16:50:16-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T15:15:29-03:00"
+      "ultima_verificacao": "2026-07-14T16:50:16-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T15:15:29-03:00"
+      "ultima_verificacao": "2026-07-14T16:50:16-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T15:15:29-03:00"
+      "ultima_verificacao": "2026-07-14T16:50:16-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 86,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T15:15:29-03:00"
+      "ultima_verificacao": "2026-07-14T16:50:16-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 108,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T15:15:29-03:00"
+      "ultima_verificacao": "2026-07-14T16:50:16-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 158,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T15:15:29-03:00"
+      "ultima_verificacao": "2026-07-14T16:50:16-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 188,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T15:15:29-03:00"
+      "ultima_verificacao": "2026-07-14T16:50:16-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
-      "ultimo_numero": 64,
+      "ultimo_numero": 68,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T15:15:29-03:00"
+      "ultima_verificacao": "2026-07-14T16:50:16-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 367,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T15:15:29-03:00"
+      "ultima_verificacao": "2026-07-14T16:50:16-03:00"
     }
   },
   "multas": {
@@ -2405,6 +2405,46 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "MUL8221000065A/26",
+        "RE": "RE8221002606A",
+        "Nome_Edificacao": "EDUCACIONAL - CRECHE",
+        "Logradouro": "RUA JOSE MANOEL DA COSTA",
+        "Numero": "50",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-14T16:50:16-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000066A/26",
+        "RE": "RE8221002652A",
+        "Nome_Edificacao": "CENTRO DE DUCAÇÃO SILVETE COUTO DE MIRANDA",
+        "Logradouro": "Rua Adolfo Cabral Júnior",
+        "Numero": "1167",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-14T16:50:16-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000067A/26",
+        "RE": "RE8221002602A",
+        "Nome_Edificacao": "PREFEITURA MUNICIPAL DE NAVEGANTES",
+        "Logradouro": "RUA VEREADOR LOURECI SOARES DA SILVA",
+        "Numero": "2947",
+        "Bairro": "NAVEGANTES - ESCALVADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-14T16:50:16-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000068A/26",
+        "RE": "RE8221002599A",
+        "Nome_Edificacao": "Escola Municipal Professora idília Machado Ferreira",
+        "Logradouro": "R ONORIO BORTOLATO",
+        "Numero": "2395",
+        "Bairro": "NAVEGANTES - PEDREIRAS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-14T16:50:16-03:00"
+      },
+      {
         "CodigoAuto": "MUL8221000061A/26",
         "RE": "RE8221000511A",
         "Nome_Edificacao": "EEB São José",
@@ -3169,12 +3209,40 @@
     "Guabiruba": 3,
     "Itajai": 85,
     "Itapema": 41,
-    "Navegantes": 26,
+    "Navegantes": 30,
     "Nova Trento": 25,
     "Porto Belo": 29
   },
-  "total_geral": 320,
+  "total_geral": 324,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-14T16:50:16-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000068A/26",
+      "nome": "Escola Municipal Professora idília Machado Ferreira",
+      "re": "RE8221002599A"
+    },
+    {
+      "ts": "2026-07-14T16:50:16-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000067A/26",
+      "nome": "PREFEITURA MUNICIPAL DE NAVEGANTES",
+      "re": "RE8221002602A"
+    },
+    {
+      "ts": "2026-07-14T16:50:16-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000066A/26",
+      "nome": "CENTRO DE DUCAÇÃO SILVETE COUTO DE MIRANDA",
+      "re": "RE8221002652A"
+    },
+    {
+      "ts": "2026-07-14T16:50:16-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000065A/26",
+      "nome": "EDUCACIONAL - CRECHE",
+      "re": "RE8221002606A"
+    },
     {
       "ts": "2026-07-14T15:15:29-03:00",
       "cidade": "Navegantes",

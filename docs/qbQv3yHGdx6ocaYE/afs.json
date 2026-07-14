@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-07-14T15:16:10-03:00",
+  "timestamp": "2026-07-14T16:51:02-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 809,
+      "ultimo_numero": 810,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
+      "ultima_verificacao": "2026-07-14T16:51:02-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 28,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
+      "ultima_verificacao": "2026-07-14T16:51:02-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 58,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
+      "ultima_verificacao": "2026-07-14T16:51:02-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 496,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
+      "ultima_verificacao": "2026-07-14T16:51:02-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 448,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
+      "ultima_verificacao": "2026-07-14T16:51:02-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 390,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
+      "ultima_verificacao": "2026-07-14T16:51:02-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 958,
+      "ultimo_numero": 959,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
+      "ultima_verificacao": "2026-07-14T16:51:02-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 904,
+      "ultimo_numero": 908,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
+      "ultima_verificacao": "2026-07-14T16:51:02-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 269,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
+      "ultima_verificacao": "2026-07-14T16:51:02-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 936,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T15:16:10-03:00"
+      "ultima_verificacao": "2026-07-14T16:51:02-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000810A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004825A",
+        "Nome_Edificacao": "Residencial Santa catarina",
+        "Logradouro": "Rua Alberto Mueller",
+        "Numero": "2455",
+        "Bairro": "BRUSQUE - LIMEIRA ALTA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-14T16:51:02-03:00"
+      },
       {
         "CodigoAuto": "AF8055000809A/26",
         "Tipo": "AF",
@@ -6501,6 +6512,17 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163000959A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001913A",
+        "Nome_Edificacao": "MICHEL LUCIANO CASAGRANDE",
+        "Logradouro": "Rua 700",
+        "Numero": "354",
+        "Bairro": "ITAPEMA - VARZEA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-14T16:51:02-03:00"
+      },
+      {
         "CodigoAuto": "AF8163000958A/26",
         "Tipo": "AF",
         "RE": "RE8163002655A",
@@ -8977,6 +8999,50 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047000908A/26",
+        "Tipo": "AF",
+        "RE": "RE8047002192A",
+        "Nome_Edificacao": "VIVIANE CRISTINA SABEL",
+        "Logradouro": "Rua Francisco Vahldieck",
+        "Numero": "1999",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-14T16:51:02-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000907A/26",
+        "Tipo": "AF",
+        "RE": "RE8047002479A",
+        "Nome_Edificacao": "BRUNO JORGE HENN",
+        "Logradouro": "Rua Frederico Jensen",
+        "Numero": "2345",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-14T16:51:02-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000906A/26",
+        "Tipo": "AF",
+        "RE": "RE8047012027A",
+        "Nome_Edificacao": "Venturi & Gesser Comercio e Acessorios LTDA",
+        "Logradouro": "Luiza Lucas",
+        "Numero": "13",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-14T16:51:02-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000905A/26",
+        "Tipo": "AF",
+        "RE": "RE8047009309A",
+        "Nome_Edificacao": "BEC ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Avenida Martin Luther",
+        "Numero": "1001",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-14T16:51:02-03:00"
+      },
       {
         "CodigoAuto": "AF8047000904A/26",
         "Tipo": "AF",
@@ -13835,16 +13901,16 @@
     ]
   },
   "totais": {
-    "Brusque": 199,
+    "Brusque": 200,
     "Botuvera": 28,
     "Guabiruba": 38,
     "Gaspar": 82,
     "Porto Belo": 157,
     "Nova Trento": 80,
-    "Itapema": 225,
-    "Blumenau": 191,
+    "Itapema": 226,
+    "Blumenau": 195,
     "Navegantes": 65,
     "Itajai": 185
   },
-  "total_geral": 1250
+  "total_geral": 1256
 }
