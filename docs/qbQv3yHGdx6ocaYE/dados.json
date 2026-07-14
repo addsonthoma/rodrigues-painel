@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-14T08:59:22-03:00",
+  "timestamp": "2026-07-14T13:19:40-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 92,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T08:59:22-03:00"
+      "ultima_verificacao": "2026-07-14T13:19:40-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T08:59:22-03:00"
+      "ultima_verificacao": "2026-07-14T13:19:40-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T08:59:22-03:00"
+      "ultima_verificacao": "2026-07-14T13:19:40-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T08:59:22-03:00"
+      "ultima_verificacao": "2026-07-14T13:19:40-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 86,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T08:59:22-03:00"
+      "ultima_verificacao": "2026-07-14T13:19:40-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 108,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T08:59:22-03:00"
+      "ultima_verificacao": "2026-07-14T13:19:40-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 156,
+      "ultimo_numero": 158,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T08:59:22-03:00"
+      "ultima_verificacao": "2026-07-14T13:19:40-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 187,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T08:59:22-03:00"
+      "ultima_verificacao": "2026-07-14T13:19:40-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 60,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T08:59:22-03:00"
+      "ultima_verificacao": "2026-07-14T13:19:40-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 367,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-14T08:59:22-03:00"
+      "ultima_verificacao": "2026-07-14T13:19:40-03:00"
     }
   },
   "multas": {
@@ -1999,6 +1999,26 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000157A/26",
+        "RE": "RE8163006163A",
+        "Nome_Edificacao": "ABRIGO MUNICIPAL DE CÃES E GATOS",
+        "Logradouro": "rua 406-h1",
+        "Numero": "392",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-14T13:19:40-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000158A/26",
+        "RE": "RE8163005199A",
+        "Nome_Edificacao": "juliano cesar vitorassi",
+        "Logradouro": "RUA 416",
+        "Numero": "76",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-14T13:19:40-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000155A/26",
         "RE": "RE8163002678A",
         "Nome_Edificacao": "STRAMOSK LAVA CAR ME",
@@ -3098,13 +3118,27 @@
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 85,
-    "Itapema": 39,
+    "Itapema": 41,
     "Navegantes": 22,
     "Nova Trento": 25,
     "Porto Belo": 29
   },
-  "total_geral": 313,
+  "total_geral": 315,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-14T13:19:40-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000158A/26",
+      "nome": "juliano cesar vitorassi",
+      "re": "RE8163005199A"
+    },
+    {
+      "ts": "2026-07-14T13:19:40-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000157A/26",
+      "nome": "ABRIGO MUNICIPAL DE CÃES E GATOS",
+      "re": "RE8163006163A"
+    },
     {
       "ts": "2026-07-13T15:03:00-03:00",
       "cidade": "Itajai",

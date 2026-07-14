@@ -1,69 +1,91 @@
 {
-  "timestamp": "2026-07-14T09:16:07-03:00",
+  "timestamp": "2026-07-14T13:20:11-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 806,
+      "ultimo_numero": 808,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T09:16:07-03:00"
+      "ultima_verificacao": "2026-07-14T13:20:11-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 28,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T09:16:07-03:00"
+      "ultima_verificacao": "2026-07-14T13:20:11-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 57,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T09:16:07-03:00"
+      "ultima_verificacao": "2026-07-14T13:20:11-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 496,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T09:16:07-03:00"
+      "ultima_verificacao": "2026-07-14T13:20:11-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 445,
+      "ultimo_numero": 448,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T09:16:07-03:00"
+      "ultima_verificacao": "2026-07-14T13:20:11-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 389,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T09:16:07-03:00"
+      "ultima_verificacao": "2026-07-14T13:20:11-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 946,
+      "ultimo_numero": 954,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T09:16:07-03:00"
+      "ultima_verificacao": "2026-07-14T13:20:11-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 902,
+      "ultimo_numero": 903,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T09:16:07-03:00"
+      "ultima_verificacao": "2026-07-14T13:20:11-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 267,
+      "ultimo_numero": 268,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T09:16:07-03:00"
+      "ultima_verificacao": "2026-07-14T13:20:11-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 932,
+      "ultimo_numero": 936,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-14T09:16:07-03:00"
+      "ultima_verificacao": "2026-07-14T13:20:11-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000808A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002166A",
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANÓPOLIS (CAPELA SÃO JOSÉ)",
+        "Logradouro": "Rua Ministro Lindolfo Collor",
+        "Numero": "123",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000807A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000133A",
+        "Nome_Edificacao": "INDUSTRIA DE VINAGRE E PLASTICOS HEINIG LTDA",
+        "Logradouro": "Rua Edgar Von Buettner",
+        "Numero": "249",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
       {
         "CodigoAuto": "AF8055000806A/26",
         "Tipo": "AF",
@@ -3846,6 +3868,39 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "AF8265000448A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001441A",
+        "Nome_Edificacao": "ROBERTO JOSé PINHEIRO",
+        "Logradouro": "RUA MORADA DO SOL",
+        "Numero": "82",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000447A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002024A",
+        "Nome_Edificacao": "DIEGO RODRIGUES DE OLIVEIRA",
+        "Logradouro": "RUA ANTONIO JOSE DE AQUINO",
+        "Numero": "682",
+        "Bairro": "PORTO BELO - ARACA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000446A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001829A",
+        "Nome_Edificacao": "PIXEL INFO",
+        "Logradouro": "RUA ARGEMIRO",
+        "Numero": "521",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
         "CodigoAuto": "AF8265000445A/26",
         "Tipo": "AF",
         "RE": "RE8265000196A",
@@ -6413,6 +6468,94 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163000954A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001184A",
+        "Nome_Edificacao": "LA PASSIONE REZIDENCIALE",
+        "Logradouro": "Rua 298",
+        "Numero": "354",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000953A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003201A",
+        "Nome_Edificacao": "MAGALI TEREZINHA MOI CARRARO",
+        "Logradouro": "rua 412-A",
+        "Numero": "490",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000952A/26",
+        "Tipo": "AF",
+        "RE": "RE8163000509A",
+        "Nome_Edificacao": "VALDIR DA SILVA",
+        "Logradouro": "Avenida Governador Celso Ramos",
+        "Numero": "141",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000951A/26",
+        "Tipo": "AF",
+        "RE": "RE8163000867A",
+        "Nome_Edificacao": "COND. ED. RES. HAKIDABAN",
+        "Logradouro": "Rua 254",
+        "Numero": "50",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000950A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001102A",
+        "Nome_Edificacao": "GRAN  MIRAGE",
+        "Logradouro": "rua 120",
+        "Numero": "184",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000949A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001785A",
+        "Nome_Edificacao": "Terminal Rodoviário de Itapema",
+        "Logradouro": "Rua 600",
+        "Numero": "195",
+        "Bairro": "ITAPEMA - TABOLEIRO OLIV",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000948A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006719A",
+        "Nome_Edificacao": "Residencial Multifamiliar",
+        "Logradouro": "Rua 1208",
+        "Numero": "701",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000947A/26",
+        "Tipo": "AF",
+        "RE": "RE8163005052A",
+        "Nome_Edificacao": "M7 HOLDING GESTÃO DE COTAS E BENS LTDA.",
+        "Logradouro": "Rua 902D",
+        "Numero": "625",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
         "CodigoAuto": "AF8163000946A/26",
         "Tipo": "AF",
         "RE": "RE8163006790A",
@@ -8758,6 +8901,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000903A/26",
+        "Tipo": "AF",
+        "RE": "RE8047007847A",
+        "Nome_Edificacao": "GRAPHIK FACAS E CORTE VINCO LTDA",
+        "Logradouro": "RUA COLIBRI",
+        "Numero": "255",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000902A/26",
         "Tipo": "AF",
         "RE": "RE8047001279A",
@@ -10839,6 +10993,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000268A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000419A",
+        "Nome_Edificacao": "HOSPITAL NOSSA SENHORA DOS NAVEGANTES",
+        "Logradouro": "Rua Natividade Costa",
+        "Numero": "641",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000267A/26",
         "Tipo": "AF",
         "RE": "RE8221001167A",
@@ -11533,6 +11698,50 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "AF8161000936A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002558A",
+        "Nome_Edificacao": "ANTONIO AVELINO MATHIAS",
+        "Logradouro": "Rua Bertolino Serpa",
+        "Numero": "200",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000935A/26",
+        "Tipo": "AF",
+        "RE": "RE8161010209A",
+        "Nome_Edificacao": "DEBARBA CLINICA ODONTOLOGICA EIRELI",
+        "Logradouro": "Rua Franklin Máximo Pereira",
+        "Numero": "119",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000934A/26",
+        "Tipo": "AF",
+        "RE": "RE8161003221A",
+        "Nome_Edificacao": "VALDECI JOSE  VIEIRA",
+        "Logradouro": "Av Osvaldo Reis",
+        "Numero": "719",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000933A/26",
+        "Tipo": "AF",
+        "RE": "RE8161003490A",
+        "Nome_Edificacao": "ROBINSON FABIANO DOS SANTOS",
+        "Logradouro": "Rua Indaial",
+        "Numero": "500",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-14T13:20:11-03:00"
+      },
       {
         "CodigoAuto": "AF8161000932A/26",
         "Tipo": "AF",
@@ -13527,16 +13736,16 @@
     ]
   },
   "totais": {
-    "Brusque": 196,
+    "Brusque": 198,
     "Botuvera": 28,
     "Guabiruba": 37,
     "Gaspar": 82,
-    "Porto Belo": 154,
+    "Porto Belo": 157,
     "Nova Trento": 79,
-    "Itapema": 213,
-    "Blumenau": 189,
-    "Navegantes": 63,
-    "Itajai": 181
+    "Itapema": 221,
+    "Blumenau": 190,
+    "Navegantes": 64,
+    "Itajai": 185
   },
-  "total_geral": 1222
+  "total_geral": 1241
 }
