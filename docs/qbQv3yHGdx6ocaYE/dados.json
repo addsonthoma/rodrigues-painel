@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-15T09:04:25-03:00",
+  "timestamp": "2026-07-15T11:06:48-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 92,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T09:04:25-03:00"
+      "ultima_verificacao": "2026-07-15T11:06:48-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T09:04:25-03:00"
+      "ultima_verificacao": "2026-07-15T11:06:48-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T09:04:25-03:00"
+      "ultima_verificacao": "2026-07-15T11:06:48-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T09:04:25-03:00"
+      "ultima_verificacao": "2026-07-15T11:06:48-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 87,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T09:04:25-03:00"
+      "ultima_verificacao": "2026-07-15T11:06:48-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 108,
+      "ultimo_numero": 109,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T09:04:25-03:00"
+      "ultima_verificacao": "2026-07-15T11:06:48-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 158,
+      "ultimo_numero": 162,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T09:04:25-03:00"
+      "ultima_verificacao": "2026-07-15T11:06:48-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 188,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T09:04:25-03:00"
+      "ultima_verificacao": "2026-07-15T11:06:48-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 68,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T09:04:25-03:00"
+      "ultima_verificacao": "2026-07-15T11:06:48-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 367,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T09:04:25-03:00"
+      "ultima_verificacao": "2026-07-15T11:06:48-03:00"
     }
   },
   "multas": {
@@ -2009,6 +2009,46 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000159A/26",
+        "RE": "RE8163000385A",
+        "Nome_Edificacao": "F&Z Supermercado LTDA",
+        "Logradouro": "AVENIDA NEREU RAMOS",
+        "Numero": "580",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-15T11:06:48-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000160A/26",
+        "RE": "RE8163000357A",
+        "Nome_Edificacao": "CONSTRUTORA E INCORPORADORA BRANDEL LTDA",
+        "Logradouro": "RUA 230",
+        "Numero": "333",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-15T11:06:48-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000161A/26",
+        "RE": "RE8163000163A",
+        "Nome_Edificacao": "CONDOMINIO EDIFICIO CIDADE  ALTA FLORESTA",
+        "Logradouro": "rua 208",
+        "Numero": "25",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-15T11:06:48-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000162A/26",
+        "RE": "RE8163003391A",
+        "Nome_Edificacao": "COND. RES. CALIFORNIA",
+        "Logradouro": "rua 292",
+        "Numero": "42",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-15T11:06:48-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000157A/26",
         "RE": "RE8163006163A",
         "Nome_Edificacao": "ABRIGO MUNICIPAL DE CÃES E GATOS",
@@ -2692,6 +2732,16 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000109A/26",
+        "RE": "RE8225000474A",
+        "Nome_Edificacao": "LAR MARIA TEREZA",
+        "Logradouro": "Rua Carlos Tridapalli",
+        "Numero": "80",
+        "Bairro": "NOVA TRENTO - BESENELO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-15T11:06:48-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000108A/26",
         "RE": "RE8225000788A",
         "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
@@ -3218,13 +3268,48 @@
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 85,
-    "Itapema": 41,
+    "Itapema": 45,
     "Navegantes": 30,
-    "Nova Trento": 25,
+    "Nova Trento": 26,
     "Porto Belo": 30
   },
-  "total_geral": 325,
+  "total_geral": 330,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-15T11:06:48-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000162A/26",
+      "nome": "COND. RES. CALIFORNIA",
+      "re": "RE8163003391A"
+    },
+    {
+      "ts": "2026-07-15T11:06:48-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000161A/26",
+      "nome": "CONDOMINIO EDIFICIO CIDADE  ALTA FLORESTA",
+      "re": "RE8163000163A"
+    },
+    {
+      "ts": "2026-07-15T11:06:48-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000160A/26",
+      "nome": "CONSTRUTORA E INCORPORADORA BRANDEL LTDA",
+      "re": "RE8163000357A"
+    },
+    {
+      "ts": "2026-07-15T11:06:48-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000159A/26",
+      "nome": "F&Z Supermercado LTDA",
+      "re": "RE8163000385A"
+    },
+    {
+      "ts": "2026-07-15T11:06:48-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000109A/26",
+      "nome": "LAR MARIA TEREZA",
+      "re": "RE8225000474A"
+    },
     {
       "ts": "2026-07-15T09:04:25-03:00",
       "cidade": "Porto Belo",
