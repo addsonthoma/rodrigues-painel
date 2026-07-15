@@ -403,6 +403,7 @@ function badgePrazo(dias){
 function drillHTML(d){
   if(!d) return "";
   const parts = [];
+  if(d.areaTotal) parts.push(`<div class="drill-row">📐 <b>${(''+d.areaTotal).replace('.',',')} m²</b></div>`);
   if(d.responsavel) parts.push(`<div class="drill-row"><b>Resp:</b> ${d.responsavel}</div>`);
   const ex = (d.exigencias || []).join(" · ");
   if(ex){

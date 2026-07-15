@@ -228,6 +228,7 @@ def drill_edificacao(s, codg_edif, numg_edif):
                         prazo_min = pc
                 base_auto = {
                     "tipo": tipo,
+                    "areaTotal": dados.get("numrAreaTotal"),      # m2 da edificacao (mesma fonte da aba Protocolos)
                     "cidade": a.get("nomeCidade"),
                     "responsavel": resp.get("nomeResponsavel"),
                     "cpfCnpj": resp.get("codgCpfCnpjResponsavel"),
@@ -363,13 +364,16 @@ def main():
     # Primeiro, popular do cache (gratis, sem chamadas)
     for item in todos:
         codg = item["codgAuto"]
-        if codg in cache and cache[codg].get("_ts") and (time.time() - cache[codg]["_ts"]) < 7*86400 and not cache[codg].get("parcial"):
+        if codg in cache and cache[codg].get("_ts") and (time.time() - cache[codg]["_ts"]) < 7*86400 and not cache[codg].get("parcial") and ("areaTotal" in cache[codg]):
             drill_data[codg] = cache[codg]
             cache_hits += 1
     print(f"[*] Cache: {cache_hits} ja conhecidos.")
 
     # Agora processar os que faltam
-    pendentes = [it for it in todos if it["codgAuto"] not in drill_data or drill_data[it["codgAuto"]].get("parcial")]
+    # re-processa tambem quem ainda nao tem areaTotal (backfill da metragem, 2026-07-15)
+    pendentes = [it for it in todos if it["codgAuto"] not in drill_data
+                 or drill_data[it["codgAuto"]].get("parcial")
+                 or "areaTotal" not in drill_data[it["codgAuto"]]]
     print(f"[*] A processar: {len(pendentes)} novos.\n")
 
     for idx, item in enumerate(pendentes, 1):
