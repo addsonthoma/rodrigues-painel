@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-15T15:31:02-03:00",
+  "timestamp": "2026-07-15T17:21:53-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8024,
-      "ultima_verificacao": "2026-07-15T15:31:02-03:00"
+      "ultima_verificacao": "2026-07-15T17:21:53-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
-      "ultimo_numero": 394,
-      "ultima_verificacao": "2026-07-15T15:31:02-03:00"
+      "ultimo_numero": 395,
+      "ultima_verificacao": "2026-07-15T17:21:53-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1503,
-      "ultima_verificacao": "2026-07-15T15:31:02-03:00"
+      "ultima_verificacao": "2026-07-15T17:21:53-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3818,
-      "ultima_verificacao": "2026-07-15T15:31:02-03:00"
+      "ultimo_numero": 3819,
+      "ultima_verificacao": "2026-07-15T17:21:53-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3341,
-      "ultima_verificacao": "2026-07-15T15:31:02-03:00"
+      "ultima_verificacao": "2026-07-15T17:21:53-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 952,
-      "ultima_verificacao": "2026-07-15T15:31:02-03:00"
+      "ultima_verificacao": "2026-07-15T17:21:53-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7104,
-      "ultima_verificacao": "2026-07-15T15:31:02-03:00"
+      "ultimo_numero": 7106,
+      "ultima_verificacao": "2026-07-15T17:21:53-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12835,
-      "ultima_verificacao": "2026-07-15T15:31:02-03:00"
+      "ultimo_numero": 12843,
+      "ultima_verificacao": "2026-07-15T17:21:53-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4955,
-      "ultima_verificacao": "2026-07-15T15:31:02-03:00"
+      "ultimo_numero": 4957,
+      "ultima_verificacao": "2026-07-15T17:21:53-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14106,
-      "ultima_verificacao": "2026-07-15T15:31:02-03:00"
+      "ultimo_numero": 14109,
+      "ultima_verificacao": "2026-07-15T17:21:53-03:00"
     }
   },
   "protocolos": {
@@ -717,6 +717,17 @@
     ],
     "Botuvera": [
       {
+        "CodigoProtocolo": "A8051000395A",
+        "RE": "RE8051000177A",
+        "numgEdificacao": 181731,
+        "Nome_Edificacao": "PRIMOS MÓVEIS SOB MEDIDA",
+        "Logradouro": "ESTRADA GERAL GABIROBA",
+        "Numero": "4505",
+        "Bairro": "BOTUVERÁ - GABIROBA",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
         "CodigoProtocolo": "A8051000394A",
         "RE": "RE8051000294A",
         "numgEdificacao": 364409,
@@ -1336,6 +1347,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003819A",
+        "RE": "RE8117003254A",
+        "numgEdificacao": 365219,
+        "Nome_Edificacao": "ENIO ALECXANDRO SPENGLER BERNZ",
+        "Logradouro": "RUA CECILIA JOANA SCHNEIDER KRAUSS",
+        "Numero": "81",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003818A",
         "RE": "RE8117001298A",
@@ -2971,6 +2993,28 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007106A",
+        "RE": "RE8163006684A",
+        "numgEdificacao": 359090,
+        "Nome_Edificacao": "Igreja Batista Peniel",
+        "Logradouro": "r 810-C",
+        "Numero": "215",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007105A",
+        "RE": "RE8163006796A",
+        "numgEdificacao": 365182,
+        "Nome_Edificacao": "IVIX",
+        "Logradouro": "RUA 284 ESQ 282",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007104A",
         "RE": "RE8163006794A",
         "numgEdificacao": 365001,
@@ -3599,6 +3643,94 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012843A",
+        "RE": "RE8047001307A",
+        "numgEdificacao": 50506,
+        "Nome_Edificacao": "PRAÇA HERCÍLIO LUZ",
+        "Logradouro": "RUA 15 DE NOVEMBRO",
+        "Numero": "160",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012842A",
+        "RE": "RE8047004987A",
+        "numgEdificacao": 156258,
+        "Nome_Edificacao": "BATISTA, BENÍCIO IZALTINO",
+        "Logradouro": "R FRANCISCO VAHLDIECK",
+        "Numero": "2167",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012841A",
+        "RE": "RE8047011295A",
+        "numgEdificacao": 333614,
+        "Nome_Edificacao": "JULINE REVISAO E EMPACOTAMENTO LTDA",
+        "Logradouro": "Rua Nova Zelândia",
+        "Numero": "156",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012840A",
+        "RE": "RE8047001307A",
+        "numgEdificacao": 50506,
+        "Nome_Edificacao": "PRAÇA HERCÍLIO LUZ",
+        "Logradouro": "RUA 15 DE NOVEMBRO",
+        "Numero": "160",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012839A",
+        "RE": "RE8047005385A",
+        "numgEdificacao": 164933,
+        "Nome_Edificacao": "SCHWANKE INDUSTRIAL LTDA",
+        "Logradouro": "RUA OSWALDO CRUZ, 55",
+        "Numero": "55",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012838A",
+        "RE": "RE8047004168A",
+        "numgEdificacao": 135678,
+        "Nome_Edificacao": "Casa de Repouso Flor de Lis LTDA",
+        "Logradouro": "RUA DR. PEDRO ZIMMERMANN",
+        "Numero": "13663",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012837A",
+        "RE": "RE8047012023A",
+        "numgEdificacao": 364832,
+        "Nome_Edificacao": "Claudio Simão",
+        "Logradouro": "R 25 DE JULHO",
+        "Numero": "1090",
+        "Bairro": "BLUMENAU - Itoupava Norte",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012836A",
+        "RE": "RE8047007939A",
+        "numgEdificacao": 225364,
+        "Nome_Edificacao": "RCVR 340 SPE LTDA",
+        "Logradouro": "Rua Coronel Vidal Ramos",
+        "Numero": "340",
+        "Bairro": "BLUMENAU - JARDIM BLUMENAU",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012835A",
         "RE": "RE8047006517A",
@@ -4625,6 +4757,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004957A",
+        "RE": "RE8221000520A",
+        "numgEdificacao": 39241,
+        "Nome_Edificacao": "Noemi Regina Bellenzier",
+        "Logradouro": "Avenida Prefeito José Juvenal Mafra,",
+        "Numero": "7006",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004956A",
+        "RE": "RE8221004102A",
+        "numgEdificacao": 365186,
+        "Nome_Edificacao": "RESIDENCIAL ILHA DAS GALES",
+        "Logradouro": "RUA GERALDO JOSé BORBA",
+        "Numero": "784",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004955A",
         "RE": "RE8221001854A",
         "numgEdificacao": 208171,
@@ -5264,6 +5418,39 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014109A",
+        "RE": "RE8161013741A",
+        "numgEdificacao": 365240,
+        "Nome_Edificacao": "MAUI PART'S AUTOMOTIVO LTDA",
+        "Logradouro": "R SERAFIM GAMBA",
+        "Numero": "",
+        "Bairro": "ITAJAÍ - Brilhante I",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014108A",
+        "RE": "RE8161012793A",
+        "numgEdificacao": 337752,
+        "Nome_Edificacao": "MAILSON REDUZINO MENDES",
+        "Logradouro": "Rua Expedicionário Olímpio José Borges",
+        "Numero": "787",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014107A",
+        "RE": "RE8161013740A",
+        "numgEdificacao": 365204,
+        "Nome_Edificacao": "MARIA SALETE SOUZA DA COSTA",
+        "Logradouro": "Rua Rio Araguaia",
+        "Numero": "101",
+        "Bairro": "ITAJAÍ - São João",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-15T17:21:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014106A",
         "RE": "RE8161013738A",
@@ -6698,15 +6885,15 @@
   },
   "totais": {
     "Brusque": 60,
-    "Botuvera": 28,
+    "Botuvera": 29,
     "Guabiruba": 28,
-    "Gaspar": 52,
+    "Gaspar": 53,
     "Porto Belo": 60,
     "Nova Trento": 36,
-    "Itapema": 57,
-    "Blumenau": 93,
-    "Navegantes": 58,
-    "Itajai": 130
+    "Itapema": 59,
+    "Blumenau": 101,
+    "Navegantes": 60,
+    "Itajai": 133
   },
-  "total_geral": 602
+  "total_geral": 619
 }

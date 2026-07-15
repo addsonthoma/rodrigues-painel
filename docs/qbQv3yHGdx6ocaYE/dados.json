@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-15T12:51:51-03:00",
+  "timestamp": "2026-07-15T17:12:13-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 92,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T12:51:51-03:00"
+      "ultima_verificacao": "2026-07-15T17:12:13-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T12:51:51-03:00"
+      "ultima_verificacao": "2026-07-15T17:12:13-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T12:51:51-03:00"
+      "ultima_verificacao": "2026-07-15T17:12:13-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T12:51:51-03:00"
+      "ultima_verificacao": "2026-07-15T17:12:13-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 87,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T12:51:51-03:00"
+      "ultima_verificacao": "2026-07-15T17:12:13-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 109,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T12:51:51-03:00"
+      "ultima_verificacao": "2026-07-15T17:12:13-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 162,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T12:51:51-03:00"
+      "ultima_verificacao": "2026-07-15T17:12:13-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 188,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T12:51:51-03:00"
+      "ultima_verificacao": "2026-07-15T17:12:13-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
-      "ultimo_numero": 68,
+      "ultimo_numero": 73,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T12:51:51-03:00"
+      "ultima_verificacao": "2026-07-15T17:12:13-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 367,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-15T12:51:51-03:00"
+      "ultima_verificacao": "2026-07-15T17:12:13-03:00"
     }
   },
   "multas": {
@@ -2445,6 +2445,56 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "MUL8221000069A/26",
+        "RE": "RE8221002574A",
+        "Nome_Edificacao": "ESCOLA MUNICIPAL PROFª MARIA IVONE MULLER DOS SANTOS",
+        "Logradouro": "RUA FRANCISCO DE PAULO SEARA",
+        "Numero": "300",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-15T17:12:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000070A/26",
+        "RE": "RE8221002515A",
+        "Nome_Edificacao": "RESIDENCIAL AGUAS VERDES",
+        "Logradouro": "AVENIDA PREFEITO CIRINO ADOLFO CABRAL",
+        "Numero": "8175",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-15T17:12:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000071A/26",
+        "RE": "RE8221002580A",
+        "Nome_Edificacao": "Escola Municipal Profª Maria Tereza Leal",
+        "Logradouro": "Rua Francisco Miguel Nunes",
+        "Numero": "528",
+        "Bairro": "NAVEGANTES - PORTO ESCALVADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-15T17:12:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000072A/26",
+        "RE": "RE8221002592A",
+        "Nome_Edificacao": "ESCOLA MUNICIPAL PROF MARIA HOSTIM DA COSTA",
+        "Logradouro": "Rua Hercílio Rocha Weber",
+        "Numero": "346",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-15T17:12:13-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000073A/26",
+        "RE": "RE8221001159A",
+        "Nome_Edificacao": "BADOTTI E CIA LTDA",
+        "Logradouro": "Rua Prefeito Manoel Evaldo Müller",
+        "Numero": "2930",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-15T17:12:13-03:00"
+      },
+      {
         "CodigoAuto": "MUL8221000065A/26",
         "RE": "RE8221002606A",
         "Nome_Edificacao": "EDUCACIONAL - CRECHE",
@@ -3269,12 +3319,47 @@
     "Guabiruba": 3,
     "Itajai": 85,
     "Itapema": 45,
-    "Navegantes": 30,
+    "Navegantes": 35,
     "Nova Trento": 26,
     "Porto Belo": 30
   },
-  "total_geral": 330,
+  "total_geral": 335,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-15T17:12:13-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000073A/26",
+      "nome": "BADOTTI E CIA LTDA",
+      "re": "RE8221001159A"
+    },
+    {
+      "ts": "2026-07-15T17:12:13-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000072A/26",
+      "nome": "ESCOLA MUNICIPAL PROF MARIA HOSTIM DA COSTA",
+      "re": "RE8221002592A"
+    },
+    {
+      "ts": "2026-07-15T17:12:13-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000071A/26",
+      "nome": "Escola Municipal Profª Maria Tereza Leal",
+      "re": "RE8221002580A"
+    },
+    {
+      "ts": "2026-07-15T17:12:13-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000070A/26",
+      "nome": "RESIDENCIAL AGUAS VERDES",
+      "re": "RE8221002515A"
+    },
+    {
+      "ts": "2026-07-15T17:12:13-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000069A/26",
+      "nome": "ESCOLA MUNICIPAL PROFª MARIA IVONE MULLER DOS SANTOS",
+      "re": "RE8221002574A"
+    },
     {
       "ts": "2026-07-15T11:06:48-03:00",
       "cidade": "Itapema",
@@ -3582,41 +3667,6 @@
       "codigo": "MUL8161000357A/26",
       "nome": "MARIA APARECIDA  PROVESI",
       "re": "RE8161012285A"
-    },
-    {
-      "ts": "2026-07-08T14:11:18-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000356A/26",
-      "nome": "CEI LÉA LEAL DE SOUZA",
-      "re": "RE8161000640A"
-    },
-    {
-      "ts": "2026-07-08T14:11:18-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000355A/26",
-      "nome": "Olavio Valentin de Mello",
-      "re": "RE8161005944A"
-    },
-    {
-      "ts": "2026-07-08T14:11:18-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000354A/26",
-      "nome": "FERNANDO RODRIGO WERNER DE OLIVEIRA",
-      "re": "RE8161004132A"
-    },
-    {
-      "ts": "2026-07-08T14:11:18-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000353A/26",
-      "nome": "CONDOMINIO RESIDENCIAL ATALAIA",
-      "re": "RE8161004421A"
-    },
-    {
-      "ts": "2026-07-08T14:11:18-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000352A/26",
-      "nome": "SANDRA DOS SANTOS CAMPOS",
-      "re": "RE8161009102A"
     }
   ]
 }
