@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-07-15T20:03:04-03:00",
+  "timestamp": "2026-07-15T21:14:00-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8024,
-      "ultima_verificacao": "2026-07-15T20:03:04-03:00"
+      "ultimo_numero": 8025,
+      "ultima_verificacao": "2026-07-15T21:14:00-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 395,
-      "ultima_verificacao": "2026-07-15T20:03:04-03:00"
+      "ultima_verificacao": "2026-07-15T21:14:00-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1503,
-      "ultima_verificacao": "2026-07-15T20:03:04-03:00"
+      "ultima_verificacao": "2026-07-15T21:14:00-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3819,
-      "ultima_verificacao": "2026-07-15T20:03:04-03:00"
+      "ultima_verificacao": "2026-07-15T21:14:00-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3341,
-      "ultima_verificacao": "2026-07-15T20:03:04-03:00"
+      "ultima_verificacao": "2026-07-15T21:14:00-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 952,
-      "ultima_verificacao": "2026-07-15T20:03:04-03:00"
+      "ultima_verificacao": "2026-07-15T21:14:00-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7106,
-      "ultima_verificacao": "2026-07-15T20:03:04-03:00"
+      "ultimo_numero": 7107,
+      "ultima_verificacao": "2026-07-15T21:14:00-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12843,
-      "ultima_verificacao": "2026-07-15T20:03:04-03:00"
+      "ultima_verificacao": "2026-07-15T21:14:00-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4957,
-      "ultima_verificacao": "2026-07-15T20:03:04-03:00"
+      "ultima_verificacao": "2026-07-15T21:14:00-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14109,
-      "ultima_verificacao": "2026-07-15T20:03:04-03:00"
+      "ultimo_numero": 14110,
+      "ultima_verificacao": "2026-07-15T21:14:00-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008025A",
+        "RE": "RE8055006718A",
+        "numgEdificacao": 361569,
+        "Nome_Edificacao": "TEREZA SALGADOS",
+        "Logradouro": "Rua DJ 011",
+        "Numero": "182",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-15T21:14:00-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008024A",
         "RE": "RE8055006766A",
@@ -2993,6 +3004,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007107A",
+        "RE": "RE8163006800A",
+        "numgEdificacao": 365272,
+        "Nome_Edificacao": "Taos Residence",
+        "Logradouro": "RUA 402",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-15T21:14:00-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007106A",
         "RE": "RE8163006684A",
         "numgEdificacao": 359090,
@@ -5419,6 +5441,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014110A",
+        "RE": "RE8161011814A",
+        "numgEdificacao": 313453,
+        "Nome_Edificacao": "RESIDENCIAL REBELLO",
+        "Logradouro": "Rua Laudelino João da Veiga",
+        "Numero": "196",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-15T21:14:00-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014109A",
         "RE": "RE8161013741A",
         "numgEdificacao": 365240,
@@ -6884,16 +6917,16 @@
     ]
   },
   "totais": {
-    "Brusque": 60,
+    "Brusque": 61,
     "Botuvera": 29,
     "Guabiruba": 28,
     "Gaspar": 53,
     "Porto Belo": 60,
     "Nova Trento": 36,
-    "Itapema": 59,
+    "Itapema": 60,
     "Blumenau": 101,
     "Navegantes": 60,
-    "Itajai": 133
+    "Itajai": 134
   },
-  "total_geral": 619
+  "total_geral": 622
 }
