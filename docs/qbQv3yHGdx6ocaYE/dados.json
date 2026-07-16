@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-16T12:57:15-03:00",
+  "timestamp": "2026-07-16T14:35:37-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 92,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
+      "ultima_verificacao": "2026-07-16T14:35:37-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
+      "ultima_verificacao": "2026-07-16T14:35:37-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
+      "ultima_verificacao": "2026-07-16T14:35:37-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
+      "ultima_verificacao": "2026-07-16T14:35:37-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 89,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
+      "ultima_verificacao": "2026-07-16T14:35:37-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 109,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
+      "ultima_verificacao": "2026-07-16T14:35:37-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 162,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
+      "ultima_verificacao": "2026-07-16T14:35:37-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 188,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
+      "ultima_verificacao": "2026-07-16T14:35:37-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
-      "ultimo_numero": 73,
+      "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
+      "ultima_verificacao": "2026-07-16T14:35:37-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 367,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
+      "ultima_verificacao": "2026-07-16T14:35:37-03:00"
     }
   },
   "multas": {
@@ -2445,6 +2445,66 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "MUL8221000074A/26",
+        "RE": "RE8221003449A",
+        "Nome_Edificacao": "Câmara dos Vereadores",
+        "Logradouro": "Rua Ezequiel Antero Rocha",
+        "Numero": "315",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-16T14:35:37-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000075A/26",
+        "RE": "RE8221002579A",
+        "Nome_Edificacao": "CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL PROFª MARIA DOS NAVEGANTES RAMOS",
+        "Logradouro": "RUA PREFEITO MANOEL EVALDO MULLER",
+        "Numero": "4875",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-16T14:35:37-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000076A/26",
+        "RE": "RE8221003778A",
+        "Nome_Edificacao": "RESIDENCIAL ILHA DE ITAPARICA",
+        "Logradouro": "Rua Nicolau Kleis",
+        "Numero": "310",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-16T14:35:37-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000077A/26",
+        "RE": "RE8221001358A",
+        "Nome_Edificacao": "JORGE BERTOTI DA SILVA",
+        "Logradouro": "AVENIDA JOÃO SACAVEM",
+        "Numero": "222",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-16T14:35:37-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000078A/26",
+        "RE": "RE8221001803A",
+        "Nome_Edificacao": "OPUS HOUSE",
+        "Logradouro": "AVENIDA PREFEITO JOSE JUVENAL MAFRA",
+        "Numero": "604",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-16T14:35:37-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000079A/26",
+        "RE": "RE8221003141A",
+        "Nome_Edificacao": "VALIO CAPTURA E COM DE PESCADOS LTDA",
+        "Logradouro": "Avenida João Sacavem",
+        "Numero": "92",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-16T14:35:37-03:00"
+      },
+      {
         "CodigoAuto": "MUL8221000069A/26",
         "RE": "RE8221002574A",
         "Nome_Edificacao": "ESCOLA MUNICIPAL PROFª MARIA IVONE MULLER DOS SANTOS",
@@ -3339,12 +3399,54 @@
     "Guabiruba": 3,
     "Itajai": 85,
     "Itapema": 45,
-    "Navegantes": 35,
+    "Navegantes": 41,
     "Nova Trento": 26,
     "Porto Belo": 32
   },
-  "total_geral": 337,
+  "total_geral": 343,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-16T14:35:37-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000079A/26",
+      "nome": "VALIO CAPTURA E COM DE PESCADOS LTDA",
+      "re": "RE8221003141A"
+    },
+    {
+      "ts": "2026-07-16T14:35:37-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000078A/26",
+      "nome": "OPUS HOUSE",
+      "re": "RE8221001803A"
+    },
+    {
+      "ts": "2026-07-16T14:35:37-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000077A/26",
+      "nome": "JORGE BERTOTI DA SILVA",
+      "re": "RE8221001358A"
+    },
+    {
+      "ts": "2026-07-16T14:35:37-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000076A/26",
+      "nome": "RESIDENCIAL ILHA DE ITAPARICA",
+      "re": "RE8221003778A"
+    },
+    {
+      "ts": "2026-07-16T14:35:37-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000075A/26",
+      "nome": "CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL PROFª MARIA DOS NAVEGANTES RAMOS",
+      "re": "RE8221002579A"
+    },
+    {
+      "ts": "2026-07-16T14:35:37-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000074A/26",
+      "nome": "Câmara dos Vereadores",
+      "re": "RE8221003449A"
+    },
     {
       "ts": "2026-07-16T12:57:15-03:00",
       "cidade": "Porto Belo",

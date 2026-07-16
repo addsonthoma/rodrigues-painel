@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-16T13:05:09-03:00",
+  "timestamp": "2026-07-16T14:45:59-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8026,
-      "ultima_verificacao": "2026-07-16T13:05:09-03:00"
+      "ultima_verificacao": "2026-07-16T14:45:59-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 395,
-      "ultima_verificacao": "2026-07-16T13:05:09-03:00"
+      "ultima_verificacao": "2026-07-16T14:45:59-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1503,
-      "ultima_verificacao": "2026-07-16T13:05:09-03:00"
+      "ultima_verificacao": "2026-07-16T14:45:59-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3820,
-      "ultima_verificacao": "2026-07-16T13:05:09-03:00"
+      "ultima_verificacao": "2026-07-16T14:45:59-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3342,
-      "ultima_verificacao": "2026-07-16T13:05:09-03:00"
+      "ultima_verificacao": "2026-07-16T14:45:59-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 952,
-      "ultima_verificacao": "2026-07-16T13:05:09-03:00"
+      "ultimo_numero": 953,
+      "ultima_verificacao": "2026-07-16T14:45:59-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7108,
-      "ultima_verificacao": "2026-07-16T13:05:09-03:00"
+      "ultima_verificacao": "2026-07-16T14:45:59-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12843,
-      "ultima_verificacao": "2026-07-16T13:05:09-03:00"
+      "ultimo_numero": 12845,
+      "ultima_verificacao": "2026-07-16T14:45:59-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4958,
-      "ultima_verificacao": "2026-07-16T13:05:09-03:00"
+      "ultima_verificacao": "2026-07-16T14:45:59-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14110,
-      "ultima_verificacao": "2026-07-16T13:05:09-03:00"
+      "ultimo_numero": 14111,
+      "ultima_verificacao": "2026-07-16T14:45:59-03:00"
     }
   },
   "protocolos": {
@@ -2639,6 +2639,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoProtocolo": "A8225000953A",
+        "RE": "RE8225000141A",
+        "numgEdificacao": 53060,
+        "Nome_Edificacao": "NEREU JOSÉ ERBS",
+        "Logradouro": "RUA SANTO INÁCIO",
+        "Numero": "727",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-16T14:45:59-03:00"
+      },
+      {
         "CodigoProtocolo": "A8225000952A",
         "RE": "RE8225000798A",
         "numgEdificacao": 356441,
@@ -3709,6 +3720,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012845A",
+        "RE": "RE8047002741A",
+        "numgEdificacao": 120367,
+        "Nome_Edificacao": "ARNO RAMTHUN",
+        "Logradouro": "RUA JOHANN SACHSE",
+        "Numero": "2476",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-16T14:45:59-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012844A",
+        "RE": "RE8047012041A",
+        "numgEdificacao": 365314,
+        "Nome_Edificacao": "ISAIAS RIBEIRO GERMANO",
+        "Logradouro": "R FRITZ KOEGLER",
+        "Numero": "271",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-16T14:45:59-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012843A",
         "RE": "RE8047001307A",
@@ -5496,6 +5529,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014111A",
+        "RE": "RE8161013745A",
+        "numgEdificacao": 365320,
+        "Nome_Edificacao": "Mercado Merabe Limitada",
+        "Logradouro": "RUA OSWALDO LEAL",
+        "Numero": "847",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-16T14:45:59-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014110A",
         "RE": "RE8161011814A",
         "numgEdificacao": 313453,
@@ -6977,11 +7021,11 @@
     "Guabiruba": 28,
     "Gaspar": 54,
     "Porto Belo": 61,
-    "Nova Trento": 36,
+    "Nova Trento": 37,
     "Itapema": 61,
-    "Blumenau": 101,
+    "Blumenau": 103,
     "Navegantes": 61,
-    "Itajai": 134
+    "Itajai": 135
   },
-  "total_geral": 627
+  "total_geral": 631
 }
