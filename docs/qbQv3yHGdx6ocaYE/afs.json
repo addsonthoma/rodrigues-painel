@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-07-16T09:06:21-03:00",
+  "timestamp": "2026-07-16T11:25:10-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 817,
+      "ultimo_numero": 818,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-16T09:06:21-03:00"
+      "ultima_verificacao": "2026-07-16T11:25:10-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 28,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-16T09:06:21-03:00"
+      "ultima_verificacao": "2026-07-16T11:25:10-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-16T09:06:21-03:00"
+      "ultima_verificacao": "2026-07-16T11:25:10-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 497,
+      "ultimo_numero": 498,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-16T09:06:21-03:00"
+      "ultima_verificacao": "2026-07-16T11:25:10-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 449,
+      "ultimo_numero": 450,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-16T09:06:21-03:00"
+      "ultima_verificacao": "2026-07-16T11:25:10-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 396,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-16T09:06:21-03:00"
+      "ultima_verificacao": "2026-07-16T11:25:10-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 978,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-16T09:06:21-03:00"
+      "ultima_verificacao": "2026-07-16T11:25:10-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 911,
+      "ultimo_numero": 912,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-16T09:06:21-03:00"
+      "ultima_verificacao": "2026-07-16T11:25:10-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 272,
+      "ultimo_numero": 273,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-16T09:06:21-03:00"
+      "ultima_verificacao": "2026-07-16T11:25:10-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 939,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-16T09:06:21-03:00"
+      "ultima_verificacao": "2026-07-16T11:25:10-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000818A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001226A",
+        "Nome_Edificacao": "JOSE IRINEU SCHWAMBERGER",
+        "Logradouro": "Rua Beira Rio",
+        "Numero": "921",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-16T11:25:10-03:00"
+      },
       {
         "CodigoAuto": "AF8055000817A/26",
         "Tipo": "AF",
@@ -3096,6 +3107,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000498A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000844A",
+        "Nome_Edificacao": "GILIARDE SCHMITZ",
+        "Logradouro": "Rua João Silvino da Cunha",
+        "Numero": "140",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-16T11:25:10-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000497A/26",
         "Tipo": "AF",
         "RE": "RE8117000344A",
@@ -4010,6 +4032,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000450A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001217A",
+        "Nome_Edificacao": "VALMOR MANOEL LOPES",
+        "Logradouro": "RUA JOÃO REGIS NETO - 62888",
+        "Numero": "188",
+        "Bairro": "PORTO BELO - SANTA LUZIA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-16T11:25:10-03:00"
+      },
       {
         "CodigoAuto": "AF8265000449A/26",
         "Tipo": "AF",
@@ -9385,6 +9418,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000912A/26",
+        "Tipo": "AF",
+        "RE": "RE8047007620A",
+        "Nome_Edificacao": "ILHA GRANDE PARTICIPACOES LTDA",
+        "Logradouro": "RUA FRANZ VOLLES",
+        "Numero": "145",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-16T11:25:10-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000911A/26",
         "Tipo": "AF",
         "RE": "RE8047009904A",
@@ -11564,6 +11608,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoAuto": "AF8221000273A/26",
+        "Tipo": "AF",
+        "RE": "RE8221002187A",
+        "Nome_Edificacao": "JOSE CARLOS DALÇOQUIO EPP",
+        "Logradouro": "Rua José Francisco Laurindo",
+        "Numero": "2125",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-16T11:25:10-03:00"
+      },
       {
         "CodigoAuto": "AF8221000272A/26",
         "Tipo": "AF",
@@ -14385,16 +14440,16 @@
     ]
   },
   "totais": {
-    "Brusque": 207,
+    "Brusque": 208,
     "Botuvera": 28,
     "Guabiruba": 40,
-    "Gaspar": 83,
-    "Porto Belo": 158,
+    "Gaspar": 84,
+    "Porto Belo": 159,
     "Nova Trento": 86,
     "Itapema": 244,
-    "Blumenau": 198,
-    "Navegantes": 68,
+    "Blumenau": 199,
+    "Navegantes": 69,
     "Itajai": 188
   },
-  "total_geral": 1300
+  "total_geral": 1305
 }
