@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-16T11:24:38-03:00",
+  "timestamp": "2026-07-16T12:57:15-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 92,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T11:24:38-03:00"
+      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T11:24:38-03:00"
+      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T11:24:38-03:00"
+      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T11:24:38-03:00"
+      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 87,
+      "ultimo_numero": 89,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T11:24:38-03:00"
+      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 109,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T11:24:38-03:00"
+      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 162,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T11:24:38-03:00"
+      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 188,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T11:24:38-03:00"
+      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 73,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T11:24:38-03:00"
+      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 367,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-16T11:24:38-03:00"
+      "ultima_verificacao": "2026-07-16T12:57:15-03:00"
     }
   },
   "multas": {
@@ -3028,6 +3028,26 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "MUL8265000088A/26",
+        "RE": "RE8265000853A",
+        "Nome_Edificacao": "CONDOMINIO EDIFICIO VITA STELLA",
+        "Logradouro": "RUA LUIZ WALENDOWSKY",
+        "Numero": "149",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-16T12:57:15-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8265000089A/26",
+        "RE": "RE8265002677A",
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL COSTA DO PEREQUE",
+        "Logradouro": "GAUDÊNCIO CAMPOS",
+        "Numero": "53",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-16T12:57:15-03:00"
+      },
+      {
         "CodigoAuto": "MUL8265000087A/26",
         "RE": "RE8265002418A",
         "Nome_Edificacao": "ALCELMO MORAES",
@@ -3321,10 +3341,24 @@
     "Itapema": 45,
     "Navegantes": 35,
     "Nova Trento": 26,
-    "Porto Belo": 30
+    "Porto Belo": 32
   },
-  "total_geral": 335,
+  "total_geral": 337,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-16T12:57:15-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000089A/26",
+      "nome": "CONDOMINIO RESIDENCIAL COSTA DO PEREQUE",
+      "re": "RE8265002677A"
+    },
+    {
+      "ts": "2026-07-16T12:57:15-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000088A/26",
+      "nome": "CONDOMINIO EDIFICIO VITA STELLA",
+      "re": "RE8265000853A"
+    },
     {
       "ts": "2026-07-15T17:12:13-03:00",
       "cidade": "Navegantes",
