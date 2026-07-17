@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-17T12:31:15-03:00",
+  "timestamp": "2026-07-17T13:48:59-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8026,
-      "ultima_verificacao": "2026-07-17T12:31:15-03:00"
+      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 396,
-      "ultima_verificacao": "2026-07-17T12:31:15-03:00"
+      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1504,
-      "ultima_verificacao": "2026-07-17T12:31:15-03:00"
+      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3823,
-      "ultima_verificacao": "2026-07-17T12:31:15-03:00"
+      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3344,
-      "ultima_verificacao": "2026-07-17T12:31:15-03:00"
+      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 953,
-      "ultima_verificacao": "2026-07-17T12:31:15-03:00"
+      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7113,
-      "ultima_verificacao": "2026-07-17T12:31:15-03:00"
+      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12849,
-      "ultima_verificacao": "2026-07-17T12:31:15-03:00"
+      "ultimo_numero": 12850,
+      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4959,
-      "ultima_verificacao": "2026-07-17T12:31:15-03:00"
+      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14118,
-      "ultima_verificacao": "2026-07-17T12:31:15-03:00"
+      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
     }
   },
   "protocolos": {
@@ -3853,6 +3853,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012850A",
+        "RE": "RE8047009904A",
+        "numgEdificacao": 278647,
+        "Nome_Edificacao": "ASSOCIAÇÃO SEMEANDO O BEM",
+        "Logradouro": "RUA SIBÉRIA",
+        "Numero": "36",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-17T13:48:59-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012849A",
         "RE": "RE8047001279A",
         "numgEdificacao": 48556,
@@ -7287,9 +7298,9 @@
     "Porto Belo": 63,
     "Nova Trento": 37,
     "Itapema": 66,
-    "Blumenau": 107,
+    "Blumenau": 108,
     "Navegantes": 62,
     "Itajai": 142
   },
-  "total_geral": 655
+  "total_geral": 656
 }
