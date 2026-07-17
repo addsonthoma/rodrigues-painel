@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-17T13:48:59-03:00",
+  "timestamp": "2026-07-17T14:56:11-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8026,
-      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
+      "ultima_verificacao": "2026-07-17T14:56:11-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 396,
-      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
+      "ultima_verificacao": "2026-07-17T14:56:11-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1504,
-      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
+      "ultima_verificacao": "2026-07-17T14:56:11-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3823,
-      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
+      "ultima_verificacao": "2026-07-17T14:56:11-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3344,
-      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
+      "ultimo_numero": 3345,
+      "ultima_verificacao": "2026-07-17T14:56:11-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 953,
-      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
+      "ultima_verificacao": "2026-07-17T14:56:11-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7113,
-      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
+      "ultimo_numero": 7114,
+      "ultima_verificacao": "2026-07-17T14:56:11-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12850,
-      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
+      "ultima_verificacao": "2026-07-17T14:56:11-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4959,
-      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
+      "ultimo_numero": 4960,
+      "ultima_verificacao": "2026-07-17T14:56:11-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14118,
-      "ultima_verificacao": "2026-07-17T13:48:59-03:00"
+      "ultima_verificacao": "2026-07-17T14:56:11-03:00"
     }
   },
   "protocolos": {
@@ -2021,6 +2021,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003345A",
+        "RE": "RE8265002474A",
+        "numgEdificacao": 322871,
+        "Nome_Edificacao": "Cruzada Nacional de Evangelização",
+        "Logradouro": "RUA LUIZ ESCABURI",
+        "Numero": "89",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-17T14:56:11-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003344A",
         "RE": "RE8265001921A",
         "numgEdificacao": 251150,
@@ -3124,6 +3135,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007114A",
+        "RE": "RE8163006806A",
+        "numgEdificacao": 365444,
+        "Nome_Edificacao": "Borracharia Alto são bento",
+        "Logradouro": "Rua 816c",
+        "Numero": "46",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-17T14:56:11-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007113A",
         "RE": "RE8163003587A",
@@ -5042,6 +5064,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoProtocolo": "A8221004960A",
+        "RE": "RE8221004108A",
+        "numgEdificacao": 365447,
+        "Nome_Edificacao": "JP Transporte e Logística de Containers Ltda",
+        "Logradouro": "RUA JOÃO ARAGÃO",
+        "Numero": "172",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-17T14:56:11-03:00"
+      },
       {
         "CodigoProtocolo": "A8221004959A",
         "RE": "RE8221004107A",
@@ -7295,12 +7328,12 @@
     "Botuvera": 30,
     "Guabiruba": 29,
     "Gaspar": 57,
-    "Porto Belo": 63,
+    "Porto Belo": 64,
     "Nova Trento": 37,
-    "Itapema": 66,
+    "Itapema": 67,
     "Blumenau": 108,
-    "Navegantes": 62,
+    "Navegantes": 63,
     "Itajai": 142
   },
-  "total_geral": 656
+  "total_geral": 659
 }

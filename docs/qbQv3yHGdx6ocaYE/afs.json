@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-07-17T13:41:01-03:00",
+  "timestamp": "2026-07-17T14:48:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 824,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-17T13:41:01-03:00"
+      "ultima_verificacao": "2026-07-17T14:48:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 29,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-17T13:41:01-03:00"
+      "ultima_verificacao": "2026-07-17T14:48:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-17T13:41:01-03:00"
+      "ultima_verificacao": "2026-07-17T14:48:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 505,
+      "ultimo_numero": 506,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-17T13:41:01-03:00"
+      "ultima_verificacao": "2026-07-17T14:48:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 451,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-17T13:41:01-03:00"
+      "ultima_verificacao": "2026-07-17T14:48:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 402,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-17T13:41:01-03:00"
+      "ultima_verificacao": "2026-07-17T14:48:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 989,
+      "ultimo_numero": 995,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-17T13:41:01-03:00"
+      "ultima_verificacao": "2026-07-17T14:48:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 920,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-17T13:41:01-03:00"
+      "ultima_verificacao": "2026-07-17T14:48:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 274,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-17T13:41:01-03:00"
+      "ultima_verificacao": "2026-07-17T14:48:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 957,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-17T13:41:01-03:00"
+      "ultima_verificacao": "2026-07-17T14:48:03-03:00"
     }
   },
   "afs": {
@@ -3183,6 +3183,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000506A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001916A",
+        "Nome_Edificacao": "JULIO SCHRAMM ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "RUA CORONEL ARISTILIANO RAMOS",
+        "Numero": "475",
+        "Bairro": "GASPAR - CENTRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-17T14:48:03-03:00"
+      },
       {
         "CodigoAuto": "AF8117000505A/26",
         "Tipo": "AF",
@@ -6962,6 +6973,72 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163000995A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002448A",
+        "Nome_Edificacao": "EDIFICIO  RESIDENCIAL MAR VERMELHO",
+        "Logradouro": "RUA 230",
+        "Numero": "329",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-17T14:48:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000994A/26",
+        "Tipo": "AF",
+        "RE": "RE8163000499A",
+        "Nome_Edificacao": "ÁGUAS DE MARÇO",
+        "Logradouro": "RUA 284",
+        "Numero": "625",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-17T14:48:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000993A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001698A",
+        "Nome_Edificacao": "RESIDENCIAL IMPERIO DAS AGUAS",
+        "Logradouro": "RUA 244",
+        "Numero": "335",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-17T14:48:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000992A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003306A",
+        "Nome_Edificacao": "RESIDENCIAL VIVIANI",
+        "Logradouro": "RUA 313 B",
+        "Numero": "38",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-17T14:48:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000991A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002329A",
+        "Nome_Edificacao": "RESIDENCIAL ROSAS DE PROVENCE",
+        "Logradouro": "Rua 301",
+        "Numero": "01",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-17T14:48:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163000990A/26",
+        "Tipo": "AF",
+        "RE": "RE8163000799A",
+        "Nome_Edificacao": "SOLAR DOS IPÊS",
+        "Logradouro": "Rua 814",
+        "Numero": "",
+        "Bairro": "ITAPEMA - CASA BRANCA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-17T14:48:03-03:00"
+      },
       {
         "CodigoAuto": "AF8163000989A/26",
         "Tipo": "AF",
@@ -15092,13 +15169,13 @@
     "Brusque": 214,
     "Botuvera": 29,
     "Guabiruba": 40,
-    "Gaspar": 91,
+    "Gaspar": 92,
     "Porto Belo": 160,
     "Nova Trento": 92,
-    "Itapema": 255,
+    "Itapema": 261,
     "Blumenau": 207,
     "Navegantes": 70,
     "Itajai": 206
   },
-  "total_geral": 1364
+  "total_geral": 1371
 }
