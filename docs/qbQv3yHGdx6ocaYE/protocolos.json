@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-07-20T09:44:11-03:00",
+  "timestamp": "2026-07-20T12:06:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8030,
-      "ultima_verificacao": "2026-07-20T09:44:11-03:00"
+      "ultimo_numero": 8031,
+      "ultima_verificacao": "2026-07-20T12:06:04-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 396,
-      "ultima_verificacao": "2026-07-20T09:44:11-03:00"
+      "ultima_verificacao": "2026-07-20T12:06:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1505,
-      "ultima_verificacao": "2026-07-20T09:44:11-03:00"
+      "ultima_verificacao": "2026-07-20T12:06:04-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3824,
-      "ultima_verificacao": "2026-07-20T09:44:11-03:00"
+      "ultima_verificacao": "2026-07-20T12:06:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3345,
-      "ultima_verificacao": "2026-07-20T09:44:11-03:00"
+      "ultimo_numero": 3346,
+      "ultima_verificacao": "2026-07-20T12:06:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 953,
-      "ultima_verificacao": "2026-07-20T09:44:11-03:00"
+      "ultima_verificacao": "2026-07-20T12:06:04-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7114,
-      "ultima_verificacao": "2026-07-20T09:44:11-03:00"
+      "ultima_verificacao": "2026-07-20T12:06:04-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12853,
-      "ultima_verificacao": "2026-07-20T09:44:11-03:00"
+      "ultimo_numero": 12854,
+      "ultima_verificacao": "2026-07-20T12:06:04-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4963,
-      "ultima_verificacao": "2026-07-20T09:44:11-03:00"
+      "ultima_verificacao": "2026-07-20T12:06:04-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14119,
-      "ultima_verificacao": "2026-07-20T09:44:11-03:00"
+      "ultimo_numero": 14120,
+      "ultima_verificacao": "2026-07-20T12:06:04-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008031A",
+        "RE": "RE8055000058A",
+        "numgEdificacao": 9131,
+        "Nome_Edificacao": "GALPÃO INDUSTRIAL HW TÊXTIL",
+        "Logradouro": "Rua Melchior Kohler",
+        "Numero": "123",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-20T12:06:04-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008030A",
         "RE": "RE8055001077A",
@@ -2087,6 +2098,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003346A",
+        "RE": "RE8265002806A",
+        "numgEdificacao": 365530,
+        "Nome_Edificacao": "RESIDENCIAL GOLDEN GATE",
+        "Logradouro": "RUA OLINDA PEIXOTO, n 255",
+        "Numero": "255",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-20T12:06:04-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003345A",
         "RE": "RE8265002474A",
         "numgEdificacao": 322871,
@@ -3940,6 +3962,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012854A",
+        "RE": "RE8047007513A",
+        "numgEdificacao": 212260,
+        "Nome_Edificacao": "Centro Terapêutico e de Projetos Sócio Educativos Vida - CTV",
+        "Logradouro": "RUA JOAO BONIFACIO MIGUEL DE SOUZA",
+        "Numero": "145",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-20T12:06:04-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012853A",
         "RE": "RE8047011831A",
@@ -5892,6 +5925,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014120A",
+        "RE": "RE8161001316A",
+        "numgEdificacao": 37230,
+        "Nome_Edificacao": "MORTON CAPITAL LTDA",
+        "Logradouro": "Rua Estefano José Vanolli",
+        "Numero": "984",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-20T12:06:04-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014119A",
         "RE": "RE8161013749A",
         "numgEdificacao": 365495,
@@ -7467,16 +7511,16 @@
     ]
   },
   "totais": {
-    "Brusque": 66,
+    "Brusque": 67,
     "Botuvera": 30,
     "Guabiruba": 30,
     "Gaspar": 58,
-    "Porto Belo": 64,
+    "Porto Belo": 65,
     "Nova Trento": 37,
     "Itapema": 67,
-    "Blumenau": 111,
+    "Blumenau": 112,
     "Navegantes": 66,
-    "Itajai": 143
+    "Itajai": 144
   },
-  "total_geral": 672
+  "total_geral": 676
 }
