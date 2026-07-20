@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-20T13:50:51-03:00",
+  "timestamp": "2026-07-20T15:42:50-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8032,
-      "ultima_verificacao": "2026-07-20T13:50:51-03:00"
+      "ultima_verificacao": "2026-07-20T15:42:50-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 396,
-      "ultima_verificacao": "2026-07-20T13:50:51-03:00"
+      "ultima_verificacao": "2026-07-20T15:42:50-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1505,
-      "ultima_verificacao": "2026-07-20T13:50:51-03:00"
+      "ultima_verificacao": "2026-07-20T15:42:50-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3824,
-      "ultima_verificacao": "2026-07-20T13:50:51-03:00"
+      "ultimo_numero": 3826,
+      "ultima_verificacao": "2026-07-20T15:42:50-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3346,
-      "ultima_verificacao": "2026-07-20T13:50:51-03:00"
+      "ultimo_numero": 3347,
+      "ultima_verificacao": "2026-07-20T15:42:50-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 953,
-      "ultima_verificacao": "2026-07-20T13:50:51-03:00"
+      "ultima_verificacao": "2026-07-20T15:42:50-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7114,
-      "ultima_verificacao": "2026-07-20T13:50:51-03:00"
+      "ultimo_numero": 7116,
+      "ultima_verificacao": "2026-07-20T15:42:50-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12854,
-      "ultima_verificacao": "2026-07-20T13:50:51-03:00"
+      "ultimo_numero": 12856,
+      "ultima_verificacao": "2026-07-20T15:42:50-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4963,
-      "ultima_verificacao": "2026-07-20T13:50:51-03:00"
+      "ultima_verificacao": "2026-07-20T15:42:50-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14120,
-      "ultima_verificacao": "2026-07-20T13:50:51-03:00"
+      "ultima_verificacao": "2026-07-20T15:42:50-03:00"
     }
   },
   "protocolos": {
@@ -1469,6 +1469,28 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003826A",
+        "RE": "RE8117003246A",
+        "numgEdificacao": 364546,
+        "Nome_Edificacao": "Francisco Aloisio Schmitt",
+        "Logradouro": "Rua Gentile Schimitt",
+        "Numero": "320",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-20T15:42:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003825A",
+        "RE": "RE8117001298A",
+        "numgEdificacao": 188163,
+        "Nome_Edificacao": "CENTRO COMUNITÁRIO S. CRISTÓVÃO",
+        "Logradouro": "ESTRADA GERAL CORAL DE MINAS",
+        "Numero": "38",
+        "Bairro": "GASPAR - GASPAR GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-20T15:42:50-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003824A",
         "RE": "RE8117000754A",
         "numgEdificacao": 106406,
@@ -2108,6 +2130,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003347A",
+        "RE": "RE8265000926A",
+        "numgEdificacao": 125968,
+        "Nome_Edificacao": "Quest Residence",
+        "Logradouro": "av. dorvalino voltolini",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-20T15:42:50-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003346A",
         "RE": "RE8265002806A",
@@ -3235,6 +3268,28 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007116A",
+        "RE": "RE8163006768A",
+        "numgEdificacao": 363725,
+        "Nome_Edificacao": "CRG ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua 422",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-20T15:42:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007115A",
+        "RE": "RE8163006809A",
+        "numgEdificacao": 365595,
+        "Nome_Edificacao": "FOOD TRUCK",
+        "Logradouro": "Rua 276",
+        "Numero": "153",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-20T15:42:50-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007114A",
         "RE": "RE8163006806A",
         "numgEdificacao": 365444,
@@ -3973,6 +4028,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012856A",
+        "RE": "RE8047001429A",
+        "numgEdificacao": 61543,
+        "Nome_Edificacao": "Canto do Rio Futebol Clube",
+        "Logradouro": "Rua Santa Maria",
+        "Numero": "900",
+        "Bairro": "BLUMENAU - PROGRESSO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-20T15:42:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012855A",
+        "RE": "RE8047001596A",
+        "numgEdificacao": 75248,
+        "Nome_Edificacao": "Shopping Park Europeu",
+        "Logradouro": "Via Expressa Paul Fritz Kuehnrich",
+        "Numero": "1600",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-20T15:42:50-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012854A",
         "RE": "RE8047007513A",
@@ -7525,13 +7602,13 @@
     "Brusque": 68,
     "Botuvera": 30,
     "Guabiruba": 30,
-    "Gaspar": 58,
-    "Porto Belo": 65,
+    "Gaspar": 60,
+    "Porto Belo": 66,
     "Nova Trento": 37,
-    "Itapema": 67,
-    "Blumenau": 112,
+    "Itapema": 69,
+    "Blumenau": 114,
     "Navegantes": 66,
     "Itajai": 144
   },
-  "total_geral": 677
+  "total_geral": 684
 }

@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-07-20T13:40:47-03:00",
+  "timestamp": "2026-07-20T15:34:06-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 92,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-20T13:40:47-03:00"
+      "ultima_verificacao": "2026-07-20T15:34:06-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-20T13:40:47-03:00"
+      "ultima_verificacao": "2026-07-20T15:34:06-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-20T13:40:47-03:00"
+      "ultima_verificacao": "2026-07-20T15:34:06-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-20T13:40:47-03:00"
+      "ultima_verificacao": "2026-07-20T15:34:06-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-20T13:40:47-03:00"
+      "ultima_verificacao": "2026-07-20T15:34:06-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 109,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-20T13:40:47-03:00"
+      "ultima_verificacao": "2026-07-20T15:34:06-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 163,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-20T13:40:47-03:00"
+      "ultima_verificacao": "2026-07-20T15:34:06-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 190,
+      "ultimo_numero": 191,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-20T13:40:47-03:00"
+      "ultima_verificacao": "2026-07-20T15:34:06-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-20T13:40:47-03:00"
+      "ultima_verificacao": "2026-07-20T15:34:06-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 369,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-20T13:40:47-03:00"
+      "ultima_verificacao": "2026-07-20T15:34:06-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000191A/26",
+        "RE": "RE8047010401A",
+        "Nome_Edificacao": "IDALZIR SAVI",
+        "Logradouro": "Rua Professor Luiz Schwartz",
+        "Numero": "74",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-20T15:34:06-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000190A/26",
         "RE": "RE8047009733A",
@@ -3452,7 +3462,7 @@
     ]
   },
   "totais": {
-    "Blumenau": 55,
+    "Blumenau": 56,
     "Botuvera": 3,
     "Brusque": 37,
     "Gaspar": 18,
@@ -3463,8 +3473,15 @@
     "Nova Trento": 26,
     "Porto Belo": 33
   },
-  "total_geral": 349,
+  "total_geral": 350,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-20T15:34:06-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000191A/26",
+      "nome": "IDALZIR SAVI",
+      "re": "RE8047010401A"
+    },
     {
       "ts": "2026-07-20T13:40:47-03:00",
       "cidade": "Blumenau",
@@ -3716,69 +3733,6 @@
       "codigo": "MUL8163000157A/26",
       "nome": "ABRIGO MUNICIPAL DE CÃES E GATOS",
       "re": "RE8163006163A"
-    },
-    {
-      "ts": "2026-07-13T15:03:00-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000367A/26",
-      "nome": "VALMOR DAGNONI",
-      "re": "RE8161002583A"
-    },
-    {
-      "ts": "2026-07-13T15:03:00-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000366A/26",
-      "nome": "CONDOMÍNIO RESIDENCIAL E COMERCIAL TORRES DA BRAVA - TORRE SIRENA",
-      "re": "RE8161000376A"
-    },
-    {
-      "ts": "2026-07-13T15:03:00-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000365A/26",
-      "nome": "ESPOLIO DE ANTONINO JARES LONGO",
-      "re": "RE8161006133A"
-    },
-    {
-      "ts": "2026-07-13T15:03:00-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000187A/26",
-      "nome": "JULINE REVISAO E EMPACOTAMENTO LTDA",
-      "re": "RE8047011295A"
-    },
-    {
-      "ts": "2026-07-13T15:03:00-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000186A/26",
-      "nome": "JULINE REVISAO E EMPACOTAMENTO LTDA",
-      "re": "RE8047011295A"
-    },
-    {
-      "ts": "2026-07-13T15:03:00-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000156A/26",
-      "nome": "RUDINEI LOPES",
-      "re": "RE8163005179A"
-    },
-    {
-      "ts": "2026-07-13T15:03:00-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000155A/26",
-      "nome": "STRAMOSK LAVA CAR ME",
-      "re": "RE8163002678A"
-    },
-    {
-      "ts": "2026-07-13T15:03:00-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000092A/26",
-      "nome": "CAPELA E SALÃO COMUNITÁRIO SANTA CRUZ",
-      "re": "RE8055004285A"
-    },
-    {
-      "ts": "2026-07-13T15:03:00-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000091A/26",
-      "nome": "ZM S/A",
-      "re": "RE8055003206A"
     }
   ]
 }
