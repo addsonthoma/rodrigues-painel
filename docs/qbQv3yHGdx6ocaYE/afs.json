@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-07-20T17:11:17-03:00",
+  "timestamp": "2026-07-20T18:34:35-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 825,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-20T17:11:17-03:00"
+      "ultima_verificacao": "2026-07-20T18:34:35-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 29,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-20T17:11:17-03:00"
+      "ultima_verificacao": "2026-07-20T18:34:35-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-20T17:11:17-03:00"
+      "ultima_verificacao": "2026-07-20T18:34:35-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 510,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-20T17:11:17-03:00"
+      "ultima_verificacao": "2026-07-20T18:34:35-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 451,
+      "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-20T17:11:17-03:00"
+      "ultima_verificacao": "2026-07-20T18:34:35-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 413,
+      "ultimo_numero": 415,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-20T17:11:17-03:00"
+      "ultima_verificacao": "2026-07-20T18:34:35-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 998,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-20T17:11:17-03:00"
+      "ultima_verificacao": "2026-07-20T18:34:35-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 936,
+      "ultimo_numero": 937,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-20T17:11:17-03:00"
+      "ultima_verificacao": "2026-07-20T18:34:35-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 275,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-20T17:11:17-03:00"
+      "ultima_verificacao": "2026-07-20T18:34:35-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 965,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-20T17:11:17-03:00"
+      "ultima_verificacao": "2026-07-20T18:34:35-03:00"
     }
   },
   "afs": {
@@ -4253,6 +4253,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "AF8265000452A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002107A",
+        "Nome_Edificacao": "Centro de Eventos do Araçá",
+        "Logradouro": "Domingos João dos Santos",
+        "Numero": "736",
+        "Bairro": "PORTO BELO - ARACA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-20T18:34:35-03:00"
+      },
+      {
         "CodigoAuto": "AF8265000451A/26",
         "Tipo": "AF",
         "RE": "RE8265000176A",
@@ -6014,6 +6025,28 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000415A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000005A",
+        "Nome_Edificacao": "BAR DO SILVERIO",
+        "Logradouro": "RUA SANTO SILVERIO",
+        "Numero": "62",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-20T18:34:35-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000414A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000005A",
+        "Nome_Edificacao": "BAR DO SILVERIO",
+        "Logradouro": "RUA SANTO SILVERIO",
+        "Numero": "62",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-20T18:34:35-03:00"
+      },
       {
         "CodigoAuto": "AF8225000413A/26",
         "Tipo": "AF",
@@ -10055,6 +10088,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047000937A/26",
+        "Tipo": "AF",
+        "RE": "RE8047006350A",
+        "Nome_Edificacao": "Edifício Dona Isabel",
+        "Logradouro": "Rua Castro Alves",
+        "Numero": "78",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-20T18:34:35-03:00"
+      },
       {
         "CodigoAuto": "AF8047000936A/26",
         "Tipo": "AF",
@@ -15654,12 +15698,12 @@
     "Botuvera": 29,
     "Guabiruba": 40,
     "Gaspar": 96,
-    "Porto Belo": 160,
-    "Nova Trento": 103,
+    "Porto Belo": 161,
+    "Nova Trento": 105,
     "Itapema": 264,
-    "Blumenau": 223,
+    "Blumenau": 224,
     "Navegantes": 71,
     "Itajai": 214
   },
-  "total_geral": 1415
+  "total_geral": 1419
 }
