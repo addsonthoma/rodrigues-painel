@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-07-20T08:08:25-03:00",
-  "total": 2639,
-  "expired": true,
+  "timestamp": "2026-07-20T08:37:45-03:00",
+  "total": 2662,
+  "expired": false,
   "drill": {
     "AF8047000787A/25": {
       "tipo": "FISCALIZACAO",
@@ -581,12 +581,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "19/12/2022",
-      "prazoDias": -1306,
+      "prazoDias": -1309,
       "bombeiroAutuacao": "Cb MAURICIO Inacio Juvencio",
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1784309617.5541391
+      "_ts": 1784547202.8943179
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -600,7 +600,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1784309617.554161
+      "_ts": 1784547202.89434
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -618,7 +618,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1784309617.5541523
+      "_ts": 1784547202.894332
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -638,12 +638,12 @@
         "Executar sistema preventivo por extintores"
       ],
       "dataPrazo": "01/09/2026",
-      "prazoDias": 46,
+      "prazoDias": 43,
       "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
       "bloco": "01",
       "codgAuto": "AF8051000012A/26",
       "numgAuto": 472426,
-      "_ts": 1784309649.973655
+      "_ts": 1784547229.952335
     },
     "AF8055000623A/23": {
       "tipo": "FISCALIZACAO",
@@ -5091,7 +5091,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1784309610.1612415
+      "_ts": 1784547188.5512626
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5106,12 +5106,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "21/10/2026",
-      "prazoDias": 96,
+      "prazoDias": 93,
       "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1784309610.1612117
+      "_ts": 1784547188.5512412
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5207,12 +5207,12 @@
         "Apresentar projeto preventivo (PPCI)"
       ],
       "dataPrazo": "16/05/2025",
-      "prazoDias": -427,
+      "prazoDias": -430,
       "bombeiroAutuacao": "Sd GIOVANNA Piveti",
       "bloco": "ÁREA TOTAL",
       "codgAuto": "AF8051000021A/25",
       "numgAuto": 380344,
-      "_ts": 1784309664.514845
+      "_ts": 1784547253.227933
     },
     "AF8051000010A/26": {
       "tipo": "AF",
@@ -5226,7 +5226,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000010A/26",
-      "_ts": 1784309664.5148568
+      "_ts": 1784547253.2279425
     },
     "MUL8051000010A/25": {
       "tipo": "MULTA",
@@ -5244,7 +5244,7 @@
       "bloco": "ÁREA TOTAL",
       "codgAuto": "MUL8051000010A/25",
       "numgAuto": 456178,
-      "_ts": 1784309664.5148504
+      "_ts": 1784547253.227937
     },
     "AF8123000050A/26": {
       "tipo": "FISCALIZACAO",
@@ -5318,7 +5318,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1784309701.21709
+      "_ts": 1784547288.0980692
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -5377,12 +5377,12 @@
         "Apresentar projeto preventivo (PPCI)"
       ],
       "dataPrazo": "04/06/2025",
-      "prazoDias": -408,
+      "prazoDias": -411,
       "bombeiroAutuacao": "Cb Ademir Antonio Otto JUNIOR",
       "bloco": "GINASIO",
       "codgAuto": "AF8123000065A/23",
       "numgAuto": 234516,
-      "_ts": 1784309714.5872972
+      "_ts": 1784547303.3206692
     },
     "AF8123000007A/26": {
       "tipo": "FISCALIZACAO",
@@ -5436,7 +5436,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000041A/26",
-      "_ts": 1784309721.2348351
+      "_ts": 1784547313.6541595
     },
     "AF8123000037A/26": {
       "tipo": "FISCALIZACAO",
@@ -9426,7 +9426,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1784309603.0464303
+      "_ts": 1784547180.831708
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9440,7 +9440,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1784309626.4999955
+      "_ts": 1784547209.1904838
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -9454,7 +9454,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000015A/26",
-      "_ts": 1784309635.3707435
+      "_ts": 1784547215.706108
     },
     "AF8051000014A/26": {
       "tipo": "AF",
@@ -9468,7 +9468,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000014A/26",
-      "_ts": 1784309642.4847004
+      "_ts": 1784547222.7890816
     },
     "AF8051000011A/26": {
       "tipo": "AF",
@@ -9482,7 +9482,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000011A/26",
-      "_ts": 1784309649.9736688
+      "_ts": 1784547229.9523425
     },
     "AF8051000009A/26": {
       "tipo": "AF",
@@ -9510,7 +9510,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000044A/26",
-      "_ts": 1784309714.5873058
+      "_ts": 1784547303.3206756
     },
     "AF8123000040A/26": {
       "tipo": "AF",
@@ -13971,7 +13971,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1784309688.017569
+      "_ts": 1784547279.5741887
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -16228,12 +16228,12 @@
         "Apresentar projeto preventivo (PPCI)"
       ],
       "dataPrazo": "20/07/2026",
-      "prazoDias": 3,
+      "prazoDias": 0,
       "bombeiroAutuacao": "Sd GIOVANNA Piveti",
       "bloco": "ÁREA TOTAL",
       "codgAuto": "AF8051000024A/26",
       "numgAuto": 504421,
-      "_ts": 1784309664.5148478
+      "_ts": 1784547253.227935
     },
     "AF8117000450A/26": {
       "tipo": "FISCALIZACAO",
@@ -30012,7 +30012,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1784309681.296501
+      "_ts": 1784547277.3360825
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38415,7 +38415,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1784309672.117849
+      "_ts": 1784547265.0131805
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -38430,12 +38430,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "22/09/2026",
-      "prazoDias": 67,
+      "prazoDias": 64,
       "bombeiroAutuacao": "Cb Frederico Moreira Silva",
       "bloco": "1",
       "codgAuto": "AF8123000114A/25",
       "numgAuto": 449049,
-      "_ts": 1784309672.1178257
+      "_ts": 1784547265.0131562
     },
     "AF8117000482A/26": {
       "tipo": "FISCALIZACAO",
@@ -43820,12 +43820,12 @@
         "Solicitar vistoria para funcionamento"
       ],
       "dataPrazo": "07/08/2025",
-      "prazoDias": -344,
+      "prazoDias": -347,
       "bombeiroAutuacao": "Sd Jean Shoji TSUNA",
       "bloco": "Salas modulares",
       "codgAuto": "AF8265000599A/25",
       "numgAuto": 414381,
-      "_ts": 1784309761.0160787
+      "_ts": 1784547363.286508
     },
     "AF8265000445A/26": {
       "tipo": "AF",
@@ -43839,7 +43839,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8265000445A/26",
-      "_ts": 1784309761.0160863
+      "_ts": 1784547363.2865155
     },
     "AF8225000387A/26": {
       "tipo": "FISCALIZACAO",
@@ -47360,7 +47360,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8163000976A/26",
-      "_ts": 1784309776.6718242
+      "_ts": 1784547444.7707632
     },
     "AF8163000975A/26": {
       "tipo": "FISCALIZACAO",
@@ -50116,6 +50116,475 @@
       "codgAuto": "AF8161000948A/26",
       "numgAuto": 513248,
       "_ts": 1784309896.9449208
+    },
+    "AF8117000508A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2387.5,
+      "cidade": "GASPAR",
+      "responsavel": "ISMAEL CLEVERSON SANTANA",
+      "cpfCnpj": "96367571949",
+      "celular": "47996591573",
+      "email": "dptofinanceirovnt@gmail.com",
+      "endereco_responsavel": "Rua Industrial Leopoldo Schmalz, 50, Sete de Setembro, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento",
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "17/08/2026",
+      "prazoDias": 28,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000508A/26",
+      "numgAuto": 513362,
+      "_ts": 1784547320.073924
+    },
+    "AF8117000507A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 275.81,
+      "cidade": "GASPAR",
+      "responsavel": "NELSON CORDINI",
+      "cpfCnpj": "21801959900",
+      "celular": "47992720202",
+      "email": "carlos.coradini@hotmail.com",
+      "endereco_responsavel": "Rua Carlos Coradini,, 1800, Alto Gasparinho, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "17/08/2026",
+      "prazoDias": 28,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "edificação",
+      "codgAuto": "AF8117000507A/26",
+      "numgAuto": 513357,
+      "_ts": 1784547333.1599298
+    },
+    "AF8117000506A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 679.71,
+      "cidade": "GASPAR",
+      "responsavel": "Maike Eather Rosa Scotti",
+      "cpfCnpj": "44827440930",
+      "celular": "47999340194",
+      "email": "maikeesther@hotmail.com",
+      "endereco_responsavel": "Rua Pedro Simon, 290, Margem Esquerda, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "17/08/2026",
+      "prazoDias": 28,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000506A/26",
+      "numgAuto": 513354,
+      "_ts": 1784547340.0760462
+    },
+    "AF8117000523A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 679.71,
+      "cidade": "GASPAR",
+      "responsavel": "JULIO SCHRAMM - ADMINISTRADORA DE BENS LTDA",
+      "cpfCnpj": "80695406000175",
+      "celular": "47999340194",
+      "email": "maikeesther@hotmail.com",
+      "endereco_responsavel": "Rua Pedro Simon, 290, Margem Esquerda, Gaspar",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "17/12/2026",
+      "prazoDias": 150,
+      "bombeiroAutuacao": "3º Sgt ROBERSON Aender Rufino",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000523A/25",
+      "numgAuto": 411316,
+      "_ts": 1784547340.076108
+    },
+    "AF8117000540A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 679.71,
+      "cidade": "GASPAR",
+      "responsavel": "JULIO SCHRAMM - ADMINISTRADORA DE BENS LTDA",
+      "cpfCnpj": "80695406000175",
+      "celular": "47999340194",
+      "email": "maikeesther@hotmail.com",
+      "endereco_responsavel": "Rua Pedro Simon, 290, Margem Esquerda, Gaspar",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "19/12/2026",
+      "prazoDias": 152,
+      "bombeiroAutuacao": "3º Sgt ROBERSON Aender Rufino",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000540A/25",
+      "numgAuto": 413423,
+      "_ts": 1784547340.0761127
+    },
+    "AF8225000403A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 200,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "ISILDO DE LIMA 58043411972",
+      "cpfCnpj": "33342440000186",
+      "celular": "47999347171",
+      "email": "sirlei.terezinha.germano@gmail.com",
+      "endereco_responsavel": "R dos Imigrantes, 586, Besenelo, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "26/08/2026",
+      "prazoDias": 37,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "BLOCO",
+      "codgAuto": "AF8225000403A/26",
+      "numgAuto": 513443,
+      "_ts": 1784547369.9970195
+    },
+    "AF8163000248A/22": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 4720.64,
+      "cidade": "ITAPEMA",
+      "responsavel": "ASSOCIACAO DOS MORADORES DO CONDOMINIO MAR VERMELHO",
+      "cpfCnpj": "13404674000101",
+      "celular": "47932617700",
+      "email": "administracao.condominios@roderjan.com.br",
+      "endereco_responsavel": "Rua 230, 329, Meia Praia, Itapema",
+      "exigencias": [
+        "Apresentar art, rrt ou trt do seguinte"
+      ],
+      "dataPrazo": "28/03/2022",
+      "prazoDias": -1575,
+      "bombeiroAutuacao": "1º Sgt Robson de Almeida HOFFMANN",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8163000248A/22",
+      "numgAuto": 59144,
+      "_ts": 1784547377.2410228
+    },
+    "AF8163000995A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 4720.64,
+      "cidade": "ITAPEMA",
+      "responsavel": "ASSOCIACAO DOS MORADORES DO CONDOMINIO MAR VERMELHO",
+      "cpfCnpj": "13404674000101",
+      "celular": "47932617700",
+      "email": "administracao.condominios@roderjan.com.br",
+      "endereco_responsavel": "Rua 230, 329, Meia Praia, Itapema",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "19/10/2026",
+      "prazoDias": 91,
+      "bombeiroAutuacao": "Cb Geraldo ROMAGNOLI Neto",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8163000995A/26",
+      "numgAuto": 513351,
+      "_ts": 1784547377.2410536
+    },
+    "MUL8163000033A/22": {
+      "tipo": "MULTA",
+      "areaTotal": 4720.64,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "ÚNICO",
+      "codgAuto": "MUL8163000033A/22",
+      "numgAuto": 60286,
+      "_ts": 1784547377.2411003
+    },
+    "AF8163000074A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 5361.44,
+      "cidade": "ITAPEMA",
+      "responsavel": "GUACI BRAVOSI TONELO",
+      "cpfCnpj": "00254331050",
+      "celular": "48992102212",
+      "email": "guacitonelobenjamin@gmail.com",
+      "endereco_responsavel": "Rua Wilson Belber, 50, Alto Pereque, Porto Belo",
+      "exigencias": [
+        "Executar sistema antissucção nos ralos das piscinas",
+        "Executar sistema de iluminação de emergência",
+        "Executar sistema de saída de emergência",
+        "Executar sistema preventivo por extintores",
+        "Executar instalações elétricas",
+        "Executar sistema de sinalização para abandono de local",
+        "Implantar plano de emergência e gerênciamento de riscos",
+        "Apresentar projeto preventivo (PPCI)",
+        "Executar instalações de gás combustível",
+        "Executar medidas de segurança para piscinas",
+        "Executar sistema detecção automática de incêndio",
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____",
+        "Executar sistema de alarme de incêndio",
+        "Executar sistema hidráulico preventivo"
+      ],
+      "dataPrazo": "11/04/2023",
+      "prazoDias": -1196,
+      "bombeiroAutuacao": "Cb William Paredes Barreto",
+      "bloco": "BRASIN INCORPORADORA LTDA",
+      "codgAuto": "AF8163000074A/23",
+      "numgAuto": 157013,
+      "_ts": 1784547385.5094042
+    },
+    "AF8163000994A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 5361.44,
+      "cidade": "ITAPEMA",
+      "responsavel": "RESIDENCIAL ÁGUAS DE MARÇO",
+      "cpfCnpj": "50309081000184",
+      "celular": "47932617700",
+      "email": "administracao.condominios@roderjan.com.br",
+      "endereco_responsavel": "Rua 284, 625, Meia Praia, Itapema",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "19/10/2026",
+      "prazoDias": 91,
+      "bombeiroAutuacao": "Cb Geraldo ROMAGNOLI Neto",
+      "bloco": "BRASIN INCORPORADORA LTDA",
+      "codgAuto": "AF8163000994A/26",
+      "numgAuto": 513338,
+      "_ts": 1784547385.5094144
+    },
+    "MUL8163001157A/23": {
+      "tipo": "MULTA",
+      "areaTotal": 5361.44,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "BRASIN INCORPORADORA LTDA",
+      "codgAuto": "MUL8163001157A/23",
+      "numgAuto": 236149,
+      "_ts": 1784547385.50945
+    },
+    "AF8163000993A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 4860.65,
+      "cidade": "ITAPEMA",
+      "responsavel": "Residencial Imperio das Aguas",
+      "cpfCnpj": "27795170000166",
+      "celular": "47932617700",
+      "email": "administracao.condominios@roderjan.com.br",
+      "endereco_responsavel": "Rua 244, 335, Meia Praia, Itapema",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "19/10/2026",
+      "prazoDias": 91,
+      "bombeiroAutuacao": "Cb Geraldo ROMAGNOLI Neto",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8163000993A/26",
+      "numgAuto": 513335,
+      "_ts": 1784547402.553183
+    },
+    "AF8163000992A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 4774.92,
+      "cidade": "ITAPEMA",
+      "responsavel": "CONDOMINIO RESIDENCIAL VIVIANI",
+      "cpfCnpj": "22614637000100",
+      "celular": "47932617700",
+      "email": "administracao.condominios@roderjan.com.br",
+      "endereco_responsavel": "313 B, 38, Meia Praia, Itapema",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "19/10/2026",
+      "prazoDias": 91,
+      "bombeiroAutuacao": "Cb Geraldo ROMAGNOLI Neto",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8163000992A/26",
+      "numgAuto": 513329,
+      "_ts": 1784547409.6791742
+    },
+    "AF8163000082A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 5349.75,
+      "cidade": "ITAPEMA",
+      "responsavel": "AMARAL INCORPORADORA LTDA",
+      "cpfCnpj": "07779320000130",
+      "celular": "47997171163",
+      "email": "amaralconstrucoes@terra.com.br",
+      "endereco_responsavel": "240, 240, Meia Praia, Itapema",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "16/02/2023",
+      "prazoDias": -1250,
+      "bombeiroAutuacao": "3º Sgt ANILTON Subtil de Oliveira",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8163000082A/23",
+      "numgAuto": 157530,
+      "_ts": 1784547418.2923944
+    },
+    "AF8163001317A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 5349.75,
+      "cidade": "ITAPEMA",
+      "responsavel": "Residencial Rosas de Provence",
+      "cpfCnpj": "30690020000100",
+      "celular": "47997171163",
+      "email": "lucianovalim73@gmail.com",
+      "endereco_responsavel": "Rua 301, 240, Meia Praia, Itapema",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "15/11/2023",
+      "prazoDias": -978,
+      "bombeiroAutuacao": "1º Sgt Robson de Almeida HOFFMANN",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8163001317A/23",
+      "numgAuto": 229415,
+      "_ts": 1784547418.2924075
+    },
+    "AF8163000991A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 5349.75,
+      "cidade": "ITAPEMA",
+      "responsavel": "Residencial Rosas de Provence",
+      "cpfCnpj": "30690020000100",
+      "celular": "47997171163",
+      "email": "lucianovalim73@gmail.com",
+      "endereco_responsavel": "Rua 301, 240, Meia Praia, Itapema",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "19/10/2026",
+      "prazoDias": 91,
+      "bombeiroAutuacao": "Cb Geraldo ROMAGNOLI Neto",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8163000991A/26",
+      "numgAuto": 513325,
+      "_ts": 1784547418.2924106
+    },
+    "MUL8163000502A/23": {
+      "tipo": "MULTA",
+      "areaTotal": 5349.75,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "ÚNICO",
+      "codgAuto": "MUL8163000502A/23",
+      "numgAuto": 172437,
+      "_ts": 1784547418.2924554
+    },
+    "MUL8163001389A/23": {
+      "tipo": "MULTA",
+      "areaTotal": 5349.75,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "ÚNICO",
+      "codgAuto": "MUL8163001389A/23",
+      "numgAuto": 262430,
+      "_ts": 1784547418.292459
+    },
+    "AF8163000990A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "9687.78",
+      "cidade": "ITAPEMA",
+      "responsavel": "ASSOCIACAO DE ADMINISTRACAO DO EMPREENDIMENTO SOLAR DOS IPES",
+      "cpfCnpj": "67661790000127",
+      "celular": "47999400840",
+      "email": "financeirocontabilidade@simax.net.br",
+      "endereco_responsavel": "Rua 814, 138, Casa Branca, Itapema",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "19/10/2026",
+      "prazoDias": 91,
+      "bombeiroAutuacao": "Cb Geraldo ROMAGNOLI Neto",
+      "bloco": "SOLAR DOS IPÊS",
+      "codgAuto": "AF8163000990A/26",
+      "numgAuto": 513314,
+      "_ts": 1784547429.435361
+    },
+    "AF8047000922A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "30",
+      "cidade": "BLUMENAU",
+      "responsavel": "BARBERIA MACEDO LTDA",
+      "cpfCnpj": "66244000000145",
+      "celular": "47992777972",
+      "email": "sdnogueiracontabilidade@gmail.com",
+      "endereco_responsavel": "R Bruno Schreiber, 1840, Progresso, Blumenau",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "19/07/2027",
+      "prazoDias": 364,
+      "bombeiroAutuacao": "1º Sgt Edson Marcelo WERNER",
+      "bloco": "BARBEARIA",
+      "codgAuto": "AF8047000922A/26",
+      "numgAuto": 513412,
+      "_ts": 1784547452.188009
+    },
+    "AF8047000921A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "222.08",
+      "cidade": "BLUMENAU",
+      "responsavel": "V F LOJAO PROGRESSO MOVEIS E ELETRODOMESTICOS LTDA",
+      "cpfCnpj": "31637418000219",
+      "celular": "47984069805",
+      "email": "sallescont@gmail.com",
+      "endereco_responsavel": "Rua Francisco Gamba, 60, Progresso, Blumenau",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "19/07/2027",
+      "prazoDias": 364,
+      "bombeiroAutuacao": "1º Sgt Edson Marcelo WERNER",
+      "bloco": "DEPOSITO",
+      "codgAuto": "AF8047000921A/26",
+      "numgAuto": 513365,
+      "_ts": 1784547458.4113727
+    },
+    "AF8161000958A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 15644.64,
+      "cidade": "ITAJAÍ",
+      "responsavel": "Fabio Luis Inthurn",
+      "cpfCnpj": "02731483970",
+      "celular": "47997144638",
+      "email": "incorporacao@lotisa.com.br",
+      "endereco_responsavel": "Rua Telêmaco Pereira Liberato, 145, Fazenda, Itajaí",
+      "exigencias": [
+        "Executar medidas de segurança para piscinas",
+        "Executar sistema de elevador de emergência",
+        "Executar sistema de pressurização de escadas",
+        "Executar sistema de saída de emergência"
+      ],
+      "dataPrazo": "14/08/2026",
+      "prazoDias": 25,
+      "bombeiroAutuacao": "Cap Ricardo Alberto DUMMEL",
+      "bloco": "Residencial Vista Mare",
+      "codgAuto": "AF8161000958A/26",
+      "numgAuto": 513531,
+      "_ts": 1784547464.887341
     }
   }
 }
