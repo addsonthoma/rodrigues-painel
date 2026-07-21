@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-21T08:56:05-03:00",
+  "timestamp": "2026-07-21T11:16:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 92,
+      "ultimo_numero": 96,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T08:56:05-03:00"
+      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T08:56:05-03:00"
+      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T08:56:05-03:00"
+      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T08:56:05-03:00"
+      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T08:56:05-03:00"
+      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 109,
+      "ultimo_numero": 113,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T08:56:05-03:00"
+      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 163,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T08:56:05-03:00"
+      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 191,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T08:56:05-03:00"
+      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T08:56:05-03:00"
+      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 369,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T08:56:05-03:00"
+      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
     }
   },
   "multas": {
@@ -650,6 +650,46 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000093A/26",
+        "RE": "RE8055002942A",
+        "Nome_Edificacao": "GIOVANI SMIALOWSKI LIRA",
+        "Logradouro": "Rua Paulo Knihs",
+        "Numero": "237",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-21T11:16:24-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000094A/26",
+        "RE": "RE8055001433A",
+        "Nome_Edificacao": "ALLAN MAGNO DE A. FAGUNDES",
+        "Logradouro": "Avenida Lauro Muller",
+        "Numero": "130",
+        "Bairro": "BRUSQUE - CENTRO II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-21T11:16:24-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000095A/26",
+        "RE": "RE8055002264A",
+        "Nome_Edificacao": "Casa 182",
+        "Logradouro": "Avenida Cônsul Carlos Renaux",
+        "Numero": "182",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-21T11:16:24-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000096A/26",
+        "RE": "RE8055006617A",
+        "Nome_Edificacao": "Pet Family",
+        "Logradouro": "Rua João XXIII",
+        "Numero": "183",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-21T11:16:24-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000091A/26",
         "RE": "RE8055003206A",
@@ -2902,6 +2942,46 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000110A/26",
+        "RE": "RE8225000626A",
+        "Nome_Edificacao": "Gabrieli das Graças Boso Bento",
+        "Logradouro": "RUA ANTONIO CARLOS BOSO",
+        "Numero": "275",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-21T11:16:24-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000111A/26",
+        "RE": "RE8225000640A",
+        "Nome_Edificacao": "GALPÃO ADRIANO JOSÉ WOLF",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-21T11:16:24-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000112A/26",
+        "RE": "RE8225000638A",
+        "Nome_Edificacao": "MARLI FUMAGALLI MURARO",
+        "Logradouro": "RODOVIA ESTADUAL SC 410",
+        "Numero": "1157",
+        "Bairro": "NOVA TRENTO - SÃO LUIZ",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-21T11:16:24-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000113A/26",
+        "RE": "RE8225000155A",
+        "Nome_Edificacao": "Condomínio Edifício Nova Itália",
+        "Logradouro": "Rua Estanislau Voltolini",
+        "Numero": "31",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-21T11:16:24-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000109A/26",
         "RE": "RE8225000474A",
         "Nome_Edificacao": "LAR MARIA TEREZA",
@@ -3464,17 +3544,73 @@
   "totais": {
     "Blumenau": 56,
     "Botuvera": 3,
-    "Brusque": 37,
+    "Brusque": 41,
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 87,
     "Itapema": 46,
     "Navegantes": 41,
-    "Nova Trento": 26,
+    "Nova Trento": 30,
     "Porto Belo": 33
   },
-  "total_geral": 350,
+  "total_geral": 358,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-21T11:16:24-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000113A/26",
+      "nome": "Condomínio Edifício Nova Itália",
+      "re": "RE8225000155A"
+    },
+    {
+      "ts": "2026-07-21T11:16:24-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000112A/26",
+      "nome": "MARLI FUMAGALLI MURARO",
+      "re": "RE8225000638A"
+    },
+    {
+      "ts": "2026-07-21T11:16:24-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000111A/26",
+      "nome": "GALPÃO ADRIANO JOSÉ WOLF",
+      "re": "RE8225000640A"
+    },
+    {
+      "ts": "2026-07-21T11:16:24-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000110A/26",
+      "nome": "Gabrieli das Graças Boso Bento",
+      "re": "RE8225000626A"
+    },
+    {
+      "ts": "2026-07-21T11:16:24-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000096A/26",
+      "nome": "Pet Family",
+      "re": "RE8055006617A"
+    },
+    {
+      "ts": "2026-07-21T11:16:24-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000095A/26",
+      "nome": "Casa 182",
+      "re": "RE8055002264A"
+    },
+    {
+      "ts": "2026-07-21T11:16:24-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000094A/26",
+      "nome": "ALLAN MAGNO DE A. FAGUNDES",
+      "re": "RE8055001433A"
+    },
+    {
+      "ts": "2026-07-21T11:16:24-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000093A/26",
+      "nome": "GIOVANI SMIALOWSKI LIRA",
+      "re": "RE8055002942A"
+    },
     {
       "ts": "2026-07-20T15:34:06-03:00",
       "cidade": "Blumenau",
