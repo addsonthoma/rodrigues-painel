@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-21T11:16:24-03:00",
+  "timestamp": "2026-07-21T12:58:46-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 96,
+      "ultimo_numero": 101,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
+      "ultima_verificacao": "2026-07-21T12:58:46-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
+      "ultima_verificacao": "2026-07-21T12:58:46-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
+      "ultima_verificacao": "2026-07-21T12:58:46-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
+      "ultima_verificacao": "2026-07-21T12:58:46-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
+      "ultima_verificacao": "2026-07-21T12:58:46-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 113,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
+      "ultima_verificacao": "2026-07-21T12:58:46-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 163,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
+      "ultima_verificacao": "2026-07-21T12:58:46-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 191,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
+      "ultima_verificacao": "2026-07-21T12:58:46-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
+      "ultima_verificacao": "2026-07-21T12:58:46-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 369,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T11:16:24-03:00"
+      "ultima_verificacao": "2026-07-21T12:58:46-03:00"
     }
   },
   "multas": {
@@ -650,6 +650,56 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000097A/26",
+        "RE": "RE8055005484A",
+        "Nome_Edificacao": "EDINHO MATERIAIS DE CONSTRUÇÃO LTDA",
+        "Logradouro": "RUA SÃO PEDRO",
+        "Numero": "1405",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-21T12:58:46-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000098A/26",
+        "RE": "RE8055005196A",
+        "Nome_Edificacao": "SUPERMERCADO E ED. RES. MULTIFAMLIAR",
+        "Logradouro": "Rua General Osório",
+        "Numero": "331",
+        "Bairro": "BRUSQUE - GUARANI",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-21T12:58:46-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000099A/26",
+        "RE": "RE8055001415A",
+        "Nome_Edificacao": "FRANCI & LU INDUSTRIA E COMERCIO LTDA",
+        "Logradouro": "Rua Padre Antônio Eising",
+        "Numero": "148",
+        "Bairro": "BRUSQUE - AZAMBUJA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-21T12:58:46-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000100A/26",
+        "RE": "RE8055001122A",
+        "Nome_Edificacao": "A.ANGELONI & CIA LTDA - L33",
+        "Logradouro": "RUA MARTIN LUTHER",
+        "Numero": "135",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-21T12:58:46-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000101A/26",
+        "RE": "RE8055006038A",
+        "Nome_Edificacao": "GALPÃO COMERCIAL LUIZ CARLOS MACHADO",
+        "Logradouro": "R ALCIDES RUDOLPH",
+        "Numero": "35",
+        "Bairro": "BRUSQUE - POÇO FUNDO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-21T12:58:46-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000093A/26",
         "RE": "RE8055002942A",
@@ -3544,7 +3594,7 @@
   "totais": {
     "Blumenau": 56,
     "Botuvera": 3,
-    "Brusque": 41,
+    "Brusque": 46,
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 87,
@@ -3553,8 +3603,43 @@
     "Nova Trento": 30,
     "Porto Belo": 33
   },
-  "total_geral": 358,
+  "total_geral": 363,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-21T12:58:46-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000101A/26",
+      "nome": "GALPÃO COMERCIAL LUIZ CARLOS MACHADO",
+      "re": "RE8055006038A"
+    },
+    {
+      "ts": "2026-07-21T12:58:46-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000100A/26",
+      "nome": "A.ANGELONI & CIA LTDA - L33",
+      "re": "RE8055001122A"
+    },
+    {
+      "ts": "2026-07-21T12:58:46-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000099A/26",
+      "nome": "FRANCI & LU INDUSTRIA E COMERCIO LTDA",
+      "re": "RE8055001415A"
+    },
+    {
+      "ts": "2026-07-21T12:58:46-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000098A/26",
+      "nome": "SUPERMERCADO E ED. RES. MULTIFAMLIAR",
+      "re": "RE8055005196A"
+    },
+    {
+      "ts": "2026-07-21T12:58:46-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000097A/26",
+      "nome": "EDINHO MATERIAIS DE CONSTRUÇÃO LTDA",
+      "re": "RE8055005484A"
+    },
     {
       "ts": "2026-07-21T11:16:24-03:00",
       "cidade": "Nova Trento",
