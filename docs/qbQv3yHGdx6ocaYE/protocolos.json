@@ -1,59 +1,81 @@
 {
-  "timestamp": "2026-07-21T17:18:31-03:00",
+  "timestamp": "2026-07-21T19:08:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8033,
-      "ultima_verificacao": "2026-07-21T17:18:31-03:00"
+      "ultimo_numero": 8035,
+      "ultima_verificacao": "2026-07-21T19:08:56-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 396,
-      "ultima_verificacao": "2026-07-21T17:18:31-03:00"
+      "ultima_verificacao": "2026-07-21T19:08:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1505,
-      "ultima_verificacao": "2026-07-21T17:18:31-03:00"
+      "ultima_verificacao": "2026-07-21T19:08:56-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3827,
-      "ultima_verificacao": "2026-07-21T17:18:31-03:00"
+      "ultimo_numero": 3828,
+      "ultima_verificacao": "2026-07-21T19:08:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3348,
-      "ultima_verificacao": "2026-07-21T17:18:31-03:00"
+      "ultima_verificacao": "2026-07-21T19:08:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 953,
-      "ultima_verificacao": "2026-07-21T17:18:31-03:00"
+      "ultima_verificacao": "2026-07-21T19:08:56-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7119,
-      "ultima_verificacao": "2026-07-21T17:18:31-03:00"
+      "ultima_verificacao": "2026-07-21T19:08:56-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12857,
-      "ultima_verificacao": "2026-07-21T17:18:31-03:00"
+      "ultimo_numero": 12859,
+      "ultima_verificacao": "2026-07-21T19:08:56-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4964,
-      "ultima_verificacao": "2026-07-21T17:18:31-03:00"
+      "ultimo_numero": 4965,
+      "ultima_verificacao": "2026-07-21T19:08:56-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14123,
-      "ultima_verificacao": "2026-07-21T17:18:31-03:00"
+      "ultimo_numero": 14124,
+      "ultima_verificacao": "2026-07-21T19:08:56-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008035A",
+        "RE": "RE8055000950A",
+        "numgEdificacao": 87519,
+        "Nome_Edificacao": "TREVO ADMINISTRADORA DE BENS LTDA.",
+        "Logradouro": "Rua Edgar Von Buettner",
+        "Numero": "111",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-21T19:08:56-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008034A",
+        "RE": "RE8055006546A",
+        "numgEdificacao": 351478,
+        "Nome_Edificacao": "Centro de Reabilitação Especializado em Saúde Infantil Brusque",
+        "Logradouro": "Rua Riachuelo",
+        "Numero": "18",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-21T19:08:56-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008033A",
         "RE": "RE8055006758A",
@@ -1479,6 +1501,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003828A",
+        "RE": "RE8117000090A",
+        "numgEdificacao": 4576,
+        "Nome_Edificacao": "Silvana Schnaider",
+        "Logradouro": "Rua Lauro Schneider",
+        "Numero": "105",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-21T19:08:56-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003827A",
         "RE": "RE8117001563A",
@@ -4095,6 +4128,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012859A",
+        "RE": "RE8047012045A",
+        "numgEdificacao": 365761,
+        "Nome_Edificacao": "VALFRIDO CONRADT",
+        "Logradouro": "RUA JULIO MICHEL",
+        "Numero": "832",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-21T19:08:56-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012858A",
+        "RE": "RE8047012044A",
+        "numgEdificacao": 365706,
+        "Nome_Edificacao": "OFICINA MECÂNICA ITOUPAVA LTDA ME",
+        "Logradouro": "RUA DOUTOR PEDRO ZIMMERMANN - 372856",
+        "Numero": "9308",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-21T19:08:56-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012857A",
         "RE": "RE8047003207A",
         "numgEdificacao": 123909,
@@ -5362,6 +5417,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004965A",
+        "RE": "RE8221002324A",
+        "numgEdificacao": 238280,
+        "Nome_Edificacao": "RESIDENCIAL ILHA DO CAMPECHE",
+        "Logradouro": "Rua Advogado Arão Rebello",
+        "Numero": "334",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-21T19:08:56-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004964A",
         "RE": "RE8221000131A",
         "numgEdificacao": 8393,
@@ -6100,6 +6166,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014124A",
+        "RE": "RE8161011812A",
+        "numgEdificacao": 313418,
+        "Nome_Edificacao": "CUNHA EMPRESARIAL SPE LTDA",
+        "Logradouro": "RODOVIA DEPUTADO ANTONIO HEIL",
+        "Numero": "8500",
+        "Bairro": "ITAJAÍ - PACIÊNCIA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-21T19:08:56-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014123A",
         "RE": "RE8161013440A",
@@ -7720,16 +7797,16 @@
     ]
   },
   "totais": {
-    "Brusque": 69,
+    "Brusque": 71,
     "Botuvera": 30,
     "Guabiruba": 30,
-    "Gaspar": 61,
+    "Gaspar": 62,
     "Porto Belo": 67,
     "Nova Trento": 37,
     "Itapema": 72,
-    "Blumenau": 115,
-    "Navegantes": 67,
-    "Itajai": 147
+    "Blumenau": 117,
+    "Navegantes": 68,
+    "Itajai": 148
   },
-  "total_geral": 695
+  "total_geral": 702
 }

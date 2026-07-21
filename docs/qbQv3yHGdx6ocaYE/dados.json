@@ -1,79 +1,109 @@
 {
-  "timestamp": "2026-07-21T14:39:26-03:00",
+  "timestamp": "2026-07-21T18:59:15-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 101,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T14:39:26-03:00"
+      "ultima_verificacao": "2026-07-21T18:59:15-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T14:39:26-03:00"
+      "ultima_verificacao": "2026-07-21T18:59:15-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T14:39:26-03:00"
+      "ultima_verificacao": "2026-07-21T18:59:15-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T14:39:26-03:00"
+      "ultima_verificacao": "2026-07-21T18:59:15-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T14:39:26-03:00"
+      "ultima_verificacao": "2026-07-21T18:59:15-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 113,
+      "ultimo_numero": 114,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T14:39:26-03:00"
+      "ultima_verificacao": "2026-07-21T18:59:15-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 163,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T14:39:26-03:00"
+      "ultima_verificacao": "2026-07-21T18:59:15-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 191,
+      "ultimo_numero": 194,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T14:39:26-03:00"
+      "ultima_verificacao": "2026-07-21T18:59:15-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T14:39:26-03:00"
+      "ultima_verificacao": "2026-07-21T18:59:15-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 369,
+      "ultimo_numero": 376,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-21T14:39:26-03:00"
+      "ultima_verificacao": "2026-07-21T18:59:15-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000192A/26",
+        "RE": "RE8047011670A",
+        "Nome_Edificacao": "Marli Auxiliadora Pereira",
+        "Logradouro": "RUA JOSE REUTER",
+        "Numero": "3112",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-21T18:59:15-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000193A/26",
+        "RE": "RE8047002021A",
+        "Nome_Edificacao": "AJL ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Theodoro Pasold",
+        "Numero": "433",
+        "Bairro": "BLUMENAU - FORTALEZA ALTA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-21T18:59:15-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000194A/26",
+        "RE": "RE8047004186A",
+        "Nome_Edificacao": "ERICH KISTNER",
+        "Logradouro": "Rua Luiz Eleodoro da Silva",
+        "Numero": "811",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-21T18:59:15-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000191A/26",
         "RE": "RE8047010401A",
@@ -1293,6 +1323,76 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000370A/26",
+        "RE": "RE8161003263A",
+        "Nome_Edificacao": "NIWTON  CARLOTTO",
+        "Logradouro": "RODOVIA OSVALDO REIS",
+        "Numero": "3626",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-21T18:59:15-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000371A/26",
+        "RE": "RE8161003613A",
+        "Nome_Edificacao": "XIANG XIAOLI",
+        "Logradouro": "Rua Almirante Tamandaré",
+        "Numero": "303",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-21T18:59:15-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000372A/26",
+        "RE": "RE8161011167A",
+        "Nome_Edificacao": "EDIFICAÇÃO DE USO MISTO JOSE AILTON DE OLIVEIRA",
+        "Logradouro": "RUA MARCOS AURÉLIO SEARA",
+        "Numero": "676",
+        "Bairro": "ITAJAÍ - SANTA REGINA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-21T18:59:15-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000373A/26",
+        "RE": "RE8161011654A",
+        "Nome_Edificacao": "Jucelio Patricio",
+        "Logradouro": "AVENIDA SETE DE SETEMBRO",
+        "Numero": "417",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-21T18:59:15-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000374A/26",
+        "RE": "RE8161006848A",
+        "Nome_Edificacao": "JORGE MANOEL",
+        "Logradouro": "Avenida Mário Uriarte",
+        "Numero": "773",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-21T18:59:15-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000375A/26",
+        "RE": "RE8161001152A",
+        "Nome_Edificacao": "CE PEDRO RIZZI",
+        "Logradouro": "Rua Agílio Cunha",
+        "Numero": "812",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-21T18:59:15-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000376A/26",
+        "RE": "RE8161003251A",
+        "Nome_Edificacao": "ITAJAI STREET MALL LTDA",
+        "Logradouro": "Avenida Governador Adolfo Konder",
+        "Numero": "700",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-21T18:59:15-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000368A/26",
         "RE": "RE8161007122A",
@@ -2992,6 +3092,16 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000114A/26",
+        "RE": "RE8225000788A",
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+        "Logradouro": "RUA GERAL",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - RIBEIRAO DA VELHA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-21T18:59:15-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000110A/26",
         "RE": "RE8225000626A",
         "Nome_Edificacao": "Gabrieli das Graças Boso Bento",
@@ -3592,19 +3702,96 @@
     ]
   },
   "totais": {
-    "Blumenau": 56,
+    "Blumenau": 59,
     "Botuvera": 3,
     "Brusque": 46,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 87,
+    "Itajai": 94,
     "Itapema": 46,
     "Navegantes": 41,
-    "Nova Trento": 30,
+    "Nova Trento": 31,
     "Porto Belo": 33
   },
-  "total_geral": 363,
+  "total_geral": 374,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-21T18:59:15-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000376A/26",
+      "nome": "ITAJAI STREET MALL LTDA",
+      "re": "RE8161003251A"
+    },
+    {
+      "ts": "2026-07-21T18:59:15-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000375A/26",
+      "nome": "CE PEDRO RIZZI",
+      "re": "RE8161001152A"
+    },
+    {
+      "ts": "2026-07-21T18:59:15-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000374A/26",
+      "nome": "JORGE MANOEL",
+      "re": "RE8161006848A"
+    },
+    {
+      "ts": "2026-07-21T18:59:15-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000373A/26",
+      "nome": "Jucelio Patricio",
+      "re": "RE8161011654A"
+    },
+    {
+      "ts": "2026-07-21T18:59:15-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000372A/26",
+      "nome": "EDIFICAÇÃO DE USO MISTO JOSE AILTON DE OLIVEIRA",
+      "re": "RE8161011167A"
+    },
+    {
+      "ts": "2026-07-21T18:59:15-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000371A/26",
+      "nome": "XIANG XIAOLI",
+      "re": "RE8161003613A"
+    },
+    {
+      "ts": "2026-07-21T18:59:15-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000370A/26",
+      "nome": "NIWTON  CARLOTTO",
+      "re": "RE8161003263A"
+    },
+    {
+      "ts": "2026-07-21T18:59:15-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000194A/26",
+      "nome": "ERICH KISTNER",
+      "re": "RE8047004186A"
+    },
+    {
+      "ts": "2026-07-21T18:59:15-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000193A/26",
+      "nome": "AJL ADMINISTRADORA DE BENS LTDA",
+      "re": "RE8047002021A"
+    },
+    {
+      "ts": "2026-07-21T18:59:15-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000192A/26",
+      "nome": "Marli Auxiliadora Pereira",
+      "re": "RE8047011670A"
+    },
+    {
+      "ts": "2026-07-21T18:59:15-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000114A/26",
+      "nome": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "re": "RE8225000788A"
+    },
     {
       "ts": "2026-07-21T12:58:46-03:00",
       "cidade": "Brusque",
@@ -3877,62 +4064,6 @@
       "codigo": "MUL8265000087A/26",
       "nome": "ALCELMO MORAES",
       "re": "RE8265002418A"
-    },
-    {
-      "ts": "2026-07-14T16:50:16-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000068A/26",
-      "nome": "Escola Municipal Professora idília Machado Ferreira",
-      "re": "RE8221002599A"
-    },
-    {
-      "ts": "2026-07-14T16:50:16-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000067A/26",
-      "nome": "PREFEITURA MUNICIPAL DE NAVEGANTES",
-      "re": "RE8221002602A"
-    },
-    {
-      "ts": "2026-07-14T16:50:16-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000066A/26",
-      "nome": "CENTRO DE DUCAÇÃO SILVETE COUTO DE MIRANDA",
-      "re": "RE8221002652A"
-    },
-    {
-      "ts": "2026-07-14T16:50:16-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000065A/26",
-      "nome": "EDUCACIONAL - CRECHE",
-      "re": "RE8221002606A"
-    },
-    {
-      "ts": "2026-07-14T15:15:29-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000064A/26",
-      "nome": "UNIDADE ESCOLAR",
-      "re": "RE8221002640A"
-    },
-    {
-      "ts": "2026-07-14T15:15:29-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000063A/26",
-      "nome": "HOSPITAL NOSSA SENHORA DOS NAVEGANTES",
-      "re": "RE8221000419A"
-    },
-    {
-      "ts": "2026-07-14T15:15:29-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000062A/26",
-      "nome": "E.E.B. PROF DANIELA PEREIRA",
-      "re": "RE8221000865A"
-    },
-    {
-      "ts": "2026-07-14T15:15:29-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000061A/26",
-      "nome": "EEB São José",
-      "re": "RE8221000511A"
     }
   ]
 }
