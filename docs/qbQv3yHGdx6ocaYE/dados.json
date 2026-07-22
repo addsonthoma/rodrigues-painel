@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-22T12:20:08-03:00",
+  "timestamp": "2026-07-22T13:53:54-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 101,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-22T12:20:08-03:00"
+      "ultima_verificacao": "2026-07-22T13:53:54-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-22T12:20:08-03:00"
+      "ultima_verificacao": "2026-07-22T13:53:54-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-22T12:20:08-03:00"
+      "ultima_verificacao": "2026-07-22T13:53:54-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-22T12:20:08-03:00"
+      "ultima_verificacao": "2026-07-22T13:53:54-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-22T12:20:08-03:00"
+      "ultima_verificacao": "2026-07-22T13:53:54-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 115,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-22T12:20:08-03:00"
+      "ultima_verificacao": "2026-07-22T13:53:54-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 163,
+      "ultimo_numero": 165,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-22T12:20:08-03:00"
+      "ultima_verificacao": "2026-07-22T13:53:54-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 194,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-22T12:20:08-03:00"
+      "ultima_verificacao": "2026-07-22T13:53:54-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-22T12:20:08-03:00"
+      "ultima_verificacao": "2026-07-22T13:53:54-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 376,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-22T12:20:08-03:00"
+      "ultima_verificacao": "2026-07-22T13:53:54-03:00"
     }
   },
   "multas": {
@@ -2249,6 +2249,26 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000164A/26",
+        "RE": "RE8163000577A",
+        "Nome_Edificacao": "RES. SALETE",
+        "Logradouro": "rua 262",
+        "Numero": "99",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-22T13:53:54-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000165A/26",
+        "RE": "RE8163000123A",
+        "Nome_Edificacao": "Residencial Black Piano",
+        "Logradouro": "Rua 236",
+        "Numero": "203",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-22T13:53:54-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000163A/26",
         "RE": "RE8163006720A",
         "Nome_Edificacao": "Residencial e Salas comerciais",
@@ -3718,13 +3738,27 @@
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 94,
-    "Itapema": 46,
+    "Itapema": 48,
     "Navegantes": 41,
     "Nova Trento": 32,
     "Porto Belo": 33
   },
-  "total_geral": 375,
+  "total_geral": 377,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-22T13:53:54-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000165A/26",
+      "nome": "Residencial Black Piano",
+      "re": "RE8163000123A"
+    },
+    {
+      "ts": "2026-07-22T13:53:54-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000164A/26",
+      "nome": "RES. SALETE",
+      "re": "RE8163000577A"
+    },
     {
       "ts": "2026-07-22T10:23:19-03:00",
       "cidade": "Nova Trento",
