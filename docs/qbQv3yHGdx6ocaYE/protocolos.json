@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-07-22T15:17:01-03:00",
+  "timestamp": "2026-07-22T16:55:22-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8036,
-      "ultima_verificacao": "2026-07-22T15:17:01-03:00"
+      "ultimo_numero": 8037,
+      "ultima_verificacao": "2026-07-22T16:55:22-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 397,
-      "ultima_verificacao": "2026-07-22T15:17:01-03:00"
+      "ultima_verificacao": "2026-07-22T16:55:22-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1505,
-      "ultima_verificacao": "2026-07-22T15:17:01-03:00"
+      "ultima_verificacao": "2026-07-22T16:55:22-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3829,
-      "ultima_verificacao": "2026-07-22T15:17:01-03:00"
+      "ultima_verificacao": "2026-07-22T16:55:22-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3348,
-      "ultima_verificacao": "2026-07-22T15:17:01-03:00"
+      "ultima_verificacao": "2026-07-22T16:55:22-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 953,
-      "ultima_verificacao": "2026-07-22T15:17:01-03:00"
+      "ultima_verificacao": "2026-07-22T16:55:22-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7120,
-      "ultima_verificacao": "2026-07-22T15:17:01-03:00"
+      "ultima_verificacao": "2026-07-22T16:55:22-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12862,
-      "ultima_verificacao": "2026-07-22T15:17:01-03:00"
+      "ultimo_numero": 12864,
+      "ultima_verificacao": "2026-07-22T16:55:22-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4971,
-      "ultima_verificacao": "2026-07-22T15:17:01-03:00"
+      "ultimo_numero": 4972,
+      "ultima_verificacao": "2026-07-22T16:55:22-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14125,
-      "ultima_verificacao": "2026-07-22T15:17:01-03:00"
+      "ultimo_numero": 14127,
+      "ultima_verificacao": "2026-07-22T16:55:22-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008037A",
+        "RE": "RE8055002942A",
+        "numgEdificacao": 203995,
+        "Nome_Edificacao": "GIOVANI SMIALOWSKI LIRA",
+        "Logradouro": "Rua Paulo Knihs",
+        "Numero": "237",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-22T16:55:22-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008036A",
         "RE": "RE8055005607A",
@@ -2245,7 +2256,7 @@
         "RE": "RE8265002806A",
         "numgEdificacao": 365530,
         "Nome_Edificacao": "RESIDENCIAL GOLDEN GATE",
-        "Logradouro": "RUA OLINDA PEIXOTO, n 255",
+        "Logradouro": "RUA OLINDA PEIXOTO",
         "Numero": "255",
         "Bairro": "PORTO BELO - JARDIM DOURADO",
         "Cidade": "Porto Belo",
@@ -4172,6 +4183,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012864A",
+        "RE": "RE8047009795A",
+        "numgEdificacao": 275040,
+        "Nome_Edificacao": "IGREJA EVANGELICA IRMAOS MENONITAS DE ITOUPAVA CENTRAL",
+        "Logradouro": "R GUSTAVO ZIMMERMANN",
+        "Numero": "4262",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-22T16:55:22-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012863A",
+        "RE": "RE8047001560A",
+        "numgEdificacao": 72285,
+        "Nome_Edificacao": "JACOB KIM",
+        "Logradouro": "15 DE NOVEMBRO",
+        "Numero": "875",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-22T16:55:22-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012862A",
         "RE": "RE8047005011A",
         "numgEdificacao": 156770,
@@ -5494,6 +5527,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004972A",
+        "RE": "RE8221000304A",
+        "numgEdificacao": 21367,
+        "Nome_Edificacao": "CONDOMINIO EMPRESARIAL NAVEGANTES SPE LTDA",
+        "Logradouro": "Rodovia Governador Mário Covas",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-22T16:55:22-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004971A",
         "RE": "RE8221004116A",
         "numgEdificacao": 365843,
@@ -6309,6 +6353,28 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014127A",
+        "RE": "RE8161013755A",
+        "numgEdificacao": 365866,
+        "Nome_Edificacao": "S V R EMPREITEIRA LTDA",
+        "Logradouro": "R MARIA ALVES MAFRA",
+        "Numero": "269",
+        "Bairro": "ITAJAÍ - Cidade Nova",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-22T16:55:22-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014126A",
+        "RE": "RE8161013756A",
+        "numgEdificacao": 365877,
+        "Nome_Edificacao": "MARIA BARBOZA MERIZIO",
+        "Logradouro": "R EDMUNDO LEOPOLDO MERIZIO",
+        "Numero": "1306",
+        "Bairro": "ITAJAÍ - LIMOEIRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-22T16:55:22-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014125A",
         "RE": "RE8161005442A",
@@ -7951,16 +8017,16 @@
     ]
   },
   "totais": {
-    "Brusque": 72,
+    "Brusque": 73,
     "Botuvera": 31,
     "Guabiruba": 30,
     "Gaspar": 63,
     "Porto Belo": 67,
     "Nova Trento": 37,
     "Itapema": 73,
-    "Blumenau": 120,
-    "Navegantes": 74,
-    "Itajai": 149
+    "Blumenau": 122,
+    "Navegantes": 75,
+    "Itajai": 151
   },
-  "total_geral": 716
+  "total_geral": 722
 }
