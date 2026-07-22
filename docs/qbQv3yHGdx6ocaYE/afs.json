@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-07-22T06:54:52-03:00",
+  "timestamp": "2026-07-22T08:49:32-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 833,
+      "ultimo_numero": 834,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-22T06:54:52-03:00"
+      "ultima_verificacao": "2026-07-22T08:49:32-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 30,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-22T06:54:52-03:00"
+      "ultima_verificacao": "2026-07-22T08:49:32-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-22T06:54:52-03:00"
+      "ultima_verificacao": "2026-07-22T08:49:32-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 515,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-22T06:54:52-03:00"
+      "ultima_verificacao": "2026-07-22T08:49:32-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 452,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-22T06:54:52-03:00"
+      "ultima_verificacao": "2026-07-22T08:49:32-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 417,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-22T06:54:52-03:00"
+      "ultima_verificacao": "2026-07-22T08:49:32-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1001,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-22T06:54:52-03:00"
+      "ultima_verificacao": "2026-07-22T08:49:32-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 942,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-22T06:54:52-03:00"
+      "ultima_verificacao": "2026-07-22T08:49:32-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 278,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-22T06:54:52-03:00"
+      "ultima_verificacao": "2026-07-22T08:49:32-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 975,
+      "ultimo_numero": 976,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-22T06:54:52-03:00"
+      "ultima_verificacao": "2026-07-22T08:49:32-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000834A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004282A",
+        "Nome_Edificacao": "EDIFICIO GEVAERD JOALHEIROS",
+        "Logradouro": "Rua Adriano Schaefer",
+        "Numero": "78",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-22T08:49:32-03:00"
+      },
       {
         "CodigoAuto": "AF8055000833A/26",
         "Tipo": "AF",
@@ -13635,6 +13646,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000976A/26",
+        "Tipo": "AF",
+        "RE": "RE8161004731A",
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL ORLANDO PACHECO",
+        "Logradouro": "R.OTAVIO CESARIO PEREIRA",
+        "Numero": "875",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-22T08:49:32-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000975A/26",
         "Tipo": "AF",
         "RE": "RE8161001182A",
@@ -16101,7 +16123,7 @@
     ]
   },
   "totais": {
-    "Brusque": 223,
+    "Brusque": 224,
     "Botuvera": 30,
     "Guabiruba": 40,
     "Gaspar": 101,
@@ -16110,7 +16132,7 @@
     "Itapema": 267,
     "Blumenau": 229,
     "Navegantes": 74,
-    "Itajai": 224
+    "Itajai": 225
   },
-  "total_geral": 1456
+  "total_geral": 1458
 }
