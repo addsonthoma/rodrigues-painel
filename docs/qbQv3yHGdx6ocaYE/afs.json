@@ -1,69 +1,91 @@
 {
-  "timestamp": "2026-07-23T12:27:08-03:00",
+  "timestamp": "2026-07-23T14:03:10-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 842,
+      "ultimo_numero": 844,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T12:27:08-03:00"
+      "ultima_verificacao": "2026-07-23T14:03:10-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 30,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T12:27:08-03:00"
+      "ultima_verificacao": "2026-07-23T14:03:10-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T12:27:08-03:00"
+      "ultima_verificacao": "2026-07-23T14:03:10-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 518,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T12:27:08-03:00"
+      "ultima_verificacao": "2026-07-23T14:03:10-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 453,
+      "ultimo_numero": 456,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T12:27:08-03:00"
+      "ultima_verificacao": "2026-07-23T14:03:10-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 417,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T12:27:08-03:00"
+      "ultima_verificacao": "2026-07-23T14:03:10-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1010,
+      "ultimo_numero": 1012,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T12:27:08-03:00"
+      "ultima_verificacao": "2026-07-23T14:03:10-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 951,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T12:27:08-03:00"
+      "ultima_verificacao": "2026-07-23T14:03:10-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 280,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T12:27:08-03:00"
+      "ultima_verificacao": "2026-07-23T14:03:10-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 983,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T12:27:08-03:00"
+      "ultima_verificacao": "2026-07-23T14:03:10-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000844A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002166A",
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANÓPOLIS (CAPELA SÃO JOSÉ)",
+        "Logradouro": "Rua Ministro Lindolfo Collor",
+        "Numero": "123",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-23T14:03:10-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000843A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002461A",
+        "Nome_Edificacao": "CERAMICA HEINIG LTDA",
+        "Logradouro": "Rua Max Heinig",
+        "Numero": "70",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-23T14:03:10-03:00"
+      },
       {
         "CodigoAuto": "AF8055000842A/26",
         "Tipo": "AF",
@@ -4539,6 +4561,39 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "AF8265000456A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001030A",
+        "Nome_Edificacao": "Felicitá Residence",
+        "Logradouro": "Rua Manoel Sergio Pereira, Lote 24",
+        "Numero": "170",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-23T14:03:10-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000455A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000235A",
+        "Nome_Edificacao": "LIRA MARTINS I",
+        "Logradouro": "RUA FELIPE SESTREM",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-23T14:03:10-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000454A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000898A",
+        "Nome_Edificacao": "EVERALDO JOSé CARBONI",
+        "Logradouro": "AVENIDA GOVERNADOR CELSO RAMOS",
+        "Numero": "1671",
+        "Bairro": "PORTO BELO - ENS ENCANTADA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-23T14:03:10-03:00"
+      },
+      {
         "CodigoAuto": "AF8265000453A/26",
         "Tipo": "AF",
         "RE": "RE8265002107A",
@@ -7501,6 +7556,28 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001012A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002468A",
+        "Nome_Edificacao": "RESIDENCIAL IRENE MAFRA",
+        "Logradouro": "RUA 207",
+        "Numero": "93",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-23T14:03:10-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001011A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003741A",
+        "Nome_Edificacao": "ONEIDE SILVA TIETJEN",
+        "Logradouro": "RUA 802",
+        "Numero": "971",
+        "Bairro": "ITAPEMA - CASA BRANCA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-23T14:03:10-03:00"
+      },
       {
         "CodigoAuto": "AF8163001010A/26",
         "Tipo": "AF",
@@ -16552,16 +16629,16 @@
     ]
   },
   "totais": {
-    "Brusque": 232,
+    "Brusque": 234,
     "Botuvera": 30,
     "Guabiruba": 40,
     "Gaspar": 104,
-    "Porto Belo": 162,
+    "Porto Belo": 165,
     "Nova Trento": 107,
-    "Itapema": 276,
+    "Itapema": 278,
     "Blumenau": 238,
     "Navegantes": 76,
     "Itajai": 232
   },
-  "total_geral": 1497
+  "total_geral": 1504
 }

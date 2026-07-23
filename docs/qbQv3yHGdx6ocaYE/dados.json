@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-23T12:26:19-03:00",
+  "timestamp": "2026-07-23T14:02:28-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 101,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T12:26:19-03:00"
+      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T12:26:19-03:00"
+      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T12:26:19-03:00"
+      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T12:26:19-03:00"
+      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T12:26:19-03:00"
+      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 115,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T12:26:19-03:00"
+      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 165,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T12:26:19-03:00"
+      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 195,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T12:26:19-03:00"
+      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T12:26:19-03:00"
+      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 376,
+      "ultimo_numero": 378,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T12:26:19-03:00"
+      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
     }
   },
   "multas": {
@@ -1333,6 +1333,26 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000377A/26",
+        "RE": "RE8161011439A",
+        "Nome_Edificacao": "EDNA MACHADO DOS SANTOS",
+        "Logradouro": "Avenida Ministro Luiz Gallotti",
+        "Numero": "720",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-23T14:02:28-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000378A/26",
+        "RE": "RE8161002467A",
+        "Nome_Edificacao": "IBANEZ FONTOURA DA MOTTA",
+        "Logradouro": "Rua Heitor Liberato",
+        "Numero": "1172",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-23T14:02:28-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000370A/26",
         "RE": "RE8161003263A",
@@ -3747,14 +3767,28 @@
     "Brusque": 46,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 94,
+    "Itajai": 96,
     "Itapema": 48,
     "Navegantes": 41,
     "Nova Trento": 32,
     "Porto Belo": 33
   },
-  "total_geral": 378,
+  "total_geral": 380,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-23T14:02:28-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000378A/26",
+      "nome": "IBANEZ FONTOURA DA MOTTA",
+      "re": "RE8161002467A"
+    },
+    {
+      "ts": "2026-07-23T14:02:28-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000377A/26",
+      "nome": "EDNA MACHADO DOS SANTOS",
+      "re": "RE8161011439A"
+    },
     {
       "ts": "2026-07-22T15:08:17-03:00",
       "cidade": "Blumenau",
@@ -4041,20 +4075,6 @@
       "codigo": "MUL8221000074A/26",
       "nome": "Câmara dos Vereadores",
       "re": "RE8221003449A"
-    },
-    {
-      "ts": "2026-07-16T12:57:15-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000089A/26",
-      "nome": "CONDOMINIO RESIDENCIAL COSTA DO PEREQUE",
-      "re": "RE8265002677A"
-    },
-    {
-      "ts": "2026-07-16T12:57:15-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000088A/26",
-      "nome": "CONDOMINIO EDIFICIO VITA STELLA",
-      "re": "RE8265000853A"
     }
   ]
 }
