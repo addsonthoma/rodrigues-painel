@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-23T14:02:28-03:00",
+  "timestamp": "2026-07-23T15:21:06-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 101,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
+      "ultima_verificacao": "2026-07-23T15:21:06-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
+      "ultima_verificacao": "2026-07-23T15:21:06-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
+      "ultima_verificacao": "2026-07-23T15:21:06-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
+      "ultima_verificacao": "2026-07-23T15:21:06-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
+      "ultima_verificacao": "2026-07-23T15:21:06-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 115,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
+      "ultima_verificacao": "2026-07-23T15:21:06-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 165,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
+      "ultima_verificacao": "2026-07-23T15:21:06-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 195,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
+      "ultima_verificacao": "2026-07-23T15:21:06-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
+      "ultima_verificacao": "2026-07-23T15:21:06-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 378,
+      "ultimo_numero": 380,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-23T14:02:28-03:00"
+      "ultima_verificacao": "2026-07-23T15:21:06-03:00"
     }
   },
   "multas": {
@@ -1333,6 +1333,26 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000379A/26",
+        "RE": "RE8161003937A",
+        "Nome_Edificacao": "CONSTRUTORA MSK LTDA",
+        "Logradouro": "Rua José Gall",
+        "Numero": "236",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-23T15:21:06-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000380A/26",
+        "RE": "RE8161003065A",
+        "Nome_Edificacao": "WILSON JOSE RIGO",
+        "Logradouro": "Rua Indaial",
+        "Numero": "1045",
+        "Bairro": "ITAJAÍ - SÃO JUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-23T15:21:06-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000377A/26",
         "RE": "RE8161011439A",
@@ -3767,14 +3787,28 @@
     "Brusque": 46,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 96,
+    "Itajai": 98,
     "Itapema": 48,
     "Navegantes": 41,
     "Nova Trento": 32,
     "Porto Belo": 33
   },
-  "total_geral": 380,
+  "total_geral": 382,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-23T15:21:06-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000380A/26",
+      "nome": "WILSON JOSE RIGO",
+      "re": "RE8161003065A"
+    },
+    {
+      "ts": "2026-07-23T15:21:06-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000379A/26",
+      "nome": "CONSTRUTORA MSK LTDA",
+      "re": "RE8161003937A"
+    },
     {
       "ts": "2026-07-23T14:02:28-03:00",
       "cidade": "Itajai",
@@ -4033,48 +4067,6 @@
       "codigo": "MUL8047000189A/26",
       "nome": "DMULLER INDÚSTRIA DE MÁQUINAS",
       "re": "RE8047000097A"
-    },
-    {
-      "ts": "2026-07-16T14:35:37-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000079A/26",
-      "nome": "VALIO CAPTURA E COM DE PESCADOS LTDA",
-      "re": "RE8221003141A"
-    },
-    {
-      "ts": "2026-07-16T14:35:37-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000078A/26",
-      "nome": "OPUS HOUSE",
-      "re": "RE8221001803A"
-    },
-    {
-      "ts": "2026-07-16T14:35:37-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000077A/26",
-      "nome": "JORGE BERTOTI DA SILVA",
-      "re": "RE8221001358A"
-    },
-    {
-      "ts": "2026-07-16T14:35:37-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000076A/26",
-      "nome": "RESIDENCIAL ILHA DE ITAPARICA",
-      "re": "RE8221003778A"
-    },
-    {
-      "ts": "2026-07-16T14:35:37-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000075A/26",
-      "nome": "CENTRO MUNICIPAL DE EDUCAÇÃO INFANTIL PROFª MARIA DOS NAVEGANTES RAMOS",
-      "re": "RE8221002579A"
-    },
-    {
-      "ts": "2026-07-16T14:35:37-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000074A/26",
-      "nome": "Câmara dos Vereadores",
-      "re": "RE8221003449A"
     }
   ]
 }
