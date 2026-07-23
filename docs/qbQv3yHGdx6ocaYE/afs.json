@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-07-23T08:34:23-03:00",
+  "timestamp": "2026-07-23T10:11:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 842,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T08:34:23-03:00"
+      "ultima_verificacao": "2026-07-23T10:11:58-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 30,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T08:34:23-03:00"
+      "ultima_verificacao": "2026-07-23T10:11:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T08:34:23-03:00"
+      "ultima_verificacao": "2026-07-23T10:11:58-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 516,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T08:34:23-03:00"
+      "ultima_verificacao": "2026-07-23T10:11:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 453,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T08:34:23-03:00"
+      "ultima_verificacao": "2026-07-23T10:11:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 417,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T08:34:23-03:00"
+      "ultima_verificacao": "2026-07-23T10:11:58-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1009,
+      "ultimo_numero": 1010,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T08:34:23-03:00"
+      "ultima_verificacao": "2026-07-23T10:11:58-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 950,
+      "ultimo_numero": 951,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T08:34:23-03:00"
+      "ultima_verificacao": "2026-07-23T10:11:58-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 280,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T08:34:23-03:00"
+      "ultima_verificacao": "2026-07-23T10:11:58-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 978,
+      "ultimo_numero": 980,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-23T08:34:23-03:00"
+      "ultima_verificacao": "2026-07-23T10:11:58-03:00"
     }
   },
   "afs": {
@@ -7480,6 +7480,17 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163001010A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006570A",
+        "Nome_Edificacao": "JÚLIA DE LIMA WEBER",
+        "Logradouro": "Estrada Geral Sertão do Trombudo",
+        "Numero": "8181",
+        "Bairro": "ITAPEMA - SERTAO TROMBUDO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-23T10:11:58-03:00"
+      },
+      {
         "CodigoAuto": "AF8163001009A/26",
         "Tipo": "AF",
         "RE": "RE8163002083A",
@@ -10506,6 +10517,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047000951A/26",
+        "Tipo": "AF",
+        "RE": "RE8047007620A",
+        "Nome_Edificacao": "ILHA GRANDE PARTICIPACOES LTDA",
+        "Logradouro": "RUA FRANZ VOLLES",
+        "Numero": "145",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-23T10:11:58-03:00"
+      },
       {
         "CodigoAuto": "AF8047000950A/26",
         "Tipo": "AF",
@@ -13954,6 +13976,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000980A/26",
+        "Tipo": "AF",
+        "RE": "RE8161011087A",
+        "Nome_Edificacao": "JT Administradora de Bens Próprios LTDA",
+        "Logradouro": "AV DOUTOR REINALDO SCHMITHAUSEN",
+        "Numero": "1897",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-23T10:11:58-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161000979A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005132A",
+        "Nome_Edificacao": "CELIO MOSER",
+        "Logradouro": "ERNA HOIER CORREA",
+        "Numero": "780",
+        "Bairro": "ITAJAÍ - RESSACADA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-23T10:11:58-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000978A/26",
         "Tipo": "AF",
         "RE": "RE8161001009A",
@@ -16459,10 +16503,10 @@
     "Gaspar": 102,
     "Porto Belo": 162,
     "Nova Trento": 107,
-    "Itapema": 275,
-    "Blumenau": 237,
+    "Itapema": 276,
+    "Blumenau": 238,
     "Navegantes": 76,
-    "Itajai": 227
+    "Itajai": 229
   },
-  "total_geral": 1488
+  "total_geral": 1492
 }

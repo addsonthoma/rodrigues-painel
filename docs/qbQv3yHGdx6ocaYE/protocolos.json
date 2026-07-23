@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-23T08:41:26-03:00",
+  "timestamp": "2026-07-23T10:19:47-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8038,
-      "ultima_verificacao": "2026-07-23T08:41:26-03:00"
+      "ultima_verificacao": "2026-07-23T10:19:47-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
-      "ultimo_numero": 397,
-      "ultima_verificacao": "2026-07-23T08:41:26-03:00"
+      "ultimo_numero": 398,
+      "ultima_verificacao": "2026-07-23T10:19:47-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1506,
-      "ultima_verificacao": "2026-07-23T08:41:26-03:00"
+      "ultima_verificacao": "2026-07-23T10:19:47-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3830,
-      "ultima_verificacao": "2026-07-23T08:41:26-03:00"
+      "ultimo_numero": 3831,
+      "ultima_verificacao": "2026-07-23T10:19:47-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3348,
-      "ultima_verificacao": "2026-07-23T08:41:26-03:00"
+      "ultima_verificacao": "2026-07-23T10:19:47-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 953,
-      "ultima_verificacao": "2026-07-23T08:41:26-03:00"
+      "ultima_verificacao": "2026-07-23T10:19:47-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7121,
-      "ultima_verificacao": "2026-07-23T08:41:26-03:00"
+      "ultima_verificacao": "2026-07-23T10:19:47-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12865,
-      "ultima_verificacao": "2026-07-23T08:41:26-03:00"
+      "ultima_verificacao": "2026-07-23T10:19:47-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4972,
-      "ultima_verificacao": "2026-07-23T08:41:26-03:00"
+      "ultima_verificacao": "2026-07-23T10:19:47-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14128,
-      "ultima_verificacao": "2026-07-23T08:41:26-03:00"
+      "ultima_verificacao": "2026-07-23T10:19:47-03:00"
     }
   },
   "protocolos": {
@@ -871,6 +871,17 @@
     ],
     "Botuvera": [
       {
+        "CodigoProtocolo": "A8051000398A",
+        "RE": "RE8051000160A",
+        "numgEdificacao": 146280,
+        "Nome_Edificacao": "CALWER MINERAÇÃO",
+        "Logradouro": "ROD. GERMANO BARNI - SC 486",
+        "Numero": "501",
+        "Bairro": "BOTUVERÁ - RIBEIRAO DO OURO",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-07-23T10:19:47-03:00"
+      },
+      {
         "CodigoProtocolo": "A8051000397A",
         "RE": "RE8051000296A",
         "numgEdificacao": 365837,
@@ -1556,6 +1567,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003831A",
+        "RE": "RE8117003261A",
+        "numgEdificacao": 365889,
+        "Nome_Edificacao": "Maristela Schramm Deschamps",
+        "Logradouro": "RUA ARNOLDO SCHRAMM",
+        "Numero": "226",
+        "Bairro": "GASPAR - CENTRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-23T10:19:47-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003830A",
         "RE": "RE8117002801A",
@@ -8084,9 +8106,9 @@
   },
   "totais": {
     "Brusque": 74,
-    "Botuvera": 31,
+    "Botuvera": 32,
     "Guabiruba": 31,
-    "Gaspar": 64,
+    "Gaspar": 65,
     "Porto Belo": 67,
     "Nova Trento": 37,
     "Itapema": 74,
@@ -8094,5 +8116,5 @@
     "Navegantes": 75,
     "Itajai": 152
   },
-  "total_geral": 728
+  "total_geral": 730
 }
