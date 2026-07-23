@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-07-23T17:02:18-03:00",
+  "timestamp": "2026-07-23T18:13:53-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8039,
-      "ultima_verificacao": "2026-07-23T17:02:18-03:00"
+      "ultimo_numero": 8040,
+      "ultima_verificacao": "2026-07-23T18:13:53-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-23T17:02:18-03:00"
+      "ultima_verificacao": "2026-07-23T18:13:53-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-23T17:02:18-03:00"
+      "ultima_verificacao": "2026-07-23T18:13:53-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3835,
-      "ultima_verificacao": "2026-07-23T17:02:18-03:00"
+      "ultima_verificacao": "2026-07-23T18:13:53-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-23T17:02:18-03:00"
+      "ultima_verificacao": "2026-07-23T18:13:53-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 953,
-      "ultima_verificacao": "2026-07-23T17:02:18-03:00"
+      "ultimo_numero": 954,
+      "ultima_verificacao": "2026-07-23T18:13:53-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7125,
-      "ultima_verificacao": "2026-07-23T17:02:18-03:00"
+      "ultima_verificacao": "2026-07-23T18:13:53-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12869,
-      "ultima_verificacao": "2026-07-23T17:02:18-03:00"
+      "ultima_verificacao": "2026-07-23T18:13:53-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4972,
-      "ultima_verificacao": "2026-07-23T17:02:18-03:00"
+      "ultima_verificacao": "2026-07-23T18:13:53-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14133,
-      "ultima_verificacao": "2026-07-23T17:02:18-03:00"
+      "ultimo_numero": 14136,
+      "ultima_verificacao": "2026-07-23T18:13:53-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008040A",
+        "RE": "RE8055001134A",
+        "numgEdificacao": 108436,
+        "Nome_Edificacao": "Osmar Becker",
+        "Logradouro": "Rua Beira Rio",
+        "Numero": "1152",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-23T18:13:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008039A",
         "RE": "RE8055000464A",
@@ -70,8 +81,8 @@
         "RE": "RE8055005607A",
         "numgEdificacao": 311041,
         "Nome_Edificacao": "JR BRASIL SUL ADM DE BENS LTDA",
-        "Logradouro": "Beira Rio",
-        "Numero": "500",
+        "Logradouro": "RUA DJ-003",
+        "Numero": "1700",
         "Bairro": "BRUSQUE - DOM JOAQUIM",
         "Cidade": "Brusque",
         "Detectado_em": "2026-07-22T18:03:28-03:00"
@@ -92,8 +103,8 @@
         "RE": "RE8055005607A",
         "numgEdificacao": 311041,
         "Nome_Edificacao": "JR BRASIL SUL ADM DE BENS LTDA",
-        "Logradouro": "Beira Rio",
-        "Numero": "500",
+        "Logradouro": "RUA DJ-003",
+        "Numero": "1700",
         "Bairro": "BRUSQUE - DOM JOAQUIM",
         "Cidade": "Brusque",
         "Detectado_em": "2026-07-22T12:28:45-03:00"
@@ -3111,6 +3122,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000954A",
+        "RE": "RE8225000054A",
+        "numgEdificacao": 18457,
+        "Nome_Edificacao": "ANTONIO VILMAR BOSO",
+        "Logradouro": "Rua dos Imigrantes",
+        "Numero": "845",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-23T18:13:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000953A",
         "RE": "RE8225000141A",
@@ -6607,6 +6629,39 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014136A",
+        "RE": "RE8161013761A",
+        "numgEdificacao": 366050,
+        "Nome_Edificacao": "DIMON INCORPORADORA E CONSTRUTORA LTDA",
+        "Logradouro": "RUA ARQUITETO NILSON EDSON DOS SANTOS",
+        "Numero": "140",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-23T18:13:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014135A",
+        "RE": "RE8161001873A",
+        "numgEdificacao": 60374,
+        "Nome_Edificacao": "SIDRASUL ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Alvaro Beraldi",
+        "Numero": "461",
+        "Bairro": "ITAJAÍ - CANHANDUBA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-23T18:13:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014134A",
+        "RE": "RE8161002095A",
+        "numgEdificacao": 70501,
+        "Nome_Edificacao": "SAULO LIBERATO HEUSI",
+        "Logradouro": "Rua Olímpio Miranda Júnior",
+        "Numero": "168",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-23T18:13:53-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014133A",
         "RE": "RE8161013241A",
         "numgEdificacao": 350636,
@@ -8336,16 +8391,16 @@
     ]
   },
   "totais": {
-    "Brusque": 75,
+    "Brusque": 76,
     "Botuvera": 32,
     "Guabiruba": 33,
     "Gaspar": 69,
     "Porto Belo": 68,
-    "Nova Trento": 37,
+    "Nova Trento": 38,
     "Itapema": 78,
     "Blumenau": 127,
     "Navegantes": 75,
-    "Itajai": 157
+    "Itajai": 160
   },
-  "total_geral": 751
+  "total_geral": 756
 }
