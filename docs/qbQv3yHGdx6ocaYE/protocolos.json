@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-24T06:45:56-03:00",
+  "timestamp": "2026-07-24T08:33:37-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8041,
-      "ultima_verificacao": "2026-07-24T06:45:56-03:00"
+      "ultima_verificacao": "2026-07-24T08:33:37-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-24T06:45:56-03:00"
+      "ultima_verificacao": "2026-07-24T08:33:37-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-24T06:45:56-03:00"
+      "ultima_verificacao": "2026-07-24T08:33:37-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3835,
-      "ultima_verificacao": "2026-07-24T06:45:56-03:00"
+      "ultima_verificacao": "2026-07-24T08:33:37-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-24T06:45:56-03:00"
+      "ultima_verificacao": "2026-07-24T08:33:37-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 954,
-      "ultima_verificacao": "2026-07-24T06:45:56-03:00"
+      "ultima_verificacao": "2026-07-24T08:33:37-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7125,
-      "ultima_verificacao": "2026-07-24T06:45:56-03:00"
+      "ultima_verificacao": "2026-07-24T08:33:37-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12869,
-      "ultima_verificacao": "2026-07-24T06:45:56-03:00"
+      "ultimo_numero": 12870,
+      "ultima_verificacao": "2026-07-24T08:33:37-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4972,
-      "ultima_verificacao": "2026-07-24T06:45:56-03:00"
+      "ultima_verificacao": "2026-07-24T08:33:37-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14137,
-      "ultima_verificacao": "2026-07-24T06:45:56-03:00"
+      "ultima_verificacao": "2026-07-24T08:33:37-03:00"
     }
   },
   "protocolos": {
@@ -4414,6 +4414,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012870A",
+        "RE": "RE8047011543A",
+        "numgEdificacao": 343552,
+        "Nome_Edificacao": "ARIMA INTERNATIONAL GmbH",
+        "Logradouro": "R 1 DE JANEIRO",
+        "Numero": "2657",
+        "Bairro": "BLUMENAU - FIDÉLIS",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-24T08:33:37-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012869A",
         "RE": "RE8047003630A",
         "numgEdificacao": 128819,
@@ -8420,9 +8431,9 @@
     "Porto Belo": 68,
     "Nova Trento": 38,
     "Itapema": 78,
-    "Blumenau": 127,
+    "Blumenau": 128,
     "Navegantes": 75,
     "Itajai": 161
   },
-  "total_geral": 758
+  "total_geral": 759
 }
