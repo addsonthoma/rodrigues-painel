@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-24T10:11:43-03:00",
+  "timestamp": "2026-07-24T12:11:48-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8041,
-      "ultima_verificacao": "2026-07-24T10:11:43-03:00"
+      "ultima_verificacao": "2026-07-24T12:11:48-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-24T10:11:43-03:00"
+      "ultima_verificacao": "2026-07-24T12:11:48-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-24T10:11:43-03:00"
+      "ultima_verificacao": "2026-07-24T12:11:48-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3836,
-      "ultima_verificacao": "2026-07-24T10:11:43-03:00"
+      "ultimo_numero": 3837,
+      "ultima_verificacao": "2026-07-24T12:11:48-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-24T10:11:43-03:00"
+      "ultima_verificacao": "2026-07-24T12:11:48-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 954,
-      "ultima_verificacao": "2026-07-24T10:11:43-03:00"
+      "ultima_verificacao": "2026-07-24T12:11:48-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7125,
-      "ultima_verificacao": "2026-07-24T10:11:43-03:00"
+      "ultima_verificacao": "2026-07-24T12:11:48-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12870,
-      "ultima_verificacao": "2026-07-24T10:11:43-03:00"
+      "ultima_verificacao": "2026-07-24T12:11:48-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4972,
-      "ultima_verificacao": "2026-07-24T10:11:43-03:00"
+      "ultimo_numero": 4973,
+      "ultima_verificacao": "2026-07-24T12:11:48-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14137,
-      "ultima_verificacao": "2026-07-24T10:11:43-03:00"
+      "ultima_verificacao": "2026-07-24T12:11:48-03:00"
     }
   },
   "protocolos": {
@@ -1622,6 +1622,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003837A",
+        "RE": "RE8117003260A",
+        "numgEdificacao": 365855,
+        "Nome_Edificacao": "GASPAR MULTIMARCAS",
+        "Logradouro": "Rua Anfiloquio Nunes Pires",
+        "Numero": "351",
+        "Bairro": "GASPAR - Figueira",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-24T12:11:48-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003836A",
         "RE": "RE8117003264A",
@@ -5835,6 +5846,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004973A",
+        "RE": "RE8221004117A",
+        "numgEdificacao": 365892,
+        "Nome_Edificacao": "RESIDENCIAL VITTALE",
+        "Logradouro": "RUA ALDO MARIO DE ALMEIDA",
+        "Numero": "181",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-24T12:11:48-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004972A",
         "RE": "RE8221000304A",
         "numgEdificacao": 21367,
@@ -8438,13 +8460,13 @@
     "Brusque": 77,
     "Botuvera": 32,
     "Guabiruba": 33,
-    "Gaspar": 70,
+    "Gaspar": 71,
     "Porto Belo": 68,
     "Nova Trento": 38,
     "Itapema": 78,
     "Blumenau": 128,
-    "Navegantes": 75,
+    "Navegantes": 76,
     "Itajai": 161
   },
-  "total_geral": 760
+  "total_geral": 762
 }
