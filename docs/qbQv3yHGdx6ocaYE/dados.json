@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-07-24T13:54:33-03:00",
+  "timestamp": "2026-07-24T18:15:22-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 101,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-24T13:54:33-03:00"
+      "ultima_verificacao": "2026-07-24T18:15:22-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-24T13:54:33-03:00"
+      "ultima_verificacao": "2026-07-24T18:15:22-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-24T13:54:33-03:00"
+      "ultima_verificacao": "2026-07-24T18:15:22-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-24T13:54:33-03:00"
+      "ultima_verificacao": "2026-07-24T18:15:22-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-24T13:54:33-03:00"
+      "ultima_verificacao": "2026-07-24T18:15:22-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 115,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-24T13:54:33-03:00"
+      "ultima_verificacao": "2026-07-24T18:15:22-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 165,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-24T13:54:33-03:00"
+      "ultima_verificacao": "2026-07-24T18:15:22-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 195,
+      "ultimo_numero": 196,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-24T13:54:33-03:00"
+      "ultima_verificacao": "2026-07-24T18:15:22-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-24T13:54:33-03:00"
+      "ultima_verificacao": "2026-07-24T18:15:22-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 380,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-24T13:54:33-03:00"
+      "ultima_verificacao": "2026-07-24T18:15:22-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000196A/26",
+        "RE": "RE8047009408A",
+        "Nome_Edificacao": "CONSTRUTORA SASSE LTDA",
+        "Logradouro": "RUA THEODOR KLEINE",
+        "Numero": "",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-24T18:15:22-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000195A/26",
         "RE": "RE8047007605A",
@@ -3782,7 +3792,7 @@
     ]
   },
   "totais": {
-    "Blumenau": 60,
+    "Blumenau": 61,
     "Botuvera": 3,
     "Brusque": 46,
     "Gaspar": 18,
@@ -3793,8 +3803,15 @@
     "Nova Trento": 32,
     "Porto Belo": 33
   },
-  "total_geral": 382,
+  "total_geral": 383,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-24T18:15:22-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000196A/26",
+      "nome": "CONSTRUTORA SASSE LTDA",
+      "re": "RE8047009408A"
+    },
     {
       "ts": "2026-07-23T15:21:06-03:00",
       "cidade": "Itajai",
@@ -4032,20 +4049,6 @@
       "codigo": "MUL8047000190A/26",
       "nome": "CEI Walter Rosemann",
       "re": "RE8047009733A"
-    },
-    {
-      "ts": "2026-07-17T14:47:18-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000369A/26",
-      "nome": "MYMIND INVESTIMENTOS E PARTICIPACOES LTDA.",
-      "re": "RE8161003778A"
-    },
-    {
-      "ts": "2026-07-17T14:47:18-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000368A/26",
-      "nome": "EDIFICIO RESIDENCIAL VILLA DAS HORTENCIAS",
-      "re": "RE8161007122A"
     }
   ]
 }

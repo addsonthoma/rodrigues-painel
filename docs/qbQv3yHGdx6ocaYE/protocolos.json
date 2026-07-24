@@ -1,59 +1,81 @@
 {
-  "timestamp": "2026-07-24T16:34:16-03:00",
+  "timestamp": "2026-07-24T18:23:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8041,
-      "ultima_verificacao": "2026-07-24T16:34:16-03:00"
+      "ultimo_numero": 8043,
+      "ultima_verificacao": "2026-07-24T18:23:23-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-24T16:34:16-03:00"
+      "ultima_verificacao": "2026-07-24T18:23:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-24T16:34:16-03:00"
+      "ultima_verificacao": "2026-07-24T18:23:23-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3837,
-      "ultima_verificacao": "2026-07-24T16:34:16-03:00"
+      "ultimo_numero": 3840,
+      "ultima_verificacao": "2026-07-24T18:23:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-24T16:34:16-03:00"
+      "ultima_verificacao": "2026-07-24T18:23:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 954,
-      "ultima_verificacao": "2026-07-24T16:34:16-03:00"
+      "ultimo_numero": 956,
+      "ultima_verificacao": "2026-07-24T18:23:23-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7125,
-      "ultima_verificacao": "2026-07-24T16:34:16-03:00"
+      "ultimo_numero": 7127,
+      "ultima_verificacao": "2026-07-24T18:23:23-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12870,
-      "ultima_verificacao": "2026-07-24T16:34:16-03:00"
+      "ultimo_numero": 12871,
+      "ultima_verificacao": "2026-07-24T18:23:23-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4973,
-      "ultima_verificacao": "2026-07-24T16:34:16-03:00"
+      "ultimo_numero": 4975,
+      "ultima_verificacao": "2026-07-24T18:23:23-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14137,
-      "ultima_verificacao": "2026-07-24T16:34:16-03:00"
+      "ultima_verificacao": "2026-07-24T18:23:23-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008043A",
+        "RE": "RE8055000151A",
+        "numgEdificacao": 14461,
+        "Nome_Edificacao": "AUDAZ BURGER",
+        "Logradouro": "Rua São Leopoldo",
+        "Numero": "",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008042A",
+        "RE": "RE8055001134A",
+        "numgEdificacao": 108436,
+        "Nome_Edificacao": "Osmar Becker",
+        "Logradouro": "Rua Beira Rio",
+        "Numero": "1152",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008041A",
         "RE": "RE8055006777A",
@@ -1623,6 +1645,39 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003840A",
+        "RE": "RE8117003253A",
+        "numgEdificacao": 365053,
+        "Nome_Edificacao": "Galpão Neimar Bussolaro",
+        "Logradouro": "RUA FAUSTO DAGNONI",
+        "Numero": "",
+        "Bairro": "GASPAR - GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003839A",
+        "RE": "RE8117002682A",
+        "numgEdificacao": 300005,
+        "Nome_Edificacao": "SERGIO BELLICANTA",
+        "Logradouro": "RUA ANFILOQUIO NUNES PIRES",
+        "Numero": "3400",
+        "Bairro": "GASPAR - BELA VISTA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003838A",
+        "RE": "RE8117002682A",
+        "numgEdificacao": 300005,
+        "Nome_Edificacao": "SERGIO BELLICANTA",
+        "Logradouro": "RUA ANFILOQUIO NUNES PIRES",
+        "Numero": "3400",
+        "Bairro": "GASPAR - BELA VISTA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003837A",
         "RE": "RE8117003260A",
         "numgEdificacao": 365855,
@@ -3156,6 +3211,28 @@
     ],
     "Nova Trento": [
       {
+        "CodigoProtocolo": "A8225000956A",
+        "RE": "RE8225000683A",
+        "numgEdificacao": 340320,
+        "Nome_Edificacao": "SINDICATO",
+        "Logradouro": "HENRIQUE MESCKE",
+        "Numero": "342",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8225000955A",
+        "RE": "RE8225000817A",
+        "numgEdificacao": 366098,
+        "Nome_Edificacao": "EUSSANDRI ERCIO WILCHE",
+        "Logradouro": "RUA GERAL TIROL",
+        "Numero": "75",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
+      {
         "CodigoProtocolo": "A8225000954A",
         "RE": "RE8225000054A",
         "numgEdificacao": 18457,
@@ -3575,6 +3652,28 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007127A",
+        "RE": "RE8163006756A",
+        "numgEdificacao": 363281,
+        "Nome_Edificacao": "Centro de Equoterapia Equovida",
+        "Logradouro": "RUA 900",
+        "Numero": "889",
+        "Bairro": "ITAPEMA - SERTAOZINHO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007126A",
+        "RE": "RE8163005070A",
+        "numgEdificacao": 252995,
+        "Nome_Edificacao": "ILIOMAR ILIODATO",
+        "Logradouro": "Rua 418 A",
+        "Numero": "267",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007125A",
         "RE": "RE8163001499A",
@@ -4435,6 +4534,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012871A",
+        "RE": "RE8047012053A",
+        "numgEdificacao": 366096,
+        "Nome_Edificacao": "FUNDAÇÃO DO BEM ESTAR DA FAMILIA BLUMENAUENSE",
+        "Logradouro": "R ITAPIRANGA",
+        "Numero": "368",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012870A",
         "RE": "RE8047011543A",
@@ -5845,6 +5955,28 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoProtocolo": "A8221004975A",
+        "RE": "RE8221003942A",
+        "numgEdificacao": 352946,
+        "Nome_Edificacao": "Residencial JMF",
+        "Logradouro": "Rua Luiz Manoel do Nascimento",
+        "Numero": "764",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004974A",
+        "RE": "RE8221004115A",
+        "numgEdificacao": 365828,
+        "Nome_Edificacao": "RESIDENCIAL ILHA DO GRANT",
+        "Logradouro": "Rua Roberto Hartke",
+        "Numero": "64",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-24T18:23:23-03:00"
+      },
       {
         "CodigoProtocolo": "A8221004973A",
         "RE": "RE8221004117A",
@@ -8457,16 +8589,16 @@
     ]
   },
   "totais": {
-    "Brusque": 77,
+    "Brusque": 79,
     "Botuvera": 32,
     "Guabiruba": 33,
-    "Gaspar": 71,
+    "Gaspar": 74,
     "Porto Belo": 68,
-    "Nova Trento": 38,
-    "Itapema": 78,
-    "Blumenau": 128,
-    "Navegantes": 76,
+    "Nova Trento": 40,
+    "Itapema": 80,
+    "Blumenau": 129,
+    "Navegantes": 78,
     "Itajai": 161
   },
-  "total_geral": 762
+  "total_geral": 774
 }
