@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-24T20:37:45-03:00",
+  "timestamp": "2026-07-24T22:13:43-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8043,
-      "ultima_verificacao": "2026-07-24T20:37:45-03:00"
+      "ultima_verificacao": "2026-07-24T22:13:43-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-24T20:37:45-03:00"
+      "ultima_verificacao": "2026-07-24T22:13:43-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-24T20:37:45-03:00"
+      "ultima_verificacao": "2026-07-24T22:13:43-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3840,
-      "ultima_verificacao": "2026-07-24T20:37:45-03:00"
+      "ultima_verificacao": "2026-07-24T22:13:43-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-24T20:37:45-03:00"
+      "ultima_verificacao": "2026-07-24T22:13:43-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 956,
-      "ultima_verificacao": "2026-07-24T20:37:45-03:00"
+      "ultima_verificacao": "2026-07-24T22:13:43-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7127,
-      "ultima_verificacao": "2026-07-24T20:37:45-03:00"
+      "ultimo_numero": 7128,
+      "ultima_verificacao": "2026-07-24T22:13:43-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12871,
-      "ultima_verificacao": "2026-07-24T20:37:45-03:00"
+      "ultima_verificacao": "2026-07-24T22:13:43-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4975,
-      "ultima_verificacao": "2026-07-24T20:37:45-03:00"
+      "ultima_verificacao": "2026-07-24T22:13:43-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14137,
-      "ultima_verificacao": "2026-07-24T20:37:45-03:00"
+      "ultimo_numero": 14138,
+      "ultima_verificacao": "2026-07-24T22:13:43-03:00"
     }
   },
   "protocolos": {
@@ -3653,6 +3653,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007128A",
+        "RE": "RE8163006756A",
+        "numgEdificacao": 363281,
+        "Nome_Edificacao": "Centro de Equoterapia Equovida",
+        "Logradouro": "RUA 900",
+        "Numero": "889",
+        "Bairro": "ITAPEMA - SERTAOZINHO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-24T22:13:43-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007127A",
         "RE": "RE8163006756A",
         "numgEdificacao": 363281,
@@ -6816,6 +6827,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014138A",
+        "RE": "RE8161000253A",
+        "numgEdificacao": 8031,
+        "Nome_Edificacao": "LUIZ PROTAZIO DOS SANTOS",
+        "Logradouro": "RODOVIA BR-101",
+        "Numero": "2950",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-24T22:13:43-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014137A",
         "RE": "RE8161013006A",
         "numgEdificacao": 343434,
@@ -8595,10 +8617,10 @@
     "Gaspar": 74,
     "Porto Belo": 68,
     "Nova Trento": 40,
-    "Itapema": 80,
+    "Itapema": 81,
     "Blumenau": 129,
     "Navegantes": 78,
-    "Itajai": 161
+    "Itajai": 162
   },
-  "total_geral": 774
+  "total_geral": 776
 }
