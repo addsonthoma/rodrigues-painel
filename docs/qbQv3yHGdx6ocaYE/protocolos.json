@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-26T22:43:57-03:00",
+  "timestamp": "2026-07-27T00:32:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8043,
-      "ultima_verificacao": "2026-07-26T22:43:57-03:00"
+      "ultima_verificacao": "2026-07-27T00:32:21-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-26T22:43:57-03:00"
+      "ultima_verificacao": "2026-07-27T00:32:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-26T22:43:57-03:00"
+      "ultima_verificacao": "2026-07-27T00:32:21-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3840,
-      "ultima_verificacao": "2026-07-26T22:43:57-03:00"
+      "ultima_verificacao": "2026-07-27T00:32:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-26T22:43:57-03:00"
+      "ultima_verificacao": "2026-07-27T00:32:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 956,
-      "ultima_verificacao": "2026-07-26T22:43:57-03:00"
+      "ultima_verificacao": "2026-07-27T00:32:21-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7128,
-      "ultima_verificacao": "2026-07-26T22:43:57-03:00"
+      "ultima_verificacao": "2026-07-27T00:32:21-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12871,
-      "ultima_verificacao": "2026-07-26T22:43:57-03:00"
+      "ultima_verificacao": "2026-07-27T00:32:21-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4976,
-      "ultima_verificacao": "2026-07-26T22:43:57-03:00"
+      "ultimo_numero": 4977,
+      "ultima_verificacao": "2026-07-27T00:32:21-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14138,
-      "ultima_verificacao": "2026-07-26T22:43:57-03:00"
+      "ultima_verificacao": "2026-07-27T00:32:21-03:00"
     }
   },
   "protocolos": {
@@ -5967,6 +5967,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004977A",
+        "RE": "RE8221004117A",
+        "numgEdificacao": 365892,
+        "Nome_Edificacao": "RESIDENCIAL VITTALE",
+        "Logradouro": "RUA ALDO MARIO DE ALMEIDA",
+        "Numero": "181",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-27T00:32:21-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004976A",
         "RE": "RE8221004118A",
         "numgEdificacao": 366168,
@@ -8630,8 +8641,8 @@
     "Nova Trento": 40,
     "Itapema": 81,
     "Blumenau": 129,
-    "Navegantes": 79,
+    "Navegantes": 80,
     "Itajai": 162
   },
-  "total_geral": 777
+  "total_geral": 778
 }
