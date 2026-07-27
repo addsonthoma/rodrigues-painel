@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-07-27T15:23:50-03:00",
+  "timestamp": "2026-07-27T17:06:09-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8044,
-      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
+      "ultimo_numero": 8045,
+      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
+      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
+      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3841,
-      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
+      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
+      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 956,
-      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
+      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7128,
-      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
+      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12875,
-      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
+      "ultimo_numero": 12876,
+      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4980,
-      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
+      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14147,
-      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
+      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008045A",
+        "RE": "RE8055006778A",
+        "numgEdificacao": 366080,
+        "Nome_Edificacao": "RESIDENCIAL SKYLINE",
+        "Logradouro": "ELSA HOFFMANN",
+        "Numero": "",
+        "Bairro": "BRUSQUE - CENTRO II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-27T17:06:09-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008044A",
         "RE": "RE8055006780A",
@@ -4568,6 +4579,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012876A",
+        "RE": "RE8047001307A",
+        "numgEdificacao": 50506,
+        "Nome_Edificacao": "PRAÇA HERCÍLIO LUZ",
+        "Logradouro": "RUA 15 DE NOVEMBRO",
+        "Numero": "160",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-27T17:06:09-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012875A",
         "RE": "RE8047001524A",
         "numgEdificacao": 69492,
@@ -8831,16 +8853,16 @@
     ]
   },
   "totais": {
-    "Brusque": 80,
+    "Brusque": 81,
     "Botuvera": 32,
     "Guabiruba": 33,
     "Gaspar": 75,
     "Porto Belo": 68,
     "Nova Trento": 40,
     "Itapema": 81,
-    "Blumenau": 133,
+    "Blumenau": 134,
     "Navegantes": 83,
     "Itajai": 171
   },
-  "total_geral": 796
+  "total_geral": 798
 }
