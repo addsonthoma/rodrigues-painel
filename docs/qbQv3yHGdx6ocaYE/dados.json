@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-27T08:50:09-03:00",
+  "timestamp": "2026-07-27T11:12:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 101,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T08:50:09-03:00"
+      "ultima_verificacao": "2026-07-27T11:12:19-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T08:50:09-03:00"
+      "ultima_verificacao": "2026-07-27T11:12:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T08:50:09-03:00"
+      "ultima_verificacao": "2026-07-27T11:12:19-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T08:50:09-03:00"
+      "ultima_verificacao": "2026-07-27T11:12:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 90,
+      "ultimo_numero": 94,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T08:50:09-03:00"
+      "ultima_verificacao": "2026-07-27T11:12:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 115,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T08:50:09-03:00"
+      "ultima_verificacao": "2026-07-27T11:12:19-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 165,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T08:50:09-03:00"
+      "ultima_verificacao": "2026-07-27T11:12:19-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 196,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T08:50:09-03:00"
+      "ultima_verificacao": "2026-07-27T11:12:19-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T08:50:09-03:00"
+      "ultima_verificacao": "2026-07-27T11:12:19-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 380,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T08:50:09-03:00"
+      "ultima_verificacao": "2026-07-27T11:12:19-03:00"
     }
   },
   "multas": {
@@ -3478,6 +3478,46 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "MUL8265000091A/26",
+        "RE": "RE8265002438A",
+        "Nome_Edificacao": "Aline Studio de Beleza",
+        "Logradouro": "AV FRANCISCO SEVERIANO DOS SANTOS",
+        "Numero": "568",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-27T11:12:19-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8265000092A/26",
+        "RE": "RE8265000993A",
+        "Nome_Edificacao": "RENOVO CLINICA TERAPEUTICA",
+        "Logradouro": "AVENIDA GOVERNADOR CELSO RAMOS",
+        "Numero": "30",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-27T11:12:19-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8265000093A/26",
+        "RE": "RE8265000895A",
+        "Nome_Edificacao": "Robson Sombrio",
+        "Logradouro": "AVENIDA COLOMBO MACHADO SALES",
+        "Numero": "660",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-27T11:12:19-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8265000094A/26",
+        "RE": "RE8265000755A",
+        "Nome_Edificacao": "SIDNEI MACHADO",
+        "Logradouro": "Rua Lucio José Airoso",
+        "Numero": "385",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-27T11:12:19-03:00"
+      },
+      {
         "CodigoAuto": "MUL8265000090A/26",
         "RE": "RE8265000853A",
         "Nome_Edificacao": "CONDOMINIO EDIFICIO VITA STELLA",
@@ -3801,10 +3841,38 @@
     "Itapema": 48,
     "Navegantes": 41,
     "Nova Trento": 32,
-    "Porto Belo": 33
+    "Porto Belo": 37
   },
-  "total_geral": 383,
+  "total_geral": 387,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-27T11:12:19-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000094A/26",
+      "nome": "SIDNEI MACHADO",
+      "re": "RE8265000755A"
+    },
+    {
+      "ts": "2026-07-27T11:12:19-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000093A/26",
+      "nome": "Robson Sombrio",
+      "re": "RE8265000895A"
+    },
+    {
+      "ts": "2026-07-27T11:12:19-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000092A/26",
+      "nome": "RENOVO CLINICA TERAPEUTICA",
+      "re": "RE8265000993A"
+    },
+    {
+      "ts": "2026-07-27T11:12:19-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000091A/26",
+      "nome": "Aline Studio de Beleza",
+      "re": "RE8265002438A"
+    },
     {
       "ts": "2026-07-24T18:15:22-03:00",
       "cidade": "Blumenau",

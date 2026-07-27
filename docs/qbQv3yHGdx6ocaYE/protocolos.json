@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-27T08:57:49-03:00",
+  "timestamp": "2026-07-27T11:20:52-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8044,
-      "ultima_verificacao": "2026-07-27T08:57:49-03:00"
+      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-27T08:57:49-03:00"
+      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-27T08:57:49-03:00"
+      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3840,
-      "ultima_verificacao": "2026-07-27T08:57:49-03:00"
+      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-27T08:57:49-03:00"
+      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 956,
-      "ultima_verificacao": "2026-07-27T08:57:49-03:00"
+      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7128,
-      "ultima_verificacao": "2026-07-27T08:57:49-03:00"
+      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12871,
-      "ultima_verificacao": "2026-07-27T08:57:49-03:00"
+      "ultimo_numero": 12873,
+      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4977,
-      "ultima_verificacao": "2026-07-27T08:57:49-03:00"
+      "ultimo_numero": 4978,
+      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14138,
-      "ultima_verificacao": "2026-07-27T08:57:49-03:00"
+      "ultimo_numero": 14139,
+      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
     }
   },
   "protocolos": {
@@ -4557,6 +4557,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012873A",
+        "RE": "RE8047011855A",
+        "numgEdificacao": 357767,
+        "Nome_Edificacao": "SALA COMERCIAL",
+        "Logradouro": "RUA CONSOLACAO",
+        "Numero": "43",
+        "Bairro": "BLUMENAU - ÁGUA VERDE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-27T11:20:52-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012872A",
+        "RE": "RE8047012055A",
+        "numgEdificacao": 366149,
+        "Nome_Edificacao": "CAMPIOLLI TÊXTIL LTDA.",
+        "Logradouro": "RUA 1° DE JANEIRO",
+        "Numero": "990",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-27T11:20:52-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012871A",
         "RE": "RE8047012053A",
         "numgEdificacao": 366096,
@@ -5978,6 +6000,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004978A",
+        "RE": "RE8221000923A",
+        "numgEdificacao": 100268,
+        "Nome_Edificacao": "GRANAMAR ADMINISTRADORA  DE BENS PRÓPRIOS LTDA",
+        "Logradouro": "RUA: PREFEITO MANOEL EVALDO MULLER",
+        "Numero": "3366",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-27T11:20:52-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004977A",
         "RE": "RE8221004117A",
         "numgEdificacao": 365892,
@@ -6859,6 +6892,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014139A",
+        "RE": "RE8161013705A",
+        "numgEdificacao": 364007,
+        "Nome_Edificacao": "ESCOLA ESPAÇO KIDS - ITAJAI",
+        "Logradouro": "Rua Juvenal Garcia",
+        "Numero": "504",
+        "Bairro": "ITAJAÍ - Centro",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T11:20:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014138A",
         "RE": "RE8161000253A",
@@ -8651,9 +8695,9 @@
     "Porto Belo": 68,
     "Nova Trento": 40,
     "Itapema": 81,
-    "Blumenau": 129,
-    "Navegantes": 80,
-    "Itajai": 162
+    "Blumenau": 131,
+    "Navegantes": 81,
+    "Itajai": 163
   },
-  "total_geral": 779
+  "total_geral": 783
 }

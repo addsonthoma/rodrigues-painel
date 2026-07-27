@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-07-27T08:50:44-03:00",
+  "timestamp": "2026-07-27T11:13:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 850,
+      "ultimo_numero": 851,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T08:50:44-03:00"
+      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
-      "ultimo_numero": 31,
+      "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T08:50:44-03:00"
+      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T08:50:44-03:00"
+      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 531,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T08:50:44-03:00"
+      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 457,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T08:50:44-03:00"
+      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 424,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T08:50:44-03:00"
+      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1023,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T08:50:44-03:00"
+      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 965,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T08:50:44-03:00"
+      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 282,
+      "ultimo_numero": 284,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T08:50:44-03:00"
+      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 998,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T08:50:44-03:00"
+      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000851A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000460A",
+        "Nome_Edificacao": "VILLAGIO DI ROMA",
+        "Logradouro": "Rua Bulcão Viana",
+        "Numero": "536",
+        "Bairro": "BRUSQUE - SOUZA CRUZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-27T11:13:04-03:00"
+      },
       {
         "CodigoAuto": "AF8055000850A/26",
         "Tipo": "AF",
@@ -2706,6 +2717,17 @@
       }
     ],
     "Botuvera": [
+      {
+        "CodigoAuto": "AF8051000032A/26",
+        "Tipo": "AF",
+        "RE": "RE8051000197A",
+        "Nome_Edificacao": "ÉDER COSTA",
+        "Logradouro": "09 DE JUNHO",
+        "Numero": "6060",
+        "Bairro": "BOTUVERÁ - RIBEIRAO PORTO FRANCO",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-07-27T11:13:04-03:00"
+      },
       {
         "CodigoAuto": "AF8051000031A/26",
         "Tipo": "AF",
@@ -13820,6 +13842,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000284A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000304A",
+        "Nome_Edificacao": "CONDOMINIO EMPRESARIAL NAVEGANTES SPE LTDA",
+        "Logradouro": "Rodovia Governador Mário Covas",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-27T11:13:04-03:00"
+      },
+      {
+        "CodigoAuto": "AF8221000283A/26",
+        "Tipo": "AF",
+        "RE": "RE8221003937A",
+        "Nome_Edificacao": "Anivaldo Couto",
+        "Logradouro": "Rua Jornalista Rui Ademar Rodrigues",
+        "Numero": "235",
+        "Bairro": "NAVEGANTES - NOSSA SENHORA DAS GRAÇAS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-27T11:13:04-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000282A/26",
         "Tipo": "AF",
         "RE": "RE8221002025A",
@@ -17399,16 +17443,16 @@
     ]
   },
   "totais": {
-    "Brusque": 240,
-    "Botuvera": 31,
+    "Brusque": 241,
+    "Botuvera": 32,
     "Guabiruba": 40,
     "Gaspar": 117,
     "Porto Belo": 166,
     "Nova Trento": 114,
     "Itapema": 289,
     "Blumenau": 252,
-    "Navegantes": 78,
+    "Navegantes": 80,
     "Itajai": 247
   },
-  "total_geral": 1574
+  "total_geral": 1578
 }
