@@ -1,79 +1,129 @@
 {
-  "timestamp": "2026-07-27T13:34:57-03:00",
+  "timestamp": "2026-07-27T15:11:51-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 101,
+      "ultimo_numero": 103,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T13:34:57-03:00"
+      "ultima_verificacao": "2026-07-27T15:11:51-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T13:34:57-03:00"
+      "ultima_verificacao": "2026-07-27T15:11:51-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T13:34:57-03:00"
+      "ultima_verificacao": "2026-07-27T15:11:51-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T13:34:57-03:00"
+      "ultima_verificacao": "2026-07-27T15:11:51-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 95,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T13:34:57-03:00"
+      "ultima_verificacao": "2026-07-27T15:11:51-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 115,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T13:34:57-03:00"
+      "ultima_verificacao": "2026-07-27T15:11:51-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 165,
+      "ultimo_numero": 167,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T13:34:57-03:00"
+      "ultima_verificacao": "2026-07-27T15:11:51-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 196,
+      "ultimo_numero": 201,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T13:34:57-03:00"
+      "ultima_verificacao": "2026-07-27T15:11:51-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 79,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T13:34:57-03:00"
+      "ultima_verificacao": "2026-07-27T15:11:51-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 385,
+      "ultimo_numero": 386,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-27T13:34:57-03:00"
+      "ultima_verificacao": "2026-07-27T15:11:51-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000197A/26",
+        "RE": "RE8047009565A",
+        "Nome_Edificacao": "VALDEVINO BRANCHER",
+        "Logradouro": "Rua Almirante Tamandaré",
+        "Numero": "1609",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-27T15:11:51-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000198A/26",
+        "RE": "RE8047009565A",
+        "Nome_Edificacao": "VALDEVINO BRANCHER",
+        "Logradouro": "Rua Almirante Tamandaré",
+        "Numero": "1609",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-27T15:11:51-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000199A/26",
+        "RE": "RE8047010398A",
+        "Nome_Edificacao": "MOVIMENTO CONSTRUÇÕES E SERVIÇOS LT",
+        "Logradouro": "RUA FRANCISCO VAHLDIECK",
+        "Numero": "1666",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-27T15:11:51-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000200A/26",
+        "RE": "RE8047002657A",
+        "Nome_Edificacao": "TJPM PARTICIPAÇÕES LTDA",
+        "Logradouro": "Rua Doutor Pedro Zimmermann",
+        "Numero": "4505",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-27T15:11:51-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000201A/26",
+        "RE": "RE8047010988A",
+        "Nome_Edificacao": "BF - UTILIDADES DOMÉSTICAS",
+        "Logradouro": "Avenida Presidente Castelo Branco",
+        "Numero": "1013",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-27T15:11:51-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000196A/26",
         "RE": "RE8047009408A",
@@ -700,6 +750,26 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000102A/26",
+        "RE": "RE8055001168A",
+        "Nome_Edificacao": "LE MUND",
+        "Logradouro": "RODOVIA ANTONIO HEIL",
+        "Numero": "229",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-27T15:11:51-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000103A/26",
+        "RE": "RE8055000619A",
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL WONDERFULL",
+        "Logradouro": "Rua Júlio Orthmann",
+        "Numero": "25",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-27T15:11:51-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000097A/26",
         "RE": "RE8055005484A",
@@ -1343,6 +1413,16 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000386A/26",
+        "RE": "RE8161005842A",
+        "Nome_Edificacao": "TEATRO MUNICIPAL DE ITAJAI",
+        "Logradouro": "Rua Gregório Chaves",
+        "Numero": "111",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:11:51-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000381A/26",
         "RE": "RE8161000015A",
@@ -2358,6 +2438,26 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "MUL8163000166A/26",
+        "RE": "RE8163001027A",
+        "Nome_Edificacao": "DOM MATEUS EXCLUSIVE",
+        "Logradouro": "RUA 232",
+        "Numero": "401",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-27T15:11:51-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000167A/26",
+        "RE": "RE8163004807A",
+        "Nome_Edificacao": "RESIDENCIAL DANTE ALIGHIERI",
+        "Logradouro": "RUA 129 D1",
+        "Numero": "27",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-27T15:11:51-03:00"
+      },
       {
         "CodigoAuto": "MUL8163000164A/26",
         "RE": "RE8163000577A",
@@ -3892,19 +3992,89 @@
     ]
   },
   "totais": {
-    "Blumenau": 61,
+    "Blumenau": 66,
     "Botuvera": 3,
-    "Brusque": 46,
+    "Brusque": 48,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 103,
-    "Itapema": 48,
+    "Itajai": 104,
+    "Itapema": 50,
     "Navegantes": 41,
     "Nova Trento": 32,
     "Porto Belo": 38
   },
-  "total_geral": 393,
+  "total_geral": 403,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-27T15:11:51-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000386A/26",
+      "nome": "TEATRO MUNICIPAL DE ITAJAI",
+      "re": "RE8161005842A"
+    },
+    {
+      "ts": "2026-07-27T15:11:51-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000201A/26",
+      "nome": "BF - UTILIDADES DOMÉSTICAS",
+      "re": "RE8047010988A"
+    },
+    {
+      "ts": "2026-07-27T15:11:51-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000200A/26",
+      "nome": "TJPM PARTICIPAÇÕES LTDA",
+      "re": "RE8047002657A"
+    },
+    {
+      "ts": "2026-07-27T15:11:51-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000199A/26",
+      "nome": "MOVIMENTO CONSTRUÇÕES E SERVIÇOS LT",
+      "re": "RE8047010398A"
+    },
+    {
+      "ts": "2026-07-27T15:11:51-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000198A/26",
+      "nome": "VALDEVINO BRANCHER",
+      "re": "RE8047009565A"
+    },
+    {
+      "ts": "2026-07-27T15:11:51-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000197A/26",
+      "nome": "VALDEVINO BRANCHER",
+      "re": "RE8047009565A"
+    },
+    {
+      "ts": "2026-07-27T15:11:51-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000167A/26",
+      "nome": "RESIDENCIAL DANTE ALIGHIERI",
+      "re": "RE8163004807A"
+    },
+    {
+      "ts": "2026-07-27T15:11:51-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000166A/26",
+      "nome": "DOM MATEUS EXCLUSIVE",
+      "re": "RE8163001027A"
+    },
+    {
+      "ts": "2026-07-27T15:11:51-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000103A/26",
+      "nome": "CONDOMINIO RESIDENCIAL WONDERFULL",
+      "re": "RE8055000619A"
+    },
+    {
+      "ts": "2026-07-27T15:11:51-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000102A/26",
+      "nome": "LE MUND",
+      "re": "RE8055001168A"
+    },
     {
       "ts": "2026-07-27T13:34:57-03:00",
       "cidade": "Itajai",
@@ -4184,41 +4354,6 @@
       "codigo": "MUL8055000096A/26",
       "nome": "Pet Family",
       "re": "RE8055006617A"
-    },
-    {
-      "ts": "2026-07-21T11:16:24-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000095A/26",
-      "nome": "Casa 182",
-      "re": "RE8055002264A"
-    },
-    {
-      "ts": "2026-07-21T11:16:24-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000094A/26",
-      "nome": "ALLAN MAGNO DE A. FAGUNDES",
-      "re": "RE8055001433A"
-    },
-    {
-      "ts": "2026-07-21T11:16:24-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000093A/26",
-      "nome": "GIOVANI SMIALOWSKI LIRA",
-      "re": "RE8055002942A"
-    },
-    {
-      "ts": "2026-07-20T15:34:06-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000191A/26",
-      "nome": "IDALZIR SAVI",
-      "re": "RE8047010401A"
-    },
-    {
-      "ts": "2026-07-20T13:40:47-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000190A/26",
-      "nome": "CEI Walter Rosemann",
-      "re": "RE8047009733A"
     }
   ]
 }

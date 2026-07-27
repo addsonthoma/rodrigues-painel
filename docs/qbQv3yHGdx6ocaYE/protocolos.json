@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-27T13:44:12-03:00",
+  "timestamp": "2026-07-27T15:23:50-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8044,
-      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
+      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
+      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
+      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3840,
-      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
+      "ultimo_numero": 3841,
+      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
+      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 956,
-      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
+      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7128,
-      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
+      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12874,
-      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
+      "ultimo_numero": 12875,
+      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4979,
-      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
+      "ultimo_numero": 4980,
+      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14141,
-      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
+      "ultimo_numero": 14147,
+      "ultima_verificacao": "2026-07-27T15:23:50-03:00"
     }
   },
   "protocolos": {
@@ -1655,6 +1655,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003841A",
+        "RE": "RE8117003253A",
+        "numgEdificacao": 365053,
+        "Nome_Edificacao": "CARPE CONSULTORIA E GESTÃO ESPORTIVA LTDA",
+        "Logradouro": "RUA FAUSTO DAGNONI",
+        "Numero": "",
+        "Bairro": "GASPAR - GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-27T15:23:50-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003840A",
         "RE": "RE8117003253A",
@@ -4557,6 +4568,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012875A",
+        "RE": "RE8047001524A",
+        "numgEdificacao": 69492,
+        "Nome_Edificacao": "ANDREAS ARMANGE",
+        "Logradouro": "Rua São Paulo",
+        "Numero": "786",
+        "Bairro": "BLUMENAU - VICTOR KONDER",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-27T15:23:50-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012874A",
         "RE": "RE8047011966A",
         "numgEdificacao": 362944,
@@ -6011,6 +6033,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004980A",
+        "RE": "RE8221004103A",
+        "numgEdificacao": 365192,
+        "Nome_Edificacao": "MDR INDÚSTRIA TEXTIL LTDA EPP",
+        "Logradouro": "RUA ANIBAL GAYA",
+        "Numero": "226",
+        "Bairro": "NAVEGANTES - Centro",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-27T15:23:50-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004979A",
         "RE": "RE8221004050A",
         "numgEdificacao": 361361,
@@ -6914,6 +6947,72 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014147A",
+        "RE": "RE8161013772A",
+        "numgEdificacao": 366230,
+        "Nome_Edificacao": "Jean 3pav",
+        "Logradouro": "Dalva Santos Estanislau",
+        "Numero": "81",
+        "Bairro": "ITAJAÍ - ESPINHEIRO CIMA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:23:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014146A",
+        "RE": "RE8161013431A",
+        "numgEdificacao": 355923,
+        "Nome_Edificacao": "221.020.03.0080.0000.000",
+        "Logradouro": "RUA SAO FRANCISCO DE ASSIS",
+        "Numero": "70",
+        "Bairro": "ITAJAÍ - SÃO JUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:23:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014145A",
+        "RE": "RE8161013765A",
+        "numgEdificacao": 366142,
+        "Nome_Edificacao": "ESTER MARLI DA SILVA",
+        "Logradouro": "Rua Agílio Cunha",
+        "Numero": "776",
+        "Bairro": "ITAJAÍ - Cidade Nova",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:23:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014144A",
+        "RE": "RE8161013770A",
+        "numgEdificacao": 366221,
+        "Nome_Edificacao": "Eliane e Dioney",
+        "Logradouro": "RUA MAURINO MAFRA",
+        "Numero": "331",
+        "Bairro": "ITAJAÍ - RIO DO MEIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:23:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014143A",
+        "RE": "RE8161013771A",
+        "numgEdificacao": 366222,
+        "Nome_Edificacao": "RESIDENCIAL GILLIARDI TELEMACO",
+        "Logradouro": "Rua Vereador Telêmaco de Oliveira",
+        "Numero": "198",
+        "Bairro": "ITAJAÍ - Cordeiros",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:23:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014142A",
+        "RE": "RE8161001223A",
+        "numgEdificacao": 33969,
+        "Nome_Edificacao": "Pandini Empreendimentos Imobiliários",
+        "Logradouro": "Rodovia Br 101, Km 117,5",
+        "Numero": "4200",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:23:50-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014141A",
         "RE": "RE8161005851A",
@@ -8735,13 +8834,13 @@
     "Brusque": 80,
     "Botuvera": 32,
     "Guabiruba": 33,
-    "Gaspar": 74,
+    "Gaspar": 75,
     "Porto Belo": 68,
     "Nova Trento": 40,
     "Itapema": 81,
-    "Blumenau": 132,
-    "Navegantes": 82,
-    "Itajai": 165
+    "Blumenau": 133,
+    "Navegantes": 83,
+    "Itajai": 171
   },
-  "total_geral": 787
+  "total_geral": 796
 }

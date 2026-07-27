@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-07-27T13:35:53-03:00",
+  "timestamp": "2026-07-27T15:13:11-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 852,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
+      "ultima_verificacao": "2026-07-27T15:13:11-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
+      "ultima_verificacao": "2026-07-27T15:13:11-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
+      "ultima_verificacao": "2026-07-27T15:13:11-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 533,
+      "ultimo_numero": 534,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
+      "ultima_verificacao": "2026-07-27T15:13:11-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 458,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
+      "ultima_verificacao": "2026-07-27T15:13:11-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 426,
+      "ultimo_numero": 427,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
+      "ultima_verificacao": "2026-07-27T15:13:11-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1023,
+      "ultimo_numero": 1025,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
+      "ultima_verificacao": "2026-07-27T15:13:11-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 965,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
+      "ultima_verificacao": "2026-07-27T15:13:11-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 284,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
+      "ultima_verificacao": "2026-07-27T15:13:11-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 999,
+      "ultimo_numero": 1016,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
+      "ultima_verificacao": "2026-07-27T15:13:11-03:00"
     }
   },
   "afs": {
@@ -3525,6 +3525,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000534A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000106A",
+        "Nome_Edificacao": "AQUAROL ÁGUA MINERAL LTDA",
+        "Logradouro": "Rua Antonio Schmitz",
+        "Numero": "2455",
+        "Bairro": "GASPAR - Belchior Alto",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000533A/26",
         "Tipo": "AF",
         "RE": "RE8117001658A",
@@ -3605,7 +3616,7 @@
         "CodigoAuto": "AF8117000526A/26",
         "Tipo": "AF",
         "RE": "RE8117000988A",
-        "Nome_Edificacao": "ADILSON FIAMONCINI ME",
+        "Nome_Edificacao": "ADILSON FIAMONCINI",
         "Logradouro": "Rodovia Ingo Hering",
         "Numero": "",
         "Bairro": "GASPAR - MARGEM ESQUERDA",
@@ -6675,6 +6686,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000427A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000818A",
+        "Nome_Edificacao": "KATIA REGINA POSTAI",
+        "Logradouro": "Estrada Geral Tirol",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - TIROL",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000426A/26",
         "Tipo": "AF",
         "RE": "RE8225000818A",
@@ -7953,13 +7975,35 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163001025A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001476A",
+        "Nome_Edificacao": "RESIDENCIAL CADILLAC",
+        "Logradouro": "Rua 254",
+        "Numero": "19",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001024A/26",
+        "Tipo": "AF",
+        "RE": "RE8163005295A",
+        "Nome_Edificacao": "RESIDENCIAL MATIAS FARIA",
+        "Logradouro": "RUA 296",
+        "Numero": "798",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
         "CodigoAuto": "AF8163001023A/26",
         "Tipo": "AF",
         "RE": "RE8163005745A",
         "Nome_Edificacao": "JOSé RENATO CORREA",
-        "Logradouro": "RUA 800 A",
+        "Logradouro": "Rua 800 A",
         "Numero": "71",
-        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Bairro": "ITAPEMA - CASA BRANCA",
         "Cidade": "Itapema",
         "Detectado_em": "2026-07-24T18:15:54-03:00"
       },
@@ -14790,6 +14834,171 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001016A/26",
+        "Tipo": "AF",
+        "RE": "RE8161010149A",
+        "Nome_Edificacao": "VIDA NOVA ESTETICA AUTOMOTIVA",
+        "Logradouro": "Rua José Lopes",
+        "Numero": "1200",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001015A/26",
+        "Tipo": "AF",
+        "RE": "RE8161000472A",
+        "Nome_Edificacao": "PAULINA  MARIA  BEIRÃO",
+        "Logradouro": "Rua Professora Erotides da Silva Fontes",
+        "Numero": "1245",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001014A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005077A",
+        "Nome_Edificacao": "PERRI MULTISERVIÇO LTDA",
+        "Logradouro": "Rua José Francisco Reis",
+        "Numero": "666",
+        "Bairro": "ITAJAÍ - SANTA REGINA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001013A/26",
+        "Tipo": "AF",
+        "RE": "RE8161000659A",
+        "Nome_Edificacao": "Idelfonso Bento de Aragão",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "4010",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001012A/26",
+        "Tipo": "AF",
+        "RE": "RE8161000469A",
+        "Nome_Edificacao": "CONDOMINIO EDIFICIO MICHELANGELO",
+        "Logradouro": "RUA JOAO BAUER",
+        "Numero": "312",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001011A/26",
+        "Tipo": "AF",
+        "RE": "RE8161008421A",
+        "Nome_Edificacao": "ESTETICA CANINA GRAZIELA LTDA",
+        "Logradouro": "Rua Miguel Kuninfas",
+        "Numero": "155",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001010A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013767A",
+        "Nome_Edificacao": "BEBECA MARMITEX LTDA",
+        "Logradouro": "RUA BLUMENAU",
+        "Numero": "715",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001009A/26",
+        "Tipo": "AF",
+        "RE": "RE8161004809A",
+        "Nome_Edificacao": "LUCIANO ROBERTO DE MELLO",
+        "Logradouro": "Rua Aderbal Ramos da Silva",
+        "Numero": "123",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001008A/26",
+        "Tipo": "AF",
+        "RE": "RE8161010857A",
+        "Nome_Edificacao": "CANTINHO DO XIS",
+        "Logradouro": "RUA SOROCABA",
+        "Numero": "74",
+        "Bairro": "ITAJAÍ - LIMOEIRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001007A/26",
+        "Tipo": "AF",
+        "RE": "RE8161003741A",
+        "Nome_Edificacao": "MAURILIO MATIAS PAULO",
+        "Logradouro": "Rua Alberto Werner",
+        "Numero": "181",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001006A/26",
+        "Tipo": "AF",
+        "RE": "RE8161012984A",
+        "Nome_Edificacao": "50.267.870 MICHELE BRANCO",
+        "Logradouro": "ROD JORGE LACERDA 1295",
+        "Numero": "4650",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001005A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013764A",
+        "Nome_Edificacao": "CASA CAMPO GARDEN LTDA",
+        "Logradouro": "Área Rural",
+        "Numero": "1300",
+        "Bairro": "ITAJAÍ - ÁREA RURAL DE ITAJAÍ",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001004A/26",
+        "Tipo": "AF",
+        "RE": "RE8161010924A",
+        "Nome_Edificacao": "Diego da Costa",
+        "Logradouro": "Rua Eurípedes Amorim Leal",
+        "Numero": "921",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001003A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013765A",
+        "Nome_Edificacao": "ESTER MARLI DA SILVA",
+        "Logradouro": "Rua Agílio Cunha",
+        "Numero": "776",
+        "Bairro": "ITAJAÍ - Cidade Nova",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001002A/26",
+        "Tipo": "AF",
+        "RE": "RE8161000497A",
+        "Nome_Edificacao": "ACACIO MANÇOS DA SILVA",
+        "Logradouro": "Avenida Sete de Setembro",
+        "Numero": "1401",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T15:13:11-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000999A/26",
         "Tipo": "AF",
         "RE": "RE8161004029A",
@@ -17523,13 +17732,13 @@
     "Brusque": 242,
     "Botuvera": 32,
     "Guabiruba": 40,
-    "Gaspar": 119,
+    "Gaspar": 120,
     "Porto Belo": 167,
-    "Nova Trento": 116,
-    "Itapema": 289,
+    "Nova Trento": 117,
+    "Itapema": 291,
     "Blumenau": 252,
     "Navegantes": 80,
-    "Itajai": 248
+    "Itajai": 263
   },
-  "total_geral": 1585
+  "total_geral": 1604
 }
