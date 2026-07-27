@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-07-27T11:13:04-03:00",
+  "timestamp": "2026-07-27T13:35:53-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 851,
+      "ultimo_numero": 852,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
+      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
+      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
+      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 531,
+      "ultimo_numero": 533,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
+      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 457,
+      "ultimo_numero": 458,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
+      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 424,
+      "ultimo_numero": 426,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
+      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1023,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
+      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 965,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
+      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 284,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
+      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 998,
+      "ultimo_numero": 999,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T11:13:04-03:00"
+      "ultima_verificacao": "2026-07-27T13:35:53-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000852A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000177A",
+        "Nome_Edificacao": "Euclides José Lopes",
+        "Logradouro": "Avenida Dom Joaquim",
+        "Numero": "629",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-27T13:35:53-03:00"
+      },
       {
         "CodigoAuto": "AF8055000851A/26",
         "Tipo": "AF",
@@ -3514,6 +3525,28 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000533A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001658A",
+        "Nome_Edificacao": "JOSE CLAUDIO DEMMER",
+        "Logradouro": "Rua José Krauss",
+        "Numero": "78",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-27T13:35:53-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000532A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001764A",
+        "Nome_Edificacao": "ALEXANDRE MADRID",
+        "Logradouro": "RUA ITAJAI",
+        "Numero": "999",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-27T13:35:53-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000531A/26",
         "Tipo": "AF",
         "RE": "RE8117002426A",
@@ -3561,7 +3594,7 @@
         "CodigoAuto": "AF8117000527A/26",
         "Tipo": "AF",
         "RE": "RE8117001764A",
-        "Nome_Edificacao": "SIRLENE MACHADO BONH MADRI ME",
+        "Nome_Edificacao": "ALEXANDRE MADRID",
         "Logradouro": "RUA ITAJAI",
         "Numero": "999",
         "Bairro": "GASPAR - SETE DE SETEMBRO",
@@ -4802,6 +4835,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000458A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002537A",
+        "Nome_Edificacao": "GALPÃO (J-2)",
+        "Logradouro": "r.JOSE NEOLI CRUZ",
+        "Numero": "2255",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-27T13:35:53-03:00"
+      },
       {
         "CodigoAuto": "AF8265000457A/26",
         "Tipo": "AF",
@@ -6630,6 +6674,28 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000426A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000818A",
+        "Nome_Edificacao": "KATIA REGINA POSTAI",
+        "Logradouro": "Estrada Geral Tirol",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - TIROL",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-27T13:35:53-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000425A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000544A",
+        "Nome_Edificacao": "MOISES SANCHES DE SOUZA",
+        "Logradouro": "PAULO SCALVIM",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-27T13:35:53-03:00"
+      },
       {
         "CodigoAuto": "AF8225000424A/26",
         "Tipo": "AF",
@@ -14724,6 +14790,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161000999A/26",
+        "Tipo": "AF",
+        "RE": "RE8161004029A",
+        "Nome_Edificacao": "BRL COMMERCIAL PROPERTIES",
+        "Logradouro": "Rua José Lana",
+        "Numero": "850",
+        "Bairro": "ITAJAÍ - BRILHANTE I",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T13:35:53-03:00"
+      },
+      {
         "CodigoAuto": "AF8161000998A/26",
         "Tipo": "AF",
         "RE": "RE8161003482A",
@@ -17443,16 +17520,16 @@
     ]
   },
   "totais": {
-    "Brusque": 241,
+    "Brusque": 242,
     "Botuvera": 32,
     "Guabiruba": 40,
-    "Gaspar": 117,
-    "Porto Belo": 166,
-    "Nova Trento": 114,
+    "Gaspar": 119,
+    "Porto Belo": 167,
+    "Nova Trento": 116,
     "Itapema": 289,
     "Blumenau": 252,
     "Navegantes": 80,
-    "Itajai": 247
+    "Itajai": 248
   },
-  "total_geral": 1578
+  "total_geral": 1585
 }

@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-27T11:20:52-03:00",
+  "timestamp": "2026-07-27T13:44:12-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8044,
-      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
+      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
+      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
+      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3840,
-      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
+      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
+      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 956,
-      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
+      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7128,
-      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
+      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12873,
-      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
+      "ultimo_numero": 12874,
+      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4978,
-      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
+      "ultimo_numero": 4979,
+      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14139,
-      "ultima_verificacao": "2026-07-27T11:20:52-03:00"
+      "ultimo_numero": 14141,
+      "ultima_verificacao": "2026-07-27T13:44:12-03:00"
     }
   },
   "protocolos": {
@@ -1659,7 +1659,7 @@
         "CodigoProtocolo": "A8117003840A",
         "RE": "RE8117003253A",
         "numgEdificacao": 365053,
-        "Nome_Edificacao": "Galpão Neimar Bussolaro",
+        "Nome_Edificacao": "CARPE CONSULTORIA E GESTÃO ESPORTIVA LTDA",
         "Logradouro": "RUA FAUSTO DAGNONI",
         "Numero": "",
         "Bairro": "GASPAR - GASPARINHO",
@@ -4557,6 +4557,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012874A",
+        "RE": "RE8047011966A",
+        "numgEdificacao": 362944,
+        "Nome_Edificacao": "Edifício Itoupavazinha",
+        "Logradouro": "FREDERICO JENSEN",
+        "Numero": "3340",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-27T13:44:12-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012873A",
         "RE": "RE8047011855A",
         "numgEdificacao": 357767,
@@ -6000,6 +6011,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004979A",
+        "RE": "RE8221004050A",
+        "numgEdificacao": 361361,
+        "Nome_Edificacao": "Garden House",
+        "Logradouro": "Rua Gervásio de Souza",
+        "Numero": "383",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-27T13:44:12-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004978A",
         "RE": "RE8221000923A",
         "numgEdificacao": 100268,
@@ -6892,6 +6914,28 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014141A",
+        "RE": "RE8161005851A",
+        "numgEdificacao": 167456,
+        "Nome_Edificacao": "CLUBE DE PADEL",
+        "Logradouro": "RUA LAURO MULLER",
+        "Numero": "1317",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T13:44:12-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014140A",
+        "RE": "RE8161013768A",
+        "numgEdificacao": 366187,
+        "Nome_Edificacao": "Apartamentos Legal",
+        "Logradouro": "RUA 05 - LOTEAMENTO JOAO VIEIRA",
+        "Numero": "104",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T13:44:12-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014139A",
         "RE": "RE8161013705A",
@@ -8695,9 +8739,9 @@
     "Porto Belo": 68,
     "Nova Trento": 40,
     "Itapema": 81,
-    "Blumenau": 131,
-    "Navegantes": 81,
-    "Itajai": 163
+    "Blumenau": 132,
+    "Navegantes": 82,
+    "Itajai": 165
   },
-  "total_geral": 783
+  "total_geral": 787
 }
