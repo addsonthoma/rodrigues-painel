@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T08:40:33-03:00",
+  "timestamp": "2026-07-27T10:41:25-03:00",
   "enrich": {
     "A8055007991A": {
       "area": 420.6,
@@ -61147,9 +61147,9 @@
     "A8055008041A": {
       "area": 65.7,
       "data": "2026-07-23",
-      "deferido": false,
-      "situacao": "Pendente de Pagamento",
-      "codgSituacao": "PENDENTE_PAGAMENTO",
+      "deferido": true,
+      "situacao": "Deferido",
+      "codgSituacao": "DEFERIDO",
       "cassado": false,
       "anulado": false,
       "suspenso": false,
@@ -61169,7 +61169,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-07-24T08:16:08-03:00"
+      "_drillTs": "2026-07-27T10:40:45-03:00"
     },
     "A8055008040A": {
       "area": 1901.07,
@@ -62727,6 +62727,212 @@
       ],
       "relatorio": [],
       "_drillTs": "2026-07-24T12:49:31-03:00"
+    },
+    "A8055008044A": {
+      "area": 80,
+      "data": "2026-07-27",
+      "deferido": false,
+      "situacao": "Pendente de Pagamento",
+      "codgSituacao": "PENDENTE_PAGAMENTO",
+      "cassado": false,
+      "anulado": false,
+      "suspenso": false,
+      "numgProcesso": "3046056",
+      "numgSolicitacaoProjeto": "516906",
+      "qtdAnexos": 2,
+      "anexos": [
+        {
+          "id": 15663582,
+          "nome": "CBMSC_27-07-2026_15663582.pdf",
+          "desc": "COMPROVANTE DE SOLICITAÇÃO"
+        },
+        {
+          "id": 15663583,
+          "nome": "DOC_AUXILIO_27-07-2026_15663583.pdf",
+          "desc": ""
+        }
+      ],
+      "relatorio": [],
+      "_drillTs": "2026-07-27T10:40:24-03:00"
+    },
+    "A8055008043A": {
+      "area": 130.79,
+      "data": "2026-07-24",
+      "deferido": false,
+      "situacao": "Pendente de Pagamento",
+      "codgSituacao": "PENDENTE_PAGAMENTO",
+      "cassado": false,
+      "anulado": false,
+      "suspenso": false,
+      "numgProcesso": "3044770",
+      "numgSolicitacaoProjeto": "516776",
+      "qtdAnexos": 9,
+      "anexos": [
+        {
+          "id": 15655903,
+          "nome": "CBMSC_24-07-2026_15655903.pdf",
+          "desc": "COMPROVANTE DE SOLICITAÇÃO"
+        },
+        {
+          "id": 15655859,
+          "nome": "ART_10602723-9_assinado.pdf",
+          "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+        },
+        {
+          "id": 15655863,
+          "nome": "IPTU.pdf",
+          "desc": "Cópia da matrícula atualizada do imóvel"
+        },
+        {
+          "id": 15655866,
+          "nome": "Memorial Descritivo PPCI - OXENTE.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 15655898,
+          "nome": "Oxente - Brusque - São Leopoldo - PPCI-Detalhamentos.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15655897,
+          "nome": "Oxente - Brusque - São Leopoldo - PPCI-Implantação & Corte.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15655901,
+          "nome": "Oxente - Brusque - São Leopoldo - PPCI-Planta.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15655904,
+          "nome": "ANEXO_H_24-07-2026_15655904.pdf",
+          "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+        },
+        {
+          "id": 15655905,
+          "nome": "DOC_AUXILIO_24-07-2026_15655905.pdf",
+          "desc": ""
+        }
+      ],
+      "relatorio": [],
+      "_drillTs": "2026-07-27T10:40:30-03:00"
+    },
+    "A8055008042A": {
+      "area": 945.43,
+      "data": "2026-07-24",
+      "deferido": true,
+      "situacao": "Deferido",
+      "codgSituacao": "DEFERIDO",
+      "cassado": false,
+      "anulado": false,
+      "suspenso": false,
+      "numgProcesso": "3044698",
+      "numgSolicitacaoProjeto": "516768",
+      "qtdAnexos": 20,
+      "anexos": [
+        {
+          "id": 15655623,
+          "nome": "CBMSC_24-07-2026_15655623.pdf",
+          "desc": "COMPROVANTE DE SOLICITAÇÃO"
+        },
+        {
+          "id": 9503255,
+          "nome": "ART 9365634-2.pdf",
+          "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+        },
+        {
+          "id": 9503258,
+          "nome": "MEMORIAL PREVENTIVO.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 9503265,
+          "nome": "PR 01.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 9503268,
+          "nome": "PR 02.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 9503266,
+          "nome": "PR 03.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 9503270,
+          "nome": "PR 04.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 9503273,
+          "nome": "ANEXO G2 - Declaração e TR do RT - NOV_2022.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 9503274,
+          "nome": "aprovação anterior.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 15655513,
+          "nome": "ART.pdf",
+          "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+        },
+        {
+          "id": 15655568,
+          "nome": "MEMORIAL DESCRITIVO.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 15655570,
+          "nome": "PRANCHA_1_assinado (6).pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15655571,
+          "nome": "PRANCHA_2_assinado (6).pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15655572,
+          "nome": "PRANCHA_3_assinado (3).pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15655575,
+          "nome": "PRANCHA_4_assinado (2).pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15655577,
+          "nome": "CERTIFICADOS.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 15655578,
+          "nome": "PLANTA DE EMERGÊNCIA.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 15655580,
+          "nome": "PLANTA DE RISCO.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 15655624,
+          "nome": "ANEXO_H_24-07-2026_15655624.pdf",
+          "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+        },
+        {
+          "id": 15655625,
+          "nome": "DOC_AUXILIO_24-07-2026_15655625.pdf",
+          "desc": ""
+        }
+      ],
+      "relatorio": [],
+      "_drillTs": "2026-07-27T10:40:38-03:00"
     }
   }
 }
