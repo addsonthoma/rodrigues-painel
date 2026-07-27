@@ -1,59 +1,81 @@
 {
-  "timestamp": "2026-07-27T17:06:09-03:00",
+  "timestamp": "2026-07-27T18:27:37-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8045,
-      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
+      "ultimo_numero": 8047,
+      "ultima_verificacao": "2026-07-27T18:27:37-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
+      "ultima_verificacao": "2026-07-27T18:27:37-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
+      "ultima_verificacao": "2026-07-27T18:27:37-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3841,
-      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
+      "ultima_verificacao": "2026-07-27T18:27:37-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
+      "ultima_verificacao": "2026-07-27T18:27:37-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 956,
-      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
+      "ultima_verificacao": "2026-07-27T18:27:37-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7128,
-      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
+      "ultimo_numero": 7130,
+      "ultima_verificacao": "2026-07-27T18:27:37-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12876,
-      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
+      "ultima_verificacao": "2026-07-27T18:27:37-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4980,
-      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
+      "ultima_verificacao": "2026-07-27T18:27:37-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14147,
-      "ultima_verificacao": "2026-07-27T17:06:09-03:00"
+      "ultimo_numero": 14149,
+      "ultima_verificacao": "2026-07-27T18:27:37-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008047A",
+        "RE": "RE8055002561A",
+        "numgEdificacao": 187738,
+        "Nome_Edificacao": "ANDRE HORT",
+        "Logradouro": "Rua Francisco Thives de Souza",
+        "Numero": "501",
+        "Bairro": "BRUSQUE - SÃO JOÃO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-27T18:27:37-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008046A",
+        "RE": "RE8055006781A",
+        "numgEdificacao": 366263,
+        "Nome_Edificacao": "ACREDITE QUE ACONTECE - SHOWROOM PARKPLACE",
+        "Logradouro": "RODOVIA IVO SILVEIRA",
+        "Numero": "",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-27T18:27:37-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008045A",
         "RE": "RE8055006778A",
@@ -3686,6 +3708,28 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007130A",
+        "RE": "RE8163006823A",
+        "numgEdificacao": 366275,
+        "Nome_Edificacao": "Mileane Lazzarotto",
+        "Logradouro": "Rua 828",
+        "Numero": "260",
+        "Bairro": "ITAPEMA - Alto São Bento",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-27T18:27:37-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007129A",
+        "RE": "RE8163001374A",
+        "numgEdificacao": 61559,
+        "Nome_Edificacao": "Residencial Ebenezer",
+        "Logradouro": "RUA 406A",
+        "Numero": "51",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-27T18:27:37-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007128A",
         "RE": "RE8163006756A",
         "numgEdificacao": 363281,
@@ -6970,6 +7014,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014149A",
+        "RE": "RE8161011695A",
+        "numgEdificacao": 310442,
+        "Nome_Edificacao": "JVC Mercado Ltda",
+        "Logradouro": "Nono Emílio Dalcoquio",
+        "Numero": "452",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T18:27:37-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014148A",
+        "RE": "RE8161012302A",
+        "numgEdificacao": 323692,
+        "Nome_Edificacao": "ZH Administradora de Bens e Construtora Ltda",
+        "Logradouro": "Rua Albino Gugelmim",
+        "Numero": "103",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T18:27:37-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014147A",
         "RE": "RE8161013772A",
         "numgEdificacao": 366230,
@@ -8853,16 +8919,16 @@
     ]
   },
   "totais": {
-    "Brusque": 81,
+    "Brusque": 83,
     "Botuvera": 32,
     "Guabiruba": 33,
     "Gaspar": 75,
     "Porto Belo": 68,
     "Nova Trento": 40,
-    "Itapema": 81,
+    "Itapema": 83,
     "Blumenau": 134,
     "Navegantes": 83,
-    "Itajai": 171
+    "Itajai": 173
   },
-  "total_geral": 798
+  "total_geral": 804
 }

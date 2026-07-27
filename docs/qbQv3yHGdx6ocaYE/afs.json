@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-07-27T16:58:21-03:00",
+  "timestamp": "2026-07-27T18:20:35-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 853,
+      "ultimo_numero": 854,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T16:58:21-03:00"
+      "ultima_verificacao": "2026-07-27T18:20:35-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T16:58:21-03:00"
+      "ultima_verificacao": "2026-07-27T18:20:35-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T16:58:21-03:00"
+      "ultima_verificacao": "2026-07-27T18:20:35-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 534,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T16:58:21-03:00"
+      "ultima_verificacao": "2026-07-27T18:20:35-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 458,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T16:58:21-03:00"
+      "ultima_verificacao": "2026-07-27T18:20:35-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 428,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T16:58:21-03:00"
+      "ultima_verificacao": "2026-07-27T18:20:35-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1025,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T16:58:21-03:00"
+      "ultima_verificacao": "2026-07-27T18:20:35-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 968,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T16:58:21-03:00"
+      "ultima_verificacao": "2026-07-27T18:20:35-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 285,
+      "ultimo_numero": 286,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T16:58:21-03:00"
+      "ultima_verificacao": "2026-07-27T18:20:35-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1016,
+      "ultimo_numero": 1017,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-27T16:58:21-03:00"
+      "ultima_verificacao": "2026-07-27T18:20:35-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000854A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002785A",
+        "Nome_Edificacao": "RESTAURANTE",
+        "Logradouro": "Rua Manoel João Flor",
+        "Numero": "20",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-27T18:20:35-03:00"
+      },
       {
         "CodigoAuto": "AF8055000853A/26",
         "Tipo": "AF",
@@ -14007,6 +14018,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000286A/26",
+        "Tipo": "AF",
+        "RE": "RE8221001466A",
+        "Nome_Edificacao": "ADRIANA FERNANDES SODRE",
+        "Logradouro": "Avenida Prefeito José Juvenal Mafra",
+        "Numero": "123",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-27T18:20:35-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000285A/26",
         "Tipo": "AF",
         "RE": "RE8221002562A",
@@ -14899,6 +14921,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "AF8161001017A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005891A",
+        "Nome_Edificacao": "Mailson Paulo dos Santos",
+        "Logradouro": "Avenida Nilo Simas",
+        "Numero": "162",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-27T18:20:35-03:00"
+      },
       {
         "CodigoAuto": "AF8161001016A/26",
         "Tipo": "AF",
@@ -17795,7 +17828,7 @@
     ]
   },
   "totais": {
-    "Brusque": 243,
+    "Brusque": 244,
     "Botuvera": 32,
     "Guabiruba": 40,
     "Gaspar": 120,
@@ -17803,8 +17836,8 @@
     "Nova Trento": 118,
     "Itapema": 291,
     "Blumenau": 255,
-    "Navegantes": 81,
-    "Itajai": 263
+    "Navegantes": 82,
+    "Itajai": 264
   },
-  "total_geral": 1610
+  "total_geral": 1613
 }
