@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-27T22:14:29-03:00",
+  "timestamp": "2026-07-28T01:37:00-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8048,
-      "ultima_verificacao": "2026-07-27T22:14:29-03:00"
+      "ultima_verificacao": "2026-07-28T01:37:00-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-27T22:14:29-03:00"
+      "ultima_verificacao": "2026-07-28T01:37:00-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-27T22:14:29-03:00"
+      "ultima_verificacao": "2026-07-28T01:37:00-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3841,
-      "ultima_verificacao": "2026-07-27T22:14:29-03:00"
+      "ultima_verificacao": "2026-07-28T01:37:00-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-27T22:14:29-03:00"
+      "ultima_verificacao": "2026-07-28T01:37:00-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 956,
-      "ultima_verificacao": "2026-07-27T22:14:29-03:00"
+      "ultima_verificacao": "2026-07-28T01:37:00-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7132,
-      "ultima_verificacao": "2026-07-27T22:14:29-03:00"
+      "ultima_verificacao": "2026-07-28T01:37:00-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12877,
-      "ultima_verificacao": "2026-07-27T22:14:29-03:00"
+      "ultima_verificacao": "2026-07-28T01:37:00-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4980,
-      "ultima_verificacao": "2026-07-27T22:14:29-03:00"
+      "ultima_verificacao": "2026-07-28T01:37:00-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14150,
-      "ultima_verificacao": "2026-07-27T22:14:29-03:00"
+      "ultimo_numero": 14151,
+      "ultima_verificacao": "2026-07-28T01:37:00-03:00"
     }
   },
   "protocolos": {
@@ -7058,6 +7058,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014151A",
+        "RE": "RE8161013775A",
+        "numgEdificacao": 366293,
+        "Nome_Edificacao": "Gustavo Gamba",
+        "Logradouro": "Rua Moyses Jeronymo de Oliveira",
+        "Numero": "",
+        "Bairro": "ITAJAÍ - LIMOEIRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-28T01:37:00-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014150A",
         "RE": "RE8161013774A",
         "numgEdificacao": 366287,
@@ -8983,7 +8994,7 @@
     "Itapema": 85,
     "Blumenau": 135,
     "Navegantes": 83,
-    "Itajai": 174
+    "Itajai": 175
   },
-  "total_geral": 809
+  "total_geral": 810
 }
