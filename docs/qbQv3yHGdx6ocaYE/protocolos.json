@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-28T08:48:32-03:00",
+  "timestamp": "2026-07-28T09:16:40-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8048,
-      "ultima_verificacao": "2026-07-28T08:48:32-03:00"
+      "ultima_verificacao": "2026-07-28T09:16:40-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-28T08:48:32-03:00"
+      "ultima_verificacao": "2026-07-28T09:16:40-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-28T08:48:32-03:00"
+      "ultima_verificacao": "2026-07-28T09:16:40-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3841,
-      "ultima_verificacao": "2026-07-28T08:48:32-03:00"
+      "ultima_verificacao": "2026-07-28T09:16:40-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-28T08:48:32-03:00"
+      "ultima_verificacao": "2026-07-28T09:16:40-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 956,
-      "ultima_verificacao": "2026-07-28T08:48:32-03:00"
+      "ultima_verificacao": "2026-07-28T09:16:40-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7132,
-      "ultima_verificacao": "2026-07-28T08:48:32-03:00"
+      "ultima_verificacao": "2026-07-28T09:16:40-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12877,
-      "ultima_verificacao": "2026-07-28T08:48:32-03:00"
+      "ultimo_numero": 12878,
+      "ultima_verificacao": "2026-07-28T09:16:40-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4980,
-      "ultima_verificacao": "2026-07-28T08:48:32-03:00"
+      "ultima_verificacao": "2026-07-28T09:16:40-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14151,
-      "ultima_verificacao": "2026-07-28T08:48:32-03:00"
+      "ultima_verificacao": "2026-07-28T09:16:40-03:00"
     }
   },
   "protocolos": {
@@ -4656,6 +4656,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012878A",
+        "RE": "RE8047010480A",
+        "numgEdificacao": 299209,
+        "Nome_Edificacao": "Administradora de Bens D'andrade Ltda",
+        "Logradouro": "R PROFESSOR HERMANN LANGE",
+        "Numero": "",
+        "Bairro": "BLUMENAU - FIDÉLIS",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-28T09:16:40-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012877A",
         "RE": "RE8047012057A",
         "numgEdificacao": 366280,
@@ -8992,9 +9003,9 @@
     "Porto Belo": 68,
     "Nova Trento": 40,
     "Itapema": 85,
-    "Blumenau": 135,
+    "Blumenau": 136,
     "Navegantes": 83,
     "Itajai": 175
   },
-  "total_geral": 810
+  "total_geral": 811
 }
