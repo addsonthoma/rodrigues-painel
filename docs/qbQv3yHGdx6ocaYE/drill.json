@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-28T08:05:08-03:00",
-  "total": 2996,
+  "timestamp": "2026-07-28T08:33:15-03:00",
+  "total": 2998,
   "expired": true,
   "drill": {
     "AF8047000787A/25": {
@@ -57243,6 +57243,46 @@
       "codgAuto": "MUL8161000748A/25",
       "numgAuto": 457191,
       "_ts": 1785159602.6186922
+    },
+    "AF8055000854A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 308.07,
+      "cidade": "BRUSQUE",
+      "responsavel": "GARTNER LTDA",
+      "cpfCnpj": "66852368000196",
+      "celular": "47991070322",
+      "email": "andreibaumgartner@gmail.com",
+      "endereco_responsavel": "Rua Manoel João Flor, 20, São Luiz, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "10/08/2026",
+      "prazoDias": 13,
+      "bombeiroAutuacao": "Cb LUIS Fernando da Silva",
+      "bloco": "RESTAURANTE",
+      "codgAuto": "AF8055000854A/26",
+      "numgAuto": 515846,
+      "_ts": 1785238374.2317076
+    },
+    "AF8055000853A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "2600.62",
+      "cidade": "BRUSQUE",
+      "responsavel": "MEMORIAL BRUSQUE GESTÃO DE CEMITÉRIO LTDA",
+      "cpfCnpj": "36401343000105",
+      "celular": "47996521500",
+      "email": "rose@hhccontabilidade.com.br",
+      "endereco_responsavel": "Rua Nicolau Imhof, 400, São Pedro, Brusque",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "27/10/2026",
+      "prazoDias": 91,
+      "bombeiroAutuacao": "Sd FERNANDA Zamprogna",
+      "bloco": "EDFICAÇÃO 1",
+      "codgAuto": "AF8055000853A/26",
+      "numgAuto": 515782,
+      "_ts": 1785238381.9574466
     }
   }
 }
