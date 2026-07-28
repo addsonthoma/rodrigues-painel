@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-28T14:19:12-03:00",
+  "timestamp": "2026-07-28T16:10:40-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8048,
-      "ultima_verificacao": "2026-07-28T14:19:12-03:00"
+      "ultima_verificacao": "2026-07-28T16:10:40-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-28T14:19:12-03:00"
+      "ultima_verificacao": "2026-07-28T16:10:40-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-28T14:19:12-03:00"
+      "ultima_verificacao": "2026-07-28T16:10:40-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3841,
-      "ultima_verificacao": "2026-07-28T14:19:12-03:00"
+      "ultimo_numero": 3843,
+      "ultima_verificacao": "2026-07-28T16:10:40-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3349,
-      "ultima_verificacao": "2026-07-28T14:19:12-03:00"
+      "ultimo_numero": 3350,
+      "ultima_verificacao": "2026-07-28T16:10:40-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 956,
-      "ultima_verificacao": "2026-07-28T14:19:12-03:00"
+      "ultima_verificacao": "2026-07-28T16:10:40-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7132,
-      "ultima_verificacao": "2026-07-28T14:19:12-03:00"
+      "ultima_verificacao": "2026-07-28T16:10:40-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12878,
-      "ultima_verificacao": "2026-07-28T14:19:12-03:00"
+      "ultimo_numero": 12884,
+      "ultima_verificacao": "2026-07-28T16:10:40-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4980,
-      "ultima_verificacao": "2026-07-28T14:19:12-03:00"
+      "ultimo_numero": 4982,
+      "ultima_verificacao": "2026-07-28T16:10:40-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14151,
-      "ultima_verificacao": "2026-07-28T14:19:12-03:00"
+      "ultimo_numero": 14157,
+      "ultima_verificacao": "2026-07-28T16:10:40-03:00"
     }
   },
   "protocolos": {
@@ -1700,6 +1700,28 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003843A",
+        "RE": "RE8117003265A",
+        "numgEdificacao": 366306,
+        "Nome_Edificacao": "VANIR TESTONI",
+        "Logradouro": "Rua Frei Solano",
+        "Numero": "",
+        "Bairro": "GASPAR - Alto Gasparinho",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003842A",
+        "RE": "RE8117000099A",
+        "numgEdificacao": 4794,
+        "Nome_Edificacao": "FAZZENDA PARK HOTEL",
+        "Logradouro": "Rua João Mathias Zimmermann 2299",
+        "Numero": "2299",
+        "Bairro": "GASPAR - ALTO GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003841A",
         "RE": "RE8117003253A",
         "numgEdificacao": 365053,
@@ -2526,6 +2548,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003350A",
+        "RE": "RE8265000044A",
+        "numgEdificacao": 11169,
+        "Nome_Edificacao": "MAGNIFIQUE RESIDENCE",
+        "Logradouro": "AVENIDA SENADOR ATÍLIO FONTANA, RUA GERALDO MARQUES BRANQUINHO; RUA GOIAS",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003349A",
         "RE": "RE8265001635A",
@@ -4656,6 +4689,72 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012884A",
+        "RE": "RE8047002002A",
+        "numgEdificacao": 106588,
+        "Nome_Edificacao": "CENTRO COMUNITÁRIO DO GARCIA",
+        "Logradouro": "Rua da Glória",
+        "Numero": "459",
+        "Bairro": "BLUMENAU - GLÓRIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012883A",
+        "RE": "RE8047003407A",
+        "numgEdificacao": 125726,
+        "Nome_Edificacao": "FAST CAR CARE ESTETICA AUTOMOTIVA LTDA",
+        "Logradouro": "Rua República Argentina",
+        "Numero": "2103",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012882A",
+        "RE": "RE8047012062A",
+        "numgEdificacao": 366355,
+        "Nome_Edificacao": "SIMAS, MARCOS MURILO",
+        "Logradouro": "RUA DAS MISSOES",
+        "Numero": "1294",
+        "Bairro": "BLUMENAU - Ponta Aguda",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012881A",
+        "RE": "RE8047012060A",
+        "numgEdificacao": 366349,
+        "Nome_Edificacao": "GREGÓRIO VALENTIM DA COSTA",
+        "Logradouro": "Rua Theodoro Holtrup",
+        "Numero": "313",
+        "Bairro": "BLUMENAU - Vila Nova",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012880A",
+        "RE": "RE8047012058A",
+        "numgEdificacao": 366307,
+        "Nome_Edificacao": "DEBATIN ADMINISTRADORA LTDA",
+        "Logradouro": "JOSÉ REUTER",
+        "Numero": "",
+        "Bairro": "BLUMENAU - VELHA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012879A",
+        "RE": "RE8047005746A",
+        "numgEdificacao": 173357,
+        "Nome_Edificacao": "JURACI GRACILIDES KRAUS",
+        "Logradouro": "RUA FRANCISCO VAHLDIECK",
+        "Numero": "1265",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012878A",
         "RE": "RE8047010480A",
         "numgEdificacao": 299209,
@@ -6154,6 +6253,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004982A",
+        "RE": "RE8221004117A",
+        "numgEdificacao": 365892,
+        "Nome_Edificacao": "RESIDENCIAL VITTALE",
+        "Logradouro": "RUA ALDO MARIO DE ALMEIDA",
+        "Numero": "181",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004981A",
+        "RE": "RE8221003546A",
+        "numgEdificacao": 323740,
+        "Nome_Edificacao": "Arlindo Delaudino Martins Dias",
+        "Logradouro": "R ORLANDO FERREIRA",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004980A",
         "RE": "RE8221004103A",
         "numgEdificacao": 365192,
@@ -7068,6 +7189,72 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014157A",
+        "RE": "RE8161001926A",
+        "numgEdificacao": 63299,
+        "Nome_Edificacao": "AÇOBENS ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Av Dr Reinaldo schmithausen",
+        "Numero": "587",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014156A",
+        "RE": "RE8161008659A",
+        "numgEdificacao": 230289,
+        "Nome_Edificacao": "RENATO",
+        "Logradouro": "RUA ANTONIO CARLOS PEREIRA LEAO",
+        "Numero": "572",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014155A",
+        "RE": "RE8161000130A",
+        "numgEdificacao": 4215,
+        "Nome_Edificacao": "comercio Hillesheim LTDA. ME.",
+        "Logradouro": "Rua Indaial",
+        "Numero": "530",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014154A",
+        "RE": "RE8161013777A",
+        "numgEdificacao": 366325,
+        "Nome_Edificacao": "GALPÃO  EMA APARECIDA PIRES JULIO",
+        "Logradouro": "RUA ANTONIO ADÃO DIAS",
+        "Numero": "777",
+        "Bairro": "ITAJAÍ - SÃO JUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014153A",
+        "RE": "RE8161013776A",
+        "numgEdificacao": 366308,
+        "Nome_Edificacao": "Márcio Tiago Azevedo",
+        "Logradouro": "RUA SOROCABA",
+        "Numero": "427",
+        "Bairro": "ITAJAÍ - LIMOEIRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014152A",
+        "RE": "RE8161012602A",
+        "numgEdificacao": 332442,
+        "Nome_Edificacao": "ASSOCIACAO DE AMPARO AS PESSOAS COM CANCER",
+        "Logradouro": "Rua Wandelino Winter",
+        "Numero": "78",
+        "Bairro": "ITAJAÍ - SÃO JUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-28T16:10:40-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014151A",
         "RE": "RE8161013775A",
@@ -8999,13 +9186,13 @@
     "Brusque": 84,
     "Botuvera": 32,
     "Guabiruba": 33,
-    "Gaspar": 75,
-    "Porto Belo": 68,
+    "Gaspar": 77,
+    "Porto Belo": 69,
     "Nova Trento": 40,
     "Itapema": 85,
-    "Blumenau": 136,
-    "Navegantes": 83,
-    "Itajai": 175
+    "Blumenau": 142,
+    "Navegantes": 85,
+    "Itajai": 181
   },
-  "total_geral": 811
+  "total_geral": 828
 }
