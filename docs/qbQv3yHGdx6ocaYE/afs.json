@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-07-28T16:47:59-03:00",
+  "timestamp": "2026-07-28T18:04:52-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 858,
+      "ultimo_numero": 859,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-28T16:47:59-03:00"
+      "ultima_verificacao": "2026-07-28T18:04:52-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-28T16:47:59-03:00"
+      "ultima_verificacao": "2026-07-28T18:04:52-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-28T16:47:59-03:00"
+      "ultima_verificacao": "2026-07-28T18:04:52-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 535,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-28T16:47:59-03:00"
+      "ultima_verificacao": "2026-07-28T18:04:52-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 461,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-28T16:47:59-03:00"
+      "ultima_verificacao": "2026-07-28T18:04:52-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 428,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-28T16:47:59-03:00"
+      "ultima_verificacao": "2026-07-28T18:04:52-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1028,
+      "ultimo_numero": 1029,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-28T16:47:59-03:00"
+      "ultima_verificacao": "2026-07-28T18:04:52-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 971,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-28T16:47:59-03:00"
+      "ultima_verificacao": "2026-07-28T18:04:52-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 287,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-28T16:47:59-03:00"
+      "ultima_verificacao": "2026-07-28T18:04:52-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1030,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-28T16:47:59-03:00"
+      "ultima_verificacao": "2026-07-28T18:04:52-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000859A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000522A",
+        "Nome_Edificacao": "SALAS COMERCIAIS AO LADO VIACREDI",
+        "Logradouro": "Rua do Cedro",
+        "Numero": "1237",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-28T18:04:52-03:00"
+      },
       {
         "CodigoAuto": "AF8055000858A/26",
         "Tipo": "AF",
@@ -8095,6 +8106,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001029A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002547A",
+        "Nome_Edificacao": "RESIDENCIAL COLINAS DE ITAPEMA",
+        "Logradouro": "rua 810 B",
+        "Numero": "358",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-28T18:04:52-03:00"
+      },
       {
         "CodigoAuto": "AF8163001028A/26",
         "Tipo": "AF",
@@ -18136,16 +18158,16 @@
     ]
   },
   "totais": {
-    "Brusque": 248,
+    "Brusque": 249,
     "Botuvera": 32,
     "Guabiruba": 40,
     "Gaspar": 121,
     "Porto Belo": 170,
     "Nova Trento": 118,
-    "Itapema": 294,
+    "Itapema": 295,
     "Blumenau": 258,
     "Navegantes": 83,
     "Itajai": 277
   },
-  "total_geral": 1641
+  "total_geral": 1643
 }

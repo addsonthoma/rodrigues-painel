@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-28T16:56:19-03:00",
+  "timestamp": "2026-07-28T18:14:33-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8048,
-      "ultima_verificacao": "2026-07-28T16:56:19-03:00"
+      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-28T16:56:19-03:00"
+      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-28T16:56:19-03:00"
+      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3843,
-      "ultima_verificacao": "2026-07-28T16:56:19-03:00"
+      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-28T16:56:19-03:00"
+      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 956,
-      "ultima_verificacao": "2026-07-28T16:56:19-03:00"
+      "ultimo_numero": 958,
+      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7132,
-      "ultima_verificacao": "2026-07-28T16:56:19-03:00"
+      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12884,
-      "ultima_verificacao": "2026-07-28T16:56:19-03:00"
+      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4982,
-      "ultima_verificacao": "2026-07-28T16:56:19-03:00"
+      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14157,
-      "ultima_verificacao": "2026-07-28T16:56:19-03:00"
+      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
     }
   },
   "protocolos": {
@@ -3309,6 +3309,28 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000958A",
+        "RE": "RE8225000819A",
+        "numgEdificacao": 366234,
+        "Nome_Edificacao": "SÍTIO SCALVIM",
+        "Logradouro": "RUA PAULO SCALVIM",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-28T18:14:33-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8225000957A",
+        "RE": "RE8225000819A",
+        "numgEdificacao": 366234,
+        "Nome_Edificacao": "SÍTIO SCALVIM",
+        "Logradouro": "RUA PAULO SCALVIM",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-28T18:14:33-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000956A",
         "RE": "RE8225000683A",
@@ -9188,11 +9210,11 @@
     "Guabiruba": 33,
     "Gaspar": 77,
     "Porto Belo": 69,
-    "Nova Trento": 40,
+    "Nova Trento": 42,
     "Itapema": 85,
     "Blumenau": 142,
     "Navegantes": 85,
     "Itajai": 181
   },
-  "total_geral": 828
+  "total_geral": 830
 }
