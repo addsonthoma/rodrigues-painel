@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-28T18:14:33-03:00",
+  "timestamp": "2026-07-28T19:21:36-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8048,
-      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
+      "ultima_verificacao": "2026-07-28T19:21:36-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
+      "ultima_verificacao": "2026-07-28T19:21:36-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
+      "ultima_verificacao": "2026-07-28T19:21:36-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3843,
-      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
+      "ultima_verificacao": "2026-07-28T19:21:36-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
+      "ultima_verificacao": "2026-07-28T19:21:36-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
+      "ultima_verificacao": "2026-07-28T19:21:36-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7132,
-      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
+      "ultima_verificacao": "2026-07-28T19:21:36-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12884,
-      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
+      "ultima_verificacao": "2026-07-28T19:21:36-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4982,
-      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
+      "ultima_verificacao": "2026-07-28T19:21:36-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14157,
-      "ultima_verificacao": "2026-07-28T18:14:33-03:00"
+      "ultimo_numero": 14158,
+      "ultima_verificacao": "2026-07-28T19:21:36-03:00"
     }
   },
   "protocolos": {
@@ -7212,6 +7212,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014158A",
+        "RE": "RE8161002257A",
+        "numgEdificacao": 75067,
+        "Nome_Edificacao": "AGENOR ZERMIANI",
+        "Logradouro": "RODOVIA BR-101",
+        "Numero": "920",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-28T19:21:36-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014157A",
         "RE": "RE8161001926A",
         "numgEdificacao": 63299,
@@ -9214,7 +9225,7 @@
     "Itapema": 85,
     "Blumenau": 142,
     "Navegantes": 85,
-    "Itajai": 181
+    "Itajai": 182
   },
-  "total_geral": 830
+  "total_geral": 831
 }
