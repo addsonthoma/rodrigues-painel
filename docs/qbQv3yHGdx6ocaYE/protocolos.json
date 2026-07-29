@@ -1,59 +1,81 @@
 {
-  "timestamp": "2026-07-28T20:26:49-03:00",
+  "timestamp": "2026-07-28T21:21:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8048,
-      "ultima_verificacao": "2026-07-28T20:26:49-03:00"
+      "ultimo_numero": 8050,
+      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-28T20:26:49-03:00"
+      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-28T20:26:49-03:00"
+      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3843,
-      "ultima_verificacao": "2026-07-28T20:26:49-03:00"
+      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-28T20:26:49-03:00"
+      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-28T20:26:49-03:00"
+      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7132,
-      "ultima_verificacao": "2026-07-28T20:26:49-03:00"
+      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12884,
-      "ultima_verificacao": "2026-07-28T20:26:49-03:00"
+      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4982,
-      "ultima_verificacao": "2026-07-28T20:26:49-03:00"
+      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14158,
-      "ultima_verificacao": "2026-07-28T20:26:49-03:00"
+      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008050A",
+        "RE": "RE8055003778A",
+        "numgEdificacao": 242994,
+        "Nome_Edificacao": "Vilma Roux",
+        "Logradouro": "R AZAMBUJA",
+        "Numero": "26",
+        "Bairro": "BRUSQUE - AZAMBUJA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-28T21:21:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008049A",
+        "RE": "RE8055006783A",
+        "numgEdificacao": 366397,
+        "Nome_Edificacao": "JB & TNH ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "MELCHIOR SCHLINDWEIN",
+        "Numero": "125",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-28T21:21:58-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008048A",
         "RE": "RE8055006782A",
@@ -9216,7 +9238,7 @@
     ]
   },
   "totais": {
-    "Brusque": 84,
+    "Brusque": 86,
     "Botuvera": 32,
     "Guabiruba": 33,
     "Gaspar": 77,
@@ -9227,5 +9249,5 @@
     "Navegantes": 85,
     "Itajai": 182
   },
-  "total_geral": 831
+  "total_geral": 833
 }
