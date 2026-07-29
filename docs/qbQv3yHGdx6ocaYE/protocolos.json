@@ -1,59 +1,92 @@
 {
-  "timestamp": "2026-07-29T15:17:22-03:00",
+  "timestamp": "2026-07-29T16:54:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8050,
-      "ultima_verificacao": "2026-07-29T15:17:22-03:00"
+      "ultimo_numero": 8053,
+      "ultima_verificacao": "2026-07-29T16:54:20-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-29T15:17:22-03:00"
+      "ultima_verificacao": "2026-07-29T16:54:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-29T15:17:22-03:00"
+      "ultima_verificacao": "2026-07-29T16:54:20-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3846,
-      "ultima_verificacao": "2026-07-29T15:17:22-03:00"
+      "ultima_verificacao": "2026-07-29T16:54:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-29T15:17:22-03:00"
+      "ultima_verificacao": "2026-07-29T16:54:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-29T15:17:22-03:00"
+      "ultima_verificacao": "2026-07-29T16:54:20-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7134,
-      "ultima_verificacao": "2026-07-29T15:17:22-03:00"
+      "ultimo_numero": 7135,
+      "ultima_verificacao": "2026-07-29T16:54:20-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12885,
-      "ultima_verificacao": "2026-07-29T15:17:22-03:00"
+      "ultima_verificacao": "2026-07-29T16:54:20-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4982,
-      "ultima_verificacao": "2026-07-29T15:17:22-03:00"
+      "ultima_verificacao": "2026-07-29T16:54:20-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14164,
-      "ultima_verificacao": "2026-07-29T15:17:22-03:00"
+      "ultima_verificacao": "2026-07-29T16:54:20-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008053A",
+        "RE": "RE8055006784A",
+        "numgEdificacao": 366474,
+        "Nome_Edificacao": "GALPÕES HEP HOLDING",
+        "Logradouro": "AV ADEMAR VICENTE KNIHS",
+        "Numero": "100",
+        "Bairro": "BRUSQUE - STEFFEN",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-29T16:54:20-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008052A",
+        "RE": "RE8055006784A",
+        "numgEdificacao": 366474,
+        "Nome_Edificacao": "GALPÕES HEP HOLDING",
+        "Logradouro": "AV ADEMAR VICENTE KNIHS",
+        "Numero": "100",
+        "Bairro": "BRUSQUE - STEFFEN",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-29T16:54:20-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008051A",
+        "RE": "RE8055006784A",
+        "numgEdificacao": 366474,
+        "Nome_Edificacao": "GALPÕES HEP HOLDING",
+        "Logradouro": "AV ADEMAR VICENTE KNIHS",
+        "Numero": "100",
+        "Bairro": "BRUSQUE - STEFFEN",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-29T16:54:20-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008050A",
         "RE": "RE8055003778A",
@@ -3828,6 +3861,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007135A",
+        "RE": "RE8163006833A",
+        "numgEdificacao": 366493,
+        "Nome_Edificacao": "SOUZA'S EMPREENDIMENTOS IMOBILIARIOS LTDA",
+        "Logradouro": "AV. SANTA CATARINA",
+        "Numero": "",
+        "Bairro": "ITAPEMA - JARDIM PRAIA MAR",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-29T16:54:20-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007134A",
         "RE": "RE8163006827A",
@@ -9370,16 +9414,16 @@
     ]
   },
   "totais": {
-    "Brusque": 86,
+    "Brusque": 89,
     "Botuvera": 32,
     "Guabiruba": 33,
     "Gaspar": 80,
     "Porto Belo": 69,
     "Nova Trento": 42,
-    "Itapema": 87,
+    "Itapema": 88,
     "Blumenau": 143,
     "Navegantes": 85,
     "Itajai": 188
   },
-  "total_geral": 845
+  "total_geral": 849
 }
