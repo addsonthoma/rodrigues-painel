@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-29T17:51:42-03:00",
+  "timestamp": "2026-07-29T18:49:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8053,
-      "ultima_verificacao": "2026-07-29T17:51:42-03:00"
+      "ultima_verificacao": "2026-07-29T18:49:04-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-29T17:51:42-03:00"
+      "ultima_verificacao": "2026-07-29T18:49:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-29T17:51:42-03:00"
+      "ultima_verificacao": "2026-07-29T18:49:04-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3846,
-      "ultima_verificacao": "2026-07-29T17:51:42-03:00"
+      "ultima_verificacao": "2026-07-29T18:49:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-29T17:51:42-03:00"
+      "ultima_verificacao": "2026-07-29T18:49:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-29T17:51:42-03:00"
+      "ultima_verificacao": "2026-07-29T18:49:04-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7135,
-      "ultima_verificacao": "2026-07-29T17:51:42-03:00"
+      "ultimo_numero": 7136,
+      "ultima_verificacao": "2026-07-29T18:49:04-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12885,
-      "ultima_verificacao": "2026-07-29T17:51:42-03:00"
+      "ultima_verificacao": "2026-07-29T18:49:04-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4982,
-      "ultima_verificacao": "2026-07-29T17:51:42-03:00"
+      "ultima_verificacao": "2026-07-29T18:49:04-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14164,
-      "ultima_verificacao": "2026-07-29T17:51:42-03:00"
+      "ultima_verificacao": "2026-07-29T18:49:04-03:00"
     }
   },
   "protocolos": {
@@ -3861,6 +3861,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007136A",
+        "RE": "RE8163006834A",
+        "numgEdificacao": 366518,
+        "Nome_Edificacao": "HUMBERTO CADORI",
+        "Logradouro": "Rua 700",
+        "Numero": "157",
+        "Bairro": "ITAPEMA - VARZEA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-29T18:49:04-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007135A",
         "RE": "RE8163006833A",
@@ -9420,10 +9431,10 @@
     "Gaspar": 80,
     "Porto Belo": 69,
     "Nova Trento": 42,
-    "Itapema": 88,
+    "Itapema": 89,
     "Blumenau": 143,
     "Navegantes": 85,
     "Itajai": 188
   },
-  "total_geral": 849
+  "total_geral": 850
 }
