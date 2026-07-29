@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-29T13:54:04-03:00",
+  "timestamp": "2026-07-29T15:08:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
+      "ultima_verificacao": "2026-07-29T15:08:27-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
+      "ultima_verificacao": "2026-07-29T15:08:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
+      "ultima_verificacao": "2026-07-29T15:08:27-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
+      "ultima_verificacao": "2026-07-29T15:08:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 95,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
+      "ultima_verificacao": "2026-07-29T15:08:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 115,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
+      "ultima_verificacao": "2026-07-29T15:08:27-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 167,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
+      "ultima_verificacao": "2026-07-29T15:08:27-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 202,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
+      "ultima_verificacao": "2026-07-29T15:08:27-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 80,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
+      "ultima_verificacao": "2026-07-29T15:08:27-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 387,
+      "ultimo_numero": 391,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
+      "ultima_verificacao": "2026-07-29T15:08:27-03:00"
     }
   },
   "multas": {
@@ -1443,6 +1443,46 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000388A/26",
+        "RE": "RE8161001226A",
+        "Nome_Edificacao": "RONCELLI ARTEFATOS DE CIMENTO E CONSTRUÇÕES LTDA",
+        "Logradouro": "Rua Francisco Boaventura da Silva",
+        "Numero": "256",
+        "Bairro": "ITAJAÍ - RIO DO MEIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-29T15:08:27-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000389A/26",
+        "RE": "RE8161004677A",
+        "Nome_Edificacao": "PIZZARIA DO FUTURO",
+        "Logradouro": "R INDAIAL",
+        "Numero": "1639",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-29T15:08:27-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000390A/26",
+        "RE": "RE8161002044A",
+        "Nome_Edificacao": "HAMILTON PEDRO TURNES",
+        "Logradouro": "Avenida Sete de Setembro",
+        "Numero": "1541",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-29T15:08:27-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000391A/26",
+        "RE": "RE8161011726A",
+        "Nome_Edificacao": "7 BARBAS PESCADOS",
+        "Logradouro": "RUA CESAR AUGUSTO DALSOQUIO",
+        "Numero": "1149",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-29T15:08:27-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000387A/26",
         "RE": "RE8161005183A",
@@ -4047,14 +4087,42 @@
     "Brusque": 50,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 105,
+    "Itajai": 109,
     "Itapema": 50,
     "Navegantes": 42,
     "Nova Trento": 32,
     "Porto Belo": 38
   },
-  "total_geral": 408,
+  "total_geral": 412,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-29T15:08:27-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000391A/26",
+      "nome": "7 BARBAS PESCADOS",
+      "re": "RE8161011726A"
+    },
+    {
+      "ts": "2026-07-29T15:08:27-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000390A/26",
+      "nome": "HAMILTON PEDRO TURNES",
+      "re": "RE8161002044A"
+    },
+    {
+      "ts": "2026-07-29T15:08:27-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000389A/26",
+      "nome": "PIZZARIA DO FUTURO",
+      "re": "RE8161004677A"
+    },
+    {
+      "ts": "2026-07-29T15:08:27-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000388A/26",
+      "nome": "RONCELLI ARTEFATOS DE CIMENTO E CONSTRUÇÕES LTDA",
+      "re": "RE8161001226A"
+    },
     {
       "ts": "2026-07-29T13:54:04-03:00",
       "cidade": "Itajai",
@@ -4264,13 +4332,6 @@
       "codigo": "MUL8161000377A/26",
       "nome": "EDNA MACHADO DOS SANTOS",
       "re": "RE8161011439A"
-    },
-    {
-      "ts": "2026-07-22T15:08:17-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000195A/26",
-      "nome": "ADIRÇO REGUEIRA",
-      "re": "RE8047007605A"
     }
   ]
 }
