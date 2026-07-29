@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-29T12:40:34-03:00",
+  "timestamp": "2026-07-29T14:03:32-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8050,
-      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
+      "ultima_verificacao": "2026-07-29T14:03:32-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
+      "ultima_verificacao": "2026-07-29T14:03:32-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
+      "ultima_verificacao": "2026-07-29T14:03:32-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3845,
-      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
+      "ultima_verificacao": "2026-07-29T14:03:32-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
+      "ultima_verificacao": "2026-07-29T14:03:32-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
+      "ultima_verificacao": "2026-07-29T14:03:32-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7133,
-      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
+      "ultima_verificacao": "2026-07-29T14:03:32-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12884,
-      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
+      "ultimo_numero": 12885,
+      "ultima_verificacao": "2026-07-29T14:03:32-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4982,
-      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
+      "ultima_verificacao": "2026-07-29T14:03:32-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14162,
-      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
+      "ultimo_numero": 14164,
+      "ultima_verificacao": "2026-07-29T14:03:32-03:00"
     }
   },
   "protocolos": {
@@ -4766,6 +4766,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012885A",
+        "RE": "RE8047009932A",
+        "numgEdificacao": 279887,
+        "Nome_Edificacao": "ROBERTO LEITZKE",
+        "Logradouro": "RUA 2 DE SETEMBRO",
+        "Numero": "3871",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-29T14:03:32-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012884A",
         "RE": "RE8047002002A",
         "numgEdificacao": 106588,
@@ -7267,6 +7278,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014164A",
+        "RE": "RE8161013781A",
+        "numgEdificacao": 366428,
+        "Nome_Edificacao": "FAST PARTICIPAÇÕES LTDA",
+        "Logradouro": "R RENATO MERLIM CUNHA",
+        "Numero": "98",
+        "Bairro": "ITAJAÍ - PRAIA BRAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-29T14:03:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014163A",
+        "RE": "RE8161013778A",
+        "numgEdificacao": 366332,
+        "Nome_Edificacao": "JUNGHEINRICH LIFT TRUCK - COMERCIO DE EMPILHADEIRAS LTDA",
+        "Logradouro": "RODOVIA JORGE LACERDA",
+        "Numero": "1340",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-29T14:03:32-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014162A",
         "RE": "RE8161011084A",
         "numgEdificacao": 295266,
@@ -9322,9 +9355,9 @@
     "Porto Belo": 69,
     "Nova Trento": 42,
     "Itapema": 86,
-    "Blumenau": 142,
+    "Blumenau": 143,
     "Navegantes": 85,
-    "Itajai": 186
+    "Itajai": 188
   },
-  "total_geral": 840
+  "total_geral": 843
 }

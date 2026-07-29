@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-07-29T12:32:22-03:00",
+  "timestamp": "2026-07-29T13:54:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 103,
+      "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T12:32:22-03:00"
+      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T12:32:22-03:00"
+      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T12:32:22-03:00"
+      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T12:32:22-03:00"
+      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 95,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T12:32:22-03:00"
+      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 115,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T12:32:22-03:00"
+      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 167,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T12:32:22-03:00"
+      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 202,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T12:32:22-03:00"
+      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 80,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T12:32:22-03:00"
+      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 386,
+      "ultimo_numero": 387,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-29T12:32:22-03:00"
+      "ultima_verificacao": "2026-07-29T13:54:04-03:00"
     }
   },
   "multas": {
@@ -761,6 +761,26 @@
     ],
     "Brusque": [
       {
+        "CodigoAuto": "MUL8055000104A/26",
+        "RE": "RE8055001135A",
+        "Nome_Edificacao": "CASSANIGA INCORP. DE EMPREEND. IMOB. LTDA",
+        "Logradouro": "Avenida Primeiro de Maio",
+        "Numero": "38",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-29T13:54:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000105A/26",
+        "RE": "RE8055001135A",
+        "Nome_Edificacao": "CASSANIGA INCORP. DE EMPREEND. IMOB. LTDA",
+        "Logradouro": "Avenida Primeiro de Maio",
+        "Numero": "38",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-29T13:54:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8055000102A/26",
         "RE": "RE8055001168A",
         "Nome_Edificacao": "LE MUND",
@@ -1423,6 +1443,16 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000387A/26",
+        "RE": "RE8161005183A",
+        "Nome_Edificacao": "GIANNI YURI BOEING",
+        "Logradouro": "RODOVIA BR-101",
+        "Numero": "3000",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-29T13:54:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000386A/26",
         "RE": "RE8161005842A",
@@ -4014,17 +4044,38 @@
   "totais": {
     "Blumenau": 67,
     "Botuvera": 3,
-    "Brusque": 48,
+    "Brusque": 50,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 104,
+    "Itajai": 105,
     "Itapema": 50,
     "Navegantes": 42,
     "Nova Trento": 32,
     "Porto Belo": 38
   },
-  "total_geral": 405,
+  "total_geral": 408,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-29T13:54:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000387A/26",
+      "nome": "GIANNI YURI BOEING",
+      "re": "RE8161005183A"
+    },
+    {
+      "ts": "2026-07-29T13:54:04-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000105A/26",
+      "nome": "CASSANIGA INCORP. DE EMPREEND. IMOB. LTDA",
+      "re": "RE8055001135A"
+    },
+    {
+      "ts": "2026-07-29T13:54:04-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000104A/26",
+      "nome": "CASSANIGA INCORP. DE EMPREEND. IMOB. LTDA",
+      "re": "RE8055001135A"
+    },
     {
       "ts": "2026-07-28T16:00:24-03:00",
       "cidade": "Blumenau",
@@ -4220,20 +4271,6 @@
       "codigo": "MUL8047000195A/26",
       "nome": "ADIRÇO REGUEIRA",
       "re": "RE8047007605A"
-    },
-    {
-      "ts": "2026-07-22T13:53:54-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000165A/26",
-      "nome": "Residencial Black Piano",
-      "re": "RE8163000123A"
-    },
-    {
-      "ts": "2026-07-22T13:53:54-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000164A/26",
-      "nome": "RES. SALETE",
-      "re": "RE8163000577A"
     }
   ]
 }
