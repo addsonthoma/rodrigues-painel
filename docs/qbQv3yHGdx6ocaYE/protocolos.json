@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-29T10:34:32-03:00",
+  "timestamp": "2026-07-29T12:40:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8050,
-      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
+      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
+      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
+      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3844,
-      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
+      "ultimo_numero": 3845,
+      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
+      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
+      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7133,
-      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
+      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12884,
-      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
+      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4982,
-      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
+      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14159,
-      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
+      "ultimo_numero": 14162,
+      "ultima_verificacao": "2026-07-29T12:40:34-03:00"
     }
   },
   "protocolos": {
@@ -1721,6 +1721,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003845A",
+        "RE": "RE8117001430A",
+        "numgEdificacao": 194605,
+        "Nome_Edificacao": "F6 HOLDING LTDA",
+        "Logradouro": "Rua Jacob Junkes",
+        "Numero": "515",
+        "Bairro": "GASPAR - Santa Terezinha",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-29T12:40:34-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003844A",
         "RE": "RE8117000326A",
@@ -7256,6 +7267,39 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014162A",
+        "RE": "RE8161011084A",
+        "numgEdificacao": 295266,
+        "Nome_Edificacao": "MAGDA APARECIDA DE ALMEIDA",
+        "Logradouro": "Avenida Nilo Bittencourt",
+        "Numero": "906",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-29T12:40:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014161A",
+        "RE": "RE8161013780A",
+        "numgEdificacao": 366423,
+        "Nome_Edificacao": "CINTHIA ESTEVÃO DA CRUZ",
+        "Logradouro": "R GASPAR DA COSTA MORAES",
+        "Numero": "116",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-29T12:40:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014160A",
+        "RE": "RE8161005624A",
+        "numgEdificacao": 162392,
+        "Nome_Edificacao": "ED. SUN SEEKER",
+        "Logradouro": "Rua Miguel Francisco Borges",
+        "Numero": "",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-29T12:40:34-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014159A",
         "RE": "RE8161000621A",
         "numgEdificacao": 17012,
@@ -9274,13 +9318,13 @@
     "Brusque": 86,
     "Botuvera": 32,
     "Guabiruba": 33,
-    "Gaspar": 78,
+    "Gaspar": 79,
     "Porto Belo": 69,
     "Nova Trento": 42,
     "Itapema": 86,
     "Blumenau": 142,
     "Navegantes": 85,
-    "Itajai": 183
+    "Itajai": 186
   },
-  "total_geral": 836
+  "total_geral": 840
 }
