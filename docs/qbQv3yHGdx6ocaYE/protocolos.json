@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-28T21:21:58-03:00",
+  "timestamp": "2026-07-29T00:53:41-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8050,
-      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
+      "ultima_verificacao": "2026-07-29T00:53:41-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
+      "ultima_verificacao": "2026-07-29T00:53:41-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
+      "ultima_verificacao": "2026-07-29T00:53:41-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3843,
-      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
+      "ultima_verificacao": "2026-07-29T00:53:41-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
+      "ultima_verificacao": "2026-07-29T00:53:41-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
+      "ultima_verificacao": "2026-07-29T00:53:41-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7132,
-      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
+      "ultimo_numero": 7133,
+      "ultima_verificacao": "2026-07-29T00:53:41-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12884,
-      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
+      "ultima_verificacao": "2026-07-29T00:53:41-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4982,
-      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
+      "ultima_verificacao": "2026-07-29T00:53:41-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14158,
-      "ultima_verificacao": "2026-07-28T21:21:58-03:00"
+      "ultima_verificacao": "2026-07-29T00:53:41-03:00"
     }
   },
   "protocolos": {
@@ -3795,6 +3795,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007133A",
+        "RE": "RE8163006686A",
+        "numgEdificacao": 359220,
+        "Nome_Edificacao": "PEDRO COELHO",
+        "Logradouro": "RUA 882",
+        "Numero": "2",
+        "Bairro": "ITAPEMA - CASA BRANCA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-29T00:53:41-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007132A",
         "RE": "RE8163006825A",
@@ -9244,10 +9255,10 @@
     "Gaspar": 77,
     "Porto Belo": 69,
     "Nova Trento": 42,
-    "Itapema": 85,
+    "Itapema": 86,
     "Blumenau": 142,
     "Navegantes": 85,
     "Itajai": 182
   },
-  "total_geral": 833
+  "total_geral": 834
 }
