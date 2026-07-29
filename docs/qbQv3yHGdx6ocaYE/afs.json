@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-07-29T08:39:35-03:00",
+  "timestamp": "2026-07-29T10:26:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 861,
+      "ultimo_numero": 862,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-29T08:39:35-03:00"
+      "ultima_verificacao": "2026-07-29T10:26:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-29T08:39:35-03:00"
+      "ultima_verificacao": "2026-07-29T10:26:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-29T08:39:35-03:00"
+      "ultima_verificacao": "2026-07-29T10:26:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 535,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-29T08:39:35-03:00"
+      "ultima_verificacao": "2026-07-29T10:26:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 461,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-29T08:39:35-03:00"
+      "ultima_verificacao": "2026-07-29T10:26:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 428,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-29T08:39:35-03:00"
+      "ultima_verificacao": "2026-07-29T10:26:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1029,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-29T08:39:35-03:00"
+      "ultima_verificacao": "2026-07-29T10:26:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 971,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-29T08:39:35-03:00"
+      "ultima_verificacao": "2026-07-29T10:26:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 287,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-29T08:39:35-03:00"
+      "ultima_verificacao": "2026-07-29T10:26:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1031,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-29T08:39:35-03:00"
+      "ultima_verificacao": "2026-07-29T10:26:03-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000862A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000357A",
+        "Nome_Edificacao": "Marroni Confecções Ltda",
+        "Logradouro": "Rua Ernesto Bianchini",
+        "Numero": "800",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-29T10:26:03-03:00"
+      },
       {
         "CodigoAuto": "AF8055000861A/26",
         "Tipo": "AF",
@@ -18191,7 +18202,7 @@
     ]
   },
   "totais": {
-    "Brusque": 251,
+    "Brusque": 252,
     "Botuvera": 32,
     "Guabiruba": 40,
     "Gaspar": 121,
@@ -18202,5 +18213,5 @@
     "Navegantes": 83,
     "Itajai": 278
   },
-  "total_geral": 1646
+  "total_geral": 1647
 }

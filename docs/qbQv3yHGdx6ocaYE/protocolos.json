@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-29T08:47:03-03:00",
+  "timestamp": "2026-07-29T10:34:32-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8050,
-      "ultima_verificacao": "2026-07-29T08:47:03-03:00"
+      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-29T08:47:03-03:00"
+      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-29T08:47:03-03:00"
+      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3843,
-      "ultima_verificacao": "2026-07-29T08:47:03-03:00"
+      "ultimo_numero": 3844,
+      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-29T08:47:03-03:00"
+      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-29T08:47:03-03:00"
+      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7133,
-      "ultima_verificacao": "2026-07-29T08:47:03-03:00"
+      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12884,
-      "ultima_verificacao": "2026-07-29T08:47:03-03:00"
+      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4982,
-      "ultima_verificacao": "2026-07-29T08:47:03-03:00"
+      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14158,
-      "ultima_verificacao": "2026-07-29T08:47:03-03:00"
+      "ultimo_numero": 14159,
+      "ultima_verificacao": "2026-07-29T10:34:32-03:00"
     }
   },
   "protocolos": {
@@ -1721,6 +1721,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003844A",
+        "RE": "RE8117000326A",
+        "numgEdificacao": 24332,
+        "Nome_Edificacao": "Residencial Multifamiliar/Comercial Renato Isensee",
+        "Logradouro": "Rua Prefeito Leopoldo Schramm , esquina com Rua \"A\"",
+        "Numero": "",
+        "Bairro": "GASPAR - GASPAR GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-29T10:34:32-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003843A",
         "RE": "RE8117003265A",
@@ -7245,6 +7256,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014159A",
+        "RE": "RE8161000621A",
+        "numgEdificacao": 17012,
+        "Nome_Edificacao": "EURICO SILVEIRA RAMOS",
+        "Logradouro": "Rua Hercílio Luz",
+        "Numero": "660",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-29T10:34:32-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014158A",
         "RE": "RE8161002257A",
         "numgEdificacao": 75067,
@@ -9252,13 +9274,13 @@
     "Brusque": 86,
     "Botuvera": 32,
     "Guabiruba": 33,
-    "Gaspar": 77,
+    "Gaspar": 78,
     "Porto Belo": 69,
     "Nova Trento": 42,
     "Itapema": 86,
     "Blumenau": 142,
     "Navegantes": 85,
-    "Itajai": 182
+    "Itajai": 183
   },
-  "total_geral": 834
+  "total_geral": 836
 }
