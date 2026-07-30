@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-30T13:19:18-03:00",
+  "timestamp": "2026-07-30T15:00:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8053,
-      "ultima_verificacao": "2026-07-30T13:19:18-03:00"
+      "ultima_verificacao": "2026-07-30T15:00:03-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-30T13:19:18-03:00"
+      "ultima_verificacao": "2026-07-30T15:00:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1509,
-      "ultima_verificacao": "2026-07-30T13:19:18-03:00"
+      "ultima_verificacao": "2026-07-30T15:00:03-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3847,
-      "ultima_verificacao": "2026-07-30T13:19:18-03:00"
+      "ultima_verificacao": "2026-07-30T15:00:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-30T13:19:18-03:00"
+      "ultima_verificacao": "2026-07-30T15:00:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-30T13:19:18-03:00"
+      "ultima_verificacao": "2026-07-30T15:00:03-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7139,
-      "ultima_verificacao": "2026-07-30T13:19:18-03:00"
+      "ultimo_numero": 7141,
+      "ultima_verificacao": "2026-07-30T15:00:03-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12885,
-      "ultima_verificacao": "2026-07-30T13:19:18-03:00"
+      "ultima_verificacao": "2026-07-30T15:00:03-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4984,
-      "ultima_verificacao": "2026-07-30T13:19:18-03:00"
+      "ultima_verificacao": "2026-07-30T15:00:03-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14167,
-      "ultima_verificacao": "2026-07-30T13:19:18-03:00"
+      "ultimo_numero": 14171,
+      "ultima_verificacao": "2026-07-30T15:00:03-03:00"
     }
   },
   "protocolos": {
@@ -3884,6 +3884,28 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007141A",
+        "RE": "RE8163006801A",
+        "numgEdificacao": 365329,
+        "Nome_Edificacao": "ROQUE BORGES DE OLIVEIRA",
+        "Logradouro": "RUA - 430",
+        "Numero": "730",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-30T15:00:03-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007140A",
+        "RE": "RE8163006794A",
+        "numgEdificacao": 365001,
+        "Nome_Edificacao": "GALPÃO COMERCIAL 01",
+        "Logradouro": "RUA 906",
+        "Numero": "399",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-30T15:00:03-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007139A",
         "RE": "RE8163006383A",
         "numgEdificacao": 336120,
@@ -7432,6 +7454,50 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014171A",
+        "RE": "RE8161007703A",
+        "numgEdificacao": 206325,
+        "Nome_Edificacao": "BAGATIM",
+        "Logradouro": "Rua Alvaro Beraldi",
+        "Numero": "150",
+        "Bairro": "ITAJAÍ - RESSACADA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T15:00:03-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014170A",
+        "RE": "RE8161013786A",
+        "numgEdificacao": 366603,
+        "Nome_Edificacao": "RESIDENCIAL MARIA DA GRAÇA",
+        "Logradouro": "R MAURICIO DA SILVA",
+        "Numero": "303",
+        "Bairro": "ITAJAÍ - Cordeiros",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T15:00:03-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014169A",
+        "RE": "RE8161011126A",
+        "numgEdificacao": 295866,
+        "Nome_Edificacao": "Residencial Soul Garden",
+        "Logradouro": "Rua Suécia",
+        "Numero": "273",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T15:00:03-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014168A",
+        "RE": "RE8161013785A",
+        "numgEdificacao": 366555,
+        "Nome_Edificacao": "GENTIL EUCLIDES CUSTODIO",
+        "Logradouro": "Rua Domingos Rampelotti",
+        "Numero": "6427",
+        "Bairro": "ITAJAÍ - São Roque",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T15:00:03-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014167A",
         "RE": "RE8161008206A",
         "numgEdificacao": 217263,
@@ -9541,10 +9607,10 @@
     "Gaspar": 81,
     "Porto Belo": 69,
     "Nova Trento": 42,
-    "Itapema": 92,
+    "Itapema": 94,
     "Blumenau": 143,
     "Navegantes": 87,
-    "Itajai": 191
+    "Itajai": 195
   },
-  "total_geral": 860
+  "total_geral": 866
 }
