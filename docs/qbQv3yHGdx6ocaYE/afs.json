@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-07-30T11:27:04-03:00",
+  "timestamp": "2026-07-30T13:10:55-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 864,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-30T11:27:04-03:00"
+      "ultima_verificacao": "2026-07-30T13:10:55-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-30T11:27:04-03:00"
+      "ultima_verificacao": "2026-07-30T13:10:55-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-30T11:27:04-03:00"
+      "ultima_verificacao": "2026-07-30T13:10:55-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 554,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-30T11:27:04-03:00"
+      "ultima_verificacao": "2026-07-30T13:10:55-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 461,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-30T11:27:04-03:00"
+      "ultima_verificacao": "2026-07-30T13:10:55-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 435,
+      "ultimo_numero": 436,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-30T11:27:04-03:00"
+      "ultima_verificacao": "2026-07-30T13:10:55-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1038,
+      "ultimo_numero": 1039,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-30T11:27:04-03:00"
+      "ultima_verificacao": "2026-07-30T13:10:55-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 979,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-30T11:27:04-03:00"
+      "ultima_verificacao": "2026-07-30T13:10:55-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 288,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-30T11:27:04-03:00"
+      "ultima_verificacao": "2026-07-30T13:10:55-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1037,
+      "ultimo_numero": 1041,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-30T11:27:04-03:00"
+      "ultima_verificacao": "2026-07-30T13:10:55-03:00"
     }
   },
   "afs": {
@@ -7071,6 +7071,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000436A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000796A",
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+        "Logradouro": "Rua Geral Pitanga",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - ALTO PITANGA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-30T13:10:55-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000435A/26",
         "Tipo": "AF",
         "RE": "RE8225000206A",
@@ -8447,6 +8458,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001039A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001511A",
+        "Nome_Edificacao": "CRAS II",
+        "Logradouro": "rua 816-A",
+        "Numero": "178",
+        "Bairro": "ITAPEMA - CASA BRANCA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-30T13:10:55-03:00"
+      },
       {
         "CodigoAuto": "AF8163001038A/26",
         "Tipo": "AF",
@@ -15648,6 +15670,50 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001041A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013782A",
+        "Nome_Edificacao": "SEDE VIRTUAL - ASTRID",
+        "Logradouro": "Rua Pedro Cristiano de Miranda",
+        "Numero": "1387",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T13:10:55-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001040A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013784A",
+        "Nome_Edificacao": "S1 COMERCIO LTDA",
+        "Logradouro": "RUA VEREADOR ABÍLIO OTAVIO CANTO",
+        "Numero": "61",
+        "Bairro": "ITAJAÍ - Ressacada",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T13:10:55-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001039A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013783A",
+        "Nome_Edificacao": "Centro de Formação de Condutores Dom Bosco Itajai Ltda.",
+        "Logradouro": "Rua José Siqueira",
+        "Numero": "48",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T13:10:55-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001038A/26",
+        "Tipo": "AF",
+        "RE": "RE8161006563A",
+        "Nome_Edificacao": "GREEN RESTAURANTE LTDA",
+        "Logradouro": "Rua Heitor Liberato",
+        "Numero": "1065",
+        "Bairro": "ITAJAÍ - VILA OPERÁRIA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T13:10:55-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001037A/26",
         "Tipo": "AF",
         "RE": "RE8161011412A",
@@ -18779,11 +18845,11 @@
     "Guabiruba": 40,
     "Gaspar": 140,
     "Porto Belo": 170,
-    "Nova Trento": 125,
-    "Itapema": 304,
+    "Nova Trento": 126,
+    "Itapema": 305,
     "Blumenau": 266,
     "Navegantes": 84,
-    "Itajai": 284
+    "Itajai": 288
   },
-  "total_geral": 1699
+  "total_geral": 1705
 }
