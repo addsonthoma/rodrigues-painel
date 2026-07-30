@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-30T09:08:34-03:00",
+  "timestamp": "2026-07-30T11:34:09-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8053,
-      "ultima_verificacao": "2026-07-30T09:08:34-03:00"
+      "ultima_verificacao": "2026-07-30T11:34:09-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-30T09:08:34-03:00"
+      "ultima_verificacao": "2026-07-30T11:34:09-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1508,
-      "ultima_verificacao": "2026-07-30T09:08:34-03:00"
+      "ultimo_numero": 1509,
+      "ultima_verificacao": "2026-07-30T11:34:09-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3846,
-      "ultima_verificacao": "2026-07-30T09:08:34-03:00"
+      "ultimo_numero": 3847,
+      "ultima_verificacao": "2026-07-30T11:34:09-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-30T09:08:34-03:00"
+      "ultima_verificacao": "2026-07-30T11:34:09-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-30T09:08:34-03:00"
+      "ultima_verificacao": "2026-07-30T11:34:09-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7138,
-      "ultima_verificacao": "2026-07-30T09:08:34-03:00"
+      "ultimo_numero": 7139,
+      "ultima_verificacao": "2026-07-30T11:34:09-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12885,
-      "ultima_verificacao": "2026-07-30T09:08:34-03:00"
+      "ultima_verificacao": "2026-07-30T11:34:09-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4982,
-      "ultima_verificacao": "2026-07-30T09:08:34-03:00"
+      "ultimo_numero": 4984,
+      "ultima_verificacao": "2026-07-30T11:34:09-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14165,
-      "ultima_verificacao": "2026-07-30T09:08:34-03:00"
+      "ultimo_numero": 14167,
+      "ultima_verificacao": "2026-07-30T11:34:09-03:00"
     }
   },
   "protocolos": {
@@ -1390,6 +1390,17 @@
     ],
     "Guabiruba": [
       {
+        "CodigoProtocolo": "A8123001509A",
+        "RE": "RE8123001075A",
+        "numgEdificacao": 331037,
+        "Nome_Edificacao": "JOSE ADRIANO SCHAEFER  - FT MALHAS",
+        "Logradouro": "R FREDERICO SCHAEFER",
+        "Numero": "179",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-07-30T11:34:09-03:00"
+      },
+      {
         "CodigoProtocolo": "A8123001508A",
         "RE": "RE8123001195A",
         "numgEdificacao": 366021,
@@ -1754,6 +1765,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003847A",
+        "RE": "RE8117003267A",
+        "numgEdificacao": 366546,
+        "Nome_Edificacao": "PLOTAG PAPEIS SISTEMAS E SUPRIMENTOS LTDA",
+        "Logradouro": "R FRANCISCO MELO",
+        "Numero": "50",
+        "Bairro": "GASPAR - GASPAR MIRIM",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-30T11:34:09-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003846A",
         "RE": "RE8117001053A",
@@ -3861,6 +3883,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007139A",
+        "RE": "RE8163006383A",
+        "numgEdificacao": 336120,
+        "Nome_Edificacao": "Posto Praiamar",
+        "Logradouro": "RUA 462 (AVENIDA SANTA CATARINA)",
+        "Numero": "",
+        "Bairro": "ITAPEMA - LEOPOLDO ZARLING",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-07-30T11:34:09-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007138A",
         "RE": "RE8163004232A",
@@ -6440,6 +6473,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004984A",
+        "RE": "RE8221003969A",
+        "numgEdificacao": 355571,
+        "Nome_Edificacao": "ADILSON SERVIÇOS ADM. E LOGISTICA LTDA",
+        "Logradouro": "RUA ADOLFO JOSE DA LUZ",
+        "Numero": "138",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-30T11:34:09-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221004983A",
+        "RE": "RE8221004018A",
+        "numgEdificacao": 359100,
+        "Nome_Edificacao": "BG Barbearia, Comércio e Serviços Ltda.",
+        "Logradouro": "Rua Eurico Krobel",
+        "Numero": "7169",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-30T11:34:09-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004982A",
         "RE": "RE8221004117A",
         "numgEdificacao": 365892,
@@ -7376,6 +7431,28 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014167A",
+        "RE": "RE8161008206A",
+        "numgEdificacao": 217263,
+        "Nome_Edificacao": "JDC LONDRINA",
+        "Logradouro": "R PEDRO WANZUITA",
+        "Numero": "200",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T11:34:09-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014166A",
+        "RE": "RE8161013767A",
+        "numgEdificacao": 366183,
+        "Nome_Edificacao": "BEBECA MARMITEX LTDA",
+        "Logradouro": "RUA BLUMENAU",
+        "Numero": "715",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T11:34:09-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014165A",
         "RE": "RE8161001864A",
@@ -9460,14 +9537,14 @@
   "totais": {
     "Brusque": 89,
     "Botuvera": 32,
-    "Guabiruba": 33,
-    "Gaspar": 80,
+    "Guabiruba": 34,
+    "Gaspar": 81,
     "Porto Belo": 69,
     "Nova Trento": 42,
-    "Itapema": 91,
+    "Itapema": 92,
     "Blumenau": 143,
-    "Navegantes": 85,
-    "Itajai": 189
+    "Navegantes": 87,
+    "Itajai": 191
   },
-  "total_geral": 853
+  "total_geral": 860
 }
