@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-07-30T16:13:20-03:00",
+  "timestamp": "2026-07-30T20:34:05-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-30T16:13:20-03:00"
+      "ultima_verificacao": "2026-07-30T20:34:05-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-30T16:13:20-03:00"
+      "ultima_verificacao": "2026-07-30T20:34:05-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-30T16:13:20-03:00"
+      "ultima_verificacao": "2026-07-30T20:34:05-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-30T16:13:20-03:00"
+      "ultima_verificacao": "2026-07-30T20:34:05-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 95,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-30T16:13:20-03:00"
+      "ultima_verificacao": "2026-07-30T20:34:05-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 115,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-30T16:13:20-03:00"
+      "ultima_verificacao": "2026-07-30T20:34:05-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 167,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-30T16:13:20-03:00"
+      "ultima_verificacao": "2026-07-30T20:34:05-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 202,
+      "ultimo_numero": 203,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-30T16:13:20-03:00"
+      "ultima_verificacao": "2026-07-30T20:34:05-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 80,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-30T16:13:20-03:00"
+      "ultima_verificacao": "2026-07-30T20:34:05-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 391,
+      "ultimo_numero": 395,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-07-30T16:13:20-03:00"
+      "ultima_verificacao": "2026-07-30T20:34:05-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000203A/26",
+        "RE": "RE8047006378A",
+        "Nome_Edificacao": "SAULO CANTIDIO REBELO",
+        "Logradouro": "RUA REPUBLICA ARGENTINA",
+        "Numero": "2759",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-30T20:34:05-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000202A/26",
         "RE": "RE8047003652A",
@@ -1443,6 +1453,46 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000392A/26",
+        "RE": "RE8161011412A",
+        "Nome_Edificacao": "EDIFICIO RESIDENCIAL TREVISO",
+        "Logradouro": "R UMBELINO DAMASIO DE BRITO",
+        "Numero": "313",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T20:34:05-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000393A/26",
+        "RE": "RE8161004423A",
+        "Nome_Edificacao": "ALCIDES VENANCIO MAESTRI",
+        "Logradouro": "RUA ESTEFANO JOSÉ VANOLLI",
+        "Numero": "1463",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T20:34:05-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000394A/26",
+        "RE": "RE8161004423A",
+        "Nome_Edificacao": "ALCIDES VENANCIO MAESTRI",
+        "Logradouro": "RUA ESTEFANO JOSÉ VANOLLI",
+        "Numero": "1463",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T20:34:05-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000395A/26",
+        "RE": "RE8161002654A",
+        "Nome_Edificacao": "MARCOS EMERSON KRZISCH",
+        "Logradouro": "Avenida Carlos Drumond de Andrade",
+        "Numero": "164",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-30T20:34:05-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000388A/26",
         "RE": "RE8161001226A",
@@ -4082,19 +4132,54 @@
     ]
   },
   "totais": {
-    "Blumenau": 67,
+    "Blumenau": 68,
     "Botuvera": 3,
     "Brusque": 50,
     "Gaspar": 18,
     "Guabiruba": 3,
-    "Itajai": 109,
+    "Itajai": 113,
     "Itapema": 50,
     "Navegantes": 42,
     "Nova Trento": 32,
     "Porto Belo": 38
   },
-  "total_geral": 412,
+  "total_geral": 417,
   "eventos_recentes": [
+    {
+      "ts": "2026-07-30T20:34:05-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000395A/26",
+      "nome": "MARCOS EMERSON KRZISCH",
+      "re": "RE8161002654A"
+    },
+    {
+      "ts": "2026-07-30T20:34:05-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000394A/26",
+      "nome": "ALCIDES VENANCIO MAESTRI",
+      "re": "RE8161004423A"
+    },
+    {
+      "ts": "2026-07-30T20:34:05-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000393A/26",
+      "nome": "ALCIDES VENANCIO MAESTRI",
+      "re": "RE8161004423A"
+    },
+    {
+      "ts": "2026-07-30T20:34:05-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000392A/26",
+      "nome": "EDIFICIO RESIDENCIAL TREVISO",
+      "re": "RE8161011412A"
+    },
+    {
+      "ts": "2026-07-30T20:34:05-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000203A/26",
+      "nome": "SAULO CANTIDIO REBELO",
+      "re": "RE8047006378A"
+    },
     {
       "ts": "2026-07-29T15:08:27-03:00",
       "cidade": "Itajai",

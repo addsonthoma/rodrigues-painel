@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-30T18:52:34-03:00",
+  "timestamp": "2026-07-30T20:43:13-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8053,
-      "ultima_verificacao": "2026-07-30T18:52:34-03:00"
+      "ultima_verificacao": "2026-07-30T20:43:13-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-30T18:52:34-03:00"
+      "ultima_verificacao": "2026-07-30T20:43:13-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1509,
-      "ultima_verificacao": "2026-07-30T18:52:34-03:00"
+      "ultima_verificacao": "2026-07-30T20:43:13-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3847,
-      "ultima_verificacao": "2026-07-30T18:52:34-03:00"
+      "ultimo_numero": 3848,
+      "ultima_verificacao": "2026-07-30T20:43:13-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-30T18:52:34-03:00"
+      "ultima_verificacao": "2026-07-30T20:43:13-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-30T18:52:34-03:00"
+      "ultima_verificacao": "2026-07-30T20:43:13-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7141,
-      "ultima_verificacao": "2026-07-30T18:52:34-03:00"
+      "ultima_verificacao": "2026-07-30T20:43:13-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12885,
-      "ultima_verificacao": "2026-07-30T18:52:34-03:00"
+      "ultimo_numero": 12886,
+      "ultima_verificacao": "2026-07-30T20:43:13-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4984,
-      "ultima_verificacao": "2026-07-30T18:52:34-03:00"
+      "ultimo_numero": 4985,
+      "ultima_verificacao": "2026-07-30T20:43:13-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14171,
-      "ultima_verificacao": "2026-07-30T18:52:34-03:00"
+      "ultima_verificacao": "2026-07-30T20:43:13-03:00"
     }
   },
   "protocolos": {
@@ -1765,6 +1765,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003848A",
+        "RE": "RE8117003269A",
+        "numgEdificacao": 366590,
+        "Nome_Edificacao": "RUI CESAR SCHMITZ",
+        "Logradouro": "RUA JOÃO TILLMANN",
+        "Numero": "",
+        "Bairro": "GASPAR - Belchior Alto",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-30T20:43:13-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003847A",
         "RE": "RE8117003267A",
@@ -4920,6 +4931,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012886A",
+        "RE": "RE8047000215A",
+        "numgEdificacao": 6371,
+        "Nome_Edificacao": "Zeus do Brasil",
+        "Logradouro": "BR 470",
+        "Numero": "8484",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-30T20:43:13-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012885A",
         "RE": "RE8047009932A",
         "numgEdificacao": 279887,
@@ -6494,6 +6516,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoProtocolo": "A8221004985A",
+        "RE": "RE8221001940A",
+        "numgEdificacao": 212850,
+        "Nome_Edificacao": "DGA MOVELARIA",
+        "Logradouro": "R ALDO PEREIRA DA COSTA",
+        "Numero": "572",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-07-30T20:43:13-03:00"
+      },
       {
         "CodigoProtocolo": "A8221004984A",
         "RE": "RE8221003969A",
@@ -9604,13 +9637,13 @@
     "Brusque": 89,
     "Botuvera": 32,
     "Guabiruba": 34,
-    "Gaspar": 81,
+    "Gaspar": 82,
     "Porto Belo": 69,
     "Nova Trento": 42,
     "Itapema": 94,
-    "Blumenau": 143,
-    "Navegantes": 87,
+    "Blumenau": 144,
+    "Navegantes": 88,
     "Itajai": 195
   },
-  "total_geral": 866
+  "total_geral": 869
 }
