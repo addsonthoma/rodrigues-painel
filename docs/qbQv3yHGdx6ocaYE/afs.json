@@ -1,69 +1,91 @@
 {
-  "timestamp": "2026-07-31T17:15:22-03:00",
+  "timestamp": "2026-07-31T18:32:15-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 867,
+      "ultimo_numero": 869,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
+      "ultima_verificacao": "2026-07-31T18:32:15-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
+      "ultima_verificacao": "2026-07-31T18:32:15-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
+      "ultima_verificacao": "2026-07-31T18:32:15-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 554,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
+      "ultima_verificacao": "2026-07-31T18:32:15-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 464,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
+      "ultima_verificacao": "2026-07-31T18:32:15-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 440,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
+      "ultima_verificacao": "2026-07-31T18:32:15-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1051,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
+      "ultima_verificacao": "2026-07-31T18:32:15-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 988,
+      "ultimo_numero": 989,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
+      "ultima_verificacao": "2026-07-31T18:32:15-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 288,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
+      "ultima_verificacao": "2026-07-31T18:32:15-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1060,
+      "ultimo_numero": 1062,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
+      "ultima_verificacao": "2026-07-31T18:32:15-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000869A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002915A",
+        "Nome_Edificacao": "ADMINISTRADORA CALOCA & LECA LTDA",
+        "Logradouro": "Rua Wendelin Winter",
+        "Numero": "250",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-31T18:32:15-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000868A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000065A",
+        "Nome_Edificacao": "ZENITO JOSÉ BROGNI",
+        "Logradouro": "Avenida Germano Furbringer",
+        "Numero": "1077",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-31T18:32:15-03:00"
+      },
       {
         "CodigoAuto": "AF8055000867A/26",
         "Tipo": "AF",
@@ -12058,6 +12080,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000989A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005245A",
+        "Nome_Edificacao": "EDIFICIO ALAMEDA CENTER",
+        "Logradouro": "Alameda Rio Branco",
+        "Numero": "264",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-31T18:32:15-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000988A/26",
         "Tipo": "AF",
         "RE": "RE8047003262A",
@@ -16011,6 +16044,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001062A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002487A",
+        "Nome_Edificacao": "CONDOMINIO EDIFICIO JACIMAR",
+        "Logradouro": "Rua Heitor Liberato",
+        "Numero": "1562",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-31T18:32:15-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001061A/26",
+        "Tipo": "AF",
+        "RE": "RE8161008229A",
+        "Nome_Edificacao": "GALPÕES ITAIPAVA",
+        "Logradouro": "Rua Aristides Pedroni",
+        "Numero": "500",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-31T18:32:15-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001060A/26",
         "Tipo": "AF",
         "RE": "RE8161000708A",
@@ -19390,16 +19445,16 @@
     ]
   },
   "totais": {
-    "Brusque": 257,
+    "Brusque": 259,
     "Botuvera": 32,
     "Guabiruba": 40,
     "Gaspar": 140,
     "Porto Belo": 173,
     "Nova Trento": 130,
     "Itapema": 317,
-    "Blumenau": 275,
+    "Blumenau": 276,
     "Navegantes": 84,
-    "Itajai": 307
+    "Itajai": 309
   },
-  "total_geral": 1755
+  "total_geral": 1760
 }

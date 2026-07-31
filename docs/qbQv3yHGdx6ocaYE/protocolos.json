@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-07-31T17:22:26-03:00",
+  "timestamp": "2026-07-31T18:39:45-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8054,
-      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
+      "ultimo_numero": 8055,
+      "ultima_verificacao": "2026-07-31T18:39:45-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
+      "ultima_verificacao": "2026-07-31T18:39:45-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1509,
-      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
+      "ultima_verificacao": "2026-07-31T18:39:45-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3850,
-      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
+      "ultima_verificacao": "2026-07-31T18:39:45-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3353,
-      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
+      "ultima_verificacao": "2026-07-31T18:39:45-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 960,
-      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
+      "ultima_verificacao": "2026-07-31T18:39:45-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7142,
-      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
+      "ultima_verificacao": "2026-07-31T18:39:45-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12890,
-      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
+      "ultima_verificacao": "2026-07-31T18:39:45-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4985,
-      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
+      "ultima_verificacao": "2026-07-31T18:39:45-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14178,
-      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
+      "ultimo_numero": 14179,
+      "ultima_verificacao": "2026-07-31T18:39:45-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008055A",
+        "RE": "RE8055004565A",
+        "numgEdificacao": 273590,
+        "Nome_Edificacao": "MULLER MOVEIS SOB MEDIDA",
+        "Logradouro": "R BOTUVERA",
+        "Numero": "630",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-07-31T18:39:45-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008054A",
         "RE": "RE8055006774A",
@@ -7630,6 +7641,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014179A",
+        "RE": "RE8161013790A",
+        "numgEdificacao": 366725,
+        "Nome_Edificacao": "B. B. A. INDUSTRIA E COMERCIO IMPORTACAO E EXPORTACAO LTDA",
+        "Logradouro": "RODOVIA DEPUTADO ANTONIO HEIL",
+        "Numero": "8500",
+        "Bairro": "ITAJAÍ - ARRAIAL DOS CUNHA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-31T18:39:45-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014178A",
         "RE": "RE8161002608A",
         "numgEdificacao": 92206,
@@ -9854,7 +9876,7 @@
     ]
   },
   "totais": {
-    "Brusque": 90,
+    "Brusque": 91,
     "Botuvera": 32,
     "Guabiruba": 34,
     "Gaspar": 84,
@@ -9863,7 +9885,7 @@
     "Itapema": 95,
     "Blumenau": 148,
     "Navegantes": 88,
-    "Itajai": 202
+    "Itajai": 203
   },
-  "total_geral": 889
+  "total_geral": 891
 }
