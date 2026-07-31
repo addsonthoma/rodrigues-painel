@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-31T12:57:23-03:00",
+  "timestamp": "2026-07-31T14:28:59-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8054,
-      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
+      "ultima_verificacao": "2026-07-31T14:28:59-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
+      "ultima_verificacao": "2026-07-31T14:28:59-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1509,
-      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
+      "ultima_verificacao": "2026-07-31T14:28:59-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3848,
-      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
+      "ultimo_numero": 3849,
+      "ultima_verificacao": "2026-07-31T14:28:59-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
+      "ultima_verificacao": "2026-07-31T14:28:59-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 959,
-      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
+      "ultima_verificacao": "2026-07-31T14:28:59-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7141,
-      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
+      "ultima_verificacao": "2026-07-31T14:28:59-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12888,
-      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
+      "ultima_verificacao": "2026-07-31T14:28:59-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4985,
-      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
+      "ultima_verificacao": "2026-07-31T14:28:59-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14177,
-      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
+      "ultima_verificacao": "2026-07-31T14:28:59-03:00"
     }
   },
   "protocolos": {
@@ -1776,6 +1776,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003849A",
+        "RE": "RE8117003268A",
+        "numgEdificacao": 366586,
+        "Nome_Edificacao": "JULIO SCHRAMM ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Coronel Aristiliano Ramos",
+        "Numero": "475",
+        "Bairro": "GASPAR - Centro",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-31T14:28:59-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003848A",
         "RE": "RE8117003269A",
@@ -9747,7 +9758,7 @@
     "Brusque": 90,
     "Botuvera": 32,
     "Guabiruba": 34,
-    "Gaspar": 82,
+    "Gaspar": 83,
     "Porto Belo": 69,
     "Nova Trento": 43,
     "Itapema": 94,
@@ -9755,5 +9766,5 @@
     "Navegantes": 88,
     "Itajai": 201
   },
-  "total_geral": 879
+  "total_geral": 880
 }
