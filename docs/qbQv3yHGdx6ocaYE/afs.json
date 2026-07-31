@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-07-31T15:51:02-03:00",
+  "timestamp": "2026-07-31T17:15:22-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 867,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T15:51:02-03:00"
+      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T15:51:02-03:00"
+      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 60,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T15:51:02-03:00"
+      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 554,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T15:51:02-03:00"
+      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 464,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T15:51:02-03:00"
+      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 440,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T15:51:02-03:00"
+      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1051,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T15:51:02-03:00"
+      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 986,
+      "ultimo_numero": 988,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T15:51:02-03:00"
+      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 288,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T15:51:02-03:00"
+      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1059,
+      "ultimo_numero": 1060,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-07-31T15:51:02-03:00"
+      "ultima_verificacao": "2026-07-31T17:15:22-03:00"
     }
   },
   "afs": {
@@ -12058,6 +12058,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047000988A/26",
+        "Tipo": "AF",
+        "RE": "RE8047003262A",
+        "Nome_Edificacao": "AESA PARTICIPAÇÕES E NEGÓCIOS IMOBILIÁRIOS LTDA",
+        "Logradouro": "Alameda Rio Branco",
+        "Numero": "666",
+        "Bairro": "BLUMENAU - JARDIM BLUMENAU",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-31T17:15:22-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047000987A/26",
+        "Tipo": "AF",
+        "RE": "RE8047006058A",
+        "Nome_Edificacao": "EDIFÍCIO RESIDENCIAL E COMERCIAL GRAN VITA",
+        "Logradouro": "Rua Camboriú",
+        "Numero": "121",
+        "Bairro": "BLUMENAU - VICTOR KONDER",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-31T17:15:22-03:00"
+      },
+      {
         "CodigoAuto": "AF8047000986A/26",
         "Tipo": "AF",
         "RE": "RE8047001003A",
@@ -15989,6 +16011,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001060A/26",
+        "Tipo": "AF",
+        "RE": "RE8161000708A",
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL BARAO DE ALBUQUERQUE",
+        "Logradouro": "Onze de Junho",
+        "Numero": "131",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-31T17:15:22-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001059A/26",
         "Tipo": "AF",
         "RE": "RE8161005653A",
@@ -19364,9 +19397,9 @@
     "Porto Belo": 173,
     "Nova Trento": 130,
     "Itapema": 317,
-    "Blumenau": 273,
+    "Blumenau": 275,
     "Navegantes": 84,
-    "Itajai": 306
+    "Itajai": 307
   },
-  "total_geral": 1752
+  "total_geral": 1755
 }

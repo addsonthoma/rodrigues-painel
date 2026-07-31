@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-31T15:58:48-03:00",
+  "timestamp": "2026-07-31T17:22:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8054,
-      "ultima_verificacao": "2026-07-31T15:58:48-03:00"
+      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-31T15:58:48-03:00"
+      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1509,
-      "ultima_verificacao": "2026-07-31T15:58:48-03:00"
+      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3849,
-      "ultima_verificacao": "2026-07-31T15:58:48-03:00"
+      "ultimo_numero": 3850,
+      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3351,
-      "ultima_verificacao": "2026-07-31T15:58:48-03:00"
+      "ultimo_numero": 3353,
+      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 959,
-      "ultima_verificacao": "2026-07-31T15:58:48-03:00"
+      "ultimo_numero": 960,
+      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7142,
-      "ultima_verificacao": "2026-07-31T15:58:48-03:00"
+      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12889,
-      "ultima_verificacao": "2026-07-31T15:58:48-03:00"
+      "ultimo_numero": 12890,
+      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4985,
-      "ultima_verificacao": "2026-07-31T15:58:48-03:00"
+      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14177,
-      "ultima_verificacao": "2026-07-31T15:58:48-03:00"
+      "ultimo_numero": 14178,
+      "ultima_verificacao": "2026-07-31T17:22:26-03:00"
     }
   },
   "protocolos": {
@@ -1777,6 +1777,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003850A",
+        "RE": "RE8117003268A",
+        "numgEdificacao": 366586,
+        "Nome_Edificacao": "JULIO SCHRAMM ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Coronel Aristiliano Ramos",
+        "Numero": "475",
+        "Bairro": "GASPAR - Centro",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-07-31T17:22:26-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003849A",
         "RE": "RE8117003268A",
         "numgEdificacao": 366586,
@@ -2692,6 +2703,28 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003353A",
+        "RE": "RE8265002797A",
+        "numgEdificacao": 364443,
+        "Nome_Edificacao": "Ecalthi construtora e incorporadora",
+        "Logradouro": "RUA ALDO BRANDO",
+        "Numero": "46",
+        "Bairro": "PORTO BELO - Balneário Perequê",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-31T17:22:26-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003352A",
+        "RE": "RE8265002811A",
+        "numgEdificacao": 366707,
+        "Nome_Edificacao": "Ohra",
+        "Logradouro": "RUA NILVIO LINO DA SILVA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-07-31T17:22:26-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003351A",
         "RE": "RE8265002757A",
         "numgEdificacao": 361485,
@@ -3463,6 +3496,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000960A",
+        "RE": "RE8225000780A",
+        "numgEdificacao": 353449,
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+        "Logradouro": "RUA GERAL SERRAVAL",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - SERRAVAL",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-07-31T17:22:26-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000959A",
         "RE": "RE8225000820A",
@@ -4985,6 +5029,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012890A",
+        "RE": "RE8047006627A",
+        "numgEdificacao": 192991,
+        "Nome_Edificacao": "ANASTÁCIO SIMÃO",
+        "Logradouro": "RUA 02 DE SETEMBRO",
+        "Numero": "957",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-31T17:22:26-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012889A",
         "RE": "RE8047001190A",
@@ -7575,6 +7630,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014178A",
+        "RE": "RE8161002608A",
+        "numgEdificacao": 92206,
+        "Nome_Edificacao": "Paulo Roberto Mandelli",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "8523",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-31T17:22:26-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014177A",
         "RE": "RE8161012070A",
         "numgEdificacao": 318425,
@@ -9791,13 +9857,13 @@
     "Brusque": 90,
     "Botuvera": 32,
     "Guabiruba": 34,
-    "Gaspar": 83,
-    "Porto Belo": 70,
-    "Nova Trento": 43,
+    "Gaspar": 84,
+    "Porto Belo": 72,
+    "Nova Trento": 44,
     "Itapema": 95,
-    "Blumenau": 147,
+    "Blumenau": 148,
     "Navegantes": 88,
-    "Itajai": 201
+    "Itajai": 202
   },
-  "total_geral": 883
+  "total_geral": 889
 }
