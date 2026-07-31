@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-30T21:20:25-03:00",
+  "timestamp": "2026-07-31T01:01:29-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8053,
-      "ultima_verificacao": "2026-07-30T21:20:25-03:00"
+      "ultima_verificacao": "2026-07-31T01:01:29-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-30T21:20:25-03:00"
+      "ultima_verificacao": "2026-07-31T01:01:29-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1509,
-      "ultima_verificacao": "2026-07-30T21:20:25-03:00"
+      "ultima_verificacao": "2026-07-31T01:01:29-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3848,
-      "ultima_verificacao": "2026-07-30T21:20:25-03:00"
+      "ultima_verificacao": "2026-07-31T01:01:29-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-30T21:20:25-03:00"
+      "ultima_verificacao": "2026-07-31T01:01:29-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 958,
-      "ultima_verificacao": "2026-07-30T21:20:25-03:00"
+      "ultima_verificacao": "2026-07-31T01:01:29-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7141,
-      "ultima_verificacao": "2026-07-30T21:20:25-03:00"
+      "ultima_verificacao": "2026-07-31T01:01:29-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12886,
-      "ultima_verificacao": "2026-07-30T21:20:25-03:00"
+      "ultima_verificacao": "2026-07-31T01:01:29-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4985,
-      "ultima_verificacao": "2026-07-30T21:20:25-03:00"
+      "ultima_verificacao": "2026-07-31T01:01:29-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14171,
-      "ultima_verificacao": "2026-07-30T21:20:25-03:00"
+      "ultimo_numero": 14172,
+      "ultima_verificacao": "2026-07-31T01:01:29-03:00"
     }
   },
   "protocolos": {
@@ -7487,6 +7487,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014172A",
+        "RE": "RE8161013788A",
+        "numgEdificacao": 366643,
+        "Nome_Edificacao": "Galpão Comercial Chico",
+        "Logradouro": "Rua Viladino Liberato Nunes",
+        "Numero": "549",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-31T01:01:29-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014171A",
         "RE": "RE8161007703A",
         "numgEdificacao": 206325,
@@ -9643,7 +9654,7 @@
     "Itapema": 94,
     "Blumenau": 144,
     "Navegantes": 88,
-    "Itajai": 195
+    "Itajai": 196
   },
-  "total_geral": 869
+  "total_geral": 870
 }
