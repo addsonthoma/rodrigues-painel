@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-07-31T10:51:00-03:00",
+  "timestamp": "2026-07-31T12:57:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8054,
-      "ultima_verificacao": "2026-07-31T10:51:00-03:00"
+      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-07-31T10:51:00-03:00"
+      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1509,
-      "ultima_verificacao": "2026-07-31T10:51:00-03:00"
+      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3848,
-      "ultima_verificacao": "2026-07-31T10:51:00-03:00"
+      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3350,
-      "ultima_verificacao": "2026-07-31T10:51:00-03:00"
+      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 959,
-      "ultima_verificacao": "2026-07-31T10:51:00-03:00"
+      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7141,
-      "ultima_verificacao": "2026-07-31T10:51:00-03:00"
+      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12886,
-      "ultima_verificacao": "2026-07-31T10:51:00-03:00"
+      "ultimo_numero": 12888,
+      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4985,
-      "ultima_verificacao": "2026-07-31T10:51:00-03:00"
+      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14174,
-      "ultima_verificacao": "2026-07-31T10:51:00-03:00"
+      "ultimo_numero": 14177,
+      "ultima_verificacao": "2026-07-31T12:57:23-03:00"
     }
   },
   "protocolos": {
@@ -4953,6 +4953,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012888A",
+        "RE": "RE8047005812A",
+        "numgEdificacao": 175272,
+        "Nome_Edificacao": "LAIDES GOMES DA SILVA",
+        "Logradouro": "R BENJAMIN CONSTANT",
+        "Numero": "3214",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-31T12:57:23-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012887A",
+        "RE": "RE8047005812A",
+        "numgEdificacao": 175272,
+        "Nome_Edificacao": "LAIDES GOMES DA SILVA",
+        "Logradouro": "R BENJAMIN CONSTANT",
+        "Numero": "3214",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-07-31T12:57:23-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012886A",
         "RE": "RE8047000215A",
         "numgEdificacao": 6371,
@@ -7509,6 +7531,39 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014177A",
+        "RE": "RE8161012070A",
+        "numgEdificacao": 318425,
+        "Nome_Edificacao": "Bett Construção SPE Ltda",
+        "Logradouro": "RODOVIA ANTONIO HEIL",
+        "Numero": "15205",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-31T12:57:23-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014176A",
+        "RE": "RE8161013789A",
+        "numgEdificacao": 366670,
+        "Nome_Edificacao": "MJS Comércio e Serviços Ltda",
+        "Logradouro": "Rua Amaro Belmiro Coelho",
+        "Numero": "350",
+        "Bairro": "ITAJAÍ - Santa Regina",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-31T12:57:23-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014175A",
+        "RE": "RE8161012070A",
+        "numgEdificacao": 318425,
+        "Nome_Edificacao": "Bett Construção SPE Ltda",
+        "Logradouro": "RODOVIA ANTONIO HEIL",
+        "Numero": "15205",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-07-31T12:57:23-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014174A",
         "RE": "RE8161013744A",
         "numgEdificacao": 365300,
@@ -9696,9 +9751,9 @@
     "Porto Belo": 69,
     "Nova Trento": 43,
     "Itapema": 94,
-    "Blumenau": 144,
+    "Blumenau": 146,
     "Navegantes": 88,
-    "Itajai": 198
+    "Itajai": 201
   },
-  "total_geral": 874
+  "total_geral": 879
 }
