@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-03T19:40:48-03:00",
+  "timestamp": "2026-08-03T20:50:38-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-03T19:40:48-03:00"
+      "ultima_verificacao": "2026-08-03T20:50:38-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-08-03T19:40:48-03:00"
+      "ultima_verificacao": "2026-08-03T20:50:38-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-03T19:40:48-03:00"
+      "ultima_verificacao": "2026-08-03T20:50:38-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3853,
-      "ultima_verificacao": "2026-08-03T19:40:48-03:00"
+      "ultima_verificacao": "2026-08-03T20:50:38-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3353,
-      "ultima_verificacao": "2026-08-03T19:40:48-03:00"
+      "ultima_verificacao": "2026-08-03T20:50:38-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 960,
-      "ultima_verificacao": "2026-08-03T19:40:48-03:00"
+      "ultima_verificacao": "2026-08-03T20:50:38-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7146,
-      "ultima_verificacao": "2026-08-03T19:40:48-03:00"
+      "ultima_verificacao": "2026-08-03T20:50:38-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12896,
-      "ultima_verificacao": "2026-08-03T19:40:48-03:00"
+      "ultima_verificacao": "2026-08-03T20:50:38-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4986,
-      "ultima_verificacao": "2026-08-03T19:40:48-03:00"
+      "ultima_verificacao": "2026-08-03T20:50:38-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14184,
-      "ultima_verificacao": "2026-08-03T19:40:48-03:00"
+      "ultimo_numero": 14185,
+      "ultima_verificacao": "2026-08-03T20:50:38-03:00"
     }
   },
   "protocolos": {
@@ -7817,6 +7817,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014185A",
+        "RE": "RE8161009965A",
+        "numgEdificacao": 266934,
+        "Nome_Edificacao": "Jaciara Staloch de Souza",
+        "Logradouro": "R JOSE LAURENTINO JUNIOR",
+        "Numero": "371",
+        "Bairro": "ITAJAÍ - LIMOEIRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-03T20:50:38-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014184A",
         "RE": "RE8161004677A",
         "numgEdificacao": 141060,
@@ -10116,7 +10127,7 @@
     "Itapema": 99,
     "Blumenau": 154,
     "Navegantes": 89,
-    "Itajai": 208
+    "Itajai": 209
   },
-  "total_geral": 912
+  "total_geral": 913
 }
