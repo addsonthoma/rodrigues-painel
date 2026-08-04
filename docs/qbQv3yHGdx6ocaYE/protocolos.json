@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-04T11:35:32-03:00",
+  "timestamp": "2026-08-04T12:05:40-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
+      "ultima_verificacao": "2026-08-04T12:05:40-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 399,
-      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
+      "ultima_verificacao": "2026-08-04T12:05:40-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
+      "ultima_verificacao": "2026-08-04T12:05:40-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3854,
-      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
+      "ultima_verificacao": "2026-08-04T12:05:40-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3354,
-      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
+      "ultima_verificacao": "2026-08-04T12:05:40-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 960,
-      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
+      "ultima_verificacao": "2026-08-04T12:05:40-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7146,
-      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
+      "ultimo_numero": 7147,
+      "ultima_verificacao": "2026-08-04T12:05:40-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12898,
-      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
+      "ultima_verificacao": "2026-08-04T12:05:40-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4986,
-      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
+      "ultima_verificacao": "2026-08-04T12:05:40-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14189,
-      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
+      "ultima_verificacao": "2026-08-04T12:05:40-03:00"
     }
   },
   "protocolos": {
@@ -4081,6 +4081,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007147A",
+        "RE": "RE8163003885A",
+        "numgEdificacao": 206256,
+        "Nome_Edificacao": "GRAND VIEW RESIDENCE",
+        "Logradouro": "RUA 414 ESQ COM A RUA 412 A e 412",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-04T12:05:40-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007146A",
         "RE": "RE8163006794A",
@@ -10223,10 +10234,10 @@
     "Gaspar": 88,
     "Porto Belo": 73,
     "Nova Trento": 44,
-    "Itapema": 99,
+    "Itapema": 100,
     "Blumenau": 156,
     "Navegantes": 89,
     "Itajai": 213
   },
-  "total_geral": 922
+  "total_geral": 923
 }

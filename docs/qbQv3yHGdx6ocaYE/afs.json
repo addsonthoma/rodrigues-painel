@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-04T11:27:25-03:00",
+  "timestamp": "2026-08-04T11:57:44-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 869,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
+      "ultima_verificacao": "2026-08-04T11:57:44-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
+      "ultima_verificacao": "2026-08-04T11:57:44-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
+      "ultima_verificacao": "2026-08-04T11:57:44-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
+      "ultima_verificacao": "2026-08-04T11:57:44-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 469,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
+      "ultima_verificacao": "2026-08-04T11:57:44-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 444,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
+      "ultima_verificacao": "2026-08-04T11:57:44-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1051,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
+      "ultima_verificacao": "2026-08-04T11:57:44-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1000,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
+      "ultima_verificacao": "2026-08-04T11:57:44-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 290,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
+      "ultima_verificacao": "2026-08-04T11:57:44-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1068,
+      "ultimo_numero": 1069,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
+      "ultima_verificacao": "2026-08-04T11:57:44-03:00"
     }
   },
   "afs": {
@@ -16308,6 +16308,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001069A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005560A",
+        "Nome_Edificacao": "CLAUDIOMIR PEDRONI",
+        "Logradouro": "Avenida Itaipava",
+        "Numero": "4126",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-04T11:57:44-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001068A/26",
         "Tipo": "AF",
         "RE": "RE8161009512A",
@@ -19784,7 +19795,7 @@
     "Itapema": 317,
     "Blumenau": 287,
     "Navegantes": 86,
-    "Itajai": 315
+    "Itajai": 316
   },
-  "total_geral": 1790
+  "total_geral": 1791
 }
