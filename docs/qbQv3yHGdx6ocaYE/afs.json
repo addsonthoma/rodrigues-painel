@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-04T07:22:37-03:00",
+  "timestamp": "2026-08-04T11:27:25-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 869,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T07:22:37-03:00"
+      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T07:22:37-03:00"
+      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T07:22:37-03:00"
+      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T07:22:37-03:00"
+      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 468,
+      "ultimo_numero": 469,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T07:22:37-03:00"
+      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 444,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T07:22:37-03:00"
+      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1051,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T07:22:37-03:00"
+      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 999,
+      "ultimo_numero": 1000,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T07:22:37-03:00"
+      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 290,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T07:22:37-03:00"
+      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1068,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-04T07:22:37-03:00"
+      "ultima_verificacao": "2026-08-04T11:27:25-03:00"
     }
   },
   "afs": {
@@ -5275,6 +5275,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000469A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001588A",
+        "Nome_Edificacao": "PORT EVERGLADES RESIDENCE",
+        "Logradouro": "Rua Artur Campos, esquina com Arnoldo Tome dos Santos, 144",
+        "Numero": "160",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-04T11:27:25-03:00"
+      },
       {
         "CodigoAuto": "AF8265000468A/26",
         "Tipo": "AF",
@@ -12189,6 +12200,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047001000A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001003A",
+        "Nome_Edificacao": "HOSPITAL UNIMED BLUMENAU",
+        "Logradouro": "Rua Amazonas",
+        "Numero": "301",
+        "Bairro": "BLUMENAU - GARCIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-04T11:27:25-03:00"
+      },
       {
         "CodigoAuto": "AF8047000999A/26",
         "Tipo": "AF",
@@ -19757,12 +19779,12 @@
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 141,
-    "Porto Belo": 177,
+    "Porto Belo": 178,
     "Nova Trento": 134,
     "Itapema": 317,
-    "Blumenau": 286,
+    "Blumenau": 287,
     "Navegantes": 86,
     "Itajai": 315
   },
-  "total_geral": 1788
+  "total_geral": 1790
 }

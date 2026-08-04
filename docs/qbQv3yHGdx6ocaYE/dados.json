@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-04T07:05:50-03:00",
+  "timestamp": "2026-08-04T11:26:22-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-04T07:05:50-03:00"
+      "ultima_verificacao": "2026-08-04T11:26:22-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-04T07:05:50-03:00"
+      "ultima_verificacao": "2026-08-04T11:26:22-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-04T07:05:50-03:00"
+      "ultima_verificacao": "2026-08-04T11:26:22-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-04T07:05:50-03:00"
+      "ultima_verificacao": "2026-08-04T11:26:22-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 102,
+      "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-04T07:05:50-03:00"
+      "ultima_verificacao": "2026-08-04T11:26:22-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 116,
+      "ultimo_numero": 120,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-04T07:05:50-03:00"
+      "ultima_verificacao": "2026-08-04T11:26:22-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 172,
+      "ultimo_numero": 173,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-04T07:05:50-03:00"
+      "ultima_verificacao": "2026-08-04T11:26:22-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 209,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-04T07:05:50-03:00"
+      "ultima_verificacao": "2026-08-04T11:26:22-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 83,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-04T07:05:50-03:00"
+      "ultima_verificacao": "2026-08-04T11:26:22-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 396,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-04T07:05:50-03:00"
+      "ultima_verificacao": "2026-08-04T11:26:22-03:00"
     }
   },
   "multas": {
@@ -2639,6 +2639,16 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000173A/26",
+        "RE": "RE8163000973A",
+        "Nome_Edificacao": "RESIDENCIAL",
+        "Logradouro": "Rua 424",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-04T11:26:22-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000169A/26",
         "RE": "RE8163005668A",
         "Nome_Edificacao": "CAMPOS E MENEGATTI HOLDING E ADM. LTDA",
@@ -3612,6 +3622,46 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000117A/26",
+        "RE": "RE8225000646A",
+        "Nome_Edificacao": "NAIA MONTIBELLER",
+        "Logradouro": "RUA NICOLAU BADO",
+        "Numero": "261",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-04T11:26:22-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000118A/26",
+        "RE": "RE8225000059A",
+        "Nome_Edificacao": "SANTUÁRIO NOSSA SENHORA DO BOM SOCORRO",
+        "Logradouro": "MORRO DA CRUZ",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-04T11:26:22-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000119A/26",
+        "RE": "RE8225000457A",
+        "Nome_Edificacao": "SUPERMERCADO BITTENCOURT LTDA",
+        "Logradouro": "Rua Hipolito Boiteux",
+        "Numero": "15",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-04T11:26:22-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000120A/26",
+        "RE": "RE8225000664A",
+        "Nome_Edificacao": "SALÃO DE FESTAS ORATÓRIO NOSSA SENHORA APARECIDA",
+        "Logradouro": "Estrada Geral São Valentim",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - SÃO VALENTIM",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-04T11:26:22-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000116A/26",
         "RE": "RE8225000715A",
         "Nome_Edificacao": "MOBILI COMERCIO E FABRICAÇÃO DE MOVEIS E ARTEFATOS LTDA",
@@ -3927,6 +3977,36 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "MUL8265000103A/26",
+        "RE": "RE8265001479A",
+        "Nome_Edificacao": "VALENTIM DALLA BRIDA",
+        "Logradouro": "RUA JOSÉ ROBERTO OTTO - 62797",
+        "Numero": "2060",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-04T11:26:22-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8265000104A/26",
+        "RE": "RE8265000526A",
+        "Nome_Edificacao": "CARLOS ALBERTO GUILL",
+        "Logradouro": "Rua Irineu José Moreira",
+        "Numero": "257",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-04T11:26:22-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8265000105A/26",
+        "RE": "RE8265002085A",
+        "Nome_Edificacao": "MONICA ALBERTINAZZI",
+        "Logradouro": "IRINEU JOSÉ MOREIRA",
+        "Numero": "764",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-04T11:26:22-03:00"
+      },
       {
         "CodigoAuto": "MUL8265000096A/26",
         "RE": "RE8265000518A",
@@ -4368,13 +4448,69 @@
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 114,
-    "Itapema": 55,
+    "Itapema": 56,
     "Navegantes": 45,
-    "Nova Trento": 33,
-    "Porto Belo": 45
+    "Nova Trento": 37,
+    "Porto Belo": 48
   },
-  "total_geral": 440,
+  "total_geral": 448,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-04T11:26:22-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000173A/26",
+      "nome": "RESIDENCIAL",
+      "re": "RE8163000973A"
+    },
+    {
+      "ts": "2026-08-04T11:26:22-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000120A/26",
+      "nome": "SALÃO DE FESTAS ORATÓRIO NOSSA SENHORA APARECIDA",
+      "re": "RE8225000664A"
+    },
+    {
+      "ts": "2026-08-04T11:26:22-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000119A/26",
+      "nome": "SUPERMERCADO BITTENCOURT LTDA",
+      "re": "RE8225000457A"
+    },
+    {
+      "ts": "2026-08-04T11:26:22-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000118A/26",
+      "nome": "SANTUÁRIO NOSSA SENHORA DO BOM SOCORRO",
+      "re": "RE8225000059A"
+    },
+    {
+      "ts": "2026-08-04T11:26:22-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000117A/26",
+      "nome": "NAIA MONTIBELLER",
+      "re": "RE8225000646A"
+    },
+    {
+      "ts": "2026-08-04T11:26:22-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000105A/26",
+      "nome": "MONICA ALBERTINAZZI",
+      "re": "RE8265002085A"
+    },
+    {
+      "ts": "2026-08-04T11:26:22-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000104A/26",
+      "nome": "CARLOS ALBERTO GUILL",
+      "re": "RE8265000526A"
+    },
+    {
+      "ts": "2026-08-04T11:26:22-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000103A/26",
+      "nome": "VALENTIM DALLA BRIDA",
+      "re": "RE8265001479A"
+    },
     {
       "ts": "2026-08-03T17:33:49-03:00",
       "cidade": "Itajai",

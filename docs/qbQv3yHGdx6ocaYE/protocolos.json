@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-04T09:45:27-03:00",
+  "timestamp": "2026-08-04T11:35:32-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-04T09:45:27-03:00"
+      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
-      "ultimo_numero": 398,
-      "ultima_verificacao": "2026-08-04T09:45:27-03:00"
+      "ultimo_numero": 399,
+      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-04T09:45:27-03:00"
+      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3853,
-      "ultima_verificacao": "2026-08-04T09:45:27-03:00"
+      "ultimo_numero": 3854,
+      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3353,
-      "ultima_verificacao": "2026-08-04T09:45:27-03:00"
+      "ultimo_numero": 3354,
+      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 960,
-      "ultima_verificacao": "2026-08-04T09:45:27-03:00"
+      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7146,
-      "ultima_verificacao": "2026-08-04T09:45:27-03:00"
+      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12897,
-      "ultima_verificacao": "2026-08-04T09:45:27-03:00"
+      "ultimo_numero": 12898,
+      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4986,
-      "ultima_verificacao": "2026-08-04T09:45:27-03:00"
+      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14187,
-      "ultima_verificacao": "2026-08-04T09:45:27-03:00"
+      "ultimo_numero": 14189,
+      "ultima_verificacao": "2026-08-04T11:35:32-03:00"
     }
   },
   "protocolos": {
@@ -1069,6 +1069,17 @@
     ],
     "Botuvera": [
       {
+        "CodigoProtocolo": "A8051000399A",
+        "RE": "RE8051000297A",
+        "numgEdificacao": 366869,
+        "Nome_Edificacao": "ANA CLAUDIA VICTORINO",
+        "Logradouro": "Rua Primeiro de Maio",
+        "Numero": "780",
+        "Bairro": "BOTUVERÁ - CENTRO",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-08-04T11:35:32-03:00"
+      },
+      {
         "CodigoProtocolo": "A8051000398A",
         "RE": "RE8051000160A",
         "numgEdificacao": 146280,
@@ -1809,6 +1820,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003854A",
+        "RE": "RE8117003271A",
+        "numgEdificacao": 366868,
+        "Nome_Edificacao": "WLW ADMINSTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Doutor Nereu Ramos",
+        "Numero": "161",
+        "Bairro": "GASPAR - Coloninha",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-04T11:35:32-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003853A",
         "RE": "RE8117003270A",
@@ -2768,6 +2790,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003354A",
+        "RE": "RE8265001635A",
+        "numgEdificacao": 201292,
+        "Nome_Edificacao": "Soirre",
+        "Logradouro": "Av. João manoel Jaques, esq. com Rua Irany Cervi",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-04T11:35:32-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003353A",
         "RE": "RE8265002797A",
@@ -5139,6 +5172,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012898A",
+        "RE": "RE8047004503A",
+        "numgEdificacao": 143265,
+        "Nome_Edificacao": "ERNESTO J. LUCCHESI SANTOS E OUTROS",
+        "Logradouro": "RUA 15 DE NOVEMBRO",
+        "Numero": "801",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-04T11:35:32-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012897A",
         "RE": "RE8047012073A",
@@ -7828,6 +7872,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014189A",
+        "RE": "RE8161000573A",
+        "numgEdificacao": 15956,
+        "Nome_Edificacao": "CAPITAL REALTY INFRA-ESTRUTURA LOGÍSTICA LTDA",
+        "Logradouro": "Rodovia Jorge Lacerda",
+        "Numero": "1010",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-04T11:35:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014188A",
+        "RE": "RE8161008008A",
+        "numgEdificacao": 212094,
+        "Nome_Edificacao": "MARCO ANTONIO OSMAK",
+        "Logradouro": "Rua Augusto Cardoso Pereira",
+        "Numero": "232",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-04T11:35:32-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014187A",
         "RE": "RE8161001684A",
         "numgEdificacao": 51878,
@@ -10152,15 +10218,15 @@
   },
   "totais": {
     "Brusque": 92,
-    "Botuvera": 32,
+    "Botuvera": 33,
     "Guabiruba": 35,
-    "Gaspar": 87,
-    "Porto Belo": 72,
+    "Gaspar": 88,
+    "Porto Belo": 73,
     "Nova Trento": 44,
     "Itapema": 99,
-    "Blumenau": 155,
+    "Blumenau": 156,
     "Navegantes": 89,
-    "Itajai": 211
+    "Itajai": 213
   },
-  "total_geral": 916
+  "total_geral": 922
 }
