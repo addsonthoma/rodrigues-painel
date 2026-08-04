@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-04T04:11:33-03:00",
+  "timestamp": "2026-08-04T05:59:55-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-04T04:11:33-03:00"
+      "ultima_verificacao": "2026-08-04T05:59:55-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 398,
-      "ultima_verificacao": "2026-08-04T04:11:33-03:00"
+      "ultima_verificacao": "2026-08-04T05:59:55-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-04T04:11:33-03:00"
+      "ultima_verificacao": "2026-08-04T05:59:55-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3853,
-      "ultima_verificacao": "2026-08-04T04:11:33-03:00"
+      "ultima_verificacao": "2026-08-04T05:59:55-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3353,
-      "ultima_verificacao": "2026-08-04T04:11:33-03:00"
+      "ultima_verificacao": "2026-08-04T05:59:55-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 960,
-      "ultima_verificacao": "2026-08-04T04:11:33-03:00"
+      "ultima_verificacao": "2026-08-04T05:59:55-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7146,
-      "ultima_verificacao": "2026-08-04T04:11:33-03:00"
+      "ultima_verificacao": "2026-08-04T05:59:55-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12896,
-      "ultima_verificacao": "2026-08-04T04:11:33-03:00"
+      "ultimo_numero": 12897,
+      "ultima_verificacao": "2026-08-04T05:59:55-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4986,
-      "ultima_verificacao": "2026-08-04T04:11:33-03:00"
+      "ultima_verificacao": "2026-08-04T05:59:55-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14185,
-      "ultima_verificacao": "2026-08-04T04:11:33-03:00"
+      "ultimo_numero": 14187,
+      "ultima_verificacao": "2026-08-04T05:59:55-03:00"
     }
   },
   "protocolos": {
@@ -5140,6 +5140,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012897A",
+        "RE": "RE8047012073A",
+        "numgEdificacao": 366865,
+        "Nome_Edificacao": "Entre Café",
+        "Logradouro": "Rua Professor Max Humpl",
+        "Numero": "666",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-04T05:59:55-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012896A",
         "RE": "RE8047012071A",
         "numgEdificacao": 366837,
@@ -7817,6 +7828,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014187A",
+        "RE": "RE8161001684A",
+        "numgEdificacao": 51878,
+        "Nome_Edificacao": "EEM. PROFESSOR HENRIQUE DA SILVA FONTES",
+        "Logradouro": "Rua Doutor Pedro Rangel",
+        "Numero": "202",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-04T05:59:55-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014186A",
+        "RE": "RE8161001688A",
+        "numgEdificacao": 52165,
+        "Nome_Edificacao": "SP Participações Ltda",
+        "Logradouro": "Rodovia Jorge Lacerda",
+        "Numero": "725",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-04T05:59:55-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014185A",
         "RE": "RE8161009965A",
         "numgEdificacao": 266934,
@@ -10125,9 +10158,9 @@
     "Porto Belo": 72,
     "Nova Trento": 44,
     "Itapema": 99,
-    "Blumenau": 154,
+    "Blumenau": 155,
     "Navegantes": 89,
-    "Itajai": 209
+    "Itajai": 211
   },
-  "total_geral": 913
+  "total_geral": 916
 }
