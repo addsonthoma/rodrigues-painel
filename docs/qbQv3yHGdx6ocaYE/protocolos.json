@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-04T22:45:16-03:00",
+  "timestamp": "2026-08-05T00:35:10-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-04T22:45:16-03:00"
+      "ultima_verificacao": "2026-08-05T00:35:10-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 399,
-      "ultima_verificacao": "2026-08-04T22:45:16-03:00"
+      "ultima_verificacao": "2026-08-05T00:35:10-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-04T22:45:16-03:00"
+      "ultima_verificacao": "2026-08-05T00:35:10-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3854,
-      "ultima_verificacao": "2026-08-04T22:45:16-03:00"
+      "ultima_verificacao": "2026-08-05T00:35:10-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3354,
-      "ultima_verificacao": "2026-08-04T22:45:16-03:00"
+      "ultima_verificacao": "2026-08-05T00:35:10-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 960,
-      "ultima_verificacao": "2026-08-04T22:45:16-03:00"
+      "ultimo_numero": 961,
+      "ultima_verificacao": "2026-08-05T00:35:10-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7147,
-      "ultima_verificacao": "2026-08-04T22:45:16-03:00"
+      "ultima_verificacao": "2026-08-05T00:35:10-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12898,
-      "ultima_verificacao": "2026-08-04T22:45:16-03:00"
+      "ultimo_numero": 12903,
+      "ultima_verificacao": "2026-08-05T00:35:10-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4986,
-      "ultima_verificacao": "2026-08-04T22:45:16-03:00"
+      "ultimo_numero": 4987,
+      "ultima_verificacao": "2026-08-05T00:35:10-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14189,
-      "ultima_verificacao": "2026-08-04T22:45:16-03:00"
+      "ultimo_numero": 14195,
+      "ultima_verificacao": "2026-08-05T00:35:10-03:00"
     }
   },
   "protocolos": {
@@ -3596,6 +3596,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoProtocolo": "A8225000961A",
+        "RE": "RE8225000683A",
+        "numgEdificacao": 340320,
+        "Nome_Edificacao": "SINDICATO",
+        "Logradouro": "HENRIQUE MESCKE",
+        "Numero": "342",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
+      {
         "CodigoProtocolo": "A8225000960A",
         "RE": "RE8225000780A",
         "numgEdificacao": 353449,
@@ -5183,6 +5194,61 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012903A",
+        "RE": "RE8047012075A",
+        "numgEdificacao": 366983,
+        "Nome_Edificacao": "Waldir Beck",
+        "Logradouro": "R GUILHERME SCHARF",
+        "Numero": "446",
+        "Bairro": "BLUMENAU - FIDÉLIS",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012902A",
+        "RE": "RE8047011925A",
+        "numgEdificacao": 360936,
+        "Nome_Edificacao": "SERGIO WRUCK",
+        "Logradouro": "Rua Bahia",
+        "Numero": "1900",
+        "Bairro": "BLUMENAU - Do Salto",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012901A",
+        "RE": "RE8047002387A",
+        "numgEdificacao": 115333,
+        "Nome_Edificacao": "LUEN PARTICIPAÇÕES LTDA",
+        "Logradouro": "Rua Artur Oscar Kluge",
+        "Numero": "200",
+        "Bairro": "BLUMENAU - PASSO MANSO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012900A",
+        "RE": "RE8047011344A",
+        "numgEdificacao": 335299,
+        "Nome_Edificacao": "ADILON JACIR BAUMGART",
+        "Logradouro": "Rua Felipe Schmidt",
+        "Numero": "43",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012899A",
+        "RE": "RE8047002611A",
+        "numgEdificacao": 118922,
+        "Nome_Edificacao": "PAMPLONA ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "RUA DOUTOR PEDRO ZIMMERMANN - 372852",
+        "Numero": "7127",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012898A",
         "RE": "RE8047004503A",
@@ -6902,6 +6968,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004987A",
+        "RE": "RE8221004120A",
+        "numgEdificacao": 366904,
+        "Nome_Edificacao": "E. DA SILVA VARGAS RESTAURANTE LTDA",
+        "Logradouro": "AVENIDA PREFEITO JOSE JUVENAL MAFRA",
+        "Numero": "2182",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004986A",
         "RE": "RE8221004015A",
         "numgEdificacao": 358719,
@@ -7882,6 +7959,72 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014195A",
+        "RE": "RE8161013621A",
+        "numgEdificacao": 361360,
+        "Nome_Edificacao": "Residencial Junior I",
+        "Logradouro": "Rua Rodolfo Kucker",
+        "Numero": "44",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014194A",
+        "RE": "RE8161013798A",
+        "numgEdificacao": 366974,
+        "Nome_Edificacao": "LUAN BRITO FRANCELINO",
+        "Logradouro": "RUA FIUZA LIMA",
+        "Numero": "633",
+        "Bairro": "ITAJAÍ - FIUZA LIMA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014193A",
+        "RE": "RE8161001010A",
+        "numgEdificacao": 27738,
+        "Nome_Edificacao": "CELENE DA SILVA DUTRA",
+        "Logradouro": "RUA PEDRO JOÃO PINTO",
+        "Numero": "275",
+        "Bairro": "ITAJAÍ - CANHANDUBA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014192A",
+        "RE": "RE8161000555A",
+        "numgEdificacao": 15283,
+        "Nome_Edificacao": "BARRA DO RIO TERMINAL PORTUÁRIO",
+        "Logradouro": "Rua Arnoldo Lopes Gonzaga",
+        "Numero": "507",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014191A",
+        "RE": "RE8161013795A",
+        "numgEdificacao": 366935,
+        "Nome_Edificacao": "LAGO DI COMO",
+        "Logradouro": "Rua Santo Antônio",
+        "Numero": "45",
+        "Bairro": "ITAJAÍ - São Judas",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014190A",
+        "RE": "RE8161007470A",
+        "numgEdificacao": 202710,
+        "Nome_Edificacao": "MAX VINICIUS FAZZIO",
+        "Logradouro": "RUA URUGUAI",
+        "Numero": "479",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-05T00:35:10-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014189A",
         "RE": "RE8161000573A",
@@ -10233,11 +10376,11 @@
     "Guabiruba": 35,
     "Gaspar": 88,
     "Porto Belo": 73,
-    "Nova Trento": 44,
+    "Nova Trento": 45,
     "Itapema": 100,
-    "Blumenau": 156,
-    "Navegantes": 89,
-    "Itajai": 213
+    "Blumenau": 161,
+    "Navegantes": 90,
+    "Itajai": 219
   },
-  "total_geral": 923
+  "total_geral": 936
 }
