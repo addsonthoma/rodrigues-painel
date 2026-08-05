@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-05T08:39:57-03:00",
-  "total": 3454,
+  "timestamp": "2026-08-05T12:35:02-03:00",
+  "total": 3460,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -588,7 +588,7 @@
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1785929595.7494605
+      "_ts": 1785944019.8612149
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1785929595.749491
+      "_ts": 1785944019.8612444
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1785929595.749481
+      "_ts": 1785944019.861234
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5100,7 +5100,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1785929586.0869372
+      "_ts": 1785944011.3567533
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5120,7 +5120,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1785929586.0869043
+      "_ts": 1785944011.3567293
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5327,7 +5327,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1785929646.486032
+      "_ts": 1785944067.4255314
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9435,7 +9435,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1785929579.276181
+      "_ts": 1785944004.2901022
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9449,7 +9449,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1785929602.7653487
+      "_ts": 1785944027.1387498
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -9463,7 +9463,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000015A/26",
-      "_ts": 1785929609.181039
+      "_ts": 1785944035.0137434
     },
     "AF8051000014A/26": {
       "tipo": "AF",
@@ -9477,7 +9477,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000014A/26",
-      "_ts": 1785929616.9341962
+      "_ts": 1785944042.7858205
     },
     "AF8051000011A/26": {
       "tipo": "AF",
@@ -9519,7 +9519,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000044A/26",
-      "_ts": 1785929664.9775088
+      "_ts": 1785944080.7483187
     },
     "AF8123000040A/26": {
       "tipo": "AF",
@@ -13984,7 +13984,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1785929638.4612598
+      "_ts": 1785944059.8191812
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -27660,6 +27660,7 @@
     },
     "AF8055000381A/26": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "1002.28",
       "cidade": "BRUSQUE",
       "responsavel": "Maria Elisa Zucco",
       "cpfCnpj": "05436766927",
@@ -27671,12 +27672,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "02/06/2026",
-      "prazoDias": -27,
+      "prazoDias": -64,
       "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
       "bloco": "Bloco 02",
       "codgAuto": "AF8055000381A/26",
       "numgAuto": 488150,
-      "_ts": 1782732880.230852
+      "_ts": 1785943979.6430278
     },
     "AF8055000705A/26": {
       "tipo": "FISCALIZACAO",
@@ -27699,6 +27700,7 @@
     },
     "MUL8055000073A/26": {
       "tipo": "MULTA",
+      "areaTotal": "1002.28",
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -27712,7 +27714,7 @@
       "bloco": "Bloco 02",
       "codgAuto": "MUL8055000073A/26",
       "numgAuto": 504644,
-      "_ts": 1782732880.2308645
+      "_ts": 1785943979.64304
     },
     "AF8055000704A/26": {
       "tipo": "FISCALIZACAO",
@@ -30034,7 +30036,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1785929636.199948
+      "_ts": 1785944057.8577907
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38450,7 +38452,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1785929629.5850606
+      "_ts": 1785944050.761402
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -38470,7 +38472,7 @@
       "bloco": "1",
       "codgAuto": "AF8123000114A/25",
       "numgAuto": 449049,
-      "_ts": 1785929629.585042
+      "_ts": 1785944050.7613697
     },
     "AF8117000482A/26": {
       "tipo": "FISCALIZACAO",
@@ -66185,7 +66187,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8161001072A/26",
-      "_ts": 1785929973.4449825
+      "_ts": 1785944101.9616237
     },
     "AF8161001071A/26": {
       "tipo": "FISCALIZACAO",
@@ -66323,6 +66325,124 @@
       "codgAuto": "AF8161001069A/26",
       "numgAuto": 517818,
       "_ts": 1785929997.395512
+    },
+    "AF8055000484A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 500,
+      "cidade": "BRUSQUE",
+      "responsavel": "INES THOLL",
+      "cpfCnpj": "48069302968",
+      "celular": "47991760090",
+      "email": "t.lavi@hotmail.com",
+      "endereco_responsavel": "Rua Frederico Petruscky, 896, Guarani, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "13/06/2026",
+      "prazoDias": -53,
+      "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8055000484A/25",
+      "numgAuto": 409709,
+      "_ts": 1785943967.5416586
+    },
+    "AF8055000872A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 500,
+      "cidade": "BRUSQUE",
+      "responsavel": "INES THOLL",
+      "cpfCnpj": "48069302968",
+      "celular": "47991760090",
+      "email": "t.lavi@hotmail.com",
+      "endereco_responsavel": "Rua Frederico Petruscky, 896, Guarani, Brusque",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "15/09/2026",
+      "prazoDias": 41,
+      "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8055000872A/26",
+      "numgAuto": 518177,
+      "_ts": 1785943967.5416725
+    },
+    "MUL8055000083A/26": {
+      "tipo": "MULTA",
+      "areaTotal": 500,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Bloco 01",
+      "codgAuto": "MUL8055000083A/26",
+      "numgAuto": 506420,
+      "_ts": 1785943967.5417135
+    },
+    "AF8055000871A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1002.28",
+      "cidade": "BRUSQUE",
+      "responsavel": "FEQUIP INDUSTRIA E COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA",
+      "cpfCnpj": "64415751000151",
+      "celular": "47933514500",
+      "email": "registroempresarial@contasse.com.br",
+      "endereco_responsavel": "Rua Benjamim Beber, 950, Nova Brasília, Brusque",
+      "exigencias": [
+        "Executar sistema hidráulico preventivo"
+      ],
+      "dataPrazo": "20/08/2026",
+      "prazoDias": 15,
+      "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
+      "bloco": "Bloco 02",
+      "codgAuto": "AF8055000871A/26",
+      "numgAuto": 518150,
+      "_ts": 1785943979.6430302
+    },
+    "AF8055000870A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 473.31,
+      "cidade": "BRUSQUE",
+      "responsavel": "RESIDENCIAL RIVERA",
+      "cpfCnpj": "23729256000130",
+      "celular": "47996550529",
+      "email": "projetos.marvi@gmail.com",
+      "endereco_responsavel": "Rua Afonso Belli, 102, Limoeiro, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "19/08/2026",
+      "prazoDias": 14,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8055000870A/26",
+      "numgAuto": 518137,
+      "_ts": 1785943986.4778976
+    },
+    "AF8265000473A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1359.8,
+      "cidade": "PORTO BELO",
+      "responsavel": "KEITHY CONSTRUTORA E INCORPORADORA LTDA",
+      "cpfCnpj": "00986012000137",
+      "celular": "48999534838",
+      "email": "rr.construcao@outlook.com",
+      "endereco_responsavel": "Rua Canelinha, 165, Centro, São João Batista",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "03/11/2026",
+      "prazoDias": 90,
+      "bombeiroAutuacao": "3º Sgt Verlaine Aparecida Sinhorini",
+      "bloco": "Ed. Província Di Brescia",
+      "codgAuto": "AF8265000473A/26",
+      "numgAuto": 518175,
+      "_ts": 1785944089.1266162
     }
   }
 }
