@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-08-05T14:11:30-03:00",
+  "timestamp": "2026-08-05T18:33:59-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 114,
+      "ultimo_numero": 115,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T14:11:30-03:00"
+      "ultima_verificacao": "2026-08-05T18:33:59-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T14:11:30-03:00"
+      "ultima_verificacao": "2026-08-05T18:33:59-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T14:11:30-03:00"
+      "ultima_verificacao": "2026-08-05T18:33:59-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T14:11:30-03:00"
+      "ultima_verificacao": "2026-08-05T18:33:59-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T14:11:30-03:00"
+      "ultima_verificacao": "2026-08-05T18:33:59-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 121,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T14:11:30-03:00"
+      "ultima_verificacao": "2026-08-05T18:33:59-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 173,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T14:11:30-03:00"
+      "ultima_verificacao": "2026-08-05T18:33:59-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 209,
+      "ultimo_numero": 210,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T14:11:30-03:00"
+      "ultima_verificacao": "2026-08-05T18:33:59-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 84,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T14:11:30-03:00"
+      "ultima_verificacao": "2026-08-05T18:33:59-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 400,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T14:11:30-03:00"
+      "ultima_verificacao": "2026-08-05T18:33:59-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000210A/26",
+        "RE": "RE8047001908A",
+        "Nome_Edificacao": "EDIFÍCIO  BRAATZ",
+        "Logradouro": "Rua Almirante Barroso",
+        "Numero": "1491",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-05T18:33:59-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000205A/26",
         "RE": "RE8047001283A",
@@ -830,6 +840,16 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000115A/26",
+        "RE": "RE8055001318A",
+        "Nome_Edificacao": "Bar e lanchonete joinvilense",
+        "Logradouro": "Rua Horácio Anacleto da Silva",
+        "Numero": "485",
+        "Bairro": "BRUSQUE - LIMOEIRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-05T18:33:59-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000106A/26",
         "RE": "RE8055003197A",
@@ -4592,9 +4612,9 @@
     ]
   },
   "totais": {
-    "Blumenau": 74,
+    "Blumenau": 75,
     "Botuvera": 3,
-    "Brusque": 59,
+    "Brusque": 60,
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 118,
@@ -4603,8 +4623,22 @@
     "Nova Trento": 38,
     "Porto Belo": 48
   },
-  "total_geral": 463,
+  "total_geral": 465,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-05T18:33:59-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000210A/26",
+      "nome": "EDIFÍCIO  BRAATZ",
+      "re": "RE8047001908A"
+    },
+    {
+      "ts": "2026-08-05T18:33:59-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000115A/26",
+      "nome": "Bar e lanchonete joinvilense",
+      "re": "RE8055001318A"
+    },
     {
       "ts": "2026-08-05T12:35:29-03:00",
       "cidade": "Brusque",
@@ -4940,20 +4974,6 @@
       "codigo": "MUL8161000394A/26",
       "nome": "ALCIDES VENANCIO MAESTRI",
       "re": "RE8161004423A"
-    },
-    {
-      "ts": "2026-07-30T20:34:05-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000393A/26",
-      "nome": "ALCIDES VENANCIO MAESTRI",
-      "re": "RE8161004423A"
-    },
-    {
-      "ts": "2026-07-30T20:34:05-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000392A/26",
-      "nome": "EDIFICIO RESIDENCIAL TREVISO",
-      "re": "RE8161011412A"
     }
   ]
 }

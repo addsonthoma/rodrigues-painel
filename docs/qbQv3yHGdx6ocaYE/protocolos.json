@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-05T16:52:04-03:00",
+  "timestamp": "2026-08-05T18:42:52-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-05T16:52:04-03:00"
+      "ultima_verificacao": "2026-08-05T18:42:52-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 399,
-      "ultima_verificacao": "2026-08-05T16:52:04-03:00"
+      "ultima_verificacao": "2026-08-05T18:42:52-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-05T16:52:04-03:00"
+      "ultima_verificacao": "2026-08-05T18:42:52-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3854,
-      "ultima_verificacao": "2026-08-05T16:52:04-03:00"
+      "ultima_verificacao": "2026-08-05T18:42:52-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3356,
-      "ultima_verificacao": "2026-08-05T16:52:04-03:00"
+      "ultimo_numero": 3357,
+      "ultima_verificacao": "2026-08-05T18:42:52-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 961,
-      "ultima_verificacao": "2026-08-05T16:52:04-03:00"
+      "ultima_verificacao": "2026-08-05T18:42:52-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7147,
-      "ultima_verificacao": "2026-08-05T16:52:04-03:00"
+      "ultimo_numero": 7148,
+      "ultima_verificacao": "2026-08-05T18:42:52-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12907,
-      "ultima_verificacao": "2026-08-05T16:52:04-03:00"
+      "ultimo_numero": 12908,
+      "ultima_verificacao": "2026-08-05T18:42:52-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4987,
-      "ultima_verificacao": "2026-08-05T16:52:04-03:00"
+      "ultimo_numero": 4988,
+      "ultima_verificacao": "2026-08-05T18:42:52-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14197,
-      "ultima_verificacao": "2026-08-05T16:52:04-03:00"
+      "ultimo_numero": 14198,
+      "ultima_verificacao": "2026-08-05T18:42:52-03:00"
     }
   },
   "protocolos": {
@@ -2791,6 +2791,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003357A",
+        "RE": "RE8265000008A",
+        "numgEdificacao": 4137,
+        "Nome_Edificacao": "PIER VILLAGE RESIDENCE",
+        "Logradouro": "AV JOÃO MANOEL JAQUES",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-05T18:42:52-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003356A",
         "RE": "RE8265002170A",
         "numgEdificacao": 289083,
@@ -4115,6 +4126,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007148A",
+        "RE": "RE8163000024A",
+        "numgEdificacao": 3673,
+        "Nome_Edificacao": "PARK AVENUE",
+        "Logradouro": "RUA GOVERNADOR CELSO RAMOS",
+        "Numero": "675",
+        "Bairro": "ITAPEMA - CANTO PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-05T18:42:52-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007147A",
         "RE": "RE8163003885A",
         "numgEdificacao": 206256,
@@ -5216,6 +5238,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012908A",
+        "RE": "RE8047008128A",
+        "numgEdificacao": 232110,
+        "Nome_Edificacao": "PAZ EMPREENDIMENTOS IMOBILIÁRIOS LTDA.",
+        "Logradouro": "Rua Leoberto Leal",
+        "Numero": "150",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-05T18:42:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012907A",
         "RE": "RE8047008348A",
@@ -7034,6 +7067,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004988A",
+        "RE": "RE8221004121A",
+        "numgEdificacao": 367039,
+        "Nome_Edificacao": "GPC GARDEN",
+        "Logradouro": "Rua Germano Lemos",
+        "Numero": "447",
+        "Bairro": "NAVEGANTES - Volta Grande",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-05T18:42:52-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004987A",
         "RE": "RE8221004120A",
         "numgEdificacao": 366904,
@@ -8025,6 +8069,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014198A",
+        "RE": "RE8161011942A",
+        "numgEdificacao": 316291,
+        "Nome_Edificacao": "Trade Park Sardagna Empreendimento SPE LTDA",
+        "Logradouro": "RODVIA BR-101",
+        "Numero": "12750",
+        "Bairro": "ITAJAÍ - CANHANDUBA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-05T18:42:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014197A",
         "RE": "RE8161013387A",
@@ -10463,12 +10518,12 @@
     "Botuvera": 33,
     "Guabiruba": 35,
     "Gaspar": 88,
-    "Porto Belo": 75,
+    "Porto Belo": 76,
     "Nova Trento": 45,
-    "Itapema": 100,
-    "Blumenau": 165,
-    "Navegantes": 90,
-    "Itajai": 221
+    "Itapema": 101,
+    "Blumenau": 166,
+    "Navegantes": 91,
+    "Itajai": 222
   },
-  "total_geral": 944
+  "total_geral": 949
 }
