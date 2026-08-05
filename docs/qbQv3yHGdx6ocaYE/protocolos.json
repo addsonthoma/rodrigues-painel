@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-05T08:45:23-03:00",
+  "timestamp": "2026-08-05T10:34:13-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-05T08:45:23-03:00"
+      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 399,
-      "ultima_verificacao": "2026-08-05T08:45:23-03:00"
+      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-05T08:45:23-03:00"
+      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3854,
-      "ultima_verificacao": "2026-08-05T08:45:23-03:00"
+      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3354,
-      "ultima_verificacao": "2026-08-05T08:45:23-03:00"
+      "ultimo_numero": 3355,
+      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 961,
-      "ultima_verificacao": "2026-08-05T08:45:23-03:00"
+      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7147,
-      "ultima_verificacao": "2026-08-05T08:45:23-03:00"
+      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12903,
-      "ultima_verificacao": "2026-08-05T08:45:23-03:00"
+      "ultimo_numero": 12905,
+      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4987,
-      "ultima_verificacao": "2026-08-05T08:45:23-03:00"
+      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14196,
-      "ultima_verificacao": "2026-08-05T08:45:23-03:00"
+      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
     }
   },
   "protocolos": {
@@ -2791,6 +2791,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003355A",
+        "RE": "RE8265002813A",
+        "numgEdificacao": 366992,
+        "Nome_Edificacao": "Residencial Terra",
+        "Logradouro": "Rua Placida de Souza Fonseca",
+        "Numero": "120",
+        "Bairro": "PORTO BELO - Balneário Perequê",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-05T10:34:13-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003354A",
         "RE": "RE8265001635A",
         "numgEdificacao": 201292,
@@ -5194,6 +5205,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012905A",
+        "RE": "RE8047010876A",
+        "numgEdificacao": 315890,
+        "Nome_Edificacao": "ERENI LUIZ MACHADO",
+        "Logradouro": "Rua Imperatriz Leopoldina",
+        "Numero": "",
+        "Bairro": "BLUMENAU - Velha",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-05T10:34:13-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012904A",
+        "RE": "RE8047008111A",
+        "numgEdificacao": 231644,
+        "Nome_Edificacao": "SEMUDES CRAS IV - VORSTARDT",
+        "Logradouro": "Rua Antônio Treis",
+        "Numero": "55",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-05T10:34:13-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012903A",
         "RE": "RE8047012075A",
@@ -10386,12 +10419,12 @@
     "Botuvera": 33,
     "Guabiruba": 35,
     "Gaspar": 88,
-    "Porto Belo": 73,
+    "Porto Belo": 74,
     "Nova Trento": 45,
     "Itapema": 100,
-    "Blumenau": 161,
+    "Blumenau": 163,
     "Navegantes": 90,
     "Itajai": 220
   },
-  "total_geral": 937
+  "total_geral": 940
 }
