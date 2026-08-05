@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-05T10:34:13-03:00",
+  "timestamp": "2026-08-05T12:45:05-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
+      "ultima_verificacao": "2026-08-05T12:45:05-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 399,
-      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
+      "ultima_verificacao": "2026-08-05T12:45:05-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
+      "ultima_verificacao": "2026-08-05T12:45:05-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3854,
-      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
+      "ultima_verificacao": "2026-08-05T12:45:05-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3355,
-      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
+      "ultimo_numero": 3356,
+      "ultima_verificacao": "2026-08-05T12:45:05-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 961,
-      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
+      "ultima_verificacao": "2026-08-05T12:45:05-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7147,
-      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
+      "ultima_verificacao": "2026-08-05T12:45:05-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12905,
-      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
+      "ultimo_numero": 12907,
+      "ultima_verificacao": "2026-08-05T12:45:05-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4987,
-      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
+      "ultima_verificacao": "2026-08-05T12:45:05-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14196,
-      "ultima_verificacao": "2026-08-05T10:34:13-03:00"
+      "ultimo_numero": 14197,
+      "ultima_verificacao": "2026-08-05T12:45:05-03:00"
     }
   },
   "protocolos": {
@@ -2791,6 +2791,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003356A",
+        "RE": "RE8265002170A",
+        "numgEdificacao": 289083,
+        "Nome_Edificacao": "LUZZARA RESIDENCE",
+        "Logradouro": "RUA SÃO FRANCISCO DE ASSIS, 174",
+        "Numero": "174",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-05T12:45:05-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003355A",
         "RE": "RE8265002813A",
         "numgEdificacao": 366992,
@@ -5205,6 +5216,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012907A",
+        "RE": "RE8047008348A",
+        "numgEdificacao": 239945,
+        "Nome_Edificacao": "Edificio TOULOUSE",
+        "Logradouro": "Benjamin Constant",
+        "Numero": "1133",
+        "Bairro": "BLUMENAU - ESCOLA AGRÍCOLA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-05T12:45:05-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012906A",
+        "RE": "RE8047008113A",
+        "numgEdificacao": 231693,
+        "Nome_Edificacao": "PMB - SEMUDES CRAS III - FORTALEZA",
+        "Logradouro": "ALBERTO FELICIO ADRIANO",
+        "Numero": "150",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-05T12:45:05-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012905A",
         "RE": "RE8047010876A",
@@ -7993,6 +8026,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014197A",
+        "RE": "RE8161013387A",
+        "numgEdificacao": 354740,
+        "Nome_Edificacao": "AURORA",
+        "Logradouro": "RUA CONSELHEIRO JULIO KUMM",
+        "Numero": "327",
+        "Bairro": "ITAJAÍ - PRAIA BRAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-05T12:45:05-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014196A",
         "RE": "RE8161004349A",
         "numgEdificacao": 135365,
@@ -10419,12 +10463,12 @@
     "Botuvera": 33,
     "Guabiruba": 35,
     "Gaspar": 88,
-    "Porto Belo": 74,
+    "Porto Belo": 75,
     "Nova Trento": 45,
     "Itapema": 100,
-    "Blumenau": 163,
+    "Blumenau": 165,
     "Navegantes": 90,
-    "Itajai": 220
+    "Itajai": 221
   },
-  "total_geral": 940
+  "total_geral": 944
 }

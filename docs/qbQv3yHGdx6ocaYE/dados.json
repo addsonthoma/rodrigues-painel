@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-05T10:26:03-03:00",
+  "timestamp": "2026-08-05T12:35:29-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 105,
+      "ultimo_numero": 114,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T10:26:03-03:00"
+      "ultima_verificacao": "2026-08-05T12:35:29-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T10:26:03-03:00"
+      "ultima_verificacao": "2026-08-05T12:35:29-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T10:26:03-03:00"
+      "ultima_verificacao": "2026-08-05T12:35:29-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 42,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T10:26:03-03:00"
+      "ultima_verificacao": "2026-08-05T12:35:29-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T10:26:03-03:00"
+      "ultima_verificacao": "2026-08-05T12:35:29-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 121,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T10:26:03-03:00"
+      "ultima_verificacao": "2026-08-05T12:35:29-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 173,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T10:26:03-03:00"
+      "ultima_verificacao": "2026-08-05T12:35:29-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 209,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T10:26:03-03:00"
+      "ultima_verificacao": "2026-08-05T12:35:29-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 84,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T10:26:03-03:00"
+      "ultima_verificacao": "2026-08-05T12:35:29-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 400,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-05T10:26:03-03:00"
+      "ultima_verificacao": "2026-08-05T12:35:29-03:00"
     }
   },
   "multas": {
@@ -830,6 +830,96 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000106A/26",
+        "RE": "RE8055003197A",
+        "Nome_Edificacao": "DIEGOLI & CIA LTDA",
+        "Logradouro": "RUA GABRIEL SIEGEL",
+        "Numero": "250",
+        "Bairro": "BRUSQUE - GUARANI",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-05T12:35:29-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000107A/26",
+        "RE": "RE8055001347A",
+        "Nome_Edificacao": "SINSEB",
+        "Logradouro": "Rua Manoel Tavares",
+        "Numero": "60",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-05T12:35:29-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000108A/26",
+        "RE": "RE8055004876A",
+        "Nome_Edificacao": "SERGIO DEBATIN",
+        "Logradouro": "Rua Santa Cruz",
+        "Numero": "335",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-05T12:35:29-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000109A/26",
+        "RE": "RE8055004038A",
+        "Nome_Edificacao": "José Carlos Mafra Júnior",
+        "Logradouro": "Rua Alberto Mueller",
+        "Numero": "61",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-05T12:35:29-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000110A/26",
+        "RE": "RE8055000675A",
+        "Nome_Edificacao": "Valdir Groh - Galpão Industrial",
+        "Logradouro": "Rua Carmelina Groh",
+        "Numero": "204",
+        "Bairro": "BRUSQUE - PAQUETÁ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-05T12:35:29-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000111A/26",
+        "RE": "RE8055002647A",
+        "Nome_Edificacao": "ACACIO CADORIN",
+        "Logradouro": "Ludovico Merico",
+        "Numero": "111",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-05T12:35:29-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000112A/26",
+        "RE": "RE8055002907A",
+        "Nome_Edificacao": "GILMAR SILVEIRA",
+        "Logradouro": "R JOAO BATISTA GALASSINI",
+        "Numero": "33",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-05T12:35:29-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000113A/26",
+        "RE": "RE8055006630A",
+        "Nome_Edificacao": "NATANNA BETINELLI",
+        "Logradouro": "R MAXIMILIANO FURBRINGER",
+        "Numero": "202",
+        "Bairro": "BRUSQUE - Jardim Maluche",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-05T12:35:29-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000114A/26",
+        "RE": "RE8055001002A",
+        "Nome_Edificacao": "Bellicar Comercio e Representações ltda",
+        "Logradouro": "Rua Melchior Schlindwein",
+        "Numero": "181",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-05T12:35:29-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000104A/26",
         "RE": "RE8055001135A",
@@ -4504,7 +4594,7 @@
   "totais": {
     "Blumenau": 74,
     "Botuvera": 3,
-    "Brusque": 50,
+    "Brusque": 59,
     "Gaspar": 18,
     "Guabiruba": 3,
     "Itajai": 118,
@@ -4513,8 +4603,71 @@
     "Nova Trento": 38,
     "Porto Belo": 48
   },
-  "total_geral": 454,
+  "total_geral": 463,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-05T12:35:29-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000114A/26",
+      "nome": "Bellicar Comercio e Representações ltda",
+      "re": "RE8055001002A"
+    },
+    {
+      "ts": "2026-08-05T12:35:29-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000113A/26",
+      "nome": "NATANNA BETINELLI",
+      "re": "RE8055006630A"
+    },
+    {
+      "ts": "2026-08-05T12:35:29-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000112A/26",
+      "nome": "GILMAR SILVEIRA",
+      "re": "RE8055002907A"
+    },
+    {
+      "ts": "2026-08-05T12:35:29-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000111A/26",
+      "nome": "ACACIO CADORIN",
+      "re": "RE8055002647A"
+    },
+    {
+      "ts": "2026-08-05T12:35:29-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000110A/26",
+      "nome": "Valdir Groh - Galpão Industrial",
+      "re": "RE8055000675A"
+    },
+    {
+      "ts": "2026-08-05T12:35:29-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000109A/26",
+      "nome": "José Carlos Mafra Júnior",
+      "re": "RE8055004038A"
+    },
+    {
+      "ts": "2026-08-05T12:35:29-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000108A/26",
+      "nome": "SERGIO DEBATIN",
+      "re": "RE8055004876A"
+    },
+    {
+      "ts": "2026-08-05T12:35:29-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000107A/26",
+      "nome": "SINSEB",
+      "re": "RE8055001347A"
+    },
+    {
+      "ts": "2026-08-05T12:35:29-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000106A/26",
+      "nome": "DIEGOLI & CIA LTDA",
+      "re": "RE8055003197A"
+    },
     {
       "ts": "2026-08-05T10:26:03-03:00",
       "cidade": "Nova Trento",
@@ -4801,62 +4954,6 @@
       "codigo": "MUL8161000392A/26",
       "nome": "EDIFICIO RESIDENCIAL TREVISO",
       "re": "RE8161011412A"
-    },
-    {
-      "ts": "2026-07-30T20:34:05-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000203A/26",
-      "nome": "SAULO CANTIDIO REBELO",
-      "re": "RE8047006378A"
-    },
-    {
-      "ts": "2026-07-29T15:08:27-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000391A/26",
-      "nome": "7 BARBAS PESCADOS",
-      "re": "RE8161011726A"
-    },
-    {
-      "ts": "2026-07-29T15:08:27-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000390A/26",
-      "nome": "HAMILTON PEDRO TURNES",
-      "re": "RE8161002044A"
-    },
-    {
-      "ts": "2026-07-29T15:08:27-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000389A/26",
-      "nome": "PIZZARIA DO FUTURO",
-      "re": "RE8161004677A"
-    },
-    {
-      "ts": "2026-07-29T15:08:27-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000388A/26",
-      "nome": "RONCELLI ARTEFATOS DE CIMENTO E CONSTRUÇÕES LTDA",
-      "re": "RE8161001226A"
-    },
-    {
-      "ts": "2026-07-29T13:54:04-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000387A/26",
-      "nome": "GIANNI YURI BOEING",
-      "re": "RE8161005183A"
-    },
-    {
-      "ts": "2026-07-29T13:54:04-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000105A/26",
-      "nome": "CASSANIGA INCORP. DE EMPREEND. IMOB. LTDA",
-      "re": "RE8055001135A"
-    },
-    {
-      "ts": "2026-07-29T13:54:04-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000104A/26",
-      "nome": "CASSANIGA INCORP. DE EMPREEND. IMOB. LTDA",
-      "re": "RE8055001135A"
     }
   ]
 }
