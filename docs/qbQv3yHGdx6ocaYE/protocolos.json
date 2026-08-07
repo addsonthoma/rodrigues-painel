@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-06T21:45:00-03:00",
+  "timestamp": "2026-08-07T00:47:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
+      "ultima_verificacao": "2026-08-07T00:47:31-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 399,
-      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
+      "ultima_verificacao": "2026-08-07T00:47:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
+      "ultima_verificacao": "2026-08-07T00:47:31-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3854,
-      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
+      "ultima_verificacao": "2026-08-07T00:47:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3360,
-      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
+      "ultima_verificacao": "2026-08-07T00:47:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 961,
-      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
+      "ultimo_numero": 962,
+      "ultima_verificacao": "2026-08-07T00:47:31-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7151,
-      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
+      "ultimo_numero": 7152,
+      "ultima_verificacao": "2026-08-07T00:47:31-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12911,
-      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
+      "ultima_verificacao": "2026-08-07T00:47:31-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4988,
-      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
+      "ultima_verificacao": "2026-08-07T00:47:31-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14204,
-      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
+      "ultima_verificacao": "2026-08-07T00:47:31-03:00"
     }
   },
   "protocolos": {
@@ -3662,6 +3662,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoProtocolo": "A8225000962A",
+        "RE": "RE8225000646A",
+        "numgEdificacao": 335267,
+        "Nome_Edificacao": "NAIA MONTIBELLER",
+        "Logradouro": "RUA NICOLAU BADO",
+        "Numero": "261",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-07T00:47:31-03:00"
+      },
+      {
         "CodigoProtocolo": "A8225000961A",
         "RE": "RE8225000683A",
         "numgEdificacao": 340320,
@@ -4158,6 +4169,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007152A",
+        "RE": "RE8163001389A",
+        "numgEdificacao": 61825,
+        "Nome_Edificacao": "RESID MULTIF - DVALLE R438",
+        "Logradouro": "438",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-07T00:47:31-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007151A",
         "RE": "RE8163000213A",
@@ -10684,11 +10706,11 @@
     "Guabiruba": 35,
     "Gaspar": 88,
     "Porto Belo": 79,
-    "Nova Trento": 45,
-    "Itapema": 104,
+    "Nova Trento": 46,
+    "Itapema": 105,
     "Blumenau": 169,
     "Navegantes": 91,
     "Itajai": 228
   },
-  "total_geral": 964
+  "total_geral": 966
 }
