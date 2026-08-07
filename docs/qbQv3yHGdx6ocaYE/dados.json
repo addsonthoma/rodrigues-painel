@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-08-06T08:38:44-03:00",
+  "timestamp": "2026-08-06T21:35:49-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 115,
+      "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-06T08:38:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:35:49-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-06T08:38:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:35:49-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-06T08:38:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:35:49-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
-      "ultimo_numero": 42,
+      "ultimo_numero": 43,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-06T08:38:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:35:49-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-06T08:38:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:35:49-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 121,
+      "ultimo_numero": 123,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-06T08:38:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:35:49-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 173,
+      "ultimo_numero": 174,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-06T08:38:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:35:49-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 210,
+      "ultimo_numero": 211,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-06T08:38:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:35:49-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 84,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-06T08:38:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:35:49-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 400,
+      "ultimo_numero": 402,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-06T08:38:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:35:49-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000211A/26",
+        "RE": "RE8047011014A",
+        "Nome_Edificacao": "RESIDENCIAL FELIPE I",
+        "Logradouro": "Rua Felipe Schmidt",
+        "Numero": "76",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-06T21:35:49-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000210A/26",
         "RE": "RE8047001908A",
@@ -841,6 +851,36 @@
     ],
     "Brusque": [
       {
+        "CodigoAuto": "MUL8055000116A/26",
+        "RE": "RE8055000875A",
+        "Nome_Edificacao": "Metalurgica Becker",
+        "Logradouro": "Rua Osvaldo Niebuhr",
+        "Numero": "458",
+        "Bairro": "BRUSQUE - NOVA BRASÍLIA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-06T21:35:49-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000117A/26",
+        "RE": "RE8055001195A",
+        "Nome_Edificacao": "KANTO INTIMO IND. E COM. DE CONF. LTDA",
+        "Logradouro": "Rua José Noldin",
+        "Numero": "",
+        "Bairro": "BRUSQUE - LIMEIRA ALTA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-06T21:35:49-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000118A/26",
+        "RE": "RE8055001195A",
+        "Nome_Edificacao": "KANTO INTIMO IND. E COM. DE CONF. LTDA",
+        "Logradouro": "Rua José Noldin",
+        "Numero": "",
+        "Bairro": "BRUSQUE - LIMEIRA ALTA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-06T21:35:49-03:00"
+      },
+      {
         "CodigoAuto": "MUL8055000115A/26",
         "RE": "RE8055001318A",
         "Nome_Edificacao": "Bar e lanchonete joinvilense",
@@ -1428,6 +1468,16 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "MUL8117000043A/26",
+        "RE": "RE8117002937A",
+        "Nome_Edificacao": "CIRCULO  S/A AUTOMUSEU",
+        "Logradouro": "Rua Adolfo Wehmuth",
+        "Numero": "630",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-06T21:35:49-03:00"
+      },
+      {
         "CodigoAuto": "MUL8117000042A/26",
         "RE": "RE8117002606A",
         "Nome_Edificacao": "EDERSON ZUCCHI",
@@ -1623,6 +1673,26 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000401A/26",
+        "RE": "RE8161001050A",
+        "Nome_Edificacao": "APIL INVESTIMENTOS LTDA",
+        "Logradouro": "RUA DOUTOR PEDRO FERREIRA",
+        "Numero": "180",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-06T21:35:49-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000402A/26",
+        "RE": "RE8161000014A",
+        "Nome_Edificacao": "PREFEITURA MUNICIPAL DE ITAJAI",
+        "Logradouro": "Rua Alberto Werner",
+        "Numero": "100",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-06T21:35:49-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000397A/26",
         "RE": "RE8161001325A",
@@ -2789,6 +2859,16 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000174A/26",
+        "RE": "RE8163002026A",
+        "Nome_Edificacao": "N.E. CONSTRUTORA E INCORPORADORA",
+        "Logradouro": "RUA 220",
+        "Numero": "155",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-06T21:35:49-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000173A/26",
         "RE": "RE8163000973A",
         "Nome_Edificacao": "RESIDENCIAL",
@@ -3782,6 +3862,26 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000122A/26",
+        "RE": "RE8225000515A",
+        "Nome_Edificacao": "JULIANO DALLA BRIDA",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "3495",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-06T21:35:49-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000123A/26",
+        "RE": "RE8225000362A",
+        "Nome_Edificacao": "LEVINO MEYER",
+        "Logradouro": "R Alferes",
+        "Numero": "2153",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-06T21:35:49-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000121A/26",
         "RE": "RE8225000683A",
         "Nome_Edificacao": "SINDICATO",
@@ -4612,19 +4712,89 @@
     ]
   },
   "totais": {
-    "Blumenau": 75,
+    "Blumenau": 76,
     "Botuvera": 3,
-    "Brusque": 60,
-    "Gaspar": 18,
+    "Brusque": 63,
+    "Gaspar": 19,
     "Guabiruba": 3,
-    "Itajai": 118,
-    "Itapema": 56,
+    "Itajai": 120,
+    "Itapema": 57,
     "Navegantes": 46,
-    "Nova Trento": 38,
+    "Nova Trento": 40,
     "Porto Belo": 48
   },
-  "total_geral": 465,
+  "total_geral": 475,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-06T21:35:49-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000402A/26",
+      "nome": "PREFEITURA MUNICIPAL DE ITAJAI",
+      "re": "RE8161000014A"
+    },
+    {
+      "ts": "2026-08-06T21:35:49-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000401A/26",
+      "nome": "APIL INVESTIMENTOS LTDA",
+      "re": "RE8161001050A"
+    },
+    {
+      "ts": "2026-08-06T21:35:49-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000211A/26",
+      "nome": "RESIDENCIAL FELIPE I",
+      "re": "RE8047011014A"
+    },
+    {
+      "ts": "2026-08-06T21:35:49-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000174A/26",
+      "nome": "N.E. CONSTRUTORA E INCORPORADORA",
+      "re": "RE8163002026A"
+    },
+    {
+      "ts": "2026-08-06T21:35:49-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000123A/26",
+      "nome": "LEVINO MEYER",
+      "re": "RE8225000362A"
+    },
+    {
+      "ts": "2026-08-06T21:35:49-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000122A/26",
+      "nome": "JULIANO DALLA BRIDA",
+      "re": "RE8225000515A"
+    },
+    {
+      "ts": "2026-08-06T21:35:49-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000043A/26",
+      "nome": "CIRCULO  S/A AUTOMUSEU",
+      "re": "RE8117002937A"
+    },
+    {
+      "ts": "2026-08-06T21:35:49-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000118A/26",
+      "nome": "KANTO INTIMO IND. E COM. DE CONF. LTDA",
+      "re": "RE8055001195A"
+    },
+    {
+      "ts": "2026-08-06T21:35:49-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000117A/26",
+      "nome": "KANTO INTIMO IND. E COM. DE CONF. LTDA",
+      "re": "RE8055001195A"
+    },
+    {
+      "ts": "2026-08-06T21:35:49-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000116A/26",
+      "nome": "Metalurgica Becker",
+      "re": "RE8055000875A"
+    },
     {
       "ts": "2026-08-05T18:33:59-03:00",
       "cidade": "Blumenau",
@@ -4904,76 +5074,6 @@
       "codigo": "MUL8265000102A/26",
       "nome": "NATALI DA SILVA DE ALMEIDA",
       "re": "RE8265000724A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000101A/26",
-      "nome": "Lavanderia Vida Perfumada",
-      "re": "RE8265002432A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000100A/26",
-      "nome": "TAVARES INCORPORADORA LTDA",
-      "re": "RE8265001616A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000099A/26",
-      "nome": "WALJE EMPPREENDIMENTOS IMOBILIÁRIOS",
-      "re": "RE8265000011A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000098A/26",
-      "nome": "EDIFICIO VASOLER",
-      "re": "RE8265000717A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000097A/26",
-      "nome": "CELIA REGINA WILLE SARQUIS",
-      "re": "RE8265001150A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000096A/26",
-      "nome": "GERCINO ANGELO DA SILVA NETO",
-      "re": "RE8265000518A"
-    },
-    {
-      "ts": "2026-07-31T17:14:52-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000204A/26",
-      "nome": "Parque Vila Germânica",
-      "re": "RE8047000167A"
-    },
-    {
-      "ts": "2026-07-31T14:20:25-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000168A/26",
-      "nome": "BARBEARIA",
-      "re": "RE8163006130A"
-    },
-    {
-      "ts": "2026-07-30T20:34:05-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000395A/26",
-      "nome": "MARCOS EMERSON KRZISCH",
-      "re": "RE8161002654A"
-    },
-    {
-      "ts": "2026-07-30T20:34:05-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000394A/26",
-      "nome": "ALCIDES VENANCIO MAESTRI",
-      "re": "RE8161004423A"
     }
   ]
 }

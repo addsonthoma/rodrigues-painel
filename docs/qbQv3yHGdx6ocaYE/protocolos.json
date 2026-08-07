@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-06T11:17:44-03:00",
+  "timestamp": "2026-08-06T21:45:00-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-06T11:17:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 399,
-      "ultima_verificacao": "2026-08-06T11:17:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-06T11:17:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3854,
-      "ultima_verificacao": "2026-08-06T11:17:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3357,
-      "ultima_verificacao": "2026-08-06T11:17:44-03:00"
+      "ultimo_numero": 3360,
+      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 961,
-      "ultima_verificacao": "2026-08-06T11:17:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7148,
-      "ultima_verificacao": "2026-08-06T11:17:44-03:00"
+      "ultimo_numero": 7151,
+      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12908,
-      "ultima_verificacao": "2026-08-06T11:17:44-03:00"
+      "ultimo_numero": 12911,
+      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4988,
-      "ultima_verificacao": "2026-08-06T11:17:44-03:00"
+      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14200,
-      "ultima_verificacao": "2026-08-06T11:17:44-03:00"
+      "ultimo_numero": 14204,
+      "ultima_verificacao": "2026-08-06T21:45:00-03:00"
     }
   },
   "protocolos": {
@@ -2791,6 +2791,39 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003360A",
+        "RE": "RE8265002815A",
+        "numgEdificacao": 367163,
+        "Nome_Edificacao": "Galpão Comercial",
+        "Logradouro": "A V. JOSE NEOLI CRUZ",
+        "Numero": "2235",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003359A",
+        "RE": "RE8265002158A",
+        "numgEdificacao": 288796,
+        "Nome_Edificacao": "CELENO",
+        "Logradouro": "R FRANCISCO AGUIAR",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003358A",
+        "RE": "RE8265002051A",
+        "numgEdificacao": 274574,
+        "Nome_Edificacao": "SENSE 106",
+        "Logradouro": "RUA MÁRIO PADILHA",
+        "Numero": "106",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003357A",
         "RE": "RE8265000008A",
         "numgEdificacao": 4137,
@@ -4126,6 +4159,39 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007151A",
+        "RE": "RE8163000213A",
+        "numgEdificacao": 11188,
+        "Nome_Edificacao": "BOULEVARD ROYAL RESIDENCE",
+        "Logradouro": "Av. Gov. Celso Ramos Esq. Rua 119 e 119-A",
+        "Numero": "",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007150A",
+        "RE": "RE8163006843A",
+        "numgEdificacao": 367119,
+        "Nome_Edificacao": "COMERCIAL - ITAPLOT-I",
+        "Logradouro": "RUA 808 - B",
+        "Numero": "274",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007149A",
+        "RE": "RE8163005327A",
+        "numgEdificacao": 269257,
+        "Nome_Edificacao": "Maine",
+        "Logradouro": "Rua 280, esq. com Terceira av.",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007148A",
         "RE": "RE8163000024A",
         "numgEdificacao": 3673,
@@ -5238,6 +5304,39 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012911A",
+        "RE": "RE8047012078A",
+        "numgEdificacao": 367200,
+        "Nome_Edificacao": "W.A ESTAMPARIA LTDA-ME",
+        "Logradouro": "Rua Governador Jorge Lacerda",
+        "Numero": "2903",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012910A",
+        "RE": "RE8047010086A",
+        "numgEdificacao": 285378,
+        "Nome_Edificacao": "Claudio Simão",
+        "Logradouro": "RUA BAHIA",
+        "Numero": "5129",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012909A",
+        "RE": "RE8047004430A",
+        "numgEdificacao": 140838,
+        "Nome_Edificacao": "Vanderlei Warmeling",
+        "Logradouro": "Philipp Bauler",
+        "Numero": "590",
+        "Bairro": "BLUMENAU - TESTO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012908A",
         "RE": "RE8047008128A",
@@ -8070,6 +8169,50 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014204A",
+        "RE": "RE8161000240A",
+        "numgEdificacao": 7649,
+        "Nome_Edificacao": "SC ADMINISTRADORA DE BENS SA",
+        "Logradouro": "Rua Tubarão",
+        "Numero": "307",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014203A",
+        "RE": "RE8161013801A",
+        "numgEdificacao": 367196,
+        "Nome_Edificacao": "ANA JÚLIA GONÇALVES",
+        "Logradouro": "Rua Cecília Meirelles",
+        "Numero": "140",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014202A",
+        "RE": "RE8161013797A",
+        "numgEdificacao": 366953,
+        "Nome_Edificacao": "Bauer Administração de Imóveis",
+        "Logradouro": "Avenida Prefeito Paulo Bauer",
+        "Numero": "557",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014201A",
+        "RE": "RE8161013796A",
+        "numgEdificacao": 366938,
+        "Nome_Edificacao": "Bauer Administração de Imóveis Ltda",
+        "Logradouro": "Avenida Prefeito Paulo Bauer",
+        "Numero": "525",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-06T21:45:00-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014200A",
         "RE": "RE8161003598A",
         "numgEdificacao": 109930,
@@ -10540,12 +10683,12 @@
     "Botuvera": 33,
     "Guabiruba": 35,
     "Gaspar": 88,
-    "Porto Belo": 76,
+    "Porto Belo": 79,
     "Nova Trento": 45,
-    "Itapema": 101,
-    "Blumenau": 166,
+    "Itapema": 104,
+    "Blumenau": 169,
     "Navegantes": 91,
-    "Itajai": 224
+    "Itajai": 228
   },
-  "total_geral": 951
+  "total_geral": 964
 }
