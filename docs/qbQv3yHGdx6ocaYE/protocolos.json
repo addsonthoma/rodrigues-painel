@@ -1,59 +1,81 @@
 {
-  "timestamp": "2026-08-07T16:15:11-03:00",
+  "timestamp": "2026-08-07T18:05:01-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8057,
-      "ultima_verificacao": "2026-08-07T16:15:11-03:00"
+      "ultimo_numero": 8059,
+      "ultima_verificacao": "2026-08-07T18:05:01-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 399,
-      "ultima_verificacao": "2026-08-07T16:15:11-03:00"
+      "ultima_verificacao": "2026-08-07T18:05:01-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-07T16:15:11-03:00"
+      "ultima_verificacao": "2026-08-07T18:05:01-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3854,
-      "ultima_verificacao": "2026-08-07T16:15:11-03:00"
+      "ultimo_numero": 3855,
+      "ultima_verificacao": "2026-08-07T18:05:01-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3360,
-      "ultima_verificacao": "2026-08-07T16:15:11-03:00"
+      "ultimo_numero": 3363,
+      "ultima_verificacao": "2026-08-07T18:05:01-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 962,
-      "ultima_verificacao": "2026-08-07T16:15:11-03:00"
+      "ultimo_numero": 963,
+      "ultima_verificacao": "2026-08-07T18:05:01-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7154,
-      "ultima_verificacao": "2026-08-07T16:15:11-03:00"
+      "ultimo_numero": 7156,
+      "ultima_verificacao": "2026-08-07T18:05:01-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12914,
-      "ultima_verificacao": "2026-08-07T16:15:11-03:00"
+      "ultimo_numero": 12918,
+      "ultima_verificacao": "2026-08-07T18:05:01-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4989,
-      "ultima_verificacao": "2026-08-07T16:15:11-03:00"
+      "ultima_verificacao": "2026-08-07T18:05:01-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14205,
-      "ultima_verificacao": "2026-08-07T16:15:11-03:00"
+      "ultimo_numero": 14206,
+      "ultima_verificacao": "2026-08-07T18:05:01-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008059A",
+        "RE": "RE8055006775A",
+        "numgEdificacao": 365915,
+        "Nome_Edificacao": "FRAN NARCISO COMPANY LTDA",
+        "Logradouro": "VIA SC 032",
+        "Numero": "181",
+        "Bairro": "BRUSQUE - SOUZA CRUZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008058A",
+        "RE": "RE8055006601A",
+        "numgEdificacao": 354053,
+        "Nome_Edificacao": "COMERCIO DE PNEUS E PECAS AUTOMOTIVAS MONTEIRO LTDA",
+        "Logradouro": "R GENERAL OSORIO",
+        "Numero": "578",
+        "Bairro": "BRUSQUE - GUARANI",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008057A",
         "RE": "RE8055006787A",
@@ -1832,6 +1854,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003855A",
+        "RE": "RE8117003072A",
+        "numgEdificacao": 341349,
+        "Nome_Edificacao": "COMUNIDADE FAMILIA CRISTÃ",
+        "Logradouro": "RUA ANFILOQUIO NUNES PIRES",
+        "Numero": "3765",
+        "Bairro": "GASPAR - BELA VISTA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003854A",
         "RE": "RE8117003271A",
         "numgEdificacao": 366868,
@@ -2802,6 +2835,39 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003363A",
+        "RE": "RE8265000042A",
+        "numgEdificacao": 11099,
+        "Nome_Edificacao": "TACLA INVESTIMENTOS DE BENS LTDA",
+        "Logradouro": "ROD BR 101",
+        "Numero": "",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003362A",
+        "RE": "RE8265000042A",
+        "numgEdificacao": 11099,
+        "Nome_Edificacao": "TACLA INVESTIMENTOS DE BENS LTDA",
+        "Logradouro": "ROD BR 101",
+        "Numero": "",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003361A",
+        "RE": "RE8265002816A",
+        "numgEdificacao": 367266,
+        "Nome_Edificacao": "CONDOMÍNIO AERONÁUTICO COSTA ESMERALDA - LOTE 66 - HANGAR 66",
+        "Logradouro": "BR 101",
+        "Numero": "",
+        "Bairro": "PORTO BELO - SANTA LUZIA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003360A",
         "RE": "RE8265002815A",
         "numgEdificacao": 367163,
@@ -3673,6 +3739,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoProtocolo": "A8225000963A",
+        "RE": "RE8225000054A",
+        "numgEdificacao": 18457,
+        "Nome_Edificacao": "ANTONIO VILMAR BOSO",
+        "Logradouro": "Rua dos Imigrantes",
+        "Numero": "845",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
+      {
         "CodigoProtocolo": "A8225000962A",
         "RE": "RE8225000646A",
         "numgEdificacao": 335267,
@@ -4180,6 +4257,28 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007156A",
+        "RE": "RE8163002352A",
+        "numgEdificacao": 150142,
+        "Nome_Edificacao": "Mugello Residenziale",
+        "Logradouro": "Rua 428",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007155A",
+        "RE": "RE8163006845A",
+        "numgEdificacao": 367240,
+        "Nome_Edificacao": "CMEI RUA 456",
+        "Logradouro": "RUA 456",
+        "Numero": "",
+        "Bairro": "ITAPEMA - JARDIM PRAIA MAR",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007154A",
         "RE": "RE8163002054A",
@@ -5359,6 +5458,50 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012918A",
+        "RE": "RE8047012037A",
+        "numgEdificacao": 365120,
+        "Nome_Edificacao": "EDIFICIO VERSAILLES",
+        "Logradouro": "RUA TOBIAS BARRETO",
+        "Numero": "234",
+        "Bairro": "BLUMENAU - Vila Nova",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012917A",
+        "RE": "RE8047010847A",
+        "numgEdificacao": 314429,
+        "Nome_Edificacao": "PAROQUIA EVANGELICA DE CONFISSÃO LUTERANA EM BADENFURT",
+        "Logradouro": "Rua José Pedro Theiss",
+        "Numero": "100",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012916A",
+        "RE": "RE8047012079A",
+        "numgEdificacao": 367217,
+        "Nome_Edificacao": "Capela Mortuária Salto Weisbach",
+        "Logradouro": "Rua José Pedro Theiss",
+        "Numero": "120",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012915A",
+        "RE": "RE8047012080A",
+        "numgEdificacao": 367280,
+        "Nome_Edificacao": "EDIFICIO GREENVILLE",
+        "Logradouro": "RUA TOBIAS BARRETO",
+        "Numero": "266",
+        "Bairro": "BLUMENAU - Vila Nova",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012914A",
         "RE": "RE8047002226A",
@@ -8268,6 +8411,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014206A",
+        "RE": "RE8161013769A",
+        "numgEdificacao": 366210,
+        "Nome_Edificacao": "Dayana Lorelay Gomes",
+        "Logradouro": "R CONCORDIA",
+        "Numero": "23",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-07T18:05:01-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014205A",
         "RE": "RE8161000061A",
         "numgEdificacao": 2103,
@@ -10789,16 +10943,16 @@
     ]
   },
   "totais": {
-    "Brusque": 93,
+    "Brusque": 95,
     "Botuvera": 33,
     "Guabiruba": 35,
-    "Gaspar": 88,
-    "Porto Belo": 79,
-    "Nova Trento": 46,
-    "Itapema": 107,
-    "Blumenau": 172,
+    "Gaspar": 89,
+    "Porto Belo": 82,
+    "Nova Trento": 47,
+    "Itapema": 109,
+    "Blumenau": 176,
     "Navegantes": 92,
-    "Itajai": 229
+    "Itajai": 230
   },
-  "total_geral": 974
+  "total_geral": 988
 }
