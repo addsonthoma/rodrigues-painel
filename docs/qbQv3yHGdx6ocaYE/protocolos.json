@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-07T08:29:53-03:00",
+  "timestamp": "2026-08-07T09:15:08-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-07T08:29:53-03:00"
+      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 399,
-      "ultima_verificacao": "2026-08-07T08:29:53-03:00"
+      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-07T08:29:53-03:00"
+      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3854,
-      "ultima_verificacao": "2026-08-07T08:29:53-03:00"
+      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3360,
-      "ultima_verificacao": "2026-08-07T08:29:53-03:00"
+      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 962,
-      "ultima_verificacao": "2026-08-07T08:29:53-03:00"
+      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7152,
-      "ultima_verificacao": "2026-08-07T08:29:53-03:00"
+      "ultimo_numero": 7153,
+      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12911,
-      "ultima_verificacao": "2026-08-07T08:29:53-03:00"
+      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4988,
-      "ultima_verificacao": "2026-08-07T08:29:53-03:00"
+      "ultimo_numero": 4989,
+      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14205,
-      "ultima_verificacao": "2026-08-07T08:29:53-03:00"
+      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
     }
   },
   "protocolos": {
@@ -4170,6 +4170,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007153A",
+        "RE": "RE8163006570A",
+        "numgEdificacao": 349276,
+        "Nome_Edificacao": "JÚLIA DE LIMA WEBER",
+        "Logradouro": "Estrada Geral Sertão do Trombudo",
+        "Numero": "8181",
+        "Bairro": "ITAPEMA - SERTAO TROMBUDO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-07T09:15:08-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007152A",
         "RE": "RE8163001389A",
         "numgEdificacao": 61825,
@@ -7187,6 +7198,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoProtocolo": "A8221004989A",
+        "RE": "RE8221004122A",
+        "numgEdificacao": 367174,
+        "Nome_Edificacao": "ESCALVADOS GAS E AGUA LTDA",
+        "Logradouro": "Rua Natália Martins Emídio",
+        "Numero": "4201",
+        "Bairro": "NAVEGANTES - ESCALVADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-07T09:15:08-03:00"
+      },
       {
         "CodigoProtocolo": "A8221004988A",
         "RE": "RE8221004121A",
@@ -10718,10 +10740,10 @@
     "Gaspar": 88,
     "Porto Belo": 79,
     "Nova Trento": 46,
-    "Itapema": 105,
+    "Itapema": 106,
     "Blumenau": 169,
-    "Navegantes": 91,
+    "Navegantes": 92,
     "Itajai": 229
   },
-  "total_geral": 967
+  "total_geral": 969
 }
