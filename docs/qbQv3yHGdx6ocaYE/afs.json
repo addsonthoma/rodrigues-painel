@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-07T18:10:41-03:00",
+  "timestamp": "2026-08-07T18:56:49-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 882,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-07T18:10:41-03:00"
+      "ultima_verificacao": "2026-08-07T18:56:49-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-07T18:10:41-03:00"
+      "ultima_verificacao": "2026-08-07T18:56:49-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-07T18:10:41-03:00"
+      "ultima_verificacao": "2026-08-07T18:56:49-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 563,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-07T18:10:41-03:00"
+      "ultima_verificacao": "2026-08-07T18:56:49-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 475,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-07T18:10:41-03:00"
+      "ultima_verificacao": "2026-08-07T18:56:49-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 460,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-07T18:10:41-03:00"
+      "ultima_verificacao": "2026-08-07T18:56:49-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1088,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-07T18:10:41-03:00"
+      "ultima_verificacao": "2026-08-07T18:56:49-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1023,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-07T18:10:41-03:00"
+      "ultima_verificacao": "2026-08-07T18:56:49-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 294,
+      "ultimo_numero": 295,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-07T18:10:41-03:00"
+      "ultima_verificacao": "2026-08-07T18:56:49-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1108,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-07T18:10:41-03:00"
+      "ultima_verificacao": "2026-08-07T18:56:49-03:00"
     }
   },
   "afs": {
@@ -16493,6 +16493,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000295A/26",
+        "Tipo": "AF",
+        "RE": "RE8221002901A",
+        "Nome_Edificacao": "ADEMAR MACARINI",
+        "Logradouro": "ORLANDO FERREIRA",
+        "Numero": "1248",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-07T18:56:49-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000294A/26",
         "Tipo": "AF",
         "RE": "RE8221001456A",
@@ -21400,8 +21411,8 @@
     "Nova Trento": 150,
     "Itapema": 354,
     "Blumenau": 310,
-    "Navegantes": 90,
+    "Navegantes": 91,
     "Itajai": 355
   },
-  "total_geral": 1937
+  "total_geral": 1938
 }
