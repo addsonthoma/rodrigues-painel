@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-07T09:07:14-03:00",
+  "timestamp": "2026-08-07T10:40:28-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-07T09:07:14-03:00"
+      "ultima_verificacao": "2026-08-07T10:40:28-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-07T09:07:14-03:00"
+      "ultima_verificacao": "2026-08-07T10:40:28-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-07T09:07:14-03:00"
+      "ultima_verificacao": "2026-08-07T10:40:28-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 43,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-07T09:07:14-03:00"
+      "ultima_verificacao": "2026-08-07T10:40:28-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-07T09:07:14-03:00"
+      "ultima_verificacao": "2026-08-07T10:40:28-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 123,
+      "ultimo_numero": 126,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-07T09:07:14-03:00"
+      "ultima_verificacao": "2026-08-07T10:40:28-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 174,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-07T09:07:14-03:00"
+      "ultima_verificacao": "2026-08-07T10:40:28-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 211,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-07T09:07:14-03:00"
+      "ultima_verificacao": "2026-08-07T10:40:28-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 84,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-07T09:07:14-03:00"
+      "ultima_verificacao": "2026-08-07T10:40:28-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 402,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-07T09:07:14-03:00"
+      "ultima_verificacao": "2026-08-07T10:40:28-03:00"
     }
   },
   "multas": {
@@ -3862,6 +3862,36 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000124A/26",
+        "RE": "RE8225000360A",
+        "Nome_Edificacao": "TRANçADOS PAULAO",
+        "Logradouro": "RUA TIJUCAS",
+        "Numero": "763",
+        "Bairro": "NOVA TRENTO - MATO QUEIMADO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-07T10:40:28-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000125A/26",
+        "RE": "RE8225000023A",
+        "Nome_Edificacao": "Val Participações Ltda",
+        "Logradouro": "RODOVIA ESTADUAL SC 410",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-07T10:40:28-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000126A/26",
+        "RE": "RE8225000320A",
+        "Nome_Edificacao": "CLEBER MESCHKE",
+        "Logradouro": "Rodovia SC 108",
+        "Numero": "2858",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-07T10:40:28-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000122A/26",
         "RE": "RE8225000515A",
         "Nome_Edificacao": "JULIANO DALLA BRIDA",
@@ -4720,11 +4750,32 @@
     "Itajai": 120,
     "Itapema": 57,
     "Navegantes": 46,
-    "Nova Trento": 40,
+    "Nova Trento": 43,
     "Porto Belo": 48
   },
-  "total_geral": 475,
+  "total_geral": 478,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-07T10:40:28-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000126A/26",
+      "nome": "CLEBER MESCHKE",
+      "re": "RE8225000320A"
+    },
+    {
+      "ts": "2026-08-07T10:40:28-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000125A/26",
+      "nome": "Val Participações Ltda",
+      "re": "RE8225000023A"
+    },
+    {
+      "ts": "2026-08-07T10:40:28-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000124A/26",
+      "nome": "TRANçADOS PAULAO",
+      "re": "RE8225000360A"
+    },
     {
       "ts": "2026-08-06T21:35:49-03:00",
       "cidade": "Itajai",
@@ -5053,27 +5104,6 @@
       "codigo": "MUL8163000170A/26",
       "nome": "COMERCIO DE MEDICAMENTOS BRAIR LTDA",
       "re": "RE8163006536A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000169A/26",
-      "nome": "CAMPOS E MENEGATTI HOLDING E ADM. LTDA",
-      "re": "RE8163005668A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000116A/26",
-      "nome": "MOBILI COMERCIO E FABRICAÇÃO DE MOVEIS E ARTEFATOS LTDA",
-      "re": "RE8225000715A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000102A/26",
-      "nome": "NATALI DA SILVA DE ALMEIDA",
-      "re": "RE8265000724A"
     }
   ]
 }

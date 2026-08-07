@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-07T09:15:08-03:00",
+  "timestamp": "2026-08-07T10:49:43-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8056,
-      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
+      "ultima_verificacao": "2026-08-07T10:49:43-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 399,
-      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
+      "ultima_verificacao": "2026-08-07T10:49:43-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
+      "ultima_verificacao": "2026-08-07T10:49:43-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3854,
-      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
+      "ultima_verificacao": "2026-08-07T10:49:43-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3360,
-      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
+      "ultima_verificacao": "2026-08-07T10:49:43-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 962,
-      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
+      "ultima_verificacao": "2026-08-07T10:49:43-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7153,
-      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
+      "ultima_verificacao": "2026-08-07T10:49:43-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12911,
-      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
+      "ultimo_numero": 12914,
+      "ultima_verificacao": "2026-08-07T10:49:43-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4989,
-      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
+      "ultima_verificacao": "2026-08-07T10:49:43-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14205,
-      "ultima_verificacao": "2026-08-07T09:15:08-03:00"
+      "ultima_verificacao": "2026-08-07T10:49:43-03:00"
     }
   },
   "protocolos": {
@@ -5337,6 +5337,39 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012914A",
+        "RE": "RE8047002226A",
+        "numgEdificacao": 112407,
+        "Nome_Edificacao": "COOPERATIVA DE CRÉDITO VALE DO ITAJAI",
+        "Logradouro": "Rua Hermann Hering",
+        "Numero": "1193",
+        "Bairro": "BLUMENAU - BOM RETIRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-07T10:49:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012913A",
+        "RE": "RE8047005863A",
+        "numgEdificacao": 176829,
+        "Nome_Edificacao": "COOPERATIVA DE CRÉDITO VALE DO ITAJAI",
+        "Logradouro": "Rua Hermann Hering",
+        "Numero": "1125",
+        "Bairro": "BLUMENAU - BOM RETIRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-07T10:49:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012912A",
+        "RE": "RE8047003713A",
+        "numgEdificacao": 130043,
+        "Nome_Edificacao": "FÁBIO ROBERTO PRIM",
+        "Logradouro": "Rua Ari Barroso",
+        "Numero": "500",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-07T10:49:43-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012911A",
         "RE": "RE8047012078A",
@@ -10741,9 +10774,9 @@
     "Porto Belo": 79,
     "Nova Trento": 46,
     "Itapema": 106,
-    "Blumenau": 169,
+    "Blumenau": 172,
     "Navegantes": 92,
     "Itajai": 229
   },
-  "total_geral": 969
+  "total_geral": 972
 }
