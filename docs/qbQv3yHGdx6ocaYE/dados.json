@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-10T14:10:02-03:00",
+  "timestamp": "2026-08-10T15:04:48-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
+      "ultima_verificacao": "2026-08-10T15:04:48-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
+      "ultima_verificacao": "2026-08-10T15:04:48-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
+      "ultima_verificacao": "2026-08-10T15:04:48-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 43,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
+      "ultima_verificacao": "2026-08-10T15:04:48-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
+      "ultima_verificacao": "2026-08-10T15:04:48-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 128,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
+      "ultima_verificacao": "2026-08-10T15:04:48-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 174,
+      "ultimo_numero": 175,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
+      "ultima_verificacao": "2026-08-10T15:04:48-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 211,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
+      "ultima_verificacao": "2026-08-10T15:04:48-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
-      "ultimo_numero": 84,
+      "ultimo_numero": 87,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
+      "ultima_verificacao": "2026-08-10T15:04:48-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 406,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
+      "ultima_verificacao": "2026-08-10T15:04:48-03:00"
     }
   },
   "multas": {
@@ -2899,6 +2899,16 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000175A/26",
+        "RE": "RE8163005763A",
+        "Nome_Edificacao": "Comercial   \"CARDOSO I\"",
+        "Logradouro": "Rua 706-e",
+        "Numero": "358",
+        "Bairro": "ITAPEMA - VARZEA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-10T15:04:48-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000174A/26",
         "RE": "RE8163002026A",
         "Nome_Edificacao": "N.E. CONSTRUTORA E INCORPORADORA",
@@ -3454,6 +3464,36 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoAuto": "MUL8221000085A/26",
+        "RE": "RE8221002575A",
+        "Nome_Edificacao": "C.E.M. PROF. LEONORA SCHMITZ / CMEI PROF REGINA MARLY DA COSTA",
+        "Logradouro": "Rua Henrique Julião",
+        "Numero": "133",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-10T15:04:48-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000086A/26",
+        "RE": "RE8221002151A",
+        "Nome_Edificacao": "PREFEITURA MUNICIPAL DE NAVEGANTES",
+        "Logradouro": "Rua Laudelino Fermino de Novaes",
+        "Numero": "391",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-10T15:04:48-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000087A/26",
+        "RE": "RE8221003745A",
+        "Nome_Edificacao": "Teatro Municipal de navegantes",
+        "Logradouro": "Rua Maria Leonor da Cunha Rebello",
+        "Numero": "432",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-10T15:04:48-03:00"
+      },
       {
         "CodigoAuto": "MUL8221000084A/26",
         "RE": "RE8221001169A",
@@ -4808,13 +4848,41 @@
     "Gaspar": 19,
     "Guabiruba": 3,
     "Itajai": 124,
-    "Itapema": 57,
-    "Navegantes": 46,
+    "Itapema": 58,
+    "Navegantes": 49,
     "Nova Trento": 45,
     "Porto Belo": 48
   },
-  "total_geral": 484,
+  "total_geral": 488,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-10T15:04:48-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000087A/26",
+      "nome": "Teatro Municipal de navegantes",
+      "re": "RE8221003745A"
+    },
+    {
+      "ts": "2026-08-10T15:04:48-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000086A/26",
+      "nome": "PREFEITURA MUNICIPAL DE NAVEGANTES",
+      "re": "RE8221002151A"
+    },
+    {
+      "ts": "2026-08-10T15:04:48-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000085A/26",
+      "nome": "C.E.M. PROF. LEONORA SCHMITZ / CMEI PROF REGINA MARLY DA COSTA",
+      "re": "RE8221002575A"
+    },
+    {
+      "ts": "2026-08-10T15:04:48-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000175A/26",
+      "nome": "Comercial   \"CARDOSO I\"",
+      "re": "RE8163005763A"
+    },
     {
       "ts": "2026-08-10T14:10:02-03:00",
       "cidade": "Itajai",
@@ -5136,34 +5204,6 @@
       "codigo": "MUL8221000083A/26",
       "nome": "CRECHE PORTO ESCALVADOS",
       "re": "RE8221002880A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000082A/26",
-      "nome": "CLAUDINO CESCA",
-      "re": "RE8221000239A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Navegantes",
-      "codigo": "MUL8221000081A/26",
-      "nome": "UNIDADE ESCOLAR",
-      "re": "RE8221002568A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000209A/26",
-      "nome": "ACS ADMINISTRADORA DE BENS S.A.",
-      "re": "RE8047000216A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000208A/26",
-      "nome": "AÇOPAR COMERCIO DE PARAFUSOS",
-      "re": "RE8047009021A"
     }
   ]
 }
