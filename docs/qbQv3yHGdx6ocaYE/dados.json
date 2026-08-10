@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-10T13:10:17-03:00",
+  "timestamp": "2026-08-10T14:10:02-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T13:10:17-03:00"
+      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T13:10:17-03:00"
+      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T13:10:17-03:00"
+      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 43,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T13:10:17-03:00"
+      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T13:10:17-03:00"
+      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 128,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T13:10:17-03:00"
+      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 174,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T13:10:17-03:00"
+      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 211,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T13:10:17-03:00"
+      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 84,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T13:10:17-03:00"
+      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 405,
+      "ultimo_numero": 406,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T13:10:17-03:00"
+      "ultima_verificacao": "2026-08-10T14:10:02-03:00"
     }
   },
   "multas": {
@@ -1673,6 +1673,16 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000406A/26",
+        "RE": "RE8161001068A",
+        "Nome_Edificacao": "ORLANDO FERREIRA INCORPORADORA",
+        "Logradouro": "AV. ARNOLDO LOPES GONZAGA",
+        "Numero": "155",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-10T14:10:02-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000403A/26",
         "RE": "RE8161001036A",
@@ -4797,14 +4807,21 @@
     "Brusque": 63,
     "Gaspar": 19,
     "Guabiruba": 3,
-    "Itajai": 123,
+    "Itajai": 124,
     "Itapema": 57,
     "Navegantes": 46,
     "Nova Trento": 45,
     "Porto Belo": 48
   },
-  "total_geral": 483,
+  "total_geral": 484,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-10T14:10:02-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000406A/26",
+      "nome": "ORLANDO FERREIRA INCORPORADORA",
+      "re": "RE8161001068A"
+    },
     {
       "ts": "2026-08-10T11:01:25-03:00",
       "cidade": "Nova Trento",
@@ -5147,13 +5164,6 @@
       "codigo": "MUL8047000208A/26",
       "nome": "AÇOPAR COMERCIO DE PARAFUSOS",
       "re": "RE8047009021A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000207A/26",
-      "nome": "GELSON LIMA DE SOUZA",
-      "re": "RE8047004031A"
     }
   ]
 }

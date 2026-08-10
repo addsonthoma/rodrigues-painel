@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-10T13:18:41-03:00",
+  "timestamp": "2026-08-10T14:21:11-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8061,
-      "ultima_verificacao": "2026-08-10T13:18:41-03:00"
+      "ultimo_numero": 8062,
+      "ultima_verificacao": "2026-08-10T14:21:11-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-10T13:18:41-03:00"
+      "ultima_verificacao": "2026-08-10T14:21:11-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-10T13:18:41-03:00"
+      "ultima_verificacao": "2026-08-10T14:21:11-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3856,
-      "ultima_verificacao": "2026-08-10T13:18:41-03:00"
+      "ultima_verificacao": "2026-08-10T14:21:11-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3363,
-      "ultima_verificacao": "2026-08-10T13:18:41-03:00"
+      "ultima_verificacao": "2026-08-10T14:21:11-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 963,
-      "ultima_verificacao": "2026-08-10T13:18:41-03:00"
+      "ultima_verificacao": "2026-08-10T14:21:11-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7157,
-      "ultima_verificacao": "2026-08-10T13:18:41-03:00"
+      "ultima_verificacao": "2026-08-10T14:21:11-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12919,
-      "ultima_verificacao": "2026-08-10T13:18:41-03:00"
+      "ultima_verificacao": "2026-08-10T14:21:11-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4992,
-      "ultima_verificacao": "2026-08-10T13:18:41-03:00"
+      "ultima_verificacao": "2026-08-10T14:21:11-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14208,
-      "ultima_verificacao": "2026-08-10T13:18:41-03:00"
+      "ultima_verificacao": "2026-08-10T14:21:11-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008062A",
+        "RE": "RE8055000232A",
+        "numgEdificacao": 18241,
+        "Nome_Edificacao": "APPEL INDÚSTRIA TÊXTIL",
+        "Logradouro": "RODOVIA ANTONIO HEIL, KM 21",
+        "Numero": "7550",
+        "Bairro": "BRUSQUE - LIMOEIRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-10T14:21:11-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008061A",
         "RE": "RE8055000866A",
@@ -11064,7 +11075,7 @@
     ]
   },
   "totais": {
-    "Brusque": 97,
+    "Brusque": 98,
     "Botuvera": 34,
     "Guabiruba": 35,
     "Gaspar": 90,
@@ -11075,5 +11086,5 @@
     "Navegantes": 95,
     "Itajai": 232
   },
-  "total_geral": 999
+  "total_geral": 1000
 }
