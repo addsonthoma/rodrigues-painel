@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-10T09:28:06-03:00",
+  "timestamp": "2026-08-10T11:01:25-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T09:28:06-03:00"
+      "ultima_verificacao": "2026-08-10T11:01:25-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T09:28:06-03:00"
+      "ultima_verificacao": "2026-08-10T11:01:25-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T09:28:06-03:00"
+      "ultima_verificacao": "2026-08-10T11:01:25-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 43,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T09:28:06-03:00"
+      "ultima_verificacao": "2026-08-10T11:01:25-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T09:28:06-03:00"
+      "ultima_verificacao": "2026-08-10T11:01:25-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 126,
+      "ultimo_numero": 128,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T09:28:06-03:00"
+      "ultima_verificacao": "2026-08-10T11:01:25-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 174,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T09:28:06-03:00"
+      "ultima_verificacao": "2026-08-10T11:01:25-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 211,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T09:28:06-03:00"
+      "ultima_verificacao": "2026-08-10T11:01:25-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 84,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T09:28:06-03:00"
+      "ultima_verificacao": "2026-08-10T11:01:25-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 405,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-10T09:28:06-03:00"
+      "ultima_verificacao": "2026-08-10T11:01:25-03:00"
     }
   },
   "multas": {
@@ -3892,6 +3892,26 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000127A/26",
+        "RE": "RE8225000758A",
+        "Nome_Edificacao": "OSMAR GIROLA",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "3721",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-10T11:01:25-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000128A/26",
+        "RE": "RE8225000210A",
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANOPOLIS",
+        "Logradouro": "RUA SANTO INÁCIO",
+        "Numero": "170",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-10T11:01:25-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000124A/26",
         "RE": "RE8225000360A",
         "Nome_Edificacao": "TRANçADOS PAULAO",
@@ -4780,11 +4800,25 @@
     "Itajai": 123,
     "Itapema": 57,
     "Navegantes": 46,
-    "Nova Trento": 43,
+    "Nova Trento": 45,
     "Porto Belo": 48
   },
-  "total_geral": 481,
+  "total_geral": 483,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-10T11:01:25-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000128A/26",
+      "nome": "MITRA METROPOLITANA DE FLORIANOPOLIS",
+      "re": "RE8225000210A"
+    },
+    {
+      "ts": "2026-08-10T11:01:25-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000127A/26",
+      "nome": "OSMAR GIROLA",
+      "re": "RE8225000758A"
+    },
     {
       "ts": "2026-08-07T17:56:04-03:00",
       "cidade": "Itajai",
@@ -5120,20 +5154,6 @@
       "codigo": "MUL8047000207A/26",
       "nome": "GELSON LIMA DE SOUZA",
       "re": "RE8047004031A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000206A/26",
-      "nome": "RODRIGO LUIZ DOLZAN",
-      "re": "RE8047001962A"
-    },
-    {
-      "ts": "2026-08-03T17:33:49-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000205A/26",
-      "nome": "KEUNECK ADMINISTRADORA DE BENS PROPRIOS LTDA",
-      "re": "RE8047001283A"
     }
   ]
 }
