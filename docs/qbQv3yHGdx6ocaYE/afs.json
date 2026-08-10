@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-10T12:11:50-03:00",
+  "timestamp": "2026-08-10T13:10:46-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 883,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-10T12:11:50-03:00"
+      "ultima_verificacao": "2026-08-10T13:10:46-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-10T12:11:50-03:00"
+      "ultima_verificacao": "2026-08-10T13:10:46-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-10T12:11:50-03:00"
+      "ultima_verificacao": "2026-08-10T13:10:46-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 563,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-10T12:11:50-03:00"
+      "ultima_verificacao": "2026-08-10T13:10:46-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 476,
+      "ultimo_numero": 477,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-10T12:11:50-03:00"
+      "ultima_verificacao": "2026-08-10T13:10:46-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 461,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-10T12:11:50-03:00"
+      "ultima_verificacao": "2026-08-10T13:10:46-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1088,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-10T12:11:50-03:00"
+      "ultima_verificacao": "2026-08-10T13:10:46-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1025,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-10T12:11:50-03:00"
+      "ultima_verificacao": "2026-08-10T13:10:46-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 295,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-10T12:11:50-03:00"
+      "ultima_verificacao": "2026-08-10T13:10:46-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1108,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-10T12:11:50-03:00"
+      "ultima_verificacao": "2026-08-10T13:10:46-03:00"
     }
   },
   "afs": {
@@ -5517,6 +5517,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000477A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002097A",
+        "Nome_Edificacao": "FLAVIO ANTONIO OLIVEIRA",
+        "Logradouro": "RUA DOS SAMAGAIAS",
+        "Numero": "790",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-10T13:10:46-03:00"
+      },
       {
         "CodigoAuto": "AF8265000476A/26",
         "Tipo": "AF",
@@ -16575,8 +16586,8 @@
         "RE": "RE8221000370A",
         "Nome_Edificacao": "Ocean Towers Residence",
         "Logradouro": "Avenida Prefeito Cirino Adolfo Cabral",
-        "Numero": "8833",
-        "Bairro": "NAVEGANTES - SÃO PEDRO",
+        "Numero": "8333",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
         "Cidade": "Navegantes",
         "Detectado_em": "2026-08-07T17:56:40-03:00"
       },
@@ -21462,12 +21473,12 @@
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 149,
-    "Porto Belo": 185,
+    "Porto Belo": 186,
     "Nova Trento": 151,
     "Itapema": 354,
     "Blumenau": 312,
     "Navegantes": 91,
     "Itajai": 355
   },
-  "total_geral": 1943
+  "total_geral": 1944
 }
