@@ -1,69 +1,113 @@
 {
-  "timestamp": "2026-08-11T08:48:34-03:00",
+  "timestamp": "2026-08-11T12:52:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 884,
+      "ultimo_numero": 888,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T08:48:34-03:00"
+      "ultima_verificacao": "2026-08-11T12:52:56-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T08:48:34-03:00"
+      "ultima_verificacao": "2026-08-11T12:52:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T08:48:34-03:00"
+      "ultima_verificacao": "2026-08-11T12:52:56-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 564,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T08:48:34-03:00"
+      "ultima_verificacao": "2026-08-11T12:52:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 477,
+      "ultimo_numero": 481,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T08:48:34-03:00"
+      "ultima_verificacao": "2026-08-11T12:52:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 461,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T08:48:34-03:00"
+      "ultima_verificacao": "2026-08-11T12:52:56-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1090,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T08:48:34-03:00"
+      "ultima_verificacao": "2026-08-11T12:52:56-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1030,
+      "ultimo_numero": 1033,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T08:48:34-03:00"
+      "ultima_verificacao": "2026-08-11T12:52:56-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 296,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T08:48:34-03:00"
+      "ultima_verificacao": "2026-08-11T12:52:56-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1108,
+      "ultimo_numero": 1110,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T08:48:34-03:00"
+      "ultima_verificacao": "2026-08-11T12:52:56-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000888A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002972A",
+        "Nome_Edificacao": "DARA SUELI GONCALVES 10158817931",
+        "Logradouro": "R DO CEDRO",
+        "Numero": "948",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000887A/26",
+        "Tipo": "AF",
+        "RE": "RE8055006790A",
+        "Nome_Edificacao": "SCHEILA PESSOA PEREIRA",
+        "Logradouro": "RUA JOÃO DIONISIO VECCHI",
+        "Numero": "52",
+        "Bairro": "BRUSQUE - Santa Terezinha",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000886A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000298A",
+        "Nome_Edificacao": "Vila di Afari",
+        "Logradouro": "Avenida Hugo Schlosser",
+        "Numero": "555",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000885A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001490A",
+        "Nome_Edificacao": "PIAZZA AFFARI",
+        "Logradouro": "Rua Carlos Graf",
+        "Numero": "38",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
       {
         "CodigoAuto": "AF8055000884A/26",
         "Tipo": "AF",
@@ -5539,6 +5583,50 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000481A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000656A",
+        "Nome_Edificacao": "EDERSON LUIS DE OLIVEIRA",
+        "Logradouro": "Rua Arlindo Mangolt",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000480A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001970A",
+        "Nome_Edificacao": "Alexandro Alves Dias",
+        "Logradouro": "AVENIDA HIRONILDO CONCEICAO DOS SANTOS",
+        "Numero": "742",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000479A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000248A",
+        "Nome_Edificacao": "Reis & Bitencourt Holding LTDA",
+        "Logradouro": "av. governador celso ramos",
+        "Numero": "922",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000478A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002551A",
+        "Nome_Edificacao": "BRASA POINT ESPETARIA",
+        "Logradouro": "Avenida Governador Celso Ramos",
+        "Numero": "393",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
       {
         "CodigoAuto": "AF8265000477A/26",
         "Tipo": "AF",
@@ -13169,6 +13257,39 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001033A/26",
+        "Tipo": "AF",
+        "RE": "RE8047012078A",
+        "Nome_Edificacao": "W.A ESTAMPARIA LTDA-ME",
+        "Logradouro": "Rua Governador Jorge Lacerda",
+        "Numero": "2903",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001032A/26",
+        "Tipo": "AF",
+        "RE": "RE8047002411A",
+        "Nome_Edificacao": "HAMMSTY INDUSTRIA DE MÁQUINAS E EQUIPAMENTOS LTDA",
+        "Logradouro": "Rua Hermann Kaestner",
+        "Numero": "99",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001031A/26",
+        "Tipo": "AF",
+        "RE": "RE8047000637A",
+        "Nome_Edificacao": "JACKSON DE OLIVEIRA",
+        "Logradouro": "Rua Humberto de Campos",
+        "Numero": "2955",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001030A/26",
         "Tipo": "AF",
         "RE": "RE8047008111A",
@@ -17672,6 +17793,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001110A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002432A",
+        "Nome_Edificacao": "COMUNIDADE EVANGELICA NOVA JERUSALEM - RPCI",
+        "Logradouro": "Rua Jacob Ardigo",
+        "Numero": "335",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001109A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002612A",
+        "Nome_Edificacao": "HUPA - HOSPITAL UNIVERSITARIO PEQUENO ANJO (INSTITUTO DE SAUDE SANTA CLARA)",
+        "Logradouro": "RUA JOAO BAUER",
+        "Numero": "85",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-11T12:52:56-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001108A/26",
         "Tipo": "AF",
         "RE": "RE8161013800A",
@@ -21579,16 +21722,16 @@
     ]
   },
   "totais": {
-    "Brusque": 274,
+    "Brusque": 278,
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 150,
-    "Porto Belo": 186,
+    "Porto Belo": 190,
     "Nova Trento": 151,
     "Itapema": 356,
-    "Blumenau": 317,
+    "Blumenau": 320,
     "Navegantes": 92,
-    "Itajai": 355
+    "Itajai": 357
   },
-  "total_geral": 1954
+  "total_geral": 1967
 }

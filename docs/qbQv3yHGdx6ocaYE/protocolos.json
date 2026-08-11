@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-11T11:11:23-03:00",
+  "timestamp": "2026-08-11T13:00:32-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8063,
-      "ultima_verificacao": "2026-08-11T11:11:23-03:00"
+      "ultimo_numero": 8064,
+      "ultima_verificacao": "2026-08-11T13:00:32-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-11T11:11:23-03:00"
+      "ultima_verificacao": "2026-08-11T13:00:32-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-11T11:11:23-03:00"
+      "ultima_verificacao": "2026-08-11T13:00:32-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3857,
-      "ultima_verificacao": "2026-08-11T11:11:23-03:00"
+      "ultimo_numero": 3858,
+      "ultima_verificacao": "2026-08-11T13:00:32-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3364,
-      "ultima_verificacao": "2026-08-11T11:11:23-03:00"
+      "ultimo_numero": 3366,
+      "ultima_verificacao": "2026-08-11T13:00:32-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 963,
-      "ultima_verificacao": "2026-08-11T11:11:23-03:00"
+      "ultimo_numero": 964,
+      "ultima_verificacao": "2026-08-11T13:00:32-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7160,
-      "ultima_verificacao": "2026-08-11T11:11:23-03:00"
+      "ultimo_numero": 7161,
+      "ultima_verificacao": "2026-08-11T13:00:32-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12921,
-      "ultima_verificacao": "2026-08-11T11:11:23-03:00"
+      "ultima_verificacao": "2026-08-11T13:00:32-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4993,
-      "ultima_verificacao": "2026-08-11T11:11:23-03:00"
+      "ultima_verificacao": "2026-08-11T13:00:32-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14208,
-      "ultima_verificacao": "2026-08-11T11:11:23-03:00"
+      "ultimo_numero": 14214,
+      "ultima_verificacao": "2026-08-11T13:00:32-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008064A",
+        "RE": "RE8055001425A",
+        "numgEdificacao": 137293,
+        "Nome_Edificacao": "Odicon Confecções Eireli",
+        "Logradouro": "Rua Arnoldo Ristow",
+        "Numero": "690",
+        "Bairro": "BRUSQUE - ZANTÃO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008063A",
         "RE": "RE8055006247A",
@@ -1909,6 +1920,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003858A",
+        "RE": "RE8117003275A",
+        "numgEdificacao": 367444,
+        "Nome_Edificacao": "Joao Domingos Reis",
+        "Logradouro": "Rua Eduardo Godri",
+        "Numero": "",
+        "Bairro": "GASPAR - GASPAR ALTO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003857A",
         "RE": "RE8117003274A",
         "numgEdificacao": 367407,
@@ -2912,6 +2934,28 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003366A",
+        "RE": "RE8265002557A",
+        "numgEdificacao": 333927,
+        "Nome_Edificacao": "Residencial Astral",
+        "Logradouro": "RUA ARTUR CAMPOS",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003365A",
+        "RE": "RE8265002801A",
+        "numgEdificacao": 365114,
+        "Nome_Edificacao": "MC PINHEIRO LTDA",
+        "Logradouro": "R MARIO PADILHA",
+        "Numero": "442",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003364A",
         "RE": "RE8265002818A",
         "numgEdificacao": 367432,
@@ -3827,6 +3871,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoProtocolo": "A8225000964A",
+        "RE": "RE8225000188A",
+        "numgEdificacao": 95697,
+        "Nome_Edificacao": "MAURO LUIS MARTINI",
+        "Logradouro": "Rodovia SC 108",
+        "Numero": "300",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
+      {
         "CodigoProtocolo": "A8225000963A",
         "RE": "RE8225000054A",
         "numgEdificacao": 18457,
@@ -4345,6 +4400,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007161A",
+        "RE": "RE8163006837A",
+        "numgEdificacao": 366634,
+        "Nome_Edificacao": "OFICINA MANARICK",
+        "Logradouro": "Rua 700 B1",
+        "Numero": "110",
+        "Bairro": "ITAPEMA - CASA BRANCA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007160A",
         "RE": "RE8163003398A",
@@ -8620,6 +8686,72 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014214A",
+        "RE": "RE8161013715A",
+        "numgEdificacao": 364159,
+        "Nome_Edificacao": "GALPÃO LOGISTICO NAVLOG",
+        "Logradouro": "RODOVIA ANTONIO HEIL",
+        "Numero": "10070",
+        "Bairro": "ITAJAÍ - ARRAIAL DOS CUNHA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014213A",
+        "RE": "RE8161013715A",
+        "numgEdificacao": 364159,
+        "Nome_Edificacao": "GALPÃO LOGISTICO NAVLOG",
+        "Logradouro": "RODOVIA ANTONIO HEIL",
+        "Numero": "10070",
+        "Bairro": "ITAJAÍ - ARRAIAL DOS CUNHA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014212A",
+        "RE": "RE8161013715A",
+        "numgEdificacao": 364159,
+        "Nome_Edificacao": "GALPÃO LOGISTICO NAVLOG",
+        "Logradouro": "RODOVIA ANTONIO HEIL",
+        "Numero": "10070",
+        "Bairro": "ITAJAÍ - ARRAIAL DOS CUNHA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014211A",
+        "RE": "RE8161013715A",
+        "numgEdificacao": 364159,
+        "Nome_Edificacao": "GALPÃO LOGISTICO NAVLOG",
+        "Logradouro": "RODOVIA ANTONIO HEIL",
+        "Numero": "10070",
+        "Bairro": "ITAJAÍ - ARRAIAL DOS CUNHA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014210A",
+        "RE": "RE8161000965A",
+        "numgEdificacao": 27025,
+        "Nome_Edificacao": "Fundação Universidade do Vale do Itajaí",
+        "Logradouro": "Rua Uruguai",
+        "Numero": "458",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014209A",
+        "RE": "RE8161013715A",
+        "numgEdificacao": 364159,
+        "Nome_Edificacao": "GALPÃO LOGISTICO NAVLOG",
+        "Logradouro": "RODOVIA ANTONIO HEIL",
+        "Numero": "10070",
+        "Bairro": "ITAJAÍ - ARRAIAL DOS CUNHA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-11T13:00:32-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014208A",
         "RE": "RE8161003967A",
         "numgEdificacao": 120977,
@@ -11174,16 +11306,16 @@
     ]
   },
   "totais": {
-    "Brusque": 99,
+    "Brusque": 100,
     "Botuvera": 34,
     "Guabiruba": 35,
-    "Gaspar": 91,
-    "Porto Belo": 83,
-    "Nova Trento": 47,
-    "Itapema": 113,
+    "Gaspar": 92,
+    "Porto Belo": 85,
+    "Nova Trento": 48,
+    "Itapema": 114,
     "Blumenau": 179,
     "Navegantes": 96,
-    "Itajai": 232
+    "Itajai": 238
   },
-  "total_geral": 1009
+  "total_geral": 1021
 }
