@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-11T14:15:11-03:00",
+  "timestamp": "2026-08-11T15:13:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-11T14:15:11-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:20-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-11T14:15:11-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-11T14:15:11-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:20-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 43,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-11T14:15:11-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 105,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-11T14:15:11-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-11T14:15:11-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:20-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 177,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-11T14:15:11-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:20-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 216,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-11T14:15:11-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:20-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 87,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-11T14:15:11-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:20-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 407,
+      "ultimo_numero": 409,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-11T14:15:11-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:20-03:00"
     }
   },
   "multas": {
@@ -1723,6 +1723,26 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000408A/26",
+        "RE": "RE8161004572A",
+        "Nome_Edificacao": "ALFONSO DEBATIM",
+        "Logradouro": "R ESTEFANO JOSE VANOLLI",
+        "Numero": "1089",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-11T15:13:20-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000409A/26",
+        "RE": "RE8161008935A",
+        "Nome_Edificacao": "SUN PARK",
+        "Logradouro": "Lauro Muller",
+        "Numero": "1230",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-11T15:13:20-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000407A/26",
         "RE": "RE8161009821A",
@@ -4937,14 +4957,28 @@
     "Brusque": 63,
     "Gaspar": 19,
     "Guabiruba": 3,
-    "Itajai": 125,
+    "Itajai": 127,
     "Itapema": 60,
     "Navegantes": 49,
     "Nova Trento": 46,
     "Porto Belo": 48
   },
-  "total_geral": 497,
+  "total_geral": 499,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-11T15:13:20-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000409A/26",
+      "nome": "SUN PARK",
+      "re": "RE8161008935A"
+    },
+    {
+      "ts": "2026-08-11T15:13:20-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000408A/26",
+      "nome": "ALFONSO DEBATIM",
+      "re": "RE8161004572A"
+    },
     {
       "ts": "2026-08-11T14:15:11-03:00",
       "cidade": "Itajai",

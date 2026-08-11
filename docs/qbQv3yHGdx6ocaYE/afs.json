@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-11T14:16:07-03:00",
+  "timestamp": "2026-08-11T15:13:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 888,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T14:16:07-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:56-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T14:16:07-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T14:16:07-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:56-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 564,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T14:16:07-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 481,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T14:16:07-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 461,
+      "ultimo_numero": 462,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T14:16:07-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:56-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1091,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T14:16:07-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:56-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1033,
+      "ultimo_numero": 1034,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T14:16:07-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:56-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 296,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T14:16:07-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:56-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1110,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-11T14:16:07-03:00"
+      "ultima_verificacao": "2026-08-11T15:13:56-03:00"
     }
   },
   "afs": {
@@ -7676,6 +7676,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000462A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000465A",
+        "Nome_Edificacao": "CHOPPERIA BEER LOUNGE LTDA ME",
+        "Logradouro": "RUA NICOLAU BADO",
+        "Numero": "88",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-11T15:13:56-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000461A/26",
         "Tipo": "AF",
         "RE": "RE8225000780A",
@@ -13267,6 +13278,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047001034A/26",
+        "Tipo": "AF",
+        "RE": "RE8047012077A",
+        "Nome_Edificacao": "PLACIDIA CORREIA",
+        "Logradouro": "RUA 2 DE SETEMBRO",
+        "Numero": "3340",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-11T15:13:56-03:00"
+      },
       {
         "CodigoAuto": "AF8047001033A/26",
         "Tipo": "AF",
@@ -21738,11 +21760,11 @@
     "Guabiruba": 41,
     "Gaspar": 150,
     "Porto Belo": 190,
-    "Nova Trento": 151,
+    "Nova Trento": 152,
     "Itapema": 357,
-    "Blumenau": 320,
+    "Blumenau": 321,
     "Navegantes": 92,
     "Itajai": 357
   },
-  "total_geral": 1968
+  "total_geral": 1970
 }
