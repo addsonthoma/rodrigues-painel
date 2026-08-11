@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-11T12:34:20-03:00",
-  "total": 3718,
+  "timestamp": "2026-08-11T14:36:32-03:00",
+  "total": 3746,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -588,7 +588,7 @@
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1786462392.8469033
+      "_ts": 1786469631.7225027
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1786462392.8469408
+      "_ts": 1786469631.7225342
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1786462392.8469238
+      "_ts": 1786469631.7225227
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5100,7 +5100,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1786462385.1080408
+      "_ts": 1786469622.8532774
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5120,7 +5120,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1786462385.1080062
+      "_ts": 1786469622.8532555
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5327,7 +5327,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1786462446.2163332
+      "_ts": 1786469695.11683
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9435,7 +9435,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1786462378.6805103
+      "_ts": 1786469613.771301
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9449,7 +9449,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1786462399.991753
+      "_ts": 1786469640.1087635
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -9463,7 +9463,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000015A/26",
-      "_ts": 1786462407.6737165
+      "_ts": 1786469646.19707
     },
     "AF8051000014A/26": {
       "tipo": "AF",
@@ -9477,7 +9477,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000014A/26",
-      "_ts": 1786462416.9574196
+      "_ts": 1786469665.695603
     },
     "AF8051000011A/26": {
       "tipo": "AF",
@@ -9519,7 +9519,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000044A/26",
-      "_ts": 1786462460.0985386
+      "_ts": 1786469706.9840689
     },
     "AF8123000040A/26": {
       "tipo": "AF",
@@ -13984,7 +13984,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1786462433.698036
+      "_ts": 1786469684.6866632
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -24969,6 +24969,7 @@
     },
     "AF8047000337A/24": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "2429.22",
       "cidade": "BLUMENAU",
       "responsavel": "STEFHANY GABRIELI MAURICI PEREIRA",
       "cpfCnpj": "07397293905",
@@ -24982,12 +24983,12 @@
         "Apresentar projeto preventivo (PPCI)"
       ],
       "dataPrazo": "23/04/2024",
-      "prazoDias": -792,
+      "prazoDias": -840,
       "bombeiroAutuacao": "2º Sgt Marcelo FERNANDES",
       "bloco": "BLOCO ÚNICO",
       "codgAuto": "AF8047000337A/24",
       "numgAuto": 284413,
-      "_ts": 1782300391.0789535
+      "_ts": 1786469771.946324
     },
     "AF8047000790A/26": {
       "tipo": "FISCALIZACAO",
@@ -25010,6 +25011,7 @@
     },
     "MUL8047000195A/24": {
       "tipo": "MULTA",
+      "areaTotal": "2429.22",
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -25023,7 +25025,7 @@
       "bloco": "BLOCO ÚNICO",
       "codgAuto": "MUL8047000195A/24",
       "numgAuto": 304823,
-      "_ts": 1782300391.07902
+      "_ts": 1786469771.9463966
     },
     "AF8047000284A/23": {
       "tipo": "FISCALIZACAO",
@@ -30037,7 +30039,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1786462432.0675652
+      "_ts": 1786469681.5143716
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38453,7 +38455,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1786462424.8765194
+      "_ts": 1786469673.4997227
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -38473,7 +38475,7 @@
       "bloco": "1",
       "codgAuto": "AF8123000114A/25",
       "numgAuto": 449049,
-      "_ts": 1786462424.8764973
+      "_ts": 1786469673.4997008
     },
     "AF8117000482A/26": {
       "tipo": "FISCALIZACAO",
@@ -71538,6 +71540,570 @@
       "codgAuto": "MUL8221000284A/23",
       "numgAuto": 215189,
       "_ts": 1786412137.6855037
+    },
+    "AF8055000888A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 538.28,
+      "cidade": "BRUSQUE",
+      "responsavel": "Francisco Angelo Maestri",
+      "cpfCnpj": "50119621991",
+      "celular": "47988284107",
+      "email": "societario@riffelcontabilidade.com.br",
+      "endereco_responsavel": "Rua Luiz Maestri, 0, Dom Joaquim, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "11/11/2026",
+      "prazoDias": 92,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "STUDIO DARA GONCALVES",
+      "codgAuto": "AF8055000888A/26",
+      "numgAuto": 519645,
+      "_ts": 1786469568.0560966
+    },
+    "AF8055000887A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "100",
+      "cidade": "BRUSQUE",
+      "responsavel": "SCHEILA PESSOA PEREIRA",
+      "cpfCnpj": "00341000914",
+      "celular": "47920004258",
+      "email": "scheilapesssoa@gmail.com",
+      "endereco_responsavel": "Rua João Dionísio Vechi, 52, Santa Terezinha, Brusque",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "11/02/2027",
+      "prazoDias": 184,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "SCHEILA PESSOA PEREIRA",
+      "codgAuto": "AF8055000887A/26",
+      "numgAuto": 519643,
+      "_ts": 1786469574.107029
+    },
+    "AF8055000886A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 643.23,
+      "cidade": "BRUSQUE",
+      "responsavel": "PJA ADMINISTRADORA DE BENS LTDA",
+      "cpfCnpj": "57560722000118",
+      "celular": "47984056698",
+      "email": "claudia@mosimann.com.br",
+      "endereco_responsavel": "R Heinrich Richard Bruno Erbe, 30, Centro I, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "11/11/2026",
+      "prazoDias": 92,
+      "bombeiroAutuacao": "Cb Juliana Pizutti DALLABRIDA",
+      "bloco": "Salas Comerciais (Reforma)",
+      "codgAuto": "AF8055000886A/26",
+      "numgAuto": 519642,
+      "_ts": 1786469591.1845365
+    },
+    "AF8055000885A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 348.89,
+      "cidade": "BRUSQUE",
+      "responsavel": "Renato de Borba",
+      "cpfCnpj": "29983690900",
+      "celular": "47996958175",
+      "email": "renatodeborba1@gmail.com",
+      "endereco_responsavel": "Rua Pedro Felipe Sestrem Júnior, 369, Jardim Maluche, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "11/09/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "XICA BIBILA",
+      "codgAuto": "AF8055000885A/26",
+      "numgAuto": 519621,
+      "_ts": 1786469598.1327722
+    },
+    "AF8265000481A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 654.77,
+      "cidade": "PORTO BELO",
+      "responsavel": "18.692.495 EDERSON LUIS VALIATI DE OLIVEIRA",
+      "cpfCnpj": "18692495000122",
+      "celular": "47999215563",
+      "email": "edersonnegocios@gmail.com",
+      "endereco_responsavel": "R Arlindo Mangolt, 50, Pereque, Porto Belo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "14/09/2026",
+      "prazoDias": 34,
+      "bombeiroAutuacao": "3º Sgt Verlaine Aparecida Sinhorini",
+      "bloco": "BLOCO 1",
+      "codgAuto": "AF8265000481A/26",
+      "numgAuto": 519678,
+      "_ts": 1786469714.0821123
+    },
+    "AF8265000480A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 162.86,
+      "cidade": "PORTO BELO",
+      "responsavel": "ITA MATERIAIS DE CONSTRUCAO LTDA",
+      "cpfCnpj": "46739375000179",
+      "celular": "47988142170",
+      "email": "aureliokras@hotmail.com",
+      "endereco_responsavel": "Avenida Hironido Conceição dos Santos, 742, Jardim Dourado, Porto Belo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "14/09/2026",
+      "prazoDias": 34,
+      "bombeiroAutuacao": "3º Sgt Verlaine Aparecida Sinhorini",
+      "bloco": "PAULO JOSÉ PEREIRA",
+      "codgAuto": "AF8265000480A/26",
+      "numgAuto": 519660,
+      "_ts": 1786469723.7761436
+    },
+    "AF8265000479A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 583.5,
+      "cidade": "PORTO BELO",
+      "responsavel": "ROTTERDAM PARK",
+      "cpfCnpj": "13040078000181",
+      "celular": "47932617700",
+      "email": "rm6@rmcontabilidadesc.com.br",
+      "endereco_responsavel": "R Arnoldo Tome dos Santos, 357, Pereque, Porto Belo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "14/09/2026",
+      "prazoDias": 34,
+      "bombeiroAutuacao": "3º Sgt Verlaine Aparecida Sinhorini",
+      "bloco": "Reis & Bitencourt",
+      "codgAuto": "AF8265000479A/26",
+      "numgAuto": 519657,
+      "_ts": 1786469735.628484
+    },
+    "AF8265000478A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 37.53,
+      "cidade": "PORTO BELO",
+      "responsavel": "BRASA POINT ESPETARIA LTDA",
+      "cpfCnpj": "60894645000147",
+      "celular": "47984057295",
+      "email": "bobdilobc@hotmail.com",
+      "endereco_responsavel": "Avenida Governador Celso Ramos, 383, Vila Nova, Porto Belo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "14/09/2026",
+      "prazoDias": 34,
+      "bombeiroAutuacao": "3º Sgt Verlaine Aparecida Sinhorini",
+      "bloco": "BRASA POINT",
+      "codgAuto": "AF8265000478A/26",
+      "numgAuto": 519655,
+      "_ts": 1786469746.9304056
+    },
+    "AF8163000427A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2274,
+      "cidade": "ITAPEMA",
+      "responsavel": "IGREJA VIDA PLENA DE ITAPEMA",
+      "cpfCnpj": "47246223000105",
+      "celular": "47996791706",
+      "email": "willvictorcampos@gmail.com",
+      "endereco_responsavel": "Rua 460, 506, Jardim Praia Mar, Itapema",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "30/04/2024",
+      "prazoDias": -833,
+      "bombeiroAutuacao": "3º Sgt Pedro Luiz dos Santos ALVES",
+      "bloco": "GALPÃO COMERCIAL JOÃO KREUZ",
+      "codgAuto": "AF8163000427A/24",
+      "numgAuto": 286761,
+      "_ts": 1786469754.6583831
+    },
+    "AF8163001583A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2274,
+      "cidade": "ITAPEMA",
+      "responsavel": "IGREJA VIDA PLENA DE ITAPEMA",
+      "cpfCnpj": "47246223000105",
+      "celular": "47996791706",
+      "email": "willvictorcampos@gmail.com",
+      "endereco_responsavel": "Rua 460, 506, Jardim Praia Mar, Itapema",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "19/05/2026",
+      "prazoDias": -84,
+      "bombeiroAutuacao": "2º Sgt ALCEMIR Schafaschek",
+      "bloco": "GALPÃO COMERCIAL JOÃO KREUZ",
+      "codgAuto": "AF8163001583A/25",
+      "numgAuto": 435622,
+      "_ts": 1786469754.6583953
+    },
+    "AF8163001091A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2274,
+      "cidade": "ITAPEMA",
+      "responsavel": "IGREJA VIDA PLENA DE ITAPEMA",
+      "cpfCnpj": "47246223000105",
+      "celular": "47996791706",
+      "email": "willvictorcampos@gmail.com",
+      "endereco_responsavel": "Rua 460, 506, Jardim Praia Mar, Itapema",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "11/11/2026",
+      "prazoDias": 92,
+      "bombeiroAutuacao": "Cb Geraldo ROMAGNOLI Neto",
+      "bloco": "GALPÃO COMERCIAL JOÃO KREUZ",
+      "codgAuto": "AF8163001091A/26",
+      "numgAuto": 519725,
+      "_ts": 1786469754.6583977
+    },
+    "MUL8163000253A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 2274,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "GALPÃO COMERCIAL JOÃO KREUZ",
+      "codgAuto": "MUL8163000253A/24",
+      "numgAuto": 296596,
+      "_ts": 1786469754.6584432
+    },
+    "MUL8163000115A/26": {
+      "tipo": "MULTA",
+      "areaTotal": 2274,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "GALPÃO COMERCIAL JOÃO KREUZ",
+      "codgAuto": "MUL8163000115A/26",
+      "numgAuto": 496671,
+      "_ts": 1786469754.6584456
+    },
+    "AF8047001033A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 241.39,
+      "cidade": "BLUMENAU",
+      "responsavel": "Leandro Nardes",
+      "cpfCnpj": "00972655948",
+      "celular": "47991098312",
+      "email": "contabilidade.giovanaazavedo@gmail.com",
+      "endereco_responsavel": "Rua Governador Jorge Lacerda, 2903, Velha Central, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento",
+        "Executar sistema de iluminação de emergência",
+        "Executar sistema preventivo por extintores"
+      ],
+      "dataPrazo": "11/11/2026",
+      "prazoDias": 92,
+      "bombeiroAutuacao": "3º Sgt Igor Tiago de Lima",
+      "bloco": "Bloco",
+      "codgAuto": "AF8047001033A/26",
+      "numgAuto": 519688,
+      "_ts": 1786469763.290976
+    },
+    "AF8047001032A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "2429.22",
+      "cidade": "BLUMENAU",
+      "responsavel": "Jader Aquiles Novelletto",
+      "cpfCnpj": "00388086920",
+      "celular": "47988016869",
+      "email": "jader@sovrana.eng.br",
+      "endereco_responsavel": "Rua Paraguay, 400, Ponta Aguda, Blumenau",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "14/09/2026",
+      "prazoDias": 34,
+      "bombeiroAutuacao": "Cb Edson Massaaki Eto Junior",
+      "bloco": "BLOCO ÚNICO",
+      "codgAuto": "AF8047001032A/26",
+      "numgAuto": 519627,
+      "_ts": 1786469771.9463465
+    },
+    "AF8047001102A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "996.16",
+      "cidade": "BLUMENAU",
+      "responsavel": "julio carlos cidral",
+      "cpfCnpj": "07743606902",
+      "celular": "47992075095",
+      "email": "mauri.estrutural@gmail.com",
+      "endereco_responsavel": "Rua Bahia, 524, do Salto, Blumenau",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "30/01/2026",
+      "prazoDias": -193,
+      "bombeiroAutuacao": "Cb Edson Massaaki Eto Junior",
+      "bloco": "U.S.A. AUTOMOVEIS",
+      "codgAuto": "AF8047001102A/25",
+      "numgAuto": 419835,
+      "_ts": 1786469778.9038558
+    },
+    "AF8047001031A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "996.16",
+      "cidade": "BLUMENAU",
+      "responsavel": "julio carlos cidral",
+      "cpfCnpj": "07743606902",
+      "celular": "47992075095",
+      "email": "mauri.estrutural@gmail.com",
+      "endereco_responsavel": "Rua Bahia, 524, do Salto, Blumenau",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "14/09/2026",
+      "prazoDias": 34,
+      "bombeiroAutuacao": "Cb Edson Massaaki Eto Junior",
+      "bloco": "U.S.A. AUTOMOVEIS",
+      "codgAuto": "AF8047001031A/26",
+      "numgAuto": 519616,
+      "_ts": 1786469778.903866
+    },
+    "MUL8047000090A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "996.16",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "U.S.A. AUTOMOVEIS",
+      "codgAuto": "MUL8047000090A/26",
+      "numgAuto": 485080,
+      "_ts": 1786469778.9039032
+    },
+    "AF8161001778A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 364.61,
+      "cidade": "ITAJAÍ",
+      "responsavel": "COMUNIDADE EVANGELICA NOVA JERUSALEM",
+      "cpfCnpj": "01137297000102",
+      "celular": "47991883140",
+      "email": "jslucas.engenharia@gmail.com",
+      "endereco_responsavel": "Rua Manoel Joaquim Coelho, 309, Dom Bosco, Itajaí",
+      "exigencias": [
+        "Executar sistema de iluminação de emergência",
+        "Solicitar vistoria para funcionamento",
+        "Apresentar projeto preventivo (PPCI)",
+        "Executar instalações de gás combustível",
+        "Executar instalações elétricas",
+        "Solicitar vistoria para habite-se",
+        "Executar sistema de saída de emergência",
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "10/04/2026",
+      "prazoDias": -123,
+      "bombeiroAutuacao": "Cb Leonardo FERREIRA Borges",
+      "bloco": "UNICO",
+      "codgAuto": "AF8161001778A/25",
+      "numgAuto": 459389,
+      "_ts": 1786469784.675341
+    },
+    "AF8161001110A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 364.61,
+      "cidade": "ITAJAÍ",
+      "responsavel": "José Lucas Barbosa Gonçalves",
+      "cpfCnpj": "05111316159",
+      "celular": "47991883140",
+      "email": "jslucas.engenharia@gmail.com",
+      "endereco_responsavel": "Rua João Emilio, 293, Centro, Navegantes",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "04/09/2026",
+      "prazoDias": 24,
+      "bombeiroAutuacao": "Sd Hercules Silveira da Rosa PAULINO",
+      "bloco": "UNICO",
+      "codgAuto": "AF8161001110A/26",
+      "numgAuto": 519669,
+      "_ts": 1786469784.6753533
+    },
+    "MUL8161000214A/26": {
+      "tipo": "MULTA",
+      "areaTotal": 364.61,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "UNICO",
+      "codgAuto": "MUL8161000214A/26",
+      "numgAuto": 487481,
+      "_ts": 1786469784.6754034
+    },
+    "MUL8161000765A/25": {
+      "tipo": "MULTA",
+      "areaTotal": 364.61,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "UNICO",
+      "codgAuto": "MUL8161000765A/25",
+      "numgAuto": 459446,
+      "_ts": 1786469784.6754072
+    },
+    "AF8161003535A/22": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "4405.26",
+      "cidade": "ITAJAÍ",
+      "responsavel": "Ivanda Tersinha Senger de Macedo",
+      "cpfCnpj": "09652022837",
+      "celular": "47988298085",
+      "email": "ccih.itajai@institutosantaclara.org.br",
+      "endereco_responsavel": "R Joao Bauer, 85, Centro, Itajaí",
+      "exigencias": [
+        "Executar sinalização de emergência",
+        "Executar sistema de iluminação de emergência",
+        "Implantar brigada de incêndio",
+        "Executar sistema de saída de emergência",
+        "Executar sistema hidráulico preventivo",
+        "Solicitar vistoria para habite-se",
+        "Executar sistema de detecção automática de incêndio",
+        "Implantar plano de emergência e gerenciamento de riscos",
+        "Executar sistema de alarme de incêndio",
+        "Apresentar projeto (PPCI ou RPCI)",
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "02/02/2023",
+      "prazoDias": -1286,
+      "bombeiroAutuacao": "Cb Roger Ricardo Mafra",
+      "bloco": "01",
+      "codgAuto": "AF8161003535A/22",
+      "numgAuto": 119434,
+      "_ts": 1786469791.7169514
+    },
+    "AF8161001254A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "4405.26",
+      "cidade": "ITAJAÍ",
+      "responsavel": "INSTITUTO DE SAUDE SANTA CLARA",
+      "cpfCnpj": "08325231000349",
+      "celular": "47988298085",
+      "email": "direcao.itajai@institutosantaclara.org.br",
+      "endereco_responsavel": "Rua Joao Bauer, 85, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se",
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "13/03/2026",
+      "prazoDias": -151,
+      "bombeiroAutuacao": "Cb Leonardo FERREIRA Borges",
+      "bloco": "01",
+      "codgAuto": "AF8161001254A/25",
+      "numgAuto": 430677,
+      "_ts": 1786469791.7169654
+    },
+    "AF8161001109A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "4405.26",
+      "cidade": "ITAJAÍ",
+      "responsavel": "INSTITUTO DE SAUDE SANTA CLARA",
+      "cpfCnpj": "08325231000349",
+      "celular": "47988298085",
+      "email": "direcao.itajai@institutosantaclara.org.br",
+      "endereco_responsavel": "Rua Joao Bauer, 85, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "07/05/2027",
+      "prazoDias": 269,
+      "bombeiroAutuacao": "Sd Hercules Silveira da Rosa PAULINO",
+      "bloco": "01",
+      "codgAuto": "AF8161001109A/26",
+      "numgAuto": 519617,
+      "_ts": 1786469791.716971
+    },
+    "MUL8161000066A/23": {
+      "tipo": "MULTA",
+      "areaTotal": "4405.26",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "01",
+      "codgAuto": "MUL8161000066A/23",
+      "numgAuto": 175729,
+      "_ts": 1786469791.7170215
+    },
+    "MUL8161000170A/23": {
+      "tipo": "MULTA",
+      "areaTotal": "4405.26",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "01",
+      "codgAuto": "MUL8161000170A/23",
+      "numgAuto": 185908,
+      "_ts": 1786469791.7170248
+    },
+    "MUL8161000168A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "4405.26",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "01",
+      "codgAuto": "MUL8161000168A/26",
+      "numgAuto": 479805,
+      "_ts": 1786469791.7170267
     }
   }
 }
