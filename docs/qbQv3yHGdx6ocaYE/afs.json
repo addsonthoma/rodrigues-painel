@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-12T18:25:51-03:00",
+  "timestamp": "2026-08-12T19:22:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 890,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
+      "ultima_verificacao": "2026-08-12T19:22:03-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
+      "ultima_verificacao": "2026-08-12T19:22:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
+      "ultima_verificacao": "2026-08-12T19:22:03-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 573,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
+      "ultima_verificacao": "2026-08-12T19:22:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 483,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
+      "ultima_verificacao": "2026-08-12T19:22:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 473,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
+      "ultima_verificacao": "2026-08-12T19:22:03-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1106,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
+      "ultima_verificacao": "2026-08-12T19:22:03-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1056,
+      "ultimo_numero": 1063,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
+      "ultima_verificacao": "2026-08-12T19:22:03-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 298,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
+      "ultima_verificacao": "2026-08-12T19:22:03-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1111,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
+      "ultima_verificacao": "2026-08-12T19:22:03-03:00"
     }
   },
   "afs": {
@@ -13708,6 +13708,83 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001063A/26",
+        "Tipo": "AF",
+        "RE": "RE8047003923A",
+        "Nome_Edificacao": "BAGATIM ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Itajai",
+        "Numero": "36",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T19:22:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001062A/26",
+        "Tipo": "AF",
+        "RE": "RE8047006475A",
+        "Nome_Edificacao": "BONATTI EMPREENDIMENTOS LTDA",
+        "Logradouro": "RUA HERMANN TRIBESS",
+        "Numero": "525",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T19:22:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001061A/26",
+        "Tipo": "AF",
+        "RE": "RE8047006863A",
+        "Nome_Edificacao": "BNY PIZZAS LTDA ME",
+        "Logradouro": "RUA REPUBLICA ARGENTINA",
+        "Numero": "485",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T19:22:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001060A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001594A",
+        "Nome_Edificacao": "NATHOR INDÚSTRIA E COMERCIO DE BICICLETAS LTDA",
+        "Logradouro": "Rua Gustavo Zimmermann",
+        "Numero": "9855",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T19:22:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001059A/26",
+        "Tipo": "AF",
+        "RE": "RE8047010035A",
+        "Nome_Edificacao": "WILMAR POSSAMAI",
+        "Logradouro": "Rua Werner Duwe",
+        "Numero": "693",
+        "Bairro": "BLUMENAU - BADENFURT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T19:22:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001058A/26",
+        "Tipo": "AF",
+        "RE": "RE8047006711A",
+        "Nome_Edificacao": "ADMINISTRADORA DE BENS SCHWANKE LTDA",
+        "Logradouro": "RUA 2 DE SETEMBRO",
+        "Numero": "2061",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T19:22:03-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001057A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005249A",
+        "Nome_Edificacao": "Blumeimport Importação e Exportação Ltda",
+        "Logradouro": "Rua Artur Kuhl",
+        "Numero": "109",
+        "Bairro": "BLUMENAU - BADENFURT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T19:22:03-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001056A/26",
         "Tipo": "AF",
         "RE": "RE8047010806A",
@@ -22466,9 +22543,9 @@
     "Porto Belo": 192,
     "Nova Trento": 163,
     "Itapema": 372,
-    "Blumenau": 343,
+    "Blumenau": 350,
     "Navegantes": 94,
     "Itajai": 358
   },
-  "total_geral": 2034
+  "total_geral": 2041
 }
