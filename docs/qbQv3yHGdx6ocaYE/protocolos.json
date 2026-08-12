@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-11T19:59:25-03:00",
+  "timestamp": "2026-08-11T21:47:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8066,
-      "ultima_verificacao": "2026-08-11T19:59:25-03:00"
+      "ultimo_numero": 8067,
+      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-11T19:59:25-03:00"
+      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-11T19:59:25-03:00"
+      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3858,
-      "ultima_verificacao": "2026-08-11T19:59:25-03:00"
+      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3367,
-      "ultima_verificacao": "2026-08-11T19:59:25-03:00"
+      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 964,
-      "ultima_verificacao": "2026-08-11T19:59:25-03:00"
+      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7164,
-      "ultima_verificacao": "2026-08-11T19:59:25-03:00"
+      "ultimo_numero": 7167,
+      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12921,
-      "ultima_verificacao": "2026-08-11T19:59:25-03:00"
+      "ultimo_numero": 12923,
+      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4993,
-      "ultima_verificacao": "2026-08-11T19:59:25-03:00"
+      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14215,
-      "ultima_verificacao": "2026-08-11T19:59:25-03:00"
+      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008067A",
+        "RE": "RE8055006792A",
+        "numgEdificacao": 367518,
+        "Nome_Edificacao": "D&D MECANICA AUTOMOTIVA LTDA",
+        "Logradouro": "RUA PADRE ANTONIO EISING",
+        "Numero": "791",
+        "Bairro": "BRUSQUE - Azambuja",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-11T21:47:58-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008066A",
         "RE": "RE8055006789A",
@@ -4434,6 +4445,39 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007167A",
+        "RE": "RE8163006847A",
+        "numgEdificacao": 367346,
+        "Nome_Edificacao": "Capela Nossa Senhora Aparecida",
+        "Logradouro": "Rua 616 A",
+        "Numero": "351",
+        "Bairro": "ITAPEMA - TABULEIRO DOS OLIVEIRAS",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-11T21:47:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007166A",
+        "RE": "RE8163005526A",
+        "numgEdificacao": 280959,
+        "Nome_Edificacao": "RESIDÊNCIAL PAMPLONA",
+        "Logradouro": "Rua 313",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-11T21:47:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007165A",
+        "RE": "RE8163006732A",
+        "numgEdificacao": 362192,
+        "Nome_Edificacao": "Igreja Presbiteriana de Itapema - Bairro Ilhota",
+        "Logradouro": "RUA 1200",
+        "Numero": "533",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-11T21:47:58-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007164A",
         "RE": "RE8163003398A",
         "numgEdificacao": 190760,
@@ -5722,6 +5766,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012923A",
+        "RE": "RE8047010014A",
+        "numgEdificacao": 282549,
+        "Nome_Edificacao": "The One",
+        "Logradouro": "RUA ITAJAI",
+        "Numero": "260",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-11T21:47:58-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012922A",
+        "RE": "RE8047011421A",
+        "numgEdificacao": 338408,
+        "Nome_Edificacao": "Rei dos Sabores",
+        "Logradouro": "Rua Centenário",
+        "Numero": "436",
+        "Bairro": "BLUMENAU - VALPARAISO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-11T21:47:58-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012921A",
         "RE": "RE8047011074A",
@@ -11383,16 +11449,16 @@
     ]
   },
   "totais": {
-    "Brusque": 102,
+    "Brusque": 103,
     "Botuvera": 34,
     "Guabiruba": 35,
     "Gaspar": 92,
     "Porto Belo": 86,
     "Nova Trento": 48,
-    "Itapema": 117,
-    "Blumenau": 179,
+    "Itapema": 120,
+    "Blumenau": 181,
     "Navegantes": 96,
     "Itajai": 239
   },
-  "total_geral": 1028
+  "total_geral": 1034
 }
