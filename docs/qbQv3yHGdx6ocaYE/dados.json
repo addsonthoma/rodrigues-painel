@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-12T09:01:57-03:00",
+  "timestamp": "2026-08-12T13:23:02-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-12T09:01:57-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:02-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-12T09:01:57-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:02-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-12T09:01:57-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:02-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 43,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-12T09:01:57-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:02-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 105,
+      "ultimo_numero": 106,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-12T09:01:57-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:02-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-12T09:01:57-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:02-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 177,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-12T09:01:57-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:02-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 216,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-12T09:01:57-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:02-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 87,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-12T09:01:57-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:02-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 409,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-12T09:01:57-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:02-03:00"
     }
   },
   "multas": {
@@ -4488,6 +4488,16 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "MUL8265000106A/26",
+        "RE": "RE8265002225A",
+        "Nome_Edificacao": "NOACIR AIRTON RODRIGES",
+        "Logradouro": "AVENIDA HIRONILDO CONCEICAO DOS SANTOS",
+        "Numero": "128",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-12T13:23:02-03:00"
+      },
+      {
         "CodigoAuto": "MUL8265000103A/26",
         "RE": "RE8265001479A",
         "Nome_Edificacao": "VALENTIM DALLA BRIDA",
@@ -4961,10 +4971,17 @@
     "Itapema": 60,
     "Navegantes": 49,
     "Nova Trento": 46,
-    "Porto Belo": 48
+    "Porto Belo": 49
   },
-  "total_geral": 499,
+  "total_geral": 500,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-12T13:23:02-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000106A/26",
+      "nome": "NOACIR AIRTON RODRIGES",
+      "re": "RE8265002225A"
+    },
     {
       "ts": "2026-08-11T15:13:20-03:00",
       "cidade": "Itajai",
@@ -5216,76 +5233,6 @@
       "codigo": "MUL8055000115A/26",
       "nome": "Bar e lanchonete joinvilense",
       "re": "RE8055001318A"
-    },
-    {
-      "ts": "2026-08-05T12:35:29-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000114A/26",
-      "nome": "Bellicar Comercio e Representações ltda",
-      "re": "RE8055001002A"
-    },
-    {
-      "ts": "2026-08-05T12:35:29-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000113A/26",
-      "nome": "NATANNA BETINELLI",
-      "re": "RE8055006630A"
-    },
-    {
-      "ts": "2026-08-05T12:35:29-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000112A/26",
-      "nome": "GILMAR SILVEIRA",
-      "re": "RE8055002907A"
-    },
-    {
-      "ts": "2026-08-05T12:35:29-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000111A/26",
-      "nome": "ACACIO CADORIN",
-      "re": "RE8055002647A"
-    },
-    {
-      "ts": "2026-08-05T12:35:29-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000110A/26",
-      "nome": "Valdir Groh - Galpão Industrial",
-      "re": "RE8055000675A"
-    },
-    {
-      "ts": "2026-08-05T12:35:29-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000109A/26",
-      "nome": "José Carlos Mafra Júnior",
-      "re": "RE8055004038A"
-    },
-    {
-      "ts": "2026-08-05T12:35:29-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000108A/26",
-      "nome": "SERGIO DEBATIN",
-      "re": "RE8055004876A"
-    },
-    {
-      "ts": "2026-08-05T12:35:29-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000107A/26",
-      "nome": "SINSEB",
-      "re": "RE8055001347A"
-    },
-    {
-      "ts": "2026-08-05T12:35:29-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000106A/26",
-      "nome": "DIEGOLI & CIA LTDA",
-      "re": "RE8055003197A"
-    },
-    {
-      "ts": "2026-08-05T10:26:03-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000121A/26",
-      "nome": "SINDICATO",
-      "re": "RE8225000683A"
     }
   ]
 }

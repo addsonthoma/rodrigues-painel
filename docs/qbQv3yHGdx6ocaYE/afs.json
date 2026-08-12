@@ -1,69 +1,91 @@
 {
-  "timestamp": "2026-08-12T09:18:54-03:00",
+  "timestamp": "2026-08-12T13:23:36-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 888,
+      "ultimo_numero": 890,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T09:18:54-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:36-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T09:18:54-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:36-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T09:18:54-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:36-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 571,
+      "ultimo_numero": 573,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T09:18:54-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:36-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 481,
+      "ultimo_numero": 482,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T09:18:54-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:36-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 466,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T09:18:54-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:36-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1091,
+      "ultimo_numero": 1095,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T09:18:54-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:36-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1036,
+      "ultimo_numero": 1044,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T09:18:54-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:36-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 296,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T09:18:54-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:36-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1110,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T09:18:54-03:00"
+      "ultima_verificacao": "2026-08-12T13:23:36-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000890A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000395A",
+        "Nome_Edificacao": "Ka & Ki Administradora de Bens LTDA",
+        "Logradouro": "Rua Anita Garibaldi",
+        "Numero": "280",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000889A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003348A",
+        "Nome_Edificacao": "AMBP DO BRASIL",
+        "Logradouro": "RUA SAO PEDRO",
+        "Numero": "963",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
       {
         "CodigoAuto": "AF8055000888A/26",
         "Tipo": "AF",
@@ -3932,6 +3954,28 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000573A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002157A",
+        "Nome_Edificacao": "MICROPLAST",
+        "Logradouro": "AVENIDA SANTA TEREZINHA",
+        "Numero": "235",
+        "Bairro": "GASPAR - GASPAR MIRIM",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000572A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000402A",
+        "Nome_Edificacao": "RENATO MARCELINO DE OLIVEIRA",
+        "Logradouro": "RUA BONIFÁCIO HAENDCHEN",
+        "Numero": "875",
+        "Bairro": "GASPAR - BELCHIOR CENTRAL",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000571A/26",
         "Tipo": "AF",
         "RE": "RE8117001011A",
@@ -3946,7 +3990,7 @@
         "CodigoAuto": "AF8117000570A/26",
         "Tipo": "AF",
         "RE": "RE8117000402A",
-        "Nome_Edificacao": "SEBASTIÃO DE OLIVEIRA",
+        "Nome_Edificacao": "RENATO MARCELINO DE OLIVEIRA",
         "Logradouro": "RUA BONIFÁCIO HAENDCHEN",
         "Numero": "875",
         "Bairro": "GASPAR - BELCHIOR CENTRAL",
@@ -5660,6 +5704,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000482A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001973A",
+        "Nome_Edificacao": "DEPARTAMENTO DE VIGILANCIA SANITÁRIA",
+        "Logradouro": "VENINO PEREIRA DA CRUZ",
+        "Numero": "304",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
       {
         "CodigoAuto": "AF8265000481A/26",
         "Tipo": "AF",
@@ -9470,6 +9525,50 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001095A/26",
+        "Tipo": "AF",
+        "RE": "RE8163000902A",
+        "Nome_Edificacao": "COND. ED. LAS PALMAS",
+        "Logradouro": "RUA JOãO FRANCISCO PIO",
+        "Numero": "295",
+        "Bairro": "ITAPEMA - CANTO PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001094A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006837A",
+        "Nome_Edificacao": "OFICINA MANARICK",
+        "Logradouro": "Rua 700 B1",
+        "Numero": "110",
+        "Bairro": "ITAPEMA - CASA BRANCA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001093A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003019A",
+        "Nome_Edificacao": "CARLOS ALEXANDRE ZANUTTO",
+        "Logradouro": "RUA 432",
+        "Numero": "664",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001092A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001306A",
+        "Nome_Edificacao": "ITAPAES - GALPÃO COMERCIAL 01",
+        "Logradouro": "RUA 454",
+        "Numero": "586",
+        "Bairro": "ITAPEMA - LEOPOLDO ZARLING",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
       {
         "CodigoAuto": "AF8163001091A/26",
         "Tipo": "AF",
@@ -13399,6 +13498,94 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047001044A/26",
+        "Tipo": "AF",
+        "RE": "RE8047011291A",
+        "Nome_Edificacao": "ADELIA JUST",
+        "Logradouro": "RUA WERNER DUWE",
+        "Numero": "7137",
+        "Bairro": "BLUMENAU - TESTO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001043A/26",
+        "Tipo": "AF",
+        "RE": "RE8047010220A",
+        "Nome_Edificacao": "CLAUDIA RESIDENCE",
+        "Logradouro": "SÃO BERNARDO - 10903",
+        "Numero": "205",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001042A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001047A",
+        "Nome_Edificacao": "CIBAL ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Silvano Cândido da Silva Sênior",
+        "Numero": "237",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001041A/26",
+        "Tipo": "AF",
+        "RE": "RE8047000149A",
+        "Nome_Edificacao": "NELSON KRUG",
+        "Logradouro": "Rua Rui Barbosa",
+        "Numero": "655",
+        "Bairro": "BLUMENAU - PROGRESSO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001040A/26",
+        "Tipo": "AF",
+        "RE": "RE8047003884A",
+        "Nome_Edificacao": "CENTRO DE ATENDIMENTO SOCIOEDUCATICO PROVISÓRIO",
+        "Logradouro": "Rua José Augusto Maba",
+        "Numero": "140",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001039A/26",
+        "Tipo": "AF",
+        "RE": "RE8047006381A",
+        "Nome_Edificacao": "Carlito Schroeder",
+        "Logradouro": "RODOVIA BR 470",
+        "Numero": "4041",
+        "Bairro": "BLUMENAU - BADENFURT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001038A/26",
+        "Tipo": "AF",
+        "RE": "RE8047009938A",
+        "Nome_Edificacao": "CENTRO COMERCIAL",
+        "Logradouro": "RUA ALMIRANTE BARROSO",
+        "Numero": "",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001037A/26",
+        "Tipo": "AF",
+        "RE": "RE8047011981A",
+        "Nome_Edificacao": "IGREJA EVANGELICA ASSEMBLEIA DE DEUS - BADENFURT",
+        "Logradouro": "RUA JOHANN SACHSE",
+        "Numero": "160",
+        "Bairro": "BLUMENAU - Badenfurt",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T13:23:36-03:00"
+      },
       {
         "CodigoAuto": "AF8047001036A/26",
         "Tipo": "AF",
@@ -21898,16 +22085,16 @@
     ]
   },
   "totais": {
-    "Brusque": 278,
+    "Brusque": 280,
     "Botuvera": 32,
     "Guabiruba": 41,
-    "Gaspar": 157,
-    "Porto Belo": 190,
+    "Gaspar": 159,
+    "Porto Belo": 191,
     "Nova Trento": 156,
-    "Itapema": 357,
-    "Blumenau": 323,
+    "Itapema": 361,
+    "Blumenau": 331,
     "Navegantes": 92,
     "Itajai": 357
   },
-  "total_geral": 1983
+  "total_geral": 2000
 }

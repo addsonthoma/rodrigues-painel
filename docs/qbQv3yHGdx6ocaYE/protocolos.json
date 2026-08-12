@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-12T11:42:07-03:00",
+  "timestamp": "2026-08-12T13:32:55-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8067,
-      "ultima_verificacao": "2026-08-12T11:42:07-03:00"
+      "ultima_verificacao": "2026-08-12T13:32:55-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-12T11:42:07-03:00"
+      "ultima_verificacao": "2026-08-12T13:32:55-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-12T11:42:07-03:00"
+      "ultima_verificacao": "2026-08-12T13:32:55-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3858,
-      "ultima_verificacao": "2026-08-12T11:42:07-03:00"
+      "ultima_verificacao": "2026-08-12T13:32:55-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3367,
-      "ultima_verificacao": "2026-08-12T11:42:07-03:00"
+      "ultimo_numero": 3368,
+      "ultima_verificacao": "2026-08-12T13:32:55-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 964,
-      "ultima_verificacao": "2026-08-12T11:42:07-03:00"
+      "ultima_verificacao": "2026-08-12T13:32:55-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7167,
-      "ultima_verificacao": "2026-08-12T11:42:07-03:00"
+      "ultima_verificacao": "2026-08-12T13:32:55-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12923,
-      "ultima_verificacao": "2026-08-12T11:42:07-03:00"
+      "ultimo_numero": 12925,
+      "ultima_verificacao": "2026-08-12T13:32:55-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4993,
-      "ultima_verificacao": "2026-08-12T11:42:07-03:00"
+      "ultima_verificacao": "2026-08-12T13:32:55-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14216,
-      "ultima_verificacao": "2026-08-12T11:42:07-03:00"
+      "ultimo_numero": 14220,
+      "ultima_verificacao": "2026-08-12T13:32:55-03:00"
     }
   },
   "protocolos": {
@@ -2967,6 +2967,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003368A",
+        "RE": "RE8265002053A",
+        "numgEdificacao": 275210,
+        "Nome_Edificacao": "LABOTEC SERVIÇOS DE ANALISES TECNICAS LTDA",
+        "Logradouro": "R LAURO PRADO",
+        "Numero": "55",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-12T13:32:55-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003367A",
         "RE": "RE8265002717A",
         "numgEdificacao": 357162,
@@ -5766,6 +5777,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012925A",
+        "RE": "RE8047010540A",
+        "numgEdificacao": 301936,
+        "Nome_Edificacao": "Bauhaus Participações ltda",
+        "Logradouro": "RUA GUSTAVO ZIMMERMANN",
+        "Numero": "",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T13:32:55-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012924A",
+        "RE": "RE8047001108A",
+        "numgEdificacao": 39797,
+        "Nome_Edificacao": "ISIDORO ADMINISTRADORA DE BENS E PARTICIPAÇÕES LTDA",
+        "Logradouro": "RODOVIA BR 470",
+        "Numero": "3577",
+        "Bairro": "BLUMENAU - BADENFURT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T13:32:55-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012923A",
         "RE": "RE8047010014A",
@@ -8818,6 +8851,50 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014220A",
+        "RE": "RE8161004999A",
+        "numgEdificacao": 148081,
+        "Nome_Edificacao": "IVONETE CORREA",
+        "Logradouro": "Rua Pedro Cristiano de Miranda",
+        "Numero": "888",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-12T13:32:55-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014219A",
+        "RE": "RE8161013805A",
+        "numgEdificacao": 367490,
+        "Nome_Edificacao": "RESIDENCIAL TUCANO",
+        "Logradouro": "Rua Israel de Almeida",
+        "Numero": "395",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-12T13:32:55-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014218A",
+        "RE": "RE8161013809A",
+        "numgEdificacao": 367546,
+        "Nome_Edificacao": "Consultorio Odontológico",
+        "Logradouro": "FREDERICO AUGUSTO LUIZ THIEME",
+        "Numero": "207",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-12T13:32:55-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014217A",
+        "RE": "RE8161000092A",
+        "numgEdificacao": 3104,
+        "Nome_Edificacao": "CUNHA SOLUÇÕES LOGISTICAS LTDA ME",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "5555",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-12T13:32:55-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014216A",
         "RE": "RE8161010623A",
         "numgEdificacao": 282800,
@@ -11464,12 +11541,12 @@
     "Botuvera": 34,
     "Guabiruba": 35,
     "Gaspar": 92,
-    "Porto Belo": 86,
+    "Porto Belo": 87,
     "Nova Trento": 48,
     "Itapema": 120,
-    "Blumenau": 181,
+    "Blumenau": 183,
     "Navegantes": 96,
-    "Itajai": 240
+    "Itajai": 244
   },
-  "total_geral": 1035
+  "total_geral": 1042
 }
