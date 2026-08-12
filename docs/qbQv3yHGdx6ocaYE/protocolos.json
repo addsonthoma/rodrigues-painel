@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-11T21:47:58-03:00",
+  "timestamp": "2026-08-11T23:44:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8067,
-      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
+      "ultima_verificacao": "2026-08-11T23:44:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
+      "ultima_verificacao": "2026-08-11T23:44:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
+      "ultima_verificacao": "2026-08-11T23:44:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3858,
-      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
+      "ultima_verificacao": "2026-08-11T23:44:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3367,
-      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
+      "ultima_verificacao": "2026-08-11T23:44:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 964,
-      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
+      "ultima_verificacao": "2026-08-11T23:44:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7167,
-      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
+      "ultima_verificacao": "2026-08-11T23:44:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12923,
-      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
+      "ultima_verificacao": "2026-08-11T23:44:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4993,
-      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
+      "ultima_verificacao": "2026-08-11T23:44:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14215,
-      "ultima_verificacao": "2026-08-11T21:47:58-03:00"
+      "ultimo_numero": 14216,
+      "ultima_verificacao": "2026-08-11T23:44:57-03:00"
     }
   },
   "protocolos": {
@@ -8818,6 +8818,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014216A",
+        "RE": "RE8161010623A",
+        "numgEdificacao": 282800,
+        "Nome_Edificacao": "CONDOMÍNIO COMERCIAL E RESIDENCIAL ATÍLIO E PEPA",
+        "Logradouro": "Rua Fermino Vieira Cordeiro",
+        "Numero": "2550",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-11T23:44:57-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014215A",
         "RE": "RE8161012991A",
         "numgEdificacao": 343091,
@@ -11458,7 +11469,7 @@
     "Itapema": 120,
     "Blumenau": 181,
     "Navegantes": 96,
-    "Itajai": 239
+    "Itajai": 240
   },
-  "total_geral": 1034
+  "total_geral": 1035
 }
