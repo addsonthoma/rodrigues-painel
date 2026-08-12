@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-12T17:42:11-03:00",
+  "timestamp": "2026-08-12T18:34:14-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8069,
-      "ultima_verificacao": "2026-08-12T17:42:11-03:00"
+      "ultima_verificacao": "2026-08-12T18:34:14-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-12T17:42:11-03:00"
+      "ultima_verificacao": "2026-08-12T18:34:14-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-12T17:42:11-03:00"
+      "ultima_verificacao": "2026-08-12T18:34:14-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3858,
-      "ultima_verificacao": "2026-08-12T17:42:11-03:00"
+      "ultima_verificacao": "2026-08-12T18:34:14-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3368,
-      "ultima_verificacao": "2026-08-12T17:42:11-03:00"
+      "ultima_verificacao": "2026-08-12T18:34:14-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 964,
-      "ultima_verificacao": "2026-08-12T17:42:11-03:00"
+      "ultima_verificacao": "2026-08-12T18:34:14-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7168,
-      "ultima_verificacao": "2026-08-12T17:42:11-03:00"
+      "ultima_verificacao": "2026-08-12T18:34:14-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12927,
-      "ultima_verificacao": "2026-08-12T17:42:11-03:00"
+      "ultimo_numero": 12928,
+      "ultima_verificacao": "2026-08-12T18:34:14-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4994,
-      "ultima_verificacao": "2026-08-12T17:42:11-03:00"
+      "ultima_verificacao": "2026-08-12T18:34:14-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14223,
-      "ultima_verificacao": "2026-08-12T17:42:11-03:00"
+      "ultima_verificacao": "2026-08-12T18:34:14-03:00"
     }
   },
   "protocolos": {
@@ -5810,6 +5810,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012928A",
+        "RE": "RE8047012093A",
+        "numgEdificacao": 367604,
+        "Nome_Edificacao": "FENIX, EDIFÍCIO",
+        "Logradouro": "Rua Theodoro Holtrup",
+        "Numero": "215",
+        "Bairro": "BLUMENAU - Vila Nova",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T18:34:14-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012927A",
         "RE": "RE8047012094A",
@@ -11643,9 +11654,9 @@
     "Porto Belo": 87,
     "Nova Trento": 48,
     "Itapema": 121,
-    "Blumenau": 185,
+    "Blumenau": 186,
     "Navegantes": 97,
     "Itajai": 247
   },
-  "total_geral": 1051
+  "total_geral": 1052
 }

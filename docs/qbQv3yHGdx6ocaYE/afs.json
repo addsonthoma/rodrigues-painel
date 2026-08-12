@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-12T17:34:26-03:00",
+  "timestamp": "2026-08-12T18:25:51-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 890,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T17:34:26-03:00"
+      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T17:34:26-03:00"
+      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T17:34:26-03:00"
+      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 573,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T17:34:26-03:00"
+      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 482,
+      "ultimo_numero": 483,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T17:34:26-03:00"
+      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 473,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T17:34:26-03:00"
+      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1106,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T17:34:26-03:00"
+      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1052,
+      "ultimo_numero": 1056,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T17:34:26-03:00"
+      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 297,
+      "ultimo_numero": 298,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T17:34:26-03:00"
+      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1111,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-12T17:34:26-03:00"
+      "ultima_verificacao": "2026-08-12T18:25:51-03:00"
     }
   },
   "afs": {
@@ -5704,6 +5704,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000483A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000369A",
+        "Nome_Edificacao": "MARINA ATLANTIDA LTDA",
+        "Logradouro": "Rua MANOEL FELIPE DA SILVA",
+        "Numero": "325",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-12T18:25:51-03:00"
+      },
       {
         "CodigoAuto": "AF8265000482A/26",
         "Tipo": "AF",
@@ -13697,6 +13708,50 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001056A/26",
+        "Tipo": "AF",
+        "RE": "RE8047010806A",
+        "Nome_Edificacao": "BLUMENAU IMOVEIS",
+        "Logradouro": "Rua Alfonso Souza e Silva",
+        "Numero": "131",
+        "Bairro": "BLUMENAU - ÁGUA VERDE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T18:25:51-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001055A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005879A",
+        "Nome_Edificacao": "ADMINISTRADORA DE BENS TOMIO",
+        "Logradouro": "Rua da Glória",
+        "Numero": "819",
+        "Bairro": "BLUMENAU - GLÓRIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T18:25:51-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001054A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005669A",
+        "Nome_Edificacao": "BRASIL TELECOM S/A",
+        "Logradouro": "Rua República Argentina",
+        "Numero": "33",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T18:25:51-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001053A/26",
+        "Tipo": "AF",
+        "RE": "RE8047007218A",
+        "Nome_Edificacao": "COMERCIAL LUFFER LTDA",
+        "Logradouro": "Rua Daniel Albertino de Souza",
+        "Numero": "360",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-12T18:25:51-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001052A/26",
         "Tipo": "AF",
         "RE": "RE8047006922A",
@@ -17427,6 +17482,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoAuto": "AF8221000298A/26",
+        "Tipo": "AF",
+        "RE": "RE8221004125A",
+        "Nome_Edificacao": "FERNANDO CARLOS GEVAERD",
+        "Logradouro": "AVENIDA PREFEITO CIRINO ADOLFO CABRAL",
+        "Numero": "8227",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-12T18:25:51-03:00"
+      },
       {
         "CodigoAuto": "AF8221000297A/26",
         "Tipo": "AF",
@@ -22397,12 +22463,12 @@
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 159,
-    "Porto Belo": 191,
+    "Porto Belo": 192,
     "Nova Trento": 163,
     "Itapema": 372,
-    "Blumenau": 339,
-    "Navegantes": 93,
+    "Blumenau": 343,
+    "Navegantes": 94,
     "Itajai": 358
   },
-  "total_geral": 2028
+  "total_geral": 2034
 }
