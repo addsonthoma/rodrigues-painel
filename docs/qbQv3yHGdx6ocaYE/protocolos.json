@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-13T18:33:45-03:00",
+  "timestamp": "2026-08-13T19:29:12-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8073,
-      "ultima_verificacao": "2026-08-13T18:33:45-03:00"
+      "ultima_verificacao": "2026-08-13T19:29:12-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T18:33:45-03:00"
+      "ultima_verificacao": "2026-08-13T19:29:12-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1511,
-      "ultima_verificacao": "2026-08-13T18:33:45-03:00"
+      "ultima_verificacao": "2026-08-13T19:29:12-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3861,
-      "ultima_verificacao": "2026-08-13T18:33:45-03:00"
+      "ultima_verificacao": "2026-08-13T19:29:12-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3373,
-      "ultima_verificacao": "2026-08-13T18:33:45-03:00"
+      "ultima_verificacao": "2026-08-13T19:29:12-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T18:33:45-03:00"
+      "ultima_verificacao": "2026-08-13T19:29:12-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7170,
-      "ultima_verificacao": "2026-08-13T18:33:45-03:00"
+      "ultima_verificacao": "2026-08-13T19:29:12-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12929,
-      "ultima_verificacao": "2026-08-13T18:33:45-03:00"
+      "ultima_verificacao": "2026-08-13T19:29:12-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-13T18:33:45-03:00"
+      "ultima_verificacao": "2026-08-13T19:29:12-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14230,
-      "ultima_verificacao": "2026-08-13T18:33:45-03:00"
+      "ultimo_numero": 14231,
+      "ultima_verificacao": "2026-08-13T19:29:12-03:00"
     }
   },
   "protocolos": {
@@ -9126,6 +9126,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014231A",
+        "RE": "RE8161009863A",
+        "numgEdificacao": 263682,
+        "Nome_Edificacao": "JOCEMIR INACIO TOMASI",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "",
+        "Bairro": "ITAJAÍ - ARRAIAL DOS CUNHAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-13T19:29:12-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014230A",
         "RE": "RE8161000818A",
         "numgEdificacao": 22977,
@@ -11931,7 +11942,7 @@
     "Itapema": 123,
     "Blumenau": 187,
     "Navegantes": 98,
-    "Itajai": 254
+    "Itajai": 255
   },
-  "total_geral": 1077
+  "total_geral": 1078
 }
