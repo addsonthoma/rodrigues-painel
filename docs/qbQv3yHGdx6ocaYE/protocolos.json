@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-13T16:18:37-03:00",
+  "timestamp": "2026-08-13T18:07:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8070,
-      "ultima_verificacao": "2026-08-13T16:18:37-03:00"
+      "ultimo_numero": 8073,
+      "ultima_verificacao": "2026-08-13T18:07:31-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T16:18:37-03:00"
+      "ultima_verificacao": "2026-08-13T18:07:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-13T16:18:37-03:00"
+      "ultimo_numero": 1511,
+      "ultima_verificacao": "2026-08-13T18:07:31-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3859,
-      "ultima_verificacao": "2026-08-13T16:18:37-03:00"
+      "ultimo_numero": 3861,
+      "ultima_verificacao": "2026-08-13T18:07:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3370,
-      "ultima_verificacao": "2026-08-13T16:18:37-03:00"
+      "ultimo_numero": 3373,
+      "ultima_verificacao": "2026-08-13T18:07:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T16:18:37-03:00"
+      "ultima_verificacao": "2026-08-13T18:07:31-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7170,
-      "ultima_verificacao": "2026-08-13T16:18:37-03:00"
+      "ultima_verificacao": "2026-08-13T18:07:31-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12928,
-      "ultima_verificacao": "2026-08-13T16:18:37-03:00"
+      "ultimo_numero": 12929,
+      "ultima_verificacao": "2026-08-13T18:07:31-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4994,
-      "ultima_verificacao": "2026-08-13T16:18:37-03:00"
+      "ultimo_numero": 4995,
+      "ultima_verificacao": "2026-08-13T18:07:31-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14225,
-      "ultima_verificacao": "2026-08-13T16:18:37-03:00"
+      "ultimo_numero": 14230,
+      "ultima_verificacao": "2026-08-13T18:07:31-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008073A",
+        "RE": "RE8055001441A",
+        "numgEdificacao": 137620,
+        "Nome_Edificacao": "W Construtora e Incorporadora ltda",
+        "Logradouro": "RODOVIA IVO SILVEIRA",
+        "Numero": "5533",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-13T18:07:31-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008072A",
         "RE": "RE8055003961A",
@@ -9115,6 +9126,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014230A",
+        "RE": "RE8161000818A",
+        "numgEdificacao": 22977,
+        "Nome_Edificacao": "MULTILOG ARMAZÉNS GERAIS",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "3400",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-13T18:07:31-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014229A",
         "RE": "RE8161009659A",
         "numgEdificacao": 258848,
@@ -9123,7 +9145,7 @@
         "Numero": "15",
         "Bairro": "ITAJAÍ - FAZENDINHA",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-08-13T17:36:20-03:00"
+        "Detectado_em": "2026-08-13T18:07:31-03:00"
       },
       {
         "CodigoProtocolo": "A8161014228A",
@@ -11900,7 +11922,7 @@
     ]
   },
   "totais": {
-    "Brusque": 108,
+    "Brusque": 109,
     "Botuvera": 34,
     "Guabiruba": 36,
     "Gaspar": 95,
@@ -11909,7 +11931,7 @@
     "Itapema": 123,
     "Blumenau": 187,
     "Navegantes": 98,
-    "Itajai": 253
+    "Itajai": 254
   },
-  "total_geral": 1075
+  "total_geral": 1077
 }
