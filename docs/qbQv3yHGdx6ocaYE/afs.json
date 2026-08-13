@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-13T13:40:19-03:00",
+  "timestamp": "2026-08-13T13:50:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 896,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T13:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T13:50:21-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T13:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T13:50:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T13:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T13:50:21-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 579,
+      "ultimo_numero": 580,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T13:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T13:50:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 484,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T13:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T13:50:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 473,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T13:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T13:50:21-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1109,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T13:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T13:50:21-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1065,
+      "ultimo_numero": 1066,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T13:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T13:50:21-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 299,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T13:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T13:50:21-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1111,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T13:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T13:50:21-03:00"
     }
   },
   "afs": {
@@ -4019,6 +4019,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000580A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000421A",
+        "Nome_Edificacao": "PAMPLASTIC IND. E COM. EMB.PLASTICAS EIRELI",
+        "Logradouro": "RODOVIA: INGO HERING",
+        "Numero": "14875",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-13T13:50:21-03:00"
+      },
       {
         "CodigoAuto": "AF8117000579A/26",
         "Tipo": "AF",
@@ -13884,6 +13895,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001066A/26",
+        "Tipo": "AF",
+        "RE": "RE8047006223A",
+        "Nome_Edificacao": "RESIDENCIAL RESERVA DO ARVOREDO",
+        "Logradouro": "RUA MARECHAL RONDON",
+        "Numero": "190",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-13T13:50:21-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001065A/26",
         "Tipo": "AF",
         "RE": "RE8047010923A",
@@ -22748,13 +22770,13 @@
     "Brusque": 286,
     "Botuvera": 32,
     "Guabiruba": 41,
-    "Gaspar": 165,
+    "Gaspar": 166,
     "Porto Belo": 193,
     "Nova Trento": 163,
     "Itapema": 375,
-    "Blumenau": 352,
+    "Blumenau": 353,
     "Navegantes": 95,
     "Itajai": 358
   },
-  "total_geral": 2060
+  "total_geral": 2062
 }
