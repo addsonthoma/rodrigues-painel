@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-13T16:46:17-03:00",
+  "timestamp": "2026-08-13T16:56:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8072,
-      "ultima_verificacao": "2026-08-13T16:46:17-03:00"
+      "ultima_verificacao": "2026-08-13T16:56:23-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T16:46:17-03:00"
+      "ultima_verificacao": "2026-08-13T16:56:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1511,
-      "ultima_verificacao": "2026-08-13T16:46:17-03:00"
+      "ultima_verificacao": "2026-08-13T16:56:23-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3861,
-      "ultima_verificacao": "2026-08-13T16:46:17-03:00"
+      "ultima_verificacao": "2026-08-13T16:56:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3372,
-      "ultima_verificacao": "2026-08-13T16:46:17-03:00"
+      "ultimo_numero": 3373,
+      "ultima_verificacao": "2026-08-13T16:56:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T16:46:17-03:00"
+      "ultima_verificacao": "2026-08-13T16:56:23-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7170,
-      "ultima_verificacao": "2026-08-13T16:46:17-03:00"
+      "ultima_verificacao": "2026-08-13T16:56:23-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12929,
-      "ultima_verificacao": "2026-08-13T16:46:17-03:00"
+      "ultima_verificacao": "2026-08-13T16:56:23-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-13T16:46:17-03:00"
+      "ultima_verificacao": "2026-08-13T16:56:23-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14228,
-      "ultima_verificacao": "2026-08-13T16:46:17-03:00"
+      "ultima_verificacao": "2026-08-13T16:56:23-03:00"
     }
   },
   "protocolos": {
@@ -3065,6 +3065,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003373A",
+        "RE": "RE8265002822A",
+        "numgEdificacao": 367758,
+        "Nome_Edificacao": "AMMOS",
+        "Logradouro": "Rua João Carlos Abraham",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-13T16:56:23-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003372A",
         "RE": "RE8265000171A",
@@ -11882,12 +11893,12 @@
     "Botuvera": 34,
     "Guabiruba": 36,
     "Gaspar": 95,
-    "Porto Belo": 91,
+    "Porto Belo": 92,
     "Nova Trento": 49,
     "Itapema": 123,
     "Blumenau": 187,
     "Navegantes": 98,
     "Itajai": 252
   },
-  "total_geral": 1073
+  "total_geral": 1074
 }
