@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-13T11:36:16-03:00",
+  "timestamp": "2026-08-13T11:46:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8070,
-      "ultima_verificacao": "2026-08-13T11:36:16-03:00"
+      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T11:36:16-03:00"
+      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-13T11:36:16-03:00"
+      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3858,
-      "ultima_verificacao": "2026-08-13T11:36:16-03:00"
+      "ultimo_numero": 3859,
+      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3370,
-      "ultima_verificacao": "2026-08-13T11:36:16-03:00"
+      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T11:36:16-03:00"
+      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7169,
-      "ultima_verificacao": "2026-08-13T11:36:16-03:00"
+      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12928,
-      "ultima_verificacao": "2026-08-13T11:36:16-03:00"
+      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4994,
-      "ultima_verificacao": "2026-08-13T11:36:16-03:00"
+      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14224,
-      "ultima_verificacao": "2026-08-13T11:36:16-03:00"
+      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
     }
   },
   "protocolos": {
@@ -1985,6 +1985,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003859A",
+        "RE": "RE8117000450A",
+        "numgEdificacao": 37273,
+        "Nome_Edificacao": "EDIFICIO ATITUDE CENTRO EMPRESARIAL",
+        "Logradouro": "Rua São José",
+        "Numero": "253",
+        "Bairro": "GASPAR - CENTRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-13T11:46:21-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003858A",
         "RE": "RE8117003275A",
@@ -11716,7 +11727,7 @@
     "Brusque": 106,
     "Botuvera": 34,
     "Guabiruba": 35,
-    "Gaspar": 92,
+    "Gaspar": 93,
     "Porto Belo": 89,
     "Nova Trento": 49,
     "Itapema": 122,
@@ -11724,5 +11735,5 @@
     "Navegantes": 97,
     "Itajai": 248
   },
-  "total_geral": 1058
+  "total_geral": 1059
 }
