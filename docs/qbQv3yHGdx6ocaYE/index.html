@@ -31,6 +31,8 @@
  header h1 .pulse{width:12px;height:12px;background:var(--ok);border-radius:50%;animation:pulse 1.8s infinite}
  header .subtitle{font-size:11px;color:var(--muted);letter-spacing:2px;text-transform:uppercase}
  @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(38,222,129,0.7)}50%{box-shadow:0 0 0 12px rgba(38,222,129,0)}}
+ #last-update.coleta-velha{color:#f0a020;font-weight:600}
+ #last-update.coleta-parada{color:#ff5c5c;font-weight:700}
  header .stats{display:flex;gap:22px;font-size:13px}
  header .stats div{color:var(--muted)}
  header .stats div b{color:var(--text);font-size:18px;display:block}
@@ -315,6 +317,19 @@ function fmtDetectado(iso){
   }catch(e){ return null; }
 }
 
+// Mostra a ultima coleta COM A IDADE e acende alerta se estiver velha.
+// O coletor roda a cada 10 min na nuvem: passou de 1h, tem algo errado.
+function setUltimaColeta(iso){
+  const el = document.getElementById("last-update");
+  if(!el) return;
+  if(!iso){ el.textContent = "—"; el.className = "coleta-velha"; return; }
+  const d = new Date(iso), min = Math.floor((Date.now() - d) / 60000);
+  const idade = min < 1 ? "agora" : (min < 60 ? `há ${min} min` : (min < 1440 ? `há ${Math.floor(min/60)}h` : `há ${Math.floor(min/1440)} dia(s)`));
+  el.textContent = `${fmtDate(iso)} (${idade})`;
+  el.className = min > 180 ? "coleta-parada" : (min > 60 ? "coleta-velha" : "");
+  el.title = d.toLocaleString("pt-BR");
+}
+
 function ehRecente(iso){
   if(!iso) return false;
   try{
@@ -471,7 +486,7 @@ function render(){
   const hoje = new Date().toISOString().slice(0,10);
   const hojeCt = (dadosMul.eventos_recentes||[]).filter(e=>e.ts && e.ts.startsWith(hoje)).length;
   document.getElementById("hoje").textContent = hojeCt;
-  document.getElementById("last-update").textContent = fmtDate(dadosMul.timestamp);
+  setUltimaColeta(dadosMul.timestamp);
 
   const grid = document.getElementById("grid");
   const cidades = [...cidadesSet].sort();
@@ -950,7 +965,7 @@ function renderProtocolos(){
   document.getElementById("total-mul").textContent = totalProto;
   document.getElementById("total-af").textContent = defCount;
   document.getElementById("cid-count").textContent = cidades.length;
-  document.getElementById("last-update").textContent = (typeof fmtDate==='function')?fmtDate(dadosProto.timestamp):(dadosProto.timestamp||'—');
+  setUltimaColeta(dadosProto.timestamp);
 
   let cidsView = filtroCidades.size ? cidades.filter(c=>filtroCidades.has(c)) : cidades;
   const grid=document.getElementById("grid");
