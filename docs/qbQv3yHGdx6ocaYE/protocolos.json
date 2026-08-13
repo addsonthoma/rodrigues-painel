@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-13T20:17:32-03:00",
+  "timestamp": "2026-08-13T20:47:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8073,
-      "ultima_verificacao": "2026-08-13T20:17:32-03:00"
+      "ultima_verificacao": "2026-08-13T20:47:56-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T20:17:32-03:00"
+      "ultima_verificacao": "2026-08-13T20:47:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1511,
-      "ultima_verificacao": "2026-08-13T20:17:32-03:00"
+      "ultimo_numero": 1512,
+      "ultima_verificacao": "2026-08-13T20:47:56-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3861,
-      "ultima_verificacao": "2026-08-13T20:17:32-03:00"
+      "ultima_verificacao": "2026-08-13T20:47:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3373,
-      "ultima_verificacao": "2026-08-13T20:17:32-03:00"
+      "ultima_verificacao": "2026-08-13T20:47:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T20:17:32-03:00"
+      "ultima_verificacao": "2026-08-13T20:47:56-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7170,
-      "ultima_verificacao": "2026-08-13T20:17:32-03:00"
+      "ultima_verificacao": "2026-08-13T20:47:56-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12929,
-      "ultima_verificacao": "2026-08-13T20:17:32-03:00"
+      "ultima_verificacao": "2026-08-13T20:47:56-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-13T20:17:32-03:00"
+      "ultima_verificacao": "2026-08-13T20:47:56-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14231,
-      "ultima_verificacao": "2026-08-13T20:17:32-03:00"
+      "ultima_verificacao": "2026-08-13T20:47:56-03:00"
     }
   },
   "protocolos": {
@@ -1631,6 +1631,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001512A",
+        "RE": "RE8123000039A",
+        "numgEdificacao": 18382,
+        "Nome_Edificacao": "LABORAR SERVIÇOS DE FISIOTERAPIA LTDA",
+        "Logradouro": "Brusque",
+        "Numero": "2365",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-08-13T20:47:56-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001511A",
         "RE": "RE8123001202A",
@@ -11935,7 +11946,7 @@
   "totais": {
     "Brusque": 109,
     "Botuvera": 34,
-    "Guabiruba": 36,
+    "Guabiruba": 37,
     "Gaspar": 95,
     "Porto Belo": 92,
     "Nova Trento": 49,
@@ -11944,5 +11955,5 @@
     "Navegantes": 98,
     "Itajai": 255
   },
-  "total_geral": 1078
+  "total_geral": 1079
 }
