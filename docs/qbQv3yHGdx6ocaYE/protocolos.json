@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-13T10:06:47-03:00",
+  "timestamp": "2026-08-13T10:16:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8069,
-      "ultima_verificacao": "2026-08-13T10:06:47-03:00"
+      "ultimo_numero": 8070,
+      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T10:06:47-03:00"
+      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-13T10:06:47-03:00"
+      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3858,
-      "ultima_verificacao": "2026-08-13T10:06:47-03:00"
+      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3368,
-      "ultima_verificacao": "2026-08-13T10:06:47-03:00"
+      "ultimo_numero": 3369,
+      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T10:06:47-03:00"
+      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7169,
-      "ultima_verificacao": "2026-08-13T10:06:47-03:00"
+      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12928,
-      "ultima_verificacao": "2026-08-13T10:06:47-03:00"
+      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4994,
-      "ultima_verificacao": "2026-08-13T10:06:47-03:00"
+      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14223,
-      "ultima_verificacao": "2026-08-13T10:06:47-03:00"
+      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008070A",
+        "RE": "RE8055005484A",
+        "numgEdificacao": 307076,
+        "Nome_Edificacao": "EDINHO MATERIAIS DE CONSTRUÇÃO LTDA",
+        "Logradouro": "RUA SÃO PEDRO",
+        "Numero": "1405",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-13T10:16:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008069A",
         "RE": "RE8055002500A",
@@ -2988,6 +2999,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003369A",
+        "RE": "RE8265002820A",
+        "numgEdificacao": 367678,
+        "Nome_Edificacao": "RAÍZES RESIDENCIAL",
+        "Logradouro": "Servidão José Jovino Silveira esq. Avenida Senador Atílio Fontana",
+        "Numero": "",
+        "Bairro": "PORTO BELO - BALNEARIO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-13T10:16:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003368A",
         "RE": "RE8265002053A",
@@ -11669,16 +11691,16 @@
     ]
   },
   "totais": {
-    "Brusque": 105,
+    "Brusque": 106,
     "Botuvera": 34,
     "Guabiruba": 35,
     "Gaspar": 92,
-    "Porto Belo": 87,
+    "Porto Belo": 88,
     "Nova Trento": 49,
     "Itapema": 122,
     "Blumenau": 186,
     "Navegantes": 97,
     "Itajai": 247
   },
-  "total_geral": 1054
+  "total_geral": 1056
 }
