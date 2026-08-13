@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-13T11:46:21-03:00",
+  "timestamp": "2026-08-13T11:52:55-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8070,
-      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T11:52:55-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T11:52:55-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T11:52:55-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3859,
-      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T11:52:55-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3370,
-      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T11:52:55-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T11:52:55-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7169,
-      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
+      "ultimo_numero": 7170,
+      "ultima_verificacao": "2026-08-13T11:52:55-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12928,
-      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T11:52:55-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4994,
-      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T11:52:55-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14224,
-      "ultima_verificacao": "2026-08-13T11:46:21-03:00"
+      "ultimo_numero": 14225,
+      "ultima_verificacao": "2026-08-13T11:52:55-03:00"
     }
   },
   "protocolos": {
@@ -1994,7 +1994,7 @@
         "Numero": "253",
         "Bairro": "GASPAR - CENTRO",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-08-13T11:46:21-03:00"
+        "Detectado_em": "2026-08-13T11:52:55-03:00"
       },
       {
         "CodigoProtocolo": "A8117003858A",
@@ -4532,6 +4532,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007170A",
+        "RE": "RE8163006853A",
+        "numgEdificacao": 367688,
+        "Nome_Edificacao": "MARCELO VIEIRA",
+        "Logradouro": "rua 706 A",
+        "Numero": "85",
+        "Bairro": "ITAPEMA - VARZEA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-13T11:52:55-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007169A",
         "RE": "RE8163006852A",
@@ -8994,6 +9005,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014225A",
+        "RE": "RE8161000118A",
+        "numgEdificacao": 3782,
+        "Nome_Edificacao": "CPX DISTRIBUIDORA S/A",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "800",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-13T11:52:55-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014224A",
         "RE": "RE8161000335A",
         "numgEdificacao": 10028,
@@ -11730,10 +11752,10 @@
     "Gaspar": 93,
     "Porto Belo": 89,
     "Nova Trento": 49,
-    "Itapema": 122,
+    "Itapema": 123,
     "Blumenau": 186,
     "Navegantes": 97,
-    "Itajai": 248
+    "Itajai": 249
   },
-  "total_geral": 1059
+  "total_geral": 1061
 }
