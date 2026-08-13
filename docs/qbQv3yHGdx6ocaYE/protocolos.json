@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-13T10:16:57-03:00",
+  "timestamp": "2026-08-13T10:26:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8070,
-      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
+      "ultima_verificacao": "2026-08-13T10:26:56-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
+      "ultima_verificacao": "2026-08-13T10:26:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
+      "ultima_verificacao": "2026-08-13T10:26:56-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3858,
-      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
+      "ultima_verificacao": "2026-08-13T10:26:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3369,
-      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
+      "ultima_verificacao": "2026-08-13T10:26:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
+      "ultima_verificacao": "2026-08-13T10:26:56-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7169,
-      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
+      "ultima_verificacao": "2026-08-13T10:26:56-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12928,
-      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
+      "ultima_verificacao": "2026-08-13T10:26:56-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4994,
-      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
+      "ultima_verificacao": "2026-08-13T10:26:56-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14223,
-      "ultima_verificacao": "2026-08-13T10:16:57-03:00"
+      "ultimo_numero": 14224,
+      "ultima_verificacao": "2026-08-13T10:26:56-03:00"
     }
   },
   "protocolos": {
@@ -8972,6 +8972,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014224A",
+        "RE": "RE8161000335A",
+        "numgEdificacao": 10028,
+        "Nome_Edificacao": "PRIMEINVEST INVESTIMENTOS IMOBILIÁRIOS S/A",
+        "Logradouro": "RODOVIA ANTÔNIOHEILL",
+        "Numero": "4605",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-13T10:26:56-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014223A",
         "RE": "RE8161013812A",
         "numgEdificacao": 367614,
@@ -11700,7 +11711,7 @@
     "Itapema": 122,
     "Blumenau": 186,
     "Navegantes": 97,
-    "Itajai": 247
+    "Itajai": 248
   },
-  "total_geral": 1056
+  "total_geral": 1057
 }
