@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-13T15:36:13-03:00",
+  "timestamp": "2026-08-13T15:46:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8072,
-      "ultima_verificacao": "2026-08-13T15:36:13-03:00"
+      "ultima_verificacao": "2026-08-13T15:46:24-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T15:36:13-03:00"
+      "ultima_verificacao": "2026-08-13T15:46:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-13T15:36:13-03:00"
+      "ultimo_numero": 1511,
+      "ultima_verificacao": "2026-08-13T15:46:24-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3861,
-      "ultima_verificacao": "2026-08-13T15:36:13-03:00"
+      "ultima_verificacao": "2026-08-13T15:46:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3371,
-      "ultima_verificacao": "2026-08-13T15:36:13-03:00"
+      "ultima_verificacao": "2026-08-13T15:46:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T15:36:13-03:00"
+      "ultima_verificacao": "2026-08-13T15:46:24-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7170,
-      "ultima_verificacao": "2026-08-13T15:36:13-03:00"
+      "ultima_verificacao": "2026-08-13T15:46:24-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12928,
-      "ultima_verificacao": "2026-08-13T15:36:13-03:00"
+      "ultima_verificacao": "2026-08-13T15:46:24-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-13T15:36:13-03:00"
+      "ultima_verificacao": "2026-08-13T15:46:24-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14227,
-      "ultima_verificacao": "2026-08-13T15:36:13-03:00"
+      "ultima_verificacao": "2026-08-13T15:46:24-03:00"
     }
   },
   "protocolos": {
@@ -1620,6 +1620,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001511A",
+        "RE": "RE8123001202A",
+        "numgEdificacao": 367750,
+        "Nome_Edificacao": "RESIDENCIAL OFFENBURG",
+        "Logradouro": "RUA OSCAR BARON",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-08-13T15:46:24-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001510A",
         "RE": "RE8123001200A",
@@ -11836,7 +11847,7 @@
   "totais": {
     "Brusque": 108,
     "Botuvera": 34,
-    "Guabiruba": 35,
+    "Guabiruba": 36,
     "Gaspar": 95,
     "Porto Belo": 90,
     "Nova Trento": 49,
@@ -11845,5 +11856,5 @@
     "Navegantes": 98,
     "Itajai": 251
   },
-  "total_geral": 1069
+  "total_geral": 1070
 }
