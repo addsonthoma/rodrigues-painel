@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-13T04:55:54-03:00",
+  "timestamp": "2026-08-13T06:10:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8069,
-      "ultima_verificacao": "2026-08-13T04:55:54-03:00"
+      "ultima_verificacao": "2026-08-13T06:10:30-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T04:55:54-03:00"
+      "ultima_verificacao": "2026-08-13T06:10:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-13T04:55:54-03:00"
+      "ultima_verificacao": "2026-08-13T06:10:30-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3858,
-      "ultima_verificacao": "2026-08-13T04:55:54-03:00"
+      "ultima_verificacao": "2026-08-13T06:10:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3368,
-      "ultima_verificacao": "2026-08-13T04:55:54-03:00"
+      "ultima_verificacao": "2026-08-13T06:10:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T04:55:54-03:00"
+      "ultima_verificacao": "2026-08-13T06:10:30-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7168,
-      "ultima_verificacao": "2026-08-13T04:55:54-03:00"
+      "ultimo_numero": 7169,
+      "ultima_verificacao": "2026-08-13T06:10:30-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12928,
-      "ultima_verificacao": "2026-08-13T04:55:54-03:00"
+      "ultima_verificacao": "2026-08-13T06:10:30-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4994,
-      "ultima_verificacao": "2026-08-13T04:55:54-03:00"
+      "ultima_verificacao": "2026-08-13T06:10:30-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14223,
-      "ultima_verificacao": "2026-08-13T04:55:54-03:00"
+      "ultima_verificacao": "2026-08-13T06:10:30-03:00"
     }
   },
   "protocolos": {
@@ -4488,6 +4488,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007169A",
+        "RE": "RE8163006852A",
+        "numgEdificacao": 367667,
+        "Nome_Edificacao": "ATHENA RESIDENCE",
+        "Logradouro": "rua 716",
+        "Numero": "417",
+        "Bairro": "ITAPEMA - VARZEA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-13T06:10:30-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007168A",
         "RE": "RE8163002357A",
@@ -11664,10 +11675,10 @@
     "Gaspar": 92,
     "Porto Belo": 87,
     "Nova Trento": 49,
-    "Itapema": 121,
+    "Itapema": 122,
     "Blumenau": 186,
     "Navegantes": 97,
     "Itajai": 247
   },
-  "total_geral": 1053
+  "total_geral": 1054
 }
