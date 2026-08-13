@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-08-13T12:40:19-03:00",
+  "timestamp": "2026-08-13T12:50:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 893,
+      "ultimo_numero": 894,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T12:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T12:50:20-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T12:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T12:50:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T12:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T12:50:20-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 579,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T12:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T12:50:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 484,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T12:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T12:50:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 473,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T12:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T12:50:20-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1108,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T12:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T12:50:20-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1063,
+      "ultimo_numero": 1064,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T12:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T12:50:20-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 299,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T12:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T12:50:20-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1111,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T12:40:19-03:00"
+      "ultima_verificacao": "2026-08-13T12:50:20-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000894A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003961A",
+        "Nome_Edificacao": "CONDOMÍNIO EDIFÍCIO FERNANDO",
+        "Logradouro": "R Rodrigues Alves",
+        "Numero": "292",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-13T12:50:20-03:00"
+      },
       {
         "CodigoAuto": "AF8055000893A/26",
         "Tipo": "AF",
@@ -13840,6 +13851,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001064A/26",
+        "Tipo": "AF",
+        "RE": "RE8047012067A",
+        "Nome_Edificacao": "IGREJA EVANGELICA IRMAOS MENONITAS",
+        "Logradouro": "Rua Gustavo Zimmermann",
+        "Numero": "4261",
+        "Bairro": "BLUMENAU - Itoupava Central",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-13T12:50:20-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001063A/26",
         "Tipo": "AF",
         "RE": "RE8047003923A",
@@ -22679,16 +22701,16 @@
     ]
   },
   "totais": {
-    "Brusque": 283,
+    "Brusque": 284,
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 165,
     "Porto Belo": 193,
     "Nova Trento": 163,
     "Itapema": 374,
-    "Blumenau": 350,
+    "Blumenau": 351,
     "Navegantes": 95,
     "Itajai": 358
   },
-  "total_geral": 2054
+  "total_geral": 2056
 }
