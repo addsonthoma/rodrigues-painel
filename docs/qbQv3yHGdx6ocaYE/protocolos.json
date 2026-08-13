@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-13T15:06:29-03:00",
+  "timestamp": "2026-08-13T15:16:51-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8072,
-      "ultima_verificacao": "2026-08-13T15:06:29-03:00"
+      "ultima_verificacao": "2026-08-13T15:16:51-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T15:06:29-03:00"
+      "ultima_verificacao": "2026-08-13T15:16:51-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1510,
-      "ultima_verificacao": "2026-08-13T15:06:29-03:00"
+      "ultima_verificacao": "2026-08-13T15:16:51-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3861,
-      "ultima_verificacao": "2026-08-13T15:06:29-03:00"
+      "ultima_verificacao": "2026-08-13T15:16:51-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3371,
-      "ultima_verificacao": "2026-08-13T15:06:29-03:00"
+      "ultima_verificacao": "2026-08-13T15:16:51-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T15:06:29-03:00"
+      "ultima_verificacao": "2026-08-13T15:16:51-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7170,
-      "ultima_verificacao": "2026-08-13T15:06:29-03:00"
+      "ultima_verificacao": "2026-08-13T15:16:51-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12928,
-      "ultima_verificacao": "2026-08-13T15:06:29-03:00"
+      "ultima_verificacao": "2026-08-13T15:16:51-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4994,
-      "ultima_verificacao": "2026-08-13T15:06:29-03:00"
+      "ultima_verificacao": "2026-08-13T15:16:51-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14226,
-      "ultima_verificacao": "2026-08-13T15:06:29-03:00"
+      "ultimo_numero": 14227,
+      "ultima_verificacao": "2026-08-13T15:16:51-03:00"
     }
   },
   "protocolos": {
@@ -9060,6 +9060,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014227A",
+        "RE": "RE8161013814A",
+        "numgEdificacao": 367733,
+        "Nome_Edificacao": "MIMIM COMÉRCIO DE COMBUSTÍVEIS LTDA",
+        "Logradouro": "AV DEMOSTENES FEMINELLA FILHO",
+        "Numero": "400",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-13T15:16:51-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014226A",
         "RE": "RE8161013783A",
         "numgEdificacao": 366510,
@@ -11821,7 +11832,7 @@
     "Itapema": 123,
     "Blumenau": 186,
     "Navegantes": 97,
-    "Itajai": 250
+    "Itajai": 251
   },
-  "total_geral": 1067
+  "total_geral": 1068
 }
