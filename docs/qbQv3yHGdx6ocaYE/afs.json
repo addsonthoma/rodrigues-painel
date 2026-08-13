@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-13T14:40:20-03:00",
+  "timestamp": "2026-08-13T14:50:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 896,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T14:40:20-03:00"
+      "ultima_verificacao": "2026-08-13T14:50:26-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T14:40:20-03:00"
+      "ultima_verificacao": "2026-08-13T14:50:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T14:40:20-03:00"
+      "ultima_verificacao": "2026-08-13T14:50:26-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 580,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T14:40:20-03:00"
+      "ultima_verificacao": "2026-08-13T14:50:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 484,
+      "ultimo_numero": 485,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T14:40:20-03:00"
+      "ultima_verificacao": "2026-08-13T14:50:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 473,
+      "ultimo_numero": 474,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T14:40:20-03:00"
+      "ultima_verificacao": "2026-08-13T14:50:26-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1109,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T14:40:20-03:00"
+      "ultima_verificacao": "2026-08-13T14:50:26-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1067,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T14:40:20-03:00"
+      "ultima_verificacao": "2026-08-13T14:50:26-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 299,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T14:40:20-03:00"
+      "ultima_verificacao": "2026-08-13T14:50:26-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1111,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T14:40:20-03:00"
+      "ultima_verificacao": "2026-08-13T14:50:26-03:00"
     }
   },
   "afs": {
@@ -5848,6 +5848,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "AF8265000485A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002668A",
+        "Nome_Edificacao": "NELSON BASILIO PEREZ TEJERA",
+        "Logradouro": "Servidão Renor Gonçalves",
+        "Numero": "100",
+        "Bairro": "PORTO BELO - Vila Nova",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-13T14:50:26-03:00"
+      },
+      {
         "CodigoAuto": "AF8265000484A/26",
         "Tipo": "AF",
         "RE": "RE8265000042A",
@@ -7972,6 +7983,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000474A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000788A",
+        "Nome_Edificacao": "SALÃO ORATÓRIO CRISTO REI",
+        "Logradouro": "RUA GERAL",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - RIBEIRAO DA VELHA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-13T14:50:26-03:00"
+      },
       {
         "CodigoAuto": "AF8225000473A/26",
         "Tipo": "AF",
@@ -22782,12 +22804,12 @@
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 166,
-    "Porto Belo": 193,
-    "Nova Trento": 163,
+    "Porto Belo": 194,
+    "Nova Trento": 164,
     "Itapema": 375,
     "Blumenau": 354,
     "Navegantes": 95,
     "Itajai": 358
   },
-  "total_geral": 2063
+  "total_geral": 2065
 }
