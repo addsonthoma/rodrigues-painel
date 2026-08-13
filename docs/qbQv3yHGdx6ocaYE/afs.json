@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-08-13T07:20:11-03:00",
+  "timestamp": "2026-08-13T08:14:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 890,
+      "ultimo_numero": 891,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T07:20:11-03:00"
+      "ultima_verificacao": "2026-08-13T08:14:57-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T07:20:11-03:00"
+      "ultima_verificacao": "2026-08-13T08:14:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T07:20:11-03:00"
+      "ultima_verificacao": "2026-08-13T08:14:57-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 573,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T07:20:11-03:00"
+      "ultima_verificacao": "2026-08-13T08:14:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 483,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T07:20:11-03:00"
+      "ultima_verificacao": "2026-08-13T08:14:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 473,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T07:20:11-03:00"
+      "ultima_verificacao": "2026-08-13T08:14:57-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1106,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T07:20:11-03:00"
+      "ultima_verificacao": "2026-08-13T08:14:57-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1063,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T07:20:11-03:00"
+      "ultima_verificacao": "2026-08-13T08:14:57-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 298,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T07:20:11-03:00"
+      "ultima_verificacao": "2026-08-13T08:14:57-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1111,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-13T07:20:11-03:00"
+      "ultima_verificacao": "2026-08-13T08:14:57-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000891A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001307A",
+        "Nome_Edificacao": "PADRON INDUSTRIA TEXTIL LTDA",
+        "Logradouro": "Rua General Osório",
+        "Numero": "793",
+        "Bairro": "BRUSQUE - GUARANI",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-13T08:14:57-03:00"
+      },
       {
         "CodigoAuto": "AF8055000890A/26",
         "Tipo": "AF",
@@ -22536,7 +22547,7 @@
     ]
   },
   "totais": {
-    "Brusque": 280,
+    "Brusque": 281,
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 159,
@@ -22547,5 +22558,5 @@
     "Navegantes": 94,
     "Itajai": 358
   },
-  "total_geral": 2041
+  "total_geral": 2042
 }
