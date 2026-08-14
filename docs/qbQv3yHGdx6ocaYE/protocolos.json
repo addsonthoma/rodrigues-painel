@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-14T14:07:24-03:00",
+  "timestamp": "2026-08-14T14:16:28-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8074,
-      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
+      "ultima_verificacao": "2026-08-14T14:16:28-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
+      "ultima_verificacao": "2026-08-14T14:16:28-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1512,
-      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
+      "ultima_verificacao": "2026-08-14T14:16:28-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3862,
-      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
+      "ultima_verificacao": "2026-08-14T14:16:28-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3373,
-      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
+      "ultima_verificacao": "2026-08-14T14:16:28-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
+      "ultimo_numero": 966,
+      "ultima_verificacao": "2026-08-14T14:16:28-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7173,
-      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
+      "ultima_verificacao": "2026-08-14T14:16:28-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12930,
-      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
+      "ultima_verificacao": "2026-08-14T14:16:28-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
+      "ultima_verificacao": "2026-08-14T14:16:28-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14234,
-      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
+      "ultima_verificacao": "2026-08-14T14:16:28-03:00"
     }
   },
   "protocolos": {
@@ -4123,6 +4123,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000966A",
+        "RE": "RE8225000775A",
+        "numgEdificacao": 352783,
+        "Nome_Edificacao": "ARLINDO BOTTAMEDI",
+        "Logradouro": "RUA JOSÉ BATISTI ARCHER",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - SÃO ROQUE",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-14T14:16:28-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000965A",
         "RE": "RE8225000827A",
@@ -12048,11 +12059,11 @@
     "Guabiruba": 37,
     "Gaspar": 96,
     "Porto Belo": 92,
-    "Nova Trento": 49,
+    "Nova Trento": 50,
     "Itapema": 126,
     "Blumenau": 188,
     "Navegantes": 98,
     "Itajai": 258
   },
-  "total_geral": 1088
+  "total_geral": 1089
 }
