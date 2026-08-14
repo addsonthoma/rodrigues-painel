@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-14T14:10:28-03:00",
+  "timestamp": "2026-08-14T14:20:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 903,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-14T14:20:23-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-14T14:20:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-14T14:20:23-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 582,
+      "ultimo_numero": 583,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-14T14:20:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 486,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-14T14:20:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 474,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-14T14:20:23-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1109,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-14T14:20:23-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1069,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-14T14:20:23-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 300,
+      "ultimo_numero": 301,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-14T14:20:23-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1111,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-14T14:20:23-03:00"
     }
   },
   "afs": {
@@ -4096,6 +4096,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000583A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001909A",
+        "Nome_Edificacao": "FLORATA HOME CLUB",
+        "Logradouro": "Rua Prefeito Leopoldo Schramm",
+        "Numero": "744",
+        "Bairro": "GASPAR - COLONINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-14T14:20:23-03:00"
+      },
       {
         "CodigoAuto": "AF8117000582A/26",
         "Tipo": "AF",
@@ -17945,6 +17956,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000301A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000147A",
+        "Nome_Edificacao": "Gonow do Brasil Participações LTDA",
+        "Logradouro": "BR-470",
+        "Numero": "7693",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-14T14:20:23-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000300A/26",
         "Tipo": "AF",
         "RE": "RE8221000765A",
@@ -22946,13 +22968,13 @@
     "Brusque": 293,
     "Botuvera": 32,
     "Guabiruba": 41,
-    "Gaspar": 168,
+    "Gaspar": 169,
     "Porto Belo": 195,
     "Nova Trento": 164,
     "Itapema": 375,
     "Blumenau": 356,
-    "Navegantes": 96,
+    "Navegantes": 97,
     "Itajai": 358
   },
-  "total_geral": 2078
+  "total_geral": 2080
 }
