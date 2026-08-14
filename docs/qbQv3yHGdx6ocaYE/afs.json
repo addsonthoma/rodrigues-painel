@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-08-14T12:00:26-03:00",
+  "timestamp": "2026-08-14T12:10:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 898,
+      "ultimo_numero": 899,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T12:00:26-03:00"
+      "ultima_verificacao": "2026-08-14T12:10:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T12:00:26-03:00"
+      "ultima_verificacao": "2026-08-14T12:10:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T12:00:26-03:00"
+      "ultima_verificacao": "2026-08-14T12:10:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 582,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T12:00:26-03:00"
+      "ultima_verificacao": "2026-08-14T12:10:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 486,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T12:00:26-03:00"
+      "ultima_verificacao": "2026-08-14T12:10:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 474,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T12:00:26-03:00"
+      "ultima_verificacao": "2026-08-14T12:10:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1109,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T12:00:26-03:00"
+      "ultima_verificacao": "2026-08-14T12:10:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1069,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T12:00:26-03:00"
+      "ultima_verificacao": "2026-08-14T12:10:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 299,
+      "ultimo_numero": 300,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T12:00:26-03:00"
+      "ultima_verificacao": "2026-08-14T12:10:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1111,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-14T12:00:26-03:00"
+      "ultima_verificacao": "2026-08-14T12:10:19-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000899A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002859A",
+        "Nome_Edificacao": "ROGÉRIO BATISTI",
+        "Logradouro": "RUA AUGUSTO KLAPOTH",
+        "Numero": "29",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-14T12:10:19-03:00"
+      },
       {
         "CodigoAuto": "AF8055000898A/26",
         "Tipo": "AF",
@@ -17890,6 +17901,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000300A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000765A",
+        "Nome_Edificacao": "KONSTRUA MATERIAIS PARA  CONSTRUÇÃO LTDA EPP",
+        "Logradouro": "RUA MANOEL LEOPOLDO ROCHA",
+        "Numero": "674",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-14T12:10:19-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000299A/26",
         "Tipo": "AF",
         "RE": "RE8221002278A",
@@ -22877,7 +22899,7 @@
     ]
   },
   "totais": {
-    "Brusque": 288,
+    "Brusque": 289,
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 168,
@@ -22885,8 +22907,8 @@
     "Nova Trento": 164,
     "Itapema": 375,
     "Blumenau": 356,
-    "Navegantes": 95,
+    "Navegantes": 96,
     "Itajai": 358
   },
-  "total_geral": 2072
+  "total_geral": 2074
 }
