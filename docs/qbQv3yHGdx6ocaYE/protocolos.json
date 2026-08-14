@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-14T13:56:59-03:00",
+  "timestamp": "2026-08-14T14:07:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8074,
-      "ultima_verificacao": "2026-08-14T13:56:59-03:00"
+      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-14T13:56:59-03:00"
+      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1512,
-      "ultima_verificacao": "2026-08-14T13:56:59-03:00"
+      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3862,
-      "ultima_verificacao": "2026-08-14T13:56:59-03:00"
+      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3373,
-      "ultima_verificacao": "2026-08-14T13:56:59-03:00"
+      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-14T13:56:59-03:00"
+      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7173,
-      "ultima_verificacao": "2026-08-14T13:56:59-03:00"
+      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12930,
-      "ultima_verificacao": "2026-08-14T13:56:59-03:00"
+      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-14T13:56:59-03:00"
+      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14233,
-      "ultima_verificacao": "2026-08-14T13:56:59-03:00"
+      "ultimo_numero": 14234,
+      "ultima_verificacao": "2026-08-14T14:07:24-03:00"
     }
   },
   "protocolos": {
@@ -9203,6 +9203,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014234A",
+        "RE": "RE8161000623A",
+        "numgEdificacao": 17103,
+        "Nome_Edificacao": "TANIA MARA PASSOS",
+        "Logradouro": "Rua Alfredo Trompowski",
+        "Numero": "405",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-14T14:07:24-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014233A",
         "RE": "RE8161000407A",
         "numgEdificacao": 11791,
@@ -12041,7 +12052,7 @@
     "Itapema": 126,
     "Blumenau": 188,
     "Navegantes": 98,
-    "Itajai": 257
+    "Itajai": 258
   },
-  "total_geral": 1087
+  "total_geral": 1088
 }
