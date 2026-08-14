@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-13T22:46:21-03:00",
+  "timestamp": "2026-08-13T22:56:22-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8073,
-      "ultima_verificacao": "2026-08-13T22:46:21-03:00"
+      "ultimo_numero": 8074,
+      "ultima_verificacao": "2026-08-13T22:56:22-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-13T22:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T22:56:22-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1512,
-      "ultima_verificacao": "2026-08-13T22:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T22:56:22-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3861,
-      "ultima_verificacao": "2026-08-13T22:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T22:56:22-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3373,
-      "ultima_verificacao": "2026-08-13T22:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T22:56:22-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-13T22:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T22:56:22-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7170,
-      "ultima_verificacao": "2026-08-13T22:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T22:56:22-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12929,
-      "ultima_verificacao": "2026-08-13T22:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T22:56:22-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-13T22:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T22:56:22-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14231,
-      "ultima_verificacao": "2026-08-13T22:46:21-03:00"
+      "ultima_verificacao": "2026-08-13T22:56:22-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008074A",
+        "RE": "RE8055006760A",
+        "numgEdificacao": 364617,
+        "Nome_Edificacao": "LUNA ADMINISTRADORA DE IMÓVEIS S.A.",
+        "Logradouro": "R SANTOS DUMONT",
+        "Numero": "1448",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-13T22:56:22-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008073A",
         "RE": "RE8055001441A",
@@ -11944,7 +11955,7 @@
     ]
   },
   "totais": {
-    "Brusque": 109,
+    "Brusque": 110,
     "Botuvera": 34,
     "Guabiruba": 37,
     "Gaspar": 95,
@@ -11955,5 +11966,5 @@
     "Navegantes": 98,
     "Itajai": 255
   },
-  "total_geral": 1079
+  "total_geral": 1080
 }
