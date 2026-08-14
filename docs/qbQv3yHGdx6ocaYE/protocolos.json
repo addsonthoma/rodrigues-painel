@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-14T14:41:28-03:00",
+  "timestamp": "2026-08-14T15:38:07-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8074,
-      "ultima_verificacao": "2026-08-14T14:41:28-03:00"
+      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-14T14:41:28-03:00"
+      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1512,
-      "ultima_verificacao": "2026-08-14T14:41:28-03:00"
+      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3862,
-      "ultima_verificacao": "2026-08-14T14:41:28-03:00"
+      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3374,
-      "ultima_verificacao": "2026-08-14T14:41:28-03:00"
+      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-14T14:41:28-03:00"
+      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7173,
-      "ultima_verificacao": "2026-08-14T14:41:28-03:00"
+      "ultimo_numero": 7174,
+      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12930,
-      "ultima_verificacao": "2026-08-14T14:41:28-03:00"
+      "ultimo_numero": 12932,
+      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-14T14:41:28-03:00"
+      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14234,
-      "ultima_verificacao": "2026-08-14T14:41:28-03:00"
+      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
     }
   },
   "protocolos": {
@@ -4687,6 +4687,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007174A",
+        "RE": "RE8163005267A",
+        "numgEdificacao": 265387,
+        "Nome_Edificacao": "Le Jardin",
+        "Logradouro": "Rua 131, Esq. Rua 131 A",
+        "Numero": "",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-14T15:38:07-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007173A",
         "RE": "RE8163006794A",
         "numgEdificacao": 365001,
@@ -6074,6 +6085,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012932A",
+        "RE": "RE8047012097A",
+        "numgEdificacao": 367843,
+        "Nome_Edificacao": "RESIDENCIAL MULTIFAMILIAR",
+        "Logradouro": "Rua Edith Vanzuita",
+        "Numero": "37",
+        "Bairro": "BLUMENAU - Itoupavazinha",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-14T15:38:07-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012931A",
+        "RE": "RE8047011852A",
+        "numgEdificacao": 357590,
+        "Nome_Edificacao": "STUDIO MOVE KORPUS (JOHANN SACHSE)",
+        "Logradouro": "R JOHANN SACHSE",
+        "Numero": "1932",
+        "Bairro": "BLUMENAU - BADENFURT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-14T15:38:07-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012930A",
         "RE": "RE8047011947A",
@@ -12071,10 +12104,10 @@
     "Gaspar": 96,
     "Porto Belo": 93,
     "Nova Trento": 50,
-    "Itapema": 126,
-    "Blumenau": 188,
+    "Itapema": 127,
+    "Blumenau": 190,
     "Navegantes": 98,
     "Itajai": 258
   },
-  "total_geral": 1090
+  "total_geral": 1093
 }
