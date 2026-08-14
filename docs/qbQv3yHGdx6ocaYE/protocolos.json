@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-14T15:38:07-03:00",
+  "timestamp": "2026-08-14T16:40:46-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8074,
-      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
+      "ultima_verificacao": "2026-08-14T16:40:46-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
+      "ultima_verificacao": "2026-08-14T16:40:46-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1512,
-      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
+      "ultima_verificacao": "2026-08-14T16:40:46-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3862,
-      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
+      "ultima_verificacao": "2026-08-14T16:40:46-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3374,
-      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
+      "ultima_verificacao": "2026-08-14T16:40:46-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
+      "ultima_verificacao": "2026-08-14T16:40:46-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7174,
-      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
+      "ultimo_numero": 7175,
+      "ultima_verificacao": "2026-08-14T16:40:46-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12932,
-      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
+      "ultima_verificacao": "2026-08-14T16:40:46-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
+      "ultima_verificacao": "2026-08-14T16:40:46-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14234,
-      "ultima_verificacao": "2026-08-14T15:38:07-03:00"
+      "ultima_verificacao": "2026-08-14T16:40:46-03:00"
     }
   },
   "protocolos": {
@@ -4686,6 +4686,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007175A",
+        "RE": "RE8163005267A",
+        "numgEdificacao": 265387,
+        "Nome_Edificacao": "Le Jardin",
+        "Logradouro": "Rua 131, Esq. Rua 131 A",
+        "Numero": "",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-14T16:40:46-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007174A",
         "RE": "RE8163005267A",
@@ -12104,10 +12115,10 @@
     "Gaspar": 96,
     "Porto Belo": 93,
     "Nova Trento": 50,
-    "Itapema": 127,
+    "Itapema": 128,
     "Blumenau": 190,
     "Navegantes": 98,
     "Itajai": 258
   },
-  "total_geral": 1093
+  "total_geral": 1094
 }
