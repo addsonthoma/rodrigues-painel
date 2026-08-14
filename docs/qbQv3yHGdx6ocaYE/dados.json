@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-14T08:50:03-03:00",
+  "timestamp": "2026-08-14T09:10:06-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-14T08:50:03-03:00"
+      "ultima_verificacao": "2026-08-14T09:10:06-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-14T08:50:03-03:00"
+      "ultima_verificacao": "2026-08-14T09:10:06-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-14T08:50:03-03:00"
+      "ultima_verificacao": "2026-08-14T09:10:06-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
-      "ultimo_numero": 43,
+      "ultimo_numero": 45,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-14T08:50:03-03:00"
+      "ultima_verificacao": "2026-08-14T09:10:06-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 106,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-14T08:50:03-03:00"
+      "ultima_verificacao": "2026-08-14T09:10:06-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-14T08:50:03-03:00"
+      "ultima_verificacao": "2026-08-14T09:10:06-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 178,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-14T08:50:03-03:00"
+      "ultima_verificacao": "2026-08-14T09:10:06-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 220,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-14T08:50:03-03:00"
+      "ultima_verificacao": "2026-08-14T09:10:06-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 87,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-14T08:50:03-03:00"
+      "ultima_verificacao": "2026-08-14T09:10:06-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 410,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-14T08:50:03-03:00"
+      "ultima_verificacao": "2026-08-14T09:10:06-03:00"
     }
   },
   "multas": {
@@ -1557,6 +1557,26 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "MUL8117000045A/26",
+        "RE": "RE8117001733A",
+        "Nome_Edificacao": "MARCELO SCHMITT",
+        "Logradouro": "Rua Frei Solano",
+        "Numero": "5815",
+        "Bairro": "GASPAR - GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-14T09:10:06-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8117000044A/26",
+        "RE": "RE8117003032A",
+        "Nome_Edificacao": "MONIZZA FOODS LTDA",
+        "Logradouro": "RUA ANTONIO PEDRO SCHMITT",
+        "Numero": "63",
+        "Bairro": "GASPAR - CENTRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-14T09:00:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8117000043A/26",
         "RE": "RE8117002937A",
@@ -5025,7 +5045,7 @@
     "Blumenau": 85,
     "Botuvera": 3,
     "Brusque": 63,
-    "Gaspar": 19,
+    "Gaspar": 21,
     "Guabiruba": 3,
     "Itajai": 128,
     "Itapema": 61,
@@ -5033,8 +5053,22 @@
     "Nova Trento": 46,
     "Porto Belo": 49
   },
-  "total_geral": 506,
+  "total_geral": 508,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-14T09:10:06-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000045A/26",
+      "nome": "MARCELO SCHMITT",
+      "re": "RE8117001733A"
+    },
+    {
+      "ts": "2026-08-14T09:00:03-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000044A/26",
+      "nome": "MONIZZA FOODS LTDA",
+      "re": "RE8117003032A"
+    },
     {
       "ts": "2026-08-13T14:30:04-03:00",
       "cidade": "Itajai",
