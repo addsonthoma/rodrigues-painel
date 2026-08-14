@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-14T13:26:22-03:00",
+  "timestamp": "2026-08-14T13:36:45-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8074,
-      "ultima_verificacao": "2026-08-14T13:26:22-03:00"
+      "ultima_verificacao": "2026-08-14T13:36:45-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-14T13:26:22-03:00"
+      "ultima_verificacao": "2026-08-14T13:36:45-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1512,
-      "ultima_verificacao": "2026-08-14T13:26:22-03:00"
+      "ultima_verificacao": "2026-08-14T13:36:45-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3862,
-      "ultima_verificacao": "2026-08-14T13:26:22-03:00"
+      "ultima_verificacao": "2026-08-14T13:36:45-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3373,
-      "ultima_verificacao": "2026-08-14T13:26:22-03:00"
+      "ultima_verificacao": "2026-08-14T13:36:45-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-14T13:26:22-03:00"
+      "ultima_verificacao": "2026-08-14T13:36:45-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7172,
-      "ultima_verificacao": "2026-08-14T13:26:22-03:00"
+      "ultimo_numero": 7173,
+      "ultima_verificacao": "2026-08-14T13:36:45-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12930,
-      "ultima_verificacao": "2026-08-14T13:26:22-03:00"
+      "ultima_verificacao": "2026-08-14T13:36:45-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-14T13:26:22-03:00"
+      "ultima_verificacao": "2026-08-14T13:36:45-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14233,
-      "ultima_verificacao": "2026-08-14T13:26:22-03:00"
+      "ultima_verificacao": "2026-08-14T13:36:45-03:00"
     }
   },
   "protocolos": {
@@ -4664,6 +4664,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007173A",
+        "RE": "RE8163006794A",
+        "numgEdificacao": 365001,
+        "Nome_Edificacao": "GALPÃO COMERCIAL 01",
+        "Logradouro": "RUA 906",
+        "Numero": "399",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-14T13:36:45-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007172A",
         "RE": "RE8163006794A",
@@ -12027,10 +12038,10 @@
     "Gaspar": 96,
     "Porto Belo": 92,
     "Nova Trento": 49,
-    "Itapema": 125,
+    "Itapema": 126,
     "Blumenau": 188,
     "Navegantes": 98,
     "Itajai": 257
   },
-  "total_geral": 1086
+  "total_geral": 1087
 }
