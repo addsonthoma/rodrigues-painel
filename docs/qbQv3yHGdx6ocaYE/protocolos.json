@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-14T10:37:18-03:00",
+  "timestamp": "2026-08-14T10:42:28-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8074,
-      "ultima_verificacao": "2026-08-14T10:37:18-03:00"
+      "ultima_verificacao": "2026-08-14T10:42:28-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-14T10:37:18-03:00"
+      "ultima_verificacao": "2026-08-14T10:42:28-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1512,
-      "ultima_verificacao": "2026-08-14T10:37:18-03:00"
+      "ultima_verificacao": "2026-08-14T10:42:28-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3861,
-      "ultima_verificacao": "2026-08-14T10:37:18-03:00"
+      "ultima_verificacao": "2026-08-14T10:42:28-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3373,
-      "ultima_verificacao": "2026-08-14T10:37:18-03:00"
+      "ultima_verificacao": "2026-08-14T10:42:28-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 965,
-      "ultima_verificacao": "2026-08-14T10:37:18-03:00"
+      "ultima_verificacao": "2026-08-14T10:42:28-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7171,
-      "ultima_verificacao": "2026-08-14T10:37:18-03:00"
+      "ultima_verificacao": "2026-08-14T10:42:28-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12929,
-      "ultima_verificacao": "2026-08-14T10:37:18-03:00"
+      "ultima_verificacao": "2026-08-14T10:42:28-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-14T10:37:18-03:00"
+      "ultima_verificacao": "2026-08-14T10:42:28-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14232,
-      "ultima_verificacao": "2026-08-14T10:37:18-03:00"
+      "ultimo_numero": 14233,
+      "ultima_verificacao": "2026-08-14T10:42:28-03:00"
     }
   },
   "protocolos": {
@@ -9159,6 +9159,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014233A",
+        "RE": "RE8161000407A",
+        "numgEdificacao": 11791,
+        "Nome_Edificacao": "EDIFICIO MISTO EM ALVENARIA",
+        "Logradouro": "Rua XV de Novembro",
+        "Numero": "400",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-14T10:42:28-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014232A",
         "RE": "RE8161000407A",
         "numgEdificacao": 11791,
@@ -9167,7 +9178,7 @@
         "Numero": "400",
         "Bairro": "ITAJAÍ - CENTRO",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-08-14T10:37:18-03:00"
+        "Detectado_em": "2026-08-14T10:42:28-03:00"
       },
       {
         "CodigoProtocolo": "A8161014231A",
@@ -11986,7 +11997,7 @@
     "Itapema": 124,
     "Blumenau": 187,
     "Navegantes": 98,
-    "Itajai": 256
+    "Itajai": 257
   },
-  "total_geral": 1082
+  "total_geral": 1083
 }
