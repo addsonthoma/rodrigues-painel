@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-15T16:52:23-03:00",
+  "timestamp": "2026-08-15T18:40:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8074,
-      "ultima_verificacao": "2026-08-15T16:52:23-03:00"
+      "ultima_verificacao": "2026-08-15T18:40:56-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
-      "ultimo_numero": 400,
-      "ultima_verificacao": "2026-08-15T16:52:23-03:00"
+      "ultimo_numero": 401,
+      "ultima_verificacao": "2026-08-15T18:40:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1512,
-      "ultima_verificacao": "2026-08-15T16:52:23-03:00"
+      "ultima_verificacao": "2026-08-15T18:40:56-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3863,
-      "ultima_verificacao": "2026-08-15T16:52:23-03:00"
+      "ultima_verificacao": "2026-08-15T18:40:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3374,
-      "ultima_verificacao": "2026-08-15T16:52:23-03:00"
+      "ultima_verificacao": "2026-08-15T18:40:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-15T16:52:23-03:00"
+      "ultima_verificacao": "2026-08-15T18:40:56-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7175,
-      "ultima_verificacao": "2026-08-15T16:52:23-03:00"
+      "ultima_verificacao": "2026-08-15T18:40:56-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12932,
-      "ultima_verificacao": "2026-08-15T16:52:23-03:00"
+      "ultima_verificacao": "2026-08-15T18:40:56-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4995,
-      "ultima_verificacao": "2026-08-15T16:52:23-03:00"
+      "ultima_verificacao": "2026-08-15T18:40:56-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14235,
-      "ultima_verificacao": "2026-08-15T16:52:23-03:00"
+      "ultima_verificacao": "2026-08-15T18:40:56-03:00"
     }
   },
   "protocolos": {
@@ -1266,6 +1266,17 @@
       }
     ],
     "Botuvera": [
+      {
+        "CodigoProtocolo": "A8051000401A",
+        "RE": "RE8051000126A",
+        "numgEdificacao": 120506,
+        "Nome_Edificacao": "TALHAÇÃO BOTUVERÁ",
+        "Logradouro": "RODOVIA PEDRO MERíZIO (SC-486)",
+        "Numero": "",
+        "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-08-15T18:40:56-03:00"
+      },
       {
         "CodigoProtocolo": "A8051000400A",
         "RE": "RE8051000297A",
@@ -12132,7 +12143,7 @@
   },
   "totais": {
     "Brusque": 110,
-    "Botuvera": 34,
+    "Botuvera": 35,
     "Guabiruba": 37,
     "Gaspar": 97,
     "Porto Belo": 93,
@@ -12142,5 +12153,5 @@
     "Navegantes": 98,
     "Itajai": 259
   },
-  "total_geral": 1096
+  "total_geral": 1097
 }
