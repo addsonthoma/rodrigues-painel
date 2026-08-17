@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-17T11:46:40-03:00",
+  "timestamp": "2026-08-17T11:56:15-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8075,
-      "ultima_verificacao": "2026-08-17T11:46:40-03:00"
+      "ultima_verificacao": "2026-08-17T11:56:15-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-17T11:46:40-03:00"
+      "ultima_verificacao": "2026-08-17T11:56:15-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1514,
-      "ultima_verificacao": "2026-08-17T11:46:40-03:00"
+      "ultima_verificacao": "2026-08-17T11:56:15-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3863,
-      "ultima_verificacao": "2026-08-17T11:46:40-03:00"
+      "ultima_verificacao": "2026-08-17T11:56:15-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3374,
-      "ultima_verificacao": "2026-08-17T11:46:40-03:00"
+      "ultima_verificacao": "2026-08-17T11:56:15-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-17T11:46:40-03:00"
+      "ultima_verificacao": "2026-08-17T11:56:15-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7175,
-      "ultima_verificacao": "2026-08-17T11:46:40-03:00"
+      "ultima_verificacao": "2026-08-17T11:56:15-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12932,
-      "ultima_verificacao": "2026-08-17T11:46:40-03:00"
+      "ultimo_numero": 12933,
+      "ultima_verificacao": "2026-08-17T11:56:15-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4996,
-      "ultima_verificacao": "2026-08-17T11:46:40-03:00"
+      "ultima_verificacao": "2026-08-17T11:56:15-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14235,
-      "ultima_verificacao": "2026-08-17T11:46:40-03:00"
+      "ultima_verificacao": "2026-08-17T11:56:15-03:00"
     }
   },
   "protocolos": {
@@ -6152,6 +6152,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012933A",
+        "RE": "RE8047010088A",
+        "numgEdificacao": 285556,
+        "Nome_Edificacao": "DORACI REICHERT",
+        "Logradouro": "RUA ERICH MEYER",
+        "Numero": "1676",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-17T11:56:15-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012932A",
         "RE": "RE8047012097A",
         "numgEdificacao": 367843,
@@ -12193,9 +12204,9 @@
     "Porto Belo": 93,
     "Nova Trento": 50,
     "Itapema": 128,
-    "Blumenau": 190,
+    "Blumenau": 191,
     "Navegantes": 99,
     "Itajai": 259
   },
-  "total_geral": 1101
+  "total_geral": 1102
 }
