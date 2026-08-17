@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-17T17:58:16-03:00",
+  "timestamp": "2026-08-17T18:35:14-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 910,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T17:58:16-03:00"
+      "ultima_verificacao": "2026-08-17T18:35:14-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T17:58:16-03:00"
+      "ultima_verificacao": "2026-08-17T18:35:14-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T17:58:16-03:00"
+      "ultima_verificacao": "2026-08-17T18:35:14-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 587,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T17:58:16-03:00"
+      "ultima_verificacao": "2026-08-17T18:35:14-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 491,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T17:58:16-03:00"
+      "ultima_verificacao": "2026-08-17T18:35:14-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 480,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T17:58:16-03:00"
+      "ultima_verificacao": "2026-08-17T18:35:14-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1119,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T17:58:16-03:00"
+      "ultima_verificacao": "2026-08-17T18:35:14-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1084,
+      "ultimo_numero": 1085,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T17:58:16-03:00"
+      "ultima_verificacao": "2026-08-17T18:35:14-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 302,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T17:58:16-03:00"
+      "ultima_verificacao": "2026-08-17T18:35:14-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1114,
+      "ultimo_numero": 1115,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T17:58:16-03:00"
+      "ultima_verificacao": "2026-08-17T18:35:14-03:00"
     }
   },
   "afs": {
@@ -14390,6 +14390,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001085A/26",
+        "Tipo": "AF",
+        "RE": "RE8047002312A",
+        "Nome_Edificacao": "POSTO Z12 LTDA",
+        "Logradouro": "Rua Doutor Pedro Zimmermann",
+        "Numero": "2600",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-17T18:35:14-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001084A/26",
         "Tipo": "AF",
         "RE": "RE8047000887A",
@@ -19553,6 +19564,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001115A/26",
+        "Tipo": "AF",
+        "RE": "RE8161007780A",
+        "Nome_Edificacao": "NEIVO JOSÉ MARCHEZIN",
+        "Logradouro": "Rua Arquiteto Nilson Edson dos Santos",
+        "Numero": "455",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-17T18:35:14-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001114A/26",
         "Tipo": "AF",
         "RE": "RE8161002259A",
@@ -23533,9 +23555,9 @@
     "Porto Belo": 200,
     "Nova Trento": 170,
     "Itapema": 385,
-    "Blumenau": 371,
+    "Blumenau": 372,
     "Navegantes": 98,
-    "Itajai": 361
+    "Itajai": 362
   },
-  "total_geral": 2131
+  "total_geral": 2133
 }
