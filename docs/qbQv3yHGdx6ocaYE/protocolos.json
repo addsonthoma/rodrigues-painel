@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-17T15:36:25-03:00",
+  "timestamp": "2026-08-17T15:46:15-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8076,
-      "ultima_verificacao": "2026-08-17T15:36:25-03:00"
+      "ultima_verificacao": "2026-08-17T15:46:15-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-17T15:36:25-03:00"
+      "ultima_verificacao": "2026-08-17T15:46:15-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1514,
-      "ultima_verificacao": "2026-08-17T15:36:25-03:00"
+      "ultima_verificacao": "2026-08-17T15:46:15-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3865,
-      "ultima_verificacao": "2026-08-17T15:36:25-03:00"
+      "ultima_verificacao": "2026-08-17T15:46:15-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3375,
-      "ultima_verificacao": "2026-08-17T15:36:25-03:00"
+      "ultima_verificacao": "2026-08-17T15:46:15-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-17T15:36:25-03:00"
+      "ultima_verificacao": "2026-08-17T15:46:15-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7175,
-      "ultima_verificacao": "2026-08-17T15:36:25-03:00"
+      "ultima_verificacao": "2026-08-17T15:46:15-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12933,
-      "ultima_verificacao": "2026-08-17T15:36:25-03:00"
+      "ultimo_numero": 12934,
+      "ultima_verificacao": "2026-08-17T15:46:15-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4996,
-      "ultima_verificacao": "2026-08-17T15:36:25-03:00"
+      "ultima_verificacao": "2026-08-17T15:46:15-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14238,
-      "ultima_verificacao": "2026-08-17T15:36:25-03:00"
+      "ultima_verificacao": "2026-08-17T15:46:15-03:00"
     }
   },
   "protocolos": {
@@ -6196,6 +6196,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012934A",
+        "RE": "RE8047008382A",
+        "numgEdificacao": 241572,
+        "Nome_Edificacao": "SCHWARTZ, RUDIBERT",
+        "Logradouro": "Rua Gustavo Zimmermann",
+        "Numero": "4764",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-17T15:46:15-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012933A",
         "RE": "RE8047010088A",
         "numgEdificacao": 285556,
@@ -12281,9 +12292,9 @@
     "Porto Belo": 94,
     "Nova Trento": 50,
     "Itapema": 128,
-    "Blumenau": 191,
+    "Blumenau": 192,
     "Navegantes": 99,
     "Itajai": 262
   },
-  "total_geral": 1109
+  "total_geral": 1110
 }
