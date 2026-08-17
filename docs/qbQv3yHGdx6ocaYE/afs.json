@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-17T19:35:41-03:00",
+  "timestamp": "2026-08-17T20:01:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 910,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T19:35:41-03:00"
+      "ultima_verificacao": "2026-08-17T20:01:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T19:35:41-03:00"
+      "ultima_verificacao": "2026-08-17T20:01:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T19:35:41-03:00"
+      "ultima_verificacao": "2026-08-17T20:01:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 587,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T19:35:41-03:00"
+      "ultima_verificacao": "2026-08-17T20:01:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 491,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T19:35:41-03:00"
+      "ultima_verificacao": "2026-08-17T20:01:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 480,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T19:35:41-03:00"
+      "ultima_verificacao": "2026-08-17T20:01:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1119,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T19:35:41-03:00"
+      "ultima_verificacao": "2026-08-17T20:01:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1085,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T19:35:41-03:00"
+      "ultima_verificacao": "2026-08-17T20:01:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 302,
+      "ultimo_numero": 303,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T19:35:41-03:00"
+      "ultima_verificacao": "2026-08-17T20:01:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1116,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T19:35:41-03:00"
+      "ultima_verificacao": "2026-08-17T20:01:19-03:00"
     }
   },
   "afs": {
@@ -18484,6 +18484,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000303A/26",
+        "Tipo": "AF",
+        "RE": "RE8221004126A",
+        "Nome_Edificacao": "MONTTREAL SC - SERVICOS DE APOIO ADMINISTRATIVOS LTDA",
+        "Logradouro": "AVENIDA PREFEITO JOSE JUVENAL MAFRA",
+        "Numero": "7498",
+        "Bairro": "NAVEGANTES - Gravatá",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-17T20:01:19-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000302A/26",
         "Tipo": "AF",
         "RE": "RE8221004127A",
@@ -23567,8 +23578,8 @@
     "Nova Trento": 170,
     "Itapema": 385,
     "Blumenau": 372,
-    "Navegantes": 98,
+    "Navegantes": 99,
     "Itajai": 363
   },
-  "total_geral": 2134
+  "total_geral": 2135
 }
