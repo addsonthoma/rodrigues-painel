@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-08-17T15:50:03-03:00",
+  "timestamp": "2026-08-17T17:42:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T15:50:03-03:00"
+      "ultima_verificacao": "2026-08-17T17:42:24-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T15:50:03-03:00"
+      "ultima_verificacao": "2026-08-17T17:42:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T15:50:03-03:00"
+      "ultima_verificacao": "2026-08-17T17:42:24-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 45,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T15:50:03-03:00"
+      "ultima_verificacao": "2026-08-17T17:42:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 107,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T15:50:03-03:00"
+      "ultima_verificacao": "2026-08-17T17:42:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 130,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T15:50:03-03:00"
+      "ultima_verificacao": "2026-08-17T17:42:24-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 180,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T15:50:03-03:00"
+      "ultima_verificacao": "2026-08-17T17:42:24-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 222,
+      "ultimo_numero": 223,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T15:50:03-03:00"
+      "ultima_verificacao": "2026-08-17T17:42:24-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 87,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T15:50:03-03:00"
+      "ultima_verificacao": "2026-08-17T17:42:24-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 414,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T15:50:03-03:00"
+      "ultima_verificacao": "2026-08-17T17:42:24-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000223A/26",
+        "RE": "RE8047008345A",
+        "Nome_Edificacao": "EEB CARLOS TECHENTIN",
+        "Logradouro": "Rua Bahia",
+        "Numero": "8222",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-17T17:42:24-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000222A/26",
         "RE": "RE8047000286A",
@@ -5142,7 +5152,7 @@
     ]
   },
   "totais": {
-    "Blumenau": 87,
+    "Blumenau": 88,
     "Botuvera": 3,
     "Brusque": 63,
     "Gaspar": 21,
@@ -5153,8 +5163,15 @@
     "Nova Trento": 47,
     "Porto Belo": 50
   },
-  "total_geral": 518,
+  "total_geral": 519,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-17T17:42:24-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000223A/26",
+      "nome": "EEB CARLOS TECHENTIN",
+      "re": "RE8047008345A"
+    },
     {
       "ts": "2026-08-17T15:40:03-03:00",
       "cidade": "Blumenau",

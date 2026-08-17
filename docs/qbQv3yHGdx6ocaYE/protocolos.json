@@ -1,59 +1,81 @@
 {
-  "timestamp": "2026-08-17T15:57:24-03:00",
+  "timestamp": "2026-08-17T17:48:54-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8076,
-      "ultima_verificacao": "2026-08-17T15:57:24-03:00"
+      "ultimo_numero": 8078,
+      "ultima_verificacao": "2026-08-17T17:48:54-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-17T15:57:24-03:00"
+      "ultima_verificacao": "2026-08-17T17:48:54-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1514,
-      "ultima_verificacao": "2026-08-17T15:57:24-03:00"
+      "ultimo_numero": 1515,
+      "ultima_verificacao": "2026-08-17T17:48:54-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3865,
-      "ultima_verificacao": "2026-08-17T15:57:24-03:00"
+      "ultima_verificacao": "2026-08-17T17:48:54-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3375,
-      "ultima_verificacao": "2026-08-17T15:57:24-03:00"
+      "ultimo_numero": 3376,
+      "ultima_verificacao": "2026-08-17T17:48:54-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-17T15:57:24-03:00"
+      "ultima_verificacao": "2026-08-17T17:48:54-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7175,
-      "ultima_verificacao": "2026-08-17T15:57:24-03:00"
+      "ultimo_numero": 7176,
+      "ultima_verificacao": "2026-08-17T17:48:54-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12934,
-      "ultima_verificacao": "2026-08-17T15:57:24-03:00"
+      "ultima_verificacao": "2026-08-17T17:48:54-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4996,
-      "ultima_verificacao": "2026-08-17T15:57:24-03:00"
+      "ultima_verificacao": "2026-08-17T17:48:54-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14238,
-      "ultima_verificacao": "2026-08-17T15:57:24-03:00"
+      "ultima_verificacao": "2026-08-17T17:48:54-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008078A",
+        "RE": "RE8055001206A",
+        "numgEdificacao": 115554,
+        "Nome_Edificacao": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA CATARINENSE - CÂMPUS BRUSQUE",
+        "Logradouro": "Avenida Hugo Schlosser",
+        "Numero": "605",
+        "Bairro": "BRUSQUE - MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-17T17:48:54-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008077A",
+        "RE": "RE8055006796A",
+        "numgEdificacao": 368003,
+        "Nome_Edificacao": "PEROBA PNEUS E ACESSORIOS AUTOMOTIVOS LTDA",
+        "Logradouro": "Travessa Lagoa Dourada",
+        "Numero": "294",
+        "Bairro": "BRUSQUE - SOUZA CRUZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-17T17:48:54-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008076A",
         "RE": "RE8055001634A",
@@ -1676,6 +1698,17 @@
     ],
     "Guabiruba": [
       {
+        "CodigoProtocolo": "A8123001515A",
+        "RE": "RE8123001203A",
+        "numgEdificacao": 368000,
+        "Nome_Edificacao": "CARINA SCHROEDER",
+        "Logradouro": "Guabiruba Sul",
+        "Numero": "1983",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-08-17T17:48:54-03:00"
+      },
+      {
         "CodigoProtocolo": "A8123001514A",
         "RE": "RE8123000094A",
         "numgEdificacao": 38230,
@@ -3197,6 +3230,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003376A",
+        "RE": "RE8265001987A",
+        "numgEdificacao": 262788,
+        "Nome_Edificacao": "HUB 240",
+        "Logradouro": "R.. LEONOR BARON",
+        "Numero": "240",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-17T17:48:54-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003375A",
         "RE": "RE8265000506A",
@@ -4785,6 +4829,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007176A",
+        "RE": "RE8163006779A",
+        "numgEdificacao": 364066,
+        "Nome_Edificacao": "PESQUE E PAGUE SCHMITZ",
+        "Logradouro": "R 902 G",
+        "Numero": "70",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-17T17:48:54-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007175A",
         "RE": "RE8163005267A",
@@ -12285,16 +12340,16 @@
     ]
   },
   "totais": {
-    "Brusque": 112,
+    "Brusque": 114,
     "Botuvera": 35,
-    "Guabiruba": 39,
+    "Guabiruba": 40,
     "Gaspar": 99,
-    "Porto Belo": 94,
+    "Porto Belo": 95,
     "Nova Trento": 50,
-    "Itapema": 128,
+    "Itapema": 129,
     "Blumenau": 192,
     "Navegantes": 99,
     "Itajai": 262
   },
-  "total_geral": 1110
+  "total_geral": 1115
 }
