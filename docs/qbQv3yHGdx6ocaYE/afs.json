@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-17T15:20:27-03:00",
+  "timestamp": "2026-08-17T15:30:18-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 910,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T15:20:27-03:00"
+      "ultima_verificacao": "2026-08-17T15:30:18-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T15:20:27-03:00"
+      "ultima_verificacao": "2026-08-17T15:30:18-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T15:20:27-03:00"
+      "ultima_verificacao": "2026-08-17T15:30:18-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 586,
+      "ultimo_numero": 587,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T15:20:27-03:00"
+      "ultima_verificacao": "2026-08-17T15:30:18-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 491,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T15:20:27-03:00"
+      "ultima_verificacao": "2026-08-17T15:30:18-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 476,
+      "ultimo_numero": 477,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T15:20:27-03:00"
+      "ultima_verificacao": "2026-08-17T15:30:18-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1117,
+      "ultimo_numero": 1119,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T15:20:27-03:00"
+      "ultima_verificacao": "2026-08-17T15:30:18-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1081,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T15:20:27-03:00"
+      "ultima_verificacao": "2026-08-17T15:30:18-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 302,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T15:20:27-03:00"
+      "ultima_verificacao": "2026-08-17T15:30:18-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1113,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T15:20:27-03:00"
+      "ultima_verificacao": "2026-08-17T15:30:18-03:00"
     }
   },
   "afs": {
@@ -4174,6 +4174,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000587A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001488A",
+        "Nome_Edificacao": "ALDIR WEHMUTH",
+        "Logradouro": "RUA BARÃO DO RIO BRANCO",
+        "Numero": "700",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-17T15:30:18-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000586A/26",
         "Tipo": "AF",
         "RE": "RE8117001628A",
@@ -8270,6 +8281,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000477A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000590A",
+        "Nome_Edificacao": "ROSILENE DALRI",
+        "Logradouro": "rua marechal deodoro",
+        "Numero": "29",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-17T15:30:18-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000476A/26",
         "Tipo": "AF",
         "RE": "RE8225000090A",
@@ -10097,6 +10119,28 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001119A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001750A",
+        "Nome_Edificacao": "GALATAS RESIDENCE",
+        "Logradouro": "Rua 414",
+        "Numero": "188",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-17T15:30:18-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001118A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003478A",
+        "Nome_Edificacao": "RESIDENCIAL  EDELGARD  WALTER  RAVACHE",
+        "Logradouro": "Rua 147",
+        "Numero": "60",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-17T15:30:18-03:00"
+      },
       {
         "CodigoAuto": "AF8163001117A/26",
         "Tipo": "AF",
@@ -23408,13 +23452,13 @@
     "Brusque": 300,
     "Botuvera": 32,
     "Guabiruba": 41,
-    "Gaspar": 172,
+    "Gaspar": 173,
     "Porto Belo": 200,
-    "Nova Trento": 166,
-    "Itapema": 383,
+    "Nova Trento": 167,
+    "Itapema": 385,
     "Blumenau": 368,
     "Navegantes": 98,
     "Itajai": 360
   },
-  "total_geral": 2120
+  "total_geral": 2124
 }
