@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-17T10:50:25-03:00",
+  "timestamp": "2026-08-17T11:00:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 904,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T10:50:25-03:00"
+      "ultima_verificacao": "2026-08-17T11:00:27-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T10:50:25-03:00"
+      "ultima_verificacao": "2026-08-17T11:00:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T10:50:25-03:00"
+      "ultima_verificacao": "2026-08-17T11:00:27-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 586,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T10:50:25-03:00"
+      "ultima_verificacao": "2026-08-17T11:00:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 487,
+      "ultimo_numero": 488,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T10:50:25-03:00"
+      "ultima_verificacao": "2026-08-17T11:00:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 474,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T10:50:25-03:00"
+      "ultima_verificacao": "2026-08-17T11:00:27-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1116,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T10:50:25-03:00"
+      "ultima_verificacao": "2026-08-17T11:00:27-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1077,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T10:50:25-03:00"
+      "ultima_verificacao": "2026-08-17T11:00:27-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 302,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T10:50:25-03:00"
+      "ultima_verificacao": "2026-08-17T11:00:27-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1112,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-17T10:50:25-03:00"
+      "ultima_verificacao": "2026-08-17T11:00:27-03:00"
     }
   },
   "afs": {
@@ -6001,6 +6001,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000488A/26",
+        "Tipo": "AF",
+        "RE": "RE8265002474A",
+        "Nome_Edificacao": "Cruzada Nacional de Evangelização",
+        "Logradouro": "RUA LUIZ ESCABURI",
+        "Numero": "89",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-17T11:00:27-03:00"
+      },
       {
         "CodigoAuto": "AF8265000487A/26",
         "Tipo": "AF",
@@ -23211,12 +23222,12 @@
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 172,
-    "Porto Belo": 196,
+    "Porto Belo": 197,
     "Nova Trento": 164,
     "Itapema": 382,
     "Blumenau": 364,
     "Navegantes": 98,
     "Itajai": 359
   },
-  "total_geral": 2102
+  "total_geral": 2103
 }
