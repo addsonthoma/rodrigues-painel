@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-18T16:15:17-03:00",
+  "timestamp": "2026-08-18T16:49:33-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8079,
-      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
+      "ultima_verificacao": "2026-08-18T16:49:33-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
+      "ultima_verificacao": "2026-08-18T16:49:33-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
+      "ultima_verificacao": "2026-08-18T16:49:33-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3867,
-      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
+      "ultima_verificacao": "2026-08-18T16:49:33-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3376,
-      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
+      "ultima_verificacao": "2026-08-18T16:49:33-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
+      "ultima_verificacao": "2026-08-18T16:49:33-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7177,
-      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
+      "ultima_verificacao": "2026-08-18T16:49:33-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12937,
-      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
+      "ultima_verificacao": "2026-08-18T16:49:33-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4997,
-      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
+      "ultima_verificacao": "2026-08-18T16:49:33-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14241,
-      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
+      "ultimo_numero": 14242,
+      "ultima_verificacao": "2026-08-18T16:49:33-03:00"
     }
   },
   "protocolos": {
@@ -9555,6 +9555,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014242A",
+        "RE": "RE8161013813A",
+        "numgEdificacao": 367661,
+        "Nome_Edificacao": "ITAVECO LTDA",
+        "Logradouro": "Rua Edgard Neuwirth",
+        "Numero": "105",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-18T16:49:33-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014241A",
         "RE": "RE8161003776A",
         "numgEdificacao": 114807,
@@ -12481,7 +12492,7 @@
     "Itapema": 130,
     "Blumenau": 195,
     "Navegantes": 100,
-    "Itajai": 265
+    "Itajai": 266
   },
-  "total_geral": 1127
+  "total_geral": 1128
 }
