@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-08-18T11:09:31-03:00",
+  "timestamp": "2026-08-18T11:53:48-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 910,
+      "ultimo_numero": 911,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-18T11:09:31-03:00"
+      "ultima_verificacao": "2026-08-18T11:53:48-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-18T11:09:31-03:00"
+      "ultima_verificacao": "2026-08-18T11:53:48-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-18T11:09:31-03:00"
+      "ultima_verificacao": "2026-08-18T11:53:48-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 587,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-18T11:09:31-03:00"
+      "ultima_verificacao": "2026-08-18T11:53:48-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 491,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-18T11:09:31-03:00"
+      "ultima_verificacao": "2026-08-18T11:53:48-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 480,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-18T11:09:31-03:00"
+      "ultima_verificacao": "2026-08-18T11:53:48-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1119,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-18T11:09:31-03:00"
+      "ultima_verificacao": "2026-08-18T11:53:48-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1085,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-18T11:09:31-03:00"
+      "ultima_verificacao": "2026-08-18T11:53:48-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 305,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-18T11:09:31-03:00"
+      "ultima_verificacao": "2026-08-18T11:53:48-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1118,
+      "ultimo_numero": 1119,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-18T11:09:31-03:00"
+      "ultima_verificacao": "2026-08-18T11:53:48-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000911A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000732A",
+        "Nome_Edificacao": "CONDOMÍNIO CENTRO COMERCIAL E INDUSTRIAL AZAMBUJA",
+        "Logradouro": "Rua Azambuja",
+        "Numero": "461",
+        "Bairro": "BRUSQUE - CENTRO II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-18T11:53:48-03:00"
+      },
       {
         "CodigoAuto": "AF8055000910A/26",
         "Tipo": "AF",
@@ -19597,6 +19608,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001119A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002615A",
+        "Nome_Edificacao": "COMERCIO E TRANSPORTES SALVELINO LTDA",
+        "Logradouro": "Rua Francisco Reis",
+        "Numero": "427",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-18T11:53:48-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001118A/26",
         "Tipo": "AF",
         "RE": "RE8161007827A",
@@ -23614,7 +23636,7 @@
     ]
   },
   "totais": {
-    "Brusque": 300,
+    "Brusque": 301,
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 173,
@@ -23623,7 +23645,7 @@
     "Itapema": 385,
     "Blumenau": 372,
     "Navegantes": 101,
-    "Itajai": 365
+    "Itajai": 366
   },
-  "total_geral": 2139
+  "total_geral": 2141
 }
