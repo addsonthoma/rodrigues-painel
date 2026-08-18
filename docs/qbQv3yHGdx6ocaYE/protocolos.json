@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-18T15:32:04-03:00",
+  "timestamp": "2026-08-18T16:15:17-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8078,
-      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
+      "ultimo_numero": 8079,
+      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
+      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
+      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3867,
-      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
+      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3376,
-      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
+      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
+      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7177,
-      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
+      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12937,
-      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
+      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4996,
-      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
+      "ultimo_numero": 4997,
+      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14241,
-      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
+      "ultima_verificacao": "2026-08-18T16:15:17-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008079A",
+        "RE": "RE8055006797A",
+        "numgEdificacao": 368008,
+        "Nome_Edificacao": "Alicia Luçolli",
+        "Logradouro": "R AUGUSTO KLAPOTH",
+        "Numero": "40",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-18T16:15:17-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008078A",
         "RE": "RE8055001206A",
@@ -8442,6 +8453,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004997A",
+        "RE": "RE8221001743A",
+        "numgEdificacao": 198581,
+        "Nome_Edificacao": "FATIMA CANZIANI KRISTENSEN",
+        "Logradouro": "Rua Nicolau Kleis",
+        "Numero": "300",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-18T16:15:17-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004996A",
         "RE": "RE8221002044A",
         "numgEdificacao": 219578,
@@ -12450,7 +12472,7 @@
     ]
   },
   "totais": {
-    "Brusque": 114,
+    "Brusque": 115,
     "Botuvera": 35,
     "Guabiruba": 41,
     "Gaspar": 101,
@@ -12458,8 +12480,8 @@
     "Nova Trento": 50,
     "Itapema": 130,
     "Blumenau": 195,
-    "Navegantes": 99,
+    "Navegantes": 100,
     "Itajai": 265
   },
-  "total_geral": 1125
+  "total_geral": 1127
 }
