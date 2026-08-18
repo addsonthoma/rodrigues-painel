@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-18T14:54:49-03:00",
+  "timestamp": "2026-08-18T15:32:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8078,
-      "ultima_verificacao": "2026-08-18T14:54:49-03:00"
+      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-18T14:54:49-03:00"
+      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1515,
-      "ultima_verificacao": "2026-08-18T14:54:49-03:00"
+      "ultimo_numero": 1516,
+      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3866,
-      "ultima_verificacao": "2026-08-18T14:54:49-03:00"
+      "ultimo_numero": 3867,
+      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3376,
-      "ultima_verificacao": "2026-08-18T14:54:49-03:00"
+      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-18T14:54:49-03:00"
+      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7177,
-      "ultima_verificacao": "2026-08-18T14:54:49-03:00"
+      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12936,
-      "ultima_verificacao": "2026-08-18T14:54:49-03:00"
+      "ultimo_numero": 12937,
+      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4996,
-      "ultima_verificacao": "2026-08-18T14:54:49-03:00"
+      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14241,
-      "ultima_verificacao": "2026-08-18T14:54:49-03:00"
+      "ultima_verificacao": "2026-08-18T15:32:04-03:00"
     }
   },
   "protocolos": {
@@ -1698,6 +1698,17 @@
     ],
     "Guabiruba": [
       {
+        "CodigoProtocolo": "A8123001516A",
+        "RE": "RE8123001204A",
+        "numgEdificacao": 368103,
+        "Nome_Edificacao": "JOSE FERNANDO KURTZ - GALPÃO COMERCIAL",
+        "Logradouro": "Lydia baron",
+        "Numero": "264",
+        "Bairro": "GUABIRUBA - LAJEADO BAIXO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-08-18T15:32:04-03:00"
+      },
+      {
         "CodigoProtocolo": "A8123001515A",
         "RE": "RE8123001203A",
         "numgEdificacao": 368000,
@@ -2139,6 +2150,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003867A",
+        "RE": "RE8117003282A",
+        "numgEdificacao": 367974,
+        "Nome_Edificacao": "Galpão Ricardo Baron",
+        "Logradouro": "Rua São Bento",
+        "Numero": "",
+        "Bairro": "GASPAR - GASPAR MIRIM",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-18T15:32:04-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003866A",
         "RE": "RE8117002624A",
@@ -6273,6 +6295,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012937A",
+        "RE": "RE8047004111A",
+        "numgEdificacao": 135013,
+        "Nome_Edificacao": "EDIFICAÇÃO COMERCIAL",
+        "Logradouro": "Rua Água Branca",
+        "Numero": "726",
+        "Bairro": "BLUMENAU - ÁGUA VERDE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-18T15:32:04-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012936A",
         "RE": "RE8047012101A",
         "numgEdificacao": 368063,
@@ -9558,10 +9591,10 @@
         "CodigoProtocolo": "A8161014236A",
         "RE": "RE8161010153A",
         "numgEdificacao": 270888,
-        "Nome_Edificacao": "RESIDENCIAL SONIA MARIA",
-        "Logradouro": "R JORGE MATTOS",
+        "Nome_Edificacao": "Sônia Maria Anversa",
+        "Logradouro": "Rua Jorge Mattos",
         "Numero": "15",
-        "Bairro": "ITAJAÍ - CENTRO",
+        "Bairro": "ITAJAÍ - Centro",
         "Cidade": "Itajai",
         "Detectado_em": "2026-08-17T14:29:55-03:00"
       },
@@ -12419,14 +12452,14 @@
   "totais": {
     "Brusque": 114,
     "Botuvera": 35,
-    "Guabiruba": 40,
-    "Gaspar": 100,
+    "Guabiruba": 41,
+    "Gaspar": 101,
     "Porto Belo": 95,
     "Nova Trento": 50,
     "Itapema": 130,
-    "Blumenau": 194,
+    "Blumenau": 195,
     "Navegantes": 99,
     "Itajai": 265
   },
-  "total_geral": 1122
+  "total_geral": 1125
 }

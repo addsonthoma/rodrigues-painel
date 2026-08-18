@@ -1,79 +1,99 @@
 {
-  "timestamp": "2026-08-18T14:46:11-03:00",
+  "timestamp": "2026-08-18T15:23:40-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-18T14:46:11-03:00"
+      "ultima_verificacao": "2026-08-18T15:23:40-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-18T14:46:11-03:00"
+      "ultima_verificacao": "2026-08-18T15:23:40-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-18T14:46:11-03:00"
+      "ultima_verificacao": "2026-08-18T15:23:40-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 45,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-18T14:46:11-03:00"
+      "ultima_verificacao": "2026-08-18T15:23:40-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 107,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-18T14:46:11-03:00"
+      "ultima_verificacao": "2026-08-18T15:23:40-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 132,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-18T14:46:11-03:00"
+      "ultima_verificacao": "2026-08-18T15:23:40-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 181,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-18T14:46:11-03:00"
+      "ultima_verificacao": "2026-08-18T15:23:40-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 223,
+      "ultimo_numero": 225,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-18T14:46:11-03:00"
+      "ultima_verificacao": "2026-08-18T15:23:40-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 87,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-18T14:46:11-03:00"
+      "ultima_verificacao": "2026-08-18T15:23:40-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 414,
+      "ultimo_numero": 415,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-18T14:46:11-03:00"
+      "ultima_verificacao": "2026-08-18T15:23:40-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000224A/26",
+        "RE": "RE8047007079A",
+        "Nome_Edificacao": "CONSTRUTORA HAHNE LTDA",
+        "Logradouro": "Rua Governador Jorge Lacerda",
+        "Numero": "2365",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-18T15:23:40-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000225A/26",
+        "RE": "RE8047011370A",
+        "Nome_Edificacao": "ALEXANDRE DOS SANTOS",
+        "Logradouro": "Rua Professor Jacob Ineichen",
+        "Numero": "1400",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-18T15:23:40-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000223A/26",
         "RE": "RE8047008345A",
@@ -1813,6 +1833,16 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000415A/26",
+        "RE": "RE8161003506A",
+        "Nome_Edificacao": "TOIGO",
+        "Logradouro": "Rua Lico Amaral",
+        "Numero": "200",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-18T15:23:40-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000411A/26",
         "RE": "RE8161011756A",
@@ -5182,19 +5212,40 @@
     ]
   },
   "totais": {
-    "Blumenau": 88,
+    "Blumenau": 90,
     "Botuvera": 3,
     "Brusque": 63,
     "Gaspar": 21,
     "Guabiruba": 3,
-    "Itajai": 132,
+    "Itajai": 133,
     "Itapema": 64,
     "Navegantes": 49,
     "Nova Trento": 49,
     "Porto Belo": 50
   },
-  "total_geral": 522,
+  "total_geral": 525,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-18T15:23:40-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000415A/26",
+      "nome": "TOIGO",
+      "re": "RE8161003506A"
+    },
+    {
+      "ts": "2026-08-18T15:23:40-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000225A/26",
+      "nome": "ALEXANDRE DOS SANTOS",
+      "re": "RE8047011370A"
+    },
+    {
+      "ts": "2026-08-18T15:23:40-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000224A/26",
+      "nome": "CONSTRUTORA HAHNE LTDA",
+      "re": "RE8047007079A"
+    },
     {
       "ts": "2026-08-18T13:42:50-03:00",
       "cidade": "Itapema",
@@ -5236,20 +5287,6 @@
       "codigo": "MUL8265000106A/26",
       "nome": "NOACIR AIRTON RODRIGES",
       "re": "RE8265002225A"
-    },
-    {
-      "ts": "2026-08-11T15:13:20-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000409A/26",
-      "nome": "SUN PARK",
-      "re": "RE8161008935A"
-    },
-    {
-      "ts": "2026-08-11T15:13:20-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000408A/26",
-      "nome": "ALFONSO DEBATIM",
-      "re": "RE8161004572A"
     }
   ]
 }
