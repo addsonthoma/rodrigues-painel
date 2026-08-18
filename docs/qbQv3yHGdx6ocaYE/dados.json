@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-17T20:32:05-03:00",
+  "timestamp": "2026-08-17T21:00:41-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T20:32:05-03:00"
+      "ultima_verificacao": "2026-08-17T21:00:41-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T20:32:05-03:00"
+      "ultima_verificacao": "2026-08-17T21:00:41-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T20:32:05-03:00"
+      "ultima_verificacao": "2026-08-17T21:00:41-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 45,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T20:32:05-03:00"
+      "ultima_verificacao": "2026-08-17T21:00:41-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 107,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T20:32:05-03:00"
+      "ultima_verificacao": "2026-08-17T21:00:41-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 130,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T20:32:05-03:00"
+      "ultima_verificacao": "2026-08-17T21:00:41-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 180,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T20:32:05-03:00"
+      "ultima_verificacao": "2026-08-17T21:00:41-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 223,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T20:32:05-03:00"
+      "ultima_verificacao": "2026-08-17T21:00:41-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 87,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T20:32:05-03:00"
+      "ultima_verificacao": "2026-08-17T21:00:41-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 414,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-17T20:32:05-03:00"
+      "ultima_verificacao": "2026-08-17T21:00:41-03:00"
     }
   },
   "multas": {
@@ -5166,6 +5166,125 @@
   "total_geral": 519,
   "eventos_recentes": [
     {
+      "ts": "2026-08-17T17:42:24-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000223A/26",
+      "nome": "EEB CARLOS TECHENTIN",
+      "re": "RE8047008345A"
+    },
+    {
+      "ts": "2026-08-17T15:40:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000222A/26",
+      "nome": "Stephanie de Brito Augusto",
+      "re": "RE8047000286A"
+    },
+    {
+      "ts": "2026-08-17T15:20:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000221A/26",
+      "nome": "RESIDENCIA TERAPEUTICA MEMORIAS DOURADAS",
+      "re": "RE8047011373A"
+    },
+    {
+      "ts": "2026-08-17T14:40:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000414A/26",
+      "nome": "MINIATURAS E TALENTOS LTDA",
+      "re": "RE8161013251A"
+    },
+    {
+      "ts": "2026-08-17T14:40:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000413A/26",
+      "nome": "ANA MARIA DOS SANTOS",
+      "re": "RE8161005358A"
+    },
+    {
+      "ts": "2026-08-17T14:40:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000412A/26",
+      "nome": "Galpão para locação sem uso definido",
+      "re": "RE8161013032A"
+    },
+    {
+      "ts": "2026-08-17T14:40:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000411A/26",
+      "nome": "Kelly",
+      "re": "RE8161011756A"
+    },
+    {
+      "ts": "2026-08-17T14:40:03-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000180A/26",
+      "nome": "Giovanni Demonti Passos Cathcart",
+      "re": "RE8163006740A"
+    },
+    {
+      "ts": "2026-08-14T14:00:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000179A/26",
+      "nome": "COND. RES. ARLINDO GUILHERME CORREA",
+      "re": "RE8163001763A"
+    },
+    {
+      "ts": "2026-08-14T10:10:03-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000130A/26",
+      "nome": "MADEREIRA NOVA TRENTO LTDA",
+      "re": "RE8225000691A"
+    },
+    {
+      "ts": "2026-08-14T10:00:04-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000107A/26",
+      "nome": "Porto Belo Hostel & Pousada",
+      "re": "RE8265002420A"
+    },
+    {
+      "ts": "2026-08-14T09:10:06-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000045A/26",
+      "nome": "MARCELO SCHMITT",
+      "re": "RE8117001733A"
+    },
+    {
+      "ts": "2026-08-14T09:00:03-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000044A/26",
+      "nome": "MONIZZA FOODS LTDA",
+      "re": "RE8117003032A"
+    },
+    {
+      "ts": "2026-08-13T14:30:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000410A/26",
+      "nome": "SHEILA IRANI DE OLIVEIRA MAFRA",
+      "re": "RE8161004691A"
+    },
+    {
+      "ts": "2026-08-13T14:30:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000220A/26",
+      "nome": "Sali Petzold",
+      "re": "RE8047004458A"
+    },
+    {
+      "ts": "2026-08-13T14:00:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000219A/26",
+      "nome": "EEB JULIA LOPES DE ALMEIDA",
+      "re": "RE8047008344A"
+    },
+    {
+      "ts": "2026-08-13T12:00:05-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000178A/26",
+      "nome": "FABIANO JOÃO DA SILVA",
+      "re": "RE8163006350A"
+    },
+    {
       "ts": "2026-08-12T15:39:47-03:00",
       "cidade": "Blumenau",
       "codigo": "MUL8047000218A/26",
@@ -5255,13 +5374,6 @@
       "codigo": "MUL8225000129A/26",
       "nome": "MARIA CARMELINA VOLTOLINI",
       "re": "RE8225000486A"
-    },
-    {
-      "ts": "2026-08-10T20:34:15-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000212A/26",
-      "nome": "PEQUENOS VENCEDORES",
-      "re": "RE8047011429A"
     }
   ]
 }
