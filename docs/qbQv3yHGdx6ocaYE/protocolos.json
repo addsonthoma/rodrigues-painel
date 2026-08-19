@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-19T15:56:48-03:00",
+  "timestamp": "2026-08-19T16:06:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8080,
-      "ultima_verificacao": "2026-08-19T15:56:48-03:00"
+      "ultima_verificacao": "2026-08-19T16:06:30-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-19T15:56:48-03:00"
+      "ultima_verificacao": "2026-08-19T16:06:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-19T15:56:48-03:00"
+      "ultima_verificacao": "2026-08-19T16:06:30-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3868,
-      "ultima_verificacao": "2026-08-19T15:56:48-03:00"
+      "ultimo_numero": 3869,
+      "ultima_verificacao": "2026-08-19T16:06:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3376,
-      "ultima_verificacao": "2026-08-19T15:56:48-03:00"
+      "ultima_verificacao": "2026-08-19T16:06:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-19T15:56:48-03:00"
+      "ultima_verificacao": "2026-08-19T16:06:30-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7180,
-      "ultima_verificacao": "2026-08-19T15:56:48-03:00"
+      "ultima_verificacao": "2026-08-19T16:06:30-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12940,
-      "ultima_verificacao": "2026-08-19T15:56:48-03:00"
+      "ultimo_numero": 12941,
+      "ultima_verificacao": "2026-08-19T16:06:30-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4998,
-      "ultima_verificacao": "2026-08-19T15:56:48-03:00"
+      "ultima_verificacao": "2026-08-19T16:06:30-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14242,
-      "ultima_verificacao": "2026-08-19T15:56:48-03:00"
+      "ultima_verificacao": "2026-08-19T16:06:30-03:00"
     }
   },
   "protocolos": {
@@ -2172,6 +2172,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003869A",
+        "RE": "RE8117002799A",
+        "numgEdificacao": 308818,
+        "Nome_Edificacao": "ELISABETHA ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rodovia Ingo Hering",
+        "Numero": "14499",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-19T16:06:30-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003868A",
         "RE": "RE8117002013A",
@@ -6360,6 +6371,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012941A",
+        "RE": "RE8047000782A",
+        "numgEdificacao": 28113,
+        "Nome_Edificacao": "CRISTINA, MALHARIA LTDA",
+        "Logradouro": "Rua Doutor Pedro Zimmermann",
+        "Numero": "2833",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-19T16:06:30-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012940A",
         "RE": "RE8047012102A",
@@ -12585,13 +12607,13 @@
     "Brusque": 116,
     "Botuvera": 35,
     "Guabiruba": 41,
-    "Gaspar": 102,
+    "Gaspar": 103,
     "Porto Belo": 95,
     "Nova Trento": 50,
     "Itapema": 133,
-    "Blumenau": 198,
+    "Blumenau": 199,
     "Navegantes": 101,
     "Itajai": 266
   },
-  "total_geral": 1137
+  "total_geral": 1139
 }
