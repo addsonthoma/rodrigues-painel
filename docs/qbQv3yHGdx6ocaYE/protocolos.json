@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-19T11:26:29-03:00",
+  "timestamp": "2026-08-19T11:36:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8080,
-      "ultima_verificacao": "2026-08-19T11:26:29-03:00"
+      "ultima_verificacao": "2026-08-19T11:36:34-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-19T11:26:29-03:00"
+      "ultima_verificacao": "2026-08-19T11:36:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-19T11:26:29-03:00"
+      "ultima_verificacao": "2026-08-19T11:36:34-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3867,
-      "ultima_verificacao": "2026-08-19T11:26:29-03:00"
+      "ultima_verificacao": "2026-08-19T11:36:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3376,
-      "ultima_verificacao": "2026-08-19T11:26:29-03:00"
+      "ultima_verificacao": "2026-08-19T11:36:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-19T11:26:29-03:00"
+      "ultima_verificacao": "2026-08-19T11:36:34-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7178,
-      "ultima_verificacao": "2026-08-19T11:26:29-03:00"
+      "ultima_verificacao": "2026-08-19T11:36:34-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12940,
-      "ultima_verificacao": "2026-08-19T11:26:29-03:00"
+      "ultima_verificacao": "2026-08-19T11:36:34-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4997,
-      "ultima_verificacao": "2026-08-19T11:26:29-03:00"
+      "ultimo_numero": 4998,
+      "ultima_verificacao": "2026-08-19T11:36:34-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14242,
-      "ultima_verificacao": "2026-08-19T11:26:29-03:00"
+      "ultima_verificacao": "2026-08-19T11:36:34-03:00"
     }
   },
   "protocolos": {
@@ -8508,6 +8508,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004998A",
+        "RE": "RE8221004130A",
+        "numgEdificacao": 368184,
+        "Nome_Edificacao": "IDAIANA",
+        "Logradouro": "Avenida Adolpho Domingos Espindola",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-19T11:36:34-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004997A",
         "RE": "RE8221001743A",
         "numgEdificacao": 198581,
@@ -12546,8 +12557,8 @@
     "Nova Trento": 50,
     "Itapema": 131,
     "Blumenau": 198,
-    "Navegantes": 100,
+    "Navegantes": 101,
     "Itajai": 266
   },
-  "total_geral": 1133
+  "total_geral": 1134
 }
