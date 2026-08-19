@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-19T17:59:15-03:00",
+  "timestamp": "2026-08-19T18:27:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8081,
-      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
+      "ultima_verificacao": "2026-08-19T18:27:27-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
+      "ultima_verificacao": "2026-08-19T18:27:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
+      "ultima_verificacao": "2026-08-19T18:27:27-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3869,
-      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
+      "ultimo_numero": 3870,
+      "ultima_verificacao": "2026-08-19T18:27:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
+      "ultima_verificacao": "2026-08-19T18:27:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 967,
-      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
+      "ultimo_numero": 968,
+      "ultima_verificacao": "2026-08-19T18:27:27-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7180,
-      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
+      "ultima_verificacao": "2026-08-19T18:27:27-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12942,
-      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
+      "ultima_verificacao": "2026-08-19T18:27:27-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4999,
-      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
+      "ultima_verificacao": "2026-08-19T18:27:27-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14244,
-      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
+      "ultima_verificacao": "2026-08-19T18:27:27-03:00"
     }
   },
   "protocolos": {
@@ -2194,6 +2194,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003870A",
+        "RE": "RE8117003284A",
+        "numgEdificacao": 368134,
+        "Nome_Edificacao": "IPC Importadora Paulista de Correias Ltda",
+        "Logradouro": "Rua São Bento",
+        "Numero": "",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-19T18:27:27-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003869A",
         "RE": "RE8117002799A",
@@ -4387,6 +4398,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000968A",
+        "RE": "RE8225000828A",
+        "numgEdificacao": 368196,
+        "Nome_Edificacao": "DIONAT DELUCA",
+        "Logradouro": "Rua lombardia",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-19T18:27:27-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000967A",
         "RE": "RE8225000829A",
@@ -12695,13 +12717,13 @@
     "Brusque": 117,
     "Botuvera": 36,
     "Guabiruba": 41,
-    "Gaspar": 103,
+    "Gaspar": 104,
     "Porto Belo": 96,
-    "Nova Trento": 51,
+    "Nova Trento": 52,
     "Itapema": 133,
     "Blumenau": 200,
     "Navegantes": 102,
     "Itajai": 268
   },
-  "total_geral": 1147
+  "total_geral": 1149
 }
