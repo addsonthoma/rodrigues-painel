@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-19T16:16:32-03:00",
+  "timestamp": "2026-08-19T16:27:13-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8080,
-      "ultima_verificacao": "2026-08-19T16:16:32-03:00"
+      "ultima_verificacao": "2026-08-19T16:27:13-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-19T16:16:32-03:00"
+      "ultima_verificacao": "2026-08-19T16:27:13-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-19T16:16:32-03:00"
+      "ultima_verificacao": "2026-08-19T16:27:13-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3869,
-      "ultima_verificacao": "2026-08-19T16:16:32-03:00"
+      "ultima_verificacao": "2026-08-19T16:27:13-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3376,
-      "ultima_verificacao": "2026-08-19T16:16:32-03:00"
+      "ultima_verificacao": "2026-08-19T16:27:13-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-19T16:16:32-03:00"
+      "ultima_verificacao": "2026-08-19T16:27:13-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7180,
-      "ultima_verificacao": "2026-08-19T16:16:32-03:00"
+      "ultima_verificacao": "2026-08-19T16:27:13-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12941,
-      "ultima_verificacao": "2026-08-19T16:16:32-03:00"
+      "ultima_verificacao": "2026-08-19T16:27:13-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4998,
-      "ultima_verificacao": "2026-08-19T16:16:32-03:00"
+      "ultima_verificacao": "2026-08-19T16:27:13-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14242,
-      "ultima_verificacao": "2026-08-19T16:16:32-03:00"
+      "ultimo_numero": 14243,
+      "ultima_verificacao": "2026-08-19T16:27:13-03:00"
     }
   },
   "protocolos": {
@@ -9676,6 +9676,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014243A",
+        "RE": "RE8161013826A",
+        "numgEdificacao": 368234,
+        "Nome_Edificacao": "Kitnets",
+        "Logradouro": "Rua Viladino Liberato Nunes",
+        "Numero": "539",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-19T16:27:13-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014242A",
         "RE": "RE8161013813A",
         "numgEdificacao": 367661,
@@ -12613,7 +12624,7 @@
     "Itapema": 133,
     "Blumenau": 199,
     "Navegantes": 101,
-    "Itajai": 266
+    "Itajai": 267
   },
-  "total_geral": 1139
+  "total_geral": 1140
 }
