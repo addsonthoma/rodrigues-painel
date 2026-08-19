@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-19T13:57:04-03:00",
+  "timestamp": "2026-08-19T14:07:01-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8080,
-      "ultima_verificacao": "2026-08-19T13:57:04-03:00"
+      "ultima_verificacao": "2026-08-19T14:07:01-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-19T13:57:04-03:00"
+      "ultima_verificacao": "2026-08-19T14:07:01-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-19T13:57:04-03:00"
+      "ultima_verificacao": "2026-08-19T14:07:01-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3867,
-      "ultima_verificacao": "2026-08-19T13:57:04-03:00"
+      "ultimo_numero": 3868,
+      "ultima_verificacao": "2026-08-19T14:07:01-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3376,
-      "ultima_verificacao": "2026-08-19T13:57:04-03:00"
+      "ultima_verificacao": "2026-08-19T14:07:01-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-19T13:57:04-03:00"
+      "ultima_verificacao": "2026-08-19T14:07:01-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7180,
-      "ultima_verificacao": "2026-08-19T13:57:04-03:00"
+      "ultima_verificacao": "2026-08-19T14:07:01-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12940,
-      "ultima_verificacao": "2026-08-19T13:57:04-03:00"
+      "ultima_verificacao": "2026-08-19T14:07:01-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4998,
-      "ultima_verificacao": "2026-08-19T13:57:04-03:00"
+      "ultima_verificacao": "2026-08-19T14:07:01-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14242,
-      "ultima_verificacao": "2026-08-19T13:57:04-03:00"
+      "ultima_verificacao": "2026-08-19T14:07:01-03:00"
     }
   },
   "protocolos": {
@@ -2172,6 +2172,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003868A",
+        "RE": "RE8117002013A",
+        "numgEdificacao": 246236,
+        "Nome_Edificacao": "Fernando Mondini",
+        "Logradouro": "Rua Candido João dos Santos",
+        "Numero": "80",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-19T14:07:01-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003867A",
         "RE": "RE8117003282A",
@@ -12574,7 +12585,7 @@
     "Brusque": 116,
     "Botuvera": 35,
     "Guabiruba": 41,
-    "Gaspar": 101,
+    "Gaspar": 102,
     "Porto Belo": 95,
     "Nova Trento": 50,
     "Itapema": 133,
@@ -12582,5 +12593,5 @@
     "Navegantes": 101,
     "Itajai": 266
   },
-  "total_geral": 1136
+  "total_geral": 1137
 }
