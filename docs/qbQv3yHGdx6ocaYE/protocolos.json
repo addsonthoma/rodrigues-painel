@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-19T17:28:53-03:00",
+  "timestamp": "2026-08-19T17:59:15-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8081,
-      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
+      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
-      "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
+      "ultimo_numero": 402,
+      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
+      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3869,
-      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
+      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
+      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 967,
-      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
+      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7180,
-      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
+      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12942,
-      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
+      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 4998,
-      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
+      "ultimo_numero": 4999,
+      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14243,
-      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
+      "ultimo_numero": 14244,
+      "ultima_verificacao": "2026-08-19T17:59:15-03:00"
     }
   },
   "protocolos": {
@@ -1343,6 +1343,17 @@
       }
     ],
     "Botuvera": [
+      {
+        "CodigoProtocolo": "A8051000402A",
+        "RE": "RE8051000005A",
+        "numgEdificacao": 10419,
+        "Nome_Edificacao": "PEDRAS GRANDES SERVICOS TEXTEIS EIRELI",
+        "Logradouro": "rodovia pedro merisio",
+        "Numero": "",
+        "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-08-19T17:59:15-03:00"
+      },
       {
         "CodigoProtocolo": "A8051000401A",
         "RE": "RE8051000126A",
@@ -8607,6 +8618,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221004999A",
+        "RE": "RE8221004028A",
+        "numgEdificacao": 359915,
+        "Nome_Edificacao": "RC CELL LTDA – AV. PREFEITO JOSÉ JUVENAL MAFRA, 1063",
+        "Logradouro": "AVENIDA PREFEITO JOSÉ JUVENAL MAFRA",
+        "Numero": "1063",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-19T17:59:15-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221004998A",
         "RE": "RE8221004130A",
         "numgEdificacao": 368184,
@@ -9719,6 +9741,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014244A",
+        "RE": "RE8161013827A",
+        "numgEdificacao": 368258,
+        "Nome_Edificacao": "ASSOC. BENEFICENTE FRATER FRATERNIDADE HUMANA",
+        "Logradouro": "Rua Arnoldo Lopes Gonzaga",
+        "Numero": "250",
+        "Bairro": "ITAJAÍ - Barra do Rio",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-19T17:59:15-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014243A",
         "RE": "RE8161013826A",
@@ -12660,15 +12693,15 @@
   },
   "totais": {
     "Brusque": 117,
-    "Botuvera": 35,
+    "Botuvera": 36,
     "Guabiruba": 41,
     "Gaspar": 103,
     "Porto Belo": 96,
     "Nova Trento": 51,
     "Itapema": 133,
     "Blumenau": 200,
-    "Navegantes": 101,
-    "Itajai": 267
+    "Navegantes": 102,
+    "Itajai": 268
   },
-  "total_geral": 1144
+  "total_geral": 1147
 }
