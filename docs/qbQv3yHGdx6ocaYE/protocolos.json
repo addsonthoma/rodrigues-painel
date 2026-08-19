@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-19T16:57:20-03:00",
+  "timestamp": "2026-08-19T17:28:53-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8080,
-      "ultima_verificacao": "2026-08-19T16:57:20-03:00"
+      "ultimo_numero": 8081,
+      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 401,
-      "ultima_verificacao": "2026-08-19T16:57:20-03:00"
+      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-19T16:57:20-03:00"
+      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3869,
-      "ultima_verificacao": "2026-08-19T16:57:20-03:00"
+      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3376,
-      "ultima_verificacao": "2026-08-19T16:57:20-03:00"
+      "ultimo_numero": 3377,
+      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 966,
-      "ultima_verificacao": "2026-08-19T16:57:20-03:00"
+      "ultimo_numero": 967,
+      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7180,
-      "ultima_verificacao": "2026-08-19T16:57:20-03:00"
+      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12941,
-      "ultima_verificacao": "2026-08-19T16:57:20-03:00"
+      "ultimo_numero": 12942,
+      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4998,
-      "ultima_verificacao": "2026-08-19T16:57:20-03:00"
+      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14243,
-      "ultima_verificacao": "2026-08-19T16:57:20-03:00"
+      "ultima_verificacao": "2026-08-19T17:28:53-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008081A",
+        "RE": "RE8055001576A",
+        "numgEdificacao": 144708,
+        "Nome_Edificacao": "ZM SA",
+        "Logradouro": "RODOVIA IVO SILVEIRA",
+        "Numero": "3095",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-19T17:28:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008080A",
         "RE": "RE8055004442A",
@@ -3308,6 +3319,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003377A",
+        "RE": "RE8265002823A",
+        "numgEdificacao": 368246,
+        "Nome_Edificacao": "AUSTIN TOWER",
+        "Logradouro": "RUA MARIO PADILHA, ESQ. COM RUA RIO GRANDENSE",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-19T17:28:53-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003376A",
         "RE": "RE8265001987A",
         "numgEdificacao": 262788,
@@ -4354,6 +4376,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000967A",
+        "RE": "RE8225000829A",
+        "numgEdificacao": 368255,
+        "Nome_Edificacao": "Capela Coração de Maria",
+        "Logradouro": "Rua Geral Morro da Onça",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - MORRO DA ONCA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-19T17:28:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000966A",
         "RE": "RE8225000775A",
@@ -6371,6 +6404,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012942A",
+        "RE": "RE8047012096A",
+        "numgEdificacao": 367692,
+        "Nome_Edificacao": "MARIO BALLAND JUNIOR",
+        "Logradouro": "RUA BERNARDO SCHEIDEMANTEL",
+        "Numero": "1568",
+        "Bairro": "BLUMENAU - BADENFURT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-19T17:28:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012941A",
         "RE": "RE8047000782A",
@@ -12615,16 +12659,16 @@
     ]
   },
   "totais": {
-    "Brusque": 116,
+    "Brusque": 117,
     "Botuvera": 35,
     "Guabiruba": 41,
     "Gaspar": 103,
-    "Porto Belo": 95,
-    "Nova Trento": 50,
+    "Porto Belo": 96,
+    "Nova Trento": 51,
     "Itapema": 133,
-    "Blumenau": 199,
+    "Blumenau": 200,
     "Navegantes": 101,
     "Itajai": 267
   },
-  "total_geral": 1140
+  "total_geral": 1144
 }
