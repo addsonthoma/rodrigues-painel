@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-20T06:35:49-03:00",
+  "timestamp": "2026-08-20T06:45:54-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8081,
-      "ultima_verificacao": "2026-08-20T06:35:49-03:00"
+      "ultima_verificacao": "2026-08-20T06:45:54-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-20T06:35:49-03:00"
+      "ultima_verificacao": "2026-08-20T06:45:54-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-20T06:35:49-03:00"
+      "ultima_verificacao": "2026-08-20T06:45:54-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3870,
-      "ultima_verificacao": "2026-08-20T06:35:49-03:00"
+      "ultima_verificacao": "2026-08-20T06:45:54-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-20T06:35:49-03:00"
+      "ultima_verificacao": "2026-08-20T06:45:54-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 968,
-      "ultima_verificacao": "2026-08-20T06:35:49-03:00"
+      "ultima_verificacao": "2026-08-20T06:45:54-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7181,
-      "ultima_verificacao": "2026-08-20T06:35:49-03:00"
+      "ultima_verificacao": "2026-08-20T06:45:54-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12942,
-      "ultima_verificacao": "2026-08-20T06:35:49-03:00"
+      "ultima_verificacao": "2026-08-20T06:45:54-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4999,
-      "ultima_verificacao": "2026-08-20T06:35:49-03:00"
+      "ultima_verificacao": "2026-08-20T06:45:54-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14244,
-      "ultima_verificacao": "2026-08-20T06:35:49-03:00"
+      "ultimo_numero": 14245,
+      "ultima_verificacao": "2026-08-20T06:45:54-03:00"
     }
   },
   "protocolos": {
@@ -9775,6 +9775,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014245A",
+        "RE": "RE8161001182A",
+        "numgEdificacao": 32345,
+        "Nome_Edificacao": "EDIFICAÇÃO MISTA STALL",
+        "Logradouro": "Rua Agílio Cunha",
+        "Numero": "1861",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-20T06:45:54-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014244A",
         "RE": "RE8161013827A",
         "numgEdificacao": 368258,
@@ -12734,7 +12745,7 @@
     "Itapema": 134,
     "Blumenau": 200,
     "Navegantes": 102,
-    "Itajai": 268
+    "Itajai": 269
   },
-  "total_geral": 1150
+  "total_geral": 1151
 }
