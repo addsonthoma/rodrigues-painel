@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-20T12:02:33-03:00",
+  "timestamp": "2026-08-20T12:46:06-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 929,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T12:02:33-03:00"
+      "ultima_verificacao": "2026-08-20T12:46:06-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T12:02:33-03:00"
+      "ultima_verificacao": "2026-08-20T12:46:06-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T12:02:33-03:00"
+      "ultima_verificacao": "2026-08-20T12:46:06-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 590,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T12:02:33-03:00"
+      "ultima_verificacao": "2026-08-20T12:46:06-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 492,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T12:02:33-03:00"
+      "ultima_verificacao": "2026-08-20T12:46:06-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 483,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T12:02:33-03:00"
+      "ultima_verificacao": "2026-08-20T12:46:06-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1135,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T12:02:33-03:00"
+      "ultima_verificacao": "2026-08-20T12:46:06-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1095,
+      "ultimo_numero": 1096,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T12:02:33-03:00"
+      "ultima_verificacao": "2026-08-20T12:46:06-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T12:02:33-03:00"
+      "ultima_verificacao": "2026-08-20T12:46:06-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1127,
+      "ultimo_numero": 1128,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T12:02:33-03:00"
+      "ultima_verificacao": "2026-08-20T12:46:06-03:00"
     }
   },
   "afs": {
@@ -14852,6 +14852,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001096A/26",
+        "Tipo": "AF",
+        "RE": "RE8047012092A",
+        "Nome_Edificacao": "Mauricio Herkenhoff",
+        "Logradouro": "Rua Teresa Cristina",
+        "Numero": "46",
+        "Bairro": "BLUMENAU - Velha",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-20T12:46:06-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001095A/26",
         "Tipo": "AF",
         "RE": "RE8047010083A",
@@ -20180,6 +20191,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001128A/26",
+        "Tipo": "AF",
+        "RE": "RE8161004529A",
+        "Nome_Edificacao": "CONDOMINIO EDIFICIO GUANABARA",
+        "Logradouro": "Juvencio tavares do amaral",
+        "Numero": "350",
+        "Bairro": "ITAJAÍ - CABEÇUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-20T12:46:06-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001127A/26",
         "Tipo": "AF",
         "RE": "RE8161005438A",
@@ -24303,9 +24325,9 @@
     "Porto Belo": 201,
     "Nova Trento": 173,
     "Itapema": 401,
-    "Blumenau": 382,
+    "Blumenau": 383,
     "Navegantes": 102,
-    "Itajai": 374
+    "Itajai": 375
   },
-  "total_geral": 2201
+  "total_geral": 2203
 }
