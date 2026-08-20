@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-20T14:39:42-03:00",
+  "timestamp": "2026-08-20T15:04:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 930,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T14:39:42-03:00"
+      "ultima_verificacao": "2026-08-20T15:04:23-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T14:39:42-03:00"
+      "ultima_verificacao": "2026-08-20T15:04:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T14:39:42-03:00"
+      "ultima_verificacao": "2026-08-20T15:04:23-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 590,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T14:39:42-03:00"
+      "ultima_verificacao": "2026-08-20T15:04:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 492,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T14:39:42-03:00"
+      "ultima_verificacao": "2026-08-20T15:04:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 489,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T14:39:42-03:00"
+      "ultima_verificacao": "2026-08-20T15:04:23-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1135,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T14:39:42-03:00"
+      "ultima_verificacao": "2026-08-20T15:04:23-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1099,
+      "ultimo_numero": 1100,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T14:39:42-03:00"
+      "ultima_verificacao": "2026-08-20T15:04:23-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T14:39:42-03:00"
+      "ultima_verificacao": "2026-08-20T15:04:23-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1128,
+      "ultimo_numero": 1129,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T14:39:42-03:00"
+      "ultima_verificacao": "2026-08-20T15:04:23-03:00"
     }
   },
   "afs": {
@@ -14929,6 +14929,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001100A/26",
+        "Tipo": "AF",
+        "RE": "RE8047012089A",
+        "Nome_Edificacao": "Rex Wrap LTDA",
+        "Logradouro": "Rua Ilhéus",
+        "Numero": "84",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-20T15:04:23-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001099A/26",
         "Tipo": "AF",
         "RE": "RE8047004267A",
@@ -20301,6 +20312,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001129A/26",
+        "Tipo": "AF",
+        "RE": "RE8161003598A",
+        "Nome_Edificacao": "PIZZARIA DISCO VOADOR",
+        "Logradouro": "AVENIDA MINISTRO VICTOR KONDER",
+        "Numero": "520",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-20T15:04:23-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001128A/26",
         "Tipo": "AF",
         "RE": "RE8161004529A",
@@ -24435,9 +24457,9 @@
     "Porto Belo": 201,
     "Nova Trento": 179,
     "Itapema": 401,
-    "Blumenau": 386,
+    "Blumenau": 387,
     "Navegantes": 102,
-    "Itajai": 375
+    "Itajai": 376
   },
-  "total_geral": 2213
+  "total_geral": 2215
 }
