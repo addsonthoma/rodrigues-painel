@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-20T16:26:40-03:00",
+  "timestamp": "2026-08-20T16:36:25-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8083,
-      "ultima_verificacao": "2026-08-20T16:26:40-03:00"
+      "ultima_verificacao": "2026-08-20T16:36:25-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-20T16:26:40-03:00"
+      "ultima_verificacao": "2026-08-20T16:36:25-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1518,
-      "ultima_verificacao": "2026-08-20T16:26:40-03:00"
+      "ultimo_numero": 1519,
+      "ultima_verificacao": "2026-08-20T16:36:25-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3870,
-      "ultima_verificacao": "2026-08-20T16:26:40-03:00"
+      "ultima_verificacao": "2026-08-20T16:36:25-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-20T16:26:40-03:00"
+      "ultima_verificacao": "2026-08-20T16:36:25-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 968,
-      "ultima_verificacao": "2026-08-20T16:26:40-03:00"
+      "ultima_verificacao": "2026-08-20T16:36:25-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7182,
-      "ultima_verificacao": "2026-08-20T16:26:40-03:00"
+      "ultima_verificacao": "2026-08-20T16:36:25-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12943,
-      "ultima_verificacao": "2026-08-20T16:26:40-03:00"
+      "ultima_verificacao": "2026-08-20T16:36:25-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5000,
-      "ultima_verificacao": "2026-08-20T16:26:40-03:00"
+      "ultima_verificacao": "2026-08-20T16:36:25-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14249,
-      "ultima_verificacao": "2026-08-20T16:26:40-03:00"
+      "ultima_verificacao": "2026-08-20T16:36:25-03:00"
     }
   },
   "protocolos": {
@@ -1763,6 +1763,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001519A",
+        "RE": "RE8123001207A",
+        "numgEdificacao": 368366,
+        "Nome_Edificacao": "ALTEVIR SCHEFER - GALPÃO",
+        "Logradouro": "RUA NILO ERTHAL",
+        "Numero": "209",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-08-20T16:36:25-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001518A",
         "RE": "RE8123001206A",
@@ -12859,7 +12870,7 @@
   "totais": {
     "Brusque": 119,
     "Botuvera": 36,
-    "Guabiruba": 43,
+    "Guabiruba": 44,
     "Gaspar": 104,
     "Porto Belo": 96,
     "Nova Trento": 52,
@@ -12868,5 +12879,5 @@
     "Navegantes": 103,
     "Itajai": 273
   },
-  "total_geral": 1162
+  "total_geral": 1163
 }
