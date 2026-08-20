@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-20T15:07:20-03:00",
+  "timestamp": "2026-08-20T15:17:39-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8083,
-      "ultima_verificacao": "2026-08-20T15:07:20-03:00"
+      "ultima_verificacao": "2026-08-20T15:17:39-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-20T15:07:20-03:00"
+      "ultima_verificacao": "2026-08-20T15:17:39-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-20T15:07:20-03:00"
+      "ultimo_numero": 1517,
+      "ultima_verificacao": "2026-08-20T15:17:39-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3870,
-      "ultima_verificacao": "2026-08-20T15:07:20-03:00"
+      "ultima_verificacao": "2026-08-20T15:17:39-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-20T15:07:20-03:00"
+      "ultima_verificacao": "2026-08-20T15:17:39-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 968,
-      "ultima_verificacao": "2026-08-20T15:07:20-03:00"
+      "ultima_verificacao": "2026-08-20T15:17:39-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7182,
-      "ultima_verificacao": "2026-08-20T15:07:20-03:00"
+      "ultima_verificacao": "2026-08-20T15:17:39-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12943,
-      "ultima_verificacao": "2026-08-20T15:07:20-03:00"
+      "ultima_verificacao": "2026-08-20T15:17:39-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5000,
-      "ultima_verificacao": "2026-08-20T15:07:20-03:00"
+      "ultima_verificacao": "2026-08-20T15:17:39-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14249,
-      "ultima_verificacao": "2026-08-20T15:07:20-03:00"
+      "ultima_verificacao": "2026-08-20T15:17:39-03:00"
     }
   },
   "protocolos": {
@@ -1763,6 +1763,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001517A",
+        "RE": "RE8123001205A",
+        "numgEdificacao": 368341,
+        "Nome_Edificacao": "TECELAGEM FAMILIA",
+        "Logradouro": "RUA GUILHERME POLLHEIM",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - LAJEADO BAIXO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-08-20T15:17:39-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001516A",
         "RE": "RE8123001204A",
@@ -12837,7 +12848,7 @@
   "totais": {
     "Brusque": 119,
     "Botuvera": 36,
-    "Guabiruba": 41,
+    "Guabiruba": 42,
     "Gaspar": 104,
     "Porto Belo": 96,
     "Nova Trento": 52,
@@ -12846,5 +12857,5 @@
     "Navegantes": 103,
     "Itajai": 273
   },
-  "total_geral": 1160
+  "total_geral": 1161
 }
