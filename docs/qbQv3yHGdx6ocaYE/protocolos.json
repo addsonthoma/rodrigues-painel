@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-20T09:26:26-03:00",
+  "timestamp": "2026-08-20T09:36:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8081,
-      "ultima_verificacao": "2026-08-20T09:26:26-03:00"
+      "ultima_verificacao": "2026-08-20T09:36:21-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-20T09:26:26-03:00"
+      "ultima_verificacao": "2026-08-20T09:36:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1516,
-      "ultima_verificacao": "2026-08-20T09:26:26-03:00"
+      "ultima_verificacao": "2026-08-20T09:36:21-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3870,
-      "ultima_verificacao": "2026-08-20T09:26:26-03:00"
+      "ultima_verificacao": "2026-08-20T09:36:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-20T09:26:26-03:00"
+      "ultima_verificacao": "2026-08-20T09:36:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 968,
-      "ultima_verificacao": "2026-08-20T09:26:26-03:00"
+      "ultima_verificacao": "2026-08-20T09:36:21-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7181,
-      "ultima_verificacao": "2026-08-20T09:26:26-03:00"
+      "ultima_verificacao": "2026-08-20T09:36:21-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12942,
-      "ultima_verificacao": "2026-08-20T09:26:26-03:00"
+      "ultima_verificacao": "2026-08-20T09:36:21-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 4999,
-      "ultima_verificacao": "2026-08-20T09:26:26-03:00"
+      "ultima_verificacao": "2026-08-20T09:36:21-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14246,
-      "ultima_verificacao": "2026-08-20T09:26:26-03:00"
+      "ultimo_numero": 14247,
+      "ultima_verificacao": "2026-08-20T09:36:21-03:00"
     }
   },
   "protocolos": {
@@ -9775,6 +9775,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014247A",
+        "RE": "RE8161009026A",
+        "numgEdificacao": 240705,
+        "Nome_Edificacao": "Mathias Administradora de Bens e Imóveis Ltda – Me",
+        "Logradouro": "Rodovia BR-101",
+        "Numero": "3136",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-20T09:36:21-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014246A",
         "RE": "RE8161010153A",
         "numgEdificacao": 270888,
@@ -12756,7 +12767,7 @@
     "Itapema": 134,
     "Blumenau": 200,
     "Navegantes": 102,
-    "Itajai": 270
+    "Itajai": 271
   },
-  "total_geral": 1152
+  "total_geral": 1153
 }
