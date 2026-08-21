@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-21T14:07:14-03:00",
+  "timestamp": "2026-08-21T14:27:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8085,
-      "ultima_verificacao": "2026-08-21T14:07:14-03:00"
+      "ultima_verificacao": "2026-08-21T14:27:31-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-21T14:07:14-03:00"
+      "ultima_verificacao": "2026-08-21T14:27:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1520,
-      "ultima_verificacao": "2026-08-21T14:07:14-03:00"
+      "ultima_verificacao": "2026-08-21T14:27:31-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3870,
-      "ultima_verificacao": "2026-08-21T14:07:14-03:00"
+      "ultimo_numero": 3871,
+      "ultima_verificacao": "2026-08-21T14:27:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-21T14:07:14-03:00"
+      "ultima_verificacao": "2026-08-21T14:27:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 968,
-      "ultima_verificacao": "2026-08-21T14:07:14-03:00"
+      "ultima_verificacao": "2026-08-21T14:27:31-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7183,
-      "ultima_verificacao": "2026-08-21T14:07:14-03:00"
+      "ultima_verificacao": "2026-08-21T14:27:31-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12944,
-      "ultima_verificacao": "2026-08-21T14:07:14-03:00"
+      "ultima_verificacao": "2026-08-21T14:27:31-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5001,
-      "ultima_verificacao": "2026-08-21T14:07:14-03:00"
+      "ultima_verificacao": "2026-08-21T14:27:31-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14251,
-      "ultima_verificacao": "2026-08-21T14:07:14-03:00"
+      "ultima_verificacao": "2026-08-21T14:27:31-03:00"
     }
   },
   "protocolos": {
@@ -2282,6 +2282,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003871A",
+        "RE": "RE8117000099A",
+        "numgEdificacao": 4794,
+        "Nome_Edificacao": "FAZZENDA PARK HOTEL",
+        "Logradouro": "Rua João Mathias Zimmermann 2299",
+        "Numero": "2299",
+        "Bairro": "GASPAR - ALTO GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-21T14:27:31-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003870A",
         "RE": "RE8117003284A",
@@ -12959,7 +12970,7 @@
     "Brusque": 121,
     "Botuvera": 36,
     "Guabiruba": 45,
-    "Gaspar": 104,
+    "Gaspar": 105,
     "Porto Belo": 96,
     "Nova Trento": 52,
     "Itapema": 136,
@@ -12967,5 +12978,5 @@
     "Navegantes": 104,
     "Itajai": 275
   },
-  "total_geral": 1171
+  "total_geral": 1172
 }
