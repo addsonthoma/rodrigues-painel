@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-21T13:26:25-03:00",
+  "timestamp": "2026-08-21T13:37:12-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8085,
-      "ultima_verificacao": "2026-08-21T13:26:25-03:00"
+      "ultima_verificacao": "2026-08-21T13:37:12-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-21T13:26:25-03:00"
+      "ultima_verificacao": "2026-08-21T13:37:12-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1520,
-      "ultima_verificacao": "2026-08-21T13:26:25-03:00"
+      "ultima_verificacao": "2026-08-21T13:37:12-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3870,
-      "ultima_verificacao": "2026-08-21T13:26:25-03:00"
+      "ultima_verificacao": "2026-08-21T13:37:12-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-21T13:26:25-03:00"
+      "ultima_verificacao": "2026-08-21T13:37:12-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 968,
-      "ultima_verificacao": "2026-08-21T13:26:25-03:00"
+      "ultima_verificacao": "2026-08-21T13:37:12-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7183,
-      "ultima_verificacao": "2026-08-21T13:26:25-03:00"
+      "ultima_verificacao": "2026-08-21T13:37:12-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12943,
-      "ultima_verificacao": "2026-08-21T13:26:25-03:00"
+      "ultimo_numero": 12944,
+      "ultima_verificacao": "2026-08-21T13:37:12-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5001,
-      "ultima_verificacao": "2026-08-21T13:26:25-03:00"
+      "ultima_verificacao": "2026-08-21T13:37:12-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14251,
-      "ultima_verificacao": "2026-08-21T13:26:25-03:00"
+      "ultima_verificacao": "2026-08-21T13:37:12-03:00"
     }
   },
   "protocolos": {
@@ -6559,6 +6559,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012944A",
+        "RE": "RE8047007349A",
+        "numgEdificacao": 208783,
+        "Nome_Edificacao": "COMERCIAL KOBS LTDA",
+        "Logradouro": "R HENRIQUE CONRAD",
+        "Numero": "234",
+        "Bairro": "BLUMENAU - VILA ITOUPAVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-21T13:37:12-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012943A",
         "RE": "RE8047012106A",
         "numgEdificacao": 368316,
@@ -12952,9 +12963,9 @@
     "Porto Belo": 96,
     "Nova Trento": 52,
     "Itapema": 136,
-    "Blumenau": 201,
+    "Blumenau": 202,
     "Navegantes": 104,
     "Itajai": 275
   },
-  "total_geral": 1170
+  "total_geral": 1171
 }
