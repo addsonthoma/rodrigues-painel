@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-20T17:40:19-03:00",
+  "timestamp": "2026-08-21T07:48:47-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 935,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T17:40:19-03:00"
+      "ultima_verificacao": "2026-08-21T07:48:47-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T17:40:19-03:00"
+      "ultima_verificacao": "2026-08-21T07:48:47-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T17:40:19-03:00"
+      "ultima_verificacao": "2026-08-21T07:48:47-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 590,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T17:40:19-03:00"
+      "ultima_verificacao": "2026-08-21T07:48:47-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 492,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T17:40:19-03:00"
+      "ultima_verificacao": "2026-08-21T07:48:47-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 490,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T17:40:19-03:00"
+      "ultima_verificacao": "2026-08-21T07:48:47-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1137,
+      "ultimo_numero": 1138,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T17:40:19-03:00"
+      "ultima_verificacao": "2026-08-21T07:48:47-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1100,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T17:40:19-03:00"
+      "ultima_verificacao": "2026-08-21T07:48:47-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 306,
+      "ultimo_numero": 308,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T17:40:19-03:00"
+      "ultima_verificacao": "2026-08-21T07:48:47-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1129,
+      "ultimo_numero": 1130,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-20T17:40:19-03:00"
+      "ultima_verificacao": "2026-08-21T07:48:47-03:00"
     }
   },
   "afs": {
@@ -10582,6 +10582,17 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163001138A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003718A",
+        "Nome_Edificacao": "COND. RES. RIVIERA",
+        "Logradouro": "Rua 145",
+        "Numero": "20",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-21T07:48:47-03:00"
+      },
+      {
         "CodigoAuto": "AF8163001137A/26",
         "Tipo": "AF",
         "RE": "RE8163002002A",
@@ -19276,6 +19287,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000308A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000131A",
+        "Nome_Edificacao": "PORTONAVE S/A TERMINAIS PORTUÁRIOS DE NAVEGANTES",
+        "Logradouro": "Avenida Portuária Vicente Coelho 1",
+        "Numero": "1",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-21T07:48:47-03:00"
+      },
+      {
+        "CodigoAuto": "AF8221000307A/26",
+        "Tipo": "AF",
+        "RE": "RE8221002468A",
+        "Nome_Edificacao": "CLAITON TADEU DE LIMA",
+        "Logradouro": "Rua Bernardino Fernandes de Oliveira",
+        "Numero": "227",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-21T07:48:47-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000306A/26",
         "Tipo": "AF",
         "RE": "RE8221000419A",
@@ -20399,6 +20432,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "AF8161001130A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002266A",
+        "Nome_Edificacao": "MAPP - Rod. Antonio Heil Itajai",
+        "Logradouro": "Rodovia Antônio Heil 11320",
+        "Numero": "20535",
+        "Bairro": "ITAJAÍ - ARRAIAL DOS CUNHAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-21T07:48:47-03:00"
+      },
       {
         "CodigoAuto": "AF8161001129A/26",
         "Tipo": "AF",
@@ -24544,10 +24588,10 @@
     "Gaspar": 176,
     "Porto Belo": 201,
     "Nova Trento": 180,
-    "Itapema": 403,
+    "Itapema": 404,
     "Blumenau": 387,
-    "Navegantes": 102,
-    "Itajai": 376
+    "Navegantes": 104,
+    "Itajai": 377
   },
-  "total_geral": 2223
+  "total_geral": 2227
 }
