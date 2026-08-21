@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-21T18:09:48-03:00",
+  "timestamp": "2026-08-21T18:42:22-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8085,
-      "ultima_verificacao": "2026-08-21T18:09:48-03:00"
+      "ultima_verificacao": "2026-08-21T18:42:22-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-21T18:09:48-03:00"
+      "ultima_verificacao": "2026-08-21T18:42:22-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1521,
-      "ultima_verificacao": "2026-08-21T18:09:48-03:00"
+      "ultima_verificacao": "2026-08-21T18:42:22-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3871,
-      "ultima_verificacao": "2026-08-21T18:09:48-03:00"
+      "ultima_verificacao": "2026-08-21T18:42:22-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3378,
-      "ultima_verificacao": "2026-08-21T18:09:48-03:00"
+      "ultima_verificacao": "2026-08-21T18:42:22-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 970,
-      "ultima_verificacao": "2026-08-21T18:09:48-03:00"
+      "ultimo_numero": 971,
+      "ultima_verificacao": "2026-08-21T18:42:22-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7184,
-      "ultima_verificacao": "2026-08-21T18:09:48-03:00"
+      "ultima_verificacao": "2026-08-21T18:42:22-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12944,
-      "ultima_verificacao": "2026-08-21T18:09:48-03:00"
+      "ultima_verificacao": "2026-08-21T18:42:22-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5002,
-      "ultima_verificacao": "2026-08-21T18:09:48-03:00"
+      "ultima_verificacao": "2026-08-21T18:42:22-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14253,
-      "ultima_verificacao": "2026-08-21T18:09:48-03:00"
+      "ultimo_numero": 14254,
+      "ultima_verificacao": "2026-08-21T18:42:22-03:00"
     }
   },
   "protocolos": {
@@ -4519,6 +4519,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000971A",
+        "RE": "RE8225000408A",
+        "numgEdificacao": 219738,
+        "Nome_Edificacao": "FABRISIO COMANDOLLI",
+        "Logradouro": "RODOVIA ESTADUAL SC 108",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-21T18:42:22-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000970A",
         "RE": "RE8225000773A",
@@ -10006,6 +10017,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014254A",
+        "RE": "RE8161008428A",
+        "numgEdificacao": 223516,
+        "Nome_Edificacao": "BERGER COMÉRCIO DE MÁQUINAS E EQUIPAMENTOS PARA GASTRONOMIA LTDA - EPP",
+        "Logradouro": "Rua Tijucas",
+        "Numero": "182",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-21T18:42:22-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014253A",
         "RE": "RE8161013760A",
         "numgEdificacao": 366005,
@@ -13060,11 +13082,11 @@
     "Guabiruba": 46,
     "Gaspar": 105,
     "Porto Belo": 97,
-    "Nova Trento": 54,
+    "Nova Trento": 55,
     "Itapema": 137,
     "Blumenau": 202,
     "Navegantes": 105,
-    "Itajai": 277
+    "Itajai": 278
   },
-  "total_geral": 1180
+  "total_geral": 1182
 }
