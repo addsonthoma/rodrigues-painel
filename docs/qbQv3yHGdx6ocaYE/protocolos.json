@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-21T09:35:28-03:00",
+  "timestamp": "2026-08-21T10:36:00-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8083,
-      "ultima_verificacao": "2026-08-21T09:35:28-03:00"
+      "ultimo_numero": 8084,
+      "ultima_verificacao": "2026-08-21T10:36:00-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-21T09:35:28-03:00"
+      "ultima_verificacao": "2026-08-21T10:36:00-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1520,
-      "ultima_verificacao": "2026-08-21T09:35:28-03:00"
+      "ultima_verificacao": "2026-08-21T10:36:00-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3870,
-      "ultima_verificacao": "2026-08-21T09:35:28-03:00"
+      "ultima_verificacao": "2026-08-21T10:36:00-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-21T09:35:28-03:00"
+      "ultima_verificacao": "2026-08-21T10:36:00-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 968,
-      "ultima_verificacao": "2026-08-21T09:35:28-03:00"
+      "ultima_verificacao": "2026-08-21T10:36:00-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7183,
-      "ultima_verificacao": "2026-08-21T09:35:28-03:00"
+      "ultima_verificacao": "2026-08-21T10:36:00-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12943,
-      "ultima_verificacao": "2026-08-21T09:35:28-03:00"
+      "ultima_verificacao": "2026-08-21T10:36:00-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5000,
-      "ultima_verificacao": "2026-08-21T09:35:28-03:00"
+      "ultima_verificacao": "2026-08-21T10:36:00-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14249,
-      "ultima_verificacao": "2026-08-21T09:35:28-03:00"
+      "ultimo_numero": 14251,
+      "ultima_verificacao": "2026-08-21T10:36:00-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008084A",
+        "RE": "RE8055006802A",
+        "numgEdificacao": 368388,
+        "Nome_Edificacao": "Sergio Novaes",
+        "Logradouro": "R. Marcelino Pereira",
+        "Numero": "29",
+        "Bairro": "BRUSQUE - Santa Terezinha",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-21T10:36:00-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008083A",
         "RE": "RE8055006801A",
@@ -9885,6 +9896,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014251A",
+        "RE": "RE8161009026A",
+        "numgEdificacao": 240705,
+        "Nome_Edificacao": "Mathias Administradora de Bens e Imóveis Ltda – Me",
+        "Logradouro": "Rodovia BR-101",
+        "Numero": "3136",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-21T10:36:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014250A",
+        "RE": "RE8161013831A",
+        "numgEdificacao": 368409,
+        "Nome_Edificacao": "Casas",
+        "Logradouro": "ALFREDO LABES",
+        "Numero": "205",
+        "Bairro": "ITAJAÍ - RESSACADA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-21T10:36:00-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014249A",
         "RE": "RE8161013715A",
         "numgEdificacao": 364159,
@@ -12890,7 +12923,7 @@
     ]
   },
   "totais": {
-    "Brusque": 119,
+    "Brusque": 120,
     "Botuvera": 36,
     "Guabiruba": 45,
     "Gaspar": 104,
@@ -12899,7 +12932,7 @@
     "Itapema": 136,
     "Blumenau": 201,
     "Navegantes": 103,
-    "Itajai": 273
+    "Itajai": 275
   },
-  "total_geral": 1165
+  "total_geral": 1168
 }
