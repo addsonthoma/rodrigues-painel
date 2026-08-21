@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-21T10:56:30-03:00",
+  "timestamp": "2026-08-21T11:07:02-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8084,
-      "ultima_verificacao": "2026-08-21T10:56:30-03:00"
+      "ultima_verificacao": "2026-08-21T11:07:02-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-21T10:56:30-03:00"
+      "ultima_verificacao": "2026-08-21T11:07:02-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1520,
-      "ultima_verificacao": "2026-08-21T10:56:30-03:00"
+      "ultima_verificacao": "2026-08-21T11:07:02-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3870,
-      "ultima_verificacao": "2026-08-21T10:56:30-03:00"
+      "ultima_verificacao": "2026-08-21T11:07:02-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-21T10:56:30-03:00"
+      "ultima_verificacao": "2026-08-21T11:07:02-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 968,
-      "ultima_verificacao": "2026-08-21T10:56:30-03:00"
+      "ultima_verificacao": "2026-08-21T11:07:02-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7183,
-      "ultima_verificacao": "2026-08-21T10:56:30-03:00"
+      "ultima_verificacao": "2026-08-21T11:07:02-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12943,
-      "ultima_verificacao": "2026-08-21T10:56:30-03:00"
+      "ultima_verificacao": "2026-08-21T11:07:02-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5000,
-      "ultima_verificacao": "2026-08-21T10:56:30-03:00"
+      "ultimo_numero": 5001,
+      "ultima_verificacao": "2026-08-21T11:07:02-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14251,
-      "ultima_verificacao": "2026-08-21T10:56:30-03:00"
+      "ultima_verificacao": "2026-08-21T11:07:02-03:00"
     }
   },
   "protocolos": {
@@ -8761,6 +8761,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005001A",
+        "RE": "RE8221001278A",
+        "numgEdificacao": 157684,
+        "Nome_Edificacao": "JOSE BISSOLI",
+        "Logradouro": "Avenida Conselheiro João Gaya",
+        "Numero": "1010",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-21T11:07:02-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005000A",
         "RE": "RE8221004129A",
         "numgEdificacao": 368176,
@@ -12931,8 +12942,8 @@
     "Nova Trento": 52,
     "Itapema": 136,
     "Blumenau": 201,
-    "Navegantes": 103,
+    "Navegantes": 104,
     "Itajai": 275
   },
-  "total_geral": 1168
+  "total_geral": 1169
 }
