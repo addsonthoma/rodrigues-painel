@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-21T17:35:58-03:00",
+  "timestamp": "2026-08-21T18:02:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 942,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T17:35:58-03:00"
+      "ultima_verificacao": "2026-08-21T18:02:27-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T17:35:58-03:00"
+      "ultima_verificacao": "2026-08-21T18:02:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T17:35:58-03:00"
+      "ultima_verificacao": "2026-08-21T18:02:27-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 598,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T17:35:58-03:00"
+      "ultima_verificacao": "2026-08-21T18:02:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 492,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T17:35:58-03:00"
+      "ultima_verificacao": "2026-08-21T18:02:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 495,
+      "ultimo_numero": 496,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T17:35:58-03:00"
+      "ultima_verificacao": "2026-08-21T18:02:27-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1147,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T17:35:58-03:00"
+      "ultima_verificacao": "2026-08-21T18:02:27-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1102,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T17:35:58-03:00"
+      "ultima_verificacao": "2026-08-21T18:02:27-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 309,
+      "ultimo_numero": 310,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T17:35:58-03:00"
+      "ultima_verificacao": "2026-08-21T18:02:27-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1133,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T17:35:58-03:00"
+      "ultima_verificacao": "2026-08-21T18:02:27-03:00"
     }
   },
   "afs": {
@@ -8764,6 +8764,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000496A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000830A",
+        "Nome_Edificacao": "NILO WOLF",
+        "Logradouro": "RODOVIA SC 410",
+        "Numero": "4769",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-21T18:02:27-03:00"
+      },
       {
         "CodigoAuto": "AF8225000495A/26",
         "Tipo": "AF",
@@ -19628,6 +19639,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000310A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000226A",
+        "Nome_Edificacao": "INSIDE ARMAZÉM LTDA",
+        "Logradouro": "Rua Teresa de Souza",
+        "Numero": "2285",
+        "Bairro": "NAVEGANTES - ESCALVADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-21T18:02:27-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000309A/26",
         "Tipo": "AF",
         "RE": "RE8221000419A",
@@ -24972,11 +24994,11 @@
     "Guabiruba": 41,
     "Gaspar": 184,
     "Porto Belo": 201,
-    "Nova Trento": 185,
+    "Nova Trento": 186,
     "Itapema": 413,
     "Blumenau": 389,
-    "Navegantes": 105,
+    "Navegantes": 106,
     "Itajai": 380
   },
-  "total_geral": 2262
+  "total_geral": 2264
 }
