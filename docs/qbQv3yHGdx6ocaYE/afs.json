@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-08-21T13:00:21-03:00",
+  "timestamp": "2026-08-21T13:10:29-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 937,
+      "ultimo_numero": 938,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T13:00:21-03:00"
+      "ultima_verificacao": "2026-08-21T13:10:29-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T13:00:21-03:00"
+      "ultima_verificacao": "2026-08-21T13:10:29-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T13:00:21-03:00"
+      "ultima_verificacao": "2026-08-21T13:10:29-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 593,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T13:00:21-03:00"
+      "ultima_verificacao": "2026-08-21T13:10:29-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 492,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T13:00:21-03:00"
+      "ultima_verificacao": "2026-08-21T13:10:29-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 492,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T13:00:21-03:00"
+      "ultima_verificacao": "2026-08-21T13:10:29-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1143,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T13:00:21-03:00"
+      "ultima_verificacao": "2026-08-21T13:10:29-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1102,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T13:00:21-03:00"
+      "ultima_verificacao": "2026-08-21T13:10:29-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 309,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T13:00:21-03:00"
+      "ultima_verificacao": "2026-08-21T13:10:29-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1132,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-21T13:00:21-03:00"
+      "ultima_verificacao": "2026-08-21T13:10:29-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000938A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002003A",
+        "Nome_Edificacao": "BBK EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+        "Logradouro": "R ERNESTO BIANCHINI",
+        "Numero": "314",
+        "Bairro": "BRUSQUE - GUARANI",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-21T13:10:29-03:00"
+      },
       {
         "CodigoAuto": "AF8055000937A/26",
         "Tipo": "AF",
@@ -24769,7 +24780,7 @@
     ]
   },
   "totais": {
-    "Brusque": 327,
+    "Brusque": 328,
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 179,
@@ -24780,5 +24791,5 @@
     "Navegantes": 105,
     "Itajai": 379
   },
-  "total_geral": 2244
+  "total_geral": 2245
 }
