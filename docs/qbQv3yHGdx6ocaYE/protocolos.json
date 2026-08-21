@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-21T15:44:18-03:00",
+  "timestamp": "2026-08-21T17:32:41-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8085,
-      "ultima_verificacao": "2026-08-21T15:44:18-03:00"
+      "ultima_verificacao": "2026-08-21T17:32:41-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-21T15:44:18-03:00"
+      "ultima_verificacao": "2026-08-21T17:32:41-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1520,
-      "ultima_verificacao": "2026-08-21T15:44:18-03:00"
+      "ultimo_numero": 1521,
+      "ultima_verificacao": "2026-08-21T17:32:41-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3870,
-      "ultima_verificacao": "2026-08-21T15:44:18-03:00"
+      "ultimo_numero": 3871,
+      "ultima_verificacao": "2026-08-21T17:32:41-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-21T15:44:18-03:00"
+      "ultimo_numero": 3378,
+      "ultima_verificacao": "2026-08-21T17:32:41-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 968,
-      "ultima_verificacao": "2026-08-21T15:44:18-03:00"
+      "ultimo_numero": 969,
+      "ultima_verificacao": "2026-08-21T17:32:41-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7183,
-      "ultima_verificacao": "2026-08-21T15:44:18-03:00"
+      "ultimo_numero": 7184,
+      "ultima_verificacao": "2026-08-21T17:32:41-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12943,
-      "ultima_verificacao": "2026-08-21T15:44:18-03:00"
+      "ultimo_numero": 12944,
+      "ultima_verificacao": "2026-08-21T17:32:41-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5001,
-      "ultima_verificacao": "2026-08-21T15:44:18-03:00"
+      "ultimo_numero": 5002,
+      "ultima_verificacao": "2026-08-21T17:32:41-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14251,
-      "ultima_verificacao": "2026-08-21T15:44:18-03:00"
+      "ultimo_numero": 14252,
+      "ultima_verificacao": "2026-08-21T17:32:41-03:00"
     }
   },
   "protocolos": {
@@ -3451,6 +3451,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003378A",
+        "RE": "RE8265000982A",
+        "numgEdificacao": 133112,
+        "Nome_Edificacao": "DOGÃO 300 LTDA",
+        "Logradouro": "avenida governador celso ramos",
+        "Numero": "938",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-21T17:32:41-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003377A",
         "RE": "RE8265002823A",
         "numgEdificacao": 368246,
@@ -4509,6 +4520,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoProtocolo": "A8225000969A",
+        "RE": "RE8225000408A",
+        "numgEdificacao": 219738,
+        "Nome_Edificacao": "FABRISIO COMANDOLLI",
+        "Logradouro": "RODOVIA ESTADUAL SC 108",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-21T17:32:41-03:00"
+      },
+      {
         "CodigoProtocolo": "A8225000968A",
         "RE": "RE8225000828A",
         "numgEdificacao": 368196,
@@ -5082,6 +5104,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007184A",
+        "RE": "RE8163006740A",
+        "numgEdificacao": 362508,
+        "Nome_Edificacao": "Giovanni Demonti Passos Cathcart",
+        "Logradouro": "Rua 900",
+        "Numero": "100",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-21T17:32:41-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007183A",
         "RE": "RE8163006862A",
@@ -13004,12 +13037,12 @@
     "Botuvera": 36,
     "Guabiruba": 46,
     "Gaspar": 105,
-    "Porto Belo": 96,
-    "Nova Trento": 52,
-    "Itapema": 136,
+    "Porto Belo": 97,
+    "Nova Trento": 53,
+    "Itapema": 137,
     "Blumenau": 202,
     "Navegantes": 105,
     "Itajai": 276
   },
-  "total_geral": 1175
+  "total_geral": 1178
 }
