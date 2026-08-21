@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-21T14:38:29-03:00",
+  "timestamp": "2026-08-21T14:57:07-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8085,
-      "ultima_verificacao": "2026-08-21T14:38:29-03:00"
+      "ultima_verificacao": "2026-08-21T14:57:07-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-21T14:38:29-03:00"
+      "ultima_verificacao": "2026-08-21T14:57:07-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1520,
-      "ultima_verificacao": "2026-08-21T14:38:29-03:00"
+      "ultima_verificacao": "2026-08-21T14:57:07-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3871,
-      "ultima_verificacao": "2026-08-21T14:38:29-03:00"
+      "ultima_verificacao": "2026-08-21T14:57:07-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3377,
-      "ultima_verificacao": "2026-08-21T14:38:29-03:00"
+      "ultima_verificacao": "2026-08-21T14:57:07-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 968,
-      "ultima_verificacao": "2026-08-21T14:38:29-03:00"
+      "ultima_verificacao": "2026-08-21T14:57:07-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7183,
-      "ultima_verificacao": "2026-08-21T14:38:29-03:00"
+      "ultima_verificacao": "2026-08-21T14:57:07-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12944,
-      "ultima_verificacao": "2026-08-21T14:38:29-03:00"
+      "ultima_verificacao": "2026-08-21T14:57:07-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5001,
-      "ultima_verificacao": "2026-08-21T14:38:29-03:00"
+      "ultimo_numero": 5002,
+      "ultima_verificacao": "2026-08-21T14:57:07-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14252,
-      "ultima_verificacao": "2026-08-21T14:38:29-03:00"
+      "ultima_verificacao": "2026-08-21T14:57:07-03:00"
     }
   },
   "protocolos": {
@@ -8794,6 +8794,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005002A",
+        "RE": "RE8221003778A",
+        "numgEdificacao": 340694,
+        "Nome_Edificacao": "RESIDENCIAL ILHA DE ITAPARICA",
+        "Logradouro": "Rua Nicolau Kleis",
+        "Numero": "310",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-21T14:57:07-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005001A",
         "RE": "RE8221001278A",
         "numgEdificacao": 157684,
@@ -12986,8 +12997,8 @@
     "Nova Trento": 52,
     "Itapema": 136,
     "Blumenau": 202,
-    "Navegantes": 104,
+    "Navegantes": 105,
     "Itajai": 276
   },
-  "total_geral": 1173
+  "total_geral": 1174
 }
