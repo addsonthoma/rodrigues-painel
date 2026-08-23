@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-22T19:37:47-03:00",
+  "timestamp": "2026-08-22T23:41:44-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 942,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-22T19:37:47-03:00"
+      "ultima_verificacao": "2026-08-22T23:41:44-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-22T19:37:47-03:00"
+      "ultima_verificacao": "2026-08-22T23:41:44-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-22T19:37:47-03:00"
+      "ultima_verificacao": "2026-08-22T23:41:44-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 607,
+      "ultimo_numero": 611,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-22T19:37:47-03:00"
+      "ultima_verificacao": "2026-08-22T23:41:44-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 492,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-22T19:37:47-03:00"
+      "ultima_verificacao": "2026-08-22T23:41:44-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 496,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-22T19:37:47-03:00"
+      "ultima_verificacao": "2026-08-22T23:41:44-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1147,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-22T19:37:47-03:00"
+      "ultima_verificacao": "2026-08-22T23:41:44-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1102,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-22T19:37:47-03:00"
+      "ultima_verificacao": "2026-08-22T23:41:44-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 310,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-22T19:37:47-03:00"
+      "ultima_verificacao": "2026-08-22T23:41:44-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1133,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-22T19:37:47-03:00"
+      "ultima_verificacao": "2026-08-22T23:41:44-03:00"
     }
   },
   "afs": {
@@ -4525,6 +4525,50 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000611A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000166A",
+        "Nome_Edificacao": "DOLOMITI CONFECÇÕES EIRELI",
+        "Logradouro": "Rua João Pedro da Silva",
+        "Numero": "105",
+        "Bairro": "GASPAR - GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-22T23:41:44-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000610A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000617A",
+        "Nome_Edificacao": "Osmar Ignacio",
+        "Logradouro": "rua rodolfo vieira pamplona,",
+        "Numero": "3196",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-22T23:41:44-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000609A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002213A",
+        "Nome_Edificacao": "SERGIO MURILO KRIEGER",
+        "Logradouro": "ROD IVO SILVEIRA",
+        "Numero": "9750",
+        "Bairro": "GASPAR - BARRACÃO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-22T23:41:44-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000608A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002923A",
+        "Nome_Edificacao": "MAURO LUIZ MARTINI",
+        "Logradouro": "R ENGENHEIRO LUIZ PIVA",
+        "Numero": "151",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-22T23:41:44-03:00"
+      },
       {
         "CodigoAuto": "AF8117000607A/26",
         "Tipo": "AF",
@@ -25091,7 +25135,7 @@
     "Brusque": 332,
     "Botuvera": 32,
     "Guabiruba": 41,
-    "Gaspar": 193,
+    "Gaspar": 197,
     "Porto Belo": 201,
     "Nova Trento": 186,
     "Itapema": 413,
@@ -25099,5 +25143,5 @@
     "Navegantes": 106,
     "Itajai": 380
   },
-  "total_geral": 2273
+  "total_geral": 2277
 }
