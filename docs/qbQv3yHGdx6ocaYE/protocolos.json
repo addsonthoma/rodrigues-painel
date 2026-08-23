@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-23T08:08:08-03:00",
+  "timestamp": "2026-08-23T08:37:38-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8085,
-      "ultima_verificacao": "2026-08-23T08:08:08-03:00"
+      "ultimo_numero": 8086,
+      "ultima_verificacao": "2026-08-23T08:37:38-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-23T08:08:08-03:00"
+      "ultima_verificacao": "2026-08-23T08:37:38-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1521,
-      "ultima_verificacao": "2026-08-23T08:08:08-03:00"
+      "ultima_verificacao": "2026-08-23T08:37:38-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3871,
-      "ultima_verificacao": "2026-08-23T08:08:08-03:00"
+      "ultima_verificacao": "2026-08-23T08:37:38-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3378,
-      "ultima_verificacao": "2026-08-23T08:08:08-03:00"
+      "ultima_verificacao": "2026-08-23T08:37:38-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-23T08:08:08-03:00"
+      "ultima_verificacao": "2026-08-23T08:37:38-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7187,
-      "ultima_verificacao": "2026-08-23T08:08:08-03:00"
+      "ultima_verificacao": "2026-08-23T08:37:38-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12944,
-      "ultima_verificacao": "2026-08-23T08:08:08-03:00"
+      "ultima_verificacao": "2026-08-23T08:37:38-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5002,
-      "ultima_verificacao": "2026-08-23T08:08:08-03:00"
+      "ultima_verificacao": "2026-08-23T08:37:38-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14256,
-      "ultima_verificacao": "2026-08-23T08:08:08-03:00"
+      "ultima_verificacao": "2026-08-23T08:37:38-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008086A",
+        "RE": "RE8055004930A",
+        "numgEdificacao": 282911,
+        "Nome_Edificacao": "LUIZ VALTER COELHO",
+        "Logradouro": "Rua Sete de Setembro",
+        "Numero": "657",
+        "Bairro": "BRUSQUE - SANTA RITA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-23T08:37:38-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008085A",
         "RE": "RE8055006395A",
@@ -13132,7 +13143,7 @@
     ]
   },
   "totais": {
-    "Brusque": 121,
+    "Brusque": 122,
     "Botuvera": 36,
     "Guabiruba": 46,
     "Gaspar": 105,
@@ -13143,5 +13154,5 @@
     "Navegantes": 105,
     "Itajai": 280
   },
-  "total_geral": 1187
+  "total_geral": 1188
 }
