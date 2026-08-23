@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-23T18:40:12-03:00",
+  "timestamp": "2026-08-23T19:00:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8086,
-      "ultima_verificacao": "2026-08-23T18:40:12-03:00"
+      "ultimo_numero": 8087,
+      "ultima_verificacao": "2026-08-23T19:00:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-23T18:40:12-03:00"
+      "ultima_verificacao": "2026-08-23T19:00:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1521,
-      "ultima_verificacao": "2026-08-23T18:40:12-03:00"
+      "ultima_verificacao": "2026-08-23T19:00:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3871,
-      "ultima_verificacao": "2026-08-23T18:40:12-03:00"
+      "ultima_verificacao": "2026-08-23T19:00:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3378,
-      "ultima_verificacao": "2026-08-23T18:40:12-03:00"
+      "ultima_verificacao": "2026-08-23T19:00:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-23T18:40:12-03:00"
+      "ultima_verificacao": "2026-08-23T19:00:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7187,
-      "ultima_verificacao": "2026-08-23T18:40:12-03:00"
+      "ultima_verificacao": "2026-08-23T19:00:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12944,
-      "ultima_verificacao": "2026-08-23T18:40:12-03:00"
+      "ultima_verificacao": "2026-08-23T19:00:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5002,
-      "ultima_verificacao": "2026-08-23T18:40:12-03:00"
+      "ultima_verificacao": "2026-08-23T19:00:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14256,
-      "ultima_verificacao": "2026-08-23T18:40:12-03:00"
+      "ultima_verificacao": "2026-08-23T19:00:57-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008087A",
+        "RE": "RE8055006803A",
+        "numgEdificacao": 368536,
+        "Nome_Edificacao": "Assadão e Espetinho do Xiru LTDA",
+        "Logradouro": "RUA FELIPE SCHMIDT",
+        "Numero": "172",
+        "Bairro": "BRUSQUE - Centro I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-23T19:00:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008086A",
         "RE": "RE8055004930A",
@@ -13143,7 +13154,7 @@
     ]
   },
   "totais": {
-    "Brusque": 122,
+    "Brusque": 123,
     "Botuvera": 36,
     "Guabiruba": 46,
     "Gaspar": 105,
@@ -13154,5 +13165,5 @@
     "Navegantes": 105,
     "Itajai": 280
   },
-  "total_geral": 1188
+  "total_geral": 1189
 }
