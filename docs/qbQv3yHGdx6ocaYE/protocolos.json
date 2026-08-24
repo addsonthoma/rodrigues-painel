@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-24T16:57:29-03:00",
+  "timestamp": "2026-08-24T17:07:17-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8087,
-      "ultima_verificacao": "2026-08-24T16:57:29-03:00"
+      "ultima_verificacao": "2026-08-24T17:07:17-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-24T16:57:29-03:00"
+      "ultima_verificacao": "2026-08-24T17:07:17-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1523,
-      "ultima_verificacao": "2026-08-24T16:57:29-03:00"
+      "ultima_verificacao": "2026-08-24T17:07:17-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3874,
-      "ultima_verificacao": "2026-08-24T16:57:29-03:00"
+      "ultima_verificacao": "2026-08-24T17:07:17-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3378,
-      "ultima_verificacao": "2026-08-24T16:57:29-03:00"
+      "ultima_verificacao": "2026-08-24T17:07:17-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-24T16:57:29-03:00"
+      "ultima_verificacao": "2026-08-24T17:07:17-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7187,
-      "ultima_verificacao": "2026-08-24T16:57:29-03:00"
+      "ultima_verificacao": "2026-08-24T17:07:17-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12946,
-      "ultima_verificacao": "2026-08-24T16:57:29-03:00"
+      "ultima_verificacao": "2026-08-24T17:07:17-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5002,
-      "ultima_verificacao": "2026-08-24T16:57:29-03:00"
+      "ultima_verificacao": "2026-08-24T17:07:17-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14261,
-      "ultima_verificacao": "2026-08-24T16:57:29-03:00"
+      "ultimo_numero": 14263,
+      "ultima_verificacao": "2026-08-24T17:07:17-03:00"
     }
   },
   "protocolos": {
@@ -10149,6 +10149,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014263A",
+        "RE": "RE8161013841A",
+        "numgEdificacao": 368611,
+        "Nome_Edificacao": "Residencial Água Doce",
+        "Logradouro": "Rua Domingos Rampelotti",
+        "Numero": "371",
+        "Bairro": "ITAJAÍ - São Roque",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-24T17:07:17-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014262A",
+        "RE": "RE8161007521A",
+        "numgEdificacao": 203567,
+        "Nome_Edificacao": "ALCEBIADES DE OLIVEIRA",
+        "Logradouro": "Adolfo Batschauer",
+        "Numero": "853",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-24T17:07:17-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014261A",
         "RE": "RE8161013807A",
         "numgEdificacao": 367532,
@@ -13295,7 +13317,7 @@
     "Itapema": 140,
     "Blumenau": 204,
     "Navegantes": 105,
-    "Itajai": 285
+    "Itajai": 287
   },
-  "total_geral": 1201
+  "total_geral": 1203
 }
