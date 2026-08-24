@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-24T13:48:44-03:00",
+  "timestamp": "2026-08-24T14:08:18-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8087,
-      "ultima_verificacao": "2026-08-24T13:48:44-03:00"
+      "ultima_verificacao": "2026-08-24T14:08:18-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-24T13:48:44-03:00"
+      "ultima_verificacao": "2026-08-24T14:08:18-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1521,
-      "ultima_verificacao": "2026-08-24T13:48:44-03:00"
+      "ultima_verificacao": "2026-08-24T14:08:18-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3873,
-      "ultima_verificacao": "2026-08-24T13:48:44-03:00"
+      "ultima_verificacao": "2026-08-24T14:08:18-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3378,
-      "ultima_verificacao": "2026-08-24T13:48:44-03:00"
+      "ultima_verificacao": "2026-08-24T14:08:18-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-24T13:48:44-03:00"
+      "ultima_verificacao": "2026-08-24T14:08:18-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7187,
-      "ultima_verificacao": "2026-08-24T13:48:44-03:00"
+      "ultima_verificacao": "2026-08-24T14:08:18-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12945,
-      "ultima_verificacao": "2026-08-24T13:48:44-03:00"
+      "ultima_verificacao": "2026-08-24T14:08:18-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5002,
-      "ultima_verificacao": "2026-08-24T13:48:44-03:00"
+      "ultima_verificacao": "2026-08-24T14:08:18-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14258,
-      "ultima_verificacao": "2026-08-24T13:48:44-03:00"
+      "ultimo_numero": 14260,
+      "ultima_verificacao": "2026-08-24T14:08:18-03:00"
     }
   },
   "protocolos": {
@@ -10105,6 +10105,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014260A",
+        "RE": "RE8161013838A",
+        "numgEdificacao": 368566,
+        "Nome_Edificacao": "RISE BY AVVA FAZENDA SPE LTDA",
+        "Logradouro": "Rua Emílio da Cruz Coutinho",
+        "Numero": "154",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-24T14:08:18-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014259A",
+        "RE": "RE8161000118A",
+        "numgEdificacao": 3782,
+        "Nome_Edificacao": "CPX DISTRIBUIDORA S/A",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "800",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-24T14:08:18-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014258A",
         "RE": "RE8161013836A",
         "numgEdificacao": 368547,
@@ -13218,7 +13240,7 @@
     "Itapema": 140,
     "Blumenau": 203,
     "Navegantes": 105,
-    "Itajai": 282
+    "Itajai": 284
   },
-  "total_geral": 1194
+  "total_geral": 1196
 }
