@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-24T15:58:29-03:00",
+  "timestamp": "2026-08-24T16:17:17-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8087,
-      "ultima_verificacao": "2026-08-24T15:58:29-03:00"
+      "ultima_verificacao": "2026-08-24T16:17:17-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-24T15:58:29-03:00"
+      "ultima_verificacao": "2026-08-24T16:17:17-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1521,
-      "ultima_verificacao": "2026-08-24T15:58:29-03:00"
+      "ultimo_numero": 1522,
+      "ultima_verificacao": "2026-08-24T16:17:17-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3873,
-      "ultima_verificacao": "2026-08-24T15:58:29-03:00"
+      "ultimo_numero": 3874,
+      "ultima_verificacao": "2026-08-24T16:17:17-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3378,
-      "ultima_verificacao": "2026-08-24T15:58:29-03:00"
+      "ultima_verificacao": "2026-08-24T16:17:17-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-24T15:58:29-03:00"
+      "ultima_verificacao": "2026-08-24T16:17:17-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7187,
-      "ultima_verificacao": "2026-08-24T15:58:29-03:00"
+      "ultima_verificacao": "2026-08-24T16:17:17-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12946,
-      "ultima_verificacao": "2026-08-24T15:58:29-03:00"
+      "ultima_verificacao": "2026-08-24T16:17:17-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5002,
-      "ultima_verificacao": "2026-08-24T15:58:29-03:00"
+      "ultima_verificacao": "2026-08-24T16:17:17-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14260,
-      "ultima_verificacao": "2026-08-24T15:58:29-03:00"
+      "ultimo_numero": 14261,
+      "ultima_verificacao": "2026-08-24T16:17:17-03:00"
     }
   },
   "protocolos": {
@@ -1808,6 +1808,17 @@
     ],
     "Guabiruba": [
       {
+        "CodigoProtocolo": "A8123001522A",
+        "RE": "RE8123000280A",
+        "numgEdificacao": 129101,
+        "Nome_Edificacao": "JUSSA TECIDOS LTDA",
+        "Logradouro": "SIBERIA",
+        "Numero": "123",
+        "Bairro": "GUABIRUBA - AIMORE",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-08-24T16:17:17-03:00"
+      },
+      {
         "CodigoProtocolo": "A8123001521A",
         "RE": "RE8123001208A",
         "numgEdificacao": 368473,
@@ -2315,6 +2326,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003874A",
+        "RE": "RE8117003207A",
+        "numgEdificacao": 359929,
+        "Nome_Edificacao": "Luiz Henrique Richartz",
+        "Logradouro": "Rua Augusto Beduschi",
+        "Numero": "255",
+        "Bairro": "GASPAR - Centro",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-24T16:17:17-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003873A",
         "RE": "RE8117003285A",
@@ -10116,6 +10138,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014261A",
+        "RE": "RE8161013807A",
+        "numgEdificacao": 367532,
+        "Nome_Edificacao": "Condomínio Residencial Gonçalves IX",
+        "Logradouro": "Rua Eudoro Silveira",
+        "Numero": "405",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-24T16:17:17-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014260A",
         "RE": "RE8161013838A",
         "numgEdificacao": 368566,
@@ -13244,14 +13277,14 @@
   "totais": {
     "Brusque": 123,
     "Botuvera": 36,
-    "Guabiruba": 46,
-    "Gaspar": 107,
+    "Guabiruba": 47,
+    "Gaspar": 108,
     "Porto Belo": 97,
     "Nova Trento": 55,
     "Itapema": 140,
     "Blumenau": 204,
     "Navegantes": 105,
-    "Itajai": 284
+    "Itajai": 285
   },
-  "total_geral": 1197
+  "total_geral": 1200
 }
