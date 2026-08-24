@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-24T14:06:13-03:00",
+  "timestamp": "2026-08-24T14:48:09-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 943,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-24T14:06:13-03:00"
+      "ultima_verificacao": "2026-08-24T14:48:09-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-24T14:06:13-03:00"
+      "ultima_verificacao": "2026-08-24T14:48:09-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-24T14:06:13-03:00"
+      "ultima_verificacao": "2026-08-24T14:48:09-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 612,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-24T14:06:13-03:00"
+      "ultima_verificacao": "2026-08-24T14:48:09-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 493,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-24T14:06:13-03:00"
+      "ultima_verificacao": "2026-08-24T14:48:09-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 496,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-24T14:06:13-03:00"
+      "ultima_verificacao": "2026-08-24T14:48:09-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1147,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-24T14:06:13-03:00"
+      "ultima_verificacao": "2026-08-24T14:48:09-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1110,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-24T14:06:13-03:00"
+      "ultima_verificacao": "2026-08-24T14:48:09-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 311,
+      "ultimo_numero": 314,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-24T14:06:13-03:00"
+      "ultima_verificacao": "2026-08-24T14:48:09-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1135,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-24T14:06:13-03:00"
+      "ultima_verificacao": "2026-08-24T14:48:09-03:00"
     }
   },
   "afs": {
@@ -19892,6 +19892,39 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000314A/26",
+        "Tipo": "AF",
+        "RE": "RE8221002602A",
+        "Nome_Edificacao": "PREFEITURA MUNICIPAL DE NAVEGANTES",
+        "Logradouro": "RUA VEREADOR LOURECI SOARES DA SILVA",
+        "Numero": "2947",
+        "Bairro": "NAVEGANTES - ESCALVADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-24T14:48:09-03:00"
+      },
+      {
+        "CodigoAuto": "AF8221000313A/26",
+        "Tipo": "AF",
+        "RE": "RE8221002289A",
+        "Nome_Edificacao": "Marina Luz Pereira",
+        "Logradouro": "Avenida Conselheiro João Gaya",
+        "Numero": "905",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-24T14:48:09-03:00"
+      },
+      {
+        "CodigoAuto": "AF8221000312A/26",
+        "Tipo": "AF",
+        "RE": "RE8221002667A",
+        "Nome_Edificacao": "NAES - NUCLEO AVANÇADO DE ENSINO SUPLETIVO",
+        "Logradouro": "Rua deputado Nilton kucker",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-24T14:48:09-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000311A/26",
         "Tipo": "AF",
         "RE": "RE8221003672A",
@@ -25283,8 +25316,8 @@
     "Nova Trento": 186,
     "Itapema": 413,
     "Blumenau": 397,
-    "Navegantes": 107,
+    "Navegantes": 110,
     "Itajai": 382
   },
-  "total_geral": 2290
+  "total_geral": 2293
 }
