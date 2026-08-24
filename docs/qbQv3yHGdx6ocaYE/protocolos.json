@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-24T09:26:15-03:00",
+  "timestamp": "2026-08-24T09:36:50-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8087,
-      "ultima_verificacao": "2026-08-24T09:26:15-03:00"
+      "ultima_verificacao": "2026-08-24T09:36:50-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-24T09:26:15-03:00"
+      "ultima_verificacao": "2026-08-24T09:36:50-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1521,
-      "ultima_verificacao": "2026-08-24T09:26:15-03:00"
+      "ultima_verificacao": "2026-08-24T09:36:50-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3871,
-      "ultima_verificacao": "2026-08-24T09:26:15-03:00"
+      "ultimo_numero": 3872,
+      "ultima_verificacao": "2026-08-24T09:36:50-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3378,
-      "ultima_verificacao": "2026-08-24T09:26:15-03:00"
+      "ultima_verificacao": "2026-08-24T09:36:50-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-24T09:26:15-03:00"
+      "ultima_verificacao": "2026-08-24T09:36:50-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7187,
-      "ultima_verificacao": "2026-08-24T09:26:15-03:00"
+      "ultima_verificacao": "2026-08-24T09:36:50-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12944,
-      "ultima_verificacao": "2026-08-24T09:26:15-03:00"
+      "ultima_verificacao": "2026-08-24T09:36:50-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5002,
-      "ultima_verificacao": "2026-08-24T09:26:15-03:00"
+      "ultima_verificacao": "2026-08-24T09:36:50-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14258,
-      "ultima_verificacao": "2026-08-24T09:26:15-03:00"
+      "ultima_verificacao": "2026-08-24T09:36:50-03:00"
     }
   },
   "protocolos": {
@@ -2315,6 +2315,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003872A",
+        "RE": "RE8117003032A",
+        "numgEdificacao": 336337,
+        "Nome_Edificacao": "MONIZZA FOODS LTDA",
+        "Logradouro": "RUA ANTONIO PEDRO SCHMITT",
+        "Numero": "63",
+        "Bairro": "GASPAR - CENTRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-24T09:36:50-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003871A",
         "RE": "RE8117000099A",
@@ -13179,7 +13190,7 @@
     "Brusque": 123,
     "Botuvera": 36,
     "Guabiruba": 46,
-    "Gaspar": 105,
+    "Gaspar": 106,
     "Porto Belo": 97,
     "Nova Trento": 55,
     "Itapema": 140,
@@ -13187,5 +13198,5 @@
     "Navegantes": 105,
     "Itajai": 282
   },
-  "total_geral": 1191
+  "total_geral": 1192
 }
