@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-24T08:32:41-03:00",
+  "timestamp": "2026-08-24T08:46:39-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8087,
-      "ultima_verificacao": "2026-08-24T08:32:41-03:00"
+      "ultima_verificacao": "2026-08-24T08:46:39-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-24T08:32:41-03:00"
+      "ultima_verificacao": "2026-08-24T08:46:39-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1521,
-      "ultima_verificacao": "2026-08-24T08:32:41-03:00"
+      "ultima_verificacao": "2026-08-24T08:46:39-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3871,
-      "ultima_verificacao": "2026-08-24T08:32:41-03:00"
+      "ultima_verificacao": "2026-08-24T08:46:39-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3378,
-      "ultima_verificacao": "2026-08-24T08:32:41-03:00"
+      "ultima_verificacao": "2026-08-24T08:46:39-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-24T08:32:41-03:00"
+      "ultima_verificacao": "2026-08-24T08:46:39-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7187,
-      "ultima_verificacao": "2026-08-24T08:32:41-03:00"
+      "ultima_verificacao": "2026-08-24T08:46:39-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12944,
-      "ultima_verificacao": "2026-08-24T08:32:41-03:00"
+      "ultima_verificacao": "2026-08-24T08:46:39-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5002,
-      "ultima_verificacao": "2026-08-24T08:32:41-03:00"
+      "ultima_verificacao": "2026-08-24T08:46:39-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14257,
-      "ultima_verificacao": "2026-08-24T08:32:41-03:00"
+      "ultimo_numero": 14258,
+      "ultima_verificacao": "2026-08-24T08:46:39-03:00"
     }
   },
   "protocolos": {
@@ -10072,6 +10072,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014258A",
+        "RE": "RE8161013836A",
+        "numgEdificacao": 368547,
+        "Nome_Edificacao": "ANDRÉ ALFREDO ESSER",
+        "Logradouro": "Rua Alfredo Esser",
+        "Numero": "84",
+        "Bairro": "ITAJAÍ - Cordeiros",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-24T08:46:39-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014257A",
         "RE": "RE8161001918A",
         "numgEdificacao": 62776,
@@ -13174,7 +13185,7 @@
     "Itapema": 140,
     "Blumenau": 202,
     "Navegantes": 105,
-    "Itajai": 281
+    "Itajai": 282
   },
-  "total_geral": 1190
+  "total_geral": 1191
 }
