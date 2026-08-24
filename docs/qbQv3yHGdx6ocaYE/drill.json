@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-24T12:35:12-03:00",
-  "total": 4301,
+  "timestamp": "2026-08-24T14:36:51-03:00",
+  "total": 4317,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -588,7 +588,7 @@
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1787585606.4510136
+      "_ts": 1787592798.206258
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1787585606.4510372
+      "_ts": 1787592798.2062838
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1787585606.451029
+      "_ts": 1787592798.2062757
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5105,7 +5105,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1787585598.3373137
+      "_ts": 1787592790.3592231
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5125,7 +5125,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1787585598.337279
+      "_ts": 1787592790.359204
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5332,7 +5332,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1787585652.7901866
+      "_ts": 1787592859.017131
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9440,7 +9440,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1787585585.5626748
+      "_ts": 1787592782.3914917
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9454,7 +9454,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1787585612.8006518
+      "_ts": 1787592810.060489
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -9468,7 +9468,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000015A/26",
-      "_ts": 1787585620.9642527
+      "_ts": 1787592819.2578795
     },
     "AF8051000014A/26": {
       "tipo": "AF",
@@ -9482,7 +9482,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000014A/26",
-      "_ts": 1787585627.8183305
+      "_ts": 1787592829.1655812
     },
     "AF8051000011A/26": {
       "tipo": "AF",
@@ -9524,7 +9524,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000044A/26",
-      "_ts": 1787585664.7911239
+      "_ts": 1787592879.5504224
     },
     "AF8123000040A/26": {
       "tipo": "AF",
@@ -13992,7 +13992,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1787585644.4042718
+      "_ts": 1787592845.978583
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -26572,6 +26572,7 @@
     },
     "AF8047002309A/23": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": 239.72,
       "cidade": "BLUMENAU",
       "responsavel": "HAMBURGERIA CENTRAL LTDA",
       "cpfCnpj": "43606822000204",
@@ -26582,15 +26583,16 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "18/03/2024",
-      "prazoDias": -828,
+      "prazoDias": -889,
       "bombeiroAutuacao": "Cb Luiz Henrique Pereira",
       "bloco": "BURGER BRAVO",
       "codgAuto": "AF8047002309A/23",
       "numgAuto": 249641,
-      "_ts": 1782329693.3714416
+      "_ts": 1787592962.8218048
     },
     "AF8047000803A/26": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": 239.72,
       "cidade": "BLUMENAU",
       "responsavel": "FORTALEZA BURGER LTDA",
       "cpfCnpj": "53269390000166",
@@ -26601,15 +26603,16 @@
         "Solicitar vistoria para funcionamento"
       ],
       "dataPrazo": "24/07/2026",
-      "prazoDias": 30,
+      "prazoDias": -31,
       "bombeiroAutuacao": "SubTen CARLITO Goncalves",
       "bloco": "BURGER BRAVO",
       "codgAuto": "AF8047000803A/26",
       "numgAuto": 506960,
-      "_ts": 1782329693.371487
+      "_ts": 1787592962.8218176
     },
     "MUL8047000106A/24": {
       "tipo": "MULTA",
+      "areaTotal": 239.72,
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -26623,7 +26626,7 @@
       "bloco": "BURGER BRAVO",
       "codgAuto": "MUL8047000106A/24",
       "numgAuto": 290180,
-      "_ts": 1782329693.3715248
+      "_ts": 1787592962.8218544
     },
     "AF8047000802A/26": {
       "tipo": "FISCALIZACAO",
@@ -30053,7 +30056,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1787585642.237979
+      "_ts": 1787592844.2922573
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38474,7 +38477,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1787585634.7897835
+      "_ts": 1787592837.4311428
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -38494,7 +38497,7 @@
       "bloco": "1",
       "codgAuto": "AF8123000114A/25",
       "numgAuto": 449049,
-      "_ts": 1787585634.789757
+      "_ts": 1787592837.4311278
     },
     "AF8117000482A/26": {
       "tipo": "FISCALIZACAO",
@@ -83169,6 +83172,322 @@
       "codgAuto": "AF8161001134A/26",
       "numgAuto": 523139,
       "_ts": 1787585711.868086
+    },
+    "AF8117000612A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 386.05,
+      "cidade": "GASPAR",
+      "responsavel": "Renan Wolff Luiz",
+      "cpfCnpj": "09022811948",
+      "celular": "47992643782",
+      "email": "olinger@olingerengenharia.com.br",
+      "endereco_responsavel": "Rua Paraiso dos Poneis, 103, Bela Vista, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "25/08/2027",
+      "prazoDias": 366,
+      "bombeiroAutuacao": "3º Sgt GIL Vicente Pereira",
+      "bloco": "Galpão F",
+      "codgAuto": "AF8117000612A/26",
+      "numgAuto": 523271,
+      "_ts": 1787592930.7881253
+    },
+    "AF8047000237A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 757.32,
+      "cidade": "BLUMENAU",
+      "responsavel": "Joao Evangelista Souto Neto",
+      "cpfCnpj": "70635552787",
+      "celular": "21994854323",
+      "email": "adm@tprint.com.br",
+      "endereco_responsavel": "Rua Amsterdam, 760, Itoupavazinha, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "15/02/2026",
+      "prazoDias": -190,
+      "bombeiroAutuacao": "2º Sgt Marcelo FERNANDES",
+      "bloco": "BLOCO",
+      "codgAuto": "AF8047000237A/25",
+      "numgAuto": 372021,
+      "_ts": 1787592938.9642417
+    },
+    "AF8047001110A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 757.32,
+      "cidade": "BLUMENAU",
+      "responsavel": "Joao Evangelista Souto Neto",
+      "cpfCnpj": "70635552787",
+      "celular": "21994854323",
+      "email": "adm@tprint.com.br",
+      "endereco_responsavel": "Rua Amsterdam, 760, Itoupavazinha, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "28/09/2026",
+      "prazoDias": 35,
+      "bombeiroAutuacao": "2º Sgt Marcelo FERNANDES",
+      "bloco": "BLOCO",
+      "codgAuto": "AF8047001110A/26",
+      "numgAuto": 523242,
+      "_ts": 1787592938.964253
+    },
+    "MUL8047000056A/26": {
+      "tipo": "MULTA",
+      "areaTotal": 757.32,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "BLOCO",
+      "codgAuto": "MUL8047000056A/26",
+      "numgAuto": 473775,
+      "_ts": 1787592938.964301
+    },
+    "AF8047001109A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1701.29,
+      "cidade": "BLUMENAU",
+      "responsavel": "NOBREFIO TEXTIL ACABAMENTOS ESPECIAIS LTDA",
+      "cpfCnpj": "61031547000149",
+      "celular": "47999480078",
+      "email": "contato@bcontabilidade.com.br",
+      "endereco_responsavel": "Rua Germano Kuhlmann, 699, Badenfurt, Blumenau",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____",
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "18/02/2027",
+      "prazoDias": 178,
+      "bombeiroAutuacao": "3º Sgt FERNANDO Neri Pereira",
+      "bloco": "RUA GERMANO KUHLMANN - 655/677",
+      "codgAuto": "AF8047001109A/26",
+      "numgAuto": 523210,
+      "_ts": 1787592953.6328387
+    },
+    "AF8047001108A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 239.72,
+      "cidade": "BLUMENAU",
+      "responsavel": "FORTALEZA BURGER LTDA",
+      "cpfCnpj": "53269390000166",
+      "celular": "47996758900",
+      "email": "contato@contabilidadedmiranda.com.br",
+      "endereco_responsavel": "Rua Emilia Piske, 3245, Fortaleza, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "24/09/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "SubTen CARLITO Goncalves",
+      "bloco": "BURGER BRAVO",
+      "codgAuto": "AF8047001108A/26",
+      "numgAuto": 523205,
+      "_ts": 1787592962.8218217
+    },
+    "AF8047001107A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 256.07,
+      "cidade": "BLUMENAU",
+      "responsavel": "LA VITA IMOVEIS LTDA",
+      "cpfCnpj": "20210965000116",
+      "celular": "47030355363",
+      "email": "plus@pluscontabilidade.com.br",
+      "endereco_responsavel": "Rua São Bento, 166, Vorstadt, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "24/09/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "3º Sgt ROBERSON Aender Rufino",
+      "bloco": "sala",
+      "codgAuto": "AF8047001107A/26",
+      "numgAuto": 523196,
+      "_ts": 1787592970.3120215
+    },
+    "AF8221000313A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 330.88,
+      "cidade": "NAVEGANTES",
+      "responsavel": "PRISCILA BRANDO MORAIS KLANN",
+      "cpfCnpj": "10134915992",
+      "celular": "49999601833",
+      "email": "pri1brando@gamil.com",
+      "endereco_responsavel": "Av Conselheiro Joao Gaya, 905, Centro, Navegantes",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "24/09/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Cb CARLOS Augusto Cardoso",
+      "bloco": "Marina Luz Pereira",
+      "codgAuto": "AF8221000313A/26",
+      "numgAuto": 523286,
+      "_ts": 1787592978.4610198
+    },
+    "AF8221000368A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "399.44",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)",
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "10/01/2025",
+      "prazoDias": -591,
+      "bombeiroAutuacao": "1º Sgt EVANDRO de Oliveira Vargas",
+      "bloco": "Bloco 1",
+      "codgAuto": "AF8221000368A/24",
+      "numgAuto": 302383,
+      "_ts": 1787592987.066277
+    },
+    "AF8221000312A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "399.44",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "27/11/2026",
+      "prazoDias": 95,
+      "bombeiroAutuacao": "Cb CARLOS Augusto Cardoso",
+      "bloco": "Bloco 1",
+      "codgAuto": "AF8221000312A/26",
+      "numgAuto": 523277,
+      "_ts": 1787592987.0662892
+    },
+    "MUL8221000028A/25": {
+      "tipo": "MULTA",
+      "areaTotal": "399.44",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Bloco 1",
+      "codgAuto": "MUL8221000028A/25",
+      "numgAuto": 380445,
+      "_ts": 1787592987.0663373
+    },
+    "AF8221000311A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": null,
+      "cidade": "NAVEGANTES",
+      "responsavel": "GRASIELE MEZZALIRA BORTOLOTTO",
+      "cpfCnpj": "03144650900",
+      "celular": "46999154808",
+      "email": "contatoriservicoscontabeis@gmail.com",
+      "endereco_responsavel": "Estrada Geral da Santa Lidia, 5789, Santa Lidia, Penha",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "27/11/2026",
+      "prazoDias": 95,
+      "bombeiroAutuacao": "Cb CARLOS Augusto Cardoso",
+      "bloco": "BLOCO 01 (298798)",
+      "codgAuto": "AF8221000311A/26",
+      "numgAuto": 523263,
+      "_ts": 1787592997.4834325
+    },
+    "AF8161000217A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "3421.67",
+      "cidade": "ITAJAÍ",
+      "responsavel": "Agencia de desenvolvimento Regional - ITAJAÍ",
+      "cpfCnpj": "05647957000148",
+      "celular": "48984468757",
+      "email": "sdr-itajai@iai.sdr.sc.gov.br",
+      "endereco_responsavel": "Rua Jorge Mattos, 21, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "14/02/2025",
+      "prazoDias": -556,
+      "bombeiroAutuacao": "SubTen Pascoal POLASTRI",
+      "bloco": "EEB. PROFESSOR HENRIQUE DA SILVA FONTES",
+      "codgAuto": "AF8161000217A/23",
+      "numgAuto": 166757,
+      "_ts": 1787593010.0074544
+    },
+    "AF8161001135A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "3421.67",
+      "cidade": "ITAJAÍ",
+      "responsavel": "Douglas Vill",
+      "cpfCnpj": "06997785905",
+      "celular": "47991533907",
+      "email": "douglas@mvkengenharia.com.br",
+      "endereco_responsavel": "Rua Paulo Nowasky, 01, Itoupava Central, Blumenau",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "28/09/2026",
+      "prazoDias": 35,
+      "bombeiroAutuacao": "2º Sgt ALCEMIR Schafaschek",
+      "bloco": "EEB. PROFESSOR HENRIQUE DA SILVA FONTES",
+      "codgAuto": "AF8161001135A/26",
+      "numgAuto": 523251,
+      "_ts": 1787593010.0074623
+    },
+    "AF8161000374A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "3421.67",
+      "cidade": "ITAJAÍ",
+      "responsavel": "SECRETARIA DO ESTADO DE EDUCAÇÃO",
+      "cpfCnpj": "82951328000581",
+      "celular": "48996807593",
+      "email": "silviamiguel@sed.sc.gov.br",
+      "endereco_responsavel": "Rua Antônio Luz, 121, Centro, Florianópolis",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "11/03/2027",
+      "prazoDias": 199,
+      "bombeiroAutuacao": "Cb Joao Carlos Thiesen Rosa",
+      "bloco": "EEB. PROFESSOR HENRIQUE DA SILVA FONTES",
+      "codgAuto": "AF8161000374A/26",
+      "numgAuto": 477781,
+      "_ts": 1787593010.007493
+    },
+    "MUL8161000141A/25": {
+      "tipo": "MULTA",
+      "areaTotal": "3421.67",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "EEB. PROFESSOR HENRIQUE DA SILVA FONTES",
+      "codgAuto": "MUL8161000141A/25",
+      "numgAuto": 376641,
+      "_ts": 1787593010.0074954
     }
   }
 }
