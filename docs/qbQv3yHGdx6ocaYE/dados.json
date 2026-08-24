@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-24T14:00:04-03:00",
+  "timestamp": "2026-08-24T14:05:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-08-24T14:05:31-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-08-24T14:05:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-08-24T14:05:31-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 45,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-08-24T14:05:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 109,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-08-24T14:05:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 135,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-08-24T14:05:31-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 183,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-08-24T14:05:31-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 228,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-08-24T14:05:31-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 89,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-08-24T14:05:31-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 421,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-08-24T14:05:31-03:00"
     }
   },
   "multas": {
@@ -82,7 +82,7 @@
         "Numero": "219",
         "Bairro": "BLUMENAU - ITOUPAVA NORTE",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-08-24T14:00:04-03:00"
+        "Detectado_em": "2026-08-24T14:05:31-03:00"
       },
       {
         "CodigoAuto": "MUL8047000228A/26",
@@ -92,7 +92,7 @@
         "Numero": "4535",
         "Bairro": "BLUMENAU - GARCIA",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-08-24T14:00:04-03:00"
+        "Detectado_em": "2026-08-24T14:05:31-03:00"
       },
       {
         "CodigoAuto": "MUL8047000226A/26",
@@ -1871,7 +1871,7 @@
         "Numero": "5600",
         "Bairro": "ITAJAÍ - SALSEIROS",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-08-24T14:00:04-03:00"
+        "Detectado_em": "2026-08-24T14:05:31-03:00"
       },
       {
         "CodigoAuto": "MUL8161000420A/26",
@@ -1881,7 +1881,7 @@
         "Numero": "700",
         "Bairro": "ITAJAÍ - SALSEIROS",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-08-24T14:00:04-03:00"
+        "Detectado_em": "2026-08-24T14:05:31-03:00"
       },
       {
         "CodigoAuto": "MUL8161000421A/26",
@@ -1891,7 +1891,7 @@
         "Numero": "364",
         "Bairro": "ITAJAÍ - SÃO JOÃO",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-08-24T14:00:04-03:00"
+        "Detectado_em": "2026-08-24T14:05:31-03:00"
       },
       {
         "CodigoAuto": "MUL8161000418A/26",
@@ -5406,67 +5406,39 @@
   "total_geral": 543,
   "eventos_recentes": [
     {
-      "ts": "2026-08-24T14:00:04-03:00",
+      "ts": "2026-08-24T14:05:31-03:00",
       "cidade": "Itajai",
       "codigo": "MUL8161000421A/26",
       "nome": "WAG AUTO PEÇAS",
       "re": "RE8161000827A"
     },
     {
-      "ts": "2026-08-24T14:00:04-03:00",
+      "ts": "2026-08-24T14:05:31-03:00",
       "cidade": "Itajai",
       "codigo": "MUL8161000420A/26",
       "nome": "CONEXÃO MARÍTIMA - SERVIÇOS LOGÍSTICOS S.A",
       "re": "RE8161001964A"
     },
     {
-      "ts": "2026-08-24T14:00:04-03:00",
+      "ts": "2026-08-24T14:05:31-03:00",
       "cidade": "Itajai",
       "codigo": "MUL8161000419A/26",
       "nome": "Trevo Mercosul",
       "re": "RE8161000077A"
     },
     {
-      "ts": "2026-08-24T14:00:04-03:00",
+      "ts": "2026-08-24T14:05:31-03:00",
       "cidade": "Blumenau",
       "codigo": "MUL8047000228A/26",
       "nome": "NORBERTO PAPST",
       "re": "RE8047005733A"
     },
     {
-      "ts": "2026-08-24T14:00:04-03:00",
+      "ts": "2026-08-24T14:05:31-03:00",
       "cidade": "Blumenau",
       "codigo": "MUL8047000227A/26",
       "nome": "CAÇA E TIRO ITOUPAVA  NORTE",
       "re": "RE8047004956A"
-    },
-    {
-      "ts": "2026-08-24T13:40:04-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000418A/26",
-      "nome": "CONDOMÍNIO PORTO RIVIERA – ÁREA DE LAZER",
-      "re": "RE8161002407A"
-    },
-    {
-      "ts": "2026-08-24T08:40:03-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000183A/26",
-      "nome": "SALA COMECIAL VERA TEREZINHA PRUNER FAVARETTO",
-      "re": "RE8163003563A"
-    },
-    {
-      "ts": "2026-08-24T08:24:54-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000182A/26",
-      "nome": "MAGALI TEREZINHA MOI CARRARO",
-      "re": "RE8163003201A"
-    },
-    {
-      "ts": "2026-08-24T08:24:54-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000135A/26",
-      "nome": "TAIS FRANCIELLI ERBS",
-      "re": "RE8225000502A"
     },
     {
       "ts": "2026-08-21T10:28:29-03:00",
