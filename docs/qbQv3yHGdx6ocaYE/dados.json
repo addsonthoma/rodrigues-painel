@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-21T16:20:03-03:00",
+  "timestamp": "2026-08-24T08:24:54-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-21T16:20:03-03:00"
+      "ultima_verificacao": "2026-08-24T08:24:54-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-21T16:20:03-03:00"
+      "ultima_verificacao": "2026-08-24T08:24:54-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-21T16:20:03-03:00"
+      "ultima_verificacao": "2026-08-24T08:24:54-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 45,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-21T16:20:03-03:00"
+      "ultima_verificacao": "2026-08-24T08:24:54-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 109,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-21T16:20:03-03:00"
+      "ultima_verificacao": "2026-08-24T08:24:54-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 134,
+      "ultimo_numero": 135,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-21T16:20:03-03:00"
+      "ultima_verificacao": "2026-08-24T08:24:54-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 181,
+      "ultimo_numero": 182,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-21T16:20:03-03:00"
+      "ultima_verificacao": "2026-08-24T08:24:54-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 226,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-21T16:20:03-03:00"
+      "ultima_verificacao": "2026-08-24T08:24:54-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 89,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-21T16:20:03-03:00"
+      "ultima_verificacao": "2026-08-24T08:24:54-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 417,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-21T16:20:03-03:00"
+      "ultima_verificacao": "2026-08-24T08:24:54-03:00"
     }
   },
   "multas": {
@@ -3179,6 +3179,16 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000182A/26",
+        "RE": "RE8163003201A",
+        "Nome_Edificacao": "MAGALI TEREZINHA MOI CARRARO",
+        "Logradouro": "rua 412-A",
+        "Numero": "490",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-24T08:24:54-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000181A/26",
         "RE": "RE8163000766A",
         "Nome_Edificacao": "LOPES RESTAURANTE LTDA",
@@ -4302,6 +4312,16 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000135A/26",
+        "RE": "RE8225000502A",
+        "Nome_Edificacao": "TAIS FRANCIELLI ERBS",
+        "Logradouro": "RUA SANTO INÁCIO",
+        "Numero": "202",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-24T08:24:54-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000134A/26",
         "RE": "RE8225000135A",
         "Nome_Edificacao": "JORGE HENRIQUE ARAÚJO VIANA",
@@ -5308,13 +5328,27 @@
     "Gaspar": 21,
     "Guabiruba": 3,
     "Itajai": 135,
-    "Itapema": 64,
+    "Itapema": 65,
     "Navegantes": 51,
-    "Nova Trento": 51,
+    "Nova Trento": 52,
     "Porto Belo": 52
   },
-  "total_geral": 534,
+  "total_geral": 536,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-24T08:24:54-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000182A/26",
+      "nome": "MAGALI TEREZINHA MOI CARRARO",
+      "re": "RE8163003201A"
+    },
+    {
+      "ts": "2026-08-24T08:24:54-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000135A/26",
+      "nome": "TAIS FRANCIELLI ERBS",
+      "re": "RE8225000502A"
+    },
     {
       "ts": "2026-08-21T10:28:29-03:00",
       "cidade": "Porto Belo",
