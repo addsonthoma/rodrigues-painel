@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-25T13:40:05-03:00",
+  "timestamp": "2026-08-25T14:00:05-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 118,
+      "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:40:05-03:00"
+      "ultima_verificacao": "2026-08-25T14:00:05-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:40:05-03:00"
+      "ultima_verificacao": "2026-08-25T14:00:05-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:40:05-03:00"
+      "ultima_verificacao": "2026-08-25T14:00:05-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 49,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:40:05-03:00"
+      "ultima_verificacao": "2026-08-25T14:00:05-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 110,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:40:05-03:00"
+      "ultima_verificacao": "2026-08-25T14:00:05-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 135,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:40:05-03:00"
+      "ultima_verificacao": "2026-08-25T14:00:05-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 185,
+      "ultimo_numero": 186,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:40:05-03:00"
+      "ultima_verificacao": "2026-08-25T14:00:05-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 229,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:40:05-03:00"
+      "ultima_verificacao": "2026-08-25T14:00:05-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 89,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:40:05-03:00"
+      "ultima_verificacao": "2026-08-25T14:00:05-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 423,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:40:05-03:00"
+      "ultima_verificacao": "2026-08-25T14:00:05-03:00"
     }
   },
   "multas": {
@@ -1030,6 +1030,16 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000119A/26",
+        "RE": "RE8055001147A",
+        "Nome_Edificacao": "ADMINISTRADORA NELSON LTDA",
+        "Logradouro": "Rua Blumenau",
+        "Numero": "91",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-25T14:00:05-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000116A/26",
         "RE": "RE8055000875A",
@@ -3309,6 +3319,16 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000186A/26",
+        "RE": "RE8163003491A",
+        "Nome_Edificacao": "RESIDENCIAL MAR DE BEAUFORT",
+        "Logradouro": "Rua 302",
+        "Numero": "78",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-25T14:00:05-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000184A/26",
         "RE": "RE8163006754A",
         "Nome_Edificacao": "AGRO MUNDO ANIMAL LTDA",
@@ -5494,17 +5514,31 @@
   "totais": {
     "Blumenau": 94,
     "Botuvera": 3,
-    "Brusque": 63,
+    "Brusque": 64,
     "Gaspar": 25,
     "Guabiruba": 3,
     "Itajai": 141,
-    "Itapema": 68,
+    "Itapema": 69,
     "Navegantes": 51,
     "Nova Trento": 52,
     "Porto Belo": 53
   },
-  "total_geral": 553,
+  "total_geral": 555,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-25T14:00:05-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000186A/26",
+      "nome": "RESIDENCIAL MAR DE BEAUFORT",
+      "re": "RE8163003491A"
+    },
+    {
+      "ts": "2026-08-25T14:00:05-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000119A/26",
+      "nome": "ADMINISTRADORA NELSON LTDA",
+      "re": "RE8055001147A"
+    },
     {
       "ts": "2026-08-25T13:40:05-03:00",
       "cidade": "Gaspar",
@@ -5721,13 +5755,6 @@
       "codigo": "MUL8047000224A/26",
       "nome": "CONSTRUTORA HAHNE LTDA",
       "re": "RE8047007079A"
-    },
-    {
-      "ts": "2026-08-18T13:42:50-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000181A/26",
-      "nome": "LOPES RESTAURANTE LTDA",
-      "re": "RE8163000766A"
     }
   ]
 }
