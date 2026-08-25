@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-08-25T14:40:44-03:00",
+  "timestamp": "2026-08-25T15:00:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 946,
+      "ultimo_numero": 947,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T14:40:44-03:00"
+      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T14:40:44-03:00"
+      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T14:40:44-03:00"
+      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 614,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T14:40:44-03:00"
+      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 504,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T14:40:44-03:00"
+      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 497,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T14:40:44-03:00"
+      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1147,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T14:40:44-03:00"
+      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1116,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T14:40:44-03:00"
+      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 320,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T14:40:44-03:00"
+      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1139,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T14:40:44-03:00"
+      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000947A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000325A",
+        "Nome_Edificacao": "SANTA INÊS",
+        "Logradouro": "Rua Francisco Haag",
+        "Numero": "536",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-25T15:00:27-03:00"
+      },
       {
         "CodigoAuto": "AF8055000946A/26",
         "Tipo": "AF",
@@ -25671,7 +25682,7 @@
     ]
   },
   "totais": {
-    "Brusque": 336,
+    "Brusque": 337,
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 199,
@@ -25682,5 +25693,5 @@
     "Navegantes": 116,
     "Itajai": 386
   },
-  "total_geral": 2326
+  "total_geral": 2327
 }
