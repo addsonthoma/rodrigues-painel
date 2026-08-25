@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-25T12:27:39-03:00",
+  "timestamp": "2026-08-25T13:03:29-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
+      "ultima_verificacao": "2026-08-25T13:03:29-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
+      "ultima_verificacao": "2026-08-25T13:03:29-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1523,
-      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
+      "ultima_verificacao": "2026-08-25T13:03:29-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3875,
-      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
+      "ultima_verificacao": "2026-08-25T13:03:29-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3379,
-      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
+      "ultima_verificacao": "2026-08-25T13:03:29-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
+      "ultima_verificacao": "2026-08-25T13:03:29-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7188,
-      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
+      "ultima_verificacao": "2026-08-25T13:03:29-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12948,
-      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
+      "ultima_verificacao": "2026-08-25T13:03:29-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5003,
-      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
+      "ultimo_numero": 5004,
+      "ultima_verificacao": "2026-08-25T13:03:29-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14264,
-      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
+      "ultima_verificacao": "2026-08-25T13:03:29-03:00"
     }
   },
   "protocolos": {
@@ -9058,6 +9058,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005004A",
+        "RE": "RE8221004137A",
+        "numgEdificacao": 368694,
+        "Nome_Edificacao": "GALPÃO COMERCIAL",
+        "Logradouro": "RUA OSVALDO JOSE REISER",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-25T13:03:29-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005003A",
         "RE": "RE8221000852A",
         "numgEdificacao": 90348,
@@ -13404,8 +13415,8 @@
     "Nova Trento": 55,
     "Itapema": 141,
     "Blumenau": 206,
-    "Navegantes": 106,
+    "Navegantes": 107,
     "Itajai": 288
   },
-  "total_geral": 1211
+  "total_geral": 1212
 }

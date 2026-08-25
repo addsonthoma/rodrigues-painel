@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-25T12:19:23-03:00",
+  "timestamp": "2026-08-25T12:54:42-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
+      "ultima_verificacao": "2026-08-25T12:54:42-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
+      "ultima_verificacao": "2026-08-25T12:54:42-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
+      "ultima_verificacao": "2026-08-25T12:54:42-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
-      "ultimo_numero": 46,
+      "ultimo_numero": 47,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
+      "ultima_verificacao": "2026-08-25T12:54:42-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 110,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
+      "ultima_verificacao": "2026-08-25T12:54:42-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 135,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
+      "ultima_verificacao": "2026-08-25T12:54:42-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 183,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
+      "ultima_verificacao": "2026-08-25T12:54:42-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 229,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
+      "ultima_verificacao": "2026-08-25T12:54:42-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 89,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
+      "ultima_verificacao": "2026-08-25T12:54:42-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 423,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
+      "ultima_verificacao": "2026-08-25T12:54:42-03:00"
     }
   },
   "multas": {
@@ -1647,6 +1647,16 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "MUL8117000047A/26",
+        "RE": "RE8117001133A",
+        "Nome_Edificacao": "Maicon Augustinho dos Santos ME",
+        "Logradouro": "Rua São Bento",
+        "Numero": "1950",
+        "Bairro": "GASPAR - GASPAR MIRIM",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-25T12:54:42-03:00"
+      },
       {
         "CodigoAuto": "MUL8117000046A/26",
         "RE": "RE8117002903A",
@@ -5445,7 +5455,7 @@
     "Blumenau": 94,
     "Botuvera": 3,
     "Brusque": 63,
-    "Gaspar": 22,
+    "Gaspar": 23,
     "Guabiruba": 3,
     "Itajai": 141,
     "Itapema": 66,
@@ -5453,8 +5463,15 @@
     "Nova Trento": 52,
     "Porto Belo": 53
   },
-  "total_geral": 548,
+  "total_geral": 549,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-25T12:54:42-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000047A/26",
+      "nome": "Maicon Augustinho dos Santos ME",
+      "re": "RE8117001133A"
+    },
     {
       "ts": "2026-08-25T12:19:23-03:00",
       "cidade": "Porto Belo",
