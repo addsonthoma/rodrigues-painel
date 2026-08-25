@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-25T10:16:31-03:00",
+  "timestamp": "2026-08-25T10:26:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8087,
-      "ultima_verificacao": "2026-08-25T10:16:31-03:00"
+      "ultima_verificacao": "2026-08-25T10:26:26-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-25T10:16:31-03:00"
+      "ultima_verificacao": "2026-08-25T10:26:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1523,
-      "ultima_verificacao": "2026-08-25T10:16:31-03:00"
+      "ultima_verificacao": "2026-08-25T10:26:26-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3874,
-      "ultima_verificacao": "2026-08-25T10:16:31-03:00"
+      "ultimo_numero": 3875,
+      "ultima_verificacao": "2026-08-25T10:26:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3379,
-      "ultima_verificacao": "2026-08-25T10:16:31-03:00"
+      "ultima_verificacao": "2026-08-25T10:26:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-25T10:16:31-03:00"
+      "ultima_verificacao": "2026-08-25T10:26:26-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7188,
-      "ultima_verificacao": "2026-08-25T10:16:31-03:00"
+      "ultima_verificacao": "2026-08-25T10:26:26-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12947,
-      "ultima_verificacao": "2026-08-25T10:16:31-03:00"
+      "ultima_verificacao": "2026-08-25T10:26:26-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5002,
-      "ultima_verificacao": "2026-08-25T10:16:31-03:00"
+      "ultima_verificacao": "2026-08-25T10:26:26-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14264,
-      "ultima_verificacao": "2026-08-25T10:16:31-03:00"
+      "ultima_verificacao": "2026-08-25T10:26:26-03:00"
     }
   },
   "protocolos": {
@@ -2337,6 +2337,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003875A",
+        "RE": "RE8117000438A",
+        "numgEdificacao": 35255,
+        "Nome_Edificacao": "BRITAGEM GASPAR LTDA",
+        "Logradouro": "Rodovia Ingo Hering",
+        "Numero": "9961",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-25T10:26:26-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003874A",
         "RE": "RE8117003207A",
@@ -13355,7 +13366,7 @@
     "Brusque": 123,
     "Botuvera": 36,
     "Guabiruba": 48,
-    "Gaspar": 108,
+    "Gaspar": 109,
     "Porto Belo": 98,
     "Nova Trento": 55,
     "Itapema": 141,
@@ -13363,5 +13374,5 @@
     "Navegantes": 105,
     "Itajai": 288
   },
-  "total_geral": 1207
+  "total_geral": 1208
 }
