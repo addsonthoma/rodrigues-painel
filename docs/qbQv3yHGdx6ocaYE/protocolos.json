@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-25T20:10:47-03:00",
+  "timestamp": "2026-08-25T20:42:18-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-25T20:10:47-03:00"
+      "ultima_verificacao": "2026-08-25T20:42:18-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-25T20:10:47-03:00"
+      "ultima_verificacao": "2026-08-25T20:42:18-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1524,
-      "ultima_verificacao": "2026-08-25T20:10:47-03:00"
+      "ultima_verificacao": "2026-08-25T20:42:18-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3876,
-      "ultima_verificacao": "2026-08-25T20:10:47-03:00"
+      "ultima_verificacao": "2026-08-25T20:42:18-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-25T20:10:47-03:00"
+      "ultima_verificacao": "2026-08-25T20:42:18-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-25T20:10:47-03:00"
+      "ultima_verificacao": "2026-08-25T20:42:18-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7189,
-      "ultima_verificacao": "2026-08-25T20:10:47-03:00"
+      "ultima_verificacao": "2026-08-25T20:42:18-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12954,
-      "ultima_verificacao": "2026-08-25T20:10:47-03:00"
+      "ultima_verificacao": "2026-08-25T20:42:18-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5004,
-      "ultima_verificacao": "2026-08-25T20:10:47-03:00"
+      "ultima_verificacao": "2026-08-25T20:42:18-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14266,
-      "ultima_verificacao": "2026-08-25T20:10:47-03:00"
+      "ultimo_numero": 14268,
+      "ultima_verificacao": "2026-08-25T20:42:18-03:00"
     }
   },
   "protocolos": {
@@ -10347,6 +10347,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014268A",
+        "RE": "RE8161007743A",
+        "numgEdificacao": 207031,
+        "Nome_Edificacao": "H.X. ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Antônio Caetano",
+        "Numero": "105",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-25T20:42:18-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014267A",
+        "RE": "RE8161007743A",
+        "numgEdificacao": 207031,
+        "Nome_Edificacao": "H.X. ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Antônio Caetano",
+        "Numero": "105",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-25T20:42:18-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014266A",
         "RE": "RE8161013822A",
         "numgEdificacao": 368033,
@@ -13548,7 +13570,7 @@
     "Itapema": 142,
     "Blumenau": 212,
     "Navegantes": 107,
-    "Itajai": 290
+    "Itajai": 292
   },
-  "total_geral": 1224
+  "total_geral": 1226
 }
