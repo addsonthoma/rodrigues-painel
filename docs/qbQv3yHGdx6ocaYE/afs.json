@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-08-25T15:30:20-03:00",
+  "timestamp": "2026-08-25T15:40:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 949,
+      "ultimo_numero": 950,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:30:20-03:00"
+      "ultima_verificacao": "2026-08-25T15:40:30-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:30:20-03:00"
+      "ultima_verificacao": "2026-08-25T15:40:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:30:20-03:00"
+      "ultima_verificacao": "2026-08-25T15:40:30-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 614,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:30:20-03:00"
+      "ultima_verificacao": "2026-08-25T15:40:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 504,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:30:20-03:00"
+      "ultima_verificacao": "2026-08-25T15:40:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 497,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:30:20-03:00"
+      "ultima_verificacao": "2026-08-25T15:40:30-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1147,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:30:20-03:00"
+      "ultima_verificacao": "2026-08-25T15:40:30-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1117,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:30:20-03:00"
+      "ultima_verificacao": "2026-08-25T15:40:30-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 320,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:30:20-03:00"
+      "ultima_verificacao": "2026-08-25T15:40:30-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1139,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:30:20-03:00"
+      "ultima_verificacao": "2026-08-25T15:40:30-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000950A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005073A",
+        "Nome_Edificacao": "MERCADO E AÇOUGUE RIEG",
+        "Logradouro": "Rua Catarina Staack",
+        "Numero": "21",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-25T15:40:30-03:00"
+      },
       {
         "CodigoAuto": "AF8055000949A/26",
         "Tipo": "AF",
@@ -25715,7 +25726,7 @@
     ]
   },
   "totais": {
-    "Brusque": 339,
+    "Brusque": 340,
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 199,
@@ -25726,5 +25737,5 @@
     "Navegantes": 116,
     "Itajai": 386
   },
-  "total_geral": 2330
+  "total_geral": 2331
 }
