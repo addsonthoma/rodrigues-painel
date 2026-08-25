@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-08-25T15:00:27-03:00",
+  "timestamp": "2026-08-25T15:20:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 947,
+      "ultimo_numero": 948,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
+      "ultima_verificacao": "2026-08-25T15:20:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
+      "ultima_verificacao": "2026-08-25T15:20:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
+      "ultima_verificacao": "2026-08-25T15:20:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 614,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
+      "ultima_verificacao": "2026-08-25T15:20:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 504,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
+      "ultima_verificacao": "2026-08-25T15:20:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 497,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
+      "ultima_verificacao": "2026-08-25T15:20:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1147,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
+      "ultima_verificacao": "2026-08-25T15:20:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1116,
+      "ultimo_numero": 1117,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
+      "ultima_verificacao": "2026-08-25T15:20:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 320,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
+      "ultima_verificacao": "2026-08-25T15:20:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1139,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T15:00:27-03:00"
+      "ultima_verificacao": "2026-08-25T15:20:19-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000948A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001412A",
+        "Nome_Edificacao": "C & V Administradora de Bens - predio Rubik",
+        "Logradouro": "RUA MIGUEL AUGUSTO RUBIK",
+        "Numero": "220",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-25T15:20:19-03:00"
+      },
       {
         "CodigoAuto": "AF8055000947A/26",
         "Tipo": "AF",
@@ -15721,6 +15732,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001117A/26",
+        "Tipo": "AF",
+        "RE": "RE8047012057A",
+        "Nome_Edificacao": "LAVANDERIA SOFTCLEAN",
+        "Logradouro": "Rua Floriano Peixoto",
+        "Numero": "450",
+        "Bairro": "BLUMENAU - Bom Retiro",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-25T15:20:19-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001116A/26",
         "Tipo": "AF",
         "RE": "RE8047011373A",
@@ -25682,16 +25704,16 @@
     ]
   },
   "totais": {
-    "Brusque": 337,
+    "Brusque": 338,
     "Botuvera": 32,
     "Guabiruba": 41,
     "Gaspar": 199,
     "Porto Belo": 213,
     "Nova Trento": 187,
     "Itapema": 413,
-    "Blumenau": 403,
+    "Blumenau": 404,
     "Navegantes": 116,
     "Itajai": 386
   },
-  "total_geral": 2327
+  "total_geral": 2329
 }
