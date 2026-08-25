@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-25T11:26:43-03:00",
+  "timestamp": "2026-08-25T11:36:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8087,
-      "ultima_verificacao": "2026-08-25T11:26:43-03:00"
+      "ultimo_numero": 8088,
+      "ultima_verificacao": "2026-08-25T11:36:26-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-25T11:26:43-03:00"
+      "ultima_verificacao": "2026-08-25T11:36:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1523,
-      "ultima_verificacao": "2026-08-25T11:26:43-03:00"
+      "ultima_verificacao": "2026-08-25T11:36:26-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3875,
-      "ultima_verificacao": "2026-08-25T11:26:43-03:00"
+      "ultima_verificacao": "2026-08-25T11:36:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3379,
-      "ultima_verificacao": "2026-08-25T11:26:43-03:00"
+      "ultima_verificacao": "2026-08-25T11:36:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-25T11:26:43-03:00"
+      "ultima_verificacao": "2026-08-25T11:36:26-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7188,
-      "ultima_verificacao": "2026-08-25T11:26:43-03:00"
+      "ultima_verificacao": "2026-08-25T11:36:26-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12947,
-      "ultima_verificacao": "2026-08-25T11:26:43-03:00"
+      "ultima_verificacao": "2026-08-25T11:36:26-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5002,
-      "ultima_verificacao": "2026-08-25T11:26:43-03:00"
+      "ultimo_numero": 5003,
+      "ultima_verificacao": "2026-08-25T11:36:26-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14264,
-      "ultima_verificacao": "2026-08-25T11:26:43-03:00"
+      "ultima_verificacao": "2026-08-25T11:36:26-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008088A",
+        "RE": "RE8055006804A",
+        "numgEdificacao": 368678,
+        "Nome_Edificacao": "PRÉDIO 15 APTOS - BBK - LT. JARDIM DAS HORTENSIAS",
+        "Logradouro": "RUA 200, LOT JARDIM DAS HORTENCIAS",
+        "Numero": "",
+        "Bairro": "BRUSQUE - SÃO JOÃO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-25T11:36:26-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008087A",
         "RE": "RE8055006803A",
@@ -9036,6 +9047,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005003A",
+        "RE": "RE8221000852A",
+        "numgEdificacao": 90348,
+        "Nome_Edificacao": "CONDOMÍNIO DE GALPÕES",
+        "Logradouro": "Rua Onorio Bortolato",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - PEDREIRAS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-25T11:36:26-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005002A",
         "RE": "RE8221003778A",
         "numgEdificacao": 340694,
@@ -13363,7 +13385,7 @@
     ]
   },
   "totais": {
-    "Brusque": 123,
+    "Brusque": 124,
     "Botuvera": 36,
     "Guabiruba": 48,
     "Gaspar": 109,
@@ -13371,8 +13393,8 @@
     "Nova Trento": 55,
     "Itapema": 141,
     "Blumenau": 205,
-    "Navegantes": 105,
+    "Navegantes": 106,
     "Itajai": 288
   },
-  "total_geral": 1208
+  "total_geral": 1210
 }
