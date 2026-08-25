@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-25T17:26:51-03:00",
+  "timestamp": "2026-08-25T17:36:41-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-25T17:26:51-03:00"
+      "ultima_verificacao": "2026-08-25T17:36:41-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-25T17:26:51-03:00"
+      "ultima_verificacao": "2026-08-25T17:36:41-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1523,
-      "ultima_verificacao": "2026-08-25T17:26:51-03:00"
+      "ultima_verificacao": "2026-08-25T17:36:41-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3876,
-      "ultima_verificacao": "2026-08-25T17:26:51-03:00"
+      "ultima_verificacao": "2026-08-25T17:36:41-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-25T17:26:51-03:00"
+      "ultima_verificacao": "2026-08-25T17:36:41-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-25T17:26:51-03:00"
+      "ultima_verificacao": "2026-08-25T17:36:41-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7189,
-      "ultima_verificacao": "2026-08-25T17:26:51-03:00"
+      "ultima_verificacao": "2026-08-25T17:36:41-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12951,
-      "ultima_verificacao": "2026-08-25T17:26:51-03:00"
+      "ultimo_numero": 12952,
+      "ultima_verificacao": "2026-08-25T17:36:41-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5004,
-      "ultima_verificacao": "2026-08-25T17:26:51-03:00"
+      "ultima_verificacao": "2026-08-25T17:36:41-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14266,
-      "ultima_verificacao": "2026-08-25T17:26:51-03:00"
+      "ultima_verificacao": "2026-08-25T17:36:41-03:00"
     }
   },
   "protocolos": {
@@ -6823,6 +6823,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012952A",
+        "RE": "RE8047011615A",
+        "numgEdificacao": 346898,
+        "Nome_Edificacao": "KOCH KOMPRÃO BLUMENAU - UNIDADE TESTO SALTO",
+        "Logradouro": "Rua Werner Duwe",
+        "Numero": "4900",
+        "Bairro": "BLUMENAU - TESTO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-25T17:36:41-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012951A",
         "RE": "RE8047011125A",
         "numgEdificacao": 326925,
@@ -13502,9 +13513,9 @@
     "Porto Belo": 99,
     "Nova Trento": 55,
     "Itapema": 142,
-    "Blumenau": 209,
+    "Blumenau": 210,
     "Navegantes": 107,
     "Itajai": 290
   },
-  "total_geral": 1220
+  "total_geral": 1221
 }
