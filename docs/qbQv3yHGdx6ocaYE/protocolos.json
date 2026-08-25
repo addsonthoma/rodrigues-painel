@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-25T15:46:02-03:00",
+  "timestamp": "2026-08-25T16:27:52-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-25T15:46:02-03:00"
+      "ultima_verificacao": "2026-08-25T16:27:52-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-25T15:46:02-03:00"
+      "ultima_verificacao": "2026-08-25T16:27:52-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1523,
-      "ultima_verificacao": "2026-08-25T15:46:02-03:00"
+      "ultima_verificacao": "2026-08-25T16:27:52-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3875,
-      "ultima_verificacao": "2026-08-25T15:46:02-03:00"
+      "ultima_verificacao": "2026-08-25T16:27:52-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3379,
-      "ultima_verificacao": "2026-08-25T15:46:02-03:00"
+      "ultimo_numero": 3380,
+      "ultima_verificacao": "2026-08-25T16:27:52-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-25T15:46:02-03:00"
+      "ultima_verificacao": "2026-08-25T16:27:52-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7188,
-      "ultima_verificacao": "2026-08-25T15:46:02-03:00"
+      "ultima_verificacao": "2026-08-25T16:27:52-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12949,
-      "ultima_verificacao": "2026-08-25T15:46:02-03:00"
+      "ultimo_numero": 12951,
+      "ultima_verificacao": "2026-08-25T16:27:52-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5004,
-      "ultima_verificacao": "2026-08-25T15:46:02-03:00"
+      "ultima_verificacao": "2026-08-25T16:27:52-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14265,
-      "ultima_verificacao": "2026-08-25T15:46:02-03:00"
+      "ultima_verificacao": "2026-08-25T16:27:52-03:00"
     }
   },
   "protocolos": {
@@ -3550,6 +3550,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003380A",
+        "RE": "RE8265002828A",
+        "numgEdificacao": 368742,
+        "Nome_Edificacao": "JEAN RICARDO VIEIRA",
+        "Logradouro": "RUA HERMÓGENES DA SILVA",
+        "Numero": "10",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-25T16:27:52-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003379A",
         "RE": "RE8265000340A",
         "numgEdificacao": 59394,
@@ -6789,6 +6800,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012951A",
+        "RE": "RE8047011125A",
+        "numgEdificacao": 326925,
+        "Nome_Edificacao": "FELME ADMINISTRACAO E PARTICIPACAO LTDA",
+        "Logradouro": "R DA GLORIA",
+        "Numero": "532",
+        "Bairro": "BLUMENAU - GLÓRIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-25T16:27:52-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012950A",
+        "RE": "RE8047010872A",
+        "numgEdificacao": 315819,
+        "Nome_Edificacao": "SUPERMERCARDO EFATA",
+        "Logradouro": "Rua Gustavo Maier",
+        "Numero": "27",
+        "Bairro": "BLUMENAU - PROGRESSO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-25T16:27:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012949A",
         "RE": "RE8047012111A",
@@ -13433,12 +13466,12 @@
     "Botuvera": 36,
     "Guabiruba": 48,
     "Gaspar": 109,
-    "Porto Belo": 98,
+    "Porto Belo": 99,
     "Nova Trento": 55,
     "Itapema": 141,
-    "Blumenau": 207,
+    "Blumenau": 209,
     "Navegantes": 107,
     "Itajai": 289
   },
-  "total_geral": 1214
+  "total_geral": 1217
 }
