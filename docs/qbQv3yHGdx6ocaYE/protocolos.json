@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-25T10:38:12-03:00",
+  "timestamp": "2026-08-25T12:27:39-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8087,
-      "ultima_verificacao": "2026-08-25T10:38:12-03:00"
+      "ultimo_numero": 8088,
+      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-25T10:38:12-03:00"
+      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1523,
-      "ultima_verificacao": "2026-08-25T10:38:12-03:00"
+      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3874,
-      "ultima_verificacao": "2026-08-25T10:38:12-03:00"
+      "ultimo_numero": 3875,
+      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3378,
-      "ultima_verificacao": "2026-08-25T10:38:12-03:00"
+      "ultimo_numero": 3379,
+      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-25T10:38:12-03:00"
+      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7188,
-      "ultima_verificacao": "2026-08-25T10:38:12-03:00"
+      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12947,
-      "ultima_verificacao": "2026-08-25T10:38:12-03:00"
+      "ultimo_numero": 12948,
+      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5002,
-      "ultima_verificacao": "2026-08-25T10:38:12-03:00"
+      "ultimo_numero": 5003,
+      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14263,
-      "ultima_verificacao": "2026-08-25T10:38:12-03:00"
+      "ultimo_numero": 14264,
+      "ultima_verificacao": "2026-08-25T12:27:39-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008088A",
+        "RE": "RE8055006804A",
+        "numgEdificacao": 368678,
+        "Nome_Edificacao": "PRÉDIO 15 APTOS - BBK - LT. JARDIM DAS HORTENSIAS",
+        "Logradouro": "RUA 200, LOT JARDIM DAS HORTENCIAS",
+        "Numero": "",
+        "Bairro": "BRUSQUE - SÃO JOÃO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-25T12:27:39-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008087A",
         "RE": "RE8055006803A",
@@ -2338,6 +2349,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003875A",
+        "RE": "RE8117000438A",
+        "numgEdificacao": 35255,
+        "Nome_Edificacao": "BRITAGEM GASPAR LTDA",
+        "Logradouro": "Rodovia Ingo Hering",
+        "Numero": "9961",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-25T12:27:39-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003874A",
         "RE": "RE8117003207A",
         "numgEdificacao": 359929,
@@ -3527,6 +3549,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003379A",
+        "RE": "RE8265000340A",
+        "numgEdificacao": 59394,
+        "Nome_Edificacao": "EDIFICIO FERNANDA",
+        "Logradouro": "AVENIDA SENADOR ATILIO FONTANA",
+        "Numero": "1435",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-25T12:27:39-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003378A",
         "RE": "RE8265000982A",
@@ -6757,6 +6790,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012948A",
+        "RE": "RE8047001074A",
+        "numgEdificacao": 38638,
+        "Nome_Edificacao": "BELLA JANELA INDUSTRIA DE CORTINAS LTDA",
+        "Logradouro": "Rua Amazonas",
+        "Numero": "2500",
+        "Bairro": "BLUMENAU - GARCIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-25T12:27:39-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012947A",
         "RE": "RE8047011309A",
         "numgEdificacao": 334017,
@@ -9014,6 +9058,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005003A",
+        "RE": "RE8221000852A",
+        "numgEdificacao": 90348,
+        "Nome_Edificacao": "CONDOMÍNIO DE GALPÕES",
+        "Logradouro": "Rua Onorio Bortolato",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - PEDREIRAS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-25T12:27:39-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005002A",
         "RE": "RE8221003778A",
         "numgEdificacao": 340694,
@@ -10170,6 +10225,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014264A",
+        "RE": "RE8161001873A",
+        "numgEdificacao": 60374,
+        "Nome_Edificacao": "SIDRASUL ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Alvaro Beraldi",
+        "Numero": "461",
+        "Bairro": "ITAJAÍ - CANHANDUBA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-25T12:27:39-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014263A",
         "RE": "RE8161013841A",
@@ -13330,16 +13396,16 @@
     ]
   },
   "totais": {
-    "Brusque": 123,
+    "Brusque": 124,
     "Botuvera": 36,
     "Guabiruba": 48,
-    "Gaspar": 108,
-    "Porto Belo": 97,
+    "Gaspar": 109,
+    "Porto Belo": 98,
     "Nova Trento": 55,
     "Itapema": 141,
-    "Blumenau": 205,
-    "Navegantes": 105,
-    "Itajai": 287
+    "Blumenau": 206,
+    "Navegantes": 106,
+    "Itajai": 288
   },
-  "total_geral": 1205
+  "total_geral": 1211
 }

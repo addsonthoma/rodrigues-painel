@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-25T07:58:31-03:00",
+  "timestamp": "2026-08-25T12:19:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T07:58:31-03:00"
+      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T07:58:31-03:00"
+      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T07:58:31-03:00"
+      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 46,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T07:58:31-03:00"
+      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 109,
+      "ultimo_numero": 110,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T07:58:31-03:00"
+      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 135,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T07:58:31-03:00"
+      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 183,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T07:58:31-03:00"
+      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 229,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T07:58:31-03:00"
+      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 89,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T07:58:31-03:00"
+      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 423,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T07:58:31-03:00"
+      "ultima_verificacao": "2026-08-25T12:19:23-03:00"
     }
   },
   "multas": {
@@ -4928,6 +4928,16 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "MUL8265000110A/26",
+        "RE": "RE8265001587A",
+        "Nome_Edificacao": "Empreendimentos ALD LTDA",
+        "Logradouro": "RUA JOÃO DE BARRO",
+        "Numero": "863",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-25T12:19:23-03:00"
+      },
+      {
         "CodigoAuto": "MUL8265000109A/26",
         "RE": "RE8265000955A",
         "Nome_Edificacao": "EDIFÍCIO PORTO SOL",
@@ -5441,10 +5451,17 @@
     "Itapema": 66,
     "Navegantes": 51,
     "Nova Trento": 52,
-    "Porto Belo": 52
+    "Porto Belo": 53
   },
-  "total_geral": 547,
+  "total_geral": 548,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-25T12:19:23-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000110A/26",
+      "nome": "Empreendimentos ALD LTDA",
+      "re": "RE8265001587A"
+    },
     {
       "ts": "2026-08-24T15:26:25-03:00",
       "cidade": "Gaspar",
@@ -5598,20 +5615,6 @@
       "codigo": "MUL8163000181A/26",
       "nome": "LOPES RESTAURANTE LTDA",
       "re": "RE8163000766A"
-    },
-    {
-      "ts": "2026-08-18T10:27:01-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000132A/26",
-      "nome": "SERGIO VALDECI TOMASI",
-      "re": "RE8225000566A"
-    },
-    {
-      "ts": "2026-08-18T09:33:52-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000131A/26",
-      "nome": "FLORINDO MARTINELLI",
-      "re": "RE8225000373A"
     }
   ]
 }
