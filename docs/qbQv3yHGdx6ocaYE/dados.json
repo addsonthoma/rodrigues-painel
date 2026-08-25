@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-25T13:10:04-03:00",
+  "timestamp": "2026-08-25T13:20:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:10:04-03:00"
+      "ultima_verificacao": "2026-08-25T13:20:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:10:04-03:00"
+      "ultima_verificacao": "2026-08-25T13:20:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:10:04-03:00"
+      "ultima_verificacao": "2026-08-25T13:20:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 48,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:10:04-03:00"
+      "ultima_verificacao": "2026-08-25T13:20:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 110,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:10:04-03:00"
+      "ultima_verificacao": "2026-08-25T13:20:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 135,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:10:04-03:00"
+      "ultima_verificacao": "2026-08-25T13:20:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 183,
+      "ultimo_numero": 185,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:10:04-03:00"
+      "ultima_verificacao": "2026-08-25T13:20:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 229,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:10:04-03:00"
+      "ultima_verificacao": "2026-08-25T13:20:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 89,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:10:04-03:00"
+      "ultima_verificacao": "2026-08-25T13:20:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 423,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-25T13:10:04-03:00"
+      "ultima_verificacao": "2026-08-25T13:20:04-03:00"
     }
   },
   "multas": {
@@ -3299,6 +3299,26 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000184A/26",
+        "RE": "RE8163006754A",
+        "Nome_Edificacao": "AGRO MUNDO ANIMAL LTDA",
+        "Logradouro": "RUA 600",
+        "Numero": "555",
+        "Bairro": "ITAPEMA - TABULEIRO DOS OLIVEIRAS",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-25T13:20:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000185A/26",
+        "RE": "RE8163003181A",
+        "Nome_Edificacao": "COMERCIAL FERREIRA 2",
+        "Logradouro": "RUA 806 - B",
+        "Numero": "876",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-25T13:20:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000183A/26",
         "RE": "RE8163003563A",
         "Nome_Edificacao": "SALA COMECIAL VERA TEREZINHA PRUNER FAVARETTO",
@@ -5468,13 +5488,27 @@
     "Gaspar": 24,
     "Guabiruba": 3,
     "Itajai": 141,
-    "Itapema": 66,
+    "Itapema": 68,
     "Navegantes": 51,
     "Nova Trento": 52,
     "Porto Belo": 53
   },
-  "total_geral": 550,
+  "total_geral": 552,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-25T13:20:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000185A/26",
+      "nome": "COMERCIAL FERREIRA 2",
+      "re": "RE8163003181A"
+    },
+    {
+      "ts": "2026-08-25T13:20:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000184A/26",
+      "nome": "AGRO MUNDO ANIMAL LTDA",
+      "re": "RE8163006754A"
+    },
     {
       "ts": "2026-08-25T13:10:04-03:00",
       "cidade": "Gaspar",
