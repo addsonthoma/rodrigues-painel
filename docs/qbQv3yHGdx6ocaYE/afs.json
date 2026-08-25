@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-25T08:10:26-03:00",
+  "timestamp": "2026-08-25T08:20:25-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 945,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T08:10:26-03:00"
+      "ultima_verificacao": "2026-08-25T08:20:25-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T08:10:26-03:00"
+      "ultima_verificacao": "2026-08-25T08:20:25-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T08:10:26-03:00"
+      "ultima_verificacao": "2026-08-25T08:20:25-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 614,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T08:10:26-03:00"
+      "ultima_verificacao": "2026-08-25T08:20:25-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 493,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T08:10:26-03:00"
+      "ultima_verificacao": "2026-08-25T08:20:25-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 496,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T08:10:26-03:00"
+      "ultima_verificacao": "2026-08-25T08:20:25-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1147,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T08:10:26-03:00"
+      "ultima_verificacao": "2026-08-25T08:20:25-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1111,
+      "ultimo_numero": 1112,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T08:10:26-03:00"
+      "ultima_verificacao": "2026-08-25T08:20:25-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 315,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T08:10:26-03:00"
+      "ultima_verificacao": "2026-08-25T08:20:25-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1138,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T08:10:26-03:00"
+      "ultima_verificacao": "2026-08-25T08:20:25-03:00"
     }
   },
   "afs": {
@@ -15567,6 +15567,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001112A/26",
+        "Tipo": "AF",
+        "RE": "RE8047004503A",
+        "Nome_Edificacao": "ERNESTO J. LUCCHESI SANTOS E OUTROS",
+        "Logradouro": "RUA 15 DE NOVEMBRO",
+        "Numero": "801",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-25T08:20:25-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001111A/26",
         "Tipo": "AF",
         "RE": "RE8047000323A",
@@ -25414,9 +25425,9 @@
     "Porto Belo": 202,
     "Nova Trento": 186,
     "Itapema": 413,
-    "Blumenau": 398,
+    "Blumenau": 399,
     "Navegantes": 111,
     "Itajai": 385
   },
-  "total_geral": 2302
+  "total_geral": 2303
 }
