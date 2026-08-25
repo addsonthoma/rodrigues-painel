@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-25T12:30:22-03:00",
+  "timestamp": "2026-08-25T12:40:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 946,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T12:30:22-03:00"
+      "ultima_verificacao": "2026-08-25T12:40:20-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T12:30:22-03:00"
+      "ultima_verificacao": "2026-08-25T12:40:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T12:30:22-03:00"
+      "ultima_verificacao": "2026-08-25T12:40:20-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 614,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T12:30:22-03:00"
+      "ultima_verificacao": "2026-08-25T12:40:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 501,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T12:30:22-03:00"
+      "ultima_verificacao": "2026-08-25T12:40:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 496,
+      "ultimo_numero": 497,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T12:30:22-03:00"
+      "ultima_verificacao": "2026-08-25T12:40:20-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1147,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T12:30:22-03:00"
+      "ultima_verificacao": "2026-08-25T12:40:20-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1114,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T12:30:22-03:00"
+      "ultima_verificacao": "2026-08-25T12:40:20-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 315,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T12:30:22-03:00"
+      "ultima_verificacao": "2026-08-25T12:40:20-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1139,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-25T12:30:22-03:00"
+      "ultima_verificacao": "2026-08-25T12:40:20-03:00"
     }
   },
   "afs": {
@@ -9072,6 +9072,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000497A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000780A",
+        "Nome_Edificacao": "CAPELA SANTO ISIDORO",
+        "Logradouro": "RUA GERAL SERRAVAL",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - SERRAVAL",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-25T12:40:20-03:00"
+      },
       {
         "CodigoAuto": "AF8225000496A/26",
         "Tipo": "AF",
@@ -25555,11 +25566,11 @@
     "Guabiruba": 41,
     "Gaspar": 199,
     "Porto Belo": 210,
-    "Nova Trento": 186,
+    "Nova Trento": 187,
     "Itapema": 413,
     "Blumenau": 401,
     "Navegantes": 111,
     "Itajai": 386
   },
-  "total_geral": 2315
+  "total_geral": 2316
 }
