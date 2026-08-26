@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-26T09:56:38-03:00",
+  "timestamp": "2026-08-26T10:06:45-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-26T09:56:38-03:00"
+      "ultima_verificacao": "2026-08-26T10:06:45-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-26T09:56:38-03:00"
+      "ultima_verificacao": "2026-08-26T10:06:45-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1524,
-      "ultima_verificacao": "2026-08-26T09:56:38-03:00"
+      "ultimo_numero": 1525,
+      "ultima_verificacao": "2026-08-26T10:06:45-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3876,
-      "ultima_verificacao": "2026-08-26T09:56:38-03:00"
+      "ultima_verificacao": "2026-08-26T10:06:45-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-26T09:56:38-03:00"
+      "ultima_verificacao": "2026-08-26T10:06:45-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 971,
-      "ultima_verificacao": "2026-08-26T09:56:38-03:00"
+      "ultima_verificacao": "2026-08-26T10:06:45-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7191,
-      "ultima_verificacao": "2026-08-26T09:56:38-03:00"
+      "ultima_verificacao": "2026-08-26T10:06:45-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12955,
-      "ultima_verificacao": "2026-08-26T09:56:38-03:00"
+      "ultima_verificacao": "2026-08-26T10:06:45-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5004,
-      "ultima_verificacao": "2026-08-26T09:56:38-03:00"
+      "ultima_verificacao": "2026-08-26T10:06:45-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14268,
-      "ultima_verificacao": "2026-08-26T09:56:38-03:00"
+      "ultima_verificacao": "2026-08-26T10:06:45-03:00"
     }
   },
   "protocolos": {
@@ -1818,6 +1818,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001525A",
+        "RE": "RE8123001211A",
+        "numgEdificacao": 368781,
+        "Nome_Edificacao": "BELLARTE RESIDENCE",
+        "Logradouro": "RUA GUABIRUPÉ",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-08-26T10:06:45-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001524A",
         "RE": "RE8123001210A",
@@ -13596,7 +13607,7 @@
   "totais": {
     "Brusque": 124,
     "Botuvera": 36,
-    "Guabiruba": 49,
+    "Guabiruba": 50,
     "Gaspar": 110,
     "Porto Belo": 99,
     "Nova Trento": 55,
@@ -13605,5 +13616,5 @@
     "Navegantes": 107,
     "Itajai": 292
   },
-  "total_geral": 1229
+  "total_geral": 1230
 }
