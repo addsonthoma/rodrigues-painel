@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-26T15:36:33-03:00",
+  "timestamp": "2026-08-26T15:46:54-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-26T15:36:33-03:00"
+      "ultima_verificacao": "2026-08-26T15:46:54-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-26T15:36:33-03:00"
+      "ultima_verificacao": "2026-08-26T15:46:54-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1525,
-      "ultima_verificacao": "2026-08-26T15:36:33-03:00"
+      "ultimo_numero": 1526,
+      "ultima_verificacao": "2026-08-26T15:46:54-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3877,
-      "ultima_verificacao": "2026-08-26T15:36:33-03:00"
+      "ultima_verificacao": "2026-08-26T15:46:54-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-26T15:36:33-03:00"
+      "ultima_verificacao": "2026-08-26T15:46:54-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-26T15:36:33-03:00"
+      "ultima_verificacao": "2026-08-26T15:46:54-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7191,
-      "ultima_verificacao": "2026-08-26T15:36:33-03:00"
+      "ultimo_numero": 7192,
+      "ultima_verificacao": "2026-08-26T15:46:54-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12958,
-      "ultima_verificacao": "2026-08-26T15:36:33-03:00"
+      "ultima_verificacao": "2026-08-26T15:46:54-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5005,
-      "ultima_verificacao": "2026-08-26T15:36:33-03:00"
+      "ultima_verificacao": "2026-08-26T15:46:54-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14271,
-      "ultima_verificacao": "2026-08-26T15:36:33-03:00"
+      "ultima_verificacao": "2026-08-26T15:46:54-03:00"
     }
   },
   "protocolos": {
@@ -1818,6 +1818,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001526A",
+        "RE": "RE8123001213A",
+        "numgEdificacao": 368845,
+        "Nome_Edificacao": "JP TEXTIL",
+        "Logradouro": "AUGUSTO PUHLER",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - SÃO PEDRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-08-26T15:46:54-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001525A",
         "RE": "RE8123001211A",
@@ -5335,6 +5346,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007192A",
+        "RE": "RE8163006871A",
+        "numgEdificacao": 368843,
+        "Nome_Edificacao": "PINK CABELELEIRA",
+        "Logradouro": "RUA 882",
+        "Numero": "38",
+        "Bairro": "ITAPEMA - CASA BRANCA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-26T15:46:54-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007191A",
         "RE": "RE8163005304A",
@@ -13739,14 +13761,14 @@
   "totais": {
     "Brusque": 124,
     "Botuvera": 36,
-    "Guabiruba": 50,
+    "Guabiruba": 51,
     "Gaspar": 111,
     "Porto Belo": 99,
     "Nova Trento": 59,
-    "Itapema": 144,
+    "Itapema": 145,
     "Blumenau": 216,
     "Navegantes": 108,
     "Itajai": 295
   },
-  "total_geral": 1242
+  "total_geral": 1244
 }
