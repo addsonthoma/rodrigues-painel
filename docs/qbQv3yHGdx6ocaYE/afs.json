@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-26T17:10:28-03:00",
+  "timestamp": "2026-08-26T17:20:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 958,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T17:10:28-03:00"
+      "ultima_verificacao": "2026-08-26T17:20:24-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T17:10:28-03:00"
+      "ultima_verificacao": "2026-08-26T17:20:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T17:10:28-03:00"
+      "ultima_verificacao": "2026-08-26T17:20:24-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 618,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T17:10:28-03:00"
+      "ultima_verificacao": "2026-08-26T17:20:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 504,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T17:10:28-03:00"
+      "ultima_verificacao": "2026-08-26T17:20:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 498,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T17:10:28-03:00"
+      "ultima_verificacao": "2026-08-26T17:20:24-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1163,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T17:10:28-03:00"
+      "ultima_verificacao": "2026-08-26T17:20:24-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1125,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T17:10:28-03:00"
+      "ultima_verificacao": "2026-08-26T17:20:24-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 320,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T17:10:28-03:00"
+      "ultima_verificacao": "2026-08-26T17:20:24-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1150,
+      "ultimo_numero": 1151,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T17:10:28-03:00"
+      "ultima_verificacao": "2026-08-26T17:20:24-03:00"
     }
   },
   "afs": {
@@ -21885,6 +21885,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001151A/26",
+        "Tipo": "AF",
+        "RE": "RE8161008916A",
+        "Nome_Edificacao": "LUIZA ADMINISTRADORA DE BENS EIRELI",
+        "Logradouro": "AVENIDA ITAIPAVA",
+        "Numero": "3232",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-26T17:20:24-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001150A/26",
         "Tipo": "AF",
         "RE": "RE8161007320A",
@@ -26263,7 +26274,7 @@
     "Itapema": 429,
     "Blumenau": 412,
     "Navegantes": 116,
-    "Itajai": 397
+    "Itajai": 398
   },
-  "total_geral": 2379
+  "total_geral": 2380
 }
