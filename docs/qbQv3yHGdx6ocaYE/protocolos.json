@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-26T17:06:45-03:00",
+  "timestamp": "2026-08-26T17:16:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-26T17:06:45-03:00"
+      "ultima_verificacao": "2026-08-26T17:16:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-26T17:06:45-03:00"
+      "ultima_verificacao": "2026-08-26T17:16:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-26T17:06:45-03:00"
+      "ultima_verificacao": "2026-08-26T17:16:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3877,
-      "ultima_verificacao": "2026-08-26T17:06:45-03:00"
+      "ultima_verificacao": "2026-08-26T17:16:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-26T17:06:45-03:00"
+      "ultima_verificacao": "2026-08-26T17:16:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-26T17:06:45-03:00"
+      "ultima_verificacao": "2026-08-26T17:16:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7192,
-      "ultima_verificacao": "2026-08-26T17:06:45-03:00"
+      "ultimo_numero": 7193,
+      "ultima_verificacao": "2026-08-26T17:16:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12959,
-      "ultima_verificacao": "2026-08-26T17:06:45-03:00"
+      "ultima_verificacao": "2026-08-26T17:16:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5005,
-      "ultima_verificacao": "2026-08-26T17:06:45-03:00"
+      "ultima_verificacao": "2026-08-26T17:16:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14273,
-      "ultima_verificacao": "2026-08-26T17:06:45-03:00"
+      "ultima_verificacao": "2026-08-26T17:16:57-03:00"
     }
   },
   "protocolos": {
@@ -5346,6 +5346,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007193A",
+        "RE": "RE8163006873A",
+        "numgEdificacao": 368875,
+        "Nome_Edificacao": "Vini Móveis",
+        "Logradouro": "Avenida Santa Catarina",
+        "Numero": "224",
+        "Bairro": "ITAPEMA - JARDIM PRAIA MAR",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-26T17:16:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007192A",
         "RE": "RE8163006871A",
@@ -13798,10 +13809,10 @@
     "Gaspar": 111,
     "Porto Belo": 99,
     "Nova Trento": 59,
-    "Itapema": 145,
+    "Itapema": 146,
     "Blumenau": 217,
     "Navegantes": 108,
     "Itajai": 297
   },
-  "total_geral": 1247
+  "total_geral": 1248
 }
