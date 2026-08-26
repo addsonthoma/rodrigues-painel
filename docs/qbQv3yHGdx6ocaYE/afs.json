@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-26T16:00:26-03:00",
+  "timestamp": "2026-08-26T16:10:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 956,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T16:00:26-03:00"
+      "ultima_verificacao": "2026-08-26T16:10:30-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T16:00:26-03:00"
+      "ultima_verificacao": "2026-08-26T16:10:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T16:00:26-03:00"
+      "ultima_verificacao": "2026-08-26T16:10:30-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 618,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T16:00:26-03:00"
+      "ultima_verificacao": "2026-08-26T16:10:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 504,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T16:00:26-03:00"
+      "ultima_verificacao": "2026-08-26T16:10:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 498,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T16:00:26-03:00"
+      "ultima_verificacao": "2026-08-26T16:10:30-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1160,
+      "ultimo_numero": 1162,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T16:00:26-03:00"
+      "ultima_verificacao": "2026-08-26T16:10:30-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1122,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T16:00:26-03:00"
+      "ultima_verificacao": "2026-08-26T16:10:30-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 320,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T16:00:26-03:00"
+      "ultima_verificacao": "2026-08-26T16:10:30-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1149,
+      "ultimo_numero": 1150,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T16:00:26-03:00"
+      "ultima_verificacao": "2026-08-26T16:10:30-03:00"
     }
   },
   "afs": {
@@ -11330,6 +11330,28 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163001162A/26",
+        "Tipo": "AF",
+        "RE": "RE8163000301A",
+        "Nome_Edificacao": "RESIDENCIAL AQUARIO",
+        "Logradouro": "436 A",
+        "Numero": "404",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-26T16:10:30-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001161A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002371A",
+        "Nome_Edificacao": "RHS GREEN VILLAGE",
+        "Logradouro": "RUA 118",
+        "Numero": "100",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-26T16:10:30-03:00"
+      },
+      {
         "CodigoAuto": "AF8163001160A/26",
         "Tipo": "AF",
         "RE": "RE8163002837A",
@@ -21797,6 +21819,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001150A/26",
+        "Tipo": "AF",
+        "RE": "RE8161007320A",
+        "Nome_Edificacao": "MARIA DO CARMO BRASIL",
+        "Logradouro": "Rua José Cândido",
+        "Numero": "202",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-26T16:10:30-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001149A/26",
         "Tipo": "AF",
         "RE": "RE8161007696A",
@@ -26161,10 +26194,10 @@
     "Gaspar": 203,
     "Porto Belo": 213,
     "Nova Trento": 188,
-    "Itapema": 426,
+    "Itapema": 428,
     "Blumenau": 409,
     "Navegantes": 116,
-    "Itajai": 396
+    "Itajai": 397
   },
-  "total_geral": 2370
+  "total_geral": 2373
 }
