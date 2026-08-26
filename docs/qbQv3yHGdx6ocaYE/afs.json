@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-26T13:00:20-03:00",
+  "timestamp": "2026-08-26T13:10:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 954,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T13:00:20-03:00"
+      "ultima_verificacao": "2026-08-26T13:10:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T13:00:20-03:00"
+      "ultima_verificacao": "2026-08-26T13:10:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T13:00:20-03:00"
+      "ultima_verificacao": "2026-08-26T13:10:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 614,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T13:00:20-03:00"
+      "ultima_verificacao": "2026-08-26T13:10:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 504,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T13:00:20-03:00"
+      "ultima_verificacao": "2026-08-26T13:10:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 498,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T13:00:20-03:00"
+      "ultima_verificacao": "2026-08-26T13:10:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1156,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T13:00:20-03:00"
+      "ultima_verificacao": "2026-08-26T13:10:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1120,
+      "ultimo_numero": 1121,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T13:00:20-03:00"
+      "ultima_verificacao": "2026-08-26T13:10:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 320,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T13:00:20-03:00"
+      "ultima_verificacao": "2026-08-26T13:10:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1149,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T13:00:20-03:00"
+      "ultima_verificacao": "2026-08-26T13:10:19-03:00"
     }
   },
   "afs": {
@@ -15908,6 +15908,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001121A/26",
+        "Tipo": "AF",
+        "RE": "RE8047006592A",
+        "Nome_Edificacao": "Ademar José Gelsleichter",
+        "Logradouro": "Rua General Osório",
+        "Numero": "2047",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-26T13:10:19-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001120A/26",
         "Tipo": "AF",
         "RE": "RE8047009602A",
@@ -26030,9 +26041,9 @@
     "Porto Belo": 213,
     "Nova Trento": 188,
     "Itapema": 422,
-    "Blumenau": 407,
+    "Blumenau": 408,
     "Navegantes": 116,
     "Itajai": 396
   },
-  "total_geral": 2358
+  "total_geral": 2359
 }
