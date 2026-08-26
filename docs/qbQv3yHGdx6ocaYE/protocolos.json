@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-26T14:07:27-03:00",
+  "timestamp": "2026-08-26T14:17:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-26T14:07:27-03:00"
+      "ultima_verificacao": "2026-08-26T14:17:34-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-26T14:07:27-03:00"
+      "ultima_verificacao": "2026-08-26T14:17:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1525,
-      "ultima_verificacao": "2026-08-26T14:07:27-03:00"
+      "ultima_verificacao": "2026-08-26T14:17:34-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3876,
-      "ultima_verificacao": "2026-08-26T14:07:27-03:00"
+      "ultima_verificacao": "2026-08-26T14:17:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-26T14:07:27-03:00"
+      "ultima_verificacao": "2026-08-26T14:17:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-26T14:07:27-03:00"
+      "ultima_verificacao": "2026-08-26T14:17:34-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7191,
-      "ultima_verificacao": "2026-08-26T14:07:27-03:00"
+      "ultima_verificacao": "2026-08-26T14:17:34-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12957,
-      "ultima_verificacao": "2026-08-26T14:07:27-03:00"
+      "ultima_verificacao": "2026-08-26T14:17:34-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5005,
-      "ultima_verificacao": "2026-08-26T14:07:27-03:00"
+      "ultima_verificacao": "2026-08-26T14:17:34-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14270,
-      "ultima_verificacao": "2026-08-26T14:07:27-03:00"
+      "ultimo_numero": 14271,
+      "ultima_verificacao": "2026-08-26T14:17:34-03:00"
     }
   },
   "protocolos": {
@@ -10468,6 +10468,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014271A",
+        "RE": "RE8161013760A",
+        "numgEdificacao": 366005,
+        "Nome_Edificacao": "ICONIC",
+        "Logradouro": "AV. OSVALDO REIS",
+        "Numero": "2470",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-26T14:17:34-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014270A",
         "RE": "RE8161000560A",
         "numgEdificacao": 15499,
@@ -13713,7 +13724,7 @@
     "Itapema": 144,
     "Blumenau": 215,
     "Navegantes": 108,
-    "Itajai": 294
+    "Itajai": 295
   },
-  "total_geral": 1239
+  "total_geral": 1240
 }
