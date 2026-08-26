@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-26T07:09:19-03:00",
+  "timestamp": "2026-08-26T11:13:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 950,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T07:09:19-03:00"
+      "ultima_verificacao": "2026-08-26T11:13:27-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T07:09:19-03:00"
+      "ultima_verificacao": "2026-08-26T11:13:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 61,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T07:09:19-03:00"
+      "ultima_verificacao": "2026-08-26T11:13:27-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 614,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T07:09:19-03:00"
+      "ultima_verificacao": "2026-08-26T11:13:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 504,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T07:09:19-03:00"
+      "ultima_verificacao": "2026-08-26T11:13:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 497,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T07:09:19-03:00"
+      "ultima_verificacao": "2026-08-26T11:13:27-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1147,
+      "ultimo_numero": 1151,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T07:09:19-03:00"
+      "ultima_verificacao": "2026-08-26T11:13:27-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1117,
+      "ultimo_numero": 1119,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T07:09:19-03:00"
+      "ultima_verificacao": "2026-08-26T11:13:27-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 320,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T07:09:19-03:00"
+      "ultima_verificacao": "2026-08-26T11:13:27-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1147,
+      "ultimo_numero": 1149,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-26T07:09:19-03:00"
+      "ultima_verificacao": "2026-08-26T11:13:27-03:00"
     }
   },
   "afs": {
@@ -11209,6 +11209,50 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163001151A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002845A",
+        "Nome_Edificacao": "EDIF EBENEZER",
+        "Logradouro": "Avenida Governador Celso Ramos",
+        "Numero": "117",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-26T11:13:27-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001150A/26",
+        "Tipo": "AF",
+        "RE": "RE8163000438A",
+        "Nome_Edificacao": "Edificio Comercial José Cesário Neto",
+        "Logradouro": "AVENIDA NEREU RAMOS",
+        "Numero": "5240",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-26T11:13:27-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001149A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006866A",
+        "Nome_Edificacao": "BORRACHARIA",
+        "Logradouro": "RUA 408",
+        "Numero": "2386",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-26T11:13:27-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001148A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003184A",
+        "Nome_Edificacao": "ELIOMAR MARCOS CACHOEIRA",
+        "Logradouro": "RUA 460",
+        "Numero": "838",
+        "Bairro": "ITAPEMA - JARDIM PRAIA MAR",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-26T11:13:27-03:00"
+      },
+      {
         "CodigoAuto": "AF8163001147A/26",
         "Tipo": "AF",
         "RE": "RE8163000111A",
@@ -15753,6 +15797,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047001119A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005482A",
+        "Nome_Edificacao": "EGOLF TASCHENER",
+        "Logradouro": "RUA 15 DE NOVEMBRO",
+        "Numero": "1502",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-26T11:13:27-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001118A/26",
+        "Tipo": "AF",
+        "RE": "RE8047011989A",
+        "Nome_Edificacao": "ALICE FARIAS NASCIMENTO",
+        "Logradouro": "Rua Doutor Oswaldo Neves Espíndola",
+        "Numero": "788",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-26T11:13:27-03:00"
+      },
       {
         "CodigoAuto": "AF8047001117A/26",
         "Tipo": "AF",
@@ -21478,6 +21544,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001149A/26",
+        "Tipo": "AF",
+        "RE": "RE8161007696A",
+        "Nome_Edificacao": "IGREJA EVANGELICA ASSEMBLEIA DE DEUS",
+        "Logradouro": "Rua Capitão Adolfo Germano de Andrade",
+        "Numero": "123",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-26T11:13:27-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001148A/26",
+        "Tipo": "AF",
+        "RE": "RE8161007696A",
+        "Nome_Edificacao": "IGREJA EVANGELICA ASSEMBLEIA DE DEUS",
+        "Logradouro": "Rua Capitão Adolfo Germano de Andrade",
+        "Numero": "123",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-26T11:13:27-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001147A/26",
         "Tipo": "AF",
         "RE": "RE8161007987A",
@@ -25820,10 +25908,10 @@
     "Gaspar": 199,
     "Porto Belo": 213,
     "Nova Trento": 187,
-    "Itapema": 413,
-    "Blumenau": 404,
+    "Itapema": 417,
+    "Blumenau": 406,
     "Navegantes": 116,
-    "Itajai": 394
+    "Itajai": 396
   },
-  "total_geral": 2339
+  "total_geral": 2347
 }
