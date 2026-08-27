@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T16:47:22-03:00",
+  "timestamp": "2026-08-27T16:58:12-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8089,
-      "ultima_verificacao": "2026-08-27T16:47:22-03:00"
+      "ultima_verificacao": "2026-08-27T16:58:12-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T16:47:22-03:00"
+      "ultima_verificacao": "2026-08-27T16:58:12-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T16:47:22-03:00"
+      "ultima_verificacao": "2026-08-27T16:58:12-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3879,
-      "ultima_verificacao": "2026-08-27T16:47:22-03:00"
+      "ultima_verificacao": "2026-08-27T16:58:12-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T16:47:22-03:00"
+      "ultima_verificacao": "2026-08-27T16:58:12-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T16:47:22-03:00"
+      "ultima_verificacao": "2026-08-27T16:58:12-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7200,
-      "ultima_verificacao": "2026-08-27T16:47:22-03:00"
+      "ultima_verificacao": "2026-08-27T16:58:12-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12974,
-      "ultima_verificacao": "2026-08-27T16:47:22-03:00"
+      "ultima_verificacao": "2026-08-27T16:58:12-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5009,
-      "ultima_verificacao": "2026-08-27T16:47:22-03:00"
+      "ultimo_numero": 5010,
+      "ultima_verificacao": "2026-08-27T16:58:12-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14279,
-      "ultima_verificacao": "2026-08-27T16:47:22-03:00"
+      "ultima_verificacao": "2026-08-27T16:58:12-03:00"
     }
   },
   "protocolos": {
@@ -9619,6 +9619,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005010A",
+        "RE": "RE8221004141A",
+        "numgEdificacao": 368987,
+        "Nome_Edificacao": "Residencial Multifamiliar",
+        "Logradouro": "Rua José Maximiliano de Andrade",
+        "Numero": "568",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-27T16:58:12-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005009A",
         "RE": "RE8221004140A",
         "numgEdificacao": 368932,
@@ -14196,8 +14207,8 @@
     "Nova Trento": 59,
     "Itapema": 153,
     "Blumenau": 232,
-    "Navegantes": 112,
+    "Navegantes": 113,
     "Itajai": 303
   },
-  "total_geral": 1283
+  "total_geral": 1284
 }

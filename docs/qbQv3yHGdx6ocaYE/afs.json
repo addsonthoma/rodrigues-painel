@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-27T16:40:27-03:00",
+  "timestamp": "2026-08-27T16:50:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 965,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:40:27-03:00"
+      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:40:27-03:00"
+      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:40:27-03:00"
+      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 618,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:40:27-03:00"
+      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 505,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:40:27-03:00"
+      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 499,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:40:27-03:00"
+      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1172,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:40:27-03:00"
+      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1132,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:40:27-03:00"
+      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 321,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:40:27-03:00"
+      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1163,
+      "ultimo_numero": 1164,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:40:27-03:00"
+      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
     }
   },
   "afs": {
@@ -22182,6 +22182,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001164A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013750A",
+        "Nome_Edificacao": "BUILDER INDUSTRIA E COMERCIO",
+        "Logradouro": "R ISRAEL DE ALMEIDA",
+        "Numero": "117",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-27T16:50:26-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001163A/26",
         "Tipo": "AF",
         "RE": "RE8161004726A",
@@ -26703,7 +26714,7 @@
     "Itapema": 438,
     "Blumenau": 419,
     "Navegantes": 117,
-    "Itajai": 410
+    "Itajai": 411
   },
-  "total_geral": 2419
+  "total_geral": 2420
 }
