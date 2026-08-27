@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-27T16:50:26-03:00",
+  "timestamp": "2026-08-27T17:10:33-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 965,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
+      "ultima_verificacao": "2026-08-27T17:10:33-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
+      "ultima_verificacao": "2026-08-27T17:10:33-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
+      "ultima_verificacao": "2026-08-27T17:10:33-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 618,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
+      "ultima_verificacao": "2026-08-27T17:10:33-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 505,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
+      "ultima_verificacao": "2026-08-27T17:10:33-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 499,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
+      "ultima_verificacao": "2026-08-27T17:10:33-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1172,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
+      "ultima_verificacao": "2026-08-27T17:10:33-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1132,
+      "ultimo_numero": 1133,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
+      "ultima_verificacao": "2026-08-27T17:10:33-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 321,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
+      "ultima_verificacao": "2026-08-27T17:10:33-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1164,
+      "ultimo_numero": 1166,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T16:50:26-03:00"
+      "ultima_verificacao": "2026-08-27T17:10:33-03:00"
     }
   },
   "afs": {
@@ -16282,6 +16282,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001133A/26",
+        "Tipo": "AF",
+        "RE": "RE8047007581A",
+        "Nome_Edificacao": "K.O. BOXING CLUB",
+        "Logradouro": "Rua Theodoro Holtrup",
+        "Numero": "447",
+        "Bairro": "BLUMENAU - Vila Nova",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T17:10:33-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001132A/26",
         "Tipo": "AF",
         "RE": "RE8047000548A",
@@ -22182,6 +22193,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001166A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013653A",
+        "Nome_Edificacao": "SALAS DIVA",
+        "Logradouro": "R PEREIRA NETO",
+        "Numero": "288",
+        "Bairro": "ITAJAÍ - Centro",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-27T17:10:33-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001165A/26",
+        "Tipo": "AF",
+        "RE": "RE8161001324A",
+        "Nome_Edificacao": "Genesis",
+        "Logradouro": "Rua Carlos Seara",
+        "Numero": "713",
+        "Bairro": "ITAJAÍ - VILA OPERÁRIA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-27T17:10:33-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001164A/26",
         "Tipo": "AF",
         "RE": "RE8161013750A",
@@ -26712,9 +26745,9 @@
     "Porto Belo": 214,
     "Nova Trento": 189,
     "Itapema": 438,
-    "Blumenau": 419,
+    "Blumenau": 420,
     "Navegantes": 117,
-    "Itajai": 411
+    "Itajai": 413
   },
-  "total_geral": 2420
+  "total_geral": 2423
 }
