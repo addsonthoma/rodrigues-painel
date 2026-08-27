@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T09:06:16-03:00",
+  "timestamp": "2026-08-27T09:16:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-27T09:06:16-03:00"
+      "ultima_verificacao": "2026-08-27T09:16:21-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T09:06:16-03:00"
+      "ultima_verificacao": "2026-08-27T09:16:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T09:06:16-03:00"
+      "ultima_verificacao": "2026-08-27T09:16:21-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3877,
-      "ultima_verificacao": "2026-08-27T09:06:16-03:00"
+      "ultima_verificacao": "2026-08-27T09:16:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T09:06:16-03:00"
+      "ultima_verificacao": "2026-08-27T09:16:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T09:06:16-03:00"
+      "ultima_verificacao": "2026-08-27T09:16:21-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7197,
-      "ultima_verificacao": "2026-08-27T09:06:16-03:00"
+      "ultima_verificacao": "2026-08-27T09:16:21-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12964,
-      "ultima_verificacao": "2026-08-27T09:06:16-03:00"
+      "ultimo_numero": 12965,
+      "ultima_verificacao": "2026-08-27T09:16:21-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5005,
-      "ultima_verificacao": "2026-08-27T09:06:16-03:00"
+      "ultimo_numero": 5006,
+      "ultima_verificacao": "2026-08-27T09:16:21-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14275,
-      "ultima_verificacao": "2026-08-27T09:06:16-03:00"
+      "ultima_verificacao": "2026-08-27T09:16:21-03:00"
     }
   },
   "protocolos": {
@@ -6999,6 +6999,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012965A",
+        "RE": "RE8047003439A",
+        "numgEdificacao": 125981,
+        "Nome_Edificacao": "GUSTAVO KIELWAGEN",
+        "Logradouro": "Rua Paraguay",
+        "Numero": "223",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T09:16:21-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012964A",
         "RE": "RE8047010210A",
         "numgEdificacao": 289526,
@@ -9442,6 +9453,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoProtocolo": "A8221005006A",
+        "RE": "RE8221004135A",
+        "numgEdificacao": 368563,
+        "Nome_Edificacao": "NAVEGATUR",
+        "Logradouro": "Rua Deputado Nilton Kucker",
+        "Numero": "443",
+        "Bairro": "NAVEGANTES - São Domingos",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-27T09:16:21-03:00"
+      },
       {
         "CodigoProtocolo": "A8221005005A",
         "RE": "RE8221004138A",
@@ -13931,9 +13953,9 @@
     "Porto Belo": 99,
     "Nova Trento": 59,
     "Itapema": 150,
-    "Blumenau": 222,
-    "Navegantes": 108,
+    "Blumenau": 223,
+    "Navegantes": 109,
     "Itajai": 299
   },
-  "total_geral": 1259
+  "total_geral": 1261
 }
