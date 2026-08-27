@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T12:06:17-03:00",
+  "timestamp": "2026-08-27T12:16:10-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-27T12:06:17-03:00"
+      "ultima_verificacao": "2026-08-27T12:16:10-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T12:06:17-03:00"
+      "ultima_verificacao": "2026-08-27T12:16:10-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T12:06:17-03:00"
+      "ultima_verificacao": "2026-08-27T12:16:10-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3878,
-      "ultima_verificacao": "2026-08-27T12:06:17-03:00"
+      "ultima_verificacao": "2026-08-27T12:16:10-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T12:06:17-03:00"
+      "ultima_verificacao": "2026-08-27T12:16:10-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T12:06:17-03:00"
+      "ultima_verificacao": "2026-08-27T12:16:10-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7197,
-      "ultima_verificacao": "2026-08-27T12:06:17-03:00"
+      "ultima_verificacao": "2026-08-27T12:16:10-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12967,
-      "ultima_verificacao": "2026-08-27T12:06:17-03:00"
+      "ultima_verificacao": "2026-08-27T12:16:10-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5009,
-      "ultima_verificacao": "2026-08-27T12:06:17-03:00"
+      "ultima_verificacao": "2026-08-27T12:16:10-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14278,
-      "ultima_verificacao": "2026-08-27T12:06:17-03:00"
+      "ultimo_numero": 14279,
+      "ultima_verificacao": "2026-08-27T12:16:10-03:00"
     }
   },
   "protocolos": {
@@ -10721,6 +10721,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014279A",
+        "RE": "RE8161013854A",
+        "numgEdificacao": 368955,
+        "Nome_Edificacao": "BRAVA HAUS",
+        "Logradouro": "RUA SUECIA",
+        "Numero": "650",
+        "Bairro": "ITAJAÍ - PRAIA BRAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-27T12:16:10-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014278A",
         "RE": "RE8161012042A",
         "numgEdificacao": 318139,
@@ -14054,7 +14065,7 @@
     "Itapema": 150,
     "Blumenau": 225,
     "Navegantes": 112,
-    "Itajai": 302
+    "Itajai": 303
   },
-  "total_geral": 1270
+  "total_geral": 1271
 }
