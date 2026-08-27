@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T11:15:52-03:00",
+  "timestamp": "2026-08-27T11:26:13-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-27T11:15:52-03:00"
+      "ultima_verificacao": "2026-08-27T11:26:13-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T11:15:52-03:00"
+      "ultima_verificacao": "2026-08-27T11:26:13-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T11:15:52-03:00"
+      "ultima_verificacao": "2026-08-27T11:26:13-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3878,
-      "ultima_verificacao": "2026-08-27T11:15:52-03:00"
+      "ultima_verificacao": "2026-08-27T11:26:13-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T11:15:52-03:00"
+      "ultima_verificacao": "2026-08-27T11:26:13-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T11:15:52-03:00"
+      "ultima_verificacao": "2026-08-27T11:26:13-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7197,
-      "ultima_verificacao": "2026-08-27T11:15:52-03:00"
+      "ultima_verificacao": "2026-08-27T11:26:13-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12966,
-      "ultima_verificacao": "2026-08-27T11:15:52-03:00"
+      "ultimo_numero": 12967,
+      "ultima_verificacao": "2026-08-27T11:26:13-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5009,
-      "ultima_verificacao": "2026-08-27T11:15:52-03:00"
+      "ultima_verificacao": "2026-08-27T11:26:13-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14277,
-      "ultima_verificacao": "2026-08-27T11:15:52-03:00"
+      "ultima_verificacao": "2026-08-27T11:26:13-03:00"
     }
   },
   "protocolos": {
@@ -7009,6 +7009,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012967A",
+        "RE": "RE8047012115A",
+        "numgEdificacao": 368887,
+        "Nome_Edificacao": "Tiago Pereira",
+        "Logradouro": "Rua Helmund Trapp",
+        "Numero": "353",
+        "Bairro": "BLUMENAU - TESTO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T11:26:13-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012966A",
         "RE": "RE8047000566A",
@@ -14030,9 +14041,9 @@
     "Porto Belo": 99,
     "Nova Trento": 59,
     "Itapema": 150,
-    "Blumenau": 224,
+    "Blumenau": 225,
     "Navegantes": 112,
     "Itajai": 301
   },
-  "total_geral": 1268
+  "total_geral": 1269
 }
