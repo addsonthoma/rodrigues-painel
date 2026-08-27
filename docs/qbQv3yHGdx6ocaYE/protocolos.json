@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T15:18:13-03:00",
+  "timestamp": "2026-08-27T15:37:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8089,
-      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
+      "ultima_verificacao": "2026-08-27T15:37:31-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
+      "ultima_verificacao": "2026-08-27T15:37:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
+      "ultima_verificacao": "2026-08-27T15:37:31-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3879,
-      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
+      "ultima_verificacao": "2026-08-27T15:37:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
+      "ultima_verificacao": "2026-08-27T15:37:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
+      "ultima_verificacao": "2026-08-27T15:37:31-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7200,
-      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
+      "ultima_verificacao": "2026-08-27T15:37:31-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12968,
-      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
+      "ultimo_numero": 12969,
+      "ultima_verificacao": "2026-08-27T15:37:31-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5009,
-      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
+      "ultima_verificacao": "2026-08-27T15:37:31-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14279,
-      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
+      "ultima_verificacao": "2026-08-27T15:37:31-03:00"
     }
   },
   "protocolos": {
@@ -7064,6 +7064,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012969A",
+        "RE": "RE8047000812A",
+        "numgEdificacao": 29145,
+        "Nome_Edificacao": "MAQUINARIA BLU REPARAÇÃO AUTOMOTIVA LTDA",
+        "Logradouro": "RUA DOUTOR PEDRO ZIMMERMANN",
+        "Numero": "4820",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T15:37:31-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012968A",
         "RE": "RE8047012121A",
@@ -14129,9 +14140,9 @@
     "Porto Belo": 99,
     "Nova Trento": 59,
     "Itapema": 153,
-    "Blumenau": 226,
+    "Blumenau": 227,
     "Navegantes": 112,
     "Itajai": 303
   },
-  "total_geral": 1277
+  "total_geral": 1278
 }
