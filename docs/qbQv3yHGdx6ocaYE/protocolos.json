@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T00:06:26-03:00",
+  "timestamp": "2026-08-27T08:07:42-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-27T00:06:26-03:00"
+      "ultima_verificacao": "2026-08-27T08:07:42-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T00:06:26-03:00"
+      "ultima_verificacao": "2026-08-27T08:07:42-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T00:06:26-03:00"
+      "ultima_verificacao": "2026-08-27T08:07:42-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3877,
-      "ultima_verificacao": "2026-08-27T00:06:26-03:00"
+      "ultima_verificacao": "2026-08-27T08:07:42-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T00:06:26-03:00"
+      "ultima_verificacao": "2026-08-27T08:07:42-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T00:06:26-03:00"
+      "ultima_verificacao": "2026-08-27T08:07:42-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7197,
-      "ultima_verificacao": "2026-08-27T00:06:26-03:00"
+      "ultima_verificacao": "2026-08-27T08:07:42-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12961,
-      "ultima_verificacao": "2026-08-27T00:06:26-03:00"
+      "ultimo_numero": 12963,
+      "ultima_verificacao": "2026-08-27T08:07:42-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5005,
-      "ultima_verificacao": "2026-08-27T00:06:26-03:00"
+      "ultima_verificacao": "2026-08-27T08:07:42-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14274,
-      "ultima_verificacao": "2026-08-27T00:06:26-03:00"
+      "ultimo_numero": 14275,
+      "ultima_verificacao": "2026-08-27T08:07:42-03:00"
     }
   },
   "protocolos": {
@@ -6999,6 +6999,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012963A",
+        "RE": "RE8047012120A",
+        "numgEdificacao": 368915,
+        "Nome_Edificacao": "RESIDENCIAL VILA DI SORRENTO",
+        "Logradouro": "Rua Vinte e Dois de Setembro",
+        "Numero": "110",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T08:07:42-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012962A",
+        "RE": "RE8047012118A",
+        "numgEdificacao": 368913,
+        "Nome_Edificacao": "Galpão Tamoios",
+        "Logradouro": "Rua Tamoios",
+        "Numero": "122",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T08:07:42-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012961A",
         "RE": "RE8047011172A",
         "numgEdificacao": 328793,
@@ -10600,6 +10622,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014275A",
+        "RE": "RE8161013851A",
+        "numgEdificacao": 368916,
+        "Nome_Edificacao": "ALEXANDRO DALANNIO",
+        "Logradouro": "R JOAO WOLLINGER",
+        "Numero": "71",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-27T08:07:42-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014274A",
         "RE": "RE8161013791A",
         "numgEdificacao": 366731,
@@ -13887,9 +13920,9 @@
     "Porto Belo": 99,
     "Nova Trento": 59,
     "Itapema": 150,
-    "Blumenau": 219,
+    "Blumenau": 221,
     "Navegantes": 108,
-    "Itajai": 298
+    "Itajai": 299
   },
-  "total_geral": 1255
+  "total_geral": 1258
 }
