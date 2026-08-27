@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T13:06:30-03:00",
+  "timestamp": "2026-08-27T13:16:51-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-27T13:06:30-03:00"
+      "ultima_verificacao": "2026-08-27T13:16:51-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T13:06:30-03:00"
+      "ultima_verificacao": "2026-08-27T13:16:51-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T13:06:30-03:00"
+      "ultima_verificacao": "2026-08-27T13:16:51-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3878,
-      "ultima_verificacao": "2026-08-27T13:06:30-03:00"
+      "ultima_verificacao": "2026-08-27T13:16:51-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T13:06:30-03:00"
+      "ultima_verificacao": "2026-08-27T13:16:51-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T13:06:30-03:00"
+      "ultima_verificacao": "2026-08-27T13:16:51-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7197,
-      "ultima_verificacao": "2026-08-27T13:06:30-03:00"
+      "ultimo_numero": 7198,
+      "ultima_verificacao": "2026-08-27T13:16:51-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12967,
-      "ultima_verificacao": "2026-08-27T13:06:30-03:00"
+      "ultima_verificacao": "2026-08-27T13:16:51-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5009,
-      "ultima_verificacao": "2026-08-27T13:06:30-03:00"
+      "ultima_verificacao": "2026-08-27T13:16:51-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14279,
-      "ultima_verificacao": "2026-08-27T13:06:30-03:00"
+      "ultima_verificacao": "2026-08-27T13:16:51-03:00"
     }
   },
   "protocolos": {
@@ -5357,6 +5357,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007198A",
+        "RE": "RE8163006875A",
+        "numgEdificacao": 368959,
+        "Nome_Edificacao": "EDIFÍCIO SAMIR",
+        "Logradouro": "RUA 129 D",
+        "Numero": "",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-27T13:16:51-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007197A",
         "RE": "RE8163005387A",
@@ -14062,10 +14073,10 @@
     "Gaspar": 112,
     "Porto Belo": 99,
     "Nova Trento": 59,
-    "Itapema": 150,
+    "Itapema": 151,
     "Blumenau": 225,
     "Navegantes": 112,
     "Itajai": 303
   },
-  "total_geral": 1271
+  "total_geral": 1272
 }
