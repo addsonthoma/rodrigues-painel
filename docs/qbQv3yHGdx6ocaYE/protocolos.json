@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T17:36:56-03:00",
+  "timestamp": "2026-08-27T17:56:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8089,
-      "ultima_verificacao": "2026-08-27T17:36:56-03:00"
+      "ultima_verificacao": "2026-08-27T17:56:20-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T17:36:56-03:00"
+      "ultima_verificacao": "2026-08-27T17:56:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T17:36:56-03:00"
+      "ultima_verificacao": "2026-08-27T17:56:20-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3879,
-      "ultima_verificacao": "2026-08-27T17:36:56-03:00"
+      "ultima_verificacao": "2026-08-27T17:56:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T17:36:56-03:00"
+      "ultima_verificacao": "2026-08-27T17:56:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T17:36:56-03:00"
+      "ultima_verificacao": "2026-08-27T17:56:20-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7200,
-      "ultima_verificacao": "2026-08-27T17:36:56-03:00"
+      "ultima_verificacao": "2026-08-27T17:56:20-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12975,
-      "ultima_verificacao": "2026-08-27T17:36:56-03:00"
+      "ultimo_numero": 12977,
+      "ultima_verificacao": "2026-08-27T17:56:20-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5010,
-      "ultima_verificacao": "2026-08-27T17:36:56-03:00"
+      "ultima_verificacao": "2026-08-27T17:56:20-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14279,
-      "ultima_verificacao": "2026-08-27T17:36:56-03:00"
+      "ultimo_numero": 14280,
+      "ultima_verificacao": "2026-08-27T17:56:20-03:00"
     }
   },
   "protocolos": {
@@ -7065,6 +7065,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012977A",
+        "RE": "RE8047005515A",
+        "numgEdificacao": 167559,
+        "Nome_Edificacao": "simoni mewes",
+        "Logradouro": "R SOLDADO MARIO LUIZ BERTOLINI",
+        "Numero": "21",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T17:56:20-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012976A",
+        "RE": "RE8047010185A",
+        "numgEdificacao": 288400,
+        "Nome_Edificacao": "Só se não gosta hambúrgueria",
+        "Logradouro": "FRAGATA",
+        "Numero": "63",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T17:56:20-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012975A",
         "RE": "RE8047012124A",
         "numgEdificacao": 369020,
@@ -10875,6 +10897,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014280A",
+        "RE": "RE8161013855A",
+        "numgEdificacao": 369013,
+        "Nome_Edificacao": "Gregorio",
+        "Logradouro": "R JOAQUIM JOSE DE FREITAS",
+        "Numero": "878",
+        "Bairro": "ITAJAÍ - São João",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-27T17:56:20-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014279A",
         "RE": "RE8161013854A",
         "numgEdificacao": 368955,
@@ -14217,9 +14250,9 @@
     "Porto Belo": 99,
     "Nova Trento": 59,
     "Itapema": 153,
-    "Blumenau": 233,
+    "Blumenau": 235,
     "Navegantes": 113,
-    "Itajai": 303
+    "Itajai": 304
   },
-  "total_geral": 1285
+  "total_geral": 1288
 }
