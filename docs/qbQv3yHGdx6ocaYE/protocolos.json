@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-08-27T14:58:09-03:00",
+  "timestamp": "2026-08-27T15:18:13-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-27T14:58:09-03:00"
+      "ultimo_numero": 8089,
+      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T14:58:09-03:00"
+      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T14:58:09-03:00"
+      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3879,
-      "ultima_verificacao": "2026-08-27T14:58:09-03:00"
+      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T14:58:09-03:00"
+      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T14:58:09-03:00"
+      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7199,
-      "ultima_verificacao": "2026-08-27T14:58:09-03:00"
+      "ultimo_numero": 7200,
+      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12968,
-      "ultima_verificacao": "2026-08-27T14:58:09-03:00"
+      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5009,
-      "ultima_verificacao": "2026-08-27T14:58:09-03:00"
+      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14279,
-      "ultima_verificacao": "2026-08-27T14:58:09-03:00"
+      "ultima_verificacao": "2026-08-27T15:18:13-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008089A",
+        "RE": "RE8055003628A",
+        "numgEdificacao": 237390,
+        "Nome_Edificacao": "GILBERTO FLORES",
+        "Logradouro": "R HENRIQUE GOHR",
+        "Numero": "107",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-27T15:18:13-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008088A",
         "RE": "RE8055006804A",
@@ -5368,6 +5379,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007200A",
+        "RE": "RE8163006325A",
+        "numgEdificacao": 333033,
+        "Nome_Edificacao": "ADRIANA LOPES CANALE",
+        "Logradouro": "RUA 462",
+        "Numero": "316",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-27T15:18:13-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007199A",
         "RE": "RE8163006157A",
@@ -14100,16 +14122,16 @@
     ]
   },
   "totais": {
-    "Brusque": 124,
+    "Brusque": 125,
     "Botuvera": 36,
     "Guabiruba": 51,
     "Gaspar": 113,
     "Porto Belo": 99,
     "Nova Trento": 59,
-    "Itapema": 152,
+    "Itapema": 153,
     "Blumenau": 226,
     "Navegantes": 112,
     "Itajai": 303
   },
-  "total_geral": 1275
+  "total_geral": 1277
 }

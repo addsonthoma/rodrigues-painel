@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-08-27T14:50:25-03:00",
+  "timestamp": "2026-08-27T15:10:39-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 961,
+      "ultimo_numero": 962,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T14:50:25-03:00"
+      "ultima_verificacao": "2026-08-27T15:10:39-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T14:50:25-03:00"
+      "ultima_verificacao": "2026-08-27T15:10:39-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T14:50:25-03:00"
+      "ultima_verificacao": "2026-08-27T15:10:39-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 618,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T14:50:25-03:00"
+      "ultima_verificacao": "2026-08-27T15:10:39-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 505,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T14:50:25-03:00"
+      "ultima_verificacao": "2026-08-27T15:10:39-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 499,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T14:50:25-03:00"
+      "ultima_verificacao": "2026-08-27T15:10:39-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1171,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T14:50:25-03:00"
+      "ultima_verificacao": "2026-08-27T15:10:39-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1130,
+      "ultimo_numero": 1131,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T14:50:25-03:00"
+      "ultima_verificacao": "2026-08-27T15:10:39-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 321,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T14:50:25-03:00"
+      "ultima_verificacao": "2026-08-27T15:10:39-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1161,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-27T14:50:25-03:00"
+      "ultima_verificacao": "2026-08-27T15:10:39-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000962A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001455A",
+        "Nome_Edificacao": "Edifício Residencial San Pietro II",
+        "Logradouro": "Rua Arthur Fischer",
+        "Numero": "123",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-27T15:10:39-03:00"
+      },
       {
         "CodigoAuto": "AF8055000961A/26",
         "Tipo": "AF",
@@ -16227,6 +16238,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001131A/26",
+        "Tipo": "AF",
+        "RE": "RE8047006699A",
+        "Nome_Edificacao": "NM ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "RUA 2 DE SETEMBRO",
+        "Numero": "1870",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T15:10:39-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001130A/26",
         "Tipo": "AF",
         "RE": "RE8047010484A",
@@ -26595,16 +26617,16 @@
     ]
   },
   "totais": {
-    "Brusque": 351,
+    "Brusque": 352,
     "Botuvera": 32,
     "Guabiruba": 42,
     "Gaspar": 203,
     "Porto Belo": 214,
     "Nova Trento": 189,
     "Itapema": 437,
-    "Blumenau": 417,
+    "Blumenau": 418,
     "Navegantes": 117,
     "Itajai": 408
   },
-  "total_geral": 2410
+  "total_geral": 2412
 }
