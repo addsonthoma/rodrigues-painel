@@ -1,79 +1,99 @@
 {
-  "timestamp": "2026-08-27T13:50:03-03:00",
+  "timestamp": "2026-08-27T14:10:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-27T13:50:03-03:00"
+      "ultima_verificacao": "2026-08-27T14:10:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-27T13:50:03-03:00"
+      "ultima_verificacao": "2026-08-27T14:10:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-27T13:50:03-03:00"
+      "ultima_verificacao": "2026-08-27T14:10:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 49,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-27T13:50:03-03:00"
+      "ultima_verificacao": "2026-08-27T14:10:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 110,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-27T13:50:03-03:00"
+      "ultima_verificacao": "2026-08-27T14:10:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 136,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-27T13:50:03-03:00"
+      "ultima_verificacao": "2026-08-27T14:10:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 188,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-27T13:50:03-03:00"
+      "ultima_verificacao": "2026-08-27T14:10:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 229,
+      "ultimo_numero": 231,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-27T13:50:03-03:00"
+      "ultima_verificacao": "2026-08-27T14:10:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-27T13:50:03-03:00"
+      "ultima_verificacao": "2026-08-27T14:10:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 429,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-27T13:50:03-03:00"
+      "ultima_verificacao": "2026-08-27T14:10:03-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000230A/26",
+        "RE": "RE8047002260A",
+        "Nome_Edificacao": "EEB ERWIN RADTKE",
+        "Logradouro": "Rua Erwin Manzke",
+        "Numero": "13375",
+        "Bairro": "BLUMENAU - VILA ITOUPAVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T14:10:03-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000231A/26",
+        "RE": "RE8047002259A",
+        "Nome_Edificacao": "EEB PROF AUREA PERPETUA GOMES",
+        "Logradouro": "RUA MARECHAL RONDON",
+        "Numero": "270",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T14:10:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000229A/26",
         "RE": "RE8047000486A",
@@ -5612,7 +5632,7 @@
     ]
   },
   "totais": {
-    "Blumenau": 94,
+    "Blumenau": 96,
     "Botuvera": 3,
     "Brusque": 64,
     "Gaspar": 25,
@@ -5623,8 +5643,22 @@
     "Nova Trento": 53,
     "Porto Belo": 53
   },
-  "total_geral": 565,
+  "total_geral": 567,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-27T14:10:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000231A/26",
+      "nome": "EEB PROF AUREA PERPETUA GOMES",
+      "re": "RE8047002259A"
+    },
+    {
+      "ts": "2026-08-27T14:10:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000230A/26",
+      "nome": "EEB ERWIN RADTKE",
+      "re": "RE8047002260A"
+    },
     {
       "ts": "2026-08-27T13:40:04-03:00",
       "cidade": "Itajai",
