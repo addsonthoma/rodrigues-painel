@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T10:46:01-03:00",
+  "timestamp": "2026-08-27T10:56:40-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-27T10:46:01-03:00"
+      "ultima_verificacao": "2026-08-27T10:56:40-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T10:46:01-03:00"
+      "ultima_verificacao": "2026-08-27T10:56:40-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T10:46:01-03:00"
+      "ultima_verificacao": "2026-08-27T10:56:40-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3877,
-      "ultima_verificacao": "2026-08-27T10:46:01-03:00"
+      "ultimo_numero": 3878,
+      "ultima_verificacao": "2026-08-27T10:56:40-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T10:46:01-03:00"
+      "ultima_verificacao": "2026-08-27T10:56:40-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T10:46:01-03:00"
+      "ultima_verificacao": "2026-08-27T10:56:40-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7197,
-      "ultima_verificacao": "2026-08-27T10:46:01-03:00"
+      "ultima_verificacao": "2026-08-27T10:56:40-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12965,
-      "ultima_verificacao": "2026-08-27T10:46:01-03:00"
+      "ultimo_numero": 12966,
+      "ultima_verificacao": "2026-08-27T10:56:40-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5009,
-      "ultima_verificacao": "2026-08-27T10:46:01-03:00"
+      "ultima_verificacao": "2026-08-27T10:56:40-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14277,
-      "ultima_verificacao": "2026-08-27T10:46:01-03:00"
+      "ultima_verificacao": "2026-08-27T10:56:40-03:00"
     }
   },
   "protocolos": {
@@ -2381,6 +2381,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003878A",
+        "RE": "RE8117000878A",
+        "numgEdificacao": 141173,
+        "Nome_Edificacao": "KZ EMPREENDIMENTOS IMOBILIARIOS LTDA",
+        "Logradouro": "AV. DEP. FRANCISCO MASTELLA",
+        "Numero": "1701",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-27T10:56:40-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003877A",
         "RE": "RE8117000884A",
@@ -6998,6 +7009,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012966A",
+        "RE": "RE8047000566A",
+        "numgEdificacao": 20185,
+        "Nome_Edificacao": "CONDOMÍNIO BLUMENAU NORTE SHOPPING",
+        "Logradouro": "Rodovia BR-470",
+        "Numero": "3000",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T10:56:40-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012965A",
         "RE": "RE8047003439A",
@@ -14004,13 +14026,13 @@
     "Brusque": 124,
     "Botuvera": 36,
     "Guabiruba": 51,
-    "Gaspar": 111,
+    "Gaspar": 112,
     "Porto Belo": 99,
     "Nova Trento": 59,
     "Itapema": 150,
-    "Blumenau": 223,
+    "Blumenau": 224,
     "Navegantes": 112,
     "Itajai": 301
   },
-  "total_geral": 1266
+  "total_geral": 1268
 }
