@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T00:33:15-03:00",
+  "timestamp": "2026-08-27T11:37:45-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-27T00:33:15-03:00"
+      "ultima_verificacao": "2026-08-27T11:37:45-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T00:33:15-03:00"
+      "ultima_verificacao": "2026-08-27T11:37:45-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T00:33:15-03:00"
+      "ultima_verificacao": "2026-08-27T11:37:45-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3877,
-      "ultima_verificacao": "2026-08-27T00:33:15-03:00"
+      "ultimo_numero": 3878,
+      "ultima_verificacao": "2026-08-27T11:37:45-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T00:33:15-03:00"
+      "ultima_verificacao": "2026-08-27T11:37:45-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T00:33:15-03:00"
+      "ultima_verificacao": "2026-08-27T11:37:45-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7197,
-      "ultima_verificacao": "2026-08-27T00:33:15-03:00"
+      "ultima_verificacao": "2026-08-27T11:37:45-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12961,
-      "ultima_verificacao": "2026-08-27T00:33:15-03:00"
+      "ultimo_numero": 12967,
+      "ultima_verificacao": "2026-08-27T11:37:45-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5005,
-      "ultima_verificacao": "2026-08-27T00:33:15-03:00"
+      "ultimo_numero": 5009,
+      "ultima_verificacao": "2026-08-27T11:37:45-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14274,
-      "ultima_verificacao": "2026-08-27T00:33:15-03:00"
+      "ultimo_numero": 14278,
+      "ultima_verificacao": "2026-08-27T11:37:45-03:00"
     }
   },
   "protocolos": {
@@ -2381,6 +2381,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003878A",
+        "RE": "RE8117000878A",
+        "numgEdificacao": 141173,
+        "Nome_Edificacao": "KZ EMPREENDIMENTOS IMOBILIARIOS LTDA",
+        "Logradouro": "AV. DEP. FRANCISCO MASTELLA",
+        "Numero": "1701",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003877A",
         "RE": "RE8117000884A",
@@ -6999,6 +7010,72 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012967A",
+        "RE": "RE8047012115A",
+        "numgEdificacao": 368887,
+        "Nome_Edificacao": "Tiago Pereira",
+        "Logradouro": "Rua Helmund Trapp",
+        "Numero": "353",
+        "Bairro": "BLUMENAU - TESTO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012966A",
+        "RE": "RE8047000566A",
+        "numgEdificacao": 20185,
+        "Nome_Edificacao": "CONDOMÍNIO BLUMENAU NORTE SHOPPING",
+        "Logradouro": "Rodovia BR-470",
+        "Numero": "3000",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012965A",
+        "RE": "RE8047003439A",
+        "numgEdificacao": 125981,
+        "Nome_Edificacao": "GUSTAVO KIELWAGEN",
+        "Logradouro": "Rua Paraguay",
+        "Numero": "223",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012964A",
+        "RE": "RE8047010210A",
+        "numgEdificacao": 289526,
+        "Nome_Edificacao": "HEINZ MUELLER",
+        "Logradouro": "RUA AYRES DA GAMA",
+        "Numero": "329",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012963A",
+        "RE": "RE8047012120A",
+        "numgEdificacao": 368915,
+        "Nome_Edificacao": "RESIDENCIAL VILA DI SORRENTO",
+        "Logradouro": "Rua Vinte e Dois de Setembro",
+        "Numero": "110",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012962A",
+        "RE": "RE8047012118A",
+        "numgEdificacao": 368913,
+        "Nome_Edificacao": "Galpão Tamoios",
+        "Logradouro": "Rua Tamoios",
+        "Numero": "122",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012961A",
         "RE": "RE8047011172A",
         "numgEdificacao": 328793,
@@ -9410,6 +9487,50 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005009A",
+        "RE": "RE8221004140A",
+        "numgEdificacao": 368932,
+        "Nome_Edificacao": "Terreno Navegatur",
+        "Logradouro": "rua carl gerner",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005008A",
+        "RE": "RE8221004139A",
+        "numgEdificacao": 368928,
+        "Nome_Edificacao": "GRUPO ESCOTEIROS DO MAR NAVEGANTES",
+        "Logradouro": "Rua Adolfo Cabral Júnior",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005007A",
+        "RE": "RE8221004135A",
+        "numgEdificacao": 368563,
+        "Nome_Edificacao": "NAVEGATUR",
+        "Logradouro": "Rua Deputado Nilton Kucker",
+        "Numero": "443",
+        "Bairro": "NAVEGANTES - São Domingos",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005006A",
+        "RE": "RE8221004135A",
+        "numgEdificacao": 368563,
+        "Nome_Edificacao": "NAVEGATUR",
+        "Logradouro": "Rua Deputado Nilton Kucker",
+        "Numero": "443",
+        "Bairro": "NAVEGANTES - São Domingos",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005005A",
         "RE": "RE8221004138A",
         "numgEdificacao": 368785,
@@ -10599,6 +10720,50 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014278A",
+        "RE": "RE8161012042A",
+        "numgEdificacao": 318139,
+        "Nome_Edificacao": "Artha Holding Ltda",
+        "Logradouro": "R ANTONIO MANOEL MOREIRA",
+        "Numero": "225",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014277A",
+        "RE": "RE8161013853A",
+        "numgEdificacao": 368936,
+        "Nome_Edificacao": "HAUK CENTRO AUTOMOTIVO",
+        "Logradouro": "R JOSE PEREIRA LIBERATO",
+        "Numero": "907",
+        "Bairro": "ITAJAÍ - São João",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014276A",
+        "RE": "RE8161013852A",
+        "numgEdificacao": 368921,
+        "Nome_Edificacao": "DIEGO DOS PASSOS IACZAK",
+        "Logradouro": "R ALICE DOS SANTOS BITTENCOURT",
+        "Numero": "544",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014275A",
+        "RE": "RE8161013851A",
+        "numgEdificacao": 368916,
+        "Nome_Edificacao": "ALEXANDRO DALANNIO",
+        "Logradouro": "R JOAO WOLLINGER",
+        "Numero": "71",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-27T11:37:45-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014274A",
         "RE": "RE8161013791A",
@@ -13883,13 +14048,13 @@
     "Brusque": 124,
     "Botuvera": 36,
     "Guabiruba": 51,
-    "Gaspar": 111,
+    "Gaspar": 112,
     "Porto Belo": 99,
     "Nova Trento": 59,
     "Itapema": 150,
-    "Blumenau": 219,
-    "Navegantes": 108,
-    "Itajai": 298
+    "Blumenau": 225,
+    "Navegantes": 112,
+    "Itajai": 302
   },
-  "total_geral": 1255
+  "total_geral": 1270
 }
