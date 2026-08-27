@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T09:45:59-03:00",
+  "timestamp": "2026-08-27T09:56:18-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8088,
-      "ultima_verificacao": "2026-08-27T09:45:59-03:00"
+      "ultima_verificacao": "2026-08-27T09:56:18-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T09:45:59-03:00"
+      "ultima_verificacao": "2026-08-27T09:56:18-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T09:45:59-03:00"
+      "ultima_verificacao": "2026-08-27T09:56:18-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3877,
-      "ultima_verificacao": "2026-08-27T09:45:59-03:00"
+      "ultima_verificacao": "2026-08-27T09:56:18-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T09:45:59-03:00"
+      "ultima_verificacao": "2026-08-27T09:56:18-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T09:45:59-03:00"
+      "ultima_verificacao": "2026-08-27T09:56:18-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7197,
-      "ultima_verificacao": "2026-08-27T09:45:59-03:00"
+      "ultima_verificacao": "2026-08-27T09:56:18-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12965,
-      "ultima_verificacao": "2026-08-27T09:45:59-03:00"
+      "ultima_verificacao": "2026-08-27T09:56:18-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5006,
-      "ultima_verificacao": "2026-08-27T09:45:59-03:00"
+      "ultimo_numero": 5007,
+      "ultima_verificacao": "2026-08-27T09:56:18-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14275,
-      "ultima_verificacao": "2026-08-27T09:45:59-03:00"
+      "ultimo_numero": 14276,
+      "ultima_verificacao": "2026-08-27T09:56:18-03:00"
     }
   },
   "protocolos": {
@@ -9454,6 +9454,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005007A",
+        "RE": "RE8221004135A",
+        "numgEdificacao": 368563,
+        "Nome_Edificacao": "NAVEGATUR",
+        "Logradouro": "Rua Deputado Nilton Kucker",
+        "Numero": "443",
+        "Bairro": "NAVEGANTES - São Domingos",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-27T09:56:18-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005006A",
         "RE": "RE8221004135A",
         "numgEdificacao": 368563,
@@ -10654,6 +10665,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014276A",
+        "RE": "RE8161013852A",
+        "numgEdificacao": 368921,
+        "Nome_Edificacao": "DIEGO DOS PASSOS IACZAK",
+        "Logradouro": "R ALICE DOS SANTOS BITTENCOURT",
+        "Numero": "544",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-27T09:56:18-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014275A",
         "RE": "RE8161013851A",
@@ -13954,8 +13976,8 @@
     "Nova Trento": 59,
     "Itapema": 150,
     "Blumenau": 223,
-    "Navegantes": 109,
-    "Itajai": 299
+    "Navegantes": 110,
+    "Itajai": 300
   },
-  "total_geral": 1261
+  "total_geral": 1263
 }
