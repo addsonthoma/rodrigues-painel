@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-27T16:27:00-03:00",
+  "timestamp": "2026-08-27T16:37:38-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8089,
-      "ultima_verificacao": "2026-08-27T16:27:00-03:00"
+      "ultima_verificacao": "2026-08-27T16:37:38-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-27T16:27:00-03:00"
+      "ultima_verificacao": "2026-08-27T16:37:38-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-27T16:27:00-03:00"
+      "ultima_verificacao": "2026-08-27T16:37:38-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3879,
-      "ultima_verificacao": "2026-08-27T16:27:00-03:00"
+      "ultima_verificacao": "2026-08-27T16:37:38-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-27T16:27:00-03:00"
+      "ultima_verificacao": "2026-08-27T16:37:38-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-27T16:27:00-03:00"
+      "ultima_verificacao": "2026-08-27T16:37:38-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7200,
-      "ultima_verificacao": "2026-08-27T16:27:00-03:00"
+      "ultima_verificacao": "2026-08-27T16:37:38-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12973,
-      "ultima_verificacao": "2026-08-27T16:27:00-03:00"
+      "ultimo_numero": 12974,
+      "ultima_verificacao": "2026-08-27T16:37:38-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5009,
-      "ultima_verificacao": "2026-08-27T16:27:00-03:00"
+      "ultima_verificacao": "2026-08-27T16:37:38-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14279,
-      "ultima_verificacao": "2026-08-27T16:27:00-03:00"
+      "ultima_verificacao": "2026-08-27T16:37:38-03:00"
     }
   },
   "protocolos": {
@@ -7064,6 +7064,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012974A",
+        "RE": "RE8047003868A",
+        "numgEdificacao": 131625,
+        "Nome_Edificacao": "BLUE LAIKE ADM DE BENS LTDA ME",
+        "Logradouro": "Rua São Bento",
+        "Numero": "143",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-27T16:37:38-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012973A",
         "RE": "RE8047012120A",
@@ -14184,9 +14195,9 @@
     "Porto Belo": 99,
     "Nova Trento": 59,
     "Itapema": 153,
-    "Blumenau": 231,
+    "Blumenau": 232,
     "Navegantes": 112,
     "Itajai": 303
   },
-  "total_geral": 1282
+  "total_geral": 1283
 }
