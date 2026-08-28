@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-28T14:59:47-03:00",
+  "timestamp": "2026-08-28T17:02:30-03:00",
   "enrich": {
     "A8055008088A": {
       "area": 892.5,
@@ -652,7 +652,7 @@
           "nome": "CBMSC_20-08-2026_15907494.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:36:22-03:00"
+      "_drillTs": "2026-08-28T16:37:34-03:00"
     },
     "A8055008079A": {
       "area": 137.29,
@@ -1262,7 +1262,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:36:30-03:00"
+      "_drillTs": "2026-08-28T16:37:42-03:00"
     },
     "A8055008067A": {
       "area": 176.6,
@@ -2949,7 +2949,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:36:37-03:00"
+      "_drillTs": "2026-08-28T16:37:49-03:00"
     },
     "A8055008041A": {
       "area": 65.7,
@@ -3247,7 +3247,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:36:45-03:00"
+      "_drillTs": "2026-08-28T16:37:57-03:00"
     },
     "A8055008037A": {
       "area": 198,
@@ -3781,7 +3781,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:38:52-03:00"
+      "_drillTs": "2026-08-28T16:40:01-03:00"
     },
     "A8055008028A": {
       "area": 218.62,
@@ -4418,7 +4418,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:39:08-03:00"
+      "_drillTs": "2026-08-28T16:40:17-03:00"
     },
     "A8055008017A": {
       "area": 480.38,
@@ -4741,7 +4741,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:39:14-03:00"
+      "_drillTs": "2026-08-28T16:40:23-03:00"
     },
     "A8055008013A": {
       "area": 525.84,
@@ -7165,7 +7165,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:39:37-03:00"
+      "_drillTs": "2026-08-28T16:40:43-03:00"
     },
     "A8055007970A": {
       "area": 608.58,
@@ -7388,7 +7388,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:39:51-03:00"
+      "_drillTs": "2026-08-28T16:40:53-03:00"
     },
     "A8051000402A": {
       "area": 144,
@@ -7886,7 +7886,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:39:58-03:00"
+      "_drillTs": "2026-08-28T16:40:59-03:00"
     },
     "A8051000391A": {
       "area": 188.75,
@@ -8210,7 +8210,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:40:16-03:00"
+      "_drillTs": "2026-08-28T16:41:11-03:00"
     },
     "A8051000382A": {
       "area": 150,
@@ -10720,7 +10720,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:40:43-03:00"
+      "_drillTs": "2026-08-28T16:41:31-03:00"
     },
     "A8123001498A": {
       "area": 414.98,
@@ -11256,7 +11256,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:41:09-03:00"
+      "_drillTs": "2026-08-28T16:41:56-03:00"
     },
     "A8123001487A": {
       "area": 781.51,
@@ -11708,7 +11708,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:41:21-03:00"
+      "_drillTs": "2026-08-28T16:42:11-03:00"
     },
     "A8123001481A": {
       "area": 60,
@@ -12414,20 +12414,20 @@
     },
     "A8117003871A": {
       "area": 6267.4,
-      "data": "2026-08-21",
+      "data": "2026-08-28",
       "deferido": false,
-      "situacao": "Indeferido",
-      "codgSituacao": "INDEFERIDO",
+      "situacao": "Pagamento efetuado, aguarde fiscalização",
+      "codgSituacao": "PENDENTE_CBMSC",
       "cassado": false,
       "anulado": false,
       "suspenso": false,
-      "numgProcesso": "3095826",
-      "numgSolicitacaoProjeto": "521191",
-      "qtdAnexos": 10,
+      "numgProcesso": "3109925",
+      "numgSolicitacaoProjeto": "522371",
+      "qtdAnexos": 12,
       "anexos": [
         {
-          "id": 15914965,
-          "nome": "CBMSC_21-08-2026_15914965.pdf",
+          "id": 15986512,
+          "nome": "CBMSC_28-08-2026_15986512.pdf",
           "desc": "COMPROVANTE DE SOLICITAÇÃO"
         },
         {
@@ -12451,55 +12451,60 @@
           "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
         },
         {
-          "id": 15914854,
-          "nome": "PISCINAS-PL-DET-04-R00.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15914855,
-          "nome": "PISCINAS-PL-INC-02-R00.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15914856,
-          "nome": "PISCINAS-PL-INC-03-R00.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15914966,
-          "nome": "ANEXO_H_21-08-2026_15914966.pdf",
-          "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
-        },
-        {
           "id": 15914967,
           "nome": "DOC_AUXILIO_21-08-2026_15914967.pdf",
           "desc": ""
-        }
-      ],
-      "relatorio": [
+        },
         {
-          "id": 15943789,
-          "nome": "CBMSC_25-08-2026_15943789.pdf"
+          "id": 15986181,
+          "nome": "PISCINAS-PL-DET-04-R01.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986187,
+          "nome": "PISCINAS-PL-INC-02-R01.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986188,
+          "nome": "PISCINAS-PL-INC-03-R01.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986216,
+          "nome": "OFÍCIO-RESPOSTA.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 15986513,
+          "nome": "ANEXO_H_28-08-2026_15986513.pdf",
+          "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+        },
+        {
+          "id": 15986514,
+          "nome": "DOC_AUXILIO_28-08-2026_15986514.pdf",
+          "desc": ""
         }
       ],
-      "_drillTs": "2026-08-28T14:42:55-03:00"
+      "relatorio": [],
+      "_drillTs": "2026-08-28T16:43:47-03:00"
     },
     "A8117003842A": {
-      "area": 20623.6,
-      "data": "2026-08-20",
+      "area": 34341.3,
+      "data": "2026-08-28",
       "deferido": false,
-      "situacao": "Indeferido",
-      "codgSituacao": "INDEFERIDO",
+      "situacao": "Pendente de Pagamento",
+      "codgSituacao": "PENDENTE_PAGAMENTO",
       "cassado": false,
       "anulado": false,
       "suspenso": false,
-      "numgProcesso": "3094519",
-      "numgSolicitacaoProjeto": "521065",
-      "qtdAnexos": 35,
+      "numgProcesso": "3110028",
+      "numgSolicitacaoProjeto": "522383",
+      "qtdAnexos": 37,
       "anexos": [
         {
-          "id": 15907806,
-          "nome": "CBMSC_20-08-2026_15907806.pdf",
+          "id": 15986995,
+          "nome": "CBMSC_28-08-2026_15986995.pdf",
           "desc": "COMPROVANTE DE SOLICITAÇÃO"
         },
         {
@@ -12593,58 +12598,8 @@
           "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
         },
         {
-          "id": 15678375,
-          "nome": "FAZ-PCI-EX-007-2PVT-R04.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15678381,
-          "nome": "FAZ-PCI-PL-002-SUB-R07.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15678377,
-          "nome": "FAZ-PCI-PL-003-SUB-R09.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15678378,
-          "nome": "FAZ-PCI-PL-004-A-TER-R07.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15678379,
-          "nome": "FAZ-PCI-PL-004-B-TER-R01.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15678380,
-          "nome": "FAZ-PCI-PL-005-TER-R03.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15678382,
-          "nome": "FAZ-PCI-PL-006-2PVT-R10.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15678383,
-          "nome": "FAZ-PCI-PL-008-3PVT-R05.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
           "id": 15678385,
           "nome": "FAZ-PCI-PL-202-DET-R02.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15678387,
-          "nome": "FAZ-PCI-PL-204-DET-R01.pdf",
-          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
-        },
-        {
-          "id": 15678388,
-          "nome": "FAZ-PCI-PL-001-SIT-R02.pdf",
           "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
         },
         {
@@ -12663,23 +12618,78 @@
           "desc": "Outros documentos"
         },
         {
-          "id": 15907807,
-          "nome": "ANEXO_H_20-08-2026_15907807.pdf",
-          "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
-        },
-        {
           "id": 15907808,
           "nome": "DOC_AUXILIO_20-08-2026_15907808.pdf",
           "desc": ""
-        }
-      ],
-      "relatorio": [
+        },
         {
-          "id": 15919334,
-          "nome": "CBMSC_21-08-2026_15919334.pdf"
+          "id": 15986892,
+          "nome": "FAZ-PCI-PL-0204-DET-R02.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986895,
+          "nome": "FAZ-PCI-PL-008-3PVT-R07.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986889,
+          "nome": "FAZ-PCI-PL-007-2PVT-R05.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986903,
+          "nome": "FAZ-PCI-PL-006-2PVT-R11.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986891,
+          "nome": "FAZ-PCI-PL-005-TER-R04.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986897,
+          "nome": "FAZ-PCI-PL-004-B-TER-R03.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986911,
+          "nome": "FAZ-PCI-PL-004-A-TER-R09.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986913,
+          "nome": "FAZ-PCI-PL-003-SUB-R10.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986915,
+          "nome": "FAZ-PCI-PL-002-SUB-R08.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986914,
+          "nome": "FAZ-PCI-PL-001-SIT-R03.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986958,
+          "nome": "OFÍCIO-RESPOSTA.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 15986996,
+          "nome": "ANEXO_H_28-08-2026_15986996.pdf",
+          "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+        },
+        {
+          "id": 15986997,
+          "nome": "DOC_AUXILIO_28-08-2026_15986997.pdf",
+          "desc": ""
         }
       ],
-      "_drillTs": "2026-08-28T14:42:22-03:00"
+      "relatorio": [],
+      "_drillTs": "2026-08-28T16:43:08-03:00"
     },
     "A8117003870A": {
       "area": 880.48,
@@ -14782,7 +14792,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:43:00-03:00"
+      "_drillTs": "2026-08-28T16:43:57-03:00"
     },
     "A8117003832A": {
       "area": 425.25,
@@ -14819,7 +14829,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:43:01-03:00"
+      "_drillTs": "2026-08-28T16:43:58-03:00"
     },
     "A8117003839A": {
       "area": 336.56,
@@ -14961,7 +14971,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:43:07-03:00"
+      "_drillTs": "2026-08-28T16:44:04-03:00"
     },
     "A8117003837A": {
       "area": 420.91,
@@ -15199,7 +15209,7 @@
           "nome": "CBMSC_19-08-2026_15893681.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:43:19-03:00"
+      "_drillTs": "2026-08-28T16:44:21-03:00"
     },
     "A8117003831A": {
       "area": 536,
@@ -15550,7 +15560,7 @@
       "qtdAnexos": 0,
       "anexos": [],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:43:32-03:00"
+      "_drillTs": "2026-08-28T16:44:36-03:00"
     },
     "A8117003824A": {
       "area": 3718.32,
@@ -17845,7 +17855,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:43:52-03:00"
+      "_drillTs": "2026-08-28T16:45:00-03:00"
     },
     "A8117003785A": {
       "area": 131.96,
@@ -17897,7 +17907,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:44:19-03:00"
+      "_drillTs": "2026-08-28T16:45:21-03:00"
     },
     "A8117003783A": {
       "area": 495,
@@ -18264,7 +18274,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:44:31-03:00"
+      "_drillTs": "2026-08-28T16:45:28-03:00"
     },
     "A8117003777A": {
       "area": 334.43,
@@ -20766,7 +20776,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:44:50-03:00"
+      "_drillTs": "2026-08-28T16:45:56-03:00"
     },
     "A8265003369A": {
       "area": 13774.95,
@@ -21906,7 +21916,7 @@
           "nome": "CBMSC_13-08-2026_15832384.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:45:09-03:00"
+      "_drillTs": "2026-08-28T16:46:15-03:00"
     },
     "A8265003361A": {
       "area": 166.4,
@@ -23437,7 +23447,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:45:20-03:00"
+      "_drillTs": "2026-08-28T16:46:26-03:00"
     },
     "A8265003331A": {
       "area": 158,
@@ -23464,7 +23474,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:45:37-03:00"
+      "_drillTs": "2026-08-28T16:46:46-03:00"
     },
     "A8265003352A": {
       "area": 19727.14,
@@ -26172,7 +26182,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:45:43-03:00"
+      "_drillTs": "2026-08-28T16:46:52-03:00"
     },
     "A8265003337A": {
       "area": 6,
@@ -27085,7 +27095,7 @@
           "nome": "CBMSC_05-08-2026_15754711.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:45:49-03:00"
+      "_drillTs": "2026-08-28T16:46:58-03:00"
     },
     "A8265003332A": {
       "area": 2620,
@@ -27598,7 +27608,7 @@
           "nome": "CBMSC_07-08-2026_15783991.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:46:05-03:00"
+      "_drillTs": "2026-08-28T16:47:16-03:00"
     },
     "A8265003325A": {
       "area": 27049.72,
@@ -27860,7 +27870,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:46:13-03:00"
+      "_drillTs": "2026-08-28T16:47:23-03:00"
     },
     "A8265003324A": {
       "area": 317.66,
@@ -29614,7 +29624,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:47:05-03:00"
+      "_drillTs": "2026-08-28T16:48:12-03:00"
     },
     "A8265003303A": {
       "area": 11637.93,
@@ -32682,24 +32692,24 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:47:23-03:00"
+      "_drillTs": "2026-08-28T16:48:26-03:00"
     },
     "A8225000971A": {
       "area": 1130.46,
-      "data": "2026-08-21",
+      "data": "2026-08-28",
       "deferido": false,
-      "situacao": "Indeferido",
-      "codgSituacao": "INDEFERIDO",
+      "situacao": "Pagamento efetuado, aguarde fiscalização",
+      "codgSituacao": "PENDENTE_CBMSC",
       "cassado": false,
       "anulado": false,
       "suspenso": false,
-      "numgProcesso": "3096844",
-      "numgSolicitacaoProjeto": "521293",
-      "qtdAnexos": 12,
+      "numgProcesso": "3109766",
+      "numgSolicitacaoProjeto": "522357",
+      "qtdAnexos": 13,
       "anexos": [
         {
-          "id": 15919783,
-          "nome": "CBMSC_21-08-2026_15919783.pdf",
+          "id": 15985779,
+          "nome": "CBMSC_28-08-2026_15985779.pdf",
           "desc": "COMPROVANTE DE SOLICITAÇÃO"
         },
         {
@@ -32713,58 +32723,58 @@
           "desc": "Projeto arquitetônico"
         },
         {
-          "id": 15919765,
+          "id": 15985745,
           "nome": "ART 10647631-0.pdf",
           "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
         },
         {
-          "id": 15919769,
+          "id": 15985750,
           "nome": "BWK_MEM_PPCI_RE8225000408A_rev_Fazenda Comandoli.pdf",
           "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
         },
         {
-          "id": 15919773,
-          "nome": "BWK_PPCI_Folha01-04_Fazenda Comandoli.pdf",
+          "id": 15985758,
+          "nome": "BWK_PPCI_rev01_Folha01-04_Fazenda Comandoli.pdf",
           "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
         },
         {
-          "id": 15919771,
-          "nome": "BWK_PPCI_Folha02-04_Fazenda Comandoli.pdf",
+          "id": 15985760,
+          "nome": "BWK_PPCI_rev01_Folha02-04_Fazenda Comandoli.pdf",
           "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
         },
         {
-          "id": 15919772,
-          "nome": "BWK_PPCI_Folha03-04_Fazenda Comandoli.pdf",
+          "id": 15985759,
+          "nome": "BWK_PPCI_rev01_Folha03-04_Fazenda Comandoli.pdf",
           "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
         },
         {
-          "id": 15919770,
-          "nome": "BWK_PPCI_Folha04-04_Fazenda Comandoli.pdf",
+          "id": 15985761,
+          "nome": "BWK_PPCI_rev01_Folha04-04_Fazenda Comandoli.pdf",
           "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
         },
         {
-          "id": 15919774,
+          "id": 15985770,
+          "nome": "BWK_CARTA RESPOSTA_INDEFERIMENTO SUMARIO 1_rev_Bil Têxtil.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 15985769,
           "nome": "BWK_OFÍCIO EXPLICATIVO_IN 1 ART. 97_RE8225000408A_rev_Fazenda Comandoli.pdf",
           "desc": "Outros documentos"
         },
         {
-          "id": 15919784,
-          "nome": "ANEXO_H_21-08-2026_15919784.pdf",
+          "id": 15985780,
+          "nome": "ANEXO_H_28-08-2026_15985780.pdf",
           "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
         },
         {
-          "id": 15919785,
-          "nome": "DOC_AUXILIO_21-08-2026_15919785.pdf",
+          "id": 15985781,
+          "nome": "DOC_AUXILIO_28-08-2026_15985781.pdf",
           "desc": ""
         }
       ],
-      "relatorio": [
-        {
-          "id": 15954309,
-          "nome": "CBMSC_26-08-2026_15954309.pdf"
-        }
-      ],
-      "_drillTs": "2026-08-28T14:47:36-03:00"
+      "relatorio": [],
+      "_drillTs": "2026-08-28T16:48:39-03:00"
     },
     "A8225000970A": {
       "area": 1746.81,
@@ -33288,7 +33298,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:47:44-03:00"
+      "_drillTs": "2026-08-28T16:48:48-03:00"
     },
     "A8225000962A": {
       "area": 40,
@@ -33526,7 +33536,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:47:52-03:00"
+      "_drillTs": "2026-08-28T16:48:57-03:00"
     },
     "A8225000959A": {
       "area": 459.03,
@@ -35174,7 +35184,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:48:21-03:00"
+      "_drillTs": "2026-08-28T16:49:27-03:00"
     },
     "A8225000925A": {
       "area": 12,
@@ -36979,7 +36989,7 @@
           "nome": "CBMSC_25-08-2026_15941841.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:48:28-03:00"
+      "_drillTs": "2026-08-28T16:49:32-03:00"
     },
     "A8163007184A": {
       "area": 181,
@@ -38578,7 +38588,7 @@
           "nome": "CBMSC_26-08-2026_15959870.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:48:39-03:00"
+      "_drillTs": "2026-08-28T16:49:51-03:00"
     },
     "A8163007173A": {
       "area": 396,
@@ -39355,7 +39365,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:48:53-03:00"
+      "_drillTs": "2026-08-28T16:50:06-03:00"
     },
     "A8163007163A": {
       "area": 6429.34,
@@ -39517,7 +39527,7 @@
           "nome": "CBMSC_17-08-2026_15866385.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:49:00-03:00"
+      "_drillTs": "2026-08-28T16:50:15-03:00"
     },
     "A8163007161A": {
       "area": 100,
@@ -40916,7 +40926,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:49:08-03:00"
+      "_drillTs": "2026-08-28T16:50:22-03:00"
     },
     "A8163007145A": {
       "area": 5679.4,
@@ -41842,7 +41852,7 @@
           "nome": "CBMSC_26-08-2026_15955555.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:49:17-03:00"
+      "_drillTs": "2026-08-28T16:50:30-03:00"
     },
     "A8163007136A": {
       "area": 126,
@@ -42400,7 +42410,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:49:24-03:00"
+      "_drillTs": "2026-08-28T16:50:36-03:00"
     },
     "A8163007126A": {
       "area": 691.22,
@@ -47654,7 +47664,7 @@
           "nome": "CBMSC_22-08-2026_15921574.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:49:30-03:00"
+      "_drillTs": "2026-08-28T16:50:43-03:00"
     },
     "A8163007076A": {
       "area": 21682.64,
@@ -50644,7 +50654,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:49:49-03:00"
+      "_drillTs": "2026-08-28T16:51:18-03:00"
     },
     "A8047012952A": {
       "area": 13390.02,
@@ -51686,7 +51696,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:50:18-03:00"
+      "_drillTs": "2026-08-28T16:51:59-03:00"
     },
     "A8047012938A": {
       "area": 80,
@@ -52401,7 +52411,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:50:47-03:00"
+      "_drillTs": "2026-08-28T16:52:21-03:00"
     },
     "A8047012928A": {
       "area": 3137.58,
@@ -53402,7 +53412,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:51:11-03:00"
+      "_drillTs": "2026-08-28T16:52:47-03:00"
     },
     "A8047012911A": {
       "area": 241.39,
@@ -54070,7 +54080,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:51:22-03:00"
+      "_drillTs": "2026-08-28T16:52:57-03:00"
     },
     "A8047012904A": {
       "area": 252.38,
@@ -54950,7 +54960,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:51:29-03:00"
+      "_drillTs": "2026-08-28T16:53:04-03:00"
     },
     "A8047012886A": {
       "area": 1975.27,
@@ -55514,7 +55524,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:51:40-03:00"
+      "_drillTs": "2026-08-28T16:53:16-03:00"
     },
     "A8047012843A": {
       "area": 1252,
@@ -55530,7 +55540,7 @@
       "qtdAnexos": 0,
       "anexos": [],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:51:41-03:00"
+      "_drillTs": "2026-08-28T16:53:17-03:00"
     },
     "A8047012875A": {
       "area": 303.07,
@@ -55789,7 +55799,7 @@
           "nome": "CBMSC_17-08-2026_15868770.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:51:54-03:00"
+      "_drillTs": "2026-08-28T16:53:31-03:00"
     },
     "A8047012873A": {
       "area": 160,
@@ -56511,7 +56521,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:52:01-03:00"
+      "_drillTs": "2026-08-28T16:53:38-03:00"
     },
     "A8047012860A": {
       "area": 83.19,
@@ -56647,7 +56657,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:52:09-03:00"
+      "_drillTs": "2026-08-28T16:53:47-03:00"
     },
     "A8047012856A": {
       "area": 1232.1,
@@ -56999,7 +57009,7 @@
           "nome": "CBMSC_19-08-2026_15884829.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:52:17-03:00"
+      "_drillTs": "2026-08-28T16:53:54-03:00"
     },
     "A8047012851A": {
       "area": 319.34,
@@ -57808,7 +57818,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:52:27-03:00"
+      "_drillTs": "2026-08-28T16:54:07-03:00"
     },
     "A8047012837A": {
       "area": 325.55,
@@ -58319,7 +58329,7 @@
           "nome": "CBMSC_30-07-2026_15708514.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:52:58-03:00"
+      "_drillTs": "2026-08-28T16:54:38-03:00"
     },
     "A8047012824A": {
       "area": 508.64,
@@ -58728,7 +58738,7 @@
           "nome": "CBMSC_14-07-2026_15545667.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:53:04-03:00"
+      "_drillTs": "2026-08-28T16:54:45-03:00"
     },
     "A8047012817A": {
       "area": 80.12,
@@ -60247,7 +60257,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:53:13-03:00"
+      "_drillTs": "2026-08-28T16:54:59-03:00"
     },
     "A8047012796A": {
       "area": 37.48,
@@ -60361,7 +60371,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:53:30-03:00"
+      "_drillTs": "2026-08-28T16:55:12-03:00"
     },
     "A8047012794A": {
       "area": 5780.38,
@@ -60453,7 +60463,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:53:37-03:00"
+      "_drillTs": "2026-08-28T16:55:30-03:00"
     },
     "A8047012788A": {
       "area": 6026.02,
@@ -60585,7 +60595,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:53:45-03:00"
+      "_drillTs": "2026-08-28T16:55:43-03:00"
     },
     "A8047012775A": {
       "area": 6026.02,
@@ -60601,7 +60611,7 @@
       "qtdAnexos": 0,
       "anexos": [],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:53:45-03:00"
+      "_drillTs": "2026-08-28T16:55:43-03:00"
     },
     "A8047012792A": {
       "area": 511.05,
@@ -60638,7 +60648,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:53:55-03:00"
+      "_drillTs": "2026-08-28T16:55:55-03:00"
     },
     "A8047012791A": {
       "area": 55.33,
@@ -62117,7 +62127,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:54:08-03:00"
+      "_drillTs": "2026-08-28T16:56:05-03:00"
     },
     "A8047012770A": {
       "area": 8319.42,
@@ -62924,7 +62934,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:54:24-03:00"
+      "_drillTs": "2026-08-28T16:56:23-03:00"
     },
     "A8047012748A": {
       "area": 3107.12,
@@ -62940,7 +62950,7 @@
       "qtdAnexos": 0,
       "anexos": [],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:54:31-03:00"
+      "_drillTs": "2026-08-28T16:56:31-03:00"
     },
     "A8047012744A": {
       "area": 25.9,
@@ -63579,7 +63589,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:55:14-03:00"
+      "_drillTs": "2026-08-28T16:57:23-03:00"
     },
     "A8221004989A": {
       "area": 36.29,
@@ -63874,7 +63884,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:55:50-03:00"
+      "_drillTs": "2026-08-28T16:57:57-03:00"
     },
     "A8221004981A": {
       "area": 746.21,
@@ -64312,7 +64322,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:55:57-03:00"
+      "_drillTs": "2026-08-28T16:58:03-03:00"
     },
     "A8221004972A": {
       "area": 1450.77,
@@ -68813,7 +68823,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:56:02-03:00"
+      "_drillTs": "2026-08-28T16:58:15-03:00"
     },
     "A8221004956A": {
       "area": 550.06,
@@ -71962,7 +71972,7 @@
           "nome": "CBMSC_28-08-2026_15982401.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:56:23-03:00"
+      "_drillTs": "2026-08-28T16:58:37-03:00"
     },
     "A8161014270A": {
       "area": 753.14,
@@ -72153,7 +72163,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:56:29-03:00"
+      "_drillTs": "2026-08-28T16:58:44-03:00"
     },
     "A8161014266A": {
       "area": 206.2,
@@ -73806,7 +73816,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:56:36-03:00"
+      "_drillTs": "2026-08-28T16:58:51-03:00"
     },
     "A8161014250A": {
       "area": 475.26,
@@ -75385,7 +75395,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:56:42-03:00"
+      "_drillTs": "2026-08-28T16:59:03-03:00"
     },
     "A8161014245A": {
       "area": 368.06,
@@ -76372,7 +76382,7 @@
           "nome": "CBMSC_20-08-2026_15899509.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:56:51-03:00"
+      "_drillTs": "2026-08-28T16:59:11-03:00"
     },
     "A8161014231A": {
       "area": 2970.74,
@@ -77056,7 +77066,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:57:48-03:00"
+      "_drillTs": "2026-08-28T17:00:09-03:00"
     },
     "A8161014221A": {
       "area": 118.9,
@@ -85910,7 +85920,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:57:55-03:00"
+      "_drillTs": "2026-08-28T17:00:15-03:00"
     },
     "A8161014103A": {
       "area": 118.96,
@@ -87586,7 +87596,7 @@
           "nome": "CBMSC_14-07-2026_15552025.pdf"
         }
       ],
-      "_drillTs": "2026-08-28T14:58:03-03:00"
+      "_drillTs": "2026-08-28T17:00:24-03:00"
     },
     "A8161014082A": {
       "area": 60,
@@ -89153,7 +89163,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:58:25-03:00"
+      "_drillTs": "2026-08-28T17:00:49-03:00"
     },
     "A8161014046A": {
       "area": 351.3,
@@ -90108,7 +90118,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:58:30-03:00"
+      "_drillTs": "2026-08-28T17:00:58-03:00"
     },
     "A8161014030A": {
       "area": 398.63,
@@ -92935,7 +92945,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:59:25-03:00"
+      "_drillTs": "2026-08-28T17:02:02-03:00"
     },
     "A8161013992A": {
       "area": 6962.51,
@@ -93339,7 +93349,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:59:31-03:00"
+      "_drillTs": "2026-08-28T17:02:11-03:00"
     },
     "A8161013988A": {
       "area": 5207.33,
@@ -94435,7 +94445,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:54:36-03:00"
+      "_drillTs": "2026-08-28T16:56:37-03:00"
     },
     "A8161014279A": {
       "area": 13192.22,
@@ -95019,7 +95029,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-08-28T14:49:42-03:00"
+      "_drillTs": "2026-08-28T16:51:12-03:00"
     },
     "A8047012972A": {
       "area": 668.45,
@@ -95974,6 +95984,588 @@
       ],
       "relatorio": [],
       "_drillTs": "2026-08-28T14:41:26-03:00"
+    },
+    "A8055008095A": {
+      "area": 30,
+      "data": "2026-08-28",
+      "deferido": false,
+      "situacao": "Pendente de Pagamento",
+      "codgSituacao": "PENDENTE_PAGAMENTO",
+      "cassado": false,
+      "anulado": false,
+      "suspenso": false,
+      "numgProcesso": "3110127",
+      "numgSolicitacaoProjeto": "522395",
+      "qtdAnexos": 2,
+      "anexos": [
+        {
+          "id": 15987483,
+          "nome": "CBMSC_28-08-2026_15987483.pdf",
+          "desc": "COMPROVANTE DE SOLICITAÇÃO"
+        },
+        {
+          "id": 15987484,
+          "nome": "DOC_AUXILIO_28-08-2026_15987484.pdf",
+          "desc": ""
+        }
+      ],
+      "relatorio": [],
+      "_drillTs": "2026-08-28T16:36:09-03:00"
+    },
+    "A8055008094A": {
+      "area": 580.41,
+      "data": "2026-08-28",
+      "deferido": false,
+      "situacao": "Pendente de Pagamento",
+      "codgSituacao": "PENDENTE_PAGAMENTO",
+      "cassado": false,
+      "anulado": false,
+      "suspenso": false,
+      "numgProcesso": "3109969",
+      "numgSolicitacaoProjeto": "522379",
+      "qtdAnexos": 8,
+      "anexos": [
+        {
+          "id": 15986673,
+          "nome": "CBMSC_28-08-2026_15986673.pdf",
+          "desc": "COMPROVANTE DE SOLICITAÇÃO"
+        },
+        {
+          "id": 15986649,
+          "nome": "ART 10541001-6-1.pdf",
+          "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+        },
+        {
+          "id": 15986655,
+          "nome": "Memorial PPCI - Bloco F.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 15986656,
+          "nome": "BLOCO F - PPCI1.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986657,
+          "nome": "BLOCO F - PPCI2.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15986671,
+          "nome": "Ofício 37-2026 - Bloco F.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 15986674,
+          "nome": "ANEXO_H_28-08-2026_15986674.pdf",
+          "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+        },
+        {
+          "id": 15986675,
+          "nome": "DOC_AUXILIO_28-08-2026_15986675.pdf",
+          "desc": ""
+        }
+      ],
+      "relatorio": [],
+      "_drillTs": "2026-08-28T16:36:55-03:00"
+    },
+    "A8055008093A": {
+      "area": 15.38,
+      "data": "2026-08-28",
+      "deferido": false,
+      "situacao": "Pendente de Pagamento",
+      "codgSituacao": "PENDENTE_PAGAMENTO",
+      "cassado": false,
+      "anulado": false,
+      "suspenso": false,
+      "numgProcesso": "3109951",
+      "numgSolicitacaoProjeto": "522377",
+      "qtdAnexos": 2,
+      "anexos": [
+        {
+          "id": 15986611,
+          "nome": "CBMSC_28-08-2026_15986611.pdf",
+          "desc": "COMPROVANTE DE SOLICITAÇÃO"
+        },
+        {
+          "id": 15986612,
+          "nome": "DOC_AUXILIO_28-08-2026_15986612.pdf",
+          "desc": ""
+        }
+      ],
+      "relatorio": [],
+      "_drillTs": "2026-08-28T16:37:28-03:00"
+    },
+    "A8265003381A": {
+      "area": 16883.72,
+      "data": "2026-08-28",
+      "deferido": false,
+      "situacao": "Pendente de Pagamento",
+      "codgSituacao": "PENDENTE_PAGAMENTO",
+      "cassado": false,
+      "anulado": false,
+      "suspenso": false,
+      "numgProcesso": "3109608",
+      "numgSolicitacaoProjeto": "522343",
+      "qtdAnexos": 51,
+      "anexos": [
+        {
+          "id": 15984911,
+          "nome": "CBMSC_28-08-2026_15984911.pdf",
+          "desc": "COMPROVANTE DE SOLICITAÇÃO"
+        },
+        {
+          "id": 15984747,
+          "nome": "ART Projetos (v02)- Luminer.pdf",
+          "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+        },
+        {
+          "id": 15984763,
+          "nome": "Cálculo de Amostragem - LUMINER GARDEN HOMES.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 15984761,
+          "nome": "Memorial Descritivo - LUMINER GARDEN HOMES.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 15984760,
+          "nome": "Memorial IGC - LUMINER GARDEN HOMES.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 15984762,
+          "nome": "Memorial SHP - LUMINER GARDEN HOMES.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 15984783,
+          "nome": "P01-AP [R00] - Luminer - SITUAÇÃO E LOCALIZAÇÃO.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984784,
+          "nome": "P02-AP [R00] - Luminer - TÉRREO.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984779,
+          "nome": "P03-AP [R00] - Luminer - GARAGEM 02.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984780,
+          "nome": "P04-AP [R00] - Luminer - GARAGEM 03 E 04.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984781,
+          "nome": "P05-AP [R00] - Luminer - GARAGEM 05.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984778,
+          "nome": "P06-AP [R00] - Luminer - LAZER.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984797,
+          "nome": "P07-AP [R00] - Luminer - TIPO (x22).pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984799,
+          "nome": "P08-AP [R00] - Luminer - DIF. DUPLEX INFERIOR.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984798,
+          "nome": "P09-AP [R00] - Luminer - DIF. DUPLEX SUPERIOR.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984800,
+          "nome": "P10-AP [R00] - Luminer - ROOFTOP.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984802,
+          "nome": "P11-AP [R00] - Luminer - TELHADO E RESERV. SUPERIOR1.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984804,
+          "nome": "P12-AP [R00] - Luminer - ESQUEMA VERTICAL SHP.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984807,
+          "nome": "P13-AP [R00] - Luminer - ESQUEMA VERTICAL IGC.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984811,
+          "nome": "P14-AP [R00] - Luminer - DETALHES SDAI, ESQ. VERT. ASD E COMPART. VERT.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984808,
+          "nome": "P15-AP [R00] - Luminer - DETALHES IGC.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984810,
+          "nome": "P16-AP [R00] - Luminer - DETALHES SHP-SPE.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984812,
+          "nome": "P17-AP [R00] - Luminer - COMPARTIMENTAÇÃO VERTICAL1.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984839,
+          "nome": "P01-PE [R00] - Luminer -  TÉRREO - HALL DE ENTRADA.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984859,
+          "nome": "P02-PE [R00] - Luminer -  TÉRREO - BOXES DE PRAIA.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984847,
+          "nome": "P03-PE [R00] - Luminer - GARAGENS 02, 03, 04 E 05  - 1-2.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984840,
+          "nome": "P04-PE [R00] - Luminer - GARAGENS 02, 03, 04 E 05  - 2-2.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984838,
+          "nome": "P05-PE [R00] - Luminer - LAZER - SALA DE JOGOS.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984841,
+          "nome": "P06 -PE [R00] - Luminer -  LAZER - PET CARE.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984842,
+          "nome": "P07-PE [R00] - Luminer - LAZER - SALÃO DE FESTAS.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984845,
+          "nome": "P08-PE [R00] - Luminer -  LAZER - SELF DELI.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984844,
+          "nome": "P09-PE [R00] - Luminer -  LAZER - ACADEMIA.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984843,
+          "nome": "P10-PE [R00] - Luminer -  TIPO (X23).pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984849,
+          "nome": "P11-PE [R00] - Luminer - TIPO DIF. DUPLEX  INFERIOR.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984846,
+          "nome": "P12-PE [R00] - Luminer - TIPO DIF. DUPLEX SUPERIOR.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984850,
+          "nome": "P13-PE [R00] - Luminer - ROOFTOP - PUB.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984848,
+          "nome": "P14-PE [R00] - Luminer - ROOFTOP - TERRAÇO.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15984879,
+          "nome": "A02-EX [R00] - Luminer - Térreo.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984876,
+          "nome": "A03-EX [R00] - Luminer - G2.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984873,
+          "nome": "A04-EX [R00] - Luminer - G3.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984874,
+          "nome": "A05-EX [R00] - Luminer - G4.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984875,
+          "nome": "A06-EX [R00] - Luminer - G5.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984877,
+          "nome": "A07-EX [R00] - Luminer - Lazer.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984878,
+          "nome": "A08-EX [R00] - Luminer - Tipo.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984880,
+          "nome": "A14-EX [R00] - Luminer - Tipo Dif.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984881,
+          "nome": "A15-EX [R00] - Luminer - Duplex Inf.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984883,
+          "nome": "A16-EX [R00] - Luminer - Duplex Sup.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984882,
+          "nome": "A17-EX [R00] - Luminer - Rooftop.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984885,
+          "nome": "A18-EX [R00] - Luminer - Telhado.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 15984912,
+          "nome": "ANEXO_H_28-08-2026_15984912.pdf",
+          "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+        },
+        {
+          "id": 15984913,
+          "nome": "DOC_AUXILIO_28-08-2026_15984913.pdf",
+          "desc": ""
+        }
+      ],
+      "relatorio": [],
+      "_drillTs": "2026-08-28T16:45:50-03:00"
+    },
+    "A8047012981A": {
+      "area": 1781.02,
+      "data": "2026-08-28",
+      "deferido": false,
+      "situacao": "Pendente de Pagamento",
+      "codgSituacao": "PENDENTE_PAGAMENTO",
+      "cassado": false,
+      "anulado": false,
+      "suspenso": false,
+      "numgProcesso": "3110110",
+      "numgSolicitacaoProjeto": "522392",
+      "qtdAnexos": 22,
+      "anexos": [
+        {
+          "id": 15987423,
+          "nome": "CBMSC_28-08-2026_15987423.pdf",
+          "desc": "COMPROVANTE DE SOLICITAÇÃO"
+        },
+        {
+          "id": 6875021,
+          "nome": "ROYAL ADMINISTRADOR DE BENS( ÂME) ass.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 6876009,
+          "nome": "MC-PPCI-01_R00 - Memorial Cálculo Hidráulico.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 6876010,
+          "nome": "MD-PPCI-01_R01 - Memorial Descritivo.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 6876016,
+          "nome": "ART 8968180-1.pdf",
+          "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+        },
+        {
+          "id": 7331994,
+          "nome": "ÂME 01 ass.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 7331991,
+          "nome": "ÂME 02 ass.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 7331992,
+          "nome": "ÂME 03 ass.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 7331993,
+          "nome": "ÂME 04 ass.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 7332104,
+          "nome": "PPCI-001-008_R01 - Detalhes Gerais.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 7332095,
+          "nome": "PPCI-002-008_R01 - Cortes.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 7332105,
+          "nome": "PPCI-003-008_R01 - Detalhe Casa de Bombas e Isométrico.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 7332109,
+          "nome": "PPCI-004-008_R01 - Planta Baixa Situação.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 7332096,
+          "nome": "PPCI-005-008_R01 - Planta Baixa Subsolo.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 7332098,
+          "nome": "PPCI-006-008_R01 - Planta Baixa Térreo.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 7332101,
+          "nome": "PPCI-007-008_R01 - Planta Baixa Superior.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 7332111,
+          "nome": "PPCI-008-008_R01 - Planta Baixa Cobertura.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 7332123,
+          "nome": "Oficio de Resposta - 1ª Análise CBM - R00.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 15987331,
+          "nome": "PPCI-007-008_R01 - Planta Baixa Superior.pdf",
+          "desc": "Projeto preventivo contra incêndio com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15987332,
+          "nome": "OF-PPCI-01-R00 - Oficio de Alteracoes de Projeto-ass.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 15987424,
+          "nome": "ANEXO_H_28-08-2026_15987424.pdf",
+          "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+        },
+        {
+          "id": 15987425,
+          "nome": "DOC_AUXILIO_28-08-2026_15987425.pdf",
+          "desc": ""
+        }
+      ],
+      "relatorio": [],
+      "_drillTs": "2026-08-28T16:50:56-03:00"
+    },
+    "A8047012980A": {
+      "area": 4036.04,
+      "data": "2026-08-28",
+      "deferido": false,
+      "situacao": "Pendente de Pagamento",
+      "codgSituacao": "PENDENTE_PAGAMENTO",
+      "cassado": false,
+      "anulado": false,
+      "suspenso": false,
+      "numgProcesso": "3109673",
+      "numgSolicitacaoProjeto": "522347",
+      "qtdAnexos": 11,
+      "anexos": [
+        {
+          "id": 15985211,
+          "nome": "CBMSC_28-08-2026_15985211.pdf",
+          "desc": "COMPROVANTE DE SOLICITAÇÃO"
+        },
+        {
+          "id": 15985186,
+          "nome": "ART 10659190-4.pdf",
+          "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+        },
+        {
+          "id": 15985189,
+          "nome": "MEMORIAL DESCRITIVO.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 15985195,
+          "nome": "PPCI - 01 - Planta Situação - Colibri-01.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15985197,
+          "nome": "PPCI - 02 - Planta Baixa Térreo - Colibri-02.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15985192,
+          "nome": "PPCI - 03 - Planta Baixa e Mezaninos - Colibri-03.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15985194,
+          "nome": "PPCI - 04 - Planta Baixa Guarita e Estacionamento - Colibri-04.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15985193,
+          "nome": "PPCI - 05 - Detalhes Gerais - Colibri-05.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15985196,
+          "nome": "PPCI - 06 - Detalhes SHP - Colibri-06.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 15985213,
+          "nome": "ANEXO_H_28-08-2026_15985213.pdf",
+          "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+        },
+        {
+          "id": 15985215,
+          "nome": "DOC_AUXILIO_28-08-2026_15985215.pdf",
+          "desc": ""
+        }
+      ],
+      "relatorio": [],
+      "_drillTs": "2026-08-28T16:51:07-03:00"
     }
   }
 }
