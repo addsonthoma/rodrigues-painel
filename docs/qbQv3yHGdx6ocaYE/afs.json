@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-28T15:10:20-03:00",
+  "timestamp": "2026-08-28T15:20:22-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 968,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T15:10:20-03:00"
+      "ultima_verificacao": "2026-08-28T15:20:22-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T15:10:20-03:00"
+      "ultima_verificacao": "2026-08-28T15:20:22-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T15:10:20-03:00"
+      "ultima_verificacao": "2026-08-28T15:20:22-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 618,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T15:10:20-03:00"
+      "ultima_verificacao": "2026-08-28T15:20:22-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 506,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T15:10:20-03:00"
+      "ultima_verificacao": "2026-08-28T15:20:22-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 499,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T15:10:20-03:00"
+      "ultima_verificacao": "2026-08-28T15:20:22-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1178,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T15:10:20-03:00"
+      "ultima_verificacao": "2026-08-28T15:20:22-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1141,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T15:10:20-03:00"
+      "ultima_verificacao": "2026-08-28T15:20:22-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 321,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T15:10:20-03:00"
+      "ultima_verificacao": "2026-08-28T15:20:22-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1180,
+      "ultimo_numero": 1182,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T15:10:20-03:00"
+      "ultima_verificacao": "2026-08-28T15:20:22-03:00"
     }
   },
   "afs": {
@@ -22391,6 +22391,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001182A/26",
+        "Tipo": "AF",
+        "RE": "RE8161010247A",
+        "Nome_Edificacao": "Residencial DS2 I",
+        "Logradouro": "Rua Paraíba",
+        "Numero": "14",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-28T15:20:22-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001181A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005791A",
+        "Nome_Edificacao": "BRAVA VILLAGE RESIDENCE",
+        "Logradouro": "Avenida Marcio Ferreira de Mello e Silva",
+        "Numero": "80",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-28T15:20:22-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001180A/26",
         "Tipo": "AF",
         "RE": "RE8161011991A",
@@ -27099,7 +27121,7 @@
     "Itapema": 444,
     "Blumenau": 428,
     "Navegantes": 117,
-    "Itajai": 427
+    "Itajai": 429
   },
-  "total_geral": 2455
+  "total_geral": 2457
 }
