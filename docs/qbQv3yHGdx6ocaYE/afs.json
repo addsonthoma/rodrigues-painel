@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-28T12:40:21-03:00",
+  "timestamp": "2026-08-28T12:50:41-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 968,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T12:40:21-03:00"
+      "ultima_verificacao": "2026-08-28T12:50:41-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T12:40:21-03:00"
+      "ultima_verificacao": "2026-08-28T12:50:41-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T12:40:21-03:00"
+      "ultima_verificacao": "2026-08-28T12:50:41-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 618,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T12:40:21-03:00"
+      "ultima_verificacao": "2026-08-28T12:50:41-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 505,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T12:40:21-03:00"
+      "ultima_verificacao": "2026-08-28T12:50:41-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 499,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T12:40:21-03:00"
+      "ultima_verificacao": "2026-08-28T12:50:41-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1174,
+      "ultimo_numero": 1175,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T12:40:21-03:00"
+      "ultima_verificacao": "2026-08-28T12:50:41-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1140,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T12:40:21-03:00"
+      "ultima_verificacao": "2026-08-28T12:50:41-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 321,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T12:40:21-03:00"
+      "ultima_verificacao": "2026-08-28T12:50:41-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1174,
+      "ultimo_numero": 1176,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-28T12:40:21-03:00"
+      "ultima_verificacao": "2026-08-28T12:50:41-03:00"
     }
   },
   "afs": {
@@ -11495,6 +11495,17 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163001175A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001477A",
+        "Nome_Edificacao": "MELLIE MÓVEIS LTDA",
+        "Logradouro": "RODOVIA: BR 101 KM 147, Nº 1000",
+        "Numero": "1000",
+        "Bairro": "ITAPEMA - CASA BRANCA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-28T12:50:41-03:00"
+      },
+      {
         "CodigoAuto": "AF8163001174A/26",
         "Tipo": "AF",
         "RE": "RE8163002592A",
@@ -22325,6 +22336,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001176A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002151A",
+        "Nome_Edificacao": "Ivonete Rebelo Alexandre",
+        "Logradouro": "Rua Uruguai",
+        "Numero": "715",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-28T12:50:41-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001175A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005028A",
+        "Nome_Edificacao": "NELSON RAIMUNDO",
+        "Logradouro": "Avenida Sete de Setembro",
+        "Numero": "1218",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-28T12:50:41-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001174A/26",
         "Tipo": "AF",
         "RE": "RE8161000268A",
@@ -26964,10 +26997,10 @@
     "Gaspar": 203,
     "Porto Belo": 214,
     "Nova Trento": 189,
-    "Itapema": 440,
+    "Itapema": 441,
     "Blumenau": 427,
     "Navegantes": 117,
-    "Itajai": 421
+    "Itajai": 423
   },
-  "total_geral": 2443
+  "total_geral": 2446
 }
