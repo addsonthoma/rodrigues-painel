@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-28T14:26:56-03:00",
+  "timestamp": "2026-08-28T14:37:37-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8092,
-      "ultima_verificacao": "2026-08-28T14:26:56-03:00"
+      "ultima_verificacao": "2026-08-28T14:37:37-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-28T14:26:56-03:00"
+      "ultima_verificacao": "2026-08-28T14:37:37-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-28T14:26:56-03:00"
+      "ultima_verificacao": "2026-08-28T14:37:37-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3880,
-      "ultima_verificacao": "2026-08-28T14:26:56-03:00"
+      "ultima_verificacao": "2026-08-28T14:37:37-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-28T14:26:56-03:00"
+      "ultimo_numero": 3381,
+      "ultima_verificacao": "2026-08-28T14:37:37-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-28T14:26:56-03:00"
+      "ultima_verificacao": "2026-08-28T14:37:37-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7201,
-      "ultima_verificacao": "2026-08-28T14:26:56-03:00"
+      "ultima_verificacao": "2026-08-28T14:37:37-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12979,
-      "ultima_verificacao": "2026-08-28T14:26:56-03:00"
+      "ultima_verificacao": "2026-08-28T14:37:37-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5010,
-      "ultima_verificacao": "2026-08-28T14:26:56-03:00"
+      "ultima_verificacao": "2026-08-28T14:37:37-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14282,
-      "ultima_verificacao": "2026-08-28T14:26:56-03:00"
+      "ultima_verificacao": "2026-08-28T14:37:37-03:00"
     }
   },
   "protocolos": {
@@ -3681,6 +3681,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003381A",
+        "RE": "RE8265002831A",
+        "numgEdificacao": 369085,
+        "Nome_Edificacao": "LUMINER GARDEN HOMES",
+        "Logradouro": "Av. Dorvalino Voltolini",
+        "Numero": "",
+        "Bairro": "PORTO BELO - Balneário Perequê",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-28T14:37:37-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003380A",
         "RE": "RE8265002828A",
@@ -14346,12 +14357,12 @@
     "Botuvera": 36,
     "Guabiruba": 51,
     "Gaspar": 114,
-    "Porto Belo": 99,
+    "Porto Belo": 100,
     "Nova Trento": 59,
     "Itapema": 154,
     "Blumenau": 237,
     "Navegantes": 113,
     "Itajai": 306
   },
-  "total_geral": 1297
+  "total_geral": 1298
 }
