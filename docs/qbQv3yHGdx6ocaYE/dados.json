@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-28T13:50:05-03:00",
+  "timestamp": "2026-08-28T14:00:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T13:50:05-03:00"
+      "ultima_verificacao": "2026-08-28T14:00:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T13:50:05-03:00"
+      "ultima_verificacao": "2026-08-28T14:00:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T13:50:05-03:00"
+      "ultima_verificacao": "2026-08-28T14:00:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 49,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T13:50:05-03:00"
+      "ultima_verificacao": "2026-08-28T14:00:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 110,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T13:50:05-03:00"
+      "ultima_verificacao": "2026-08-28T14:00:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 139,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T13:50:05-03:00"
+      "ultima_verificacao": "2026-08-28T14:00:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 189,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T13:50:05-03:00"
+      "ultima_verificacao": "2026-08-28T14:00:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 231,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T13:50:05-03:00"
+      "ultima_verificacao": "2026-08-28T14:00:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T13:50:05-03:00"
+      "ultima_verificacao": "2026-08-28T14:00:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 431,
+      "ultimo_numero": 432,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T13:50:05-03:00"
+      "ultima_verificacao": "2026-08-28T14:00:04-03:00"
     }
   },
   "multas": {
@@ -1943,6 +1943,16 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000432A/26",
+        "RE": "RE8161012410A",
+        "Nome_Edificacao": "VANIA CAMPOS LEITE",
+        "Logradouro": "R CAMBORIU",
+        "Numero": "25",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-28T14:00:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000431A/26",
         "RE": "RE8161004506A",
@@ -5697,14 +5707,21 @@
     "Brusque": 64,
     "Gaspar": 25,
     "Guabiruba": 3,
-    "Itajai": 149,
+    "Itajai": 150,
     "Itapema": 72,
     "Navegantes": 52,
     "Nova Trento": 56,
     "Porto Belo": 53
   },
-  "total_geral": 573,
+  "total_geral": 574,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-28T14:00:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000432A/26",
+      "nome": "VANIA CAMPOS LEITE",
+      "re": "RE8161012410A"
+    },
     {
       "ts": "2026-08-28T13:50:05-03:00",
       "cidade": "Itajai",
