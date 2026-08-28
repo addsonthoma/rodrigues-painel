@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-28T08:15:32-03:00",
+  "timestamp": "2026-08-28T18:27:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T08:15:32-03:00"
+      "ultima_verificacao": "2026-08-28T18:27:24-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T08:15:32-03:00"
+      "ultima_verificacao": "2026-08-28T18:27:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T08:15:32-03:00"
+      "ultima_verificacao": "2026-08-28T18:27:24-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 49,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T08:15:32-03:00"
+      "ultima_verificacao": "2026-08-28T18:27:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 110,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T08:15:32-03:00"
+      "ultima_verificacao": "2026-08-28T18:27:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 139,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T08:15:32-03:00"
+      "ultima_verificacao": "2026-08-28T18:27:24-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 188,
+      "ultimo_numero": 189,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T08:15:32-03:00"
+      "ultima_verificacao": "2026-08-28T18:27:24-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 231,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T08:15:32-03:00"
+      "ultima_verificacao": "2026-08-28T18:27:24-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T08:15:32-03:00"
+      "ultima_verificacao": "2026-08-28T18:27:24-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 430,
+      "ultimo_numero": 433,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-28T08:15:32-03:00"
+      "ultima_verificacao": "2026-08-28T18:27:24-03:00"
     }
   },
   "multas": {
@@ -1944,6 +1944,36 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "MUL8161000431A/26",
+        "RE": "RE8161004506A",
+        "Nome_Edificacao": "HULDA MIRANDA FRANCELINO",
+        "Logradouro": "R ESTEFANO JOSE VANOLLI",
+        "Numero": "590",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-28T18:27:24-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000432A/26",
+        "RE": "RE8161012410A",
+        "Nome_Edificacao": "VANIA CAMPOS LEITE",
+        "Logradouro": "R CAMBORIU",
+        "Numero": "25",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-28T18:27:24-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000433A/26",
+        "RE": "RE8161000246A",
+        "Nome_Edificacao": "Sky Brava",
+        "Logradouro": "Avenida Osvaldo Reis",
+        "Numero": "3547",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-28T18:27:24-03:00"
+      },
+      {
         "CodigoAuto": "MUL8161000429A/26",
         "RE": "RE8161001193A",
         "Nome_Edificacao": "WALMAFI COMERCIO DE MATERIAIS DE CONSTRUCOES LTDA",
@@ -3408,6 +3438,16 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "MUL8163000189A/26",
+        "RE": "RE8163006679A",
+        "Nome_Edificacao": "GALPÃO",
+        "Logradouro": "Rua 700",
+        "Numero": "723",
+        "Bairro": "ITAPEMA - VARZEA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-28T18:27:24-03:00"
+      },
       {
         "CodigoAuto": "MUL8163000187A/26",
         "RE": "RE8163006759A",
@@ -5677,14 +5717,42 @@
     "Brusque": 64,
     "Gaspar": 25,
     "Guabiruba": 3,
-    "Itajai": 148,
-    "Itapema": 71,
+    "Itajai": 151,
+    "Itapema": 72,
     "Navegantes": 52,
     "Nova Trento": 56,
     "Porto Belo": 53
   },
-  "total_geral": 571,
+  "total_geral": 575,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-28T18:27:24-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000433A/26",
+      "nome": "Sky Brava",
+      "re": "RE8161000246A"
+    },
+    {
+      "ts": "2026-08-28T18:27:24-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000432A/26",
+      "nome": "VANIA CAMPOS LEITE",
+      "re": "RE8161012410A"
+    },
+    {
+      "ts": "2026-08-28T18:27:24-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000431A/26",
+      "nome": "HULDA MIRANDA FRANCELINO",
+      "re": "RE8161004506A"
+    },
+    {
+      "ts": "2026-08-28T18:27:24-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000189A/26",
+      "nome": "GALPÃO",
+      "re": "RE8163006679A"
+    },
     {
       "ts": "2026-08-28T08:15:32-03:00",
       "cidade": "Nova Trento",
@@ -5915,27 +5983,6 @@
       "codigo": "MUL8047000227A/26",
       "nome": "CAÇA E TIRO ITOUPAVA  NORTE",
       "re": "RE8047004956A"
-    },
-    {
-      "ts": "2026-08-21T10:28:29-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000109A/26",
-      "nome": "EDIFÍCIO PORTO SOL",
-      "re": "RE8265000955A"
-    },
-    {
-      "ts": "2026-08-21T09:27:42-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000108A/26",
-      "nome": "ISLAMORADA",
-      "re": "RE8265000332A"
-    },
-    {
-      "ts": "2026-08-21T08:18:00-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000134A/26",
-      "nome": "JORGE HENRIQUE ARAÚJO VIANA",
-      "re": "RE8225000135A"
     }
   ]
 }

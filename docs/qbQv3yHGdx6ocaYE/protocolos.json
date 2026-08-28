@@ -1,59 +1,125 @@
 {
-  "timestamp": "2026-08-28T08:23:51-03:00",
+  "timestamp": "2026-08-28T18:38:43-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8089,
-      "ultima_verificacao": "2026-08-28T08:23:51-03:00"
+      "ultimo_numero": 8095,
+      "ultima_verificacao": "2026-08-28T18:38:43-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-28T08:23:51-03:00"
+      "ultima_verificacao": "2026-08-28T18:38:43-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-28T08:23:51-03:00"
+      "ultima_verificacao": "2026-08-28T18:38:43-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3879,
-      "ultima_verificacao": "2026-08-28T08:23:51-03:00"
+      "ultimo_numero": 3880,
+      "ultima_verificacao": "2026-08-28T18:38:43-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3380,
-      "ultima_verificacao": "2026-08-28T08:23:51-03:00"
+      "ultimo_numero": 3381,
+      "ultima_verificacao": "2026-08-28T18:38:43-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-28T08:23:51-03:00"
+      "ultimo_numero": 976,
+      "ultima_verificacao": "2026-08-28T18:38:43-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7201,
-      "ultima_verificacao": "2026-08-28T08:23:51-03:00"
+      "ultima_verificacao": "2026-08-28T18:38:43-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12979,
-      "ultima_verificacao": "2026-08-28T08:23:51-03:00"
+      "ultimo_numero": 12984,
+      "ultima_verificacao": "2026-08-28T18:38:43-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5010,
-      "ultima_verificacao": "2026-08-28T08:23:51-03:00"
+      "ultima_verificacao": "2026-08-28T18:38:43-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14280,
-      "ultima_verificacao": "2026-08-28T08:23:51-03:00"
+      "ultimo_numero": 14282,
+      "ultima_verificacao": "2026-08-28T18:38:43-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008095A",
+        "RE": "RE8055006807A",
+        "numgEdificacao": 368876,
+        "Nome_Edificacao": "TITA FLORES E PRESENTES LTDA",
+        "Logradouro": "RUA FLORIANÓPOLIS",
+        "Numero": "1756",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008094A",
+        "RE": "RE8055000498A",
+        "numgEdificacao": 36909,
+        "Nome_Edificacao": "SENAI/SESI Brusque",
+        "Logradouro": "Primeiro de Maio",
+        "Numero": "670",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008093A",
+        "RE": "RE8055006813A",
+        "numgEdificacao": 369105,
+        "Nome_Edificacao": "BENTINHO DELAGNOLII",
+        "Logradouro": "José Dubiela",
+        "Numero": "761",
+        "Bairro": "BRUSQUE - TOMAZ COELHO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008092A",
+        "RE": "RE8055004531A",
+        "numgEdificacao": 272623,
+        "Nome_Edificacao": "CASA",
+        "Logradouro": "R ORIDES SCHWARTZ",
+        "Numero": "96",
+        "Bairro": "BRUSQUE - GUARANI",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008091A",
+        "RE": "RE8055001962A",
+        "numgEdificacao": 159935,
+        "Nome_Edificacao": "MOISES SAULO RAIZER",
+        "Logradouro": "R SANTOS DUMONT",
+        "Numero": "1363",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008090A",
+        "RE": "RE8055005023A",
+        "numgEdificacao": 288261,
+        "Nome_Edificacao": "LOJA",
+        "Logradouro": "Rua Manoel Tavares",
+        "Numero": "47",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008089A",
         "RE": "RE8055003628A",
@@ -2393,6 +2459,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003880A",
+        "RE": "RE8117001594A",
+        "numgEdificacao": 211475,
+        "Nome_Edificacao": "PROJESAN SANEAMENTO AMBIENTAL LTDA",
+        "Logradouro": "Rua Vidal Flávio Dias",
+        "Numero": "635",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003879A",
         "RE": "RE8117001464A",
         "numgEdificacao": 198223,
@@ -3638,6 +3715,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003381A",
+        "RE": "RE8265002831A",
+        "numgEdificacao": 369085,
+        "Nome_Edificacao": "LUMINER GARDEN HOMES",
+        "Logradouro": "Av. Dorvalino Voltolini",
+        "Numero": "",
+        "Bairro": "PORTO BELO - Balneário Perequê",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003380A",
         "RE": "RE8265002828A",
         "numgEdificacao": 368742,
@@ -4728,6 +4816,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000976A",
+        "RE": "RE8225000664A",
+        "numgEdificacao": 336774,
+        "Nome_Edificacao": "SALÃO DE FESTAS ORATÓRIO NOSSA SENHORA APARECIDA",
+        "Logradouro": "Estrada Geral São Valentim",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - SÃO VALENTIM",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000975A",
         "RE": "RE8225000749A",
@@ -7075,6 +7174,61 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012984A",
+        "RE": "RE8047012128A",
+        "numgEdificacao": 369125,
+        "Nome_Edificacao": "EDIFÍCIO HABITACIONAL COLETIVA - GARCIA",
+        "Logradouro": "Rua Adriano Schaefer",
+        "Numero": "111",
+        "Bairro": "BLUMENAU - VALPARAISO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012983A",
+        "RE": "RE8047010349A",
+        "numgEdificacao": 294403,
+        "Nome_Edificacao": "STOLF",
+        "Logradouro": "Rua Garopaba",
+        "Numero": "121",
+        "Bairro": "BLUMENAU - ÁGUA VERDE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012982A",
+        "RE": "RE8047010609A",
+        "numgEdificacao": 304796,
+        "Nome_Edificacao": "Gilmar Degasperi",
+        "Logradouro": "Das Missões",
+        "Numero": "258",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012981A",
+        "RE": "RE8047005429A",
+        "numgEdificacao": 165969,
+        "Nome_Edificacao": "Edifício Comercial da rua XV de Novembro",
+        "Logradouro": "RUA 15 DE NOVEMBRO",
+        "Numero": "1231",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012980A",
+        "RE": "RE8047011404A",
+        "numgEdificacao": 337805,
+        "Nome_Edificacao": "COLIBRI INDUSTRIA E COMERCIO DE PLASTICO LTDA",
+        "Logradouro": "Rua Bahia",
+        "Numero": "438",
+        "Bairro": "BLUMENAU - DO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012979A",
         "RE": "RE8047012125A",
@@ -10897,6 +11051,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014282A",
+        "RE": "RE8161013858A",
+        "numgEdificacao": 369060,
+        "Nome_Edificacao": "ZR EMPREENDIMENTOS LTDA",
+        "Logradouro": "RUA PROFESSOR COSME BUZARELLO",
+        "Numero": "229",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014281A",
+        "RE": "RE8161013856A",
+        "numgEdificacao": 369038,
+        "Nome_Edificacao": "Mailon Henri Schveitzer",
+        "Logradouro": "R FLORISA PERES GARCIA KUMM",
+        "Numero": "561",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-28T18:38:43-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014280A",
         "RE": "RE8161013855A",
         "numgEdificacao": 369013,
@@ -14243,16 +14419,16 @@
     ]
   },
   "totais": {
-    "Brusque": 125,
+    "Brusque": 131,
     "Botuvera": 36,
     "Guabiruba": 51,
-    "Gaspar": 113,
-    "Porto Belo": 99,
-    "Nova Trento": 59,
+    "Gaspar": 114,
+    "Porto Belo": 100,
+    "Nova Trento": 60,
     "Itapema": 154,
-    "Blumenau": 234,
+    "Blumenau": 239,
     "Navegantes": 113,
-    "Itajai": 304
+    "Itajai": 306
   },
-  "total_geral": 1288
+  "total_geral": 1304
 }
