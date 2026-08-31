@@ -1,79 +1,109 @@
 {
-  "timestamp": "2026-08-31T14:50:05-03:00",
+  "timestamp": "2026-08-31T15:10:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T14:50:05-03:00"
+      "ultima_verificacao": "2026-08-31T15:10:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T14:50:05-03:00"
+      "ultima_verificacao": "2026-08-31T15:10:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T14:50:05-03:00"
+      "ultima_verificacao": "2026-08-31T15:10:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 49,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T14:50:05-03:00"
+      "ultima_verificacao": "2026-08-31T15:10:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 111,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T14:50:05-03:00"
+      "ultima_verificacao": "2026-08-31T15:10:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 142,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T14:50:05-03:00"
+      "ultima_verificacao": "2026-08-31T15:10:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 191,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T14:50:05-03:00"
+      "ultima_verificacao": "2026-08-31T15:10:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 231,
+      "ultimo_numero": 234,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T14:50:05-03:00"
+      "ultima_verificacao": "2026-08-31T15:10:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 91,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T14:50:05-03:00"
+      "ultima_verificacao": "2026-08-31T15:10:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 435,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T14:50:05-03:00"
+      "ultima_verificacao": "2026-08-31T15:10:04-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000232A/26",
+        "RE": "RE8047001251A",
+        "Nome_Edificacao": "Centro Comercial",
+        "Logradouro": "Rua Francisco Vahldieck",
+        "Numero": "251",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T15:10:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000233A/26",
+        "RE": "RE8047004452A",
+        "Nome_Edificacao": "MABEJU ADMINISTRADORA DE BENS LTDA ME",
+        "Logradouro": "Rua Saxonia",
+        "Numero": "120",
+        "Bairro": "BLUMENAU - VILA ITOUPAVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T15:10:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000234A/26",
+        "RE": "RE8047011642A",
+        "Nome_Edificacao": "CALIFORNIA SOLAR",
+        "Logradouro": "R SANTA MARIA",
+        "Numero": "201",
+        "Bairro": "BLUMENAU - PROGRESSO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T15:10:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000230A/26",
         "RE": "RE8047002260A",
@@ -5802,7 +5832,7 @@
     ]
   },
   "totais": {
-    "Blumenau": 96,
+    "Blumenau": 99,
     "Botuvera": 3,
     "Brusque": 64,
     "Gaspar": 25,
@@ -5813,8 +5843,29 @@
     "Nova Trento": 59,
     "Porto Belo": 54
   },
-  "total_geral": 584,
+  "total_geral": 587,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-31T15:10:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000234A/26",
+      "nome": "CALIFORNIA SOLAR",
+      "re": "RE8047011642A"
+    },
+    {
+      "ts": "2026-08-31T15:10:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000233A/26",
+      "nome": "MABEJU ADMINISTRADORA DE BENS LTDA ME",
+      "re": "RE8047004452A"
+    },
+    {
+      "ts": "2026-08-31T15:10:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000232A/26",
+      "nome": "Centro Comercial",
+      "re": "RE8047001251A"
+    },
     {
       "ts": "2026-08-31T13:50:04-03:00",
       "cidade": "Navegantes",
@@ -6073,13 +6124,6 @@
       "codigo": "MUL8265000110A/26",
       "nome": "Empreendimentos ALD LTDA",
       "re": "RE8265001587A"
-    },
-    {
-      "ts": "2026-08-24T15:00:04-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000046A/26",
-      "nome": "Jose Carlos Bendini Spengler",
-      "re": "RE8117002903A"
     }
   ]
 }
