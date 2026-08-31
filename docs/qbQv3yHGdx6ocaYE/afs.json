@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-31T20:00:36-03:00",
+  "timestamp": "2026-08-31T20:10:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 976,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T20:00:36-03:00"
+      "ultima_verificacao": "2026-08-31T20:10:21-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T20:00:36-03:00"
+      "ultima_verificacao": "2026-08-31T20:10:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T20:00:36-03:00"
+      "ultima_verificacao": "2026-08-31T20:10:21-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 622,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T20:00:36-03:00"
+      "ultima_verificacao": "2026-08-31T20:10:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 508,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T20:00:36-03:00"
+      "ultima_verificacao": "2026-08-31T20:10:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 502,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T20:00:36-03:00"
+      "ultima_verificacao": "2026-08-31T20:10:21-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1179,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T20:00:36-03:00"
+      "ultima_verificacao": "2026-08-31T20:10:21-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1150,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T20:00:36-03:00"
+      "ultima_verificacao": "2026-08-31T20:10:21-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 324,
+      "ultimo_numero": 325,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T20:00:36-03:00"
+      "ultima_verificacao": "2026-08-31T20:10:21-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1185,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T20:00:36-03:00"
+      "ultima_verificacao": "2026-08-31T20:10:21-03:00"
     }
   },
   "afs": {
@@ -21399,6 +21399,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000325A/26",
+        "Tipo": "AF",
+        "RE": "RE8221004028A",
+        "Nome_Edificacao": "RC CELL LTDA – AV. PREFEITO JOSÉ JUVENAL MAFRA, 1063",
+        "Logradouro": "AVENIDA PREFEITO JOSÉ JUVENAL MAFRA",
+        "Numero": "1063",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-31T20:10:21-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000324A/26",
         "Tipo": "AF",
         "RE": "RE8221002788A",
@@ -27483,8 +27494,8 @@
     "Nova Trento": 192,
     "Itapema": 445,
     "Blumenau": 437,
-    "Navegantes": 120,
+    "Navegantes": 121,
     "Itajai": 432
   },
-  "total_geral": 2490
+  "total_geral": 2491
 }
