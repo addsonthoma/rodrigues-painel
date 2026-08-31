@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-31T13:16:44-03:00",
+  "timestamp": "2026-08-31T13:27:02-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8095,
-      "ultima_verificacao": "2026-08-31T13:16:44-03:00"
+      "ultima_verificacao": "2026-08-31T13:27:02-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 403,
-      "ultima_verificacao": "2026-08-31T13:16:44-03:00"
+      "ultima_verificacao": "2026-08-31T13:27:02-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-31T13:16:44-03:00"
+      "ultima_verificacao": "2026-08-31T13:27:02-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3880,
-      "ultima_verificacao": "2026-08-31T13:16:44-03:00"
+      "ultima_verificacao": "2026-08-31T13:27:02-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3381,
-      "ultima_verificacao": "2026-08-31T13:16:44-03:00"
+      "ultima_verificacao": "2026-08-31T13:27:02-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 976,
-      "ultima_verificacao": "2026-08-31T13:16:44-03:00"
+      "ultimo_numero": 977,
+      "ultima_verificacao": "2026-08-31T13:27:02-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7204,
-      "ultima_verificacao": "2026-08-31T13:16:44-03:00"
+      "ultima_verificacao": "2026-08-31T13:27:02-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12984,
-      "ultima_verificacao": "2026-08-31T13:16:44-03:00"
+      "ultima_verificacao": "2026-08-31T13:27:02-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5010,
-      "ultima_verificacao": "2026-08-31T13:16:44-03:00"
+      "ultima_verificacao": "2026-08-31T13:27:02-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14282,
-      "ultima_verificacao": "2026-08-31T13:16:44-03:00"
+      "ultima_verificacao": "2026-08-31T13:27:02-03:00"
     }
   },
   "protocolos": {
@@ -4827,6 +4827,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000977A",
+        "RE": "RE8225000558A",
+        "numgEdificacao": 288650,
+        "Nome_Edificacao": "NILSON VENERI DALBOSCO",
+        "Logradouro": "rua alferes",
+        "Numero": "1403",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-31T13:27:02-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000976A",
         "RE": "RE8225000664A",
@@ -14501,11 +14512,11 @@
     "Guabiruba": 51,
     "Gaspar": 114,
     "Porto Belo": 100,
-    "Nova Trento": 60,
+    "Nova Trento": 61,
     "Itapema": 157,
     "Blumenau": 242,
     "Navegantes": 113,
     "Itajai": 306
   },
-  "total_geral": 1311
+  "total_geral": 1312
 }
