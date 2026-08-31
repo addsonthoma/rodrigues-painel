@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-31T20:36:09-03:00",
+  "timestamp": "2026-08-31T20:46:18-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8096,
-      "ultima_verificacao": "2026-08-31T20:36:09-03:00"
+      "ultima_verificacao": "2026-08-31T20:46:18-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-08-31T20:36:09-03:00"
+      "ultima_verificacao": "2026-08-31T20:46:18-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1528,
-      "ultima_verificacao": "2026-08-31T20:36:09-03:00"
+      "ultima_verificacao": "2026-08-31T20:46:18-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3880,
-      "ultima_verificacao": "2026-08-31T20:36:09-03:00"
+      "ultima_verificacao": "2026-08-31T20:46:18-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3382,
-      "ultima_verificacao": "2026-08-31T20:36:09-03:00"
+      "ultima_verificacao": "2026-08-31T20:46:18-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 977,
-      "ultima_verificacao": "2026-08-31T20:36:09-03:00"
+      "ultima_verificacao": "2026-08-31T20:46:18-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7207,
-      "ultima_verificacao": "2026-08-31T20:36:09-03:00"
+      "ultima_verificacao": "2026-08-31T20:46:18-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12986,
-      "ultima_verificacao": "2026-08-31T20:36:09-03:00"
+      "ultima_verificacao": "2026-08-31T20:46:18-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5010,
-      "ultima_verificacao": "2026-08-31T20:36:09-03:00"
+      "ultima_verificacao": "2026-08-31T20:46:18-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14285,
-      "ultima_verificacao": "2026-08-31T20:36:09-03:00"
+      "ultimo_numero": 14286,
+      "ultima_verificacao": "2026-08-31T20:46:18-03:00"
     }
   },
   "protocolos": {
@@ -11260,6 +11260,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014286A",
+        "RE": "RE8161013859A",
+        "numgEdificacao": 369277,
+        "Nome_Edificacao": "GIRCEU NATAL ZILIOTTO",
+        "Logradouro": "AVENIDA VEREADOR NILO SIMAS",
+        "Numero": "572",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-31T20:46:18-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014285A",
         "RE": "RE8161001872A",
         "numgEdificacao": 60356,
@@ -14670,7 +14681,7 @@
     "Itapema": 160,
     "Blumenau": 244,
     "Navegantes": 113,
-    "Itajai": 309
+    "Itajai": 310
   },
-  "total_geral": 1326
+  "total_geral": 1327
 }
