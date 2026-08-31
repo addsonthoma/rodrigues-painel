@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-28T17:16:39-03:00",
+  "timestamp": "2026-08-31T08:06:14-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8095,
-      "ultima_verificacao": "2026-08-28T17:16:39-03:00"
+      "ultima_verificacao": "2026-08-31T08:06:14-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-28T17:16:39-03:00"
+      "ultima_verificacao": "2026-08-31T08:06:14-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-28T17:16:39-03:00"
+      "ultima_verificacao": "2026-08-31T08:06:14-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3880,
-      "ultima_verificacao": "2026-08-28T17:16:39-03:00"
+      "ultima_verificacao": "2026-08-31T08:06:14-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3381,
-      "ultima_verificacao": "2026-08-28T17:16:39-03:00"
+      "ultima_verificacao": "2026-08-31T08:06:14-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 975,
-      "ultima_verificacao": "2026-08-28T17:16:39-03:00"
+      "ultimo_numero": 976,
+      "ultima_verificacao": "2026-08-31T08:06:14-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7201,
-      "ultima_verificacao": "2026-08-28T17:16:39-03:00"
+      "ultimo_numero": 7202,
+      "ultima_verificacao": "2026-08-31T08:06:14-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12982,
-      "ultima_verificacao": "2026-08-28T17:16:39-03:00"
+      "ultimo_numero": 12984,
+      "ultima_verificacao": "2026-08-31T08:06:14-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5010,
-      "ultima_verificacao": "2026-08-28T17:16:39-03:00"
+      "ultima_verificacao": "2026-08-31T08:06:14-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14282,
-      "ultima_verificacao": "2026-08-28T17:16:39-03:00"
+      "ultima_verificacao": "2026-08-31T08:06:14-03:00"
     }
   },
   "protocolos": {
@@ -4817,6 +4817,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoProtocolo": "A8225000976A",
+        "RE": "RE8225000664A",
+        "numgEdificacao": 336774,
+        "Nome_Edificacao": "SALÃO DE FESTAS ORATÓRIO NOSSA SENHORA APARECIDA",
+        "Logradouro": "Estrada Geral São Valentim",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - SÃO VALENTIM",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-31T08:06:14-03:00"
+      },
+      {
         "CodigoProtocolo": "A8225000975A",
         "RE": "RE8225000749A",
         "numgEdificacao": 345697,
@@ -5467,6 +5478,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007202A",
+        "RE": "RE8163000102A",
+        "numgEdificacao": 7570,
+        "Nome_Edificacao": "CONDOMÍNIO EDIFÍCIO PARAÍSO",
+        "Logradouro": "RUA 315",
+        "Numero": "5977",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-31T08:06:14-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007201A",
         "RE": "RE8163006877A",
@@ -7163,6 +7185,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012984A",
+        "RE": "RE8047012128A",
+        "numgEdificacao": 369125,
+        "Nome_Edificacao": "EDIFÍCIO HABITACIONAL COLETIVA - GARCIA",
+        "Logradouro": "Rua Adriano Schaefer",
+        "Numero": "111",
+        "Bairro": "BLUMENAU - VALPARAISO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T08:06:14-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047012983A",
+        "RE": "RE8047010349A",
+        "numgEdificacao": 294403,
+        "Nome_Edificacao": "STOLF",
+        "Logradouro": "Rua Garopaba",
+        "Numero": "121",
+        "Bairro": "BLUMENAU - ÁGUA VERDE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T08:06:14-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012982A",
         "RE": "RE8047010609A",
@@ -14424,11 +14468,11 @@
     "Guabiruba": 51,
     "Gaspar": 114,
     "Porto Belo": 100,
-    "Nova Trento": 59,
-    "Itapema": 154,
-    "Blumenau": 240,
+    "Nova Trento": 60,
+    "Itapema": 155,
+    "Blumenau": 242,
     "Navegantes": 113,
     "Itajai": 306
   },
-  "total_geral": 1304
+  "total_geral": 1308
 }
