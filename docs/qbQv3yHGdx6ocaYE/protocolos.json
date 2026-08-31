@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-31T14:18:21-03:00",
+  "timestamp": "2026-08-31T14:38:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8095,
-      "ultima_verificacao": "2026-08-31T14:18:21-03:00"
+      "ultima_verificacao": "2026-08-31T14:38:34-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
-      "ultimo_numero": 403,
-      "ultima_verificacao": "2026-08-31T14:18:21-03:00"
+      "ultimo_numero": 405,
+      "ultima_verificacao": "2026-08-31T14:38:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-31T14:18:21-03:00"
+      "ultimo_numero": 1528,
+      "ultima_verificacao": "2026-08-31T14:38:34-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3880,
-      "ultima_verificacao": "2026-08-31T14:18:21-03:00"
+      "ultima_verificacao": "2026-08-31T14:38:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3381,
-      "ultima_verificacao": "2026-08-31T14:18:21-03:00"
+      "ultimo_numero": 3382,
+      "ultima_verificacao": "2026-08-31T14:38:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 977,
-      "ultima_verificacao": "2026-08-31T14:18:21-03:00"
+      "ultima_verificacao": "2026-08-31T14:38:34-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7205,
-      "ultima_verificacao": "2026-08-31T14:18:21-03:00"
+      "ultima_verificacao": "2026-08-31T14:38:34-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12984,
-      "ultima_verificacao": "2026-08-31T14:18:21-03:00"
+      "ultima_verificacao": "2026-08-31T14:38:34-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5010,
-      "ultima_verificacao": "2026-08-31T14:18:21-03:00"
+      "ultima_verificacao": "2026-08-31T14:38:34-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14283,
-      "ultima_verificacao": "2026-08-31T14:18:21-03:00"
+      "ultima_verificacao": "2026-08-31T14:38:34-03:00"
     }
   },
   "protocolos": {
@@ -1498,6 +1498,28 @@
     ],
     "Botuvera": [
       {
+        "CodigoProtocolo": "A8051000405A",
+        "RE": "RE8051000295A",
+        "numgEdificacao": 365236,
+        "Nome_Edificacao": "Oberdan Kohler",
+        "Logradouro": "RUA JOSÉ COSTA",
+        "Numero": "",
+        "Bairro": "BOTUVERÁ - CENTRO",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-08-31T14:38:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8051000404A",
+        "RE": "RE8051000293A",
+        "numgEdificacao": 360744,
+        "Nome_Edificacao": "Dina Molinari",
+        "Logradouro": "RUA: PRESIDENTE KENNEDY",
+        "Numero": "185",
+        "Bairro": "BOTUVERÁ - CENTRO",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-08-31T14:38:34-03:00"
+      },
+      {
         "CodigoProtocolo": "A8051000403A",
         "RE": "RE8051000050A",
         "numgEdificacao": 72542,
@@ -1906,6 +1928,28 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001528A",
+        "RE": "RE8123001108A",
+        "numgEdificacao": 341437,
+        "Nome_Edificacao": "REVO CONSTRUTORA E INCORPORADORA LTDA",
+        "Logradouro": "EVALDO FISCHER",
+        "Numero": "45",
+        "Bairro": "GUABIRUBA - IMIGRANTES",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-08-31T14:38:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8123001527A",
+        "RE": "RE8123001108A",
+        "numgEdificacao": 341437,
+        "Nome_Edificacao": "REVO CONSTRUTORA E INCORPORADORA LTDA",
+        "Logradouro": "EVALDO FISCHER",
+        "Numero": "45",
+        "Bairro": "GUABIRUBA - IMIGRANTES",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-08-31T14:38:34-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001526A",
         "RE": "RE8123001213A",
@@ -3725,6 +3769,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003382A",
+        "RE": "RE8265002794A",
+        "numgEdificacao": 364052,
+        "Nome_Edificacao": "Avenida Dorvalino Voltolini",
+        "Logradouro": "Avenida Dorvalino Voltolini",
+        "Numero": "542",
+        "Bairro": "PORTO BELO - Balneário Perequê",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-31T14:38:34-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003381A",
         "RE": "RE8265002831A",
@@ -14530,15 +14585,15 @@
   },
   "totais": {
     "Brusque": 131,
-    "Botuvera": 37,
-    "Guabiruba": 51,
+    "Botuvera": 39,
+    "Guabiruba": 53,
     "Gaspar": 114,
-    "Porto Belo": 100,
+    "Porto Belo": 101,
     "Nova Trento": 61,
     "Itapema": 158,
     "Blumenau": 242,
     "Navegantes": 113,
     "Itajai": 307
   },
-  "total_geral": 1314
+  "total_geral": 1319
 }

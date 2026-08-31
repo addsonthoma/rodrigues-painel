@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-08-31T14:10:28-03:00",
+  "timestamp": "2026-08-31T14:30:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 976,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-31T14:30:30-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-31T14:30:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-31T14:30:30-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 621,
+      "ultimo_numero": 622,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-31T14:30:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 508,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-31T14:30:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 499,
+      "ultimo_numero": 500,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-31T14:30:30-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1179,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-31T14:30:30-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1142,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-31T14:30:30-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 324,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-31T14:30:30-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1185,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T14:10:28-03:00"
+      "ultima_verificacao": "2026-08-31T14:30:30-03:00"
     }
   },
   "afs": {
@@ -4911,6 +4911,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000622A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001798A",
+        "Nome_Edificacao": "JOSÉ ALBERTO SCHMITT",
+        "Logradouro": "RODOVIA JORGE LACERDA",
+        "Numero": "6483",
+        "Bairro": "GASPAR - POÇO GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-31T14:30:30-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000621A/26",
         "Tipo": "AF",
         "RE": "RE8117003288A",
@@ -9567,6 +9578,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000500A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000662A",
+        "Nome_Edificacao": "VALSEMIR LIBARDO",
+        "Logradouro": "RUA NATAL MICHELLI",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-31T14:30:30-03:00"
+      },
       {
         "CodigoAuto": "AF8225000499A/26",
         "Tipo": "AF",
@@ -27346,13 +27368,13 @@
     "Brusque": 366,
     "Botuvera": 32,
     "Guabiruba": 42,
-    "Gaspar": 206,
+    "Gaspar": 207,
     "Porto Belo": 217,
-    "Nova Trento": 189,
+    "Nova Trento": 190,
     "Itapema": 445,
     "Blumenau": 429,
     "Navegantes": 120,
     "Itajai": 432
   },
-  "total_geral": 2478
+  "total_geral": 2480
 }
