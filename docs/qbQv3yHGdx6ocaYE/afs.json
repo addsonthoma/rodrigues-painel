@@ -1,69 +1,102 @@
 {
-  "timestamp": "2026-08-31T11:29:04-03:00",
+  "timestamp": "2026-08-31T17:21:42-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 973,
+      "ultimo_numero": 976,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T11:29:04-03:00"
+      "ultima_verificacao": "2026-08-31T17:21:42-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 32,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T11:29:04-03:00"
+      "ultima_verificacao": "2026-08-31T17:21:42-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T11:29:04-03:00"
+      "ultima_verificacao": "2026-08-31T17:21:42-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 621,
+      "ultimo_numero": 622,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T11:29:04-03:00"
+      "ultima_verificacao": "2026-08-31T17:21:42-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 507,
+      "ultimo_numero": 508,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T11:29:04-03:00"
+      "ultima_verificacao": "2026-08-31T17:21:42-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 499,
+      "ultimo_numero": 502,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T11:29:04-03:00"
+      "ultima_verificacao": "2026-08-31T17:21:42-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1179,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T11:29:04-03:00"
+      "ultima_verificacao": "2026-08-31T17:21:42-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1141,
+      "ultimo_numero": 1150,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T11:29:04-03:00"
+      "ultima_verificacao": "2026-08-31T17:21:42-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 324,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T11:29:04-03:00"
+      "ultima_verificacao": "2026-08-31T17:21:42-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1184,
+      "ultimo_numero": 1185,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-08-31T11:29:04-03:00"
+      "ultima_verificacao": "2026-08-31T17:21:42-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000976A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001168A",
+        "Nome_Edificacao": "LE MUND",
+        "Logradouro": "RODOVIA ANTONIO HEIL",
+        "Numero": "229",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000975A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001221A",
+        "Nome_Edificacao": "JSP EMPREENDIMENTOS E PARTICIPAÇÕES LTDA",
+        "Logradouro": "Rua João Bianchini",
+        "Numero": "300",
+        "Bairro": "BRUSQUE - Rio Branco",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000974A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004687A",
+        "Nome_Edificacao": "CLEGITAM INDUSTRIA E COMERCIO DE CONFECCOES LTDA",
+        "Logradouro": "R DJ - 042",
+        "Numero": "698",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
       {
         "CodigoAuto": "AF8055000973A/26",
         "Tipo": "AF",
@@ -4878,6 +4911,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000622A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001798A",
+        "Nome_Edificacao": "JOSÉ ALBERTO SCHMITT",
+        "Logradouro": "RODOVIA JORGE LACERDA",
+        "Numero": "6483",
+        "Bairro": "GASPAR - POÇO GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000621A/26",
         "Tipo": "AF",
         "RE": "RE8117003288A",
@@ -7145,6 +7189,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000508A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001766A",
+        "Nome_Edificacao": "Residencial Vian",
+        "Logradouro": "RUA RUDY ARNALDO HINTZ",
+        "Numero": "294",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
       {
         "CodigoAuto": "AF8265000507A/26",
         "Tipo": "AF",
@@ -9523,6 +9578,39 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000502A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000491A",
+        "Nome_Edificacao": "Edifício Karol Inês II",
+        "Logradouro": "walmir salvador bottamedi",
+        "Numero": "61",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000501A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000006A",
+        "Nome_Edificacao": "LUIZ DALILO VARGAS",
+        "Logradouro": "Nereu Ramos",
+        "Numero": "256",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000500A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000662A",
+        "Nome_Edificacao": "VALSEMIR LIBARDO",
+        "Logradouro": "RUA NATAL MICHELLI",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
       {
         "CodigoAuto": "AF8225000499A/26",
         "Tipo": "AF",
@@ -16502,6 +16590,105 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001150A/26",
+        "Tipo": "AF",
+        "RE": "RE8047000972A",
+        "Nome_Edificacao": "EDIFICIO COMERCIAL",
+        "Logradouro": "Rua Doutor Pedro Zimmermann",
+        "Numero": "6168",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001149A/26",
+        "Tipo": "AF",
+        "RE": "RE8047012126A",
+        "Nome_Edificacao": "WILLIAM CHARLES BERNARDINO",
+        "Logradouro": "Rua Bernardo Ehlert",
+        "Numero": "100",
+        "Bairro": "BLUMENAU - Badenfurt",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001148A/26",
+        "Tipo": "AF",
+        "RE": "RE8047010777A",
+        "Nome_Edificacao": "NEURI KUSTER",
+        "Logradouro": "R ENGENHEIRO UDO DEEKE",
+        "Numero": "745",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001147A/26",
+        "Tipo": "AF",
+        "RE": "RE8047000478A",
+        "Nome_Edificacao": "SERRALHERIA FFC LTDA",
+        "Logradouro": "Rua Guilherme Scharf",
+        "Numero": "2683",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001146A/26",
+        "Tipo": "AF",
+        "RE": "RE8047000286A",
+        "Nome_Edificacao": "Stephanie de Brito Augusto",
+        "Logradouro": "Rua Osnildo de Oliveira",
+        "Numero": "260",
+        "Bairro": "BLUMENAU - PASSO MANSO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001145A/26",
+        "Tipo": "AF",
+        "RE": "RE8047000374A",
+        "Nome_Edificacao": "CICILIA PIETROBON GREGIO",
+        "Logradouro": "Rua do imigrante",
+        "Numero": "27",
+        "Bairro": "BLUMENAU - GARCIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001144A/26",
+        "Tipo": "AF",
+        "RE": "RE8047002204A",
+        "Nome_Edificacao": "BRAVA ADMISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Bahia",
+        "Numero": "490",
+        "Bairro": "BLUMENAU - DO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001143A/26",
+        "Tipo": "AF",
+        "RE": "RE8047003472A",
+        "Nome_Edificacao": "GN CARRETAS E FURGÕES",
+        "Logradouro": "RUA DR. PEDRO ZIMMERMANN",
+        "Numero": "3121",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001142A/26",
+        "Tipo": "AF",
+        "RE": "RE8047006941A",
+        "Nome_Edificacao": "Administradora De Bens D.D.S. Correa Ltda",
+        "Logradouro": "R FREDERICO JENSEN",
+        "Numero": "1161",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001141A/26",
         "Tipo": "AF",
         "RE": "RE8047000653A",
@@ -22534,6 +22721,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001185A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002184A",
+        "Nome_Edificacao": "CAMARA DE DIRIGENTES LOJISTAS DE ITAJAI",
+        "Logradouro": "Rua Lauro Muller",
+        "Numero": "229",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-31T17:21:42-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001184A/26",
         "Tipo": "AF",
         "RE": "RE8161013513A",
@@ -27277,16 +27475,16 @@
     ]
   },
   "totais": {
-    "Brusque": 363,
+    "Brusque": 366,
     "Botuvera": 32,
     "Guabiruba": 42,
-    "Gaspar": 206,
-    "Porto Belo": 216,
-    "Nova Trento": 189,
+    "Gaspar": 207,
+    "Porto Belo": 217,
+    "Nova Trento": 192,
     "Itapema": 445,
-    "Blumenau": 428,
+    "Blumenau": 437,
     "Navegantes": 120,
-    "Itajai": 431
+    "Itajai": 432
   },
-  "total_geral": 2472
+  "total_geral": 2490
 }

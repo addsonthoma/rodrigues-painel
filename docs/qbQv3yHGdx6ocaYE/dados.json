@@ -1,79 +1,169 @@
 {
-  "timestamp": "2026-08-31T11:27:33-03:00",
+  "timestamp": "2026-08-31T17:20:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
+      "ultima_verificacao": "2026-08-31T17:20:31-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
+      "ultima_verificacao": "2026-08-31T17:20:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
+      "ultima_verificacao": "2026-08-31T17:20:31-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 49,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
+      "ultima_verificacao": "2026-08-31T17:20:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 111,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
+      "ultima_verificacao": "2026-08-31T17:20:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 142,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
+      "ultima_verificacao": "2026-08-31T17:20:31-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 189,
+      "ultimo_numero": 191,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
+      "ultima_verificacao": "2026-08-31T17:20:31-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 231,
+      "ultimo_numero": 240,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
+      "ultima_verificacao": "2026-08-31T17:20:31-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
-      "ultimo_numero": 90,
+      "ultimo_numero": 91,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
+      "ultima_verificacao": "2026-08-31T17:20:31-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 433,
+      "ultimo_numero": 435,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
+      "ultima_verificacao": "2026-08-31T17:20:31-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000232A/26",
+        "RE": "RE8047001251A",
+        "Nome_Edificacao": "Centro Comercial",
+        "Logradouro": "Rua Francisco Vahldieck",
+        "Numero": "251",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000233A/26",
+        "RE": "RE8047004452A",
+        "Nome_Edificacao": "MABEJU ADMINISTRADORA DE BENS LTDA ME",
+        "Logradouro": "Rua Saxonia",
+        "Numero": "120",
+        "Bairro": "BLUMENAU - VILA ITOUPAVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000234A/26",
+        "RE": "RE8047011642A",
+        "Nome_Edificacao": "CALIFORNIA SOLAR",
+        "Logradouro": "R SANTA MARIA",
+        "Numero": "201",
+        "Bairro": "BLUMENAU - PROGRESSO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000235A/26",
+        "RE": "RE8047009590A",
+        "Nome_Edificacao": "Anésio Schneider",
+        "Logradouro": "R ARARANGUA",
+        "Numero": "",
+        "Bairro": "BLUMENAU - GARCIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000236A/26",
+        "RE": "RE8047005114A",
+        "Nome_Edificacao": "WELTTEC",
+        "Logradouro": "RODOVIA BR 470",
+        "Numero": "2926",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000237A/26",
+        "RE": "RE8047003103A",
+        "Nome_Edificacao": "WALTER JUNQUEIRA RUOFF",
+        "Logradouro": "Rua João Pessoa",
+        "Numero": "817",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000238A/26",
+        "RE": "RE8047003124A",
+        "Nome_Edificacao": "MARCIO R. SCHWEIGERT",
+        "Logradouro": "Rodovia BR-470",
+        "Numero": "2950",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000239A/26",
+        "RE": "RE8047001065A",
+        "Nome_Edificacao": "Márcio Roberto Schweigert",
+        "Logradouro": "BR 470",
+        "Numero": "2838",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000240A/26",
+        "RE": "RE8047003112A",
+        "Nome_Edificacao": "EDIFÍCIO RESIDENCIAL CABO FRIO",
+        "Logradouro": "Rua Casemiro de Abreu",
+        "Numero": "300",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000230A/26",
         "RE": "RE8047002260A",
@@ -1944,6 +2034,26 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "MUL8161000434A/26",
+        "RE": "RE8161012688A",
+        "Nome_Edificacao": "Comercial Miranda Caninana",
+        "Logradouro": "AVENIDA IRINEU BORNHAUSEN",
+        "Numero": "668",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000435A/26",
+        "RE": "RE8161004510A",
+        "Nome_Edificacao": "KITAG BANG",
+        "Logradouro": "ESTEFANO JOSé VANOLLI",
+        "Numero": "583",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
         "CodigoAuto": "MUL8161000431A/26",
         "RE": "RE8161004506A",
         "Nome_Edificacao": "HULDA MIRANDA FRANCELINO",
@@ -3439,6 +3549,26 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000190A/26",
+        "RE": "RE8163004272A",
+        "Nome_Edificacao": "IRAN JOSÉ DE CHAVES",
+        "Logradouro": "RUA 288",
+        "Numero": "245",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000191A/26",
+        "RE": "RE8163004498A",
+        "Nome_Edificacao": "ONÉLIA CRISTINA DE SOUZA MARCELINO",
+        "Logradouro": "RUA 812 A",
+        "Numero": "151",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000189A/26",
         "RE": "RE8163006679A",
         "Nome_Edificacao": "GALPÃO",
@@ -4144,6 +4274,16 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoAuto": "MUL8221000091A/26",
+        "RE": "RE8221001035A",
+        "Nome_Edificacao": "Residencia Lourdes",
+        "Logradouro": "Rua João Hercílio da Luz",
+        "Numero": "129",
+        "Bairro": "NAVEGANTES - SÃO PEDRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-31T17:20:31-03:00"
+      },
       {
         "CodigoAuto": "MUL8221000090A/26",
         "RE": "RE8221004068A",
@@ -5752,19 +5892,117 @@
     ]
   },
   "totais": {
-    "Blumenau": 96,
+    "Blumenau": 105,
     "Botuvera": 3,
     "Brusque": 64,
     "Gaspar": 25,
     "Guabiruba": 3,
-    "Itajai": 151,
-    "Itapema": 72,
-    "Navegantes": 52,
+    "Itajai": 153,
+    "Itapema": 74,
+    "Navegantes": 53,
     "Nova Trento": 59,
     "Porto Belo": 54
   },
-  "total_geral": 579,
+  "total_geral": 593,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000435A/26",
+      "nome": "KITAG BANG",
+      "re": "RE8161004510A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000434A/26",
+      "nome": "Comercial Miranda Caninana",
+      "re": "RE8161012688A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000091A/26",
+      "nome": "Residencia Lourdes",
+      "re": "RE8221001035A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000240A/26",
+      "nome": "EDIFÍCIO RESIDENCIAL CABO FRIO",
+      "re": "RE8047003112A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000239A/26",
+      "nome": "Márcio Roberto Schweigert",
+      "re": "RE8047001065A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000238A/26",
+      "nome": "MARCIO R. SCHWEIGERT",
+      "re": "RE8047003124A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000237A/26",
+      "nome": "WALTER JUNQUEIRA RUOFF",
+      "re": "RE8047003103A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000236A/26",
+      "nome": "WELTTEC",
+      "re": "RE8047005114A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000235A/26",
+      "nome": "Anésio Schneider",
+      "re": "RE8047009590A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000234A/26",
+      "nome": "CALIFORNIA SOLAR",
+      "re": "RE8047011642A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000233A/26",
+      "nome": "MABEJU ADMINISTRADORA DE BENS LTDA ME",
+      "re": "RE8047004452A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000232A/26",
+      "nome": "Centro Comercial",
+      "re": "RE8047001251A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000191A/26",
+      "nome": "ONÉLIA CRISTINA DE SOUZA MARCELINO",
+      "re": "RE8163004498A"
+    },
+    {
+      "ts": "2026-08-31T17:20:31-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000190A/26",
+      "nome": "IRAN JOSÉ DE CHAVES",
+      "re": "RE8163004272A"
+    },
     {
       "ts": "2026-08-31T11:27:33-03:00",
       "cidade": "Nova Trento",
@@ -5988,69 +6226,6 @@
       "codigo": "MUL8265000110A/26",
       "nome": "Empreendimentos ALD LTDA",
       "re": "RE8265001587A"
-    },
-    {
-      "ts": "2026-08-24T15:26:25-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000046A/26",
-      "nome": "Jose Carlos Bendini Spengler",
-      "re": "RE8117002903A"
-    },
-    {
-      "ts": "2026-08-24T14:47:29-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000423A/26",
-      "nome": "DEBARBA CLINICA ODONTOLOGICA EIRELI",
-      "re": "RE8161010209A"
-    },
-    {
-      "ts": "2026-08-24T14:47:29-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000422A/26",
-      "nome": "NILSON ARNALDO DA SILVA",
-      "re": "RE8161002751A"
-    },
-    {
-      "ts": "2026-08-24T14:47:29-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000229A/26",
-      "nome": "REC. CLUBE BAR DANCETERIA PROMOÇÕES E EVENTOS LTDA",
-      "re": "RE8047000486A"
-    },
-    {
-      "ts": "2026-08-24T14:05:31-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000421A/26",
-      "nome": "WAG AUTO PEÇAS",
-      "re": "RE8161000827A"
-    },
-    {
-      "ts": "2026-08-24T14:05:31-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000420A/26",
-      "nome": "CONEXÃO MARÍTIMA - SERVIÇOS LOGÍSTICOS S.A",
-      "re": "RE8161001964A"
-    },
-    {
-      "ts": "2026-08-24T14:05:31-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000419A/26",
-      "nome": "Trevo Mercosul",
-      "re": "RE8161000077A"
-    },
-    {
-      "ts": "2026-08-24T14:05:31-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000228A/26",
-      "nome": "NORBERTO PAPST",
-      "re": "RE8047005733A"
-    },
-    {
-      "ts": "2026-08-24T14:05:31-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000227A/26",
-      "nome": "CAÇA E TIRO ITOUPAVA  NORTE",
-      "re": "RE8047004956A"
     }
   ]
 }
