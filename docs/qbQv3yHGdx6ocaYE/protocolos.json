@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-31T03:48:55-03:00",
+  "timestamp": "2026-08-31T11:36:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8095,
-      "ultima_verificacao": "2026-08-31T03:48:55-03:00"
+      "ultima_verificacao": "2026-08-31T11:36:58-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
-      "ultimo_numero": 402,
-      "ultima_verificacao": "2026-08-31T03:48:55-03:00"
+      "ultimo_numero": 403,
+      "ultima_verificacao": "2026-08-31T11:36:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1526,
-      "ultima_verificacao": "2026-08-31T03:48:55-03:00"
+      "ultima_verificacao": "2026-08-31T11:36:58-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3880,
-      "ultima_verificacao": "2026-08-31T03:48:55-03:00"
+      "ultima_verificacao": "2026-08-31T11:36:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3381,
-      "ultima_verificacao": "2026-08-31T03:48:55-03:00"
+      "ultima_verificacao": "2026-08-31T11:36:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 976,
-      "ultima_verificacao": "2026-08-31T03:48:55-03:00"
+      "ultima_verificacao": "2026-08-31T11:36:58-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7202,
-      "ultima_verificacao": "2026-08-31T03:48:55-03:00"
+      "ultimo_numero": 7203,
+      "ultima_verificacao": "2026-08-31T11:36:58-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12984,
-      "ultima_verificacao": "2026-08-31T03:48:55-03:00"
+      "ultima_verificacao": "2026-08-31T11:36:58-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5010,
-      "ultima_verificacao": "2026-08-31T03:48:55-03:00"
+      "ultima_verificacao": "2026-08-31T11:36:58-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14282,
-      "ultima_verificacao": "2026-08-31T03:48:55-03:00"
+      "ultima_verificacao": "2026-08-31T11:36:58-03:00"
     }
   },
   "protocolos": {
@@ -1497,6 +1497,17 @@
       }
     ],
     "Botuvera": [
+      {
+        "CodigoProtocolo": "A8051000403A",
+        "RE": "RE8051000050A",
+        "numgEdificacao": 72542,
+        "Nome_Edificacao": "POUSADA E RESTAURANTE TOMIO",
+        "Logradouro": "ESTRADA GERAL LAGEADO BAIXO",
+        "Numero": "999",
+        "Bairro": "BOTUVERÁ - CENTRO",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-08-31T11:36:58-03:00"
+      },
       {
         "CodigoProtocolo": "A8051000402A",
         "RE": "RE8051000005A",
@@ -5478,6 +5489,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007203A",
+        "RE": "RE8163006859A",
+        "numgEdificacao": 368208,
+        "Nome_Edificacao": "Casa Padaria Itapema",
+        "Logradouro": "RUA 214",
+        "Numero": "40",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-08-31T11:36:58-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007202A",
         "RE": "RE8163000102A",
@@ -14431,15 +14453,15 @@
   },
   "totais": {
     "Brusque": 131,
-    "Botuvera": 36,
+    "Botuvera": 37,
     "Guabiruba": 51,
     "Gaspar": 114,
     "Porto Belo": 100,
     "Nova Trento": 60,
-    "Itapema": 155,
+    "Itapema": 156,
     "Blumenau": 239,
     "Navegantes": 113,
     "Itajai": 306
   },
-  "total_geral": 1305
+  "total_geral": 1307
 }

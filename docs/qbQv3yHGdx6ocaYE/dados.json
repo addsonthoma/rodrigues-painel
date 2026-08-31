@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-31T03:40:45-03:00",
+  "timestamp": "2026-08-31T11:27:33-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T03:40:45-03:00"
+      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T03:40:45-03:00"
+      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T03:40:45-03:00"
+      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 49,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T03:40:45-03:00"
+      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 110,
+      "ultimo_numero": 111,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T03:40:45-03:00"
+      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 139,
+      "ultimo_numero": 142,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T03:40:45-03:00"
+      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 189,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T03:40:45-03:00"
+      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 231,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T03:40:45-03:00"
+      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 90,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T03:40:45-03:00"
+      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 433,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T03:40:45-03:00"
+      "ultima_verificacao": "2026-08-31T11:27:33-03:00"
     }
   },
   "multas": {
@@ -4652,6 +4652,36 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000140A/26",
+        "RE": "RE8225000763A",
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANOPOLIS",
+        "Logradouro": "RUA FLORIANOPOLIS",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - PONTA FINA NORTE",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-31T11:27:33-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000141A/26",
+        "RE": "RE8225000377A",
+        "Nome_Edificacao": "ASSOCIAÇÃO BÍBLICA E CULTURAL DE BRUSQUE E REGIÃO",
+        "Logradouro": "Rua Clara Cipriani",
+        "Numero": "167",
+        "Bairro": "NOVA TRENTO - BESENELO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-31T11:27:33-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000142A/26",
+        "RE": "RE8225000384A",
+        "Nome_Edificacao": "FLORINDO MARTINELLI",
+        "Logradouro": "RUA GERAL TIROL",
+        "Numero": "2274",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-08-31T11:27:33-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000137A/26",
         "RE": "RE8225000817A",
         "Nome_Edificacao": "EUSSANDRI ERCIO WILCHE",
@@ -5198,6 +5228,16 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "MUL8265000111A/26",
+        "RE": "RE8265001217A",
+        "Nome_Edificacao": "VALMOR MANOEL LOPES",
+        "Logradouro": "RUA JOÃO REGIS NETO - 62888",
+        "Numero": "188",
+        "Bairro": "PORTO BELO - SANTA LUZIA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-08-31T11:27:33-03:00"
+      },
+      {
         "CodigoAuto": "MUL8265000110A/26",
         "RE": "RE8265001587A",
         "Nome_Edificacao": "Empreendimentos ALD LTDA",
@@ -5720,11 +5760,39 @@
     "Itajai": 151,
     "Itapema": 72,
     "Navegantes": 52,
-    "Nova Trento": 56,
-    "Porto Belo": 53
+    "Nova Trento": 59,
+    "Porto Belo": 54
   },
-  "total_geral": 575,
+  "total_geral": 579,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-31T11:27:33-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000142A/26",
+      "nome": "FLORINDO MARTINELLI",
+      "re": "RE8225000384A"
+    },
+    {
+      "ts": "2026-08-31T11:27:33-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000141A/26",
+      "nome": "ASSOCIAÇÃO BÍBLICA E CULTURAL DE BRUSQUE E REGIÃO",
+      "re": "RE8225000377A"
+    },
+    {
+      "ts": "2026-08-31T11:27:33-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000140A/26",
+      "nome": "MITRA METROPOLITANA DE FLORIANOPOLIS",
+      "re": "RE8225000763A"
+    },
+    {
+      "ts": "2026-08-31T11:27:33-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000111A/26",
+      "nome": "VALMOR MANOEL LOPES",
+      "re": "RE8265001217A"
+    },
     {
       "ts": "2026-08-28T18:27:24-03:00",
       "cidade": "Itajai",
