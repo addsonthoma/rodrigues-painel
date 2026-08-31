@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-08-31T17:47:08-03:00",
+  "timestamp": "2026-08-31T17:56:43-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8096,
-      "ultima_verificacao": "2026-08-31T17:47:08-03:00"
+      "ultima_verificacao": "2026-08-31T17:56:43-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-08-31T17:47:08-03:00"
+      "ultima_verificacao": "2026-08-31T17:56:43-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1528,
-      "ultima_verificacao": "2026-08-31T17:47:08-03:00"
+      "ultima_verificacao": "2026-08-31T17:56:43-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3880,
-      "ultima_verificacao": "2026-08-31T17:47:08-03:00"
+      "ultima_verificacao": "2026-08-31T17:56:43-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3382,
-      "ultima_verificacao": "2026-08-31T17:47:08-03:00"
+      "ultima_verificacao": "2026-08-31T17:56:43-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 977,
-      "ultima_verificacao": "2026-08-31T17:47:08-03:00"
+      "ultima_verificacao": "2026-08-31T17:56:43-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7207,
-      "ultima_verificacao": "2026-08-31T17:47:08-03:00"
+      "ultima_verificacao": "2026-08-31T17:56:43-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12985,
-      "ultima_verificacao": "2026-08-31T17:47:08-03:00"
+      "ultimo_numero": 12986,
+      "ultima_verificacao": "2026-08-31T17:56:43-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5010,
-      "ultima_verificacao": "2026-08-31T17:47:08-03:00"
+      "ultima_verificacao": "2026-08-31T17:56:43-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14283,
-      "ultima_verificacao": "2026-08-31T17:47:08-03:00"
+      "ultima_verificacao": "2026-08-31T17:56:43-03:00"
     }
   },
   "protocolos": {
@@ -7328,6 +7328,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012986A",
+        "RE": "RE8047005746A",
+        "numgEdificacao": 173357,
+        "Nome_Edificacao": "JURACI GRACILIDES KRAUS",
+        "Logradouro": "RUA FRANCISCO VAHLDIECK",
+        "Numero": "1265",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-08-31T17:56:43-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012985A",
         "RE": "RE8047003299A",
@@ -14635,9 +14646,9 @@
     "Porto Belo": 101,
     "Nova Trento": 61,
     "Itapema": 160,
-    "Blumenau": 243,
+    "Blumenau": 244,
     "Navegantes": 113,
     "Itajai": 307
   },
-  "total_geral": 1323
+  "total_geral": 1324
 }
