@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-28T16:35:54-03:00",
-  "total": 4603,
+  "timestamp": "2026-08-31T08:35:40-03:00",
+  "total": 4615,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -583,12 +583,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "19/12/2022",
-      "prazoDias": -1348,
+      "prazoDias": -1351,
       "bombeiroAutuacao": "Cb MAURICIO Inacio Juvencio",
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1787945608.8798094
+      "_ts": 1788176010.8224573
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1787945608.8798392
+      "_ts": 1788176010.8224921
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1787945608.8798285
+      "_ts": 1788176010.8224788
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5105,7 +5105,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1787945601.5460064
+      "_ts": 1788176002.635506
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5120,12 +5120,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "21/10/2026",
-      "prazoDias": 54,
+      "prazoDias": 51,
       "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1787945601.5459647
+      "_ts": 1788176002.6354842
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5332,7 +5332,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1787945659.6369886
+      "_ts": 1788176061.732467
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9440,7 +9440,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1787945595.197926
+      "_ts": 1788175993.9796767
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9454,7 +9454,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1787945616.5829377
+      "_ts": 1788176017.4905992
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -9468,7 +9468,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000015A/26",
-      "_ts": 1787945628.9403234
+      "_ts": 1788176025.7688913
     },
     "AF8051000014A/26": {
       "tipo": "AF",
@@ -9482,7 +9482,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000014A/26",
-      "_ts": 1787945635.6484914
+      "_ts": 1788176033.5267034
     },
     "AF8051000011A/26": {
       "tipo": "AF",
@@ -9524,7 +9524,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000044A/26",
-      "_ts": 1787945671.4375913
+      "_ts": 1788176077.7271721
     },
     "AF8123000040A/26": {
       "tipo": "AF",
@@ -13992,7 +13992,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1787945652.2944283
+      "_ts": 1788176048.735283
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -27645,19 +27645,19 @@
       "email": "financeiro@dunid.com.br",
       "endereco_responsavel": "Rodovia Antônio Heil, 21100, Limoeiro, Itajaí",
       "exigencias": [
-        "Executar sistema de saída de emergência",
         "Executar sistema de alarme de incêndio",
         "Executar sistema preventivo por extintores",
         "Executar sistema hidráulico preventivo",
-        "Apresentar projeto preventivo (PPCI)"
+        "Apresentar projeto preventivo (PPCI)",
+        "Executar sistema de saída de emergência"
       ],
       "dataPrazo": "26/08/2026",
-      "prazoDias": -1,
+      "prazoDias": -5,
       "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
       "bloco": "Galpão Aluguel 2",
       "codgAuto": "AF8055000707A/26",
       "numgAuto": 507231,
-      "_ts": 1787830386.922001
+      "_ts": 1788175976.7888029
     },
     "AF8055000706A/26": {
       "tipo": "FISCALIZACAO",
@@ -30060,7 +30060,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1787945648.9525237
+      "_ts": 1788176046.9845436
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38481,7 +38481,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1787945642.376614
+      "_ts": 1788176040.5294182
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -38496,12 +38496,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "22/09/2026",
-      "prazoDias": 25,
+      "prazoDias": 22,
       "bombeiroAutuacao": "Cb Frederico Moreira Silva",
       "bloco": "1",
       "codgAuto": "AF8123000114A/25",
       "numgAuto": 449049,
-      "_ts": 1787945642.3765934
+      "_ts": 1788176040.5294023
     },
     "AF8117000482A/26": {
       "tipo": "FISCALIZACAO",
@@ -83511,12 +83511,12 @@
         "Solicitar vistoria para funcionamento"
       ],
       "dataPrazo": "25/09/2026",
-      "prazoDias": 28,
+      "prazoDias": 25,
       "bombeiroAutuacao": "3º Sgt GIL Vicente Pereira",
       "bloco": "osmar ignacio uso misto",
       "codgAuto": "AF8117000614A/26",
       "numgAuto": 523339,
-      "_ts": 1787945679.1809475
+      "_ts": 1788176108.7839074
     },
     "AF8117000613A/26": {
       "tipo": "AF",
@@ -83530,7 +83530,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8117000613A/26",
-      "_ts": 1787945679.1809764
+      "_ts": 1788176108.7839303
     },
     "AF8221000315A/26": {
       "tipo": "FISCALIZACAO",
@@ -84903,12 +84903,12 @@
         "Executar sistema hidráulico preventivo"
       ],
       "dataPrazo": "15/12/2026",
-      "prazoDias": 110,
+      "prazoDias": 106,
       "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
       "bloco": "Galpão Aluguel 2",
       "codgAuto": "AF8055000956A/26",
       "numgAuto": 524011,
-      "_ts": 1787830386.922005
+      "_ts": 1788175976.7888207
     },
     "AF8055000955A/26": {
       "tipo": "FISCALIZACAO",
@@ -88777,12 +88777,12 @@
         "Solicitar vistoria para funcionamento"
       ],
       "dataPrazo": "19/02/2026",
-      "prazoDias": -190,
+      "prazoDias": -193,
       "bombeiroAutuacao": "SubTen LUIZ ALBERTO Moreira",
       "bloco": "Residencial",
       "codgAuto": "AF8161001476A/25",
       "numgAuto": 442095,
-      "_ts": 1787945754.0017674
+      "_ts": 1788176138.9644299
     },
     "MUL8161000107A/26": {
       "tipo": "MULTA",
@@ -88800,7 +88800,7 @@
       "bloco": "Residencial",
       "codgAuto": "MUL8161000107A/26",
       "numgAuto": 473678,
-      "_ts": 1787945754.0017712
+      "_ts": 1788176138.9644332
     },
     "AF8161001177A/26": {
       "tipo": "AF",
@@ -88814,7 +88814,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8161001177A/26",
-      "_ts": 1787945754.0017815
+      "_ts": 1788176138.9644399
     },
     "AF8161001176A/26": {
       "tipo": "FISCALIZACAO",
@@ -89149,6 +89149,246 @@
       "codgAuto": "AF8161001179A/26",
       "numgAuto": 524918,
       "_ts": 1787945743.207033
+    },
+    "AF8055000971A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "4469.73",
+      "cidade": "BRUSQUE",
+      "responsavel": "Odair Baloni",
+      "cpfCnpj": "06224907960",
+      "celular": "47997058964",
+      "email": "odairdinamik@hotmail.com",
+      "endereco_responsavel": "Rua Henrique Gohr, 70, Rio Branco, Brusque",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "08/09/2026",
+      "prazoDias": 8,
+      "bombeiroAutuacao": "3º Sgt Priscila Correa BERTI",
+      "bloco": "Galpão Aluguel 2",
+      "codgAuto": "AF8055000971A/26",
+      "numgAuto": 525024,
+      "_ts": 1788175976.788806
+    },
+    "AF8117000621A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "40",
+      "cidade": "GASPAR",
+      "responsavel": "DOUGLAS CAMPOS",
+      "cpfCnpj": "09018801917",
+      "celular": "47968442046",
+      "email": "contato@verus.cnr.br",
+      "endereco_responsavel": "Rua Pedro Simon, 1423, Centro, Gaspar",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "30/08/2027",
+      "prazoDias": 364,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "GALPAO 1",
+      "codgAuto": "AF8117000621A/26",
+      "numgAuto": 525090,
+      "_ts": 1788176083.347838
+    },
+    "AF8117000753A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1062.43",
+      "cidade": "GASPAR",
+      "responsavel": "JWAGES ADMINISTRADORA DE BENS S/A",
+      "cpfCnpj": "10489407000188",
+      "celular": "47991297989",
+      "email": "jsantos@jsantoscontabilidade.com.br",
+      "endereco_responsavel": "Rua Engenheiro Paul Werner, 480, Itoupava Seca, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "03/09/2026",
+      "prazoDias": 3,
+      "bombeiroAutuacao": "3º Sgt ROBERSON Aender Rufino",
+      "bloco": "Industria",
+      "codgAuto": "AF8117000753A/25",
+      "numgAuto": 430324,
+      "_ts": 1788176090.4144948
+    },
+    "AF8117000620A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1062.43",
+      "cidade": "GASPAR",
+      "responsavel": "ELAINE CRISTINA GITRONE ARAUJO",
+      "cpfCnpj": "82432163915",
+      "celular": "47999198686",
+      "email": "eng.elaine@hotmail.com",
+      "endereco_responsavel": "Rua Olavio Rosa, 44, Santa Terezinha, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "30/09/2026",
+      "prazoDias": 30,
+      "bombeiroAutuacao": "Sd Vinicius KNABBEN Dias Costa",
+      "bloco": "Industria",
+      "codgAuto": "AF8117000620A/26",
+      "numgAuto": 525089,
+      "_ts": 1788176090.4145033
+    },
+    "AF8117000619A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": null,
+      "cidade": "GASPAR",
+      "responsavel": "WILLYAN WIETCOVSKY BENATTI",
+      "cpfCnpj": "07669103930",
+      "celular": "48991697074",
+      "email": "societario@eficont.com.br",
+      "endereco_responsavel": "Av Emilia Ramos, 1293, XV de Novembro, Tijucas",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento",
+        "Apresentar projeto preventivo (PPCI)",
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "28/09/2026",
+      "prazoDias": 28,
+      "bombeiroAutuacao": "3º Sgt GIL Vicente Pereira",
+      "bloco": "Bloco",
+      "codgAuto": "AF8117000619A/26",
+      "numgAuto": 524973,
+      "_ts": 1788176096.4140759
+    },
+    "AF8163001179A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1000",
+      "cidade": "ITAPEMA",
+      "responsavel": "LUIZ CARLOS RIGHES",
+      "cpfCnpj": "35223758900",
+      "celular": "49991557107",
+      "email": "righes@terra.com.br",
+      "endereco_responsavel": "10av Salomao Carneiro de Almeida, 111, Centro, Curitibanos",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "29/10/2026",
+      "prazoDias": 59,
+      "bombeiroAutuacao": "Sd Diego FERNANDES Ferreira",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8163001179A/26",
+      "numgAuto": 524992,
+      "_ts": 1788176114.8626761
+    },
+    "AF8221000806A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "10",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Erondi Luiz Roveda",
+      "cpfCnpj": "01835014976",
+      "celular": "47999222410",
+      "email": "erondi.roveda@braviaconsulting.com",
+      "endereco_responsavel": "Avenida Osvaldo Reis, 3299, Praia Brava, Itajaí",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)",
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "02/04/2024",
+      "prazoDias": -881,
+      "bombeiroAutuacao": "Sd Luiz Eduardo BRITO Selhorst",
+      "bloco": "417",
+      "codgAuto": "AF8221000806A/23",
+      "numgAuto": 248796,
+      "_ts": 1788176121.2321138
+    },
+    "AF8221000324A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "10",
+      "cidade": "NAVEGANTES",
+      "responsavel": "GUSTAVO LEAL DE QUEIROZ",
+      "cpfCnpj": "03998849637",
+      "celular": "47991301085",
+      "email": "gustavo@baron-brasil.com",
+      "endereco_responsavel": "Rua Vereador Telemaco de Oliveira, 145, Cordeiros, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "28/09/2026",
+      "prazoDias": 28,
+      "bombeiroAutuacao": "Cb CARLOS Augusto Cardoso",
+      "bloco": "417",
+      "codgAuto": "AF8221000324A/26",
+      "numgAuto": 524981,
+      "_ts": 1788176121.2321253
+    },
+    "MUL8221000045A/24": {
+      "tipo": "MULTA",
+      "areaTotal": "10",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "417",
+      "codgAuto": "MUL8221000045A/24",
+      "numgAuto": 292467,
+      "_ts": 1788176121.2322094
+    },
+    "AF8221000560A/22": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "401.33",
+      "cidade": "NAVEGANTES",
+      "responsavel": "COMERCIO DE LINGERIE TEMPERO APIMENTADO LTDA",
+      "cpfCnpj": "08853743000540",
+      "celular": "47996247607",
+      "email": "joaopedrock@gmail.com",
+      "endereco_responsavel": "Rua Nicolau Kleis, 300, Centro, Navegantes",
+      "exigencias": [
+        "Apresentar projeto (PPCI ou RPCI)",
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "18/10/2022",
+      "prazoDias": -1413,
+      "bombeiroAutuacao": "Maj Joao Emiliano de MOURA Silva Miranda",
+      "bloco": "SALA 01",
+      "codgAuto": "AF8221000560A/22",
+      "numgAuto": 105812,
+      "_ts": 1788176128.4685557
+    },
+    "AF8221000323A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "401.33",
+      "cidade": "NAVEGANTES",
+      "responsavel": "fatima canziani kristensen",
+      "cpfCnpj": "11804407810",
+      "celular": "47996053645",
+      "email": "joaopedrock@gmail.com",
+      "endereco_responsavel": "Rua Nicolau Kleis, 300, Centro, Navegantes",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "28/11/2026",
+      "prazoDias": 89,
+      "bombeiroAutuacao": "Cb CARLOS Augusto Cardoso",
+      "bloco": "SALA 01",
+      "codgAuto": "AF8221000323A/26",
+      "numgAuto": 524975,
+      "_ts": 1788176128.468567
+    },
+    "MUL8221000094A/22": {
+      "tipo": "MULTA",
+      "areaTotal": "401.33",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "SALA 01",
+      "codgAuto": "MUL8221000094A/22",
+      "numgAuto": 153572,
+      "_ts": 1788176128.468609
     }
   }
 }
