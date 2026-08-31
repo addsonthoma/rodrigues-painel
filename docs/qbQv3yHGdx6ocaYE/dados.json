@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-08-31T13:40:04-03:00",
+  "timestamp": "2026-08-31T13:50:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T13:40:04-03:00"
+      "ultima_verificacao": "2026-08-31T13:50:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T13:40:04-03:00"
+      "ultima_verificacao": "2026-08-31T13:50:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T13:40:04-03:00"
+      "ultima_verificacao": "2026-08-31T13:50:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 49,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T13:40:04-03:00"
+      "ultima_verificacao": "2026-08-31T13:50:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 111,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T13:40:04-03:00"
+      "ultima_verificacao": "2026-08-31T13:50:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 142,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T13:40:04-03:00"
+      "ultima_verificacao": "2026-08-31T13:50:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 191,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T13:40:04-03:00"
+      "ultima_verificacao": "2026-08-31T13:50:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 231,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T13:40:04-03:00"
+      "ultima_verificacao": "2026-08-31T13:50:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
-      "ultimo_numero": 90,
+      "ultimo_numero": 91,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T13:40:04-03:00"
+      "ultima_verificacao": "2026-08-31T13:50:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 435,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-08-31T13:40:04-03:00"
+      "ultima_verificacao": "2026-08-31T13:50:04-03:00"
     }
   },
   "multas": {
@@ -4185,6 +4185,16 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "MUL8221000091A/26",
+        "RE": "RE8221001035A",
+        "Nome_Edificacao": "Residencia Lourdes",
+        "Logradouro": "Rua João Hercílio da Luz",
+        "Numero": "129",
+        "Bairro": "NAVEGANTES - SÃO PEDRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-08-31T13:50:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8221000090A/26",
         "RE": "RE8221004068A",
         "Nome_Edificacao": "ASTERIO STOLF",
@@ -5799,12 +5809,19 @@
     "Guabiruba": 3,
     "Itajai": 153,
     "Itapema": 74,
-    "Navegantes": 52,
+    "Navegantes": 53,
     "Nova Trento": 59,
     "Porto Belo": 54
   },
-  "total_geral": 583,
+  "total_geral": 584,
   "eventos_recentes": [
+    {
+      "ts": "2026-08-31T13:50:04-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000091A/26",
+      "nome": "Residencia Lourdes",
+      "re": "RE8221001035A"
+    },
     {
       "ts": "2026-08-31T13:30:05-03:00",
       "cidade": "Itajai",
