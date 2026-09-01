@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-01T13:06:49-03:00",
+  "timestamp": "2026-09-01T13:16:53-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8097,
-      "ultima_verificacao": "2026-09-01T13:06:49-03:00"
+      "ultima_verificacao": "2026-09-01T13:16:53-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-01T13:06:49-03:00"
+      "ultima_verificacao": "2026-09-01T13:16:53-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1528,
-      "ultima_verificacao": "2026-09-01T13:06:49-03:00"
+      "ultima_verificacao": "2026-09-01T13:16:53-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3880,
-      "ultima_verificacao": "2026-09-01T13:06:49-03:00"
+      "ultimo_numero": 3881,
+      "ultima_verificacao": "2026-09-01T13:16:53-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3382,
-      "ultima_verificacao": "2026-09-01T13:06:49-03:00"
+      "ultima_verificacao": "2026-09-01T13:16:53-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 977,
-      "ultima_verificacao": "2026-09-01T13:06:49-03:00"
+      "ultima_verificacao": "2026-09-01T13:16:53-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7207,
-      "ultima_verificacao": "2026-09-01T13:06:49-03:00"
+      "ultima_verificacao": "2026-09-01T13:16:53-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12989,
-      "ultima_verificacao": "2026-09-01T13:06:49-03:00"
+      "ultima_verificacao": "2026-09-01T13:16:53-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5011,
-      "ultima_verificacao": "2026-09-01T13:06:49-03:00"
+      "ultima_verificacao": "2026-09-01T13:16:53-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14289,
-      "ultima_verificacao": "2026-09-01T13:06:49-03:00"
+      "ultima_verificacao": "2026-09-01T13:16:53-03:00"
     }
   },
   "protocolos": {
@@ -2535,6 +2535,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003881A",
+        "RE": "RE8117003289A",
+        "numgEdificacao": 369315,
+        "Nome_Edificacao": "Teresinha Aparecida Lana Nicolodi",
+        "Logradouro": "R PEDRO BERTI",
+        "Numero": "1110",
+        "Bairro": "GASPAR - Bateias",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-01T13:16:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003880A",
         "RE": "RE8117001594A",
@@ -14763,7 +14774,7 @@
     "Brusque": 133,
     "Botuvera": 39,
     "Guabiruba": 53,
-    "Gaspar": 114,
+    "Gaspar": 115,
     "Porto Belo": 101,
     "Nova Trento": 61,
     "Itapema": 160,
@@ -14771,5 +14782,5 @@
     "Navegantes": 114,
     "Itajai": 313
   },
-  "total_geral": 1335
+  "total_geral": 1336
 }
