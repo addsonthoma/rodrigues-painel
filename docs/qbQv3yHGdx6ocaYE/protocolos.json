@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-01T09:36:55-03:00",
+  "timestamp": "2026-09-01T09:47:16-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8096,
-      "ultima_verificacao": "2026-09-01T09:36:55-03:00"
+      "ultimo_numero": 8097,
+      "ultima_verificacao": "2026-09-01T09:47:16-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-01T09:36:55-03:00"
+      "ultima_verificacao": "2026-09-01T09:47:16-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1528,
-      "ultima_verificacao": "2026-09-01T09:36:55-03:00"
+      "ultima_verificacao": "2026-09-01T09:47:16-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3880,
-      "ultima_verificacao": "2026-09-01T09:36:55-03:00"
+      "ultima_verificacao": "2026-09-01T09:47:16-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3382,
-      "ultima_verificacao": "2026-09-01T09:36:55-03:00"
+      "ultima_verificacao": "2026-09-01T09:47:16-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 977,
-      "ultima_verificacao": "2026-09-01T09:36:55-03:00"
+      "ultima_verificacao": "2026-09-01T09:47:16-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7207,
-      "ultima_verificacao": "2026-09-01T09:36:55-03:00"
+      "ultima_verificacao": "2026-09-01T09:47:16-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12986,
-      "ultima_verificacao": "2026-09-01T09:36:55-03:00"
+      "ultima_verificacao": "2026-09-01T09:47:16-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5010,
-      "ultima_verificacao": "2026-09-01T09:36:55-03:00"
+      "ultima_verificacao": "2026-09-01T09:47:16-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14287,
-      "ultima_verificacao": "2026-09-01T09:36:55-03:00"
+      "ultima_verificacao": "2026-09-01T09:47:16-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008097A",
+        "RE": "RE8055006806A",
+        "numgEdificacao": 368828,
+        "Nome_Edificacao": "PRÉDIO 8 APTOS - JOAO XXIII - RONY",
+        "Logradouro": "Rua João XXIII",
+        "Numero": "473",
+        "Bairro": "BRUSQUE - Primeiro de Maio",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-01T09:47:16-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008096A",
         "RE": "RE8055004437A",
@@ -14683,7 +14694,7 @@
     ]
   },
   "totais": {
-    "Brusque": 132,
+    "Brusque": 133,
     "Botuvera": 39,
     "Guabiruba": 53,
     "Gaspar": 114,
@@ -14694,5 +14705,5 @@
     "Navegantes": 113,
     "Itajai": 311
   },
-  "total_geral": 1328
+  "total_geral": 1329
 }
