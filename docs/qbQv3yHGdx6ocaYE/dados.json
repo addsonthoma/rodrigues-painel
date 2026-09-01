@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-01T11:46:08-03:00",
+  "timestamp": "2026-09-01T15:03:39-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-01T11:46:08-03:00"
+      "ultima_verificacao": "2026-09-01T15:03:39-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-01T11:46:08-03:00"
+      "ultima_verificacao": "2026-09-01T15:03:39-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-01T11:46:08-03:00"
+      "ultima_verificacao": "2026-09-01T15:03:39-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 49,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-01T11:46:08-03:00"
+      "ultima_verificacao": "2026-09-01T15:03:39-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 112,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-01T11:46:08-03:00"
+      "ultima_verificacao": "2026-09-01T15:03:39-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 142,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-01T11:46:08-03:00"
+      "ultima_verificacao": "2026-09-01T15:03:39-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 191,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-01T11:46:08-03:00"
+      "ultima_verificacao": "2026-09-01T15:03:39-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 240,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-01T11:46:08-03:00"
+      "ultima_verificacao": "2026-09-01T15:03:39-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 91,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-01T11:46:08-03:00"
+      "ultima_verificacao": "2026-09-01T15:03:39-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 435,
+      "ultimo_numero": 436,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-01T11:46:08-03:00"
+      "ultima_verificacao": "2026-09-01T15:03:39-03:00"
     }
   },
   "multas": {
@@ -2033,6 +2033,16 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000436A/26",
+        "RE": "RE8161006954A",
+        "Nome_Edificacao": "R7 PARTICIPAÇÕES E NEGOCIAÇÕES IMOBILIARIAS LTDA",
+        "Logradouro": "Rua Heitor Liberato",
+        "Numero": "2249",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-01T15:03:39-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000434A/26",
         "RE": "RE8161012688A",
@@ -5907,14 +5917,21 @@
     "Brusque": 64,
     "Gaspar": 25,
     "Guabiruba": 3,
-    "Itajai": 153,
+    "Itajai": 154,
     "Itapema": 74,
     "Navegantes": 53,
     "Nova Trento": 59,
     "Porto Belo": 55
   },
-  "total_geral": 594,
+  "total_geral": 595,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-01T15:03:39-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000436A/26",
+      "nome": "R7 PARTICIPAÇÕES E NEGOCIAÇÕES IMOBILIARIAS LTDA",
+      "re": "RE8161006954A"
+    },
     {
       "ts": "2026-09-01T11:46:08-03:00",
       "cidade": "Porto Belo",
@@ -6187,62 +6204,6 @@
       "codigo": "MUL8221000090A/26",
       "nome": "ASTERIO STOLF",
       "re": "RE8221004068A"
-    },
-    {
-      "ts": "2026-08-25T14:16:12-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000186A/26",
-      "nome": "RESIDENCIAL MAR DE BEAUFORT",
-      "re": "RE8163003491A"
-    },
-    {
-      "ts": "2026-08-25T14:16:12-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000119A/26",
-      "nome": "ADMINISTRADORA NELSON LTDA",
-      "re": "RE8055001147A"
-    },
-    {
-      "ts": "2026-08-25T13:40:26-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000185A/26",
-      "nome": "COMERCIAL FERREIRA 2",
-      "re": "RE8163003181A"
-    },
-    {
-      "ts": "2026-08-25T13:40:26-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000184A/26",
-      "nome": "AGRO MUNDO ANIMAL LTDA",
-      "re": "RE8163006754A"
-    },
-    {
-      "ts": "2026-08-25T13:40:26-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000049A/26",
-      "nome": "WIKO ADMINISTRADORA DE BENS E PARTICIPAÇÕES",
-      "re": "RE8117000444A"
-    },
-    {
-      "ts": "2026-08-25T13:40:26-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000048A/26",
-      "nome": "DIMENSIONAL PRODUTOS E SERVICOS LTDA",
-      "re": "RE8117002978A"
-    },
-    {
-      "ts": "2026-08-25T12:54:42-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000047A/26",
-      "nome": "Maicon Augustinho dos Santos ME",
-      "re": "RE8117001133A"
-    },
-    {
-      "ts": "2026-08-25T12:19:23-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000110A/26",
-      "nome": "Empreendimentos ALD LTDA",
-      "re": "RE8265001587A"
     }
   ]
 }
