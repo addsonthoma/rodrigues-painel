@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-01T15:07:04-03:00",
+  "timestamp": "2026-09-01T15:16:45-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8097,
-      "ultima_verificacao": "2026-09-01T15:07:04-03:00"
+      "ultima_verificacao": "2026-09-01T15:16:45-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-01T15:07:04-03:00"
+      "ultima_verificacao": "2026-09-01T15:16:45-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1528,
-      "ultima_verificacao": "2026-09-01T15:07:04-03:00"
+      "ultima_verificacao": "2026-09-01T15:16:45-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3882,
-      "ultima_verificacao": "2026-09-01T15:07:04-03:00"
+      "ultima_verificacao": "2026-09-01T15:16:45-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3382,
-      "ultima_verificacao": "2026-09-01T15:07:04-03:00"
+      "ultima_verificacao": "2026-09-01T15:16:45-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 977,
-      "ultima_verificacao": "2026-09-01T15:07:04-03:00"
+      "ultima_verificacao": "2026-09-01T15:16:45-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7207,
-      "ultima_verificacao": "2026-09-01T15:07:04-03:00"
+      "ultima_verificacao": "2026-09-01T15:16:45-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12989,
-      "ultima_verificacao": "2026-09-01T15:07:04-03:00"
+      "ultima_verificacao": "2026-09-01T15:16:45-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5012,
-      "ultima_verificacao": "2026-09-01T15:07:04-03:00"
+      "ultima_verificacao": "2026-09-01T15:16:45-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14290,
-      "ultima_verificacao": "2026-09-01T15:07:04-03:00"
+      "ultimo_numero": 14291,
+      "ultima_verificacao": "2026-09-01T15:16:45-03:00"
     }
   },
   "protocolos": {
@@ -11348,6 +11348,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014291A",
+        "RE": "RE8161006745A",
+        "numgEdificacao": 187832,
+        "Nome_Edificacao": "CAIS DO ATLANTICO INDUSTRIA E COMERCIO DE PESCADOS LTDA",
+        "Logradouro": "Rua Valdir Souza",
+        "Numero": "80",
+        "Bairro": "ITAJAÍ - MURTA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-01T15:16:45-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014290A",
         "RE": "RE8161013862A",
         "numgEdificacao": 369336,
@@ -14813,7 +14824,7 @@
     "Itapema": 160,
     "Blumenau": 247,
     "Navegantes": 115,
-    "Itajai": 314
+    "Itajai": 315
   },
-  "total_geral": 1339
+  "total_geral": 1340
 }
