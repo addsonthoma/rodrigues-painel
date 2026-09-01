@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-01T10:47:17-03:00",
+  "timestamp": "2026-09-01T10:57:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8097,
-      "ultima_verificacao": "2026-09-01T10:47:17-03:00"
+      "ultima_verificacao": "2026-09-01T10:57:27-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-01T10:47:17-03:00"
+      "ultima_verificacao": "2026-09-01T10:57:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1528,
-      "ultima_verificacao": "2026-09-01T10:47:17-03:00"
+      "ultima_verificacao": "2026-09-01T10:57:27-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3880,
-      "ultima_verificacao": "2026-09-01T10:47:17-03:00"
+      "ultima_verificacao": "2026-09-01T10:57:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3382,
-      "ultima_verificacao": "2026-09-01T10:47:17-03:00"
+      "ultima_verificacao": "2026-09-01T10:57:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 977,
-      "ultima_verificacao": "2026-09-01T10:47:17-03:00"
+      "ultima_verificacao": "2026-09-01T10:57:27-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7207,
-      "ultima_verificacao": "2026-09-01T10:47:17-03:00"
+      "ultima_verificacao": "2026-09-01T10:57:27-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12986,
-      "ultima_verificacao": "2026-09-01T10:47:17-03:00"
+      "ultimo_numero": 12987,
+      "ultima_verificacao": "2026-09-01T10:57:27-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5010,
-      "ultima_verificacao": "2026-09-01T10:47:17-03:00"
+      "ultima_verificacao": "2026-09-01T10:57:27-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14288,
-      "ultima_verificacao": "2026-09-01T10:47:17-03:00"
+      "ultima_verificacao": "2026-09-01T10:57:27-03:00"
     }
   },
   "protocolos": {
@@ -7339,6 +7339,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012987A",
+        "RE": "RE8047012111A",
+        "numgEdificacao": 368680,
+        "Nome_Edificacao": "CONDOMÍNIO ROSEN GARTEN",
+        "Logradouro": "Rua Adolfo Volles",
+        "Numero": "210",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-01T10:57:27-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012986A",
         "RE": "RE8047005746A",
@@ -14712,9 +14723,9 @@
     "Porto Belo": 101,
     "Nova Trento": 61,
     "Itapema": 160,
-    "Blumenau": 244,
+    "Blumenau": 245,
     "Navegantes": 113,
     "Itajai": 312
   },
-  "total_geral": 1330
+  "total_geral": 1331
 }
