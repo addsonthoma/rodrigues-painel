@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-02T19:56:10-03:00",
+  "timestamp": "2026-09-02T20:06:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8098,
-      "ultima_verificacao": "2026-09-02T19:56:10-03:00"
+      "ultima_verificacao": "2026-09-02T20:06:03-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-02T19:56:10-03:00"
+      "ultima_verificacao": "2026-09-02T20:06:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-02T19:56:10-03:00"
+      "ultima_verificacao": "2026-09-02T20:06:03-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-02T19:56:10-03:00"
+      "ultima_verificacao": "2026-09-02T20:06:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3383,
-      "ultima_verificacao": "2026-09-02T19:56:10-03:00"
+      "ultima_verificacao": "2026-09-02T20:06:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-02T19:56:10-03:00"
+      "ultima_verificacao": "2026-09-02T20:06:03-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7209,
-      "ultima_verificacao": "2026-09-02T19:56:10-03:00"
+      "ultima_verificacao": "2026-09-02T20:06:03-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12993,
-      "ultima_verificacao": "2026-09-02T19:56:10-03:00"
+      "ultima_verificacao": "2026-09-02T20:06:03-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5016,
-      "ultima_verificacao": "2026-09-02T19:56:10-03:00"
+      "ultima_verificacao": "2026-09-02T20:06:03-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14297,
-      "ultima_verificacao": "2026-09-02T19:56:10-03:00"
+      "ultimo_numero": 14299,
+      "ultima_verificacao": "2026-09-02T20:06:03-03:00"
     }
   },
   "protocolos": {
@@ -11513,6 +11513,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014299A",
+        "RE": "RE8161013868A",
+        "numgEdificacao": 369475,
+        "Nome_Edificacao": "Terreno Rua Venezuela n33",
+        "Logradouro": "RUA VENEZUELA",
+        "Numero": "33",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-02T20:06:03-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014298A",
+        "RE": "RE8161011302A",
+        "numgEdificacao": 300144,
+        "Nome_Edificacao": "NTC MODA INTIMA LTDA",
+        "Logradouro": "Rua Jaime Pedro Alves",
+        "Numero": "95",
+        "Bairro": "ITAJAÍ - LIMOEIRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-02T20:06:03-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014297A",
         "RE": "RE8161013867A",
         "numgEdificacao": 369468,
@@ -15055,7 +15077,7 @@
     "Itapema": 162,
     "Blumenau": 251,
     "Navegantes": 119,
-    "Itajai": 321
+    "Itajai": 323
   },
-  "total_geral": 1361
+  "total_geral": 1363
 }
