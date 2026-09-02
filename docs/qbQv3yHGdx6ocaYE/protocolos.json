@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-02T10:46:27-03:00",
+  "timestamp": "2026-09-02T10:56:36-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8098,
-      "ultima_verificacao": "2026-09-02T10:46:27-03:00"
+      "ultima_verificacao": "2026-09-02T10:56:36-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-02T10:46:27-03:00"
+      "ultima_verificacao": "2026-09-02T10:56:36-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-02T10:46:27-03:00"
+      "ultima_verificacao": "2026-09-02T10:56:36-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3882,
-      "ultima_verificacao": "2026-09-02T10:46:27-03:00"
+      "ultimo_numero": 3883,
+      "ultima_verificacao": "2026-09-02T10:56:36-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3383,
-      "ultima_verificacao": "2026-09-02T10:46:27-03:00"
+      "ultima_verificacao": "2026-09-02T10:56:36-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-02T10:46:27-03:00"
+      "ultima_verificacao": "2026-09-02T10:56:36-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7209,
-      "ultima_verificacao": "2026-09-02T10:46:27-03:00"
+      "ultima_verificacao": "2026-09-02T10:56:36-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12992,
-      "ultima_verificacao": "2026-09-02T10:46:27-03:00"
+      "ultima_verificacao": "2026-09-02T10:56:36-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5015,
-      "ultima_verificacao": "2026-09-02T10:46:27-03:00"
+      "ultima_verificacao": "2026-09-02T10:56:36-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14295,
-      "ultima_verificacao": "2026-09-02T10:46:27-03:00"
+      "ultima_verificacao": "2026-09-02T10:56:36-03:00"
     }
   },
   "protocolos": {
@@ -2557,6 +2557,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003883A",
+        "RE": "RE8117003019A",
+        "numgEdificacao": 334320,
+        "Nome_Edificacao": "NELSON DESCHAMPS",
+        "Logradouro": "Rodovia Jorge Lacerda",
+        "Numero": "6550",
+        "Bairro": "GASPAR - POÇO GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-02T10:56:36-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003882A",
         "RE": "RE8117003288A",
@@ -14994,7 +15005,7 @@
     "Brusque": 134,
     "Botuvera": 39,
     "Guabiruba": 54,
-    "Gaspar": 116,
+    "Gaspar": 117,
     "Porto Belo": 102,
     "Nova Trento": 62,
     "Itapema": 162,
@@ -15002,5 +15013,5 @@
     "Navegantes": 118,
     "Itajai": 319
   },
-  "total_geral": 1356
+  "total_geral": 1357
 }
