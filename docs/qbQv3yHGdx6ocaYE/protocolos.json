@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-02T09:06:19-03:00",
+  "timestamp": "2026-09-02T09:16:13-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8098,
-      "ultima_verificacao": "2026-09-02T09:06:19-03:00"
+      "ultima_verificacao": "2026-09-02T09:16:13-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-02T09:06:19-03:00"
+      "ultima_verificacao": "2026-09-02T09:16:13-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-02T09:06:19-03:00"
+      "ultima_verificacao": "2026-09-02T09:16:13-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3882,
-      "ultima_verificacao": "2026-09-02T09:06:19-03:00"
+      "ultima_verificacao": "2026-09-02T09:16:13-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3383,
-      "ultima_verificacao": "2026-09-02T09:06:19-03:00"
+      "ultima_verificacao": "2026-09-02T09:16:13-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-02T09:06:19-03:00"
+      "ultima_verificacao": "2026-09-02T09:16:13-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7209,
-      "ultima_verificacao": "2026-09-02T09:06:19-03:00"
+      "ultima_verificacao": "2026-09-02T09:16:13-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12992,
-      "ultima_verificacao": "2026-09-02T09:06:19-03:00"
+      "ultima_verificacao": "2026-09-02T09:16:13-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5014,
-      "ultima_verificacao": "2026-09-02T09:06:19-03:00"
+      "ultimo_numero": 5015,
+      "ultima_verificacao": "2026-09-02T09:16:13-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14294,
-      "ultima_verificacao": "2026-09-02T09:06:19-03:00"
+      "ultima_verificacao": "2026-09-02T09:16:13-03:00"
     }
   },
   "protocolos": {
@@ -10180,6 +10180,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005015A",
+        "RE": "RE8221000577A",
+        "numgEdificacao": 44445,
+        "Nome_Edificacao": "J.T ADM BENS- FSJ NAVEGANTES",
+        "Logradouro": "AVENIDA: JOÃO SACAVÉM",
+        "Numero": "704",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-02T09:16:13-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005014A",
         "RE": "RE8221004145A",
         "numgEdificacao": 369385,
@@ -14977,8 +14988,8 @@
     "Nova Trento": 62,
     "Itapema": 162,
     "Blumenau": 250,
-    "Navegantes": 117,
+    "Navegantes": 118,
     "Itajai": 318
   },
-  "total_geral": 1354
+  "total_geral": 1355
 }
