@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-02T17:40:18-03:00",
+  "timestamp": "2026-09-02T17:50:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 984,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T17:40:18-03:00"
+      "ultima_verificacao": "2026-09-02T17:50:24-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T17:40:18-03:00"
+      "ultima_verificacao": "2026-09-02T17:50:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T17:40:18-03:00"
+      "ultima_verificacao": "2026-09-02T17:50:24-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 624,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T17:40:18-03:00"
+      "ultima_verificacao": "2026-09-02T17:50:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 508,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T17:40:18-03:00"
+      "ultima_verificacao": "2026-09-02T17:50:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 513,
+      "ultimo_numero": 514,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T17:40:18-03:00"
+      "ultima_verificacao": "2026-09-02T17:50:24-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1186,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T17:40:18-03:00"
+      "ultima_verificacao": "2026-09-02T17:50:24-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1150,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T17:40:18-03:00"
+      "ultima_verificacao": "2026-09-02T17:50:24-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 326,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T17:40:18-03:00"
+      "ultima_verificacao": "2026-09-02T17:50:24-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1187,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T17:40:18-03:00"
+      "ultima_verificacao": "2026-09-02T17:50:24-03:00"
     }
   },
   "afs": {
@@ -9699,6 +9699,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000514A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000446A",
+        "Nome_Edificacao": "BENTO VALMIR ROVER",
+        "Logradouro": "RUA LUIZ BUSNARDO",
+        "Numero": "780",
+        "Bairro": "NOVA TRENTO - CASCATA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-02T17:50:24-03:00"
+      },
       {
         "CodigoAuto": "AF8225000513A/26",
         "Tipo": "AF",
@@ -27843,11 +27854,11 @@
     "Guabiruba": 42,
     "Gaspar": 209,
     "Porto Belo": 217,
-    "Nova Trento": 203,
+    "Nova Trento": 204,
     "Itapema": 452,
     "Blumenau": 437,
     "Navegantes": 122,
     "Itajai": 434
   },
-  "total_geral": 2523
+  "total_geral": 2524
 }
