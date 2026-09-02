@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-02T12:00:26-03:00",
+  "timestamp": "2026-09-02T12:10:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 979,
+      "ultimo_numero": 980,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T12:00:26-03:00"
+      "ultima_verificacao": "2026-09-02T12:10:26-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T12:00:26-03:00"
+      "ultima_verificacao": "2026-09-02T12:10:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T12:00:26-03:00"
+      "ultima_verificacao": "2026-09-02T12:10:26-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 624,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T12:00:26-03:00"
+      "ultima_verificacao": "2026-09-02T12:10:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 508,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T12:00:26-03:00"
+      "ultima_verificacao": "2026-09-02T12:10:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 511,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T12:00:26-03:00"
+      "ultima_verificacao": "2026-09-02T12:10:26-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1181,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T12:00:26-03:00"
+      "ultima_verificacao": "2026-09-02T12:10:26-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1150,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T12:00:26-03:00"
+      "ultima_verificacao": "2026-09-02T12:10:26-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 325,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T12:00:26-03:00"
+      "ultima_verificacao": "2026-09-02T12:10:26-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1185,
+      "ultimo_numero": 1186,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T12:00:26-03:00"
+      "ultima_verificacao": "2026-09-02T12:10:26-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000980A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005417A",
+        "Nome_Edificacao": "ORDEM DOS ADVOGADOS DO BRASIL",
+        "Logradouro": "rua daniel imhof",
+        "Numero": "640",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-02T12:10:26-03:00"
+      },
       {
         "CodigoAuto": "AF8055000979A/26",
         "Tipo": "AF",
@@ -22919,6 +22930,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001186A/26",
+        "Tipo": "AF",
+        "RE": "RE8161004751A",
+        "Nome_Edificacao": "UNIVERSO DOS CONTAINERS VENDAS MODULAR LTDA",
+        "Logradouro": "Av. Itaipava",
+        "Numero": "4510",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-02T12:10:26-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001185A/26",
         "Tipo": "AF",
         "RE": "RE8161002184A",
@@ -27673,7 +27695,7 @@
     ]
   },
   "totais": {
-    "Brusque": 369,
+    "Brusque": 370,
     "Botuvera": 33,
     "Guabiruba": 42,
     "Gaspar": 209,
@@ -27682,7 +27704,7 @@
     "Itapema": 447,
     "Blumenau": 437,
     "Navegantes": 121,
-    "Itajai": 432
+    "Itajai": 433
   },
-  "total_geral": 2508
+  "total_geral": 2510
 }
