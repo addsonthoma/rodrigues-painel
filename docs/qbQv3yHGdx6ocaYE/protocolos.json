@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-02T15:14:32-03:00",
+  "timestamp": "2026-09-02T18:13:39-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8098,
-      "ultima_verificacao": "2026-09-02T15:14:32-03:00"
+      "ultima_verificacao": "2026-09-02T18:13:39-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-02T15:14:32-03:00"
+      "ultima_verificacao": "2026-09-02T18:13:39-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-02T15:14:32-03:00"
+      "ultima_verificacao": "2026-09-02T18:13:39-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-02T15:14:32-03:00"
+      "ultima_verificacao": "2026-09-02T18:13:39-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3383,
-      "ultima_verificacao": "2026-09-02T15:14:32-03:00"
+      "ultima_verificacao": "2026-09-02T18:13:39-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-02T15:14:32-03:00"
+      "ultima_verificacao": "2026-09-02T18:13:39-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7209,
-      "ultima_verificacao": "2026-09-02T15:14:32-03:00"
+      "ultima_verificacao": "2026-09-02T18:13:39-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12993,
-      "ultima_verificacao": "2026-09-02T15:14:32-03:00"
+      "ultima_verificacao": "2026-09-02T18:13:39-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5015,
-      "ultima_verificacao": "2026-09-02T15:14:32-03:00"
+      "ultimo_numero": 5016,
+      "ultima_verificacao": "2026-09-02T18:13:39-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14295,
-      "ultima_verificacao": "2026-09-02T15:14:32-03:00"
+      "ultimo_numero": 14297,
+      "ultima_verificacao": "2026-09-02T18:13:39-03:00"
     }
   },
   "protocolos": {
@@ -10169,6 +10169,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005016A",
+        "RE": "RE8221004034A",
+        "numgEdificacao": 360431,
+        "Nome_Edificacao": "DJOKOARMANILTDA",
+        "Logradouro": "jose vander Pinheiro",
+        "Numero": "94",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-02T18:13:39-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005015A",
         "RE": "RE8221000577A",
         "numgEdificacao": 44445,
@@ -11468,6 +11479,28 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014297A",
+        "RE": "RE8161013867A",
+        "numgEdificacao": 369468,
+        "Nome_Edificacao": "DOM INVESTIMENTO IMOBILIÁRIO LTDA",
+        "Logradouro": "Avenida Itaipava",
+        "Numero": "4240",
+        "Bairro": "ITAJAÍ - Itaipava",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-02T18:13:39-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014296A",
+        "RE": "RE8161013866A",
+        "numgEdificacao": 369466,
+        "Nome_Edificacao": "LMG CONFEITARIA LTDA",
+        "Logradouro": "Rua Frederico Augusto Luiz Thieme",
+        "Numero": "78",
+        "Bairro": "ITAJAÍ - Centro",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-02T18:13:39-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014295A",
         "RE": "RE8161013864A",
@@ -14988,8 +15021,8 @@
     "Nova Trento": 62,
     "Itapema": 162,
     "Blumenau": 248,
-    "Navegantes": 118,
-    "Itajai": 319
+    "Navegantes": 119,
+    "Itajai": 321
   },
-  "total_geral": 1355
+  "total_geral": 1358
 }
