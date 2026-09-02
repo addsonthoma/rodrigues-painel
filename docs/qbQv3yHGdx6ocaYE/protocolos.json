@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-02T14:38:03-03:00",
+  "timestamp": "2026-09-02T14:57:42-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8098,
-      "ultima_verificacao": "2026-09-02T14:38:03-03:00"
+      "ultima_verificacao": "2026-09-02T14:57:42-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-02T14:38:03-03:00"
+      "ultima_verificacao": "2026-09-02T14:57:42-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-02T14:38:03-03:00"
+      "ultima_verificacao": "2026-09-02T14:57:42-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-02T14:38:03-03:00"
+      "ultima_verificacao": "2026-09-02T14:57:42-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3383,
-      "ultima_verificacao": "2026-09-02T14:38:03-03:00"
+      "ultima_verificacao": "2026-09-02T14:57:42-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-02T14:38:03-03:00"
+      "ultima_verificacao": "2026-09-02T14:57:42-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7209,
-      "ultima_verificacao": "2026-09-02T14:38:03-03:00"
+      "ultima_verificacao": "2026-09-02T14:57:42-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12992,
-      "ultima_verificacao": "2026-09-02T14:38:03-03:00"
+      "ultimo_numero": 12993,
+      "ultima_verificacao": "2026-09-02T14:57:42-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5015,
-      "ultima_verificacao": "2026-09-02T14:38:03-03:00"
+      "ultima_verificacao": "2026-09-02T14:57:42-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14295,
-      "ultima_verificacao": "2026-09-02T14:38:03-03:00"
+      "ultima_verificacao": "2026-09-02T14:57:42-03:00"
     }
   },
   "protocolos": {
@@ -7438,6 +7438,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047012993A",
+        "RE": "RE8047008933A",
+        "numgEdificacao": 254607,
+        "Nome_Edificacao": "COMERCIO TAUANE (SERGIO MALHAS)",
+        "Logradouro": "Avenida Lisboa",
+        "Numero": "663",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-02T14:57:42-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012992A",
         "RE": "RE8047006013A",
@@ -15009,9 +15020,9 @@
     "Porto Belo": 102,
     "Nova Trento": 62,
     "Itapema": 162,
-    "Blumenau": 250,
+    "Blumenau": 251,
     "Navegantes": 118,
     "Itajai": 319
   },
-  "total_geral": 1357
+  "total_geral": 1358
 }
