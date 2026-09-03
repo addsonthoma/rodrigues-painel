@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-03T10:57:38-03:00",
+  "timestamp": "2026-09-03T11:17:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8100,
-      "ultima_verificacao": "2026-09-03T10:57:38-03:00"
+      "ultima_verificacao": "2026-09-03T11:17:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-03T10:57:38-03:00"
+      "ultima_verificacao": "2026-09-03T11:17:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-03T10:57:38-03:00"
+      "ultima_verificacao": "2026-09-03T11:17:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-03T10:57:38-03:00"
+      "ultima_verificacao": "2026-09-03T11:17:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3383,
-      "ultima_verificacao": "2026-09-03T10:57:38-03:00"
+      "ultimo_numero": 3384,
+      "ultima_verificacao": "2026-09-03T11:17:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-03T10:57:38-03:00"
+      "ultima_verificacao": "2026-09-03T11:17:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7210,
-      "ultima_verificacao": "2026-09-03T10:57:38-03:00"
+      "ultima_verificacao": "2026-09-03T11:17:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12993,
-      "ultima_verificacao": "2026-09-03T10:57:38-03:00"
+      "ultima_verificacao": "2026-09-03T11:17:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5016,
-      "ultima_verificacao": "2026-09-03T10:57:38-03:00"
+      "ultima_verificacao": "2026-09-03T11:17:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14302,
-      "ultima_verificacao": "2026-09-03T10:57:38-03:00"
+      "ultima_verificacao": "2026-09-03T11:17:57-03:00"
     }
   },
   "protocolos": {
@@ -3868,6 +3868,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003384A",
+        "RE": "RE8265001891A",
+        "numgEdificacao": 244386,
+        "Nome_Edificacao": "GRAND SUBLIME RESIDENCE",
+        "Logradouro": "AVENIDA SENADOR ATILIO FONTANA",
+        "Numero": "26",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-03T11:17:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003383A",
         "RE": "RE8265000093A",
@@ -15138,12 +15149,12 @@
     "Botuvera": 39,
     "Guabiruba": 54,
     "Gaspar": 117,
-    "Porto Belo": 102,
+    "Porto Belo": 103,
     "Nova Trento": 62,
     "Itapema": 163,
     "Blumenau": 251,
     "Navegantes": 119,
     "Itajai": 326
   },
-  "total_geral": 1369
+  "total_geral": 1370
 }
