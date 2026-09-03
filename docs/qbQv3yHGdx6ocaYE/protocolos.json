@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-03T19:37:37-03:00",
+  "timestamp": "2026-09-03T19:47:36-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8102,
-      "ultima_verificacao": "2026-09-03T19:37:37-03:00"
+      "ultima_verificacao": "2026-09-03T19:47:36-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-03T19:37:37-03:00"
+      "ultima_verificacao": "2026-09-03T19:47:36-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-03T19:37:37-03:00"
+      "ultima_verificacao": "2026-09-03T19:47:36-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-03T19:37:37-03:00"
+      "ultima_verificacao": "2026-09-03T19:47:36-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3387,
-      "ultima_verificacao": "2026-09-03T19:37:37-03:00"
+      "ultima_verificacao": "2026-09-03T19:47:36-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-03T19:37:37-03:00"
+      "ultima_verificacao": "2026-09-03T19:47:36-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7210,
-      "ultima_verificacao": "2026-09-03T19:37:37-03:00"
+      "ultima_verificacao": "2026-09-03T19:47:36-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12995,
-      "ultima_verificacao": "2026-09-03T19:37:37-03:00"
+      "ultima_verificacao": "2026-09-03T19:47:36-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5018,
-      "ultima_verificacao": "2026-09-03T19:37:37-03:00"
+      "ultima_verificacao": "2026-09-03T19:47:36-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14309,
-      "ultima_verificacao": "2026-09-03T19:37:37-03:00"
+      "ultimo_numero": 14310,
+      "ultima_verificacao": "2026-09-03T19:47:36-03:00"
     }
   },
   "protocolos": {
@@ -11656,6 +11656,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014310A",
+        "RE": "RE8161013871A",
+        "numgEdificacao": 369581,
+        "Nome_Edificacao": "W F MECANICA LTDA",
+        "Logradouro": "R RUI BARBOSA",
+        "Numero": "137",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-03T19:47:36-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014309A",
         "RE": "RE8161013870A",
         "numgEdificacao": 369565,
@@ -15330,7 +15341,7 @@
     "Itapema": 163,
     "Blumenau": 253,
     "Navegantes": 121,
-    "Itajai": 333
+    "Itajai": 334
   },
-  "total_geral": 1386
+  "total_geral": 1387
 }
