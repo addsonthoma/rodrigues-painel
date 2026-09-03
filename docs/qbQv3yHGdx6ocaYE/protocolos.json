@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-02T20:55:53-03:00",
+  "timestamp": "2026-09-02T21:05:49-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8098,
-      "ultima_verificacao": "2026-09-02T20:55:53-03:00"
+      "ultimo_numero": 8099,
+      "ultima_verificacao": "2026-09-02T21:05:49-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-02T20:55:53-03:00"
+      "ultima_verificacao": "2026-09-02T21:05:49-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-02T20:55:53-03:00"
+      "ultima_verificacao": "2026-09-02T21:05:49-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-02T20:55:53-03:00"
+      "ultima_verificacao": "2026-09-02T21:05:49-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3383,
-      "ultima_verificacao": "2026-09-02T20:55:53-03:00"
+      "ultima_verificacao": "2026-09-02T21:05:49-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-02T20:55:53-03:00"
+      "ultima_verificacao": "2026-09-02T21:05:49-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7209,
-      "ultima_verificacao": "2026-09-02T20:55:53-03:00"
+      "ultima_verificacao": "2026-09-02T21:05:49-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12993,
-      "ultima_verificacao": "2026-09-02T20:55:53-03:00"
+      "ultima_verificacao": "2026-09-02T21:05:49-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5016,
-      "ultima_verificacao": "2026-09-02T20:55:53-03:00"
+      "ultima_verificacao": "2026-09-02T21:05:49-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14299,
-      "ultima_verificacao": "2026-09-02T20:55:53-03:00"
+      "ultima_verificacao": "2026-09-02T21:05:49-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008099A",
+        "RE": "RE8055006209A",
+        "numgEdificacao": 331086,
+        "Nome_Edificacao": "Anderson Furbringer",
+        "Logradouro": "RUA JOSE HERMENEGILDO BOLOGNINI",
+        "Numero": "30",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-02T21:05:49-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008098A",
         "RE": "RE8055006308A",
@@ -15068,7 +15079,7 @@
     ]
   },
   "totais": {
-    "Brusque": 134,
+    "Brusque": 135,
     "Botuvera": 39,
     "Guabiruba": 54,
     "Gaspar": 117,
@@ -15079,5 +15090,5 @@
     "Navegantes": 119,
     "Itajai": 323
   },
-  "total_geral": 1363
+  "total_geral": 1364
 }
