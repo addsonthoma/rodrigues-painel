@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-03T14:51:01-03:00",
+  "timestamp": "2026-09-03T15:10:51-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 986,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T14:51:01-03:00"
+      "ultima_verificacao": "2026-09-03T15:10:51-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T14:51:01-03:00"
+      "ultima_verificacao": "2026-09-03T15:10:51-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T14:51:01-03:00"
+      "ultima_verificacao": "2026-09-03T15:10:51-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 628,
+      "ultimo_numero": 629,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T14:51:01-03:00"
+      "ultima_verificacao": "2026-09-03T15:10:51-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 512,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T14:51:01-03:00"
+      "ultima_verificacao": "2026-09-03T15:10:51-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 518,
+      "ultimo_numero": 520,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T14:51:01-03:00"
+      "ultima_verificacao": "2026-09-03T15:10:51-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1191,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T14:51:01-03:00"
+      "ultima_verificacao": "2026-09-03T15:10:51-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1156,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T14:51:01-03:00"
+      "ultima_verificacao": "2026-09-03T15:10:51-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 326,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T14:51:01-03:00"
+      "ultima_verificacao": "2026-09-03T15:10:51-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1191,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T14:51:01-03:00"
+      "ultima_verificacao": "2026-09-03T15:10:51-03:00"
     }
   },
   "afs": {
@@ -5032,6 +5032,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000629A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001472A",
+        "Nome_Edificacao": "RUBINITA MARIA KAMMERS",
+        "Logradouro": "AVENIDA DAS COMUNIDADES",
+        "Numero": "165",
+        "Bairro": "GASPAR - CENTRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-03T15:10:51-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000628A/26",
         "Tipo": "AF",
         "RE": "RE8117001038A",
@@ -9809,6 +9820,28 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000520A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000685A",
+        "Nome_Edificacao": "PREFEITURA MUNICIPAL DE NOVA TRENTO",
+        "Logradouro": "RUA DOS IMIGRANTES",
+        "Numero": "76",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-03T15:10:51-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000519A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000307A",
+        "Nome_Edificacao": "COMERCIO VAREJISTA DE FOGOS DE ARTIFICIO",
+        "Logradouro": "RODOVIA SC 410",
+        "Numero": "1247",
+        "Bairro": "NOVA TRENTO - PONTA FINA NORTE",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-03T15:10:51-03:00"
+      },
       {
         "CodigoAuto": "AF8225000518A/26",
         "Tipo": "AF",
@@ -28171,13 +28204,13 @@
     "Brusque": 376,
     "Botuvera": 33,
     "Guabiruba": 42,
-    "Gaspar": 213,
+    "Gaspar": 214,
     "Porto Belo": 221,
-    "Nova Trento": 208,
+    "Nova Trento": 210,
     "Itapema": 457,
     "Blumenau": 443,
     "Navegantes": 122,
     "Itajai": 438
   },
-  "total_geral": 2553
+  "total_geral": 2556
 }
