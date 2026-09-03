@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-03T16:38:41-03:00",
-  "total": 4764,
+  "timestamp": "2026-09-03T18:38:24-03:00",
+  "total": 4772,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -588,7 +588,7 @@
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1788464083.999878
+      "_ts": 1788471337.0662396
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1788464083.999898
+      "_ts": 1788471337.066264
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1788464083.9998918
+      "_ts": 1788471337.0662558
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -2401,6 +2401,7 @@
     },
     "AF8163000397A/26": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "641.79",
       "cidade": "ITAPEMA",
       "responsavel": "CLEITON WEBER",
       "cpfCnpj": "01087176905",
@@ -2411,15 +2412,16 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "07/06/2026",
-      "prazoDias": -3,
+      "prazoDias": -88,
       "bombeiroAutuacao": "Sd Josue Colonetti BOAROLI",
       "bloco": "ÚNICO",
       "codgAuto": "AF8163000397A/26",
       "numgAuto": 484043,
-      "_ts": 1781071002.3452225
+      "_ts": 1788471470.8099847
     },
     "MUL8163000126A/26": {
       "tipo": "MULTA",
+      "areaTotal": "641.79",
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -2433,7 +2435,7 @@
       "bloco": "ÚNICO",
       "codgAuto": "MUL8163000126A/26",
       "numgAuto": 501437,
-      "_ts": 1781071002.3452318
+      "_ts": 1788471470.810029
     },
     "AF8163000975A/22": {
       "tipo": "FISCALIZACAO",
@@ -5105,7 +5107,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1788464075.3146508
+      "_ts": 1788471329.2404873
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5125,7 +5127,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1788464075.3146262
+      "_ts": 1788471329.2404366
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5332,7 +5334,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1788464138.8679287
+      "_ts": 1788471394.9033298
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9441,7 +9443,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1788464066.8540914
+      "_ts": 1788471321.935032
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9455,7 +9457,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1788464091.617515
+      "_ts": 1788471344.5932028
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -9469,7 +9471,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000015A/26",
-      "_ts": 1788464098.7080207
+      "_ts": 1788471352.1653705
     },
     "AF8051000014A/26": {
       "tipo": "AF",
@@ -9483,7 +9485,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000014A/26",
-      "_ts": 1788464109.6938086
+      "_ts": 1788471371.7668674
     },
     "AF8051000011A/26": {
       "tipo": "AF",
@@ -9525,7 +9527,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000044A/26",
-      "_ts": 1788464159.6687827
+      "_ts": 1788471418.1879904
     },
     "AF8123000040A/26": {
       "tipo": "AF",
@@ -13993,7 +13995,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1788464130.741855
+      "_ts": 1788471387.8802402
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -30063,7 +30065,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1788464128.8757708
+      "_ts": 1788471385.931509
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38484,7 +38486,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1788464120.282912
+      "_ts": 1788471379.4768069
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -38504,7 +38506,7 @@
       "bloco": "1",
       "codgAuto": "AF8123000114A/25",
       "numgAuto": 449049,
-      "_ts": 1788464120.2828975
+      "_ts": 1788471379.4767919
     },
     "AF8117000482A/26": {
       "tipo": "FISCALIZACAO",
@@ -58419,12 +58421,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "08/06/2025",
-      "prazoDias": -416,
+      "prazoDias": -452,
       "bombeiroAutuacao": "1º Sgt Edson Marcelo WERNER",
       "bloco": "01",
       "codgAuto": "AF8047000410A/23",
       "numgAuto": 177757,
-      "_ts": 1785323433.8222022
+      "_ts": 1788471487.5950484
     },
     "AF8047000966A/26": {
       "tipo": "FISCALIZACAO",
@@ -58459,12 +58461,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "01/01/2027",
-      "prazoDias": 156,
+      "prazoDias": 120,
       "bombeiroAutuacao": "SubTen CARLITO Goncalves",
       "bloco": "01",
       "codgAuto": "AF8047000325A/26",
       "numgAuto": 484510,
-      "_ts": 1785323433.822276
+      "_ts": 1788471487.595093
     },
     "MUL8047000446A/25": {
       "tipo": "MULTA",
@@ -58482,7 +58484,7 @@
       "bloco": "01",
       "codgAuto": "MUL8047000446A/25",
       "numgAuto": 452893,
-      "_ts": 1785323433.8222811
+      "_ts": 1788471487.5950987
     },
     "AF8221000287A/26": {
       "tipo": "FISCALIZACAO",
@@ -83519,7 +83521,7 @@
       "bloco": "osmar ignacio uso misto",
       "codgAuto": "AF8117000614A/26",
       "numgAuto": 523339,
-      "_ts": 1788464180.9353201
+      "_ts": 1788471426.001419
     },
     "AF8117000613A/26": {
       "tipo": "AF",
@@ -83533,7 +83535,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8117000613A/26",
-      "_ts": 1788464180.9353316
+      "_ts": 1788471426.001434
     },
     "AF8221000315A/26": {
       "tipo": "FISCALIZACAO",
@@ -88785,7 +88787,7 @@
       "bloco": "Residencial",
       "codgAuto": "AF8161001476A/25",
       "numgAuto": 442095,
-      "_ts": 1788464315.2710838
+      "_ts": 1788471499.5658069
     },
     "MUL8161000107A/26": {
       "tipo": "MULTA",
@@ -88803,7 +88805,7 @@
       "bloco": "Residencial",
       "codgAuto": "MUL8161000107A/26",
       "numgAuto": 473678,
-      "_ts": 1788464315.271087
+      "_ts": 1788471499.5658095
     },
     "AF8161001177A/26": {
       "tipo": "AF",
@@ -88817,7 +88819,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8161001177A/26",
-      "_ts": 1788464315.271094
+      "_ts": 1788471499.5658147
     },
     "AF8161001176A/26": {
       "tipo": "FISCALIZACAO",
@@ -92345,6 +92347,168 @@
       "codgAuto": "AF8161001191A/26",
       "numgAuto": 526637,
       "_ts": 1788464296.1748662
+    },
+    "AF8225000524A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 285.5,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "SOLENE MARIA MEYER",
+      "cpfCnpj": "61285048920",
+      "celular": "48988467587",
+      "email": "renata27meyer@gmail.com",
+      "endereco_responsavel": "Geral, 01, Aguti, Nova Trento",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "26/02/2027",
+      "prazoDias": 176,
+      "bombeiroAutuacao": "Sd Gismael BONI",
+      "bloco": "bloco",
+      "codgAuto": "AF8225000524A/26",
+      "numgAuto": 526782,
+      "_ts": 1788471433.7352695
+    },
+    "AF8225000201A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "658.03",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "14/07/2026",
+      "prazoDias": -51,
+      "bombeiroAutuacao": "Sd Gismael BONI",
+      "bloco": "galpão",
+      "codgAuto": "AF8225000201A/26",
+      "numgAuto": 483093,
+      "_ts": 1788471448.921766
+    },
+    "AF8225000522A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "658.03",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "03/11/2026",
+      "prazoDias": 61,
+      "bombeiroAutuacao": "Sd Gismael BONI",
+      "bloco": "galpão",
+      "codgAuto": "AF8225000522A/26",
+      "numgAuto": 526739,
+      "_ts": 1788471448.9217682
+    },
+    "AF8225000523A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "658.03",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "03/03/2027",
+      "prazoDias": 181,
+      "bombeiroAutuacao": "Sd Gismael BONI",
+      "bloco": "galpão",
+      "codgAuto": "AF8225000523A/26",
+      "numgAuto": 526746,
+      "_ts": 1788471448.921778
+    },
+    "AF8163001192A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "641.79",
+      "cidade": "ITAPEMA",
+      "responsavel": "CLEITON WEBER",
+      "cpfCnpj": "01087176905",
+      "celular": "47988296434",
+      "email": "cleitonweber@hotmail.com",
+      "endereco_responsavel": "Rua 406 B1, 730, Morretes, Itapema",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)",
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____",
+        "Executar sistema de saída de emergência"
+      ],
+      "dataPrazo": "02/11/2026",
+      "prazoDias": 60,
+      "bombeiroAutuacao": "2º Sgt Gustavo Giovanaz",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8163001192A/26",
+      "numgAuto": 526751,
+      "_ts": 1788471470.8099983
+    },
+    "AF8047001451A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 827.39,
+      "cidade": "BLUMENAU",
+      "responsavel": "FRIDA KUPAS",
+      "cpfCnpj": "96980249991",
+      "celular": "47996093247",
+      "email": "martinesilvaa@gmail.com",
+      "endereco_responsavel": "Rua Gustavo Zimmermann, 3222, Itoupava Central, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "04/11/2025",
+      "prazoDias": -303,
+      "bombeiroAutuacao": "2º Sgt Marcelo FERNANDES",
+      "bloco": "BLOCO ÚNICO",
+      "codgAuto": "AF8047001451A/25",
+      "numgAuto": 438981,
+      "_ts": 1788471479.3556154
+    },
+    "AF8047001158A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 827.39,
+      "cidade": "BLUMENAU",
+      "responsavel": "FRIDA KUPAS",
+      "cpfCnpj": "96980249991",
+      "celular": "47996093247",
+      "email": "martinesilvaa@gmail.com",
+      "endereco_responsavel": "Rua Gustavo Zimmermann, 3222, Itoupava Central, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "12/10/2026",
+      "prazoDias": 39,
+      "bombeiroAutuacao": "2º Sgt Marcelo FERNANDES",
+      "bloco": "BLOCO ÚNICO",
+      "codgAuto": "AF8047001158A/26",
+      "numgAuto": 526764,
+      "_ts": 1788471479.3556228
+    },
+    "AF8047001157A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1232.1",
+      "cidade": "BLUMENAU",
+      "responsavel": "Everton Pering",
+      "cpfCnpj": "00944138942",
+      "celular": "47988641744",
+      "email": "pering.eng@gmail.com",
+      "endereco_responsavel": "R Pastor Oswald Hesse, 13, Ribeirão Fresco, Blumenau",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "05/10/2026",
+      "prazoDias": 32,
+      "bombeiroAutuacao": "Sd BRUNA  Oliveira da Silva ",
+      "bloco": "01",
+      "codgAuto": "AF8047001157A/26",
+      "numgAuto": 526745,
+      "_ts": 1788471487.5950618
     }
   }
 }
