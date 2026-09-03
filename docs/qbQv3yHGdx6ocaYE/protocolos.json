@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-02T23:25:53-03:00",
+  "timestamp": "2026-09-02T23:35:38-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8099,
-      "ultima_verificacao": "2026-09-02T23:25:53-03:00"
+      "ultima_verificacao": "2026-09-02T23:35:38-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-02T23:25:53-03:00"
+      "ultima_verificacao": "2026-09-02T23:35:38-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-02T23:25:53-03:00"
+      "ultima_verificacao": "2026-09-02T23:35:38-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-02T23:25:53-03:00"
+      "ultima_verificacao": "2026-09-02T23:35:38-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3383,
-      "ultima_verificacao": "2026-09-02T23:25:53-03:00"
+      "ultima_verificacao": "2026-09-02T23:35:38-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-02T23:25:53-03:00"
+      "ultima_verificacao": "2026-09-02T23:35:38-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7209,
-      "ultima_verificacao": "2026-09-02T23:25:53-03:00"
+      "ultima_verificacao": "2026-09-02T23:35:38-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12993,
-      "ultima_verificacao": "2026-09-02T23:25:53-03:00"
+      "ultima_verificacao": "2026-09-02T23:35:38-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5016,
-      "ultima_verificacao": "2026-09-02T23:25:53-03:00"
+      "ultima_verificacao": "2026-09-02T23:35:38-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14300,
-      "ultima_verificacao": "2026-09-02T23:25:53-03:00"
+      "ultimo_numero": 14301,
+      "ultima_verificacao": "2026-09-02T23:35:38-03:00"
     }
   },
   "protocolos": {
@@ -11524,6 +11524,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014301A",
+        "RE": "RE8161010568A",
+        "numgEdificacao": 280988,
+        "Nome_Edificacao": "GILBERTO LUZ",
+        "Logradouro": "R ANTONIO RAMOS",
+        "Numero": "187",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-02T23:35:38-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014300A",
         "RE": "RE8161000424A",
         "numgEdificacao": 12189,
@@ -15099,7 +15110,7 @@
     "Itapema": 162,
     "Blumenau": 251,
     "Navegantes": 119,
-    "Itajai": 324
+    "Itajai": 325
   },
-  "total_geral": 1365
+  "total_geral": 1366
 }
