@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-03T08:38:26-03:00",
-  "total": 4723,
+  "timestamp": "2026-09-03T10:38:09-03:00",
+  "total": 4727,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -588,7 +588,7 @@
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1788435381.3051102
+      "_ts": 1788442513.074951
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1788435381.3051317
+      "_ts": 1788442513.0749712
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1788435381.3051245
+      "_ts": 1788442513.0749645
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5105,7 +5105,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1788435366.2142484
+      "_ts": 1788442503.6544898
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5125,7 +5125,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1788435366.2142305
+      "_ts": 1788442503.6544645
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5332,7 +5332,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1788435438.8697755
+      "_ts": 1788442570.8470004
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -8373,6 +8373,7 @@
     },
     "AF8161000773A/26": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "12663.46",
       "cidade": "ITAJAÍ",
       "responsavel": "ISLA & AZZURRA EMPREENDIMENTOS SPE LTDA",
       "cpfCnpj": "60097111000190",
@@ -8380,22 +8381,22 @@
       "email": "juridico@contabsc.com.br",
       "endereco_responsavel": "Rua Jorge Tzachel, 83, Centro, Itajaí",
       "exigencias": [
-        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____",
-        "Executar sistema de iluminação de emergência",
-        "Executar sistema de sinalização para abandono de local",
-        "Executar sistema preventivo por extintores",
-        "Implantar plano de emergência e gerênciamento de riscos",
-        "Implementar brigada de incêndio",
         "Solicitar vistoria para habite-se",
+        "Executar sistema de iluminação de emergência",
+        "Executar sistema preventivo por extintores",
+        "Implementar brigada de incêndio",
+        "Implantar plano de emergência e gerênciamento de riscos",
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____",
+        "Executar sistema de sinalização para abandono de local",
         "Apresentar projeto preventivo (PPCI)"
       ],
-      "dataPrazo": "08/07/2026",
-      "prazoDias": 15,
+      "dataPrazo": "29/08/2026",
+      "prazoDias": -5,
       "bombeiroAutuacao": "Cb Leonardo FERREIRA Borges",
       "bloco": "PÁTIO DE CONTÊINERES",
       "codgAuto": "AF8161000773A/26",
       "numgAuto": 501729,
-      "_ts": 1782214458.819576
+      "_ts": 1788442669.9718115
     },
     "AF8161000772A/26": {
       "tipo": "FISCALIZACAO",
@@ -9440,7 +9441,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1788435359.3146415
+      "_ts": 1788442493.1821916
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9454,7 +9455,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1788435388.9017024
+      "_ts": 1788442521.022502
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -9468,7 +9469,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000015A/26",
-      "_ts": 1788435396.6949542
+      "_ts": 1788442529.1080134
     },
     "AF8051000014A/26": {
       "tipo": "AF",
@@ -9482,7 +9483,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000014A/26",
-      "_ts": 1788435412.4488277
+      "_ts": 1788442542.7433906
     },
     "AF8051000011A/26": {
       "tipo": "AF",
@@ -9524,7 +9525,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000044A/26",
-      "_ts": 1788435466.0996275
+      "_ts": 1788442594.4206753
     },
     "AF8123000040A/26": {
       "tipo": "AF",
@@ -13992,7 +13993,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1788435432.0248961
+      "_ts": 1788442562.2697656
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -24003,6 +24004,7 @@
     },
     "MUL8161000290A/26": {
       "tipo": "MULTA",
+      "areaTotal": "12663.46",
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -24016,7 +24018,7 @@
       "bloco": "PÁTIO DE CONTÊINERES",
       "codgAuto": "MUL8161000290A/26",
       "numgAuto": 502342,
-      "_ts": 1782214458.8195965
+      "_ts": 1788442669.9718175
     },
     "AF8055000692A/26": {
       "tipo": "FISCALIZACAO",
@@ -30061,7 +30063,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1788435429.9587238
+      "_ts": 1788442559.2506573
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38482,7 +38484,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1788435420.7083182
+      "_ts": 1788442552.0662594
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -38502,7 +38504,7 @@
       "bloco": "1",
       "codgAuto": "AF8123000114A/25",
       "numgAuto": 449049,
-      "_ts": 1788435420.7083032
+      "_ts": 1788442552.0662448
     },
     "AF8117000482A/26": {
       "tipo": "FISCALIZACAO",
@@ -83517,7 +83519,7 @@
       "bloco": "osmar ignacio uso misto",
       "codgAuto": "AF8117000614A/26",
       "numgAuto": 523339,
-      "_ts": 1788435478.5595014
+      "_ts": 1788442623.0803008
     },
     "AF8117000613A/26": {
       "tipo": "AF",
@@ -83531,7 +83533,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8117000613A/26",
-      "_ts": 1788435478.5595222
+      "_ts": 1788442623.0803137
     },
     "AF8221000315A/26": {
       "tipo": "FISCALIZACAO",
@@ -88783,7 +88785,7 @@
       "bloco": "Residencial",
       "codgAuto": "AF8161001476A/25",
       "numgAuto": 442095,
-      "_ts": 1788435496.4056501
+      "_ts": 1788442683.5311813
     },
     "MUL8161000107A/26": {
       "tipo": "MULTA",
@@ -88801,7 +88803,7 @@
       "bloco": "Residencial",
       "codgAuto": "MUL8161000107A/26",
       "numgAuto": 473678,
-      "_ts": 1788435496.4056528
+      "_ts": 1788442683.531184
     },
     "AF8161001177A/26": {
       "tipo": "AF",
@@ -88815,7 +88817,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8161001177A/26",
-      "_ts": 1788435496.4056587
+      "_ts": 1788442683.531189
     },
     "AF8161001176A/26": {
       "tipo": "FISCALIZACAO",
@@ -91523,6 +91525,86 @@
       "codgAuto": "AF8163001187A/26",
       "numgAuto": 526430,
       "_ts": 1788392082.1455812
+    },
+    "AF8117000626A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "2050.38",
+      "cidade": "GASPAR",
+      "responsavel": "Osmar Silvino da Cunha",
+      "cpfCnpj": "38318903900",
+      "celular": "47999736998",
+      "email": "jacksoniamueller@terra.com.br",
+      "endereco_responsavel": "Rua Coronel Aristiliano Ramos, 105, Centro, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "03/12/2026",
+      "prazoDias": 91,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Galpões",
+      "codgAuto": "AF8117000626A/26",
+      "numgAuto": 526495,
+      "_ts": 1788442606.3229063
+    },
+    "AF8117000625A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 4463.94,
+      "cidade": "GASPAR",
+      "responsavel": "ALEXANDRE SOCRATES KAMMERS SCHNEIDER",
+      "cpfCnpj": "02536797961",
+      "celular": "47988189904",
+      "email": "paca.empreendimentos@gmail.com",
+      "endereco_responsavel": "Av Das Comunidades, 165, Centro, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "03/10/2026",
+      "prazoDias": 30,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000625A/26",
+      "numgAuto": 526493,
+      "_ts": 1788442613.8536098
+    },
+    "AF8047001151A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 530.18,
+      "cidade": "BLUMENAU",
+      "responsavel": "ASSOCIACAO DOS LOJISTAS DA GALERIA RUBENS",
+      "cpfCnpj": "03383495000173",
+      "celular": "47996062151",
+      "email": "marcos@backconsultoria.com.br",
+      "endereco_responsavel": "Sete de Setembro, 760, Centro, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "03/11/2026",
+      "prazoDias": 61,
+      "bombeiroAutuacao": "3º Sgt ROBERSON Aender Rufino",
+      "bloco": "ASSOCIACAO DOS LOJISTAS DA GALERIA RUBENS",
+      "codgAuto": "AF8047001151A/26",
+      "numgAuto": 526471,
+      "_ts": 1788442631.0814476
+    },
+    "AF8161001189A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "12663.46",
+      "cidade": "ITAJAÍ",
+      "responsavel": "Luis Henrique Siqueira Mendes",
+      "cpfCnpj": "10667125906",
+      "celular": "47996893612",
+      "email": "luis@projeta3.com.br",
+      "endereco_responsavel": "Rua 1536, 60, Centro, Balneário Camboriú",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "05/10/2026",
+      "prazoDias": 32,
+      "bombeiroAutuacao": "3º Sgt JONAS Ricardo Nicoleit",
+      "bloco": "PÁTIO DE CONTÊINERES",
+      "codgAuto": "AF8161001189A/26",
+      "numgAuto": 526483,
+      "_ts": 1788442669.971813
     }
   }
 }
