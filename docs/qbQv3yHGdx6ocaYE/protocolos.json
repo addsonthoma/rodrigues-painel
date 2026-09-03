@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-03T16:38:29-03:00",
+  "timestamp": "2026-09-03T16:58:36-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8102,
-      "ultima_verificacao": "2026-09-03T16:38:29-03:00"
+      "ultima_verificacao": "2026-09-03T16:58:36-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-03T16:38:29-03:00"
+      "ultima_verificacao": "2026-09-03T16:58:36-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-03T16:38:29-03:00"
+      "ultima_verificacao": "2026-09-03T16:58:36-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-03T16:38:29-03:00"
+      "ultima_verificacao": "2026-09-03T16:58:36-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3387,
-      "ultima_verificacao": "2026-09-03T16:38:29-03:00"
+      "ultima_verificacao": "2026-09-03T16:58:36-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-03T16:38:29-03:00"
+      "ultima_verificacao": "2026-09-03T16:58:36-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7210,
-      "ultima_verificacao": "2026-09-03T16:38:29-03:00"
+      "ultima_verificacao": "2026-09-03T16:58:36-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12993,
-      "ultima_verificacao": "2026-09-03T16:38:29-03:00"
+      "ultima_verificacao": "2026-09-03T16:58:36-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5017,
-      "ultima_verificacao": "2026-09-03T16:38:29-03:00"
+      "ultima_verificacao": "2026-09-03T16:58:36-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14308,
-      "ultima_verificacao": "2026-09-03T16:38:29-03:00"
+      "ultimo_numero": 14309,
+      "ultima_verificacao": "2026-09-03T16:58:36-03:00"
     }
   },
   "protocolos": {
@@ -11623,6 +11623,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014309A",
+        "RE": "RE8161013870A",
+        "numgEdificacao": 369565,
+        "Nome_Edificacao": "LZX COMÉRCIO DE EQUIPAMENTOS PARA PESCA LTDA",
+        "Logradouro": "AV DOUTOR REINALDO SCHMITHAUSEN",
+        "Numero": "2423",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-03T16:58:36-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014308A",
         "RE": "RE8161000929A",
         "numgEdificacao": 26396,
@@ -15286,7 +15297,7 @@
     "Itapema": 163,
     "Blumenau": 251,
     "Navegantes": 120,
-    "Itajai": 332
+    "Itajai": 333
   },
-  "total_geral": 1382
+  "total_geral": 1383
 }
