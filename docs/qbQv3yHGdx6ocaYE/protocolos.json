@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-03T14:38:15-03:00",
+  "timestamp": "2026-09-03T14:58:13-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8100,
-      "ultima_verificacao": "2026-09-03T14:38:15-03:00"
+      "ultima_verificacao": "2026-09-03T14:58:13-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-03T14:38:15-03:00"
+      "ultima_verificacao": "2026-09-03T14:58:13-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-03T14:38:15-03:00"
+      "ultima_verificacao": "2026-09-03T14:58:13-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-03T14:38:15-03:00"
+      "ultima_verificacao": "2026-09-03T14:58:13-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3384,
-      "ultima_verificacao": "2026-09-03T14:38:15-03:00"
+      "ultimo_numero": 3385,
+      "ultima_verificacao": "2026-09-03T14:58:13-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-03T14:38:15-03:00"
+      "ultima_verificacao": "2026-09-03T14:58:13-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7210,
-      "ultima_verificacao": "2026-09-03T14:38:15-03:00"
+      "ultima_verificacao": "2026-09-03T14:58:13-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12993,
-      "ultima_verificacao": "2026-09-03T14:38:15-03:00"
+      "ultima_verificacao": "2026-09-03T14:58:13-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5016,
-      "ultima_verificacao": "2026-09-03T14:38:15-03:00"
+      "ultima_verificacao": "2026-09-03T14:58:13-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14302,
-      "ultima_verificacao": "2026-09-03T14:38:15-03:00"
+      "ultima_verificacao": "2026-09-03T14:58:13-03:00"
     }
   },
   "protocolos": {
@@ -3868,6 +3868,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003385A",
+        "RE": "RE8265001875A",
+        "numgEdificacao": 240014,
+        "Nome_Edificacao": "JARDINS DO PORTO RESIDENCE",
+        "Logradouro": "AVENIDA GOVERNADOR CELSO RAMOS",
+        "Numero": "1570",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-03T14:58:13-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003384A",
         "RE": "RE8265001891A",
@@ -15149,12 +15160,12 @@
     "Botuvera": 39,
     "Guabiruba": 54,
     "Gaspar": 117,
-    "Porto Belo": 103,
+    "Porto Belo": 104,
     "Nova Trento": 62,
     "Itapema": 163,
     "Blumenau": 251,
     "Navegantes": 119,
     "Itajai": 326
   },
-  "total_geral": 1370
+  "total_geral": 1371
 }
