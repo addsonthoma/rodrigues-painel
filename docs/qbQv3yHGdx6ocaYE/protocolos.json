@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-03T18:26:53-03:00",
+  "timestamp": "2026-09-03T20:30:33-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8102,
-      "ultima_verificacao": "2026-09-03T18:26:53-03:00"
+      "ultima_verificacao": "2026-09-03T20:30:33-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-03T18:26:53-03:00"
+      "ultima_verificacao": "2026-09-03T20:30:33-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-03T18:26:53-03:00"
+      "ultima_verificacao": "2026-09-03T20:30:33-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-03T18:26:53-03:00"
+      "ultima_verificacao": "2026-09-03T20:30:33-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3387,
-      "ultima_verificacao": "2026-09-03T18:26:53-03:00"
+      "ultima_verificacao": "2026-09-03T20:30:33-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-03T18:26:53-03:00"
+      "ultima_verificacao": "2026-09-03T20:30:33-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7210,
-      "ultima_verificacao": "2026-09-03T18:26:53-03:00"
+      "ultima_verificacao": "2026-09-03T20:30:33-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12994,
-      "ultima_verificacao": "2026-09-03T18:26:53-03:00"
+      "ultimo_numero": 12995,
+      "ultima_verificacao": "2026-09-03T20:30:33-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5018,
-      "ultima_verificacao": "2026-09-03T18:26:53-03:00"
+      "ultima_verificacao": "2026-09-03T20:30:33-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14309,
-      "ultima_verificacao": "2026-09-03T18:26:53-03:00"
+      "ultimo_numero": 14311,
+      "ultima_verificacao": "2026-09-03T20:30:33-03:00"
     }
   },
   "protocolos": {
@@ -7538,6 +7538,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047012995A",
+        "RE": "RE8047012135A",
+        "numgEdificacao": 369578,
+        "Nome_Edificacao": "ESPAÇO SALÃO",
+        "Logradouro": "R ALVORADA",
+        "Numero": "580",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-03T20:30:33-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047012994A",
         "RE": "RE8047011949A",
         "numgEdificacao": 362106,
@@ -11612,6 +11623,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014311A",
+        "RE": "RE8161011451A",
+        "numgEdificacao": 304589,
+        "Nome_Edificacao": "MULTI SERVICE MAQUINAS E EQUIPAMENTOS LTDA",
+        "Logradouro": "RUA CLARINDO SEBASTIÃO DA CUNHA",
+        "Numero": "250",
+        "Bairro": "ITAJAÍ - ESPINHEIRO CIMA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-03T20:30:33-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014310A",
+        "RE": "RE8161013871A",
+        "numgEdificacao": 369581,
+        "Nome_Edificacao": "W F MECANICA LTDA",
+        "Logradouro": "R RUI BARBOSA",
+        "Numero": "137",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-03T20:30:33-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014309A",
         "RE": "RE8161013870A",
         "numgEdificacao": 369565,
@@ -15284,9 +15317,9 @@
     "Porto Belo": 106,
     "Nova Trento": 62,
     "Itapema": 163,
-    "Blumenau": 249,
+    "Blumenau": 250,
     "Navegantes": 121,
-    "Itajai": 333
+    "Itajai": 335
   },
-  "total_geral": 1382
+  "total_geral": 1385
 }
