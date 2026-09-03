@@ -1,79 +1,99 @@
 {
-  "timestamp": "2026-09-03T12:00:55-03:00",
+  "timestamp": "2026-09-03T15:33:46-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-03T12:00:55-03:00"
+      "ultima_verificacao": "2026-09-03T15:33:46-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-03T12:00:55-03:00"
+      "ultima_verificacao": "2026-09-03T15:33:46-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-03T12:00:55-03:00"
+      "ultima_verificacao": "2026-09-03T15:33:46-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 49,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-03T12:00:55-03:00"
+      "ultima_verificacao": "2026-09-03T15:33:46-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 114,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-03T12:00:55-03:00"
+      "ultima_verificacao": "2026-09-03T15:33:46-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 142,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-03T12:00:55-03:00"
+      "ultima_verificacao": "2026-09-03T15:33:46-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 191,
+      "ultimo_numero": 194,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-03T12:00:55-03:00"
+      "ultima_verificacao": "2026-09-03T15:33:46-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 242,
+      "ultimo_numero": 244,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-03T12:00:55-03:00"
+      "ultima_verificacao": "2026-09-03T15:33:46-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 91,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-03T12:00:55-03:00"
+      "ultima_verificacao": "2026-09-03T15:33:46-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 436,
+      "ultimo_numero": 437,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-03T12:00:55-03:00"
+      "ultima_verificacao": "2026-09-03T15:33:46-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000243A/26",
+        "RE": "RE8047008370A",
+        "Nome_Edificacao": "DORVAL ANTONIO GOULARTE",
+        "Logradouro": "Rua Sete de Maio",
+        "Numero": "916",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-03T15:33:46-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000244A/26",
+        "RE": "RE8047008370A",
+        "Nome_Edificacao": "DORVAL ANTONIO GOULARTE",
+        "Logradouro": "Rua Sete de Maio",
+        "Numero": "916",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-03T15:33:46-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000241A/26",
         "RE": "RE8047010849A",
@@ -2054,6 +2074,16 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "MUL8161000437A/26",
+        "RE": "RE8161004029A",
+        "Nome_Edificacao": "BRL COMMERCIAL PROPERTIES",
+        "Logradouro": "Rua José Lana",
+        "Numero": "850",
+        "Bairro": "ITAJAÍ - BRILHANTE I",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-03T15:33:46-03:00"
+      },
+      {
         "CodigoAuto": "MUL8161000436A/26",
         "RE": "RE8161006954A",
         "Nome_Edificacao": "R7 PARTICIPAÇÕES E NEGOCIAÇÕES IMOBILIARIAS LTDA",
@@ -3578,6 +3608,36 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "MUL8163000192A/26",
+        "RE": "RE8163004404A",
+        "Nome_Edificacao": "DEPOSITO OLIANI",
+        "Logradouro": "RUA 1202",
+        "Numero": "686",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-03T15:33:46-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000193A/26",
+        "RE": "RE8163005559A",
+        "Nome_Edificacao": "Instituto Araxá",
+        "Logradouro": "RUA 430",
+        "Numero": "22",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-03T15:33:46-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000194A/26",
+        "RE": "RE8163002517A",
+        "Nome_Edificacao": "ENEDINO DA SILVA DUARTE",
+        "Logradouro": "Rua 422",
+        "Numero": "855",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-03T15:33:46-03:00"
+      },
       {
         "CodigoAuto": "MUL8163000190A/26",
         "RE": "RE8163004272A",
@@ -5952,19 +6012,61 @@
     ]
   },
   "totais": {
-    "Blumenau": 107,
+    "Blumenau": 109,
     "Botuvera": 3,
     "Brusque": 64,
     "Gaspar": 25,
     "Guabiruba": 3,
-    "Itajai": 154,
-    "Itapema": 74,
+    "Itajai": 155,
+    "Itapema": 77,
     "Navegantes": 53,
     "Nova Trento": 59,
     "Porto Belo": 57
   },
-  "total_geral": 599,
+  "total_geral": 605,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-03T15:33:46-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000437A/26",
+      "nome": "BRL COMMERCIAL PROPERTIES",
+      "re": "RE8161004029A"
+    },
+    {
+      "ts": "2026-09-03T15:33:46-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000244A/26",
+      "nome": "DORVAL ANTONIO GOULARTE",
+      "re": "RE8047008370A"
+    },
+    {
+      "ts": "2026-09-03T15:33:46-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000243A/26",
+      "nome": "DORVAL ANTONIO GOULARTE",
+      "re": "RE8047008370A"
+    },
+    {
+      "ts": "2026-09-03T15:33:46-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000194A/26",
+      "nome": "ENEDINO DA SILVA DUARTE",
+      "re": "RE8163002517A"
+    },
+    {
+      "ts": "2026-09-03T15:33:46-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000193A/26",
+      "nome": "Instituto Araxá",
+      "re": "RE8163005559A"
+    },
+    {
+      "ts": "2026-09-03T15:33:46-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000192A/26",
+      "nome": "DEPOSITO OLIANI",
+      "re": "RE8163004404A"
+    },
     {
       "ts": "2026-09-02T11:37:06-03:00",
       "cidade": "Porto Belo",

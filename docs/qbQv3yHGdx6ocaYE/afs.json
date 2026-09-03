@@ -1,69 +1,91 @@
 {
-  "timestamp": "2026-09-03T12:01:23-03:00",
+  "timestamp": "2026-09-03T15:34:39-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 984,
+      "ultimo_numero": 986,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T12:01:23-03:00"
+      "ultima_verificacao": "2026-09-03T15:34:39-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T12:01:23-03:00"
+      "ultima_verificacao": "2026-09-03T15:34:39-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T12:01:23-03:00"
+      "ultima_verificacao": "2026-09-03T15:34:39-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 628,
+      "ultimo_numero": 629,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T12:01:23-03:00"
+      "ultima_verificacao": "2026-09-03T15:34:39-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 512,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T12:01:23-03:00"
+      "ultima_verificacao": "2026-09-03T15:34:39-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 514,
+      "ultimo_numero": 521,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T12:01:23-03:00"
+      "ultima_verificacao": "2026-09-03T15:34:39-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1189,
+      "ultimo_numero": 1191,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T12:01:23-03:00"
+      "ultima_verificacao": "2026-09-03T15:34:39-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1152,
+      "ultimo_numero": 1156,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T12:01:23-03:00"
+      "ultima_verificacao": "2026-09-03T15:34:39-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 326,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T12:01:23-03:00"
+      "ultima_verificacao": "2026-09-03T15:34:39-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1190,
+      "ultimo_numero": 1191,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-03T12:01:23-03:00"
+      "ultima_verificacao": "2026-09-03T15:34:39-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000986A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005607A",
+        "Nome_Edificacao": "JR BRASIL SUL ADM DE BENS LTDA",
+        "Logradouro": "RUA DJ-003",
+        "Numero": "1700",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055000985A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000730A",
+        "Nome_Edificacao": "D&D Distribuidora de Alimentos LTDA",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "600",
+        "Bairro": "BRUSQUE - CENTRO II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
       {
         "CodigoAuto": "AF8055000984A/26",
         "Tipo": "AF",
@@ -5010,6 +5032,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000629A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001472A",
+        "Nome_Edificacao": "RUBINITA MARIA KAMMERS",
+        "Logradouro": "AVENIDA DAS COMUNIDADES",
+        "Numero": "165",
+        "Bairro": "GASPAR - CENTRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000628A/26",
         "Tipo": "AF",
         "RE": "RE8117001038A",
@@ -9788,6 +9821,83 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000521A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000831A",
+        "Nome_Edificacao": "MARIA IVONE TOMASI MURARO",
+        "Logradouro": "Rua Geral Pitanga",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - BAIXO PITANGA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000520A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000685A",
+        "Nome_Edificacao": "PREFEITURA MUNICIPAL DE NOVA TRENTO",
+        "Logradouro": "RUA DOS IMIGRANTES",
+        "Numero": "76",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000519A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000307A",
+        "Nome_Edificacao": "COMERCIO VAREJISTA DE FOGOS DE ARTIFICIO",
+        "Logradouro": "RODOVIA SC 410",
+        "Numero": "1247",
+        "Bairro": "NOVA TRENTO - PONTA FINA NORTE",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000518A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000634A",
+        "Nome_Edificacao": "CAPELA SÃO VALENTIM",
+        "Logradouro": "Estrada Geral São Valentim",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - SÃO VALENTIM",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000517A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000169A",
+        "Nome_Edificacao": "EEB FRANCISCO MAZZOLA",
+        "Logradouro": "RUA FRANCISCO VALLE",
+        "Numero": "27",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000516A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000686A",
+        "Nome_Edificacao": "PREFEITURA MUNICIPAL DE NOVA TRENTO",
+        "Logradouro": "RUA DOS IMIGRANTES",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000515A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000682A",
+        "Nome_Edificacao": "JONAS OLAVO FERRARO",
+        "Logradouro": "RUA NEREU RAMOS",
+        "Numero": "97",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000514A/26",
         "Tipo": "AF",
         "RE": "RE8225000446A",
@@ -12033,6 +12143,28 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001191A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002239A",
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL MANHATTAN",
+        "Logradouro": "RUA 296",
+        "Numero": "65",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001190A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003775A",
+        "Nome_Edificacao": "COND. RESIDENCIAL VANESSA I",
+        "Logradouro": "rua 208",
+        "Numero": "127",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
       {
         "CodigoAuto": "AF8163001189A/26",
         "Tipo": "AF",
@@ -17040,6 +17172,50 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047001156A/26",
+        "Tipo": "AF",
+        "RE": "RE8047000851A",
+        "Nome_Edificacao": "Alumetal Placas de Identificação",
+        "Logradouro": "Rua Leoberto Leal",
+        "Numero": "291",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001155A/26",
+        "Tipo": "AF",
+        "RE": "RE8047000963A",
+        "Nome_Edificacao": "Cartonagem Blumenauense LTDA",
+        "Logradouro": "Rua Bernardo Scheidemantel",
+        "Numero": "2714",
+        "Bairro": "BLUMENAU - TESTO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001154A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005450A",
+        "Nome_Edificacao": "Condominio Edificio Torre Di Fiori",
+        "Logradouro": "rua valmor bortoluzzi",
+        "Numero": "111",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001153A/26",
+        "Tipo": "AF",
+        "RE": "RE8047008183A",
+        "Nome_Edificacao": "Edifício Everest",
+        "Logradouro": "Rua Joinville",
+        "Numero": "596",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
       {
         "CodigoAuto": "AF8047001152A/26",
         "Tipo": "AF",
@@ -23216,6 +23392,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001191A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005985A",
+        "Nome_Edificacao": "Instituto Lar da Juventude de aSSISTẼNCIA",
+        "Logradouro": "RUA JOSE GALL",
+        "Numero": "75",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-03T15:34:39-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001190A/26",
         "Tipo": "AF",
         "RE": "RE8161003718A",
@@ -28025,16 +28212,16 @@
     ]
   },
   "totais": {
-    "Brusque": 374,
+    "Brusque": 376,
     "Botuvera": 33,
     "Guabiruba": 42,
-    "Gaspar": 213,
+    "Gaspar": 214,
     "Porto Belo": 221,
-    "Nova Trento": 204,
-    "Itapema": 455,
-    "Blumenau": 439,
+    "Nova Trento": 211,
+    "Itapema": 457,
+    "Blumenau": 443,
     "Navegantes": 122,
-    "Itajai": 437
+    "Itajai": 438
   },
-  "total_geral": 2540
+  "total_geral": 2557
 }
