@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-02T20:34:04-03:00",
+  "timestamp": "2026-09-03T00:39:02-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 984,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T20:34:04-03:00"
+      "ultima_verificacao": "2026-09-03T00:39:02-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T20:34:04-03:00"
+      "ultima_verificacao": "2026-09-03T00:39:02-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T20:34:04-03:00"
+      "ultima_verificacao": "2026-09-03T00:39:02-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 624,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T20:34:04-03:00"
+      "ultima_verificacao": "2026-09-03T00:39:02-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 508,
+      "ultimo_numero": 509,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T20:34:04-03:00"
+      "ultima_verificacao": "2026-09-03T00:39:02-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 514,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T20:34:04-03:00"
+      "ultima_verificacao": "2026-09-03T00:39:02-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1186,
+      "ultimo_numero": 1187,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T20:34:04-03:00"
+      "ultima_verificacao": "2026-09-03T00:39:02-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1150,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T20:34:04-03:00"
+      "ultima_verificacao": "2026-09-03T00:39:02-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 326,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T20:34:04-03:00"
+      "ultima_verificacao": "2026-09-03T00:39:02-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1188,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-02T20:34:04-03:00"
+      "ultima_verificacao": "2026-09-03T00:39:02-03:00"
     }
   },
   "afs": {
@@ -7311,6 +7311,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "AF8265000509A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000455A",
+        "Nome_Edificacao": "TONI CENTER INDUSTRIA E COMERCIO LTD",
+        "Logradouro": "avenida governador celso ramos",
+        "Numero": "1631",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-03T00:39:02-03:00"
+      },
+      {
         "CodigoAuto": "AF8265000508A/26",
         "Tipo": "AF",
         "RE": "RE8265001766A",
@@ -11945,6 +11956,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001187A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006859A",
+        "Nome_Edificacao": "Casa Padaria Itapema",
+        "Logradouro": "RUA 214",
+        "Numero": "40",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-03T00:39:02-03:00"
+      },
       {
         "CodigoAuto": "AF8163001186A/26",
         "Tipo": "AF",
@@ -27864,12 +27886,12 @@
     "Botuvera": 33,
     "Guabiruba": 42,
     "Gaspar": 209,
-    "Porto Belo": 217,
+    "Porto Belo": 218,
     "Nova Trento": 204,
-    "Itapema": 452,
+    "Itapema": 453,
     "Blumenau": 437,
     "Navegantes": 122,
     "Itajai": 435
   },
-  "total_geral": 2525
+  "total_geral": 2527
 }

@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-02T22:56:56-03:00",
+  "timestamp": "2026-09-03T00:46:18-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8098,
-      "ultima_verificacao": "2026-09-02T22:56:56-03:00"
+      "ultimo_numero": 8099,
+      "ultima_verificacao": "2026-09-03T00:46:18-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-02T22:56:56-03:00"
+      "ultima_verificacao": "2026-09-03T00:46:18-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-02T22:56:56-03:00"
+      "ultima_verificacao": "2026-09-03T00:46:18-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-02T22:56:56-03:00"
+      "ultima_verificacao": "2026-09-03T00:46:18-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3383,
-      "ultima_verificacao": "2026-09-02T22:56:56-03:00"
+      "ultima_verificacao": "2026-09-03T00:46:18-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-02T22:56:56-03:00"
+      "ultima_verificacao": "2026-09-03T00:46:18-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7209,
-      "ultima_verificacao": "2026-09-02T22:56:56-03:00"
+      "ultima_verificacao": "2026-09-03T00:46:18-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12993,
-      "ultima_verificacao": "2026-09-02T22:56:56-03:00"
+      "ultima_verificacao": "2026-09-03T00:46:18-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5016,
-      "ultima_verificacao": "2026-09-02T22:56:56-03:00"
+      "ultima_verificacao": "2026-09-03T00:46:18-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14297,
-      "ultima_verificacao": "2026-09-02T22:56:56-03:00"
+      "ultimo_numero": 14301,
+      "ultima_verificacao": "2026-09-03T00:46:18-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008099A",
+        "RE": "RE8055006209A",
+        "numgEdificacao": 331086,
+        "Nome_Edificacao": "Anderson Furbringer",
+        "Logradouro": "RUA JOSE HERMENEGILDO BOLOGNINI",
+        "Numero": "30",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-03T00:46:18-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008098A",
         "RE": "RE8055006308A",
@@ -11480,6 +11491,50 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014301A",
+        "RE": "RE8161010568A",
+        "numgEdificacao": 280988,
+        "Nome_Edificacao": "GILBERTO LUZ",
+        "Logradouro": "R ANTONIO RAMOS",
+        "Numero": "187",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-03T00:46:18-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014300A",
+        "RE": "RE8161000424A",
+        "numgEdificacao": 12189,
+        "Nome_Edificacao": "184",
+        "Logradouro": "Rua Domingos José Cabral",
+        "Numero": "184",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-03T00:46:18-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014299A",
+        "RE": "RE8161013868A",
+        "numgEdificacao": 369475,
+        "Nome_Edificacao": "Terreno Rua Venezuela n33",
+        "Logradouro": "RUA VENEZUELA",
+        "Numero": "33",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-03T00:46:18-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014298A",
+        "RE": "RE8161011302A",
+        "numgEdificacao": 300144,
+        "Nome_Edificacao": "NTC MODA INTIMA LTDA",
+        "Logradouro": "Rua Jaime Pedro Alves",
+        "Numero": "95",
+        "Bairro": "ITAJAÍ - LIMOEIRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-03T00:46:18-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014297A",
         "RE": "RE8161013867A",
         "numgEdificacao": 369468,
@@ -15013,7 +15068,7 @@
     ]
   },
   "totais": {
-    "Brusque": 134,
+    "Brusque": 135,
     "Botuvera": 39,
     "Guabiruba": 54,
     "Gaspar": 117,
@@ -15022,7 +15077,7 @@
     "Itapema": 162,
     "Blumenau": 248,
     "Navegantes": 119,
-    "Itajai": 321
+    "Itajai": 325
   },
-  "total_geral": 1358
+  "total_geral": 1363
 }
