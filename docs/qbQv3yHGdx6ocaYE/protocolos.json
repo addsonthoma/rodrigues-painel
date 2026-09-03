@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-03T15:18:21-03:00",
+  "timestamp": "2026-09-03T15:38:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8100,
-      "ultima_verificacao": "2026-09-03T15:18:21-03:00"
+      "ultima_verificacao": "2026-09-03T15:38:58-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-03T15:18:21-03:00"
+      "ultima_verificacao": "2026-09-03T15:38:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-03T15:18:21-03:00"
+      "ultima_verificacao": "2026-09-03T15:38:58-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-03T15:18:21-03:00"
+      "ultima_verificacao": "2026-09-03T15:38:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3385,
-      "ultima_verificacao": "2026-09-03T15:18:21-03:00"
+      "ultimo_numero": 3386,
+      "ultima_verificacao": "2026-09-03T15:38:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-03T15:18:21-03:00"
+      "ultima_verificacao": "2026-09-03T15:38:58-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7210,
-      "ultima_verificacao": "2026-09-03T15:18:21-03:00"
+      "ultima_verificacao": "2026-09-03T15:38:58-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12993,
-      "ultima_verificacao": "2026-09-03T15:18:21-03:00"
+      "ultima_verificacao": "2026-09-03T15:38:58-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5016,
-      "ultima_verificacao": "2026-09-03T15:18:21-03:00"
+      "ultimo_numero": 5017,
+      "ultima_verificacao": "2026-09-03T15:38:58-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14302,
-      "ultima_verificacao": "2026-09-03T15:18:21-03:00"
+      "ultimo_numero": 14303,
+      "ultima_verificacao": "2026-09-03T15:38:58-03:00"
     }
   },
   "protocolos": {
@@ -3868,6 +3868,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003386A",
+        "RE": "RE8265002833A",
+        "numgEdificacao": 369554,
+        "Nome_Edificacao": "FAST OIL COMERCIO DE LUBRIFICANTES",
+        "Logradouro": "HIRONIDO CONCEIÇÃO DOS SANTOS",
+        "Numero": "1261",
+        "Bairro": "PORTO BELO - BALNEARIO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-03T15:38:58-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003385A",
         "RE": "RE8265001875A",
@@ -10257,6 +10268,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005017A",
+        "RE": "RE8221004146A",
+        "numgEdificacao": 369555,
+        "Nome_Edificacao": "Prédio Pontal",
+        "Logradouro": "Rua Manoel Gaya Neto",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - SÃO PEDRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-03T15:38:58-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005016A",
         "RE": "RE8221004034A",
         "numgEdificacao": 360431,
@@ -11567,6 +11589,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014303A",
+        "RE": "RE8161005111A",
+        "numgEdificacao": 150206,
+        "Nome_Edificacao": "JOAO COSNTANTINO FAZIONI",
+        "Logradouro": "Avenida Nilo Bittencourt",
+        "Numero": "895",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-03T15:38:58-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014302A",
         "RE": "RE8161004390A",
@@ -15160,12 +15193,12 @@
     "Botuvera": 39,
     "Guabiruba": 54,
     "Gaspar": 117,
-    "Porto Belo": 104,
+    "Porto Belo": 105,
     "Nova Trento": 62,
     "Itapema": 163,
     "Blumenau": 251,
-    "Navegantes": 119,
-    "Itajai": 326
+    "Navegantes": 120,
+    "Itajai": 327
   },
-  "total_geral": 1371
+  "total_geral": 1374
 }
