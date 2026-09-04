@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-04T09:10:19-03:00",
+  "timestamp": "2026-09-04T09:20:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 987,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T09:10:19-03:00"
+      "ultima_verificacao": "2026-09-04T09:20:31-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T09:10:19-03:00"
+      "ultima_verificacao": "2026-09-04T09:20:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T09:10:19-03:00"
+      "ultima_verificacao": "2026-09-04T09:20:31-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 630,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T09:10:19-03:00"
+      "ultima_verificacao": "2026-09-04T09:20:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T09:10:19-03:00"
+      "ultima_verificacao": "2026-09-04T09:20:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 524,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T09:10:19-03:00"
+      "ultima_verificacao": "2026-09-04T09:20:31-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1195,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T09:10:19-03:00"
+      "ultima_verificacao": "2026-09-04T09:20:31-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1158,
+      "ultimo_numero": 1159,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T09:10:19-03:00"
+      "ultima_verificacao": "2026-09-04T09:20:31-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 326,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T09:10:19-03:00"
+      "ultima_verificacao": "2026-09-04T09:20:31-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1192,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T09:10:19-03:00"
+      "ultima_verificacao": "2026-09-04T09:20:31-03:00"
     }
   },
   "afs": {
@@ -17283,6 +17283,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001159A/26",
+        "Tipo": "AF",
+        "RE": "RE8047011981A",
+        "Nome_Edificacao": "IGREJA EVANGELICA ASSEMBLEIA DE DEUS - BADENFURT",
+        "Logradouro": "RUA JOHANN SACHSE",
+        "Numero": "160",
+        "Bairro": "BLUMENAU - Badenfurt",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-04T09:20:31-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001158A/26",
         "Tipo": "AF",
         "RE": "RE8047004340A",
@@ -28362,9 +28373,9 @@
     "Porto Belo": 222,
     "Nova Trento": 214,
     "Itapema": 461,
-    "Blumenau": 445,
+    "Blumenau": 446,
     "Navegantes": 122,
     "Itajai": 439
   },
-  "total_geral": 2570
+  "total_geral": 2571
 }
