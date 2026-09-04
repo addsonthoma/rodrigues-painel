@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-03T22:27:07-03:00",
+  "timestamp": "2026-09-03T22:37:17-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8102,
-      "ultima_verificacao": "2026-09-03T22:27:07-03:00"
+      "ultima_verificacao": "2026-09-03T22:37:17-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-03T22:27:07-03:00"
+      "ultima_verificacao": "2026-09-03T22:37:17-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-03T22:27:07-03:00"
+      "ultima_verificacao": "2026-09-03T22:37:17-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-03T22:27:07-03:00"
+      "ultima_verificacao": "2026-09-03T22:37:17-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3387,
-      "ultima_verificacao": "2026-09-03T22:27:07-03:00"
+      "ultimo_numero": 3388,
+      "ultima_verificacao": "2026-09-03T22:37:17-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-03T22:27:07-03:00"
+      "ultima_verificacao": "2026-09-03T22:37:17-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7210,
-      "ultima_verificacao": "2026-09-03T22:27:07-03:00"
+      "ultima_verificacao": "2026-09-03T22:37:17-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12995,
-      "ultima_verificacao": "2026-09-03T22:27:07-03:00"
+      "ultima_verificacao": "2026-09-03T22:37:17-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5018,
-      "ultima_verificacao": "2026-09-03T22:27:07-03:00"
+      "ultima_verificacao": "2026-09-03T22:37:17-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14311,
-      "ultima_verificacao": "2026-09-03T22:27:07-03:00"
+      "ultima_verificacao": "2026-09-03T22:37:17-03:00"
     }
   },
   "protocolos": {
@@ -3890,6 +3890,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003388A",
+        "RE": "RE8265002035A",
+        "numgEdificacao": 271338,
+        "Nome_Edificacao": "Ilha de Santorini",
+        "Logradouro": "RUA IARA DE ARAUJO MIRANDA",
+        "Numero": "299",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-03T22:37:17-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003387A",
         "RE": "RE8265001917A",
@@ -15314,12 +15325,12 @@
     "Botuvera": 39,
     "Guabiruba": 54,
     "Gaspar": 117,
-    "Porto Belo": 106,
+    "Porto Belo": 107,
     "Nova Trento": 62,
     "Itapema": 163,
     "Blumenau": 250,
     "Navegantes": 121,
     "Itajai": 335
   },
-  "total_geral": 1385
+  "total_geral": 1386
 }
