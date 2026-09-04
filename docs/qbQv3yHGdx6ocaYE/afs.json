@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-04T11:01:03-03:00",
+  "timestamp": "2026-09-04T11:20:47-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 990,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:01:03-03:00"
+      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:01:03-03:00"
+      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:01:03-03:00"
+      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 630,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:01:03-03:00"
+      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:01:03-03:00"
+      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 525,
+      "ultimo_numero": 526,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:01:03-03:00"
+      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1195,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:01:03-03:00"
+      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1159,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:01:03-03:00"
+      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 326,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:01:03-03:00"
+      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1192,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:01:03-03:00"
+      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
     }
   },
   "afs": {
@@ -9886,6 +9886,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000526A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000664A",
+        "Nome_Edificacao": "SALÃO DE FESTAS ORATÓRIO NOSSA SENHORA APARECIDA",
+        "Logradouro": "Estrada Geral São Valentim",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - SÃO VALENTIM",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-04T11:20:47-03:00"
+      },
       {
         "CodigoAuto": "AF8225000525A/26",
         "Tipo": "AF",
@@ -28415,11 +28426,11 @@
     "Guabiruba": 42,
     "Gaspar": 215,
     "Porto Belo": 222,
-    "Nova Trento": 215,
+    "Nova Trento": 216,
     "Itapema": 461,
     "Blumenau": 446,
     "Navegantes": 122,
     "Itajai": 439
   },
-  "total_geral": 2575
+  "total_geral": 2576
 }
