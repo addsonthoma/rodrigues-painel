@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-04T14:36:51-03:00",
+  "timestamp": "2026-09-04T14:47:33-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8103,
-      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
+      "ultima_verificacao": "2026-09-04T14:47:33-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
+      "ultima_verificacao": "2026-09-04T14:47:33-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
+      "ultimo_numero": 1530,
+      "ultima_verificacao": "2026-09-04T14:47:33-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
+      "ultima_verificacao": "2026-09-04T14:47:33-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3388,
-      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
+      "ultima_verificacao": "2026-09-04T14:47:33-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
+      "ultima_verificacao": "2026-09-04T14:47:33-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7210,
-      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
+      "ultima_verificacao": "2026-09-04T14:47:33-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12995,
-      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
+      "ultima_verificacao": "2026-09-04T14:47:33-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5018,
-      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
+      "ultima_verificacao": "2026-09-04T14:47:33-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14311,
-      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
+      "ultima_verificacao": "2026-09-04T14:47:33-03:00"
     }
   },
   "protocolos": {
@@ -2016,6 +2016,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001530A",
+        "RE": "RE8123001214A",
+        "numgEdificacao": 369637,
+        "Nome_Edificacao": "ROQUE VOSS",
+        "Logradouro": "JOAO VOSS",
+        "Numero": "81",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-09-04T14:47:33-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001529A",
         "RE": "RE8123000142A",
@@ -15334,7 +15345,7 @@
   "totais": {
     "Brusque": 139,
     "Botuvera": 39,
-    "Guabiruba": 54,
+    "Guabiruba": 55,
     "Gaspar": 117,
     "Porto Belo": 107,
     "Nova Trento": 62,
@@ -15343,5 +15354,5 @@
     "Navegantes": 121,
     "Itajai": 335
   },
-  "total_geral": 1387
+  "total_geral": 1388
 }
