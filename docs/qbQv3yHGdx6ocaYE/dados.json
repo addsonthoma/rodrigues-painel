@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-04T08:10:14-03:00",
+  "timestamp": "2026-09-04T08:32:00-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-04T08:10:14-03:00"
+      "ultima_verificacao": "2026-09-04T08:32:00-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-04T08:10:14-03:00"
+      "ultima_verificacao": "2026-09-04T08:32:00-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-04T08:10:14-03:00"
+      "ultima_verificacao": "2026-09-04T08:32:00-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 49,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-04T08:10:14-03:00"
+      "ultima_verificacao": "2026-09-04T08:32:00-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 115,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-04T08:10:14-03:00"
+      "ultima_verificacao": "2026-09-04T08:32:00-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 142,
+      "ultimo_numero": 144,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-04T08:10:14-03:00"
+      "ultima_verificacao": "2026-09-04T08:32:00-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 194,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-04T08:10:14-03:00"
+      "ultima_verificacao": "2026-09-04T08:32:00-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 244,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-04T08:10:14-03:00"
+      "ultima_verificacao": "2026-09-04T08:32:00-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 91,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-04T08:10:14-03:00"
+      "ultima_verificacao": "2026-09-04T08:32:00-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 437,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-04T08:10:14-03:00"
+      "ultima_verificacao": "2026-09-04T08:32:00-03:00"
     }
   },
   "multas": {
@@ -4882,6 +4882,26 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000143A/26",
+        "RE": "RE8225000234A",
+        "Nome_Edificacao": "ZELI TEREZINHA MALESKI",
+        "Logradouro": "rua alferes",
+        "Numero": "1321",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-04T08:32:00-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000144A/26",
+        "RE": "RE8225000062A",
+        "Nome_Edificacao": "GERCINO RAISER",
+        "Logradouro": "Independencia",
+        "Numero": "185",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-04T08:32:00-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000140A/26",
         "RE": "RE8225000763A",
         "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANOPOLIS",
@@ -6030,11 +6050,25 @@
     "Itajai": 155,
     "Itapema": 77,
     "Navegantes": 53,
-    "Nova Trento": 59,
+    "Nova Trento": 61,
     "Porto Belo": 58
   },
-  "total_geral": 606,
+  "total_geral": 608,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-04T08:32:00-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000144A/26",
+      "nome": "GERCINO RAISER",
+      "re": "RE8225000062A"
+    },
+    {
+      "ts": "2026-09-04T08:32:00-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000143A/26",
+      "nome": "ZELI TEREZINHA MALESKI",
+      "re": "RE8225000234A"
+    },
     {
       "ts": "2026-09-04T08:10:14-03:00",
       "cidade": "Porto Belo",
@@ -6279,27 +6313,6 @@
       "codigo": "MUL8163000189A/26",
       "nome": "GALPÃO",
       "re": "RE8163006679A"
-    },
-    {
-      "ts": "2026-08-28T08:15:32-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000139A/26",
-      "nome": "Agro Rubileski Battisti Ltda",
-      "re": "RE8225000806A"
-    },
-    {
-      "ts": "2026-08-28T08:15:32-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000138A/26",
-      "nome": "MOISES SANCHES DE SOUZA",
-      "re": "RE8225000544A"
-    },
-    {
-      "ts": "2026-08-28T08:15:32-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000137A/26",
-      "nome": "EUSSANDRI ERCIO WILCHE",
-      "re": "RE8225000817A"
     }
   ]
 }
