@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-04T12:46:01-03:00",
+  "timestamp": "2026-09-04T16:51:00-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 992,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:46:01-03:00"
+      "ultima_verificacao": "2026-09-04T16:51:00-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:46:01-03:00"
+      "ultima_verificacao": "2026-09-04T16:51:00-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:46:01-03:00"
+      "ultima_verificacao": "2026-09-04T16:51:00-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 630,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:46:01-03:00"
+      "ultima_verificacao": "2026-09-04T16:51:00-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:46:01-03:00"
+      "ultima_verificacao": "2026-09-04T16:51:00-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 527,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:46:01-03:00"
+      "ultima_verificacao": "2026-09-04T16:51:00-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1197,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:46:01-03:00"
+      "ultima_verificacao": "2026-09-04T16:51:00-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1163,
+      "ultimo_numero": 1164,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:46:01-03:00"
+      "ultima_verificacao": "2026-09-04T16:51:00-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 327,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:46:01-03:00"
+      "ultima_verificacao": "2026-09-04T16:51:00-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1198,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:46:01-03:00"
+      "ultima_verificacao": "2026-09-04T16:51:00-03:00"
     }
   },
   "afs": {
@@ -17393,6 +17393,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001164A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001564A",
+        "Nome_Edificacao": "DELLING ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Arno Delling",
+        "Numero": "900",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-04T16:51:00-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001163A/26",
         "Tipo": "AF",
         "RE": "RE8047012134A",
@@ -17401,7 +17412,7 @@
         "Numero": "245",
         "Bairro": "BLUMENAU - Salto do Norte",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-09-04T16:00:46-03:00"
+        "Detectado_em": "2026-09-04T16:51:00-03:00"
       },
       {
         "CodigoAuto": "AF8047001162A/26",
@@ -23708,7 +23719,7 @@
         "Numero": "143",
         "Bairro": "ITAJAÍ - CORDEIROS",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-09-04T15:20:55-03:00"
+        "Detectado_em": "2026-09-04T16:51:00-03:00"
       },
       {
         "CodigoAuto": "AF8161001197A/26",
@@ -28604,9 +28615,9 @@
     "Porto Belo": 222,
     "Nova Trento": 217,
     "Itapema": 463,
-    "Blumenau": 450,
+    "Blumenau": 451,
     "Navegantes": 123,
     "Itajai": 445
   },
-  "total_geral": 2592
+  "total_geral": 2593
 }
