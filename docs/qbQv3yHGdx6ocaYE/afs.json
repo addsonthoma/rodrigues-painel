@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-04T11:20:47-03:00",
+  "timestamp": "2026-09-04T11:30:53-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 990,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
+      "ultima_verificacao": "2026-09-04T11:30:53-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
+      "ultima_verificacao": "2026-09-04T11:30:53-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
+      "ultima_verificacao": "2026-09-04T11:30:53-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 630,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
+      "ultima_verificacao": "2026-09-04T11:30:53-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
+      "ultima_verificacao": "2026-09-04T11:30:53-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 526,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
+      "ultima_verificacao": "2026-09-04T11:30:53-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1195,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
+      "ultima_verificacao": "2026-09-04T11:30:53-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1159,
+      "ultimo_numero": 1161,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
+      "ultima_verificacao": "2026-09-04T11:30:53-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 326,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
+      "ultima_verificacao": "2026-09-04T11:30:53-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1192,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T11:20:47-03:00"
+      "ultima_verificacao": "2026-09-04T11:30:53-03:00"
     }
   },
   "afs": {
@@ -17338,6 +17338,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001161A/26",
+        "Tipo": "AF",
+        "RE": "RE8047002863A",
+        "Nome_Edificacao": "F & K PARTICIPAÇÕES LTDA",
+        "Logradouro": "Rua Itajaí",
+        "Numero": "35",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-04T11:30:53-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001160A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005944A",
+        "Nome_Edificacao": "Residencial London",
+        "Logradouro": "Rua Prudente de Moraes",
+        "Numero": "141",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-04T11:30:53-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001159A/26",
         "Tipo": "AF",
         "RE": "RE8047011981A",
@@ -28428,9 +28450,9 @@
     "Porto Belo": 222,
     "Nova Trento": 216,
     "Itapema": 461,
-    "Blumenau": 446,
+    "Blumenau": 448,
     "Navegantes": 122,
     "Itajai": 439
   },
-  "total_geral": 2576
+  "total_geral": 2578
 }
