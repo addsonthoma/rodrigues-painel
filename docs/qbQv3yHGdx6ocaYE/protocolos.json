@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-04T14:27:26-03:00",
+  "timestamp": "2026-09-04T14:36:51-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8102,
-      "ultima_verificacao": "2026-09-04T14:27:26-03:00"
+      "ultimo_numero": 8103,
+      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-04T14:27:26-03:00"
+      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1529,
-      "ultima_verificacao": "2026-09-04T14:27:26-03:00"
+      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-04T14:27:26-03:00"
+      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3388,
-      "ultima_verificacao": "2026-09-04T14:27:26-03:00"
+      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-04T14:27:26-03:00"
+      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7210,
-      "ultima_verificacao": "2026-09-04T14:27:26-03:00"
+      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12995,
-      "ultima_verificacao": "2026-09-04T14:27:26-03:00"
+      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5018,
-      "ultima_verificacao": "2026-09-04T14:27:26-03:00"
+      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14311,
-      "ultima_verificacao": "2026-09-04T14:27:26-03:00"
+      "ultima_verificacao": "2026-09-04T14:36:51-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008103A",
+        "RE": "RE8055006818A",
+        "numgEdificacao": 369632,
+        "Nome_Edificacao": "PRÉDIO 6 APTOS - CONSTRUTORA ÁGUAS CLARAS",
+        "Logradouro": "Rua João XXIII",
+        "Numero": "",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-04T14:36:51-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008102A",
         "RE": "RE8055006817A",
@@ -15321,7 +15332,7 @@
     ]
   },
   "totais": {
-    "Brusque": 138,
+    "Brusque": 139,
     "Botuvera": 39,
     "Guabiruba": 54,
     "Gaspar": 117,
@@ -15332,5 +15343,5 @@
     "Navegantes": 121,
     "Itajai": 335
   },
-  "total_geral": 1386
+  "total_geral": 1387
 }
