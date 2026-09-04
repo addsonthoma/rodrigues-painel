@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-04T12:30:39-03:00",
+  "timestamp": "2026-09-04T12:40:49-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 990,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:30:39-03:00"
+      "ultima_verificacao": "2026-09-04T12:40:49-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:30:39-03:00"
+      "ultima_verificacao": "2026-09-04T12:40:49-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:30:39-03:00"
+      "ultima_verificacao": "2026-09-04T12:40:49-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 630,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:30:39-03:00"
+      "ultima_verificacao": "2026-09-04T12:40:49-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:30:39-03:00"
+      "ultima_verificacao": "2026-09-04T12:40:49-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 526,
+      "ultimo_numero": 527,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:30:39-03:00"
+      "ultima_verificacao": "2026-09-04T12:40:49-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1196,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:30:39-03:00"
+      "ultima_verificacao": "2026-09-04T12:40:49-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1162,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:30:39-03:00"
+      "ultima_verificacao": "2026-09-04T12:40:49-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 326,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:30:39-03:00"
+      "ultima_verificacao": "2026-09-04T12:40:49-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1195,
+      "ultimo_numero": 1196,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T12:30:39-03:00"
+      "ultima_verificacao": "2026-09-04T12:40:49-03:00"
     }
   },
   "afs": {
@@ -9886,6 +9886,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000527A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000665A",
+        "Nome_Edificacao": "CAPELA SANTA ANA",
+        "Logradouro": "Rua geral do molha",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - MOLHA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-04T12:40:49-03:00"
+      },
       {
         "CodigoAuto": "AF8225000526A/26",
         "Tipo": "AF",
@@ -23634,6 +23645,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001196A/26",
+        "Tipo": "AF",
+        "RE": "RE8161007758A",
+        "Nome_Edificacao": "PETRASALIS EMPREENDIMENTOS SPE 06 LTDA",
+        "Logradouro": "Domingos Rampelotti",
+        "Numero": "3601",
+        "Bairro": "ITAJAÍ - SÃO ROQUE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-04T12:40:49-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001195A/26",
         "Tipo": "AF",
         "RE": "RE8161004629A",
@@ -28503,11 +28525,11 @@
     "Guabiruba": 42,
     "Gaspar": 215,
     "Porto Belo": 222,
-    "Nova Trento": 216,
+    "Nova Trento": 217,
     "Itapema": 462,
     "Blumenau": 449,
     "Navegantes": 122,
-    "Itajai": 442
+    "Itajai": 443
   },
-  "total_geral": 2583
+  "total_geral": 2585
 }
