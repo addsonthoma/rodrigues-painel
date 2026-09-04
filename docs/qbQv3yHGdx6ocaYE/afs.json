@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-04T10:21:08-03:00",
+  "timestamp": "2026-09-04T10:42:37-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 987,
+      "ultimo_numero": 988,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T10:21:08-03:00"
+      "ultima_verificacao": "2026-09-04T10:42:37-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T10:21:08-03:00"
+      "ultima_verificacao": "2026-09-04T10:42:37-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T10:21:08-03:00"
+      "ultima_verificacao": "2026-09-04T10:42:37-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 630,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T10:21:08-03:00"
+      "ultima_verificacao": "2026-09-04T10:42:37-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T10:21:08-03:00"
+      "ultima_verificacao": "2026-09-04T10:42:37-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 524,
+      "ultimo_numero": 525,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T10:21:08-03:00"
+      "ultima_verificacao": "2026-09-04T10:42:37-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1195,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T10:21:08-03:00"
+      "ultima_verificacao": "2026-09-04T10:42:37-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1159,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T10:21:08-03:00"
+      "ultima_verificacao": "2026-09-04T10:42:37-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 326,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T10:21:08-03:00"
+      "ultima_verificacao": "2026-09-04T10:42:37-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1192,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-04T10:21:08-03:00"
+      "ultima_verificacao": "2026-09-04T10:42:37-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000988A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000180A",
+        "Nome_Edificacao": "Edifício Rio Duplex",
+        "Logradouro": "Rua Ewaldo Bohn",
+        "Numero": "10",
+        "Bairro": "BRUSQUE - CENTRO II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-04T10:42:37-03:00"
+      },
       {
         "CodigoAuto": "AF8055000987A/26",
         "Tipo": "AF",
@@ -9853,6 +9864,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000525A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000763A",
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANOPOLIS",
+        "Logradouro": "RUA FLORIANOPOLIS",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - PONTA FINA NORTE",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-04T10:42:37-03:00"
+      },
       {
         "CodigoAuto": "AF8225000524A/26",
         "Tipo": "AF",
@@ -28366,16 +28388,16 @@
     ]
   },
   "totais": {
-    "Brusque": 377,
+    "Brusque": 378,
     "Botuvera": 33,
     "Guabiruba": 42,
     "Gaspar": 215,
     "Porto Belo": 222,
-    "Nova Trento": 214,
+    "Nova Trento": 215,
     "Itapema": 461,
     "Blumenau": 446,
     "Navegantes": 122,
     "Itajai": 439
   },
-  "total_geral": 2571
+  "total_geral": 2573
 }
