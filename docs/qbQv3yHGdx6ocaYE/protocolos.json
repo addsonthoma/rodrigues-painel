@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-08T15:38:11-03:00",
+  "timestamp": "2026-09-08T15:57:32-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8106,
-      "ultima_verificacao": "2026-09-08T15:38:11-03:00"
+      "ultima_verificacao": "2026-09-08T15:57:32-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-08T15:38:11-03:00"
+      "ultima_verificacao": "2026-09-08T15:57:32-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1531,
-      "ultima_verificacao": "2026-09-08T15:38:11-03:00"
+      "ultima_verificacao": "2026-09-08T15:57:32-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3884,
-      "ultima_verificacao": "2026-09-08T15:38:11-03:00"
+      "ultima_verificacao": "2026-09-08T15:57:32-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-08T15:38:11-03:00"
+      "ultima_verificacao": "2026-09-08T15:57:32-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-08T15:38:11-03:00"
+      "ultima_verificacao": "2026-09-08T15:57:32-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7212,
-      "ultima_verificacao": "2026-09-08T15:38:11-03:00"
+      "ultima_verificacao": "2026-09-08T15:57:32-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13000,
-      "ultima_verificacao": "2026-09-08T15:38:11-03:00"
+      "ultima_verificacao": "2026-09-08T15:57:32-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5021,
-      "ultima_verificacao": "2026-09-08T15:38:11-03:00"
+      "ultimo_numero": 5022,
+      "ultima_verificacao": "2026-09-08T15:57:32-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14316,
-      "ultima_verificacao": "2026-09-08T15:38:11-03:00"
+      "ultima_verificacao": "2026-09-08T15:57:32-03:00"
     }
   },
   "protocolos": {
@@ -10466,6 +10466,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005022A",
+        "RE": "RE8221001918A",
+        "numgEdificacao": 211881,
+        "Nome_Edificacao": "Residencia Multifamiliar",
+        "Logradouro": "RUA ABDON CARDOSO SACAVEM",
+        "Numero": "96",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-08T15:57:32-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005021A",
         "RE": "RE8221004140A",
         "numgEdificacao": 368932,
@@ -15582,8 +15593,8 @@
     "Nova Trento": 62,
     "Itapema": 165,
     "Blumenau": 255,
-    "Navegantes": 124,
+    "Navegantes": 125,
     "Itajai": 340
   },
-  "total_geral": 1409
+  "total_geral": 1410
 }

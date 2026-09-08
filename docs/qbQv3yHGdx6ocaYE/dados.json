@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-08T15:30:04-03:00",
+  "timestamp": "2026-09-08T15:50:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 120,
+      "ultimo_numero": 121,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:30:04-03:00"
+      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:30:04-03:00"
+      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:30:04-03:00"
+      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
-      "ultimo_numero": 53,
+      "ultimo_numero": 54,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:30:04-03:00"
+      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 117,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:30:04-03:00"
+      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 144,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:30:04-03:00"
+      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 196,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:30:04-03:00"
+      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 246,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:30:04-03:00"
+      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 93,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:30:04-03:00"
+      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 439,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:30:04-03:00"
+      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
     }
   },
   "multas": {
@@ -1201,6 +1201,16 @@
     ],
     "Brusque": [
       {
+        "CodigoAuto": "MUL8055000121A/26",
+        "RE": "RE8055002391A",
+        "Nome_Edificacao": "Galpão Carlos Day",
+        "Logradouro": "R LI - 011",
+        "Numero": "40",
+        "Bairro": "BRUSQUE - Limeira Baixa",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-08T15:50:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8055000120A/26",
         "RE": "RE8055002713A",
         "Nome_Edificacao": "Edificações Comerciais",
@@ -1837,6 +1847,16 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "MUL8117000054A/26",
+        "RE": "RE8117002364A",
+        "Nome_Edificacao": "CARLOS ISENSEE",
+        "Logradouro": "RUA ANFILOQUIO NUNES PIRES",
+        "Numero": "2045",
+        "Bairro": "GASPAR - BELA VISTA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-08T15:50:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8117000053A/26",
         "RE": "RE8117002894A",
@@ -6194,8 +6214,8 @@
   "totais": {
     "Blumenau": 111,
     "Botuvera": 3,
-    "Brusque": 65,
-    "Gaspar": 29,
+    "Brusque": 66,
+    "Gaspar": 30,
     "Guabiruba": 3,
     "Itajai": 157,
     "Itapema": 79,
@@ -6203,8 +6223,22 @@
     "Nova Trento": 61,
     "Porto Belo": 60
   },
-  "total_geral": 623,
+  "total_geral": 625,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-08T15:50:04-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000054A/26",
+      "nome": "CARLOS ISENSEE",
+      "re": "RE8117002364A"
+    },
+    {
+      "ts": "2026-09-08T15:50:04-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000121A/26",
+      "nome": "Galpão Carlos Day",
+      "re": "RE8055002391A"
+    },
     {
       "ts": "2026-09-08T15:20:04-03:00",
       "cidade": "Gaspar",
