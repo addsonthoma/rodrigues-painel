@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-08T15:16:57-03:00",
+  "timestamp": "2026-09-08T15:27:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8106,
-      "ultima_verificacao": "2026-09-08T15:16:57-03:00"
+      "ultima_verificacao": "2026-09-08T15:27:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-08T15:16:57-03:00"
+      "ultima_verificacao": "2026-09-08T15:27:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1530,
-      "ultima_verificacao": "2026-09-08T15:16:57-03:00"
+      "ultimo_numero": 1531,
+      "ultima_verificacao": "2026-09-08T15:27:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3884,
-      "ultima_verificacao": "2026-09-08T15:16:57-03:00"
+      "ultima_verificacao": "2026-09-08T15:27:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-08T15:16:57-03:00"
+      "ultima_verificacao": "2026-09-08T15:27:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-08T15:16:57-03:00"
+      "ultima_verificacao": "2026-09-08T15:27:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7212,
-      "ultima_verificacao": "2026-09-08T15:16:57-03:00"
+      "ultima_verificacao": "2026-09-08T15:27:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13000,
-      "ultima_verificacao": "2026-09-08T15:16:57-03:00"
+      "ultima_verificacao": "2026-09-08T15:27:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5021,
-      "ultima_verificacao": "2026-09-08T15:16:57-03:00"
+      "ultima_verificacao": "2026-09-08T15:27:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14315,
-      "ultima_verificacao": "2026-09-08T15:16:57-03:00"
+      "ultimo_numero": 14316,
+      "ultima_verificacao": "2026-09-08T15:27:57-03:00"
     }
   },
   "protocolos": {
@@ -2049,6 +2049,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001531A",
+        "RE": "RE8123001215A",
+        "numgEdificacao": 369755,
+        "Nome_Edificacao": "LV EMPREENDIMENTOS IMOBILIARIOS LTDA - EDIFICIO MULTIFAMILIAR",
+        "Logradouro": "RUA ANA WIPPEL FISCHER",
+        "Numero": "48",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-09-08T15:27:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001530A",
         "RE": "RE8123001214A",
@@ -11821,6 +11832,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014316A",
+        "RE": "RE8161001310A",
+        "numgEdificacao": 36768,
+        "Nome_Edificacao": "NAIROBI BIO PRODUTOS DE PESCADOS LTDA",
+        "Logradouro": "Rua Francisco Reis",
+        "Numero": "1521",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-08T15:27:57-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014315A",
         "RE": "RE8161010676A",
         "numgEdificacao": 284138,
@@ -15554,14 +15576,14 @@
   "totais": {
     "Brusque": 142,
     "Botuvera": 39,
-    "Guabiruba": 55,
+    "Guabiruba": 56,
     "Gaspar": 118,
     "Porto Belo": 108,
     "Nova Trento": 62,
     "Itapema": 165,
     "Blumenau": 255,
     "Navegantes": 124,
-    "Itajai": 339
+    "Itajai": 340
   },
-  "total_geral": 1407
+  "total_geral": 1409
 }
