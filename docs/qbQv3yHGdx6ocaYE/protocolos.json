@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-08T09:56:48-03:00",
+  "timestamp": "2026-09-08T10:06:38-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8106,
-      "ultima_verificacao": "2026-09-08T09:56:48-03:00"
+      "ultima_verificacao": "2026-09-08T10:06:38-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-08T09:56:48-03:00"
+      "ultima_verificacao": "2026-09-08T10:06:38-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1530,
-      "ultima_verificacao": "2026-09-08T09:56:48-03:00"
+      "ultima_verificacao": "2026-09-08T10:06:38-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-08T09:56:48-03:00"
+      "ultima_verificacao": "2026-09-08T10:06:38-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3388,
-      "ultima_verificacao": "2026-09-08T09:56:48-03:00"
+      "ultima_verificacao": "2026-09-08T10:06:38-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-08T09:56:48-03:00"
+      "ultima_verificacao": "2026-09-08T10:06:38-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7212,
-      "ultima_verificacao": "2026-09-08T09:56:48-03:00"
+      "ultima_verificacao": "2026-09-08T10:06:38-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12996,
-      "ultima_verificacao": "2026-09-08T09:56:48-03:00"
+      "ultima_verificacao": "2026-09-08T10:06:38-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5018,
-      "ultima_verificacao": "2026-09-08T09:56:48-03:00"
+      "ultima_verificacao": "2026-09-08T10:06:38-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14314,
-      "ultima_verificacao": "2026-09-08T09:56:48-03:00"
+      "ultimo_numero": 14315,
+      "ultima_verificacao": "2026-09-08T10:06:38-03:00"
     }
   },
   "protocolos": {
@@ -11722,6 +11722,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014315A",
+        "RE": "RE8161010676A",
+        "numgEdificacao": 284138,
+        "Nome_Edificacao": "ES III ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Ciríaco Meirinho",
+        "Numero": "110",
+        "Bairro": "ITAJAÍ - SÃO JUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-08T10:06:38-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014314A",
         "RE": "RE8161006053A",
         "numgEdificacao": 171562,
@@ -15451,7 +15462,7 @@
     "Itapema": 165,
     "Blumenau": 251,
     "Navegantes": 121,
-    "Itajai": 338
+    "Itajai": 339
   },
-  "total_geral": 1397
+  "total_geral": 1398
 }
