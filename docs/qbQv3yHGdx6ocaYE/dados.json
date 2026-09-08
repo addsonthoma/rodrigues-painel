@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-08T15:50:04-03:00",
+  "timestamp": "2026-09-08T16:00:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 121,
+      "ultimo_numero": 122,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-08T16:00:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-08T16:00:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-08T16:00:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 54,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-08T16:00:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 117,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-08T16:00:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 144,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-08T16:00:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 196,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-08T16:00:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 246,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-08T16:00:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 93,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-08T16:00:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 439,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-08T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-08T16:00:04-03:00"
     }
   },
   "multas": {
@@ -1200,6 +1200,16 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000122A/26",
+        "RE": "RE8055004833A",
+        "Nome_Edificacao": "OTAVIO ROMANO PEDRINI",
+        "Logradouro": "Avenida Lauro Muller",
+        "Numero": "50",
+        "Bairro": "BRUSQUE - CENTRO II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-08T16:00:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000121A/26",
         "RE": "RE8055002391A",
@@ -6214,7 +6224,7 @@
   "totais": {
     "Blumenau": 111,
     "Botuvera": 3,
-    "Brusque": 66,
+    "Brusque": 67,
     "Gaspar": 30,
     "Guabiruba": 3,
     "Itajai": 157,
@@ -6223,8 +6233,15 @@
     "Nova Trento": 61,
     "Porto Belo": 60
   },
-  "total_geral": 625,
+  "total_geral": 626,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-08T16:00:04-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000122A/26",
+      "nome": "OTAVIO ROMANO PEDRINI",
+      "re": "RE8055004833A"
+    },
     {
       "ts": "2026-09-08T15:50:04-03:00",
       "cidade": "Gaspar",
