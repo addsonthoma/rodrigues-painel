@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-08T15:20:36-03:00",
+  "timestamp": "2026-09-08T15:30:41-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 992,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T15:20:36-03:00"
+      "ultima_verificacao": "2026-09-08T15:30:41-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T15:20:36-03:00"
+      "ultima_verificacao": "2026-09-08T15:30:41-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T15:20:36-03:00"
+      "ultima_verificacao": "2026-09-08T15:30:41-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 632,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T15:20:36-03:00"
+      "ultima_verificacao": "2026-09-08T15:30:41-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T15:20:36-03:00"
+      "ultima_verificacao": "2026-09-08T15:30:41-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 527,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T15:20:36-03:00"
+      "ultima_verificacao": "2026-09-08T15:30:41-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1204,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T15:20:36-03:00"
+      "ultima_verificacao": "2026-09-08T15:30:41-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1168,
+      "ultimo_numero": 1169,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T15:20:36-03:00"
+      "ultima_verificacao": "2026-09-08T15:30:41-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 327,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T15:20:36-03:00"
+      "ultima_verificacao": "2026-09-08T15:30:41-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1201,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T15:20:36-03:00"
+      "ultima_verificacao": "2026-09-08T15:30:41-03:00"
     }
   },
   "afs": {
@@ -17492,6 +17492,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001169A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001066A",
+        "Nome_Edificacao": "PEDRO PAULO CHIMELLO",
+        "Logradouro": "Rua Água Branca",
+        "Numero": "910",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-08T15:30:41-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001168A/26",
         "Tipo": "AF",
         "RE": "RE8047003517A",
@@ -28791,9 +28802,9 @@
     "Porto Belo": 222,
     "Nova Trento": 217,
     "Itapema": 470,
-    "Blumenau": 455,
+    "Blumenau": 456,
     "Navegantes": 123,
     "Itajai": 448
   },
-  "total_geral": 2609
+  "total_geral": 2610
 }
