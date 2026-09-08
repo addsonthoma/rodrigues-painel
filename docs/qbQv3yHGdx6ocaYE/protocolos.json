@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-08T11:36:11-03:00",
+  "timestamp": "2026-09-08T11:46:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8106,
-      "ultima_verificacao": "2026-09-08T11:36:11-03:00"
+      "ultima_verificacao": "2026-09-08T11:46:31-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-08T11:36:11-03:00"
+      "ultima_verificacao": "2026-09-08T11:46:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1530,
-      "ultima_verificacao": "2026-09-08T11:36:11-03:00"
+      "ultima_verificacao": "2026-09-08T11:46:31-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3883,
-      "ultima_verificacao": "2026-09-08T11:36:11-03:00"
+      "ultimo_numero": 3884,
+      "ultima_verificacao": "2026-09-08T11:46:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-08T11:36:11-03:00"
+      "ultima_verificacao": "2026-09-08T11:46:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-08T11:36:11-03:00"
+      "ultima_verificacao": "2026-09-08T11:46:31-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7212,
-      "ultima_verificacao": "2026-09-08T11:36:11-03:00"
+      "ultima_verificacao": "2026-09-08T11:46:31-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 12999,
-      "ultima_verificacao": "2026-09-08T11:36:11-03:00"
+      "ultima_verificacao": "2026-09-08T11:46:31-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5019,
-      "ultima_verificacao": "2026-09-08T11:36:11-03:00"
+      "ultima_verificacao": "2026-09-08T11:46:31-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14315,
-      "ultima_verificacao": "2026-09-08T11:36:11-03:00"
+      "ultima_verificacao": "2026-09-08T11:46:31-03:00"
     }
   },
   "protocolos": {
@@ -2656,6 +2656,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003884A",
+        "RE": "RE8117003291A",
+        "numgEdificacao": 369451,
+        "Nome_Edificacao": "Ademar Burg",
+        "Logradouro": "Rua David Bonetti",
+        "Numero": "380",
+        "Bairro": "GASPAR - Alto Gasparinho",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-08T11:46:31-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003883A",
         "RE": "RE8117003019A",
@@ -15511,7 +15522,7 @@
     "Brusque": 142,
     "Botuvera": 39,
     "Guabiruba": 55,
-    "Gaspar": 117,
+    "Gaspar": 118,
     "Porto Belo": 108,
     "Nova Trento": 62,
     "Itapema": 165,
@@ -15519,5 +15530,5 @@
     "Navegantes": 122,
     "Itajai": 339
   },
-  "total_geral": 1403
+  "total_geral": 1404
 }
