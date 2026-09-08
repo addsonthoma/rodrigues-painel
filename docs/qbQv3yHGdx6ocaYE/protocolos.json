@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-08T13:57:08-03:00",
+  "timestamp": "2026-09-08T14:07:40-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8106,
-      "ultima_verificacao": "2026-09-08T13:57:08-03:00"
+      "ultima_verificacao": "2026-09-08T14:07:40-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-08T13:57:08-03:00"
+      "ultima_verificacao": "2026-09-08T14:07:40-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1530,
-      "ultima_verificacao": "2026-09-08T13:57:08-03:00"
+      "ultima_verificacao": "2026-09-08T14:07:40-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3884,
-      "ultima_verificacao": "2026-09-08T13:57:08-03:00"
+      "ultima_verificacao": "2026-09-08T14:07:40-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-08T13:57:08-03:00"
+      "ultima_verificacao": "2026-09-08T14:07:40-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-08T13:57:08-03:00"
+      "ultima_verificacao": "2026-09-08T14:07:40-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7212,
-      "ultima_verificacao": "2026-09-08T13:57:08-03:00"
+      "ultima_verificacao": "2026-09-08T14:07:40-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 12999,
-      "ultima_verificacao": "2026-09-08T13:57:08-03:00"
+      "ultimo_numero": 13000,
+      "ultima_verificacao": "2026-09-08T14:07:40-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5020,
-      "ultima_verificacao": "2026-09-08T13:57:08-03:00"
+      "ultima_verificacao": "2026-09-08T14:07:40-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14315,
-      "ultima_verificacao": "2026-09-08T13:57:08-03:00"
+      "ultima_verificacao": "2026-09-08T14:07:40-03:00"
     }
   },
   "protocolos": {
@@ -7647,6 +7647,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013000A",
+        "RE": "RE8047011404A",
+        "numgEdificacao": 337805,
+        "Nome_Edificacao": "COLIBRI INDUSTRIA E COMERCIO DE PLASTICO LTDA",
+        "Logradouro": "Rua Bahia",
+        "Numero": "438",
+        "Bairro": "BLUMENAU - DO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-08T14:07:40-03:00"
+      },
       {
         "CodigoProtocolo": "A8047012999A",
         "RE": "RE8047001591A",
@@ -15537,9 +15548,9 @@
     "Porto Belo": 108,
     "Nova Trento": 62,
     "Itapema": 165,
-    "Blumenau": 254,
+    "Blumenau": 255,
     "Navegantes": 123,
     "Itajai": 339
   },
-  "total_geral": 1405
+  "total_geral": 1406
 }
