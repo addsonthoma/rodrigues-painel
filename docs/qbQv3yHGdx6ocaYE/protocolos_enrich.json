@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T15:07:36-03:00",
+  "timestamp": "2026-09-08T08:24:35-03:00",
   "enrich": {
     "A8055008088A": {
       "area": 892.5,
@@ -95862,7 +95862,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-09-03T20:45:10-03:00"
+      "_drillTs": "2026-09-04T16:40:39-03:00"
     },
     "A8055008091A": {
       "area": 81.6,
@@ -95889,7 +95889,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-09-03T20:45:16-03:00"
+      "_drillTs": "2026-09-04T16:40:45-03:00"
     },
     "A8055008090A": {
       "area": 40,
@@ -95916,7 +95916,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-09-03T20:45:23-03:00"
+      "_drillTs": "2026-09-04T16:40:55-03:00"
     },
     "A8163007201A": {
       "area": 106.36,
@@ -96240,7 +96240,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-09-03T20:43:25-03:00"
+      "_drillTs": "2026-09-04T16:38:31-03:00"
     },
     "A8055008094A": {
       "area": 580.41,
@@ -96297,7 +96297,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-09-03T20:44:16-03:00"
+      "_drillTs": "2026-09-04T16:39:27-03:00"
     },
     "A8055008093A": {
       "area": 15.38,
@@ -96324,7 +96324,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-09-03T20:44:52-03:00"
+      "_drillTs": "2026-09-04T16:40:18-03:00"
     },
     "A8265003381A": {
       "area": 16883.72,
@@ -97588,7 +97588,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-09-03T20:43:18-03:00"
+      "_drillTs": "2026-09-04T16:38:26-03:00"
     },
     "A8051000405A": {
       "area": 84.77,
@@ -98713,7 +98713,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-09-03T20:43:12-03:00"
+      "_drillTs": "2026-09-04T16:38:20-03:00"
     },
     "A8161014288A": {
       "area": 255.5,
@@ -99163,7 +99163,7 @@
         }
       ],
       "relatorio": [],
-      "_drillTs": "2026-09-03T20:43:05-03:00"
+      "_drillTs": "2026-09-04T16:38:06-03:00"
     },
     "A8265003383A": {
       "area": 6247.05,
@@ -103511,6 +103511,68 @@
       ],
       "relatorio": [],
       "_drillTs": "2026-09-04T02:47:24-03:00"
+    },
+    "A8055008103A": {
+      "area": 352.34,
+      "data": "2026-09-04",
+      "deferido": false,
+      "situacao": "Pendente de Pagamento",
+      "codgSituacao": "PENDENTE_PAGAMENTO",
+      "cassado": false,
+      "anulado": false,
+      "suspenso": false,
+      "numgProcesso": "3122327",
+      "numgSolicitacaoProjeto": "523491",
+      "qtdAnexos": 9,
+      "anexos": [
+        {
+          "id": 16050285,
+          "nome": "CBMSC_04-09-2026_16050285.pdf",
+          "desc": "COMPROVANTE DE SOLICITAÇÃO"
+        },
+        {
+          "id": 16050164,
+          "nome": "ART 10664085-5_assinado.pdf",
+          "desc": "Documento de Responsabilidade Técnica da elaboração do Projeto preventivo contra incêndio e dos sistemas preventivos"
+        },
+        {
+          "id": 16050168,
+          "nome": "PCI_MEMORIAL_ROGERIO_REV.00_assinado.pdf",
+          "desc": "Memorial descritivo e Planilha de dimensionamento dos sistemas preventivos"
+        },
+        {
+          "id": 16050243,
+          "nome": "PCI-ROGERIO RUA XXIII - REV 01-A1 - PCI_assinado.pdf",
+          "desc": "Projeto de Prevenção e Segurança Contra Incêndios (PPCI) com assinatura do responsável técnico em todas as pranchas"
+        },
+        {
+          "id": 16050252,
+          "nome": "ARQ-ROGERIO RUA XXIII - REV 03-A1 - 01.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 16050254,
+          "nome": "ARQ-ROGERIO RUA XXIII - REV 03-A1 - 02.pdf",
+          "desc": "Projeto arquitetônico"
+        },
+        {
+          "id": 16050283,
+          "nome": "PROCURAÇÃO - CONSTRUTORA AGUAS CLARAS_assinada.pdf",
+          "desc": "Outros documentos"
+        },
+        {
+          "id": 16050287,
+          "nome": "ANEXO_H_04-09-2026_16050287.pdf",
+          "desc": "ANEXO H - Relatório de conformidade e termo de responsabilidade no processo simplificado de fiscalização"
+        },
+        {
+          "id": 16050288,
+          "nome": "DOC_AUXILIO_04-09-2026_16050288.pdf",
+          "desc": ""
+        }
+      ],
+      "relatorio": [],
+      "_drillTs": "2026-09-04T16:37:59-03:00"
     }
   }
 }
