@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-09T12:50:23-03:00",
+  "timestamp": "2026-09-09T13:00:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 994,
+      "ultimo_numero": 995,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T12:50:23-03:00"
+      "ultima_verificacao": "2026-09-09T13:00:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T12:50:23-03:00"
+      "ultima_verificacao": "2026-09-09T13:00:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 63,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T12:50:23-03:00"
+      "ultima_verificacao": "2026-09-09T13:00:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 632,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T12:50:23-03:00"
+      "ultima_verificacao": "2026-09-09T13:00:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T12:50:23-03:00"
+      "ultima_verificacao": "2026-09-09T13:00:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 528,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T12:50:23-03:00"
+      "ultima_verificacao": "2026-09-09T13:00:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1206,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T12:50:23-03:00"
+      "ultima_verificacao": "2026-09-09T13:00:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1174,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T12:50:23-03:00"
+      "ultima_verificacao": "2026-09-09T13:00:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 330,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T12:50:23-03:00"
+      "ultima_verificacao": "2026-09-09T13:00:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1205,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T12:50:23-03:00"
+      "ultima_verificacao": "2026-09-09T13:00:19-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055000995A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004687A",
+        "Nome_Edificacao": "CLEGITAM INDUSTRIA E COMERCIO DE CONFECCOES LTDA",
+        "Logradouro": "R DJ - 042",
+        "Numero": "698",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-09T13:00:19-03:00"
+      },
       {
         "CodigoAuto": "AF8055000994A/26",
         "Tipo": "AF",
@@ -28993,7 +29004,7 @@
     ]
   },
   "totais": {
-    "Brusque": 384,
+    "Brusque": 385,
     "Botuvera": 33,
     "Guabiruba": 43,
     "Gaspar": 217,
@@ -29004,5 +29015,5 @@
     "Navegantes": 126,
     "Itajai": 452
   },
-  "total_geral": 2628
+  "total_geral": 2629
 }
