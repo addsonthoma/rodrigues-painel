@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-09T20:00:03-03:00",
+  "timestamp": "2026-09-09T20:10:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 125,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T20:00:03-03:00"
+      "ultima_verificacao": "2026-09-09T20:10:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T20:00:03-03:00"
+      "ultima_verificacao": "2026-09-09T20:10:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T20:00:03-03:00"
+      "ultima_verificacao": "2026-09-09T20:10:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 59,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T20:00:03-03:00"
+      "ultima_verificacao": "2026-09-09T20:10:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 117,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T20:00:03-03:00"
+      "ultima_verificacao": "2026-09-09T20:10:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 144,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T20:00:03-03:00"
+      "ultima_verificacao": "2026-09-09T20:10:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 200,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T20:00:03-03:00"
+      "ultima_verificacao": "2026-09-09T20:10:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 249,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T20:00:03-03:00"
+      "ultima_verificacao": "2026-09-09T20:10:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 94,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T20:00:03-03:00"
+      "ultima_verificacao": "2026-09-09T20:10:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 439,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T20:00:03-03:00"
+      "ultima_verificacao": "2026-09-09T20:10:03-03:00"
     }
   },
   "multas": {
@@ -6395,6 +6395,265 @@
   },
   "total_geral": 642,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-09T15:20:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000249A/26",
+      "nome": "ROTABELA COMERCIO E AUTO CENTER EIRELI",
+      "re": "RE8047004808A"
+    },
+    {
+      "ts": "2026-09-09T15:10:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000248A/26",
+      "nome": "HILARIO KRETZ",
+      "re": "RE8047003248A"
+    },
+    {
+      "ts": "2026-09-09T14:30:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000247A/26",
+      "nome": "VILA ESPORTIVA BERNARDO WERNER",
+      "re": "RE8047003941A"
+    },
+    {
+      "ts": "2026-09-09T14:30:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000200A/26",
+      "nome": "SOLAR DOS IPÊS",
+      "re": "RE8163000799A"
+    },
+    {
+      "ts": "2026-09-09T14:30:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000199A/26",
+      "nome": "GALPãO COMERCIAL",
+      "re": "RE8163005840A"
+    },
+    {
+      "ts": "2026-09-09T14:30:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000198A/26",
+      "nome": "Comercial  Almefe III",
+      "re": "RE8163005818A"
+    },
+    {
+      "ts": "2026-09-09T14:10:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000197A/26",
+      "nome": "PÉ DA MONTANHA",
+      "re": "RE8163001391A"
+    },
+    {
+      "ts": "2026-09-09T13:50:04-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000125A/26",
+      "nome": "CLETO RISTOW",
+      "re": "RE8055000593A"
+    },
+    {
+      "ts": "2026-09-09T13:40:04-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000094A/26",
+      "nome": "FLAVIO ADRIANO",
+      "re": "RE8221000621A"
+    },
+    {
+      "ts": "2026-09-09T13:40:04-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000124A/26",
+      "nome": "GALPÃO FABRICIO",
+      "re": "RE8055003343A"
+    },
+    {
+      "ts": "2026-09-09T12:50:03-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000059A/26",
+      "nome": "JOSE CLAUDIO DEMMER",
+      "re": "RE8117001658A"
+    },
+    {
+      "ts": "2026-09-09T12:20:03-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000058A/26",
+      "nome": "ADILSON THEISS",
+      "re": "RE8117001883A"
+    },
+    {
+      "ts": "2026-09-09T09:20:08-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000057A/26",
+      "nome": "JOSE CARLOS NILSEN",
+      "re": "RE8117000447A"
+    },
+    {
+      "ts": "2026-09-09T09:00:04-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000056A/26",
+      "nome": "ANICETO DERETTI",
+      "re": "RE8117001885A"
+    },
+    {
+      "ts": "2026-09-09T08:50:05-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000055A/26",
+      "nome": "STYLLO BOX EMBALAGENS LTDA",
+      "re": "RE8117003060A"
+    },
+    {
+      "ts": "2026-09-08T16:10:04-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000123A/26",
+      "nome": "IDALETE TORMENA",
+      "re": "RE8055003549A"
+    },
+    {
+      "ts": "2026-09-08T16:00:04-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000122A/26",
+      "nome": "OTAVIO ROMANO PEDRINI",
+      "re": "RE8055004833A"
+    },
+    {
+      "ts": "2026-09-08T15:50:04-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000054A/26",
+      "nome": "CARLOS ISENSEE",
+      "re": "RE8117002364A"
+    },
+    {
+      "ts": "2026-09-08T15:50:04-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000121A/26",
+      "nome": "Galpão Carlos Day",
+      "re": "RE8055002391A"
+    },
+    {
+      "ts": "2026-09-08T15:20:04-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000053A/26",
+      "nome": "SERVICOS DE TORNEARIA GASPAR GRANDE LTDA",
+      "re": "RE8117002894A"
+    },
+    {
+      "ts": "2026-09-08T14:40:03-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000093A/26",
+      "nome": "VITORIA RESTAURANTE LTDA",
+      "re": "RE8221004042A"
+    },
+    {
+      "ts": "2026-09-08T14:40:03-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000092A/26",
+      "nome": "EDIFICIO TESSERIS RESIDENCE",
+      "re": "RE8221001479A"
+    },
+    {
+      "ts": "2026-09-08T14:10:04-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000052A/26",
+      "nome": "ELEOMAR OSCAR DA SILVA",
+      "re": "RE8117002411A"
+    },
+    {
+      "ts": "2026-09-08T14:10:04-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000051A/26",
+      "nome": "ELPIDIO LUIZ SCHNAIDER",
+      "re": "RE8117003027A"
+    },
+    {
+      "ts": "2026-09-08T14:00:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000439A/26",
+      "nome": "VOLNEI PAULO VOGEL",
+      "re": "RE8161006124A"
+    },
+    {
+      "ts": "2026-09-08T13:50:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000438A/26",
+      "nome": "D&G PARTICIPAÇÕES SOCIETÁRIAS EIRELI",
+      "re": "RE8161001872A"
+    },
+    {
+      "ts": "2026-09-08T13:50:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000246A/26",
+      "nome": "****************",
+      "re": "RE8047009968A"
+    },
+    {
+      "ts": "2026-09-08T13:50:03-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000120A/26",
+      "nome": "Edificações Comerciais",
+      "re": "RE8055002713A"
+    },
+    {
+      "ts": "2026-09-08T09:30:04-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000117A/26",
+      "nome": "SUPER ATACADISTA LTDA",
+      "re": "RE8265002023A"
+    },
+    {
+      "ts": "2026-09-08T09:10:04-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000116A/26",
+      "nome": "ANTONIO CARLOS CABRAL",
+      "re": "RE8265001418A"
+    },
+    {
+      "ts": "2026-09-04T13:40:06-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000245A/26",
+      "nome": "ANTONIO CANDIDO DA SILVA",
+      "re": "RE8047011317A"
+    },
+    {
+      "ts": "2026-09-04T13:40:06-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000050A/26",
+      "nome": "SUANY ELISABETH BINSFELD",
+      "re": "RE8117000132A"
+    },
+    {
+      "ts": "2026-09-04T13:10:24-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000196A/26",
+      "nome": "Spa Pet Estrela do Mar",
+      "re": "RE8163006716A"
+    },
+    {
+      "ts": "2026-09-04T13:00:15-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000195A/26",
+      "nome": "COND. RES. ROSA MISTICA",
+      "re": "RE8163003944A"
+    },
+    {
+      "ts": "2026-09-04T08:32:00-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000144A/26",
+      "nome": "GERCINO RAISER",
+      "re": "RE8225000062A"
+    },
+    {
+      "ts": "2026-09-04T08:32:00-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000143A/26",
+      "nome": "ZELI TEREZINHA MALESKI",
+      "re": "RE8225000234A"
+    },
+    {
+      "ts": "2026-09-04T08:10:14-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000115A/26",
+      "nome": "HEITOR JOSÉ DINON",
+      "re": "RE8265000888A"
+    },
     {
       "ts": "2026-09-03T15:33:46-03:00",
       "cidade": "Itajai",
