@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-09T10:26:46-03:00",
+  "timestamp": "2026-09-09T10:36:44-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8109,
-      "ultima_verificacao": "2026-09-09T10:26:46-03:00"
+      "ultima_verificacao": "2026-09-09T10:36:44-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-09T10:26:46-03:00"
+      "ultima_verificacao": "2026-09-09T10:36:44-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1531,
-      "ultima_verificacao": "2026-09-09T10:26:46-03:00"
+      "ultimo_numero": 1532,
+      "ultima_verificacao": "2026-09-09T10:36:44-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3884,
-      "ultima_verificacao": "2026-09-09T10:26:46-03:00"
+      "ultima_verificacao": "2026-09-09T10:36:44-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-09T10:26:46-03:00"
+      "ultima_verificacao": "2026-09-09T10:36:44-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-09T10:26:46-03:00"
+      "ultima_verificacao": "2026-09-09T10:36:44-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7212,
-      "ultima_verificacao": "2026-09-09T10:26:46-03:00"
+      "ultima_verificacao": "2026-09-09T10:36:44-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13000,
-      "ultima_verificacao": "2026-09-09T10:26:46-03:00"
+      "ultima_verificacao": "2026-09-09T10:36:44-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5023,
-      "ultima_verificacao": "2026-09-09T10:26:46-03:00"
+      "ultima_verificacao": "2026-09-09T10:36:44-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14319,
-      "ultima_verificacao": "2026-09-09T10:26:46-03:00"
+      "ultima_verificacao": "2026-09-09T10:36:44-03:00"
     }
   },
   "protocolos": {
@@ -2082,6 +2082,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001532A",
+        "RE": "RE8123001216A",
+        "numgEdificacao": 369821,
+        "Nome_Edificacao": "ALTOR CONSTRUTORA E INCORPORADORA LTDA",
+        "Logradouro": "RUA IMI 006",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - IMIGRANTES",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-09-09T10:36:44-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001531A",
         "RE": "RE8123001215A",
@@ -15664,7 +15675,7 @@
   "totais": {
     "Brusque": 145,
     "Botuvera": 39,
-    "Guabiruba": 56,
+    "Guabiruba": 57,
     "Gaspar": 118,
     "Porto Belo": 108,
     "Nova Trento": 62,
@@ -15673,5 +15684,5 @@
     "Navegantes": 126,
     "Itajai": 343
   },
-  "total_geral": 1417
+  "total_geral": 1418
 }
