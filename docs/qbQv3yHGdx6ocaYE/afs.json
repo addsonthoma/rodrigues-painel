@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-08T17:10:21-03:00",
+  "timestamp": "2026-09-09T08:10:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 992,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T17:10:21-03:00"
+      "ultima_verificacao": "2026-09-09T08:10:57-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T17:10:21-03:00"
+      "ultima_verificacao": "2026-09-09T08:10:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 62,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T17:10:21-03:00"
+      "ultima_verificacao": "2026-09-09T08:10:57-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 632,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T17:10:21-03:00"
+      "ultima_verificacao": "2026-09-09T08:10:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T17:10:21-03:00"
+      "ultima_verificacao": "2026-09-09T08:10:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 527,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T17:10:21-03:00"
+      "ultima_verificacao": "2026-09-09T08:10:57-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1204,
+      "ultimo_numero": 1205,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T17:10:21-03:00"
+      "ultima_verificacao": "2026-09-09T08:10:57-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1170,
+      "ultimo_numero": 1171,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T17:10:21-03:00"
+      "ultima_verificacao": "2026-09-09T08:10:57-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 328,
+      "ultimo_numero": 329,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T17:10:21-03:00"
+      "ultima_verificacao": "2026-09-09T08:10:57-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1201,
+      "ultimo_numero": 1202,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-08T17:10:21-03:00"
+      "ultima_verificacao": "2026-09-09T08:10:57-03:00"
     }
   },
   "afs": {
@@ -12320,6 +12320,17 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163001205A/26",
+        "Tipo": "AF",
+        "RE": "RE8163000273A",
+        "Nome_Edificacao": "RESIDENCIAL ALFREDO",
+        "Logradouro": "Rua 266",
+        "Numero": "120",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-08T17:20:21-03:00"
+      },
+      {
         "CodigoAuto": "AF8163001204A/26",
         "Tipo": "AF",
         "RE": "RE8163000118A",
@@ -17492,6 +17503,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001171A/26",
+        "Tipo": "AF",
+        "RE": "RE8047004266A",
+        "Nome_Edificacao": "DIONYSIO BERNARDO SAUER",
+        "Logradouro": "RUA QUINZE DE NOVEMBRO",
+        "Numero": "520",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-09T08:10:57-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001170A/26",
         "Tipo": "AF",
         "RE": "RE8047000774A",
@@ -22521,6 +22543,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000329A/26",
+        "Tipo": "AF",
+        "RE": "RE8221003003A",
+        "Nome_Edificacao": "C.M.E.I. PROF. DIDYMEA LAZZARES DE OLIVEIRA",
+        "Logradouro": "Rua Dorival Borges de Oliveira",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-09T08:10:57-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000328A/26",
         "Tipo": "AF",
         "RE": "RE8221002575A",
@@ -23886,6 +23919,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "AF8161001202A/26",
+        "Tipo": "AF",
+        "RE": "RE8161004748A",
+        "Nome_Edificacao": "ZANETTE INDUSTRIA E COMERCIO DE INOX LTDA",
+        "Logradouro": "Rua Olímpio Manoel Cabral",
+        "Numero": "147",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-09T08:10:57-03:00"
+      },
       {
         "CodigoAuto": "AF8161001201A/26",
         "Tipo": "AF",
@@ -28823,10 +28867,10 @@
     "Gaspar": 217,
     "Porto Belo": 222,
     "Nova Trento": 217,
-    "Itapema": 470,
-    "Blumenau": 457,
-    "Navegantes": 124,
-    "Itajai": 448
+    "Itapema": 471,
+    "Blumenau": 458,
+    "Navegantes": 125,
+    "Itajai": 449
   },
-  "total_geral": 2612
+  "total_geral": 2616
 }
