@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-09-09T14:10:04-03:00",
+  "timestamp": "2026-09-09T14:30:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 125,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T14:10:04-03:00"
+      "ultima_verificacao": "2026-09-09T14:30:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T14:10:04-03:00"
+      "ultima_verificacao": "2026-09-09T14:30:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T14:10:04-03:00"
+      "ultima_verificacao": "2026-09-09T14:30:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 59,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T14:10:04-03:00"
+      "ultima_verificacao": "2026-09-09T14:30:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 117,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T14:10:04-03:00"
+      "ultima_verificacao": "2026-09-09T14:30:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 144,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T14:10:04-03:00"
+      "ultima_verificacao": "2026-09-09T14:30:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 197,
+      "ultimo_numero": 200,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T14:10:04-03:00"
+      "ultima_verificacao": "2026-09-09T14:30:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 246,
+      "ultimo_numero": 247,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T14:10:04-03:00"
+      "ultima_verificacao": "2026-09-09T14:30:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 94,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T14:10:04-03:00"
+      "ultima_verificacao": "2026-09-09T14:30:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 439,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-09T14:10:04-03:00"
+      "ultima_verificacao": "2026-09-09T14:30:04-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000247A/26",
+        "RE": "RE8047003941A",
+        "Nome_Edificacao": "VILA ESPORTIVA BERNARDO WERNER",
+        "Logradouro": "Rua Itajaí",
+        "Numero": "3434",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-09T14:30:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000246A/26",
         "RE": "RE8047009968A",
@@ -3809,6 +3819,36 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000198A/26",
+        "RE": "RE8163005818A",
+        "Nome_Edificacao": "Comercial  Almefe III",
+        "Logradouro": "RUA _ 456",
+        "Numero": "",
+        "Bairro": "ITAPEMA - LEOPOLDO ZARLING",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-09T14:30:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000199A/26",
+        "RE": "RE8163005840A",
+        "Nome_Edificacao": "GALPãO COMERCIAL",
+        "Logradouro": "Rua 456",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-09T14:30:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000200A/26",
+        "RE": "RE8163000799A",
+        "Nome_Edificacao": "SOLAR DOS IPÊS",
+        "Logradouro": "Rua 814",
+        "Numero": "",
+        "Bairro": "ITAPEMA - CASA BRANCA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-09T14:30:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000197A/26",
         "RE": "RE8163001391A",
         "Nome_Edificacao": "PÉ DA MONTANHA",
@@ -6322,19 +6362,47 @@
     ]
   },
   "totais": {
-    "Blumenau": 111,
+    "Blumenau": 112,
     "Botuvera": 3,
     "Brusque": 70,
     "Gaspar": 35,
     "Guabiruba": 3,
     "Itajai": 157,
-    "Itapema": 80,
+    "Itapema": 83,
     "Navegantes": 56,
     "Nova Trento": 61,
     "Porto Belo": 60
   },
-  "total_geral": 636,
+  "total_geral": 640,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-09T14:30:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000247A/26",
+      "nome": "VILA ESPORTIVA BERNARDO WERNER",
+      "re": "RE8047003941A"
+    },
+    {
+      "ts": "2026-09-09T14:30:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000200A/26",
+      "nome": "SOLAR DOS IPÊS",
+      "re": "RE8163000799A"
+    },
+    {
+      "ts": "2026-09-09T14:30:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000199A/26",
+      "nome": "GALPãO COMERCIAL",
+      "re": "RE8163005840A"
+    },
+    {
+      "ts": "2026-09-09T14:30:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000198A/26",
+      "nome": "Comercial  Almefe III",
+      "re": "RE8163005818A"
+    },
     {
       "ts": "2026-09-09T14:10:04-03:00",
       "cidade": "Itapema",

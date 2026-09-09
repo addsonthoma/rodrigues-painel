@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-09T14:18:16-03:00",
+  "timestamp": "2026-09-09T14:37:16-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8109,
-      "ultima_verificacao": "2026-09-09T14:18:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-09T14:18:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1532,
-      "ultima_verificacao": "2026-09-09T14:18:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3885,
-      "ultima_verificacao": "2026-09-09T14:18:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-09T14:18:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-09T14:18:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7212,
-      "ultima_verificacao": "2026-09-09T14:18:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13002,
-      "ultima_verificacao": "2026-09-09T14:18:16-03:00"
+      "ultimo_numero": 13003,
+      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5023,
-      "ultima_verificacao": "2026-09-09T14:18:16-03:00"
+      "ultimo_numero": 5024,
+      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14321,
-      "ultima_verificacao": "2026-09-09T14:18:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
     }
   },
   "protocolos": {
@@ -7714,6 +7714,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047013003A",
+        "RE": "RE8047012138A",
+        "numgEdificacao": 369856,
+        "Nome_Edificacao": "RESIDENCIAL MALBEC",
+        "Logradouro": "Rua Jacob Morsch",
+        "Numero": "188",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-09T14:37:16-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047013002A",
         "RE": "RE8047011723A",
         "numgEdificacao": 352185,
@@ -10542,6 +10553,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoProtocolo": "A8221005024A",
+        "RE": "RE8221004142A",
+        "numgEdificacao": 369265,
+        "Nome_Edificacao": "TIAGO ALEXSANDRO PACHECO",
+        "Logradouro": "Rua Geraldo José Borba",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - Meia Praia",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-09T14:37:16-03:00"
+      },
       {
         "CodigoProtocolo": "A8221005023A",
         "RE": "RE8221001278A",
@@ -15735,9 +15757,9 @@
     "Porto Belo": 108,
     "Nova Trento": 62,
     "Itapema": 165,
-    "Blumenau": 257,
-    "Navegantes": 126,
+    "Blumenau": 258,
+    "Navegantes": 127,
     "Itajai": 345
   },
-  "total_geral": 1423
+  "total_geral": 1425
 }
