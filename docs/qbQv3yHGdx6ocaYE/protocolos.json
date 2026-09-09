@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-09T15:57:36-03:00",
+  "timestamp": "2026-09-09T16:07:17-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8109,
-      "ultima_verificacao": "2026-09-09T15:57:36-03:00"
+      "ultima_verificacao": "2026-09-09T16:07:17-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-09T15:57:36-03:00"
+      "ultima_verificacao": "2026-09-09T16:07:17-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1532,
-      "ultima_verificacao": "2026-09-09T15:57:36-03:00"
+      "ultimo_numero": 1533,
+      "ultima_verificacao": "2026-09-09T16:07:17-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3885,
-      "ultima_verificacao": "2026-09-09T15:57:36-03:00"
+      "ultima_verificacao": "2026-09-09T16:07:17-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-09T15:57:36-03:00"
+      "ultima_verificacao": "2026-09-09T16:07:17-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-09T15:57:36-03:00"
+      "ultima_verificacao": "2026-09-09T16:07:17-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7213,
-      "ultima_verificacao": "2026-09-09T15:57:36-03:00"
+      "ultima_verificacao": "2026-09-09T16:07:17-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13005,
-      "ultima_verificacao": "2026-09-09T15:57:36-03:00"
+      "ultima_verificacao": "2026-09-09T16:07:17-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5024,
-      "ultima_verificacao": "2026-09-09T15:57:36-03:00"
+      "ultima_verificacao": "2026-09-09T16:07:17-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14323,
-      "ultima_verificacao": "2026-09-09T15:57:36-03:00"
+      "ultima_verificacao": "2026-09-09T16:07:17-03:00"
     }
   },
   "protocolos": {
@@ -2082,6 +2082,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001533A",
+        "RE": "RE8123001217A",
+        "numgEdificacao": 369882,
+        "Nome_Edificacao": "FRANCISCO VANIO KORMANN - RESIDENCIAL MULTIFAMILIAR",
+        "Logradouro": "ADOLFO KORMANN",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-09-09T16:07:17-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001532A",
         "RE": "RE8123001216A",
@@ -15807,7 +15818,7 @@
   "totais": {
     "Brusque": 145,
     "Botuvera": 39,
-    "Guabiruba": 57,
+    "Guabiruba": 58,
     "Gaspar": 119,
     "Porto Belo": 108,
     "Nova Trento": 62,
@@ -15816,5 +15827,5 @@
     "Navegantes": 127,
     "Itajai": 347
   },
-  "total_geral": 1430
+  "total_geral": 1431
 }
