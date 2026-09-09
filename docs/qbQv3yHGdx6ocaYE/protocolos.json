@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-09T10:47:09-03:00",
+  "timestamp": "2026-09-09T10:56:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8109,
-      "ultima_verificacao": "2026-09-09T10:47:09-03:00"
+      "ultima_verificacao": "2026-09-09T10:56:34-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-09T10:47:09-03:00"
+      "ultima_verificacao": "2026-09-09T10:56:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1532,
-      "ultima_verificacao": "2026-09-09T10:47:09-03:00"
+      "ultima_verificacao": "2026-09-09T10:56:34-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3884,
-      "ultima_verificacao": "2026-09-09T10:47:09-03:00"
+      "ultimo_numero": 3885,
+      "ultima_verificacao": "2026-09-09T10:56:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-09T10:47:09-03:00"
+      "ultima_verificacao": "2026-09-09T10:56:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-09T10:47:09-03:00"
+      "ultima_verificacao": "2026-09-09T10:56:34-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7212,
-      "ultima_verificacao": "2026-09-09T10:47:09-03:00"
+      "ultima_verificacao": "2026-09-09T10:56:34-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13000,
-      "ultima_verificacao": "2026-09-09T10:47:09-03:00"
+      "ultima_verificacao": "2026-09-09T10:56:34-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5023,
-      "ultima_verificacao": "2026-09-09T10:47:09-03:00"
+      "ultima_verificacao": "2026-09-09T10:56:34-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14319,
-      "ultima_verificacao": "2026-09-09T10:47:09-03:00"
+      "ultima_verificacao": "2026-09-09T10:56:34-03:00"
     }
   },
   "protocolos": {
@@ -2711,6 +2711,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003885A",
+        "RE": "RE8117003102A",
+        "numgEdificacao": 343854,
+        "Nome_Edificacao": "RZ Sistemas Ltda",
+        "Logradouro": "Rua José Honorato Muller",
+        "Numero": "",
+        "Bairro": "GASPAR - COLONINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-09T10:56:34-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003884A",
         "RE": "RE8117003291A",
@@ -15676,7 +15687,7 @@
     "Brusque": 145,
     "Botuvera": 39,
     "Guabiruba": 57,
-    "Gaspar": 118,
+    "Gaspar": 119,
     "Porto Belo": 108,
     "Nova Trento": 62,
     "Itapema": 165,
@@ -15684,5 +15695,5 @@
     "Navegantes": 126,
     "Itajai": 343
   },
-  "total_geral": 1418
+  "total_geral": 1419
 }
