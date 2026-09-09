@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-09T12:16:08-03:00",
+  "timestamp": "2026-09-09T12:26:50-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8109,
-      "ultima_verificacao": "2026-09-09T12:16:08-03:00"
+      "ultima_verificacao": "2026-09-09T12:26:50-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-09T12:16:08-03:00"
+      "ultima_verificacao": "2026-09-09T12:26:50-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1532,
-      "ultima_verificacao": "2026-09-09T12:16:08-03:00"
+      "ultima_verificacao": "2026-09-09T12:26:50-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3885,
-      "ultima_verificacao": "2026-09-09T12:16:08-03:00"
+      "ultima_verificacao": "2026-09-09T12:26:50-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-09T12:16:08-03:00"
+      "ultima_verificacao": "2026-09-09T12:26:50-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-09T12:16:08-03:00"
+      "ultima_verificacao": "2026-09-09T12:26:50-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7212,
-      "ultima_verificacao": "2026-09-09T12:16:08-03:00"
+      "ultima_verificacao": "2026-09-09T12:26:50-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13000,
-      "ultima_verificacao": "2026-09-09T12:16:08-03:00"
+      "ultima_verificacao": "2026-09-09T12:26:50-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5023,
-      "ultima_verificacao": "2026-09-09T12:16:08-03:00"
+      "ultima_verificacao": "2026-09-09T12:26:50-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14319,
-      "ultima_verificacao": "2026-09-09T12:16:08-03:00"
+      "ultimo_numero": 14320,
+      "ultima_verificacao": "2026-09-09T12:26:50-03:00"
     }
   },
   "protocolos": {
@@ -11909,6 +11909,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014320A",
+        "RE": "RE8161013878A",
+        "numgEdificacao": 369845,
+        "Nome_Edificacao": "LUMAR ADMINISTRADORA DE BENS LTDA - ME",
+        "Logradouro": "Rua Jovita da Costa Ramos",
+        "Numero": "257",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-09T12:26:50-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014319A",
         "RE": "RE8161013877A",
         "numgEdificacao": 369799,
@@ -15693,7 +15704,7 @@
     "Itapema": 165,
     "Blumenau": 255,
     "Navegantes": 126,
-    "Itajai": 343
+    "Itajai": 344
   },
-  "total_geral": 1419
+  "total_geral": 1420
 }
