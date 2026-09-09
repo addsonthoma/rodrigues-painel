@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-09T14:37:16-03:00",
+  "timestamp": "2026-09-09T14:47:29-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8109,
-      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:47:29-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:47:29-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1532,
-      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:47:29-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3885,
-      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:47:29-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:47:29-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:47:29-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7212,
-      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
+      "ultimo_numero": 7213,
+      "ultima_verificacao": "2026-09-09T14:47:29-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13003,
-      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:47:29-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5024,
-      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
+      "ultima_verificacao": "2026-09-09T14:47:29-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14321,
-      "ultima_verificacao": "2026-09-09T14:37:16-03:00"
+      "ultimo_numero": 14322,
+      "ultima_verificacao": "2026-09-09T14:47:29-03:00"
     }
   },
   "protocolos": {
@@ -5896,6 +5896,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007213A",
+        "RE": "RE8163006882A",
+        "numgEdificacao": 369866,
+        "Nome_Edificacao": "Roberto Rivelino Martins Ferreira",
+        "Logradouro": "RUA 430 B",
+        "Numero": "397",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-09T14:47:29-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007212A",
         "RE": "RE8163004504A",
@@ -11953,6 +11964,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014322A",
+        "RE": "RE8161013840A",
+        "numgEdificacao": 368603,
+        "Nome_Edificacao": "RESIDENCIAL SOLAR DA VILA",
+        "Logradouro": "R FIUZA LIMA",
+        "Numero": "516",
+        "Bairro": "ITAJAÍ - SÃO JUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-09T14:47:29-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014321A",
         "RE": "RE8161013879A",
         "numgEdificacao": 369848,
@@ -15756,10 +15778,10 @@
     "Gaspar": 119,
     "Porto Belo": 108,
     "Nova Trento": 62,
-    "Itapema": 165,
+    "Itapema": 166,
     "Blumenau": 258,
     "Navegantes": 127,
-    "Itajai": 345
+    "Itajai": 346
   },
-  "total_geral": 1425
+  "total_geral": 1427
 }
