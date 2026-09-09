@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-09T14:57:25-03:00",
+  "timestamp": "2026-09-09T15:07:59-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8109,
-      "ultima_verificacao": "2026-09-09T14:57:25-03:00"
+      "ultima_verificacao": "2026-09-09T15:07:59-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-09T14:57:25-03:00"
+      "ultima_verificacao": "2026-09-09T15:07:59-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1532,
-      "ultima_verificacao": "2026-09-09T14:57:25-03:00"
+      "ultima_verificacao": "2026-09-09T15:07:59-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3885,
-      "ultima_verificacao": "2026-09-09T14:57:25-03:00"
+      "ultima_verificacao": "2026-09-09T15:07:59-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-09T14:57:25-03:00"
+      "ultima_verificacao": "2026-09-09T15:07:59-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-09T14:57:25-03:00"
+      "ultima_verificacao": "2026-09-09T15:07:59-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7213,
-      "ultima_verificacao": "2026-09-09T14:57:25-03:00"
+      "ultima_verificacao": "2026-09-09T15:07:59-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13003,
-      "ultima_verificacao": "2026-09-09T14:57:25-03:00"
+      "ultimo_numero": 13004,
+      "ultima_verificacao": "2026-09-09T15:07:59-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5024,
-      "ultima_verificacao": "2026-09-09T14:57:25-03:00"
+      "ultima_verificacao": "2026-09-09T15:07:59-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14322,
-      "ultima_verificacao": "2026-09-09T14:57:25-03:00"
+      "ultima_verificacao": "2026-09-09T15:07:59-03:00"
     }
   },
   "protocolos": {
@@ -7724,6 +7724,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013004A",
+        "RE": "RE8047012139A",
+        "numgEdificacao": 369869,
+        "Nome_Edificacao": "HORST BOEHME",
+        "Logradouro": "RUA FRANCISCO VAHLDIECK",
+        "Numero": "1803",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-09T15:07:59-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013003A",
         "RE": "RE8047012138A",
@@ -15779,9 +15790,9 @@
     "Porto Belo": 108,
     "Nova Trento": 62,
     "Itapema": 166,
-    "Blumenau": 258,
+    "Blumenau": 259,
     "Navegantes": 127,
     "Itajai": 346
   },
-  "total_geral": 1427
+  "total_geral": 1428
 }

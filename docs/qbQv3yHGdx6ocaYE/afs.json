@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-09T14:50:27-03:00",
+  "timestamp": "2026-09-09T15:00:35-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 996,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T14:50:27-03:00"
+      "ultima_verificacao": "2026-09-09T15:00:35-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T14:50:27-03:00"
+      "ultima_verificacao": "2026-09-09T15:00:35-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 63,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T14:50:27-03:00"
+      "ultima_verificacao": "2026-09-09T15:00:35-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 632,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T14:50:27-03:00"
+      "ultima_verificacao": "2026-09-09T15:00:35-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T14:50:27-03:00"
+      "ultima_verificacao": "2026-09-09T15:00:35-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 530,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T14:50:27-03:00"
+      "ultima_verificacao": "2026-09-09T15:00:35-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1207,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T14:50:27-03:00"
+      "ultima_verificacao": "2026-09-09T15:00:35-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1174,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T14:50:27-03:00"
+      "ultima_verificacao": "2026-09-09T15:00:35-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 337,
+      "ultimo_numero": 338,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T14:50:27-03:00"
+      "ultima_verificacao": "2026-09-09T15:00:35-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1205,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-09T14:50:27-03:00"
+      "ultima_verificacao": "2026-09-09T15:00:35-03:00"
     }
   },
   "afs": {
@@ -22686,6 +22686,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000338A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000511A",
+        "Nome_Edificacao": "EEB São José",
+        "Logradouro": "Rua Vereador Loureci Soares da Silva",
+        "Numero": "3822",
+        "Bairro": "NAVEGANTES - ESCALVADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-09T15:00:35-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000337A/26",
         "Tipo": "AF",
         "RE": "RE8221002864A",
@@ -29133,8 +29144,8 @@
     "Nova Trento": 220,
     "Itapema": 473,
     "Blumenau": 461,
-    "Navegantes": 133,
+    "Navegantes": 134,
     "Itajai": 452
   },
-  "total_geral": 2640
+  "total_geral": 2641
 }
