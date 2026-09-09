@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-09T14:36:34-03:00",
-  "total": 4904,
+  "timestamp": "2026-09-09T16:36:49-03:00",
+  "total": 4933,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -588,7 +588,7 @@
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1788975220.132898
+      "_ts": 1788982411.0187025
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1788975220.1329246
+      "_ts": 1788982411.018732
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1788975220.1329136
+      "_ts": 1788982411.0187218
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5107,7 +5107,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1788975210.8125255
+      "_ts": 1788982394.5665112
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5127,7 +5127,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1788975210.8124907
+      "_ts": 1788982394.566405
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5334,7 +5334,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1788975294.9531708
+      "_ts": 1788982469.7602162
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -8128,6 +8128,7 @@
     },
     "AF8221000385A/24": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": 1641.38,
       "cidade": "NAVEGANTES",
       "responsavel": "Secretaria Municipal de Educação",
       "cpfCnpj": "30481875000113",
@@ -8138,15 +8139,16 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "31/07/2026",
-      "prazoDias": 51,
+      "prazoDias": -40,
       "bombeiroAutuacao": "Sd Sergio Amaral CORREA Junior",
       "bloco": "E.M. PROFª ROSA MARIA XAVIER DE ARAUJO",
       "codgAuto": "AF8221000385A/24",
       "numgAuto": 302589,
-      "_ts": 1781073091.6378617
+      "_ts": 1788982600.6145942
     },
     "AF8221000399A/24": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": 1641.38,
       "cidade": "NAVEGANTES",
       "responsavel": "Secretaria Municipal de Educação",
       "cpfCnpj": "30481875000113",
@@ -8157,15 +8159,16 @@
         "Executar sistema de alarme de incêndio"
       ],
       "dataPrazo": "01/08/2026",
-      "prazoDias": 52,
+      "prazoDias": -39,
       "bombeiroAutuacao": "1º Sgt EVANDRO de Oliveira Vargas",
       "bloco": "E.M. PROFª ROSA MARIA XAVIER DE ARAUJO",
       "codgAuto": "AF8221000399A/24",
       "numgAuto": 304079,
-      "_ts": 1781073091.6378706
+      "_ts": 1788982600.614611
     },
     "AF8221000217A/26": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": 1641.38,
       "cidade": "NAVEGANTES",
       "responsavel": "Secretaria Municipal de Educação",
       "cpfCnpj": "30481875000113",
@@ -8175,13 +8178,13 @@
       "exigencias": [
         "Solicitar vistoria para habite-se"
       ],
-      "dataPrazo": "29/11/2026",
-      "prazoDias": 172,
+      "dataPrazo": "11/12/2026",
+      "prazoDias": 93,
       "bombeiroAutuacao": "Sd Alexandre Cesar REISER",
       "bloco": "E.M. PROFª ROSA MARIA XAVIER DE ARAUJO",
       "codgAuto": "AF8221000217A/26",
       "numgAuto": 499796,
-      "_ts": 1781073091.6378727
+      "_ts": 1788982600.6146646
     },
     "AF8221000216A/26": {
       "tipo": "FISCALIZACAO",
@@ -9443,7 +9446,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1788975204.0808828
+      "_ts": 1788982386.5745115
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9457,7 +9460,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1788975230.220925
+      "_ts": 1788982419.6050856
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -9471,7 +9474,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000015A/26",
-      "_ts": 1788975249.180924
+      "_ts": 1788982429.7091928
     },
     "AF8051000014A/26": {
       "tipo": "AF",
@@ -9485,7 +9488,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000014A/26",
-      "_ts": 1788975256.5797024
+      "_ts": 1788982445.2558827
     },
     "AF8051000011A/26": {
       "tipo": "AF",
@@ -9527,7 +9530,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000044A/26",
-      "_ts": 1788975309.6463652
+      "_ts": 1788982483.190852
     },
     "AF8123000040A/26": {
       "tipo": "AF",
@@ -13995,7 +13998,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1788975288.2757618
+      "_ts": 1788982462.5621
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -29322,6 +29325,7 @@
     },
     "AF8221000161A/23": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "651",
       "cidade": "NAVEGANTES",
       "responsavel": "Agencia de desenvolvimento Regional - ITAJAÍ",
       "cpfCnpj": "05647957000148",
@@ -29332,34 +29336,36 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "24/04/2024",
-      "prazoDias": -796,
+      "prazoDias": -868,
       "bombeiroAutuacao": "Cb Michel VALENTE",
       "bloco": "GINÁSIO",
       "codgAuto": "AF8221000161A/23",
       "numgAuto": 176987,
-      "_ts": 1782733422.565422
+      "_ts": 1788982542.3931437
     },
     "AF8221000092A/25": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "651",
       "cidade": "NAVEGANTES",
       "responsavel": "SECRETARIA DO ESTADO DE EDUCAÇÃO",
       "cpfCnpj": "82951328000581",
-      "celular": "49999848221",
+      "celular": "48996807593",
       "email": "silviamiguel@sed.sc.gov.br",
       "endereco_responsavel": "Rua Antônio Luz, 121, Centro, Florianópolis",
       "exigencias": [
         "Apresentar projeto preventivo (PPCI)"
       ],
       "dataPrazo": "11/09/2025",
-      "prazoDias": -291,
+      "prazoDias": -363,
       "bombeiroAutuacao": "Sd Alexandre Cesar REISER",
       "bloco": "GINÁSIO",
       "codgAuto": "AF8221000092A/25",
       "numgAuto": 380524,
-      "_ts": 1782733422.565425
+      "_ts": 1788982542.3931453
     },
     "AF8221000250A/26": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "651",
       "cidade": "NAVEGANTES",
       "responsavel": "KATIA CRISTINA DA SILVA",
       "cpfCnpj": "91758963204",
@@ -29369,16 +29375,17 @@
       "exigencias": [
         "Apresentar projeto preventivo (PPCI)"
       ],
-      "dataPrazo": "27/07/2026",
-      "prazoDias": 28,
+      "dataPrazo": "30/07/2027",
+      "prazoDias": 324,
       "bombeiroAutuacao": "2º Sgt ALCEMIR Schafaschek",
       "bloco": "GINÁSIO",
       "codgAuto": "AF8221000250A/26",
       "numgAuto": 507549,
-      "_ts": 1782733422.5654268
+      "_ts": 1788982542.3931544
     },
     "MUL8221000171A/24": {
       "tipo": "MULTA",
+      "areaTotal": "651",
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -29392,7 +29399,7 @@
       "bloco": "GINÁSIO",
       "codgAuto": "MUL8221000171A/24",
       "numgAuto": 330845,
-      "_ts": 1782733422.5654333
+      "_ts": 1788982542.3931558
     },
     "AF8221000249A/26": {
       "tipo": "FISCALIZACAO",
@@ -30067,7 +30074,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1788975286.20609
+      "_ts": 1788982459.8285153
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38489,7 +38496,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1788975274.0022726
+      "_ts": 1788982452.6408384
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -38509,7 +38516,7 @@
       "bloco": "1",
       "codgAuto": "AF8123000114A/25",
       "numgAuto": 449049,
-      "_ts": 1788975274.0022492
+      "_ts": 1788982452.6408205
     },
     "AF8117000482A/26": {
       "tipo": "FISCALIZACAO",
@@ -83524,7 +83531,7 @@
       "bloco": "osmar ignacio uso misto",
       "codgAuto": "AF8117000614A/26",
       "numgAuto": 523339,
-      "_ts": 1788975317.36514
+      "_ts": 1788982490.4241822
     },
     "AF8117000613A/26": {
       "tipo": "AF",
@@ -83538,7 +83545,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8117000613A/26",
-      "_ts": 1788975317.3651645
+      "_ts": 1788982490.424203
     },
     "AF8221000315A/26": {
       "tipo": "FISCALIZACAO",
@@ -93588,7 +93595,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8161001198A/26",
-      "_ts": 1788975393.9342425
+      "_ts": 1788982608.5179002
     },
     "AF8117000632A/26": {
       "tipo": "FISCALIZACAO",
@@ -95153,6 +95160,594 @@
       "codgAuto": "MUL8161000833A/23",
       "numgAuto": 239795,
       "_ts": 1788975386.1990907
+    },
+    "AF8225000530A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 190,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "VALMIR MEYER",
+      "cpfCnpj": "61285269934",
+      "celular": "48999385712",
+      "email": "valmirmeyer.nt@gmail.com",
+      "endereco_responsavel": "Rua Brusque, 461, Espraiado, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "09/10/2026",
+      "prazoDias": 30,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "BLOCO FUNDOS",
+      "codgAuto": "AF8225000530A/26",
+      "numgAuto": 527805,
+      "_ts": 1788982501.7110689
+    },
+    "AF8221000367A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "694.37",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "30/04/2026",
+      "prazoDias": -132,
+      "bombeiroAutuacao": "3º Sgt Andres BURGONOVO",
+      "bloco": "Bloco 1",
+      "codgAuto": "AF8221000367A/24",
+      "numgAuto": 302345,
+      "_ts": 1788982513.934365
+    },
+    "AF8221000341A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "694.37",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema de iluminação de emergência",
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "06/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Saint Clair Veiga Patricio Junior",
+      "bloco": "Bloco 1",
+      "codgAuto": "AF8221000341A/26",
+      "numgAuto": 527901,
+      "_ts": 1788982513.9343712
+    },
+    "MUL8221000037A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "694.37",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Bloco 1",
+      "codgAuto": "MUL8221000037A/26",
+      "numgAuto": 493862,
+      "_ts": 1788982513.9344018
+    },
+    "MUL8221000036A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "694.37",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Bloco 1",
+      "codgAuto": "MUL8221000036A/26",
+      "numgAuto": 493861,
+      "_ts": 1788982513.9344041
+    },
+    "AF8221000898A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "6594.2",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema preventivo por extintores",
+        "Executar sistema de iluminação de emergência",
+        "Apresentar projeto preventivo (PPCI)",
+        "Executar sistema hidráulico preventivo",
+        "Executar sistema de alarme de incêndio",
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "09/08/2024",
+      "prazoDias": -761,
+      "bombeiroAutuacao": "1º Sgt EVANDRO de Oliveira Vargas",
+      "bloco": "BLOCO 1",
+      "codgAuto": "AF8221000898A/23",
+      "numgAuto": 263746,
+      "_ts": 1788982522.487723
+    },
+    "AF8221000340A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "6594.2",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema de iluminação de emergência",
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "06/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Saint Clair Veiga Patricio Junior",
+      "bloco": "BLOCO 1",
+      "codgAuto": "AF8221000340A/26",
+      "numgAuto": 527895,
+      "_ts": 1788982522.4877348
+    },
+    "MUL8221000064A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "6594.2",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "BLOCO 1",
+      "codgAuto": "MUL8221000064A/26",
+      "numgAuto": 512355,
+      "_ts": 1788982522.4877782
+    },
+    "MUL8221000029A/25": {
+      "tipo": "MULTA",
+      "areaTotal": "6594.2",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "BLOCO 1",
+      "codgAuto": "MUL8221000029A/25",
+      "numgAuto": 380448,
+      "_ts": 1788982522.487782
+    },
+    "AF8221000023A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1723.61",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Executar sistema de saída de emergência",
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema preventivo por extintores",
+        "Apresentar projeto preventivo (PPCI)",
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "01/04/2024",
+      "prazoDias": -891,
+      "bombeiroAutuacao": "1º Sgt EVANDRO de Oliveira Vargas",
+      "bloco": "BLOCO TOTAL",
+      "codgAuto": "AF8221000023A/24",
+      "numgAuto": 267209,
+      "_ts": 1788982530.4726536
+    },
+    "AF8221000127A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1723.61",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Executar instalações de gás combustível",
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "22/05/2026",
+      "prazoDias": -110,
+      "bombeiroAutuacao": "Cb CARLOS Augusto Cardoso",
+      "bloco": "BLOCO TOTAL",
+      "codgAuto": "AF8221000127A/26",
+      "numgAuto": 483453,
+      "_ts": 1788982530.4726593
+    },
+    "AF8221000339A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1723.61",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema de iluminação de emergência",
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "06/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Saint Clair Veiga Patricio Junior",
+      "bloco": "BLOCO TOTAL",
+      "codgAuto": "AF8221000339A/26",
+      "numgAuto": 527874,
+      "_ts": 1788982530.472661
+    },
+    "MUL8221000071A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "1723.61",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "BLOCO TOTAL",
+      "codgAuto": "MUL8221000071A/26",
+      "numgAuto": 512705,
+      "_ts": 1788982530.4726865
+    },
+    "AF8221000338A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "651",
+      "cidade": "NAVEGANTES",
+      "responsavel": "SECRETARIA DO ESTADO DE EDUCAÇÃO",
+      "cpfCnpj": "82951328000581",
+      "celular": "48996807593",
+      "email": "silviamiguel@sed.sc.gov.br",
+      "endereco_responsavel": "Rua Antônio Luz, 121, Centro, Florianópolis",
+      "exigencias": [
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema de iluminação de emergência",
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "06/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Saint Clair Veiga Patricio Junior",
+      "bloco": "GINÁSIO",
+      "codgAuto": "AF8221000338A/26",
+      "numgAuto": 527835,
+      "_ts": 1788982542.393147
+    },
+    "MUL8221000061A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "651",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "GINÁSIO",
+      "codgAuto": "MUL8221000061A/26",
+      "numgAuto": 512323,
+      "_ts": 1788982542.3931577
+    },
+    "AF8221000367A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1159.97",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "30/04/2026",
+      "prazoDias": -132,
+      "bombeiroAutuacao": "Sd Alexandre Cesar REISER",
+      "bloco": "E.M. IZILDA REISER MAFRA",
+      "codgAuto": "AF8221000367A/25",
+      "numgAuto": 423181,
+      "_ts": 1788982554.843069
+    },
+    "AF8221000337A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1159.97",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema de iluminação de emergência",
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "06/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Saint Clair Veiga Patricio Junior",
+      "bloco": "E.M. IZILDA REISER MAFRA",
+      "codgAuto": "AF8221000337A/26",
+      "numgAuto": 527829,
+      "_ts": 1788982554.843081
+    },
+    "MUL8221000034A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "1159.97",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "E.M. IZILDA REISER MAFRA",
+      "codgAuto": "MUL8221000034A/26",
+      "numgAuto": 493843,
+      "_ts": 1788982554.8431263
+    },
+    "AF8221000336A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "818.51",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema de iluminação de emergência",
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "06/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Saint Clair Veiga Patricio Junior",
+      "bloco": "Bloco 1",
+      "codgAuto": "AF8221000336A/26",
+      "numgAuto": 527824,
+      "_ts": 1788982566.042732
+    },
+    "AF8221000371A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "248.37",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)",
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "11/01/2025",
+      "prazoDias": -606,
+      "bombeiroAutuacao": "3º Sgt Andres BURGONOVO",
+      "bloco": "bloco escola",
+      "codgAuto": "AF8221000371A/24",
+      "numgAuto": 302433,
+      "_ts": 1788982578.3424623
+    },
+    "AF8221000335A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "248.37",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema de iluminação de emergência",
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "06/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Saint Clair Veiga Patricio Junior",
+      "bloco": "bloco escola",
+      "codgAuto": "AF8221000335A/26",
+      "numgAuto": 527818,
+      "_ts": 1788982578.3424783
+    },
+    "AF8221000159A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "907.83",
+      "cidade": "NAVEGANTES",
+      "responsavel": "AUGUSTO GABRIEL SIMON",
+      "cpfCnpj": "07602791959",
+      "celular": "48999594565",
+      "email": "civilmult@gmail.com",
+      "endereco_responsavel": "Rua Usilio Tonetoo, 2266, Vila Manenti, Turvo",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "23/05/2025",
+      "prazoDias": -474,
+      "bombeiroAutuacao": "3º Sgt Priscila Correa BERTI",
+      "bloco": "CMEI SILVETE COUTO DE MIRANDA",
+      "codgAuto": "AF8221000159A/25",
+      "numgAuto": 393092,
+      "_ts": 1788982587.0845609
+    },
+    "AF8221000325A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "907.83",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "27/02/2026",
+      "prazoDias": -194,
+      "bombeiroAutuacao": "3º Sgt Priscila Correa BERTI",
+      "bloco": "CMEI SILVETE COUTO DE MIRANDA",
+      "codgAuto": "AF8221000325A/25",
+      "numgAuto": 416126,
+      "_ts": 1788982587.0845742
+    },
+    "AF8221000334A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "907.83",
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema de iluminação de emergência",
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "06/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Saint Clair Veiga Patricio Junior",
+      "bloco": "CMEI SILVETE COUTO DE MIRANDA",
+      "codgAuto": "AF8221000334A/26",
+      "numgAuto": 527794,
+      "_ts": 1788982587.0845785
+    },
+    "MUL8221000075A/25": {
+      "tipo": "MULTA",
+      "areaTotal": "907.83",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "CMEI SILVETE COUTO DE MIRANDA",
+      "codgAuto": "MUL8221000075A/25",
+      "numgAuto": 405866,
+      "_ts": 1788982587.0846298
+    },
+    "MUL8221000066A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "907.83",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "CMEI SILVETE COUTO DE MIRANDA",
+      "codgAuto": "MUL8221000066A/26",
+      "numgAuto": 512371,
+      "_ts": 1788982587.084635
+    },
+    "AF8221000333A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1641.38,
+      "cidade": "NAVEGANTES",
+      "responsavel": "Secretaria Municipal de Educação",
+      "cpfCnpj": "30481875000113",
+      "celular": "47989150178",
+      "email": "engenharia.educacao@navegantes.edu.sc.gov.br",
+      "endereco_responsavel": "Avenida Prefeito José Juvenal Mafra, 430, Centro, Navegantes",
+      "exigencias": [
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema de pressurização de escadas",
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "06/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Saint Clair Veiga Patricio Junior",
+      "bloco": "E.M. PROFª ROSA MARIA XAVIER DE ARAUJO",
+      "codgAuto": "AF8221000333A/26",
+      "numgAuto": 527778,
+      "_ts": 1788982600.6146154
+    },
+    "MUL8221000086A/26": {
+      "tipo": "MULTA",
+      "areaTotal": 1641.38,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "E.M. PROFª ROSA MARIA XAVIER DE ARAUJO",
+      "codgAuto": "MUL8221000086A/26",
+      "numgAuto": 519430,
+      "_ts": 1788982600.6146698
+    },
+    "MUL8221000089A/26": {
+      "tipo": "MULTA",
+      "areaTotal": 1641.38,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "E.M. PROFª ROSA MARIA XAVIER DE ARAUJO",
+      "codgAuto": "MUL8221000089A/26",
+      "numgAuto": 522259,
+      "_ts": 1788982600.6146734
     }
   }
 }
