@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-10T15:27:24-03:00",
+  "timestamp": "2026-09-10T15:37:41-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8112,
-      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
+      "ultima_verificacao": "2026-09-10T15:37:41-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
+      "ultima_verificacao": "2026-09-10T15:37:41-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1533,
-      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
+      "ultima_verificacao": "2026-09-10T15:37:41-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3889,
-      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
+      "ultima_verificacao": "2026-09-10T15:37:41-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3390,
-      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
+      "ultima_verificacao": "2026-09-10T15:37:41-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
+      "ultima_verificacao": "2026-09-10T15:37:41-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7217,
-      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
+      "ultima_verificacao": "2026-09-10T15:37:41-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13007,
-      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
+      "ultima_verificacao": "2026-09-10T15:37:41-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5025,
-      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
+      "ultima_verificacao": "2026-09-10T15:37:41-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14324,
-      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
+      "ultimo_numero": 14325,
+      "ultima_verificacao": "2026-09-10T15:37:41-03:00"
     }
   },
   "protocolos": {
@@ -12162,6 +12162,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014325A",
+        "RE": "RE8161013882A",
+        "numgEdificacao": 369962,
+        "Nome_Edificacao": "Neis e Campos Administradora de Bens Ltda",
+        "Logradouro": "Avenida Itaipava",
+        "Numero": "1657",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-10T15:37:41-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014324A",
         "RE": "RE8161012819A",
         "numgEdificacao": 338689,
@@ -16001,7 +16012,7 @@
     "Itapema": 170,
     "Blumenau": 262,
     "Navegantes": 128,
-    "Itajai": 348
+    "Itajai": 349
   },
-  "total_geral": 1447
+  "total_geral": 1448
 }
