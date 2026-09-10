@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-10T15:16:58-03:00",
+  "timestamp": "2026-09-10T15:27:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8112,
-      "ultima_verificacao": "2026-09-10T15:16:58-03:00"
+      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-10T15:16:58-03:00"
+      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1533,
-      "ultima_verificacao": "2026-09-10T15:16:58-03:00"
+      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3889,
-      "ultima_verificacao": "2026-09-10T15:16:58-03:00"
+      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3390,
-      "ultima_verificacao": "2026-09-10T15:16:58-03:00"
+      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-10T15:16:58-03:00"
+      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7216,
-      "ultima_verificacao": "2026-09-10T15:16:58-03:00"
+      "ultimo_numero": 7217,
+      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13007,
-      "ultima_verificacao": "2026-09-10T15:16:58-03:00"
+      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5025,
-      "ultima_verificacao": "2026-09-10T15:16:58-03:00"
+      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14324,
-      "ultima_verificacao": "2026-09-10T15:16:58-03:00"
+      "ultima_verificacao": "2026-09-10T15:27:24-03:00"
     }
   },
   "protocolos": {
@@ -5995,6 +5995,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007217A",
+        "RE": "RE8163006876A",
+        "numgEdificacao": 368980,
+        "Nome_Edificacao": "IDO BILDHAWER",
+        "Logradouro": "Rua 418 A",
+        "Numero": "89",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-10T15:27:24-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007216A",
         "RE": "RE8163006805A",
@@ -15987,10 +15998,10 @@
     "Gaspar": 123,
     "Porto Belo": 109,
     "Nova Trento": 62,
-    "Itapema": 169,
+    "Itapema": 170,
     "Blumenau": 262,
     "Navegantes": 128,
     "Itajai": 348
   },
-  "total_geral": 1446
+  "total_geral": 1447
 }
