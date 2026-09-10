@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-10T16:27:33-03:00",
+  "timestamp": "2026-09-10T16:37:08-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8112,
-      "ultima_verificacao": "2026-09-10T16:27:33-03:00"
+      "ultima_verificacao": "2026-09-10T16:37:08-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-10T16:27:33-03:00"
+      "ultima_verificacao": "2026-09-10T16:37:08-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1534,
-      "ultima_verificacao": "2026-09-10T16:27:33-03:00"
+      "ultima_verificacao": "2026-09-10T16:37:08-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3890,
-      "ultima_verificacao": "2026-09-10T16:27:33-03:00"
+      "ultima_verificacao": "2026-09-10T16:37:08-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3390,
-      "ultima_verificacao": "2026-09-10T16:27:33-03:00"
+      "ultima_verificacao": "2026-09-10T16:37:08-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-10T16:27:33-03:00"
+      "ultima_verificacao": "2026-09-10T16:37:08-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7217,
-      "ultima_verificacao": "2026-09-10T16:27:33-03:00"
+      "ultima_verificacao": "2026-09-10T16:37:08-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13007,
-      "ultima_verificacao": "2026-09-10T16:27:33-03:00"
+      "ultima_verificacao": "2026-09-10T16:37:08-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5025,
-      "ultima_verificacao": "2026-09-10T16:27:33-03:00"
+      "ultima_verificacao": "2026-09-10T16:37:08-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14325,
-      "ultima_verificacao": "2026-09-10T16:27:33-03:00"
+      "ultimo_numero": 14326,
+      "ultima_verificacao": "2026-09-10T16:37:08-03:00"
     }
   },
   "protocolos": {
@@ -12184,6 +12184,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014326A",
+        "RE": "RE8161005503A",
+        "numgEdificacao": 159688,
+        "Nome_Edificacao": "CIEE- CENTRO  INTEGRAÇÃO EMPRESA ESCOLA",
+        "Logradouro": "Rua Treze de Maio",
+        "Numero": "97",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-10T16:37:08-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014325A",
         "RE": "RE8161013882A",
         "numgEdificacao": 369962,
@@ -16034,7 +16045,7 @@
     "Itapema": 170,
     "Blumenau": 262,
     "Navegantes": 128,
-    "Itajai": 349
+    "Itajai": 350
   },
-  "total_geral": 1450
+  "total_geral": 1451
 }
