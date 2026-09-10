@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-10T08:27:31-03:00",
+  "timestamp": "2026-09-10T08:36:50-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8109,
-      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
+      "ultimo_numero": 8110,
+      "ultima_verificacao": "2026-09-10T08:36:50-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
+      "ultima_verificacao": "2026-09-10T08:36:50-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1533,
-      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
+      "ultima_verificacao": "2026-09-10T08:36:50-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3887,
-      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
+      "ultima_verificacao": "2026-09-10T08:36:50-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
+      "ultima_verificacao": "2026-09-10T08:36:50-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
+      "ultima_verificacao": "2026-09-10T08:36:50-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7215,
-      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
+      "ultima_verificacao": "2026-09-10T08:36:50-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13005,
-      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
+      "ultima_verificacao": "2026-09-10T08:36:50-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5024,
-      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
+      "ultima_verificacao": "2026-09-10T08:36:50-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14324,
-      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
+      "ultima_verificacao": "2026-09-10T08:36:50-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008110A",
+        "RE": "RE8055000435A",
+        "numgEdificacao": 32144,
+        "Nome_Edificacao": "BRASHOP S/A ADMINISTRADORA DE SHOPPING CENTER",
+        "Logradouro": "AVENIDA PRIMEIRO DE MAIO",
+        "Numero": "1283",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-10T08:36:50-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008109A",
         "RE": "RE8055006822A",
@@ -15871,7 +15882,7 @@
     ]
   },
   "totais": {
-    "Brusque": 145,
+    "Brusque": 146,
     "Botuvera": 39,
     "Guabiruba": 58,
     "Gaspar": 121,
@@ -15882,5 +15893,5 @@
     "Navegantes": 127,
     "Itajai": 348
   },
-  "total_geral": 1436
+  "total_geral": 1437
 }
