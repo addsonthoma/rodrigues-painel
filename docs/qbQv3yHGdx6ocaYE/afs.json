@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-10T14:10:54-03:00",
+  "timestamp": "2026-09-10T14:30:36-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1002,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T14:10:54-03:00"
+      "ultima_verificacao": "2026-09-10T14:30:36-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T14:10:54-03:00"
+      "ultima_verificacao": "2026-09-10T14:30:36-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 63,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T14:10:54-03:00"
+      "ultima_verificacao": "2026-09-10T14:30:36-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 632,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T14:10:54-03:00"
+      "ultima_verificacao": "2026-09-10T14:30:36-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T14:10:54-03:00"
+      "ultima_verificacao": "2026-09-10T14:30:36-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 532,
+      "ultimo_numero": 533,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T14:10:54-03:00"
+      "ultima_verificacao": "2026-09-10T14:30:36-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1207,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T14:10:54-03:00"
+      "ultima_verificacao": "2026-09-10T14:30:36-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1174,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T14:10:54-03:00"
+      "ultima_verificacao": "2026-09-10T14:30:36-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 343,
+      "ultimo_numero": 345,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T14:10:54-03:00"
+      "ultima_verificacao": "2026-09-10T14:30:36-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1210,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T14:10:54-03:00"
+      "ultima_verificacao": "2026-09-10T14:30:36-03:00"
     }
   },
   "afs": {
@@ -10062,6 +10062,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000533A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000601A",
+        "Nome_Edificacao": "Vinicola Girola Ltda",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-10T14:30:36-03:00"
+      },
       {
         "CodigoAuto": "AF8225000532A/26",
         "Tipo": "AF",
@@ -22785,6 +22796,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000345A/26",
+        "Tipo": "AF",
+        "RE": "RE8221002659A",
+        "Nome_Edificacao": "Sheds Brasil Ltda",
+        "Logradouro": "RUA PREFEITO MANOEL EVALDO MULLER",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-10T14:30:36-03:00"
+      },
+      {
+        "CodigoAuto": "AF8221000344A/26",
+        "Tipo": "AF",
+        "RE": "RE8221001018A",
+        "Nome_Edificacao": "HB EMPREENDIMENTOS IMOBILIARIOS LTDA",
+        "Logradouro": "Rodovia BR-470",
+        "Numero": "1533",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-10T14:30:36-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000343A/26",
         "Tipo": "AF",
         "RE": "RE8221000511A",
@@ -29350,11 +29383,11 @@
     "Guabiruba": 43,
     "Gaspar": 217,
     "Porto Belo": 222,
-    "Nova Trento": 222,
+    "Nova Trento": 223,
     "Itapema": 473,
     "Blumenau": 461,
-    "Navegantes": 139,
+    "Navegantes": 141,
     "Itajai": 457
   },
-  "total_geral": 2660
+  "total_geral": 2663
 }

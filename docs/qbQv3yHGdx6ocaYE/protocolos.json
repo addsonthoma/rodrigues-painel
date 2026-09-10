@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-10T14:18:34-03:00",
+  "timestamp": "2026-09-10T14:37:55-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8111,
-      "ultima_verificacao": "2026-09-10T14:18:34-03:00"
+      "ultima_verificacao": "2026-09-10T14:37:55-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-10T14:18:34-03:00"
+      "ultima_verificacao": "2026-09-10T14:37:55-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1533,
-      "ultima_verificacao": "2026-09-10T14:18:34-03:00"
+      "ultima_verificacao": "2026-09-10T14:37:55-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3888,
-      "ultima_verificacao": "2026-09-10T14:18:34-03:00"
+      "ultimo_numero": 3889,
+      "ultima_verificacao": "2026-09-10T14:37:55-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-10T14:18:34-03:00"
+      "ultimo_numero": 3390,
+      "ultima_verificacao": "2026-09-10T14:37:55-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-10T14:18:34-03:00"
+      "ultima_verificacao": "2026-09-10T14:37:55-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7215,
-      "ultima_verificacao": "2026-09-10T14:18:34-03:00"
+      "ultima_verificacao": "2026-09-10T14:37:55-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13007,
-      "ultima_verificacao": "2026-09-10T14:18:34-03:00"
+      "ultima_verificacao": "2026-09-10T14:37:55-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5025,
-      "ultima_verificacao": "2026-09-10T14:18:34-03:00"
+      "ultima_verificacao": "2026-09-10T14:37:55-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14324,
-      "ultima_verificacao": "2026-09-10T14:18:34-03:00"
+      "ultima_verificacao": "2026-09-10T14:37:55-03:00"
     }
   },
   "protocolos": {
@@ -2745,6 +2745,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003889A",
+        "RE": "RE8117003030A",
+        "numgEdificacao": 336067,
+        "Nome_Edificacao": "ALCEU LUIZ ORZEKOWBKSI",
+        "Logradouro": "Rua Oriente",
+        "Numero": "543",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-10T14:37:55-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003888A",
         "RE": "RE8117003293A",
         "numgEdificacao": 369956,
@@ -4088,6 +4099,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003390A",
+        "RE": "RE8265002612A",
+        "numgEdificacao": 341637,
+        "Nome_Edificacao": "SOCIEDADE RECREATIVA VILA NOVA",
+        "Logradouro": "AV FRANCISCO SEVERIANO DOS SANTOS",
+        "Numero": "236",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-10T14:37:55-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003389A",
         "RE": "RE8265002835A",
@@ -15940,13 +15962,13 @@
     "Brusque": 147,
     "Botuvera": 39,
     "Guabiruba": 58,
-    "Gaspar": 122,
-    "Porto Belo": 108,
+    "Gaspar": 123,
+    "Porto Belo": 109,
     "Nova Trento": 62,
     "Itapema": 168,
     "Blumenau": 262,
     "Navegantes": 128,
     "Itajai": 348
   },
-  "total_geral": 1442
+  "total_geral": 1444
 }
