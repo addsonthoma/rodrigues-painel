@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-10T12:00:20-03:00",
+  "timestamp": "2026-09-10T12:10:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 999,
+      "ultimo_numero": 1000,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T12:00:20-03:00"
+      "ultima_verificacao": "2026-09-10T12:10:30-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 33,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T12:00:20-03:00"
+      "ultima_verificacao": "2026-09-10T12:10:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 63,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T12:00:20-03:00"
+      "ultima_verificacao": "2026-09-10T12:10:30-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 632,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T12:00:20-03:00"
+      "ultima_verificacao": "2026-09-10T12:10:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T12:00:20-03:00"
+      "ultima_verificacao": "2026-09-10T12:10:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 531,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T12:00:20-03:00"
+      "ultima_verificacao": "2026-09-10T12:10:30-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1207,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T12:00:20-03:00"
+      "ultima_verificacao": "2026-09-10T12:10:30-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1174,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T12:00:20-03:00"
+      "ultima_verificacao": "2026-09-10T12:10:30-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 342,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T12:00:20-03:00"
+      "ultima_verificacao": "2026-09-10T12:10:30-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1208,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-10T12:00:20-03:00"
+      "ultima_verificacao": "2026-09-10T12:10:30-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001000A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000500A",
+        "Nome_Edificacao": "HUGO STAACK ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Itajai",
+        "Numero": "171",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-10T12:10:30-03:00"
+      },
       {
         "CodigoAuto": "AF8055000999A/26",
         "Tipo": "AF",
@@ -29257,7 +29268,7 @@
     ]
   },
   "totais": {
-    "Brusque": 389,
+    "Brusque": 390,
     "Botuvera": 33,
     "Guabiruba": 43,
     "Gaspar": 217,
@@ -29268,5 +29279,5 @@
     "Navegantes": 138,
     "Itajai": 455
   },
-  "total_geral": 2652
+  "total_geral": 2653
 }
