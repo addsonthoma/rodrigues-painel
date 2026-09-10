@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-10T14:30:04-03:00",
+  "timestamp": "2026-09-10T14:50:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 125,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-10T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-10T14:50:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-10T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-10T14:50:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-10T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-10T14:50:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 59,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-10T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-10T14:50:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 117,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-10T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-10T14:50:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 144,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-10T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-10T14:50:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 200,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-10T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-10T14:50:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 250,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-10T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-10T14:50:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 94,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-10T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-10T14:50:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 446,
+      "ultimo_numero": 449,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-10T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-10T14:50:03-03:00"
     }
   },
   "multas": {
@@ -2293,6 +2293,36 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000447A/26",
+        "RE": "RE8161000901A",
+        "Nome_Edificacao": "Obra Rafizza",
+        "Logradouro": "Avenida José Medeiros Vieira",
+        "Numero": "1640",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-10T14:50:03-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000448A/26",
+        "RE": "RE8161002141A",
+        "Nome_Edificacao": "CONDOMINIO EDIFICIO COGNAC",
+        "Logradouro": "Rua Uruguai",
+        "Numero": "579",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-10T14:50:03-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000449A/26",
+        "RE": "RE8161009821A",
+        "Nome_Edificacao": "CERÂMICA IRMÃOS WÍPPEL",
+        "Logradouro": "AVENIDA ITAIPAVA",
+        "Numero": "2500",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-10T14:50:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000444A/26",
         "RE": "RE8161008814A",
@@ -6467,14 +6497,35 @@
     "Brusque": 70,
     "Gaspar": 35,
     "Guabiruba": 3,
-    "Itajai": 164,
+    "Itajai": 167,
     "Itapema": 83,
     "Navegantes": 56,
     "Nova Trento": 61,
     "Porto Belo": 60
   },
-  "total_geral": 650,
+  "total_geral": 653,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-10T14:50:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000449A/26",
+      "nome": "CERÂMICA IRMÃOS WÍPPEL",
+      "re": "RE8161009821A"
+    },
+    {
+      "ts": "2026-09-10T14:50:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000448A/26",
+      "nome": "CONDOMINIO EDIFICIO COGNAC",
+      "re": "RE8161002141A"
+    },
+    {
+      "ts": "2026-09-10T14:50:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000447A/26",
+      "nome": "Obra Rafizza",
+      "re": "RE8161000901A"
+    },
     {
       "ts": "2026-09-10T14:30:04-03:00",
       "cidade": "Itajai",
@@ -6803,27 +6854,6 @@
       "codigo": "MUL8047000244A/26",
       "nome": "DORVAL ANTONIO GOULARTE",
       "re": "RE8047008370A"
-    },
-    {
-      "ts": "2026-09-03T15:33:46-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000243A/26",
-      "nome": "DORVAL ANTONIO GOULARTE",
-      "re": "RE8047008370A"
-    },
-    {
-      "ts": "2026-09-03T15:33:46-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000194A/26",
-      "nome": "ENEDINO DA SILVA DUARTE",
-      "re": "RE8163002517A"
-    },
-    {
-      "ts": "2026-09-03T15:33:46-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000193A/26",
-      "nome": "Instituto Araxá",
-      "re": "RE8163005559A"
     }
   ]
 }
