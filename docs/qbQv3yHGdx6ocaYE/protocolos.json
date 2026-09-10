@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-10T15:57:38-03:00",
+  "timestamp": "2026-09-10T16:07:44-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8112,
-      "ultima_verificacao": "2026-09-10T15:57:38-03:00"
+      "ultima_verificacao": "2026-09-10T16:07:44-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-10T15:57:38-03:00"
+      "ultima_verificacao": "2026-09-10T16:07:44-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1533,
-      "ultima_verificacao": "2026-09-10T15:57:38-03:00"
+      "ultima_verificacao": "2026-09-10T16:07:44-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3889,
-      "ultima_verificacao": "2026-09-10T15:57:38-03:00"
+      "ultimo_numero": 3890,
+      "ultima_verificacao": "2026-09-10T16:07:44-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3390,
-      "ultima_verificacao": "2026-09-10T15:57:38-03:00"
+      "ultima_verificacao": "2026-09-10T16:07:44-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-10T15:57:38-03:00"
+      "ultima_verificacao": "2026-09-10T16:07:44-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7217,
-      "ultima_verificacao": "2026-09-10T15:57:38-03:00"
+      "ultima_verificacao": "2026-09-10T16:07:44-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13007,
-      "ultima_verificacao": "2026-09-10T15:57:38-03:00"
+      "ultima_verificacao": "2026-09-10T16:07:44-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5025,
-      "ultima_verificacao": "2026-09-10T15:57:38-03:00"
+      "ultima_verificacao": "2026-09-10T16:07:44-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14325,
-      "ultima_verificacao": "2026-09-10T15:57:38-03:00"
+      "ultima_verificacao": "2026-09-10T16:07:44-03:00"
     }
   },
   "protocolos": {
@@ -2755,6 +2755,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003890A",
+        "RE": "RE8117003047A",
+        "numgEdificacao": 338257,
+        "Nome_Edificacao": "JEAN PIERRE MORASKY",
+        "Logradouro": "RUA HELDO FLORENTINO WAN DALL",
+        "Numero": "148",
+        "Bairro": "GASPAR - BELCHIOR CENTRAL",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-10T16:07:44-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003889A",
         "RE": "RE8117003030A",
@@ -16006,7 +16017,7 @@
     "Brusque": 148,
     "Botuvera": 39,
     "Guabiruba": 58,
-    "Gaspar": 123,
+    "Gaspar": 124,
     "Porto Belo": 109,
     "Nova Trento": 62,
     "Itapema": 170,
@@ -16014,5 +16025,5 @@
     "Navegantes": 128,
     "Itajai": 349
   },
-  "total_geral": 1448
+  "total_geral": 1449
 }
