@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-10T03:11:47-03:00",
+  "timestamp": "2026-09-10T08:27:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8109,
-      "ultima_verificacao": "2026-09-10T03:11:47-03:00"
+      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-10T03:11:47-03:00"
+      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1533,
-      "ultima_verificacao": "2026-09-10T03:11:47-03:00"
+      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3886,
-      "ultima_verificacao": "2026-09-10T03:11:47-03:00"
+      "ultimo_numero": 3887,
+      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3389,
-      "ultima_verificacao": "2026-09-10T03:11:47-03:00"
+      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-10T03:11:47-03:00"
+      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7215,
-      "ultima_verificacao": "2026-09-10T03:11:47-03:00"
+      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13005,
-      "ultima_verificacao": "2026-09-10T03:11:47-03:00"
+      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5024,
-      "ultima_verificacao": "2026-09-10T03:11:47-03:00"
+      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14324,
-      "ultima_verificacao": "2026-09-10T03:11:47-03:00"
+      "ultima_verificacao": "2026-09-10T08:27:31-03:00"
     }
   },
   "protocolos": {
@@ -2722,6 +2722,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003887A",
+        "RE": "RE8117003281A",
+        "numgEdificacao": 367907,
+        "Nome_Edificacao": "Quarantani e Junkes Gestão patrimonial LTDa",
+        "Logradouro": "RUA VITÓRIA",
+        "Numero": "4083",
+        "Bairro": "GASPAR - BELA VISTA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-10T08:27:31-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003886A",
         "RE": "RE8117002411A",
@@ -15863,7 +15874,7 @@
     "Brusque": 145,
     "Botuvera": 39,
     "Guabiruba": 58,
-    "Gaspar": 120,
+    "Gaspar": 121,
     "Porto Belo": 108,
     "Nova Trento": 62,
     "Itapema": 168,
@@ -15871,5 +15882,5 @@
     "Navegantes": 127,
     "Itajai": 348
   },
-  "total_geral": 1435
+  "total_geral": 1436
 }
