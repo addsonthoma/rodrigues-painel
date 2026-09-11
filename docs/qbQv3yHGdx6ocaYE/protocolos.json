@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-11T10:06:24-03:00",
+  "timestamp": "2026-09-11T10:17:13-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8112,
-      "ultima_verificacao": "2026-09-11T10:06:24-03:00"
+      "ultima_verificacao": "2026-09-11T10:17:13-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-11T10:06:24-03:00"
+      "ultima_verificacao": "2026-09-11T10:17:13-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1534,
-      "ultima_verificacao": "2026-09-11T10:06:24-03:00"
+      "ultima_verificacao": "2026-09-11T10:17:13-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3890,
-      "ultima_verificacao": "2026-09-11T10:06:24-03:00"
+      "ultima_verificacao": "2026-09-11T10:17:13-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3392,
-      "ultima_verificacao": "2026-09-11T10:06:24-03:00"
+      "ultima_verificacao": "2026-09-11T10:17:13-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-11T10:06:24-03:00"
+      "ultima_verificacao": "2026-09-11T10:17:13-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7217,
-      "ultima_verificacao": "2026-09-11T10:06:24-03:00"
+      "ultima_verificacao": "2026-09-11T10:17:13-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13008,
-      "ultima_verificacao": "2026-09-11T10:06:24-03:00"
+      "ultima_verificacao": "2026-09-11T10:17:13-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5026,
-      "ultima_verificacao": "2026-09-11T10:06:24-03:00"
+      "ultima_verificacao": "2026-09-11T10:17:13-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14327,
-      "ultima_verificacao": "2026-09-11T10:06:24-03:00"
+      "ultimo_numero": 14328,
+      "ultima_verificacao": "2026-09-11T10:17:13-03:00"
     }
   },
   "protocolos": {
@@ -12228,6 +12228,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014328A",
+        "RE": "RE8161013566A",
+        "numgEdificacao": 359299,
+        "Nome_Edificacao": "NEIDE SCHMITZ BORGES",
+        "Logradouro": "Rua Dom Jaime de Barros Câmara",
+        "Numero": "72",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-11T10:17:13-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014327A",
         "RE": "RE8161013883A",
         "numgEdificacao": 370017,
@@ -16100,7 +16111,7 @@
     "Itapema": 170,
     "Blumenau": 263,
     "Navegantes": 129,
-    "Itajai": 351
+    "Itajai": 352
   },
-  "total_geral": 1456
+  "total_geral": 1457
 }
