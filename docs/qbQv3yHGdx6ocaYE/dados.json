@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-11T09:50:03-03:00",
+  "timestamp": "2026-09-11T10:00:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 126,
+      "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T09:50:03-03:00"
+      "ultima_verificacao": "2026-09-11T10:00:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T09:50:03-03:00"
+      "ultima_verificacao": "2026-09-11T10:00:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T09:50:03-03:00"
+      "ultima_verificacao": "2026-09-11T10:00:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 61,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T09:50:03-03:00"
+      "ultima_verificacao": "2026-09-11T10:00:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 117,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T09:50:03-03:00"
+      "ultima_verificacao": "2026-09-11T10:00:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 145,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T09:50:03-03:00"
+      "ultima_verificacao": "2026-09-11T10:00:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 200,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T09:50:03-03:00"
+      "ultima_verificacao": "2026-09-11T10:00:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 250,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T09:50:03-03:00"
+      "ultima_verificacao": "2026-09-11T10:00:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 94,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T09:50:03-03:00"
+      "ultima_verificacao": "2026-09-11T10:00:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 452,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T09:50:03-03:00"
+      "ultima_verificacao": "2026-09-11T10:00:03-03:00"
     }
   },
   "multas": {
@@ -1240,6 +1240,16 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000127A/26",
+        "RE": "RE8055002428A",
+        "Nome_Edificacao": "SEMINÁRIO, MUSEU, IGREJA E LOJAS",
+        "Logradouro": "RUA AZAMBUJA",
+        "Numero": "1100",
+        "Bairro": "BRUSQUE - AZAMBUJA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-11T10:00:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000126A/26",
         "RE": "RE8055000151A",
@@ -6564,7 +6574,7 @@
   "totais": {
     "Blumenau": 115,
     "Botuvera": 3,
-    "Brusque": 71,
+    "Brusque": 72,
     "Gaspar": 37,
     "Guabiruba": 3,
     "Itajai": 170,
@@ -6573,8 +6583,15 @@
     "Nova Trento": 62,
     "Porto Belo": 60
   },
-  "total_geral": 660,
+  "total_geral": 661,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-11T10:00:03-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000127A/26",
+      "nome": "SEMINÁRIO, MUSEU, IGREJA E LOJAS",
+      "re": "RE8055002428A"
+    },
     {
       "ts": "2026-09-11T09:50:03-03:00",
       "cidade": "Gaspar",
@@ -6917,13 +6934,6 @@
       "codigo": "MUL8047000245A/26",
       "nome": "ANTONIO CANDIDO DA SILVA",
       "re": "RE8047011317A"
-    },
-    {
-      "ts": "2026-09-04T13:40:06-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000050A/26",
-      "nome": "SUANY ELISABETH BINSFELD",
-      "re": "RE8117000132A"
     }
   ]
 }
