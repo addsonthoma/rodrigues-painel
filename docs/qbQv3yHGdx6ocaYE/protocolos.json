@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-11T14:47:14-03:00",
+  "timestamp": "2026-09-11T14:57:10-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8112,
-      "ultima_verificacao": "2026-09-11T14:47:14-03:00"
+      "ultima_verificacao": "2026-09-11T14:57:10-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-11T14:47:14-03:00"
+      "ultima_verificacao": "2026-09-11T14:57:10-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1534,
-      "ultima_verificacao": "2026-09-11T14:47:14-03:00"
+      "ultima_verificacao": "2026-09-11T14:57:10-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3890,
-      "ultima_verificacao": "2026-09-11T14:47:14-03:00"
+      "ultimo_numero": 3891,
+      "ultima_verificacao": "2026-09-11T14:57:10-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3392,
-      "ultima_verificacao": "2026-09-11T14:47:14-03:00"
+      "ultima_verificacao": "2026-09-11T14:57:10-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-11T14:47:14-03:00"
+      "ultima_verificacao": "2026-09-11T14:57:10-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7217,
-      "ultima_verificacao": "2026-09-11T14:47:14-03:00"
+      "ultima_verificacao": "2026-09-11T14:57:10-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13008,
-      "ultima_verificacao": "2026-09-11T14:47:14-03:00"
+      "ultima_verificacao": "2026-09-11T14:57:10-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5026,
-      "ultima_verificacao": "2026-09-11T14:47:14-03:00"
+      "ultima_verificacao": "2026-09-11T14:57:10-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14328,
-      "ultima_verificacao": "2026-09-11T14:47:14-03:00"
+      "ultima_verificacao": "2026-09-11T14:57:10-03:00"
     }
   },
   "protocolos": {
@@ -2766,6 +2766,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003891A",
+        "RE": "RE8117003295A",
+        "numgEdificacao": 370058,
+        "Nome_Edificacao": "GILBERTO CESAR DA SILVA",
+        "Logradouro": "RUA THIMOTEO DESCHAMPS",
+        "Numero": "",
+        "Bairro": "GASPAR - Figueira",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-11T14:57:10-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003890A",
         "RE": "RE8117003047A",
@@ -16105,7 +16116,7 @@
     "Brusque": 148,
     "Botuvera": 39,
     "Guabiruba": 59,
-    "Gaspar": 124,
+    "Gaspar": 125,
     "Porto Belo": 111,
     "Nova Trento": 62,
     "Itapema": 170,
@@ -16113,5 +16124,5 @@
     "Navegantes": 129,
     "Itajai": 352
   },
-  "total_geral": 1457
+  "total_geral": 1458
 }
