@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-11T16:37:16-03:00",
+  "timestamp": "2026-09-11T16:47:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8113,
-      "ultima_verificacao": "2026-09-11T16:37:16-03:00"
+      "ultima_verificacao": "2026-09-11T16:47:04-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-11T16:37:16-03:00"
+      "ultima_verificacao": "2026-09-11T16:47:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1535,
-      "ultima_verificacao": "2026-09-11T16:37:16-03:00"
+      "ultima_verificacao": "2026-09-11T16:47:04-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3891,
-      "ultima_verificacao": "2026-09-11T16:37:16-03:00"
+      "ultima_verificacao": "2026-09-11T16:47:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3392,
-      "ultima_verificacao": "2026-09-11T16:37:16-03:00"
+      "ultimo_numero": 3394,
+      "ultima_verificacao": "2026-09-11T16:47:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-11T16:37:16-03:00"
+      "ultima_verificacao": "2026-09-11T16:47:04-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7218,
-      "ultima_verificacao": "2026-09-11T16:37:16-03:00"
+      "ultima_verificacao": "2026-09-11T16:47:04-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13009,
-      "ultima_verificacao": "2026-09-11T16:37:16-03:00"
+      "ultima_verificacao": "2026-09-11T16:47:04-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5026,
-      "ultima_verificacao": "2026-09-11T16:37:16-03:00"
+      "ultima_verificacao": "2026-09-11T16:47:04-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14330,
-      "ultima_verificacao": "2026-09-11T16:37:16-03:00"
+      "ultima_verificacao": "2026-09-11T16:47:04-03:00"
     }
   },
   "protocolos": {
@@ -4165,6 +4165,28 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003394A",
+        "RE": "RE8265002842A",
+        "numgEdificacao": 370059,
+        "Nome_Edificacao": "Divino Sabor Lazzaretti LTDA",
+        "Logradouro": "Rodovia Governador Mário Covas",
+        "Numero": "",
+        "Bairro": "PORTO BELO - Santa Luzia",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-11T16:47:04-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003393A",
+        "RE": "RE8265002843A",
+        "numgEdificacao": 370081,
+        "Nome_Edificacao": "ALOHA RESIDENCE",
+        "Logradouro": "Rua João Carlos Abraham",
+        "Numero": "105",
+        "Bairro": "PORTO BELO - Balneário Perequê",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-11T16:47:04-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003392A",
         "RE": "RE8265000755A",
@@ -16183,12 +16205,12 @@
     "Botuvera": 39,
     "Guabiruba": 60,
     "Gaspar": 125,
-    "Porto Belo": 111,
+    "Porto Belo": 113,
     "Nova Trento": 62,
     "Itapema": 171,
     "Blumenau": 264,
     "Navegantes": 129,
     "Itajai": 354
   },
-  "total_geral": 1464
+  "total_geral": 1466
 }
