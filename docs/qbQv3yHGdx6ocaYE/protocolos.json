@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-10T20:13:26-03:00",
+  "timestamp": "2026-09-10T22:15:44-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8112,
-      "ultima_verificacao": "2026-09-10T20:13:26-03:00"
+      "ultima_verificacao": "2026-09-10T22:15:44-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-10T20:13:26-03:00"
+      "ultima_verificacao": "2026-09-10T22:15:44-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1534,
-      "ultima_verificacao": "2026-09-10T20:13:26-03:00"
+      "ultima_verificacao": "2026-09-10T22:15:44-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3890,
-      "ultima_verificacao": "2026-09-10T20:13:26-03:00"
+      "ultima_verificacao": "2026-09-10T22:15:44-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3390,
-      "ultima_verificacao": "2026-09-10T20:13:26-03:00"
+      "ultimo_numero": 3391,
+      "ultima_verificacao": "2026-09-10T22:15:44-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-10T20:13:26-03:00"
+      "ultima_verificacao": "2026-09-10T22:15:44-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7217,
-      "ultima_verificacao": "2026-09-10T20:13:26-03:00"
+      "ultima_verificacao": "2026-09-10T22:15:44-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13008,
-      "ultima_verificacao": "2026-09-10T20:13:26-03:00"
+      "ultima_verificacao": "2026-09-10T22:15:44-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5026,
-      "ultima_verificacao": "2026-09-10T20:13:26-03:00"
+      "ultima_verificacao": "2026-09-10T22:15:44-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14326,
-      "ultima_verificacao": "2026-09-10T20:13:26-03:00"
+      "ultima_verificacao": "2026-09-10T22:15:44-03:00"
     }
   },
   "protocolos": {
@@ -4132,6 +4132,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003391A",
+        "RE": "RE8265000380A",
+        "numgEdificacao": 62664,
+        "Nome_Edificacao": "RESIDENCIAL MONTBLANC",
+        "Logradouro": "RUA NILVIO LINO DA SILVA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-10T22:15:44-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003390A",
         "RE": "RE8265002612A",
@@ -16062,12 +16073,12 @@
     "Botuvera": 39,
     "Guabiruba": 59,
     "Gaspar": 124,
-    "Porto Belo": 109,
+    "Porto Belo": 110,
     "Nova Trento": 62,
     "Itapema": 170,
     "Blumenau": 263,
     "Navegantes": 129,
     "Itajai": 350
   },
-  "total_geral": 1453
+  "total_geral": 1454
 }
