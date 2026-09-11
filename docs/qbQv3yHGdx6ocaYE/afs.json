@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-11T12:00:31-03:00",
+  "timestamp": "2026-09-11T12:10:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1005,
+      "ultimo_numero": 1006,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T12:00:31-03:00"
+      "ultima_verificacao": "2026-09-11T12:10:20-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T12:00:31-03:00"
+      "ultima_verificacao": "2026-09-11T12:10:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 63,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T12:00:31-03:00"
+      "ultima_verificacao": "2026-09-11T12:10:20-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 632,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T12:00:31-03:00"
+      "ultima_verificacao": "2026-09-11T12:10:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T12:00:31-03:00"
+      "ultima_verificacao": "2026-09-11T12:10:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 536,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T12:00:31-03:00"
+      "ultima_verificacao": "2026-09-11T12:10:20-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1209,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T12:00:31-03:00"
+      "ultima_verificacao": "2026-09-11T12:10:20-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1180,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T12:00:31-03:00"
+      "ultima_verificacao": "2026-09-11T12:10:20-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 346,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T12:00:31-03:00"
+      "ultima_verificacao": "2026-09-11T12:10:20-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1211,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T12:00:31-03:00"
+      "ultima_verificacao": "2026-09-11T12:10:20-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001006A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000749A",
+        "Nome_Edificacao": "GALPÃO BATEAS LAUS",
+        "Logradouro": "Rua Edgar Von Buettner",
+        "Numero": "",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-11T12:10:20-03:00"
+      },
       {
         "CodigoAuto": "AF8055001005A/26",
         "Tipo": "AF",
@@ -29554,7 +29565,7 @@
     ]
   },
   "totais": {
-    "Brusque": 395,
+    "Brusque": 396,
     "Botuvera": 34,
     "Guabiruba": 43,
     "Gaspar": 217,
@@ -29565,5 +29576,5 @@
     "Navegantes": 142,
     "Itajai": 458
   },
-  "total_geral": 2679
+  "total_geral": 2680
 }
