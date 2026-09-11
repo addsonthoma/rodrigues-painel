@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-11T13:20:03-03:00",
+  "timestamp": "2026-09-11T13:30:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-11T13:30:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-11T13:30:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-11T13:30:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 61,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-11T13:30:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 117,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-11T13:30:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 145,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-11T13:30:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 200,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-11T13:30:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 250,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-11T13:30:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 94,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-11T13:30:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 453,
+      "ultimo_numero": 454,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-11T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-11T13:30:03-03:00"
     }
   },
   "multas": {
@@ -2333,6 +2333,16 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000454A/26",
+        "RE": "RE8161002823A",
+        "Nome_Edificacao": "CARLOS EDUARDO PROVESI",
+        "Logradouro": "Rua José Pereira Liberato",
+        "Numero": "1120",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-11T13:30:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000453A/26",
         "RE": "RE8161006630A",
@@ -6587,14 +6597,21 @@
     "Brusque": 72,
     "Gaspar": 37,
     "Guabiruba": 3,
-    "Itajai": 171,
+    "Itajai": 172,
     "Itapema": 83,
     "Navegantes": 56,
     "Nova Trento": 62,
     "Porto Belo": 60
   },
-  "total_geral": 662,
+  "total_geral": 663,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-11T13:30:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000454A/26",
+      "nome": "CARLOS EDUARDO PROVESI",
+      "re": "RE8161002823A"
+    },
     {
       "ts": "2026-09-11T13:20:03-03:00",
       "cidade": "Itajai",
@@ -6937,13 +6954,6 @@
       "codigo": "MUL8265000117A/26",
       "nome": "SUPER ATACADISTA LTDA",
       "re": "RE8265002023A"
-    },
-    {
-      "ts": "2026-09-08T09:10:04-03:00",
-      "cidade": "Porto Belo",
-      "codigo": "MUL8265000116A/26",
-      "nome": "ANTONIO CARLOS CABRAL",
-      "re": "RE8265001418A"
     }
   ]
 }
