@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-11T13:30:28-03:00",
+  "timestamp": "2026-09-11T13:40:25-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1009,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T13:30:28-03:00"
+      "ultima_verificacao": "2026-09-11T13:40:25-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T13:30:28-03:00"
+      "ultima_verificacao": "2026-09-11T13:40:25-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 63,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T13:30:28-03:00"
+      "ultima_verificacao": "2026-09-11T13:40:25-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 633,
+      "ultimo_numero": 634,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T13:30:28-03:00"
+      "ultima_verificacao": "2026-09-11T13:40:25-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 513,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T13:30:28-03:00"
+      "ultima_verificacao": "2026-09-11T13:40:25-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 537,
+      "ultimo_numero": 538,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T13:30:28-03:00"
+      "ultima_verificacao": "2026-09-11T13:40:25-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1209,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T13:30:28-03:00"
+      "ultima_verificacao": "2026-09-11T13:40:25-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1181,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T13:30:28-03:00"
+      "ultima_verificacao": "2026-09-11T13:40:25-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 346,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T13:30:28-03:00"
+      "ultima_verificacao": "2026-09-11T13:40:25-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1211,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-11T13:30:28-03:00"
+      "ultima_verificacao": "2026-09-11T13:40:25-03:00"
     }
   },
   "afs": {
@@ -5307,6 +5307,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000634A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001883A",
+        "Nome_Edificacao": "ADILSON THEISS",
+        "Logradouro": "Rua João Theiss",
+        "Numero": "1750",
+        "Bairro": "GASPAR - Belchior Alto",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-11T13:40:25-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000633A/26",
         "Tipo": "AF",
         "RE": "RE8117003293A",
@@ -10150,6 +10161,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000538A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000738A",
+        "Nome_Edificacao": "JAIR CECCATO",
+        "Logradouro": "RUA ALFERES",
+        "Numero": "1376",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-11T13:40:25-03:00"
+      },
       {
         "CodigoAuto": "AF8225000537A/26",
         "Tipo": "AF",
@@ -29634,13 +29656,13 @@
     "Brusque": 399,
     "Botuvera": 34,
     "Guabiruba": 43,
-    "Gaspar": 218,
+    "Gaspar": 219,
     "Porto Belo": 222,
-    "Nova Trento": 227,
+    "Nova Trento": 228,
     "Itapema": 475,
     "Blumenau": 468,
     "Navegantes": 142,
     "Itajai": 458
   },
-  "total_geral": 2686
+  "total_geral": 2688
 }
