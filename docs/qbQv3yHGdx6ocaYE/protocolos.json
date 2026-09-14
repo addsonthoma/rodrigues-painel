@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-14T13:36:56-03:00",
+  "timestamp": "2026-09-14T13:47:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8113,
-      "ultima_verificacao": "2026-09-14T13:36:56-03:00"
+      "ultimo_numero": 8114,
+      "ultima_verificacao": "2026-09-14T13:47:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 405,
-      "ultima_verificacao": "2026-09-14T13:36:56-03:00"
+      "ultima_verificacao": "2026-09-14T13:47:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1535,
-      "ultima_verificacao": "2026-09-14T13:36:56-03:00"
+      "ultima_verificacao": "2026-09-14T13:47:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3891,
-      "ultima_verificacao": "2026-09-14T13:36:56-03:00"
+      "ultima_verificacao": "2026-09-14T13:47:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3396,
-      "ultima_verificacao": "2026-09-14T13:36:56-03:00"
+      "ultima_verificacao": "2026-09-14T13:47:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-14T13:36:56-03:00"
+      "ultima_verificacao": "2026-09-14T13:47:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7219,
-      "ultima_verificacao": "2026-09-14T13:36:56-03:00"
+      "ultima_verificacao": "2026-09-14T13:47:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13012,
-      "ultima_verificacao": "2026-09-14T13:36:56-03:00"
+      "ultima_verificacao": "2026-09-14T13:47:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5028,
-      "ultima_verificacao": "2026-09-14T13:36:56-03:00"
+      "ultima_verificacao": "2026-09-14T13:47:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14332,
-      "ultima_verificacao": "2026-09-14T13:36:56-03:00"
+      "ultima_verificacao": "2026-09-14T13:47:57-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008114A",
+        "RE": "RE8055002087A",
+        "numgEdificacao": 166506,
+        "Nome_Edificacao": "JAIRO DE FREITAS FORMIGA",
+        "Logradouro": "Rua José Adriano",
+        "Numero": "80",
+        "Bairro": "BRUSQUE - AZAMBUJA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-14T13:47:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008113A",
         "RE": "RE8055003197A",
@@ -16311,7 +16322,7 @@
     ]
   },
   "totais": {
-    "Brusque": 149,
+    "Brusque": 150,
     "Botuvera": 39,
     "Guabiruba": 60,
     "Gaspar": 125,
@@ -16322,5 +16333,5 @@
     "Navegantes": 131,
     "Itajai": 356
   },
-  "total_geral": 1476
+  "total_geral": 1477
 }
