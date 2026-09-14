@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-14T08:17:10-03:00",
-  "total": 4993,
-  "expired": true,
+  "timestamp": "2026-09-14T08:39:19-03:00",
+  "total": 5025,
+  "expired": false,
   "drill": {
     "AF8047000787A/25": {
       "tipo": "FISCALIZACAO",
@@ -583,12 +583,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "19/12/2022",
-      "prazoDias": -1362,
+      "prazoDias": -1365,
       "bombeiroAutuacao": "Cb MAURICIO Inacio Juvencio",
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1789126525.6068206
+      "_ts": 1789385641.3044596
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1789126525.6068494
+      "_ts": 1789385641.3044865
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1789126525.606843
+      "_ts": 1789385641.3044755
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5111,7 +5111,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1789126512.7789412
+      "_ts": 1789385633.794431
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5126,12 +5126,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "21/10/2026",
-      "prazoDias": 40,
+      "prazoDias": 37,
       "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1789126512.7789075
+      "_ts": 1789385633.7944064
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5338,7 +5338,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1789126566.2698705
+      "_ts": 1789385692.8192954
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9450,7 +9450,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1789126505.9714935
+      "_ts": 1789385626.1245835
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9464,7 +9464,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1789126532.3007221
+      "_ts": 1789385648.8225439
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -9478,7 +9478,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000015A/26",
-      "_ts": 1789126540.899022
+      "_ts": 1789385655.3896554
     },
     "AF8051000014A/26": {
       "tipo": "AF",
@@ -9534,7 +9534,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000044A/26",
-      "_ts": 1789126578.5272367
+      "_ts": 1789385705.1067202
     },
     "AF8123000040A/26": {
       "tipo": "AF",
@@ -11780,6 +11780,7 @@
     },
     "AF8221000041A/22": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": 4091.82,
       "cidade": "NAVEGANTES",
       "responsavel": "EP2 Empreendimentos Imobiliários LTDA.",
       "cpfCnpj": "11405270000107",
@@ -11792,15 +11793,16 @@
         "Apresentar projeto (PPCI ou RPCI)"
       ],
       "dataPrazo": "04/04/2022",
-      "prazoDias": -1536,
+      "prazoDias": -1624,
       "bombeiroAutuacao": "1º Sgt EVANDRO de Oliveira Vargas",
       "bloco": "Único",
       "codgAuto": "AF8221000041A/22",
       "numgAuto": 51183,
-      "_ts": 1781782710.043642
+      "_ts": 1789385920.8634043
     },
     "AF8221001022A/22": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": 4091.82,
       "cidade": "NAVEGANTES",
       "responsavel": "EP2 Empreendimentos Imobiliários LTDA.",
       "cpfCnpj": "11405270000107",
@@ -11811,12 +11813,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "07/02/2023",
-      "prazoDias": -1227,
+      "prazoDias": -1315,
       "bombeiroAutuacao": "1º Sgt EVANDRO de Oliveira Vargas",
       "bloco": "Único",
       "codgAuto": "AF8221001022A/22",
       "numgAuto": 153730,
-      "_ts": 1781782710.043644
+      "_ts": 1789385920.8634062
     },
     "AF8221000230A/26": {
       "tipo": "FISCALIZACAO",
@@ -11858,6 +11860,7 @@
     },
     "MUL8221000003A/22": {
       "tipo": "MULTA",
+      "areaTotal": 4091.82,
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -11871,7 +11874,7 @@
       "bloco": "Único",
       "codgAuto": "MUL8221000003A/22",
       "numgAuto": 61515,
-      "_ts": 1781782710.0436547
+      "_ts": 1789385920.8634143
     },
     "CAS8221000001A/22": {
       "tipo": "CASSACAO_ATESTADO",
@@ -11892,6 +11895,7 @@
     },
     "MUL8221000230A/23": {
       "tipo": "MULTA",
+      "areaTotal": 4091.82,
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -11905,7 +11909,7 @@
       "bloco": "Único",
       "codgAuto": "MUL8221000230A/23",
       "numgAuto": 212867,
-      "_ts": 1781782710.043658
+      "_ts": 1789385920.8634164
     },
     "AF8221000048A/21": {
       "tipo": "FISCALIZACAO",
@@ -14002,7 +14006,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1789126557.5618072
+      "_ts": 1789385674.839613
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -30078,7 +30082,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1789126555.803645
+      "_ts": 1789385671.351489
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38500,7 +38504,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1789126548.9943132
+      "_ts": 1789385662.8242335
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -38515,12 +38519,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "22/09/2026",
-      "prazoDias": 11,
+      "prazoDias": 8,
       "bombeiroAutuacao": "Cb Frederico Moreira Silva",
       "bloco": "1",
       "codgAuto": "AF8123000114A/25",
       "numgAuto": 449049,
-      "_ts": 1789126548.994284
+      "_ts": 1789385662.824213
     },
     "AF8117000482A/26": {
       "tipo": "FISCALIZACAO",
@@ -93600,7 +93604,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8161001198A/26",
-      "_ts": 1789126870.3959098
+      "_ts": 1789385958.5699959
     },
     "AF8117000632A/26": {
       "tipo": "FISCALIZACAO",
@@ -96483,12 +96487,12 @@
         "Solicitar vistoria para funcionamento"
       ],
       "dataPrazo": "08/07/2026",
-      "prazoDias": -65,
+      "prazoDias": -68,
       "bombeiroAutuacao": "SubTen CARLITO Goncalves",
       "bloco": "Bloco 06 (Deck da lagoa)",
       "codgAuto": "AF8047000638A/26",
       "numgAuto": 501116,
-      "_ts": 1789126695.7609658
+      "_ts": 1789385897.6657586
     },
     "AF8047001176A/26": {
       "tipo": "FISCALIZACAO",
@@ -96503,12 +96507,12 @@
         "Solicitar vistoria para funcionamento"
       ],
       "dataPrazo": "12/10/2026",
-      "prazoDias": 31,
+      "prazoDias": 28,
       "bombeiroAutuacao": "2º Sgt Marcelo FERNANDES",
       "bloco": "Bloco 06 (Deck da lagoa)",
       "codgAuto": "AF8047001176A/26",
       "numgAuto": 528335,
-      "_ts": 1789126695.7609677
+      "_ts": 1789385897.66576
     },
     "AF8047001178A/26": {
       "tipo": "FISCALIZACAO",
@@ -96524,12 +96528,12 @@
         "Executar medidas de segurança para piscinas"
       ],
       "dataPrazo": "12/10/2026",
-      "prazoDias": 31,
+      "prazoDias": 28,
       "bombeiroAutuacao": "2º Sgt Marcelo FERNANDES",
       "bloco": "Bloco 06 (Deck da lagoa)",
       "codgAuto": "AF8047001178A/26",
       "numgAuto": 528354,
-      "_ts": 1789126695.760974
+      "_ts": 1789385897.6657612
     },
     "AF8047001177A/26": {
       "tipo": "AF",
@@ -96543,7 +96547,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8047001177A/26",
-      "_ts": 1789126693.930457
+      "_ts": 1789385897.6658716
     },
     "AF8047004235A/22": {
       "tipo": "FISCALIZACAO",
@@ -96959,6 +96963,637 @@
       "codgAuto": "MUL8161000122A/23",
       "numgAuto": 180616,
       "_ts": 1789126856.366129
+    },
+    "AF8055001009A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "593.56",
+      "cidade": "BRUSQUE",
+      "responsavel": "RONALDO SZPOGANICZ",
+      "cpfCnpj": "30980402972",
+      "celular": "47999179913",
+      "email": "ronaldoszpoganicz@gmail.com",
+      "endereco_responsavel": "R Joao Bauer, 360, Centro I, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "11/11/2026",
+      "prazoDias": 58,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8055001009A/26",
+      "numgAuto": 528518,
+      "_ts": 1789385569.6982746
+    },
+    "AF8055001008A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1282.3,
+      "cidade": "BRUSQUE",
+      "responsavel": "CONSTRUTORA CARDEAL ENGENHARIA LTDA",
+      "cpfCnpj": "50182196000150",
+      "celular": "47992730013",
+      "email": "contato@costrutoracardeal.com.br",
+      "endereco_responsavel": "Rua Fernando Dallago, 5117, Limeira Alta, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "09/10/2026",
+      "prazoDias": 25,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "REGULARIZAÇÃO",
+      "codgAuto": "AF8055001008A/26",
+      "numgAuto": 528503,
+      "_ts": 1789385578.1869187
+    },
+    "AF8055001007A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 257.38,
+      "cidade": "BRUSQUE",
+      "responsavel": "HILLBILLY ACO FORTE LTDA",
+      "cpfCnpj": "41567682000104",
+      "celular": "47999352288",
+      "email": "supcontabil@hotmail.com",
+      "endereco_responsavel": "Rua Guilherme Wegner, 869, São Luiz, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "09/10/2026",
+      "prazoDias": 25,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "Bloco 1",
+      "codgAuto": "AF8055001007A/26",
+      "numgAuto": 528499,
+      "_ts": 1789385587.8952672
+    },
+    "AF8055001006A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "206.39",
+      "cidade": "BRUSQUE",
+      "responsavel": "MARCIO LUCIANO LAUS",
+      "cpfCnpj": "63307596934",
+      "celular": "47991264682",
+      "email": "jcvanatt@gmail.com",
+      "endereco_responsavel": "Rua Nova Trento, Sem número, Azambuja, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "10/09/2027",
+      "prazoDias": 361,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "LAUS BATEAS",
+      "codgAuto": "AF8055001006A/26",
+      "numgAuto": 528496,
+      "_ts": 1789385595.567837
+    },
+    "AF8117000638A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1938.3,
+      "cidade": "GASPAR",
+      "responsavel": "ROBERTO VON HERTWIG",
+      "cpfCnpj": "07511963803",
+      "celular": "47933222632",
+      "email": "paralegal@zonta.com.br",
+      "endereco_responsavel": "Alameda Rio Branco, 965, Jardim Blumenau, Blumenau",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "11/09/2027",
+      "prazoDias": 362,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "ARENA GASPAR LTDA",
+      "codgAuto": "AF8117000638A/26",
+      "numgAuto": 528687,
+      "_ts": 1789385713.481951
+    },
+    "AF8117000637A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1379.04,
+      "cidade": "GASPAR",
+      "responsavel": "Jorge Luiz Gaboardi",
+      "cpfCnpj": "42334756920",
+      "celular": "47991351201",
+      "email": "tiago.swengenharia@gmail.com",
+      "endereco_responsavel": "Avenida Deputado Francisco Mastella, 95, Sete de Setembro, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "11/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Bloco 1",
+      "codgAuto": "AF8117000637A/26",
+      "numgAuto": 528632,
+      "_ts": 1789385728.118797
+    },
+    "AF8117000636A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "2660.87",
+      "cidade": "GASPAR",
+      "responsavel": "Alexandre Ferreira",
+      "cpfCnpj": "70452130930",
+      "celular": "47996307217",
+      "email": "sociedadegasparense.26@gmail.com",
+      "endereco_responsavel": "Rua Arnoldo Koch, 230, Coloninha, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "11/03/2027",
+      "prazoDias": 178,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000636A/26",
+      "numgAuto": 528628,
+      "_ts": 1789385737.407005
+    },
+    "AF8117000635A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1111.49,
+      "cidade": "GASPAR",
+      "responsavel": "Ricardo Paulo Bernardino Duarte",
+      "cpfCnpj": "05014537928",
+      "celular": "47999756909",
+      "email": "ricardo@gaspar.sc.gov.br",
+      "endereco_responsavel": "Rua São Pedro, 128, Centro, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "11/11/2026",
+      "prazoDias": 58,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "CDI Maria da Silva",
+      "codgAuto": "AF8117000635A/26",
+      "numgAuto": 528619,
+      "_ts": 1789385749.931047
+    },
+    "AF8117000164A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "707.94",
+      "cidade": "GASPAR",
+      "responsavel": "ADILSON THEISS",
+      "cpfCnpj": "04454686963",
+      "celular": "47988173032",
+      "email": "thacmoveis@yahoo.com.br",
+      "endereco_responsavel": "Rua João Theiss, 1750, Belchior Alto, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "31/08/2026",
+      "prazoDias": -14,
+      "bombeiroAutuacao": "Sd Marcela  SAMADIAN de Castro Marimon ",
+      "bloco": "Galpao",
+      "codgAuto": "AF8117000164A/25",
+      "numgAuto": 376459,
+      "_ts": 1789385765.5409887
+    },
+    "AF8117000634A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "707.94",
+      "cidade": "GASPAR",
+      "responsavel": "ADILSON THEISS",
+      "cpfCnpj": "04454686963",
+      "celular": "47988173032",
+      "email": "thacmoveis@yahoo.com.br",
+      "endereco_responsavel": "Rua João Theiss, 1750, Belchior Alto, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "27/02/2027",
+      "prazoDias": 166,
+      "bombeiroAutuacao": "Sd Matheus FERRER Ferreira",
+      "bloco": "Galpao",
+      "codgAuto": "AF8117000634A/26",
+      "numgAuto": 528546,
+      "_ts": 1789385765.5409925
+    },
+    "MUL8117000058A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "707.94",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Galpao",
+      "codgAuto": "MUL8117000058A/26",
+      "numgAuto": 527670,
+      "_ts": 1789385765.5410032
+    },
+    "AF8117000633A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "600",
+      "cidade": "GASPAR",
+      "responsavel": "Simone Aparecida da Silva Bianchi",
+      "cpfCnpj": "94823561953",
+      "celular": "47996625967",
+      "email": "simoneaparecida@sed.sc.gov.br",
+      "endereco_responsavel": "Rua Itajai, 1680, Sete de Setembro, Gaspar",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "11/03/2027",
+      "prazoDias": 178,
+      "bombeiroAutuacao": "Sd Matheus FERRER Ferreira",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000633A/26",
+      "numgAuto": 528525,
+      "_ts": 1789385781.3608503
+    },
+    "AF8225000543A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 50,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "Ademiltom Veneri",
+      "cpfCnpj": "03314665970",
+      "celular": "48991042841",
+      "email": "bm.motos2@gmail.com",
+      "endereco_responsavel": "Rua Alferes, 1114, Trinta Reis, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "30/10/2026",
+      "prazoDias": 46,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "COMERCIAL",
+      "codgAuto": "AF8225000543A/26",
+      "numgAuto": 528614,
+      "_ts": 1789385789.8937118
+    },
+    "AF8225000542A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 56,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "Ademiltom Veneri",
+      "cpfCnpj": "03314665970",
+      "celular": "48991042841",
+      "email": "bm.motos2@gmail.com",
+      "endereco_responsavel": "Rua Alferes, 1114, Trinta Reis, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "30/10/2026",
+      "prazoDias": 46,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "COMERCIAL",
+      "codgAuto": "AF8225000542A/26",
+      "numgAuto": 528609,
+      "_ts": 1789385799.0044305
+    },
+    "AF8225000541A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 149,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "23.236.127 MIRIAM MAZERA ERBS",
+      "cpfCnpj": "23236127000100",
+      "celular": "48996539466",
+      "email": "miriamerbs@gmail.com",
+      "endereco_responsavel": "R Alferes, 801, Trinta Reis, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "21/10/2026",
+      "prazoDias": 37,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "Bloco",
+      "codgAuto": "AF8225000541A/26",
+      "numgAuto": 528590,
+      "_ts": 1789385808.1255274
+    },
+    "AF8225000177A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 169.06,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL",
+      "cpfCnpj": "14860908000180",
+      "celular": "48991457736",
+      "email": "cras@novatrento.sc.gov.br",
+      "endereco_responsavel": "Salvador Gessele, 150, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "31/10/2023",
+      "prazoDias": -1049,
+      "bombeiroAutuacao": "Sd GABRIEL de Oliveira",
+      "bloco": "CRAS NOVA TRENTO",
+      "codgAuto": "AF8225000177A/23",
+      "numgAuto": 231937,
+      "_ts": 1789385817.5060892
+    },
+    "AF8225000128A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 169.06,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL",
+      "cpfCnpj": "14860908000180",
+      "celular": "48991457736",
+      "email": "cras@novatrento.sc.gov.br",
+      "endereco_responsavel": "Salvador Gessele, 150, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "12/10/2024",
+      "prazoDias": -702,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "CRAS NOVA TRENTO",
+      "codgAuto": "AF8225000128A/24",
+      "numgAuto": 329905,
+      "_ts": 1789385817.5060985
+    },
+    "AF8225000540A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 169.06,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL",
+      "cpfCnpj": "14860908000180",
+      "celular": "48991457736",
+      "email": "cras@novatrento.sc.gov.br",
+      "endereco_responsavel": "Salvador Gessele, 150, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "21/10/2026",
+      "prazoDias": 37,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "CRAS NOVA TRENTO",
+      "codgAuto": "AF8225000540A/26",
+      "numgAuto": 528588,
+      "_ts": 1789385817.5061011
+    },
+    "MUL8225000050A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 169.06,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "CRAS NOVA TRENTO",
+      "codgAuto": "MUL8225000050A/24",
+      "numgAuto": 343962,
+      "_ts": 1789385817.5061417
+    },
+    "AF8225000150A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 338,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "VOLNEI JOAO BOTTAMEDI",
+      "cpfCnpj": "49941550972",
+      "celular": "48991161510",
+      "email": "tubossaoroque@yahoo.com.br",
+      "endereco_responsavel": "Rua Jose Battisti Archer, 351, São Roque, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "23/09/2023",
+      "prazoDias": -1087,
+      "bombeiroAutuacao": "Sd Augusto CAMILLO Nogueira",
+      "bloco": "BLOCO",
+      "codgAuto": "AF8225000150A/23",
+      "numgAuto": 229231,
+      "_ts": 1789385824.8013265
+    },
+    "AF8225000539A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 338,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "VOLNEI JOAO BOTTAMEDI",
+      "cpfCnpj": "49941550972",
+      "celular": "48991161510",
+      "email": "tubossaoroque@yahoo.com.br",
+      "endereco_responsavel": "Rua Jose Battisti Archer, 351, São Roque, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "20/10/2026",
+      "prazoDias": 36,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "BLOCO",
+      "codgAuto": "AF8225000539A/26",
+      "numgAuto": 528571,
+      "_ts": 1789385824.8013327
+    },
+    "MUL8225000113A/23": {
+      "tipo": "MULTA",
+      "areaTotal": 338,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "BLOCO",
+      "codgAuto": "MUL8225000113A/23",
+      "numgAuto": 241595,
+      "_ts": 1789385824.8013647
+    },
+    "AF8225000696A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 192,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "Jair Ceccato",
+      "cpfCnpj": "75324075949",
+      "celular": "48984829901",
+      "email": "ceccatomotos@gmail.com",
+      "endereco_responsavel": "Rua Alferes, 1376, Trinta Reis, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "16/12/2025",
+      "prazoDias": -272,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "COMERCIAL",
+      "codgAuto": "AF8225000696A/25",
+      "numgAuto": 445938,
+      "_ts": 1789385835.2224073
+    },
+    "AF8225000697A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 192,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "Jair Ceccato",
+      "cpfCnpj": "75324075949",
+      "celular": "48984829901",
+      "email": "ceccatomotos@gmail.com",
+      "endereco_responsavel": "Rua Alferes, 1376, Trinta Reis, Nova Trento",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "05/02/2026",
+      "prazoDias": -221,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "COMERCIAL",
+      "codgAuto": "AF8225000697A/25",
+      "numgAuto": 445940,
+      "_ts": 1789385835.222414
+    },
+    "AF8225000538A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 192,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "Jair Ceccato",
+      "cpfCnpj": "75324075949",
+      "celular": "48984829901",
+      "email": "ceccatomotos@gmail.com",
+      "endereco_responsavel": "Rua Alferes, 1376, Trinta Reis, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "11/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "COMERCIAL",
+      "codgAuto": "AF8225000538A/26",
+      "numgAuto": 528544,
+      "_ts": 1789385835.222416
+    },
+    "MUL8225000128A/25": {
+      "tipo": "MULTA",
+      "areaTotal": 192,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "COMERCIAL",
+      "codgAuto": "MUL8225000128A/25",
+      "numgAuto": 459715,
+      "_ts": 1789385835.2224379
+    },
+    "MUL8225000024A/26": {
+      "tipo": "MULTA",
+      "areaTotal": 192,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "COMERCIAL",
+      "codgAuto": "MUL8225000024A/26",
+      "numgAuto": 468894,
+      "_ts": 1789385835.2224405
+    },
+    "AF8225000537A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "48",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "51.926.946 KENIA JACOMELI FERREIRA",
+      "cpfCnpj": "51926946000114",
+      "celular": "48988499027",
+      "email": "chacara.maranata410@gmail.com",
+      "endereco_responsavel": "Rod Sc 410, Sem número, Ponta Fina Norte, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para habite-se",
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "20/10/2026",
+      "prazoDias": 36,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "QUEIJARIA",
+      "codgAuto": "AF8225000537A/26",
+      "numgAuto": 528529,
+      "_ts": 1789385844.4141788
+    },
+    "AF8047001181A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 3249.71,
+      "cidade": "BLUMENAU",
+      "responsavel": "CONDOMINIO RESIDENCIAL WENDERLICH",
+      "cpfCnpj": "28704374000107",
+      "celular": "47996280205",
+      "email": "atendimento.bnu@brcondos.com.br",
+      "endereco_responsavel": "R Santa Sofia, 77, Itoupava Norte, Blumenau",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "07/09/2027",
+      "prazoDias": 358,
+      "bombeiroAutuacao": "Cb Luiz Henrique Pereira",
+      "bloco": "BLOCO ÚNICO",
+      "codgAuto": "AF8047001181A/26",
+      "numgAuto": 528498,
+      "_ts": 1789385852.5175507
+    },
+    "AF8047001180A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "780.17",
+      "cidade": "BLUMENAU",
+      "responsavel": "Fabio Juliano Amorim Barbieri",
+      "cpfCnpj": "92105157904",
+      "celular": "47999954887",
+      "email": "gustavo@fsb.eng.br",
+      "endereco_responsavel": "Rua Doutor Celso Leon Salles, Sem número, Vorstadt, Blumenau",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "13/10/2026",
+      "prazoDias": 29,
+      "bombeiroAutuacao": "Cb Juliana Pizutti DALLABRIDA",
+      "bloco": "RESTAURANTE",
+      "codgAuto": "AF8047001180A/26",
+      "numgAuto": 528457,
+      "_ts": 1789385859.30913
+    },
+    "AF8221000347A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 4091.82,
+      "cidade": "NAVEGANTES",
+      "responsavel": "Zaira Danielle Castro Ferreira",
+      "cpfCnpj": "88833070204",
+      "celular": "47996019372",
+      "email": "zairadcf@gmail.com",
+      "endereco_responsavel": "Rua Carlos Boos, 1331, Gravatá, Navegantes",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "13/10/2026",
+      "prazoDias": 29,
+      "bombeiroAutuacao": "Sd BRUNA  Oliveira da Silva ",
+      "bloco": "Único",
+      "codgAuto": "AF8221000347A/26",
+      "numgAuto": 528651,
+      "_ts": 1789385920.8634076
+    },
+    "AF8161001212A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "2563.56",
+      "cidade": "ITAJAÍ",
+      "responsavel": "MX INDUSTRIA E COMERCIO DE MOVEIS LTDA",
+      "cpfCnpj": "01717285000300",
+      "celular": "49991810299",
+      "email": "nfe@mxmoveis.com.br",
+      "endereco_responsavel": "R Pedro Joao Pinto, 275, Canhanduba, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "14/12/2026",
+      "prazoDias": 91,
+      "bombeiroAutuacao": "Sd Diego da Costa  DI SCIPIO",
+      "bloco": "Bloco 03",
+      "codgAuto": "AF8161001212A/26",
+      "numgAuto": 528714,
+      "_ts": 1789385944.859921
     }
   }
 }
