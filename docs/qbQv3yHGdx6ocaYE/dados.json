@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-14T15:10:03-03:00",
+  "timestamp": "2026-09-14T15:30:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T15:10:03-03:00"
+      "ultima_verificacao": "2026-09-14T15:30:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T15:10:03-03:00"
+      "ultima_verificacao": "2026-09-14T15:30:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T15:10:03-03:00"
+      "ultima_verificacao": "2026-09-14T15:30:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 61,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T15:10:03-03:00"
+      "ultima_verificacao": "2026-09-14T15:30:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T15:10:03-03:00"
+      "ultima_verificacao": "2026-09-14T15:30:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 146,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T15:10:03-03:00"
+      "ultima_verificacao": "2026-09-14T15:30:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 205,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T15:10:03-03:00"
+      "ultima_verificacao": "2026-09-14T15:30:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 256,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T15:10:03-03:00"
+      "ultima_verificacao": "2026-09-14T15:30:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 94,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T15:10:03-03:00"
+      "ultima_verificacao": "2026-09-14T15:30:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 458,
+      "ultimo_numero": 460,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T15:10:03-03:00"
+      "ultima_verificacao": "2026-09-14T15:30:04-03:00"
     }
   },
   "multas": {
@@ -2393,6 +2393,26 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000459A/26",
+        "RE": "RE8161002224A",
+        "Nome_Edificacao": "INVENTÁRIO FERNANDO HEUSI SEÁRA",
+        "Logradouro": "Rua Quinze de Novembro",
+        "Numero": "28",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-14T15:30:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000460A/26",
+        "RE": "RE8161001499A",
+        "Nome_Edificacao": "POSTO AVENIDA DO ESTADO LTDA",
+        "Logradouro": "Rua Doutor Reinaldo Schmithausen",
+        "Numero": "169",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-14T15:30:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000455A/26",
         "RE": "RE8161011647A",
@@ -6767,14 +6787,28 @@
     "Brusque": 72,
     "Gaspar": 37,
     "Guabiruba": 3,
-    "Itajai": 176,
+    "Itajai": 178,
     "Itapema": 88,
     "Navegantes": 56,
     "Nova Trento": 63,
     "Porto Belo": 61
   },
-  "total_geral": 680,
+  "total_geral": 682,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-14T15:30:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000460A/26",
+      "nome": "POSTO AVENIDA DO ESTADO LTDA",
+      "re": "RE8161001499A"
+    },
+    {
+      "ts": "2026-09-14T15:30:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000459A/26",
+      "nome": "INVENTÁRIO FERNANDO HEUSI SEÁRA",
+      "re": "RE8161002224A"
+    },
     {
       "ts": "2026-09-14T15:10:03-03:00",
       "cidade": "Itajai",
@@ -7110,20 +7144,6 @@
       "codigo": "MUL8055000124A/26",
       "nome": "GALPÃO FABRICIO",
       "re": "RE8055003343A"
-    },
-    {
-      "ts": "2026-09-09T12:50:03-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000059A/26",
-      "nome": "JOSE CLAUDIO DEMMER",
-      "re": "RE8117001658A"
-    },
-    {
-      "ts": "2026-09-09T12:20:03-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000058A/26",
-      "nome": "ADILSON THEISS",
-      "re": "RE8117001883A"
     }
   ]
 }
