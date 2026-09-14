@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-14T13:00:22-03:00",
+  "timestamp": "2026-09-14T13:10:29-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1012,
+      "ultimo_numero": 1013,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T13:00:22-03:00"
+      "ultima_verificacao": "2026-09-14T13:10:29-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T13:00:22-03:00"
+      "ultima_verificacao": "2026-09-14T13:10:29-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T13:00:22-03:00"
+      "ultima_verificacao": "2026-09-14T13:10:29-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 638,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T13:00:22-03:00"
+      "ultima_verificacao": "2026-09-14T13:10:29-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 514,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T13:00:22-03:00"
+      "ultima_verificacao": "2026-09-14T13:10:29-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 543,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T13:00:22-03:00"
+      "ultima_verificacao": "2026-09-14T13:10:29-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1209,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T13:00:22-03:00"
+      "ultima_verificacao": "2026-09-14T13:10:29-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1183,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T13:00:22-03:00"
+      "ultima_verificacao": "2026-09-14T13:10:29-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T13:00:22-03:00"
+      "ultima_verificacao": "2026-09-14T13:10:29-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1212,
+      "ultimo_numero": 1213,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T13:00:22-03:00"
+      "ultima_verificacao": "2026-09-14T13:10:29-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001013A/26",
+        "Tipo": "AF",
+        "RE": "RE8055006821A",
+        "Nome_Edificacao": "F HAAG LTDA",
+        "Logradouro": "RODOVIA DEPUTADO ANTONIO HEIL (SC 486)",
+        "Numero": "635",
+        "Bairro": "BRUSQUE - CENTRO II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-14T13:10:29-03:00"
+      },
       {
         "CodigoAuto": "AF8055001012A/26",
         "Tipo": "AF",
@@ -24800,6 +24811,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001213A/26",
+        "Tipo": "AF",
+        "RE": "RE8161000541A",
+        "Nome_Edificacao": "NEIVO JOSE MARCHEZIN",
+        "Logradouro": "Rodovia BR-101",
+        "Numero": "8875",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-14T13:10:29-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001212A/26",
         "Tipo": "AF",
         "RE": "RE8161001010A",
@@ -29851,7 +29873,7 @@
     ]
   },
   "totais": {
-    "Brusque": 402,
+    "Brusque": 403,
     "Botuvera": 34,
     "Guabiruba": 44,
     "Gaspar": 223,
@@ -29860,7 +29882,7 @@
     "Itapema": 475,
     "Blumenau": 470,
     "Navegantes": 143,
-    "Itajai": 459
+    "Itajai": 460
   },
-  "total_geral": 2706
+  "total_geral": 2708
 }
