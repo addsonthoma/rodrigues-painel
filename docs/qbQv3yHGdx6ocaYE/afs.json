@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-14T12:40:21-03:00",
+  "timestamp": "2026-09-14T12:50:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1012,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T12:40:21-03:00"
+      "ultima_verificacao": "2026-09-14T12:50:20-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T12:40:21-03:00"
+      "ultima_verificacao": "2026-09-14T12:50:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T12:40:21-03:00"
+      "ultima_verificacao": "2026-09-14T12:50:20-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 638,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T12:40:21-03:00"
+      "ultima_verificacao": "2026-09-14T12:50:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 514,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T12:40:21-03:00"
+      "ultima_verificacao": "2026-09-14T12:50:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 543,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T12:40:21-03:00"
+      "ultima_verificacao": "2026-09-14T12:50:20-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1209,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T12:40:21-03:00"
+      "ultima_verificacao": "2026-09-14T12:50:20-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1182,
+      "ultimo_numero": 1183,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T12:40:21-03:00"
+      "ultima_verificacao": "2026-09-14T12:50:20-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 347,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T12:40:21-03:00"
+      "ultima_verificacao": "2026-09-14T12:50:20-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1212,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-14T12:40:21-03:00"
+      "ultima_verificacao": "2026-09-14T12:50:20-03:00"
     }
   },
   "afs": {
@@ -18053,6 +18053,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001183A/26",
+        "Tipo": "AF",
+        "RE": "RE8047010341A",
+        "Nome_Edificacao": "COMUNIDADE SÃO DOMINGOS SAVIO",
+        "Logradouro": "Rua: Franz Volles",
+        "Numero": "1656",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-14T12:50:20-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001182A/26",
         "Tipo": "AF",
         "RE": "RE8047001117A",
@@ -29847,9 +29858,9 @@
     "Porto Belo": 223,
     "Nova Trento": 233,
     "Itapema": 475,
-    "Blumenau": 469,
+    "Blumenau": 470,
     "Navegantes": 143,
     "Itajai": 459
   },
-  "total_geral": 2705
+  "total_geral": 2706
 }
