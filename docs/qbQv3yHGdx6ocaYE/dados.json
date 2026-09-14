@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-09-14T13:50:03-03:00",
+  "timestamp": "2026-09-14T14:10:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-14T14:10:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-14T14:10:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-14T14:10:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 61,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-14T14:10:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-14T14:10:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 146,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-14T14:10:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 205,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-14T14:10:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 253,
+      "ultimo_numero": 254,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-14T14:10:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 94,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-14T14:10:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 454,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-14T14:10:03-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000254A/26",
+        "RE": "RE8047011456A",
+        "Nome_Edificacao": "ASSOCIACAO DE BENEFICIOS MUTUOS DA REGIAO SUL",
+        "Logradouro": "R AMAZONAS+.",
+        "Numero": "2256",
+        "Bairro": "BLUMENAU - GARCIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-14T14:10:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000253A/26",
         "RE": "RE8047000459A",
@@ -6692,7 +6702,7 @@
     ]
   },
   "totais": {
-    "Blumenau": 118,
+    "Blumenau": 119,
     "Botuvera": 3,
     "Brusque": 72,
     "Gaspar": 37,
@@ -6703,8 +6713,15 @@
     "Nova Trento": 63,
     "Porto Belo": 61
   },
-  "total_geral": 673,
+  "total_geral": 674,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-14T14:10:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000254A/26",
+      "nome": "ASSOCIACAO DE BENEFICIOS MUTUOS DA REGIAO SUL",
+      "re": "RE8047011456A"
+    },
     {
       "ts": "2026-09-14T13:30:03-03:00",
       "cidade": "Itapema",
@@ -7047,13 +7064,6 @@
       "codigo": "MUL8117000054A/26",
       "nome": "CARLOS ISENSEE",
       "re": "RE8117002364A"
-    },
-    {
-      "ts": "2026-09-08T15:50:04-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000121A/26",
-      "nome": "Galpão Carlos Day",
-      "re": "RE8055002391A"
     }
   ]
 }
