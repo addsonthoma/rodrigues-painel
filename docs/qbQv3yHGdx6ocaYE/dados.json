@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-14T08:30:15-03:00",
+  "timestamp": "2026-09-14T08:50:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T08:30:15-03:00"
+      "ultima_verificacao": "2026-09-14T08:50:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T08:30:15-03:00"
+      "ultima_verificacao": "2026-09-14T08:50:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T08:30:15-03:00"
+      "ultima_verificacao": "2026-09-14T08:50:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 61,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T08:30:15-03:00"
+      "ultima_verificacao": "2026-09-14T08:50:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 117,
+      "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T08:30:15-03:00"
+      "ultima_verificacao": "2026-09-14T08:50:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 145,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T08:30:15-03:00"
+      "ultima_verificacao": "2026-09-14T08:50:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 201,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T08:30:15-03:00"
+      "ultima_verificacao": "2026-09-14T08:50:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 253,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T08:30:15-03:00"
+      "ultima_verificacao": "2026-09-14T08:50:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 94,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T08:30:15-03:00"
+      "ultima_verificacao": "2026-09-14T08:50:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 454,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-14T08:30:15-03:00"
+      "ultima_verificacao": "2026-09-14T08:50:03-03:00"
     }
   },
   "multas": {
@@ -6048,6 +6048,16 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "MUL8265000118A/26",
+        "RE": "RE8265002800A",
+        "Nome_Edificacao": "Viva Lounge SC LTDA",
+        "Logradouro": "Rua Otavio Quinholi",
+        "Numero": "149",
+        "Bairro": "PORTO BELO - Jardim Dourado",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-14T08:50:03-03:00"
+      },
+      {
         "CodigoAuto": "MUL8265000117A/26",
         "RE": "RE8265002023A",
         "Nome_Edificacao": "SUPER ATACADISTA LTDA",
@@ -6641,10 +6651,17 @@
     "Itapema": 84,
     "Navegantes": 56,
     "Nova Trento": 62,
-    "Porto Belo": 60
+    "Porto Belo": 61
   },
-  "total_geral": 667,
+  "total_geral": 668,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-14T08:50:03-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000118A/26",
+      "nome": "Viva Lounge SC LTDA",
+      "re": "RE8265002800A"
+    },
     {
       "ts": "2026-09-11T15:40:04-03:00",
       "cidade": "Blumenau",
@@ -6987,13 +7004,6 @@
       "codigo": "MUL8117000051A/26",
       "nome": "ELPIDIO LUIZ SCHNAIDER",
       "re": "RE8117003027A"
-    },
-    {
-      "ts": "2026-09-08T14:00:04-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000439A/26",
-      "nome": "VOLNEI PAULO VOGEL",
-      "re": "RE8161006124A"
     }
   ]
 }
