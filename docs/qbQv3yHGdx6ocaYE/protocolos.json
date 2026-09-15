@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-15T11:07:28-03:00",
+  "timestamp": "2026-09-15T11:18:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8114,
-      "ultima_verificacao": "2026-09-15T11:07:28-03:00"
+      "ultima_verificacao": "2026-09-15T11:18:26-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 407,
-      "ultima_verificacao": "2026-09-15T11:07:28-03:00"
+      "ultima_verificacao": "2026-09-15T11:18:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1535,
-      "ultima_verificacao": "2026-09-15T11:07:28-03:00"
+      "ultimo_numero": 1536,
+      "ultima_verificacao": "2026-09-15T11:18:26-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3896,
-      "ultima_verificacao": "2026-09-15T11:07:28-03:00"
+      "ultima_verificacao": "2026-09-15T11:18:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3397,
-      "ultima_verificacao": "2026-09-15T11:07:28-03:00"
+      "ultima_verificacao": "2026-09-15T11:18:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 978,
-      "ultima_verificacao": "2026-09-15T11:07:28-03:00"
+      "ultima_verificacao": "2026-09-15T11:18:26-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-15T11:07:28-03:00"
+      "ultima_verificacao": "2026-09-15T11:18:26-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13016,
-      "ultima_verificacao": "2026-09-15T11:07:28-03:00"
+      "ultima_verificacao": "2026-09-15T11:18:26-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5029,
-      "ultima_verificacao": "2026-09-15T11:07:28-03:00"
+      "ultima_verificacao": "2026-09-15T11:18:26-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14336,
-      "ultima_verificacao": "2026-09-15T11:07:28-03:00"
+      "ultima_verificacao": "2026-09-15T11:18:26-03:00"
     }
   },
   "protocolos": {
@@ -2159,6 +2159,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001536A",
+        "RE": "RE8123000074A",
+        "numgEdificacao": 27305,
+        "Nome_Edificacao": "TECELAGEM CAVIQUIOLI LTDA",
+        "Logradouro": "Luis Baron",
+        "Numero": "235",
+        "Bairro": "GUABIRUBA - SAO PEDRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-09-15T11:18:26-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001535A",
         "RE": "RE8123001219A",
@@ -16533,7 +16544,7 @@
   "totais": {
     "Brusque": 150,
     "Botuvera": 41,
-    "Guabiruba": 60,
+    "Guabiruba": 61,
     "Gaspar": 130,
     "Porto Belo": 116,
     "Nova Trento": 62,
@@ -16542,5 +16553,5 @@
     "Navegantes": 132,
     "Itajai": 360
   },
-  "total_geral": 1496
+  "total_geral": 1497
 }
