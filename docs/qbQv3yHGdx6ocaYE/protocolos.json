@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-15T14:17:48-03:00",
+  "timestamp": "2026-09-15T14:27:49-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8114,
-      "ultima_verificacao": "2026-09-15T14:17:48-03:00"
+      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-15T14:17:48-03:00"
+      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1536,
-      "ultima_verificacao": "2026-09-15T14:17:48-03:00"
+      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3896,
-      "ultima_verificacao": "2026-09-15T14:17:48-03:00"
+      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3397,
-      "ultima_verificacao": "2026-09-15T14:17:48-03:00"
+      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-15T14:17:48-03:00"
+      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-15T14:17:48-03:00"
+      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13017,
-      "ultima_verificacao": "2026-09-15T14:17:48-03:00"
+      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5029,
-      "ultima_verificacao": "2026-09-15T14:17:48-03:00"
+      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14336,
-      "ultima_verificacao": "2026-09-15T14:17:48-03:00"
+      "ultimo_numero": 14337,
+      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
     }
   },
   "protocolos": {
@@ -12613,6 +12613,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014337A",
+        "RE": "RE8161001146A",
+        "numgEdificacao": 31528,
+        "Nome_Edificacao": "CEI ANA DA SILVA FONTES",
+        "Logradouro": "Rua Santo Agostinho",
+        "Numero": "917",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-15T14:27:49-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014336A",
         "RE": "RE8161011812A",
         "numgEdificacao": 313418,
@@ -16584,7 +16595,7 @@
     "Itapema": 174,
     "Blumenau": 272,
     "Navegantes": 132,
-    "Itajai": 360
+    "Itajai": 361
   },
-  "total_geral": 1500
+  "total_geral": 1501
 }
