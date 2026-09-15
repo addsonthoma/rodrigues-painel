@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-15T14:30:04-03:00",
+  "timestamp": "2026-09-15T14:50:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-15T14:50:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-15T14:50:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-15T14:50:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
-      "ultimo_numero": 61,
+      "ultimo_numero": 63,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-15T14:50:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-15T14:50:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 146,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-15T14:50:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 206,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-15T14:50:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 256,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-15T14:50:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
-      "ultimo_numero": 94,
+      "ultimo_numero": 95,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-15T14:50:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 461,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T14:30:04-03:00"
+      "ultima_verificacao": "2026-09-15T14:50:04-03:00"
     }
   },
   "multas": {
@@ -2007,6 +2007,26 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "MUL8117000062A/26",
+        "RE": "RE8117000888A",
+        "Nome_Edificacao": "DELTA EMPREENDIMENTOS IMOBILIáRIO LTDA",
+        "Logradouro": "Avenida Frei Godofredo",
+        "Numero": "341",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-15T14:50:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8117000063A/26",
+        "RE": "RE8117003061A",
+        "Nome_Edificacao": "José Alcides Soares",
+        "Logradouro": "RODOVIA JORGE LACERDA",
+        "Numero": "5655",
+        "Bairro": "GASPAR - POCINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-15T14:50:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8117000061A/26",
         "RE": "RE8117001175A",
@@ -5045,6 +5065,16 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "MUL8221000095A/26",
+        "RE": "RE8221001222A",
+        "Nome_Edificacao": "GUIDO SCHMIDT",
+        "Logradouro": "Rua André Schumacher",
+        "Numero": "634",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-15T14:50:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8221000094A/26",
         "RE": "RE8221000621A",
         "Nome_Edificacao": "FLAVIO ADRIANO",
@@ -6805,16 +6835,37 @@
     "Blumenau": 121,
     "Botuvera": 3,
     "Brusque": 72,
-    "Gaspar": 37,
+    "Gaspar": 39,
     "Guabiruba": 3,
     "Itajai": 179,
     "Itapema": 89,
-    "Navegantes": 56,
+    "Navegantes": 57,
     "Nova Trento": 63,
     "Porto Belo": 61
   },
-  "total_geral": 684,
+  "total_geral": 687,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-15T14:50:04-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000095A/26",
+      "nome": "GUIDO SCHMIDT",
+      "re": "RE8221001222A"
+    },
+    {
+      "ts": "2026-09-15T14:50:04-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000063A/26",
+      "nome": "José Alcides Soares",
+      "re": "RE8117003061A"
+    },
+    {
+      "ts": "2026-09-15T14:50:04-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000062A/26",
+      "nome": "DELTA EMPREENDIMENTOS IMOBILIáRIO LTDA",
+      "re": "RE8117000888A"
+    },
     {
       "ts": "2026-09-15T12:50:03-03:00",
       "cidade": "Itapema",
@@ -7143,27 +7194,6 @@
       "codigo": "MUL8163000199A/26",
       "nome": "GALPãO COMERCIAL",
       "re": "RE8163005840A"
-    },
-    {
-      "ts": "2026-09-09T14:30:04-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000198A/26",
-      "nome": "Comercial  Almefe III",
-      "re": "RE8163005818A"
-    },
-    {
-      "ts": "2026-09-09T14:10:04-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000197A/26",
-      "nome": "PÉ DA MONTANHA",
-      "re": "RE8163001391A"
-    },
-    {
-      "ts": "2026-09-09T13:50:04-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000125A/26",
-      "nome": "CLETO RISTOW",
-      "re": "RE8055000593A"
     }
   ]
 }
