@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-09-15T16:10:03-03:00",
+  "timestamp": "2026-09-15T16:20:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T16:10:03-03:00"
+      "ultima_verificacao": "2026-09-15T16:20:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T16:10:03-03:00"
+      "ultima_verificacao": "2026-09-15T16:20:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T16:10:03-03:00"
+      "ultima_verificacao": "2026-09-15T16:20:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 63,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T16:10:03-03:00"
+      "ultima_verificacao": "2026-09-15T16:20:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 118,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T16:10:03-03:00"
+      "ultima_verificacao": "2026-09-15T16:20:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 146,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T16:10:03-03:00"
+      "ultima_verificacao": "2026-09-15T16:20:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 206,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T16:10:03-03:00"
+      "ultima_verificacao": "2026-09-15T16:20:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 256,
+      "ultimo_numero": 257,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T16:10:03-03:00"
+      "ultima_verificacao": "2026-09-15T16:20:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 95,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T16:10:03-03:00"
+      "ultima_verificacao": "2026-09-15T16:20:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 461,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-15T16:10:03-03:00"
+      "ultima_verificacao": "2026-09-15T16:20:03-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000257A/26",
+        "RE": "RE8047011301A",
+        "Nome_Edificacao": "LA DOTTA INDÚSTRIA TEXTIL LTDA",
+        "Logradouro": "Rua dos Caçadores",
+        "Numero": "2629",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-15T16:20:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000255A/26",
         "RE": "RE8047000366A",
@@ -6832,7 +6842,7 @@
     ]
   },
   "totais": {
-    "Blumenau": 121,
+    "Blumenau": 122,
     "Botuvera": 3,
     "Brusque": 72,
     "Gaspar": 39,
@@ -6843,8 +6853,15 @@
     "Nova Trento": 63,
     "Porto Belo": 61
   },
-  "total_geral": 687,
+  "total_geral": 688,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-15T16:20:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000257A/26",
+      "nome": "LA DOTTA INDÚSTRIA TEXTIL LTDA",
+      "re": "RE8047011301A"
+    },
     {
       "ts": "2026-09-15T14:50:04-03:00",
       "cidade": "Navegantes",
@@ -7187,13 +7204,6 @@
       "codigo": "MUL8163000200A/26",
       "nome": "SOLAR DOS IPÊS",
       "re": "RE8163000799A"
-    },
-    {
-      "ts": "2026-09-09T14:30:04-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000199A/26",
-      "nome": "GALPãO COMERCIAL",
-      "re": "RE8163005840A"
     }
   ]
 }
