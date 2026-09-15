@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-15T11:40:20-03:00",
+  "timestamp": "2026-09-15T11:50:36-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1015,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T11:40:20-03:00"
+      "ultima_verificacao": "2026-09-15T11:50:36-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T11:40:20-03:00"
+      "ultima_verificacao": "2026-09-15T11:50:36-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T11:40:20-03:00"
+      "ultima_verificacao": "2026-09-15T11:50:36-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 641,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T11:40:20-03:00"
+      "ultima_verificacao": "2026-09-15T11:50:36-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 514,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T11:40:20-03:00"
+      "ultima_verificacao": "2026-09-15T11:50:36-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 551,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T11:40:20-03:00"
+      "ultima_verificacao": "2026-09-15T11:50:36-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1213,
+      "ultimo_numero": 1214,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T11:40:20-03:00"
+      "ultima_verificacao": "2026-09-15T11:50:36-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1184,
+      "ultimo_numero": 1185,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T11:40:20-03:00"
+      "ultima_verificacao": "2026-09-15T11:50:36-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 348,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T11:40:20-03:00"
+      "ultima_verificacao": "2026-09-15T11:50:36-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1217,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T11:40:20-03:00"
+      "ultima_verificacao": "2026-09-15T11:50:36-03:00"
     }
   },
   "afs": {
@@ -12980,6 +12980,17 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163001214A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003364A",
+        "Nome_Edificacao": "COND. ED. GODO STARK",
+        "Logradouro": "AVENIDA NEREU RAMOS",
+        "Numero": "2404",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-15T11:50:36-03:00"
+      },
+      {
         "CodigoAuto": "AF8163001213A/26",
         "Tipo": "AF",
         "RE": "RE8163002399A",
@@ -18250,6 +18261,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047001185A/26",
+        "Tipo": "AF",
+        "RE": "RE8047003690A",
+        "Nome_Edificacao": "HUMBERTO DALPASQUALE",
+        "Logradouro": "RUA SETE DE SETEMBRO",
+        "Numero": "720",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-15T11:50:36-03:00"
+      },
       {
         "CodigoAuto": "AF8047001184A/26",
         "Tipo": "AF",
@@ -30132,10 +30154,10 @@
     "Gaspar": 226,
     "Porto Belo": 223,
     "Nova Trento": 241,
-    "Itapema": 479,
-    "Blumenau": 471,
+    "Itapema": 480,
+    "Blumenau": 472,
     "Navegantes": 144,
     "Itajai": 464
   },
-  "total_geral": 2731
+  "total_geral": 2733
 }
