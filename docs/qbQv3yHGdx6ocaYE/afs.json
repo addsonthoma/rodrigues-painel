@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-15T13:50:30-03:00",
+  "timestamp": "2026-09-15T14:00:28-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1015,
+      "ultimo_numero": 1016,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:50:30-03:00"
+      "ultima_verificacao": "2026-09-15T14:00:28-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:50:30-03:00"
+      "ultima_verificacao": "2026-09-15T14:00:28-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:50:30-03:00"
+      "ultima_verificacao": "2026-09-15T14:00:28-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 643,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:50:30-03:00"
+      "ultima_verificacao": "2026-09-15T14:00:28-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 514,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:50:30-03:00"
+      "ultima_verificacao": "2026-09-15T14:00:28-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 552,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:50:30-03:00"
+      "ultima_verificacao": "2026-09-15T14:00:28-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1214,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:50:30-03:00"
+      "ultima_verificacao": "2026-09-15T14:00:28-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1188,
+      "ultimo_numero": 1189,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:50:30-03:00"
+      "ultima_verificacao": "2026-09-15T14:00:28-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 349,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:50:30-03:00"
+      "ultima_verificacao": "2026-09-15T14:00:28-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1217,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:50:30-03:00"
+      "ultima_verificacao": "2026-09-15T14:00:28-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001016A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000852A",
+        "Nome_Edificacao": "RESIDENCIAL RAVENA",
+        "Logradouro": "Rua Carlos Kohler",
+        "Numero": "51",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-15T14:00:28-03:00"
+      },
       {
         "CodigoAuto": "AF8055001015A/26",
         "Tipo": "AF",
@@ -18295,6 +18306,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001189A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001636A",
+        "Nome_Edificacao": "Centro Comercial Mafisa.",
+        "Logradouro": "RUA DOUTOR PEDRO ZIMMERMANN",
+        "Numero": "1035",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-15T14:00:28-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001188A/26",
         "Tipo": "AF",
         "RE": "RE8047003095A",
@@ -30225,16 +30247,16 @@
     ]
   },
   "totais": {
-    "Brusque": 405,
+    "Brusque": 406,
     "Botuvera": 34,
     "Guabiruba": 44,
     "Gaspar": 228,
     "Porto Belo": 223,
     "Nova Trento": 242,
     "Itapema": 480,
-    "Blumenau": 475,
+    "Blumenau": 476,
     "Navegantes": 145,
     "Itajai": 464
   },
-  "total_geral": 2740
+  "total_geral": 2742
 }
