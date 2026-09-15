@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-15T12:00:22-03:00",
+  "timestamp": "2026-09-15T12:10:35-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1015,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T12:00:22-03:00"
+      "ultima_verificacao": "2026-09-15T12:10:35-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T12:00:22-03:00"
+      "ultima_verificacao": "2026-09-15T12:10:35-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T12:00:22-03:00"
+      "ultima_verificacao": "2026-09-15T12:10:35-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 641,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T12:00:22-03:00"
+      "ultima_verificacao": "2026-09-15T12:10:35-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 514,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T12:00:22-03:00"
+      "ultima_verificacao": "2026-09-15T12:10:35-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 551,
+      "ultimo_numero": 552,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T12:00:22-03:00"
+      "ultima_verificacao": "2026-09-15T12:10:35-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1214,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T12:00:22-03:00"
+      "ultima_verificacao": "2026-09-15T12:10:35-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1185,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T12:00:22-03:00"
+      "ultima_verificacao": "2026-09-15T12:10:35-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 348,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T12:00:22-03:00"
+      "ultima_verificacao": "2026-09-15T12:10:35-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1217,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T12:00:22-03:00"
+      "ultima_verificacao": "2026-09-15T12:10:35-03:00"
     }
   },
   "afs": {
@@ -10326,6 +10326,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000552A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000543A",
+        "Nome_Edificacao": "Afonso Carlos Feller - Galpão",
+        "Logradouro": "Rua Érico Osvaldo Feller",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-15T12:10:35-03:00"
+      },
       {
         "CodigoAuto": "AF8225000551A/26",
         "Tipo": "AF",
@@ -30153,11 +30164,11 @@
     "Guabiruba": 44,
     "Gaspar": 226,
     "Porto Belo": 223,
-    "Nova Trento": 241,
+    "Nova Trento": 242,
     "Itapema": 480,
     "Blumenau": 472,
     "Navegantes": 144,
     "Itajai": 464
   },
-  "total_geral": 2733
+  "total_geral": 2734
 }
