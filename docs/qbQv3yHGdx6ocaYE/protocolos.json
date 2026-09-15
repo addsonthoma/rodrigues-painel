@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-15T14:27:49-03:00",
+  "timestamp": "2026-09-15T14:39:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8114,
-      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
+      "ultima_verificacao": "2026-09-15T14:39:04-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
+      "ultima_verificacao": "2026-09-15T14:39:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1536,
-      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
+      "ultima_verificacao": "2026-09-15T14:39:04-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3896,
-      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
+      "ultima_verificacao": "2026-09-15T14:39:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3397,
-      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
+      "ultima_verificacao": "2026-09-15T14:39:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
+      "ultima_verificacao": "2026-09-15T14:39:04-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
+      "ultima_verificacao": "2026-09-15T14:39:04-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13017,
-      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
+      "ultimo_numero": 13018,
+      "ultima_verificacao": "2026-09-15T14:39:04-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5029,
-      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
+      "ultima_verificacao": "2026-09-15T14:39:04-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14337,
-      "ultima_verificacao": "2026-09-15T14:27:49-03:00"
+      "ultima_verificacao": "2026-09-15T14:39:04-03:00"
     }
   },
   "protocolos": {
@@ -8164,6 +8164,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013018A",
+        "RE": "RE8047001271A",
+        "numgEdificacao": 48177,
+        "Nome_Edificacao": "HENNINGS  VEDAÇÕES HIDRAULICAS E PNEUMATICAS LTDA",
+        "Logradouro": "RUA GUILHERME POENER",
+        "Numero": "455",
+        "Bairro": "BLUMENAU - PASSO MANSO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-15T14:39:04-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013017A",
         "RE": "RE8047011710A",
@@ -16593,9 +16604,9 @@
     "Porto Belo": 116,
     "Nova Trento": 63,
     "Itapema": 174,
-    "Blumenau": 272,
+    "Blumenau": 273,
     "Navegantes": 132,
     "Itajai": 361
   },
-  "total_geral": 1501
+  "total_geral": 1502
 }
