@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-15T16:26:19-03:00",
+  "timestamp": "2026-09-15T16:37:50-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8114,
-      "ultima_verificacao": "2026-09-15T16:26:19-03:00"
+      "ultima_verificacao": "2026-09-15T16:37:50-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-15T16:26:19-03:00"
+      "ultima_verificacao": "2026-09-15T16:37:50-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1539,
-      "ultima_verificacao": "2026-09-15T16:26:19-03:00"
+      "ultimo_numero": 1540,
+      "ultima_verificacao": "2026-09-15T16:37:50-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3896,
-      "ultima_verificacao": "2026-09-15T16:26:19-03:00"
+      "ultima_verificacao": "2026-09-15T16:37:50-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3397,
-      "ultima_verificacao": "2026-09-15T16:26:19-03:00"
+      "ultima_verificacao": "2026-09-15T16:37:50-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-15T16:26:19-03:00"
+      "ultima_verificacao": "2026-09-15T16:37:50-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-15T16:26:19-03:00"
+      "ultima_verificacao": "2026-09-15T16:37:50-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13019,
-      "ultima_verificacao": "2026-09-15T16:26:19-03:00"
+      "ultima_verificacao": "2026-09-15T16:37:50-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5029,
-      "ultima_verificacao": "2026-09-15T16:26:19-03:00"
+      "ultima_verificacao": "2026-09-15T16:37:50-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14338,
-      "ultima_verificacao": "2026-09-15T16:26:19-03:00"
+      "ultimo_numero": 14339,
+      "ultima_verificacao": "2026-09-15T16:37:50-03:00"
     }
   },
   "protocolos": {
@@ -2170,6 +2170,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001540A",
+        "RE": "RE8123001223A",
+        "numgEdificacao": 370272,
+        "Nome_Edificacao": "ANDRE VECHI",
+        "Logradouro": "HILDA DEBATIN",
+        "Numero": "173",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-09-15T16:37:50-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001539A",
         "RE": "RE8123001222A",
@@ -12668,6 +12679,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014339A",
+        "RE": "RE8161004749A",
+        "numgEdificacao": 142422,
+        "Nome_Edificacao": "C.E.I. Darlan Dotto Wiersinski - SEMA ADMINISTRADORA DE BENS E PARTICIPACOES LTDA",
+        "Logradouro": "Rua Paulo Kleis Júnior",
+        "Numero": "178",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-15T16:37:50-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014338A",
         "RE": "RE8161011812A",
         "numgEdificacao": 313418,
@@ -16654,14 +16676,14 @@
   "totais": {
     "Brusque": 150,
     "Botuvera": 42,
-    "Guabiruba": 64,
+    "Guabiruba": 65,
     "Gaspar": 130,
     "Porto Belo": 116,
     "Nova Trento": 63,
     "Itapema": 174,
     "Blumenau": 274,
     "Navegantes": 132,
-    "Itajai": 362
+    "Itajai": 363
   },
-  "total_geral": 1507
+  "total_geral": 1509
 }
