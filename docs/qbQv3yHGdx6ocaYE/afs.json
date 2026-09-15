@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-15T08:50:25-03:00",
+  "timestamp": "2026-09-15T09:00:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1014,
+      "ultimo_numero": 1015,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T08:50:25-03:00"
+      "ultima_verificacao": "2026-09-15T09:00:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T08:50:25-03:00"
+      "ultima_verificacao": "2026-09-15T09:00:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T08:50:25-03:00"
+      "ultima_verificacao": "2026-09-15T09:00:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 641,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T08:50:25-03:00"
+      "ultima_verificacao": "2026-09-15T09:00:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 514,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T08:50:25-03:00"
+      "ultima_verificacao": "2026-09-15T09:00:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 551,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T08:50:25-03:00"
+      "ultima_verificacao": "2026-09-15T09:00:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1209,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T08:50:25-03:00"
+      "ultima_verificacao": "2026-09-15T09:00:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1184,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T08:50:25-03:00"
+      "ultima_verificacao": "2026-09-15T09:00:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 348,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T08:50:25-03:00"
+      "ultima_verificacao": "2026-09-15T09:00:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1215,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T08:50:25-03:00"
+      "ultima_verificacao": "2026-09-15T09:00:19-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001015A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005484A",
+        "Nome_Edificacao": "EDINHO MATERIAIS DE CONSTRUÇÃO LTDA",
+        "Logradouro": "RUA SÃO PEDRO",
+        "Numero": "1405",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-15T09:00:19-03:00"
+      },
       {
         "CodigoAuto": "AF8055001014A/26",
         "Tipo": "AF",
@@ -30049,7 +30060,7 @@
     ]
   },
   "totais": {
-    "Brusque": 404,
+    "Brusque": 405,
     "Botuvera": 34,
     "Guabiruba": 44,
     "Gaspar": 226,
@@ -30060,5 +30071,5 @@
     "Navegantes": 144,
     "Itajai": 462
   },
-  "total_geral": 2724
+  "total_geral": 2725
 }
