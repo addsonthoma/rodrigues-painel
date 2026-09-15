@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-15T13:10:26-03:00",
+  "timestamp": "2026-09-15T13:20:25-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1015,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:10:26-03:00"
+      "ultima_verificacao": "2026-09-15T13:20:25-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:10:26-03:00"
+      "ultima_verificacao": "2026-09-15T13:20:25-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:10:26-03:00"
+      "ultima_verificacao": "2026-09-15T13:20:25-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 641,
+      "ultimo_numero": 642,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:10:26-03:00"
+      "ultima_verificacao": "2026-09-15T13:20:25-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 514,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:10:26-03:00"
+      "ultima_verificacao": "2026-09-15T13:20:25-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 552,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:10:26-03:00"
+      "ultima_verificacao": "2026-09-15T13:20:25-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1214,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:10:26-03:00"
+      "ultima_verificacao": "2026-09-15T13:20:25-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1186,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:10:26-03:00"
+      "ultima_verificacao": "2026-09-15T13:20:25-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 348,
+      "ultimo_numero": 349,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:10:26-03:00"
+      "ultima_verificacao": "2026-09-15T13:20:25-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1217,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-15T13:10:26-03:00"
+      "ultima_verificacao": "2026-09-15T13:20:25-03:00"
     }
   },
   "afs": {
@@ -5383,6 +5383,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000642A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001885A",
+        "Nome_Edificacao": "ANICETO DERETTI",
+        "Logradouro": "RUA LUIZ FRANZÓI",
+        "Numero": "362",
+        "Bairro": "GASPAR - MARGEM ESQUERDA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-15T13:20:25-03:00"
+      },
       {
         "CodigoAuto": "AF8117000641A/26",
         "Tipo": "AF",
@@ -23478,6 +23489,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000349A/26",
+        "Tipo": "AF",
+        "RE": "RE8221001028A",
+        "Nome_Edificacao": "REDE TOP SUPERMERCADOS EIRELI",
+        "Logradouro": "RUA JOSÉ FRANCISCO LAURINDO -",
+        "Numero": "1766",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-15T13:20:25-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000348A/26",
         "Tipo": "AF",
         "RE": "RE8221000013A",
@@ -30173,13 +30195,13 @@
     "Brusque": 405,
     "Botuvera": 34,
     "Guabiruba": 44,
-    "Gaspar": 226,
+    "Gaspar": 227,
     "Porto Belo": 223,
     "Nova Trento": 242,
     "Itapema": 480,
     "Blumenau": 473,
-    "Navegantes": 144,
+    "Navegantes": 145,
     "Itajai": 464
   },
-  "total_geral": 2735
+  "total_geral": 2737
 }
