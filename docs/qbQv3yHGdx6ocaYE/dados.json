@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-16T13:20:03-03:00",
+  "timestamp": "2026-09-16T13:30:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 146,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 207,
+      "ultimo_numero": 208,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 257,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
-      "ultimo_numero": 95,
+      "ultimo_numero": 97,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 461,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:04-03:00"
     }
   },
   "multas": {
@@ -4219,6 +4219,16 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000208A/26",
+        "RE": "RE8163006784A",
+        "Nome_Edificacao": "GALPÃO",
+        "Logradouro": "RUA 462 A",
+        "Numero": "341",
+        "Bairro": "ITAPEMA - JARDIM PRAIA MAR",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-16T13:30:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000207A/26",
         "RE": "RE8163006202A",
         "Nome_Edificacao": "SILVINO PIVA",
@@ -5104,6 +5114,26 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoAuto": "MUL8221000096A/26",
+        "RE": "RE8221001700A",
+        "Nome_Edificacao": "RESIDENCIAL SUIÇA HOME",
+        "Logradouro": "RUA AUREA CARDOSO CONSONNI",
+        "Numero": "187",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-16T13:30:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8221000097A/26",
+        "RE": "RE8221001169A",
+        "Nome_Edificacao": "COSTA SUL PESCADOS LTDA",
+        "Logradouro": "Rua Prefeito Manoel Evaldo Müller",
+        "Numero": "2827",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-16T13:30:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8221000095A/26",
         "RE": "RE8221001222A",
@@ -6888,13 +6918,34 @@
     "Gaspar": 41,
     "Guabiruba": 3,
     "Itajai": 179,
-    "Itapema": 90,
-    "Navegantes": 57,
+    "Itapema": 91,
+    "Navegantes": 59,
     "Nova Trento": 63,
     "Porto Belo": 62
   },
-  "total_geral": 692,
+  "total_geral": 695,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-16T13:30:04-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000097A/26",
+      "nome": "COSTA SUL PESCADOS LTDA",
+      "re": "RE8221001169A"
+    },
+    {
+      "ts": "2026-09-16T13:30:04-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000096A/26",
+      "nome": "RESIDENCIAL SUIÇA HOME",
+      "re": "RE8221001700A"
+    },
+    {
+      "ts": "2026-09-16T13:30:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000208A/26",
+      "nome": "GALPÃO",
+      "re": "RE8163006784A"
+    },
     {
       "ts": "2026-09-16T13:20:03-03:00",
       "cidade": "Itapema",
@@ -7223,27 +7274,6 @@
       "codigo": "MUL8161000442A/26",
       "nome": "LUIZ CARLOS KOWALSKY",
       "re": "RE8161013347A"
-    },
-    {
-      "ts": "2026-09-10T14:10:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000441A/26",
-      "nome": "51.949.041 GERONIMO DE JESUS CORREIA",
-      "re": "RE8161009909A"
-    },
-    {
-      "ts": "2026-09-10T14:10:03-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000250A/26",
-      "nome": "GRAHL PARTICIPACOES LTDA",
-      "re": "RE8047001813A"
-    },
-    {
-      "ts": "2026-09-10T13:50:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000440A/26",
-      "nome": "TOIGO",
-      "re": "RE8161003506A"
     }
   ]
 }

@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-16T13:20:24-03:00",
+  "timestamp": "2026-09-16T13:30:38-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1022,
+      "ultimo_numero": 1023,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T13:20:24-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:38-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T13:20:24-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:38-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T13:20:24-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:38-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 649,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T13:20:24-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:38-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 515,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T13:20:24-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:38-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T13:20:24-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:38-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1230,
+      "ultimo_numero": 1231,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T13:20:24-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:38-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1195,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T13:20:24-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:38-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 354,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T13:20:24-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:38-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1220,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T13:20:24-03:00"
+      "ultima_verificacao": "2026-09-16T13:30:38-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001023A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000107A",
+        "Nome_Edificacao": "Residencial Aron",
+        "Logradouro": "Rua Maria Raulino",
+        "Numero": "160",
+        "Bairro": "BRUSQUE - SANTA RITA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-16T13:30:38-03:00"
+      },
       {
         "CodigoAuto": "AF8055001022A/26",
         "Tipo": "AF",
@@ -13199,6 +13210,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001231A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003684A",
+        "Nome_Edificacao": "CONJUNTO RESIDENCIAL MORRETES I",
+        "Logradouro": "Rua 422",
+        "Numero": "1275",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-16T13:30:38-03:00"
+      },
       {
         "CodigoAuto": "AF8163001230A/26",
         "Tipo": "AF",
@@ -30753,16 +30775,16 @@
     ]
   },
   "totais": {
-    "Brusque": 412,
+    "Brusque": 413,
     "Botuvera": 34,
     "Guabiruba": 44,
     "Gaspar": 234,
     "Porto Belo": 224,
     "Nova Trento": 245,
-    "Itapema": 496,
+    "Itapema": 497,
     "Blumenau": 482,
     "Navegantes": 150,
     "Itajai": 467
   },
-  "total_geral": 2788
+  "total_geral": 2790
 }
