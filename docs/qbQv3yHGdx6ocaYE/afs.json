@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-16T17:30:39-03:00",
+  "timestamp": "2026-09-16T17:40:18-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1025,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:30:39-03:00"
+      "ultima_verificacao": "2026-09-16T17:40:18-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:30:39-03:00"
+      "ultima_verificacao": "2026-09-16T17:40:18-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:30:39-03:00"
+      "ultima_verificacao": "2026-09-16T17:40:18-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 650,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:30:39-03:00"
+      "ultima_verificacao": "2026-09-16T17:40:18-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 517,
+      "ultimo_numero": 518,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:30:39-03:00"
+      "ultima_verificacao": "2026-09-16T17:40:18-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 560,
+      "ultimo_numero": 562,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:30:39-03:00"
+      "ultima_verificacao": "2026-09-16T17:40:18-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1233,
+      "ultimo_numero": 1234,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:30:39-03:00"
+      "ultima_verificacao": "2026-09-16T17:40:18-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1198,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:30:39-03:00"
+      "ultima_verificacao": "2026-09-16T17:40:18-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 355,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:30:39-03:00"
+      "ultima_verificacao": "2026-09-16T17:40:18-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1220,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:30:39-03:00"
+      "ultima_verificacao": "2026-09-16T17:40:18-03:00"
     }
   },
   "afs": {
@@ -8081,6 +8081,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "AF8265000518A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000104A",
+        "Nome_Edificacao": "HERITAGE MARINA RESIDENCE",
+        "Logradouro": "RUA DONA JOVINA E RUA DONA PAULINA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-16T17:40:18-03:00"
+      },
+      {
         "CodigoAuto": "AF8265000517A/26",
         "Tipo": "AF",
         "RE": "RE8265000544A",
@@ -10568,6 +10579,28 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000562A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000142A",
+        "Nome_Edificacao": "ADRIANO JOSE WOLF",
+        "Logradouro": "Rua Geral Bella Vista",
+        "Numero": "3000",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-16T17:40:18-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000561A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000142A",
+        "Nome_Edificacao": "ADRIANO JOSE WOLF",
+        "Logradouro": "Rua Geral Bella Vista",
+        "Numero": "3000",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-16T17:40:18-03:00"
+      },
       {
         "CodigoAuto": "AF8225000560A/26",
         "Tipo": "AF",
@@ -13320,6 +13353,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001234A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001262A",
+        "Nome_Edificacao": "EDIFICAÇÃO COMERCIAL DE ANTONIO LUIS PEREIRA",
+        "Logradouro": "AVENIDA MARGINAL OESTE BR-101",
+        "Numero": "684",
+        "Bairro": "ITAPEMA - TABOLEIRO OLIV",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-16T17:40:18-03:00"
+      },
       {
         "CodigoAuto": "AF8163001233A/26",
         "Tipo": "AF",
@@ -30955,12 +30999,12 @@
     "Botuvera": 34,
     "Guabiruba": 44,
     "Gaspar": 235,
-    "Porto Belo": 226,
-    "Nova Trento": 250,
-    "Itapema": 499,
+    "Porto Belo": 227,
+    "Nova Trento": 252,
+    "Itapema": 500,
     "Blumenau": 485,
     "Navegantes": 151,
     "Itajai": 467
   },
-  "total_geral": 2806
+  "total_geral": 2810
 }
