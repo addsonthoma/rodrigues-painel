@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-16T13:48:36-03:00",
+  "timestamp": "2026-09-16T14:07:32-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8117,
-      "ultima_verificacao": "2026-09-16T13:48:36-03:00"
+      "ultima_verificacao": "2026-09-16T14:07:32-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-16T13:48:36-03:00"
+      "ultima_verificacao": "2026-09-16T14:07:32-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-16T13:48:36-03:00"
+      "ultima_verificacao": "2026-09-16T14:07:32-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3897,
-      "ultima_verificacao": "2026-09-16T13:48:36-03:00"
+      "ultima_verificacao": "2026-09-16T14:07:32-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3398,
-      "ultima_verificacao": "2026-09-16T13:48:36-03:00"
+      "ultima_verificacao": "2026-09-16T14:07:32-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-16T13:48:36-03:00"
+      "ultima_verificacao": "2026-09-16T14:07:32-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-16T13:48:36-03:00"
+      "ultima_verificacao": "2026-09-16T14:07:32-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13023,
-      "ultima_verificacao": "2026-09-16T13:48:36-03:00"
+      "ultimo_numero": 13024,
+      "ultima_verificacao": "2026-09-16T14:07:32-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5029,
-      "ultima_verificacao": "2026-09-16T13:48:36-03:00"
+      "ultima_verificacao": "2026-09-16T14:07:32-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14340,
-      "ultima_verificacao": "2026-09-16T13:48:36-03:00"
+      "ultima_verificacao": "2026-09-16T14:07:32-03:00"
     }
   },
   "protocolos": {
@@ -8274,6 +8274,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013024A",
+        "RE": "RE8047008739A",
+        "numgEdificacao": 249339,
+        "Nome_Edificacao": "MARCIO ROBERTO SCHWEIGERT",
+        "Logradouro": "RODOVIA BR 470",
+        "Numero": "2990",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-16T14:07:32-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013023A",
         "RE": "RE8047003124A",
@@ -16802,9 +16813,9 @@
     "Porto Belo": 117,
     "Nova Trento": 63,
     "Itapema": 174,
-    "Blumenau": 278,
+    "Blumenau": 279,
     "Navegantes": 132,
     "Itajai": 364
   },
-  "total_geral": 1520
+  "total_geral": 1521
 }
