@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-16T12:57:07-03:00",
+  "timestamp": "2026-09-16T13:07:12-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8116,
-      "ultima_verificacao": "2026-09-16T12:57:07-03:00"
+      "ultimo_numero": 8117,
+      "ultima_verificacao": "2026-09-16T13:07:12-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-16T12:57:07-03:00"
+      "ultima_verificacao": "2026-09-16T13:07:12-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-16T12:57:07-03:00"
+      "ultima_verificacao": "2026-09-16T13:07:12-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3897,
-      "ultima_verificacao": "2026-09-16T12:57:07-03:00"
+      "ultima_verificacao": "2026-09-16T13:07:12-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3398,
-      "ultima_verificacao": "2026-09-16T12:57:07-03:00"
+      "ultima_verificacao": "2026-09-16T13:07:12-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-16T12:57:07-03:00"
+      "ultima_verificacao": "2026-09-16T13:07:12-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-16T12:57:07-03:00"
+      "ultima_verificacao": "2026-09-16T13:07:12-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13021,
-      "ultima_verificacao": "2026-09-16T12:57:07-03:00"
+      "ultima_verificacao": "2026-09-16T13:07:12-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5029,
-      "ultima_verificacao": "2026-09-16T12:57:07-03:00"
+      "ultima_verificacao": "2026-09-16T13:07:12-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14340,
-      "ultima_verificacao": "2026-09-16T12:57:07-03:00"
+      "ultima_verificacao": "2026-09-16T13:07:12-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008117A",
+        "RE": "RE8055006826A",
+        "numgEdificacao": 370349,
+        "Nome_Edificacao": "THIAGO WAGNER",
+        "Logradouro": "Rua Dorval Luz",
+        "Numero": "183",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-16T13:07:12-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008116A",
         "RE": "RE8055006824A",
@@ -16762,7 +16773,7 @@
     ]
   },
   "totais": {
-    "Brusque": 152,
+    "Brusque": 153,
     "Botuvera": 42,
     "Guabiruba": 66,
     "Gaspar": 131,
@@ -16773,5 +16784,5 @@
     "Navegantes": 132,
     "Itajai": 364
   },
-  "total_geral": 1517
+  "total_geral": 1518
 }
