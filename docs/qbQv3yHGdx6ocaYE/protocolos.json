@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-16T03:26:03-03:00",
+  "timestamp": "2026-09-16T08:05:28-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8114,
-      "ultima_verificacao": "2026-09-16T03:26:03-03:00"
+      "ultimo_numero": 8115,
+      "ultima_verificacao": "2026-09-16T08:05:28-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-16T03:26:03-03:00"
+      "ultima_verificacao": "2026-09-16T08:05:28-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1536,
-      "ultima_verificacao": "2026-09-16T03:26:03-03:00"
+      "ultimo_numero": 1540,
+      "ultima_verificacao": "2026-09-16T08:05:28-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3896,
-      "ultima_verificacao": "2026-09-16T03:26:03-03:00"
+      "ultima_verificacao": "2026-09-16T08:05:28-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3397,
-      "ultima_verificacao": "2026-09-16T03:26:03-03:00"
+      "ultima_verificacao": "2026-09-16T08:05:28-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-16T03:26:03-03:00"
+      "ultima_verificacao": "2026-09-16T08:05:28-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-16T03:26:03-03:00"
+      "ultima_verificacao": "2026-09-16T08:05:28-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13017,
-      "ultima_verificacao": "2026-09-16T03:26:03-03:00"
+      "ultimo_numero": 13020,
+      "ultima_verificacao": "2026-09-16T08:05:28-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5029,
-      "ultima_verificacao": "2026-09-16T03:26:03-03:00"
+      "ultima_verificacao": "2026-09-16T08:05:28-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14337,
-      "ultima_verificacao": "2026-09-16T03:26:03-03:00"
+      "ultimo_numero": 14339,
+      "ultima_verificacao": "2026-09-16T08:05:28-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008115A",
+        "RE": "RE8055000133A",
+        "numgEdificacao": 13619,
+        "Nome_Edificacao": "INDUSTRIA DE VINAGRE E PLASTICOS HEINIG LTDA",
+        "Logradouro": "Rua Edgar Von Buettner",
+        "Numero": "249",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-16T08:05:28-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008114A",
         "RE": "RE8055002087A",
@@ -8208,6 +8219,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013020A",
+        "RE": "RE8047009965A",
+        "numgEdificacao": 280829,
+        "Nome_Edificacao": "Valmor Ranguetti",
+        "Logradouro": "RUA GUSTAVO HENSCHEL",
+        "Numero": "203",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-16T08:05:28-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013019A",
         "RE": "RE8047011710A",
@@ -16674,16 +16696,16 @@
     ]
   },
   "totais": {
-    "Brusque": 150,
+    "Brusque": 151,
     "Botuvera": 42,
     "Guabiruba": 65,
     "Gaspar": 130,
     "Porto Belo": 116,
     "Nova Trento": 63,
     "Itapema": 174,
-    "Blumenau": 274,
+    "Blumenau": 275,
     "Navegantes": 132,
     "Itajai": 363
   },
-  "total_geral": 1509
+  "total_geral": 1511
 }
