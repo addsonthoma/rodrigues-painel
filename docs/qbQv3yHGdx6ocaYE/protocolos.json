@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-16T11:27:12-03:00",
+  "timestamp": "2026-09-16T11:37:07-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8116,
-      "ultima_verificacao": "2026-09-16T11:27:12-03:00"
+      "ultima_verificacao": "2026-09-16T11:37:07-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-16T11:27:12-03:00"
+      "ultima_verificacao": "2026-09-16T11:37:07-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-16T11:27:12-03:00"
+      "ultima_verificacao": "2026-09-16T11:37:07-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3897,
-      "ultima_verificacao": "2026-09-16T11:27:12-03:00"
+      "ultima_verificacao": "2026-09-16T11:37:07-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3398,
-      "ultima_verificacao": "2026-09-16T11:27:12-03:00"
+      "ultima_verificacao": "2026-09-16T11:37:07-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-16T11:27:12-03:00"
+      "ultima_verificacao": "2026-09-16T11:37:07-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-16T11:27:12-03:00"
+      "ultima_verificacao": "2026-09-16T11:37:07-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13020,
-      "ultima_verificacao": "2026-09-16T11:27:12-03:00"
+      "ultimo_numero": 13021,
+      "ultima_verificacao": "2026-09-16T11:37:07-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5029,
-      "ultima_verificacao": "2026-09-16T11:27:12-03:00"
+      "ultima_verificacao": "2026-09-16T11:37:07-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14340,
-      "ultima_verificacao": "2026-09-16T11:27:12-03:00"
+      "ultima_verificacao": "2026-09-16T11:37:07-03:00"
     }
   },
   "protocolos": {
@@ -8263,6 +8263,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013021A",
+        "RE": "RE8047011766A",
+        "numgEdificacao": 353855,
+        "Nome_Edificacao": "ERNESTO JOSE LUCCHESI SANTOS",
+        "Logradouro": "Rua Victor Hering",
+        "Numero": "75",
+        "Bairro": "BLUMENAU - Bom Retiro",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-16T11:37:07-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013020A",
         "RE": "RE8047009965A",
@@ -16758,9 +16769,9 @@
     "Porto Belo": 117,
     "Nova Trento": 63,
     "Itapema": 174,
-    "Blumenau": 275,
+    "Blumenau": 276,
     "Navegantes": 132,
     "Itajai": 364
   },
-  "total_geral": 1516
+  "total_geral": 1517
 }
