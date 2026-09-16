@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-16T09:40:03-03:00",
+  "timestamp": "2026-09-16T09:50:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:50:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:50:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:50:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
-      "ultimo_numero": 64,
+      "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:50:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:50:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 146,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:50:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 206,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:50:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 257,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:50:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 95,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:50:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 461,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:50:03-03:00"
     }
   },
   "multas": {
@@ -2017,6 +2017,16 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "MUL8117000065A/26",
+        "RE": "RE8117000779A",
+        "Nome_Edificacao": "DW EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+        "Logradouro": "Rua Augusto Krauss",
+        "Numero": "293",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-16T09:50:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8117000064A/26",
         "RE": "RE8117002771A",
@@ -6865,7 +6875,7 @@
     "Blumenau": 122,
     "Botuvera": 3,
     "Brusque": 72,
-    "Gaspar": 40,
+    "Gaspar": 41,
     "Guabiruba": 3,
     "Itajai": 179,
     "Itapema": 89,
@@ -6873,8 +6883,15 @@
     "Nova Trento": 63,
     "Porto Belo": 62
   },
-  "total_geral": 690,
+  "total_geral": 691,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-16T09:50:03-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000065A/26",
+      "nome": "DW EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+      "re": "RE8117000779A"
+    },
     {
       "ts": "2026-09-16T09:40:03-03:00",
       "cidade": "Gaspar",
@@ -7217,13 +7234,6 @@
       "codigo": "MUL8047000249A/26",
       "nome": "ROTABELA COMERCIO E AUTO CENTER EIRELI",
       "re": "RE8047004808A"
-    },
-    {
-      "ts": "2026-09-09T15:10:04-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000248A/26",
-      "nome": "HILARIO KRETZ",
-      "re": "RE8047003248A"
     }
   ]
 }
