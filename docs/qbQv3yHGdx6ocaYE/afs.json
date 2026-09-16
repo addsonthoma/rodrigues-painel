@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-16T10:20:23-03:00",
+  "timestamp": "2026-09-16T10:30:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1018,
+      "ultimo_numero": 1019,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-16T10:30:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-16T10:30:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-16T10:30:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 649,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-16T10:30:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 515,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-16T10:30:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-16T10:30:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1223,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-16T10:30:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1192,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-16T10:30:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 352,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-16T10:30:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1217,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-16T10:30:19-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001019A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001958A",
+        "Nome_Edificacao": "Jose Carlos Mafra",
+        "Logradouro": "ROD ANTONIO HEIL",
+        "Numero": "7613",
+        "Bairro": "BRUSQUE - LIMOEIRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-16T10:30:19-03:00"
+      },
       {
         "CodigoAuto": "AF8055001018A/26",
         "Tipo": "AF",
@@ -30544,7 +30555,7 @@
     ]
   },
   "totais": {
-    "Brusque": 408,
+    "Brusque": 409,
     "Botuvera": 34,
     "Guabiruba": 44,
     "Gaspar": 234,
@@ -30555,5 +30566,5 @@
     "Navegantes": 148,
     "Itajai": 464
   },
-  "total_geral": 2769
+  "total_geral": 2770
 }
