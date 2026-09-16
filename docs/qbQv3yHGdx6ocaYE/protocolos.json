@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-16T09:37:08-03:00",
+  "timestamp": "2026-09-16T09:47:17-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8115,
-      "ultima_verificacao": "2026-09-16T09:37:08-03:00"
+      "ultimo_numero": 8116,
+      "ultima_verificacao": "2026-09-16T09:47:17-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-16T09:37:08-03:00"
+      "ultima_verificacao": "2026-09-16T09:47:17-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1540,
-      "ultima_verificacao": "2026-09-16T09:37:08-03:00"
+      "ultima_verificacao": "2026-09-16T09:47:17-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3897,
-      "ultima_verificacao": "2026-09-16T09:37:08-03:00"
+      "ultima_verificacao": "2026-09-16T09:47:17-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3397,
-      "ultima_verificacao": "2026-09-16T09:37:08-03:00"
+      "ultima_verificacao": "2026-09-16T09:47:17-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-16T09:37:08-03:00"
+      "ultima_verificacao": "2026-09-16T09:47:17-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-16T09:37:08-03:00"
+      "ultima_verificacao": "2026-09-16T09:47:17-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13020,
-      "ultima_verificacao": "2026-09-16T09:37:08-03:00"
+      "ultima_verificacao": "2026-09-16T09:47:17-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5029,
-      "ultima_verificacao": "2026-09-16T09:37:08-03:00"
+      "ultima_verificacao": "2026-09-16T09:47:17-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14339,
-      "ultima_verificacao": "2026-09-16T09:37:08-03:00"
+      "ultima_verificacao": "2026-09-16T09:47:17-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008116A",
+        "RE": "RE8055006824A",
+        "numgEdificacao": 370319,
+        "Nome_Edificacao": "ANDREI ORTHMANN",
+        "Logradouro": "Rua São Pedro",
+        "Numero": "2849",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-16T09:47:17-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008115A",
         "RE": "RE8055000133A",
@@ -16707,7 +16718,7 @@
     ]
   },
   "totais": {
-    "Brusque": 151,
+    "Brusque": 152,
     "Botuvera": 42,
     "Guabiruba": 65,
     "Gaspar": 131,
@@ -16718,5 +16729,5 @@
     "Navegantes": 132,
     "Itajai": 363
   },
-  "total_geral": 1512
+  "total_geral": 1513
 }

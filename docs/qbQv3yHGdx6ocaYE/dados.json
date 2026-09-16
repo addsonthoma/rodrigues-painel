@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-16T09:30:03-03:00",
+  "timestamp": "2026-09-16T09:40:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:30:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:30:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:30:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
-      "ultimo_numero": 63,
+      "ultimo_numero": 64,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:30:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 119,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:30:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 146,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:30:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 206,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:30:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 257,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:30:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 95,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:30:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 461,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-16T09:30:03-03:00"
+      "ultima_verificacao": "2026-09-16T09:40:03-03:00"
     }
   },
   "multas": {
@@ -2017,6 +2017,16 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "MUL8117000064A/26",
+        "RE": "RE8117002771A",
+        "Nome_Edificacao": "DOMINGOS FELICIO MICHEI",
+        "Logradouro": "Rodovia Ingo Hering",
+        "Numero": "18673",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-16T09:40:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8117000062A/26",
         "RE": "RE8117000888A",
@@ -6855,7 +6865,7 @@
     "Blumenau": 122,
     "Botuvera": 3,
     "Brusque": 72,
-    "Gaspar": 39,
+    "Gaspar": 40,
     "Guabiruba": 3,
     "Itajai": 179,
     "Itapema": 89,
@@ -6863,8 +6873,15 @@
     "Nova Trento": 63,
     "Porto Belo": 62
   },
-  "total_geral": 689,
+  "total_geral": 690,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-16T09:40:03-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000064A/26",
+      "nome": "DOMINGOS FELICIO MICHEI",
+      "re": "RE8117002771A"
+    },
     {
       "ts": "2026-09-16T08:10:05-03:00",
       "cidade": "Porto Belo",
@@ -7207,13 +7224,6 @@
       "codigo": "MUL8047000248A/26",
       "nome": "HILARIO KRETZ",
       "re": "RE8047003248A"
-    },
-    {
-      "ts": "2026-09-09T14:30:04-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000247A/26",
-      "nome": "VILA ESPORTIVA BERNARDO WERNER",
-      "re": "RE8047003941A"
     }
   ]
 }
