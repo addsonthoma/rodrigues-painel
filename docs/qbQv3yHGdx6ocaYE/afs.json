@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-16T17:10:26-03:00",
+  "timestamp": "2026-09-16T17:20:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1025,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:10:26-03:00"
+      "ultima_verificacao": "2026-09-16T17:20:24-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:10:26-03:00"
+      "ultima_verificacao": "2026-09-16T17:20:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:10:26-03:00"
+      "ultima_verificacao": "2026-09-16T17:20:24-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 650,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:10:26-03:00"
+      "ultima_verificacao": "2026-09-16T17:20:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 517,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:10:26-03:00"
+      "ultima_verificacao": "2026-09-16T17:20:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 557,
+      "ultimo_numero": 560,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:10:26-03:00"
+      "ultima_verificacao": "2026-09-16T17:20:24-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1232,
+      "ultimo_numero": 1233,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:10:26-03:00"
+      "ultima_verificacao": "2026-09-16T17:20:24-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1198,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:10:26-03:00"
+      "ultima_verificacao": "2026-09-16T17:20:24-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 355,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:10:26-03:00"
+      "ultima_verificacao": "2026-09-16T17:20:24-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1220,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T17:10:26-03:00"
+      "ultima_verificacao": "2026-09-16T17:20:24-03:00"
     }
   },
   "afs": {
@@ -10569,6 +10569,39 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000560A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000717A",
+        "Nome_Edificacao": "SULENE RAIMUNDO VICENTINI",
+        "Logradouro": "TRAVESSA BRUSQUE",
+        "Numero": "319",
+        "Bairro": "NOVA TRENTO - ESPRAIADO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-16T17:20:24-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000559A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000473A",
+        "Nome_Edificacao": "RESIDENCIAL TRINTA REIS",
+        "Logradouro": "RUA FRANCISCO CECCATO",
+        "Numero": "228",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-16T17:20:24-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000558A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000266A",
+        "Nome_Edificacao": "GRAZIELA CIPRIANI",
+        "Logradouro": "RUA NICOLAU BADO",
+        "Numero": "420",
+        "Bairro": "NOVA TRENTO - BESENELO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-16T17:20:24-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000557A/26",
         "Tipo": "AF",
         "RE": "RE8225000195A",
@@ -13287,6 +13320,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001233A/26",
+        "Tipo": "AF",
+        "RE": "RE8163004054A",
+        "Nome_Edificacao": "ARLÉCIO AMARAL",
+        "Logradouro": "Rua:246",
+        "Numero": "417",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-16T17:20:24-03:00"
+      },
       {
         "CodigoAuto": "AF8163001232A/26",
         "Tipo": "AF",
@@ -30912,11 +30956,11 @@
     "Guabiruba": 44,
     "Gaspar": 235,
     "Porto Belo": 226,
-    "Nova Trento": 247,
-    "Itapema": 498,
+    "Nova Trento": 250,
+    "Itapema": 499,
     "Blumenau": 485,
     "Navegantes": 151,
     "Itajai": 467
   },
-  "total_geral": 2802
+  "total_geral": 2806
 }
