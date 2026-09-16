@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-16T14:41:16-03:00",
-  "total": 5218,
+  "timestamp": "2026-09-16T16:36:07-03:00",
+  "total": 5227,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -588,7 +588,7 @@
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1789580062.6581268
+      "_ts": 1789587199.6657557
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1789580062.6581557
+      "_ts": 1789587199.6657915
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1789580062.6581452
+      "_ts": 1789587199.6657777
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5111,7 +5111,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1789580051.4729047
+      "_ts": 1789587192.279043
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5131,7 +5131,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1789580051.4728808
+      "_ts": 1789587192.279025
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5338,7 +5338,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1789580105.0640013
+      "_ts": 1789587262.2530181
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9454,7 +9454,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1789580043.3190155
+      "_ts": 1789587185.8610365
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9468,7 +9468,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1789580069.5089483
+      "_ts": 1789587208.020008
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -9482,7 +9482,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000015A/26",
-      "_ts": 1789580079.5553112
+      "_ts": 1789587221.1893296
     },
     "AF8051000014A/26": {
       "tipo": "AF",
@@ -14010,7 +14010,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1789580097.5176313
+      "_ts": 1789587255.0627277
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -26772,6 +26772,7 @@
     },
     "AF8221000086A/25": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "642.81",
       "cidade": "NAVEGANTES",
       "responsavel": "Josias Marcos Teles dos Santos",
       "cpfCnpj": "82130558020",
@@ -26782,15 +26783,16 @@
         "Apresentar projeto preventivo (PPCI)"
       ],
       "dataPrazo": "07/04/2025",
-      "prazoDias": -443,
+      "prazoDias": -527,
       "bombeiroAutuacao": "Cb Felipe Werner SCHNEIDER",
       "bloco": "Prédio Administrativo",
       "codgAuto": "AF8221000086A/25",
       "numgAuto": 379821,
-      "_ts": 1782329741.897317
+      "_ts": 1789587360.0982678
     },
     "AF8221000453A/25": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "642.81",
       "cidade": "NAVEGANTES",
       "responsavel": "José Edrísio dos Santos",
       "cpfCnpj": "98727451453",
@@ -26801,12 +26803,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "19/01/2026",
-      "prazoDias": -156,
+      "prazoDias": -240,
       "bombeiroAutuacao": "Cb CARLOS Augusto Cardoso",
       "bloco": "Prédio Administrativo",
       "codgAuto": "AF8221000453A/25",
       "numgAuto": 448118,
-      "_ts": 1782329741.8973205
+      "_ts": 1789587360.0982707
     },
     "AF8221000247A/26": {
       "tipo": "FISCALIZACAO",
@@ -26830,6 +26832,7 @@
     },
     "MUL8221000047A/25": {
       "tipo": "MULTA",
+      "areaTotal": "642.81",
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -26843,10 +26846,11 @@
       "bloco": "Prédio Administrativo",
       "codgAuto": "MUL8221000047A/25",
       "numgAuto": 393706,
-      "_ts": 1782329741.8973403
+      "_ts": 1789587360.0982857
     },
     "MUL8221000042A/26": {
       "tipo": "MULTA",
+      "areaTotal": "642.81",
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -26860,7 +26864,7 @@
       "bloco": "Prédio Administrativo",
       "codgAuto": "MUL8221000042A/26",
       "numgAuto": 498535,
-      "_ts": 1782329741.8973434
+      "_ts": 1789587360.0982883
     },
     "AF8161000856A/26": {
       "tipo": "FISCALIZACAO",
@@ -30091,7 +30095,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1789580095.6685205
+      "_ts": 1789587248.3730106
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38516,7 +38520,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1789580087.8571668
+      "_ts": 1789587233.4158132
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -96504,7 +96508,7 @@
       "bloco": "Bloco 06 (Deck da lagoa)",
       "codgAuto": "AF8047000638A/26",
       "numgAuto": 501116,
-      "_ts": 1789580379.1391733
+      "_ts": 1789587349.3809326
     },
     "AF8047001176A/26": {
       "tipo": "FISCALIZACAO",
@@ -96524,7 +96528,7 @@
       "bloco": "Bloco 06 (Deck da lagoa)",
       "codgAuto": "AF8047001176A/26",
       "numgAuto": 528335,
-      "_ts": 1789580379.1391754
+      "_ts": 1789587349.3809335
     },
     "AF8047001178A/26": {
       "tipo": "FISCALIZACAO",
@@ -96545,7 +96549,7 @@
       "bloco": "Bloco 06 (Deck da lagoa)",
       "codgAuto": "AF8047001178A/26",
       "numgAuto": 528354,
-      "_ts": 1789580379.1391776
+      "_ts": 1789587349.3809345
     },
     "AF8047001177A/26": {
       "tipo": "AF",
@@ -96559,7 +96563,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8047001177A/26",
-      "_ts": 1789580379.1391854
+      "_ts": 1789587349.380938
     },
     "AF8047004235A/22": {
       "tipo": "FISCALIZACAO",
@@ -101425,7 +101429,187 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8161001218A/26",
-      "_ts": 1789580474.6544235
+      "_ts": 1789587366.4259036
+    },
+    "AF8055001025A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 739.8,
+      "cidade": "BRUSQUE",
+      "responsavel": "RESIDENCIAL SANTA INES",
+      "cpfCnpj": "43017484000194",
+      "celular": "47991496972",
+      "email": "contato@accondominios.com.br",
+      "endereco_responsavel": "Rua Francisco Haag, 536, Rio Branco, Brusque",
+      "exigencias": [
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema de iluminação de emergência",
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "16/12/2026",
+      "prazoDias": 91,
+      "bombeiroAutuacao": "Sd FERNANDA Zamprogna",
+      "bloco": "SANTA INÊS",
+      "codgAuto": "AF8055001025A/26",
+      "numgAuto": 529735,
+      "_ts": 1789587170.2807982
+    },
+    "AF8117000650A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "184.11",
+      "cidade": "GASPAR",
+      "responsavel": "URIAS ANTONIO PAMPLONA",
+      "cpfCnpj": "02822322902",
+      "celular": "47992210126",
+      "email": "paralegal01mtcon@gmail.com",
+      "endereco_responsavel": "Rua Rodolfo Vieira Pamplona, 2600, Gaspar Mirim, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "04/06/2027",
+      "prazoDias": 261,
+      "bombeiroAutuacao": "3º Sgt ANDERSON DA ROSA",
+      "bloco": "NOVA GERAÇÃO 3",
+      "codgAuto": "AF8117000650A/26",
+      "numgAuto": 529776,
+      "_ts": 1789587281.9674807
+    },
+    "AF8265000122A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 540.77,
+      "cidade": "PORTO BELO",
+      "responsavel": "ROSINESIA SOARES",
+      "cpfCnpj": "75606461900",
+      "celular": "48999251240",
+      "email": "contatoeb3engenharia@hotmail.com",
+      "endereco_responsavel": "Rua São Paulo, 39, Centro, Porto Belo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/04/2023",
+      "prazoDias": -1264,
+      "bombeiroAutuacao": "Cb Mariana dos Anjos de Lima",
+      "bloco": "ROSINÉSIA SOARES",
+      "codgAuto": "AF8265000122A/23",
+      "numgAuto": 170277,
+      "_ts": 1789587294.9045
+    },
+    "AF8265000517A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 540.77,
+      "cidade": "PORTO BELO",
+      "responsavel": "ROSINESIA SOARES",
+      "cpfCnpj": "75606461900",
+      "celular": "48999251240",
+      "email": "contatoeb3engenharia@hotmail.com",
+      "endereco_responsavel": "Rua São Paulo, 39, Centro, Porto Belo",
+      "exigencias": [
+        "Executar sistema preventivo por extintores"
+      ],
+      "dataPrazo": "26/10/2026",
+      "prazoDias": 40,
+      "bombeiroAutuacao": "Cb Sidinei Luiz GROLLI",
+      "bloco": "ROSINÉSIA SOARES",
+      "codgAuto": "AF8265000517A/26",
+      "numgAuto": 529793,
+      "_ts": 1789587294.9045045
+    },
+    "MUL8265000149A/23": {
+      "tipo": "MULTA",
+      "areaTotal": 540.77,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "ROSINÉSIA SOARES",
+      "codgAuto": "MUL8265000149A/23",
+      "numgAuto": 185205,
+      "_ts": 1789587294.9045224
+    },
+    "AF8265000516A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "300",
+      "cidade": "PORTO BELO",
+      "responsavel": "Adriane Terezinha Limberger Loeblein",
+      "cpfCnpj": "67134831000",
+      "celular": "47996512185",
+      "email": "adriane.loeblein@gmail.com",
+      "endereco_responsavel": "Rua: Leopoldo José Guerreiro, 418, Centro, Porto Belo",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "22/03/2027",
+      "prazoDias": 187,
+      "bombeiroAutuacao": "Cb Sidinei Luiz GROLLI",
+      "bloco": "AMA PORTO BELO",
+      "codgAuto": "AF8265000516A/26",
+      "numgAuto": 529784,
+      "_ts": 1789587301.2831326
+    },
+    "AF8225000556A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 159.8,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "21.274.870 AUGUSTO SKALECKI",
+      "cpfCnpj": "21274870000129",
+      "celular": "48996948954",
+      "email": "skaleckiaugusto@gmail.com",
+      "endereco_responsavel": "R Brusque, 406, Espraiado, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "26/10/2026",
+      "prazoDias": 40,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "bloco",
+      "codgAuto": "AF8225000556A/26",
+      "numgAuto": 529794,
+      "_ts": 1789587308.3518
+    },
+    "AF8047001196A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2085.7,
+      "cidade": "BLUMENAU",
+      "responsavel": "EDIFICIO DONA AURORA",
+      "cpfCnpj": "30522770000165",
+      "celular": "47996280205",
+      "email": "atendimento.bnu@brcondos.com.br",
+      "endereco_responsavel": "Rua Jerze Primo Batista Filho, 35, Salto Weissbach, Blumenau",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "13/08/2027",
+      "prazoDias": 331,
+      "bombeiroAutuacao": "3º Sgt FERNANDO Neri Pereira",
+      "bloco": "BLOCO",
+      "codgAuto": "AF8047001196A/26",
+      "numgAuto": 529756,
+      "_ts": 1789587316.2459538
+    },
+    "AF8221000355A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "642.81",
+      "cidade": "NAVEGANTES",
+      "responsavel": "José Edrísio dos Santos",
+      "cpfCnpj": "98727451453",
+      "celular": "47984454798",
+      "email": "josiasmarcos@hotmail.com",
+      "endereco_responsavel": "Av. Vereador Nereu Liberato Nunes, 746, Centro, Navegantes",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "15/12/2026",
+      "prazoDias": 90,
+      "bombeiroAutuacao": "Cb Saint Clair Veiga Patricio Junior",
+      "bloco": "Prédio Administrativo",
+      "codgAuto": "AF8221000355A/26",
+      "numgAuto": 529738,
+      "_ts": 1789587360.0982733
     }
   }
 }
