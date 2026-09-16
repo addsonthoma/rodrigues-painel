@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-16T11:50:28-03:00",
+  "timestamp": "2026-09-16T12:00:37-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1020,
+      "ultimo_numero": 1021,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T11:50:28-03:00"
+      "ultima_verificacao": "2026-09-16T12:00:37-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T11:50:28-03:00"
+      "ultima_verificacao": "2026-09-16T12:00:37-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T11:50:28-03:00"
+      "ultima_verificacao": "2026-09-16T12:00:37-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 649,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T11:50:28-03:00"
+      "ultima_verificacao": "2026-09-16T12:00:37-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 515,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T11:50:28-03:00"
+      "ultima_verificacao": "2026-09-16T12:00:37-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T11:50:28-03:00"
+      "ultima_verificacao": "2026-09-16T12:00:37-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1225,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T11:50:28-03:00"
+      "ultima_verificacao": "2026-09-16T12:00:37-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1193,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T11:50:28-03:00"
+      "ultima_verificacao": "2026-09-16T12:00:37-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 352,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T11:50:28-03:00"
+      "ultima_verificacao": "2026-09-16T12:00:37-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1217,
+      "ultimo_numero": 1218,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-16T11:50:28-03:00"
+      "ultima_verificacao": "2026-09-16T12:00:37-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001021A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004106A",
+        "Nome_Edificacao": "JOSÉ CARLOS MAFRA JÚNIOR",
+        "Logradouro": "RUA 07 DE SETEMBRO",
+        "Numero": "416",
+        "Bairro": "BRUSQUE - SANTA RITA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-16T12:00:37-03:00"
+      },
       {
         "CodigoAuto": "AF8055001020A/26",
         "Tipo": "AF",
@@ -25493,6 +25504,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001218A/26",
+        "Tipo": "AF",
+        "RE": "RE8161008969A",
+        "Nome_Edificacao": "LOTISA ART TOWER EMREENDIMENTOS IMOBILIARIOS SPE LTDA",
+        "Logradouro": "RUA URUGUAI",
+        "Numero": "",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-16T12:00:37-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001217A/26",
         "Tipo": "AF",
         "RE": "RE8161001608A",
@@ -30599,7 +30621,7 @@
     ]
   },
   "totais": {
-    "Brusque": 410,
+    "Brusque": 411,
     "Botuvera": 34,
     "Guabiruba": 44,
     "Gaspar": 234,
@@ -30608,7 +30630,7 @@
     "Itapema": 491,
     "Blumenau": 480,
     "Navegantes": 148,
-    "Itajai": 464
+    "Itajai": 465
   },
-  "total_geral": 2774
+  "total_geral": 2776
 }
