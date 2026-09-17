@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-16T22:16:32-03:00",
+  "timestamp": "2026-09-16T22:26:46-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8118,
-      "ultima_verificacao": "2026-09-16T22:16:32-03:00"
+      "ultimo_numero": 8119,
+      "ultima_verificacao": "2026-09-16T22:26:46-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-16T22:16:32-03:00"
+      "ultima_verificacao": "2026-09-16T22:26:46-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-16T22:16:32-03:00"
+      "ultima_verificacao": "2026-09-16T22:26:46-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3900,
-      "ultima_verificacao": "2026-09-16T22:16:32-03:00"
+      "ultima_verificacao": "2026-09-16T22:26:46-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3398,
-      "ultima_verificacao": "2026-09-16T22:16:32-03:00"
+      "ultima_verificacao": "2026-09-16T22:26:46-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-16T22:16:32-03:00"
+      "ultima_verificacao": "2026-09-16T22:26:46-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-16T22:16:32-03:00"
+      "ultima_verificacao": "2026-09-16T22:26:46-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13025,
-      "ultima_verificacao": "2026-09-16T22:16:32-03:00"
+      "ultima_verificacao": "2026-09-16T22:26:46-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5029,
-      "ultima_verificacao": "2026-09-16T22:16:32-03:00"
+      "ultima_verificacao": "2026-09-16T22:26:46-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14341,
-      "ultima_verificacao": "2026-09-16T22:16:32-03:00"
+      "ultima_verificacao": "2026-09-16T22:26:46-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008119A",
+        "RE": "RE8055001369A",
+        "numgEdificacao": 130993,
+        "Nome_Edificacao": "Residencial SOHO",
+        "Logradouro": "Rua Sergio Roberto Schlindwein",
+        "Numero": "",
+        "Bairro": "BRUSQUE - PLANALTO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-16T22:26:46-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008118A",
         "RE": "RE8055004500A",
@@ -16872,7 +16883,7 @@
     ]
   },
   "totais": {
-    "Brusque": 154,
+    "Brusque": 155,
     "Botuvera": 42,
     "Guabiruba": 66,
     "Gaspar": 134,
@@ -16883,5 +16894,5 @@
     "Navegantes": 132,
     "Itajai": 365
   },
-  "total_geral": 1527
+  "total_geral": 1528
 }
