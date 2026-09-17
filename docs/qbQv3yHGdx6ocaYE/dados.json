@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-09-17T13:50:03-03:00",
+  "timestamp": "2026-09-17T14:10:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 128,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:10:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:10:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:10:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:10:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 120,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:10:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 148,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:10:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 209,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:10:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 258,
+      "ultimo_numero": 259,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:10:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 97,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:10:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 462,
+      "ultimo_numero": 465,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:10:03-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000259A/26",
+        "RE": "RE8047001885A",
+        "Nome_Edificacao": "BLUFORES FLORICULTURA LTDA-ME",
+        "Logradouro": "Rua Dois de Setembro",
+        "Numero": "1991",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-17T14:10:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000258A/26",
         "RE": "RE8047008805A",
@@ -2463,6 +2473,36 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000463A/26",
+        "RE": "RE8161003717A",
+        "Nome_Edificacao": "SC PORTOS OPERACOES PORTUARIAS LTDA",
+        "Logradouro": "Rua Blumenau",
+        "Numero": "1360",
+        "Bairro": "ITAJAÍ - BARRA DO RIO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-17T14:10:03-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000464A/26",
+        "RE": "RE8161006929A",
+        "Nome_Edificacao": "GELSON VIANA 01504038010",
+        "Logradouro": "R MARGARIDA DALCOQUIO BITTENCOURT",
+        "Numero": "515",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-17T14:10:03-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000465A/26",
+        "RE": "RE8161006773A",
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL VILA DE SAGRES",
+        "Logradouro": "Rua José Rosa",
+        "Numero": "680",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-17T14:10:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000462A/26",
         "RE": "RE8161003963A",
@@ -6982,19 +7022,47 @@
     ]
   },
   "totais": {
-    "Blumenau": 123,
+    "Blumenau": 124,
     "Botuvera": 3,
     "Brusque": 73,
     "Gaspar": 41,
     "Guabiruba": 3,
-    "Itajai": 180,
+    "Itajai": 183,
     "Itapema": 92,
     "Navegantes": 59,
     "Nova Trento": 65,
     "Porto Belo": 63
   },
-  "total_geral": 702,
+  "total_geral": 706,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-17T14:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000465A/26",
+      "nome": "CONDOMINIO RESIDENCIAL VILA DE SAGRES",
+      "re": "RE8161006773A"
+    },
+    {
+      "ts": "2026-09-17T14:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000464A/26",
+      "nome": "GELSON VIANA 01504038010",
+      "re": "RE8161006929A"
+    },
+    {
+      "ts": "2026-09-17T14:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000463A/26",
+      "nome": "SC PORTOS OPERACOES PORTUARIAS LTDA",
+      "re": "RE8161003717A"
+    },
+    {
+      "ts": "2026-09-17T14:10:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000259A/26",
+      "nome": "BLUFORES FLORICULTURA LTDA-ME",
+      "re": "RE8047001885A"
+    },
     {
       "ts": "2026-09-17T13:50:03-03:00",
       "cidade": "Itajai",
@@ -7316,34 +7384,6 @@
       "codigo": "MUL8225000145A/26",
       "nome": "INDUSTRIA E COMERCIO DE MOVEIS DANIELLA LTDA",
       "re": "RE8225000534A"
-    },
-    {
-      "ts": "2026-09-10T16:30:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000452A/26",
-      "nome": "MARCELO VIEIRA",
-      "re": "RE8161003911A"
-    },
-    {
-      "ts": "2026-09-10T16:20:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000451A/26",
-      "nome": "DK INDÚSTRIA E COMÉRCIO DE CONFECÇÕES",
-      "re": "RE8161000886A"
-    },
-    {
-      "ts": "2026-09-10T16:20:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000450A/26",
-      "nome": "JOÃO GUILHERME ZIMERMANN",
-      "re": "RE8161005614A"
-    },
-    {
-      "ts": "2026-09-10T14:50:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000449A/26",
-      "nome": "CERÂMICA IRMÃOS WÍPPEL",
-      "re": "RE8161009821A"
     }
   ]
 }
