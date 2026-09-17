@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-17T11:30:23-03:00",
+  "timestamp": "2026-09-17T11:40:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1027,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T11:30:23-03:00"
+      "ultima_verificacao": "2026-09-17T11:40:26-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T11:30:23-03:00"
+      "ultima_verificacao": "2026-09-17T11:40:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T11:30:23-03:00"
+      "ultima_verificacao": "2026-09-17T11:40:26-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 650,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T11:30:23-03:00"
+      "ultima_verificacao": "2026-09-17T11:40:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 519,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T11:30:23-03:00"
+      "ultima_verificacao": "2026-09-17T11:40:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 562,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T11:30:23-03:00"
+      "ultima_verificacao": "2026-09-17T11:40:26-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1238,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T11:30:23-03:00"
+      "ultima_verificacao": "2026-09-17T11:40:26-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1201,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T11:30:23-03:00"
+      "ultima_verificacao": "2026-09-17T11:40:26-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 355,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T11:30:23-03:00"
+      "ultima_verificacao": "2026-09-17T11:40:26-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1223,
+      "ultimo_numero": 1224,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T11:30:23-03:00"
+      "ultima_verificacao": "2026-09-17T11:40:26-03:00"
     }
   },
   "afs": {
@@ -25966,6 +25966,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001224A/26",
+        "Tipo": "AF",
+        "RE": "RE8161001557A",
+        "Nome_Edificacao": "EEB Nereu Ramos",
+        "Logradouro": "Avenida Sete de Setembro",
+        "Numero": "1853",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-17T11:40:26-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001223A/26",
         "Tipo": "AF",
         "RE": "RE8161004143A",
@@ -31147,7 +31158,7 @@
     "Itapema": 504,
     "Blumenau": 488,
     "Navegantes": 151,
-    "Itajai": 470
+    "Itajai": 471
   },
-  "total_geral": 2823
+  "total_geral": 2824
 }
