@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-17T16:47:26-03:00",
+  "timestamp": "2026-09-17T16:59:37-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8120,
-      "ultima_verificacao": "2026-09-17T16:47:26-03:00"
+      "ultimo_numero": 8121,
+      "ultima_verificacao": "2026-09-17T16:59:37-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-17T16:47:26-03:00"
+      "ultima_verificacao": "2026-09-17T16:59:37-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-17T16:47:26-03:00"
+      "ultima_verificacao": "2026-09-17T16:59:37-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3901,
-      "ultima_verificacao": "2026-09-17T16:47:26-03:00"
+      "ultima_verificacao": "2026-09-17T16:59:37-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3398,
-      "ultima_verificacao": "2026-09-17T16:47:26-03:00"
+      "ultima_verificacao": "2026-09-17T16:59:37-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-17T16:47:26-03:00"
+      "ultima_verificacao": "2026-09-17T16:59:37-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-17T16:47:26-03:00"
+      "ultima_verificacao": "2026-09-17T16:59:37-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13027,
-      "ultima_verificacao": "2026-09-17T16:47:26-03:00"
+      "ultima_verificacao": "2026-09-17T16:59:37-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5030,
-      "ultima_verificacao": "2026-09-17T16:47:26-03:00"
+      "ultima_verificacao": "2026-09-17T16:59:37-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14342,
-      "ultima_verificacao": "2026-09-17T16:47:26-03:00"
+      "ultimo_numero": 14343,
+      "ultima_verificacao": "2026-09-17T16:59:37-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008121A",
+        "RE": "RE8055001369A",
+        "numgEdificacao": 130993,
+        "Nome_Edificacao": "Residencial SOHO",
+        "Logradouro": "Rua Sergio Roberto Schlindwein",
+        "Numero": "",
+        "Bairro": "BRUSQUE - PLANALTO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-17T16:59:37-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008120A",
         "RE": "RE8055001369A",
@@ -12921,6 +12932,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014343A",
+        "RE": "RE8161004443A",
+        "numgEdificacao": 137245,
+        "Nome_Edificacao": "Verde Vale - Raimondi",
+        "Logradouro": "Rodovia Antônio Heil, SC 486",
+        "Numero": "6305",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-17T16:59:37-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014342A",
         "RE": "RE8161001596A",
         "numgEdificacao": 46282,
@@ -16949,7 +16971,7 @@
     ]
   },
   "totais": {
-    "Brusque": 156,
+    "Brusque": 157,
     "Botuvera": 42,
     "Guabiruba": 66,
     "Gaspar": 135,
@@ -16958,7 +16980,7 @@
     "Itapema": 174,
     "Blumenau": 282,
     "Navegantes": 133,
-    "Itajai": 366
+    "Itajai": 367
   },
-  "total_geral": 1534
+  "total_geral": 1536
 }
