@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-17T12:40:18-03:00",
+  "timestamp": "2026-09-17T12:50:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1027,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T12:40:18-03:00"
+      "ultima_verificacao": "2026-09-17T12:50:26-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T12:40:18-03:00"
+      "ultima_verificacao": "2026-09-17T12:50:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T12:40:18-03:00"
+      "ultima_verificacao": "2026-09-17T12:50:26-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 650,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T12:40:18-03:00"
+      "ultima_verificacao": "2026-09-17T12:50:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 519,
+      "ultimo_numero": 520,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T12:40:18-03:00"
+      "ultima_verificacao": "2026-09-17T12:50:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 562,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T12:40:18-03:00"
+      "ultima_verificacao": "2026-09-17T12:50:26-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1238,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T12:40:18-03:00"
+      "ultima_verificacao": "2026-09-17T12:50:26-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1201,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T12:40:18-03:00"
+      "ultima_verificacao": "2026-09-17T12:50:26-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 355,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T12:40:18-03:00"
+      "ultima_verificacao": "2026-09-17T12:50:26-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1224,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-17T12:40:18-03:00"
+      "ultima_verificacao": "2026-09-17T12:50:26-03:00"
     }
   },
   "afs": {
@@ -8102,6 +8102,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000520A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000042A",
+        "Nome_Edificacao": "TACLA INVESTIMENTOS DE BENS LTDA",
+        "Logradouro": "ROD BR 101",
+        "Numero": "",
+        "Bairro": "PORTO BELO - ALTO PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-17T12:50:26-03:00"
+      },
       {
         "CodigoAuto": "AF8265000519A/26",
         "Tipo": "AF",
@@ -31153,12 +31164,12 @@
     "Botuvera": 34,
     "Guabiruba": 44,
     "Gaspar": 235,
-    "Porto Belo": 228,
+    "Porto Belo": 229,
     "Nova Trento": 252,
     "Itapema": 504,
     "Blumenau": 488,
     "Navegantes": 151,
     "Itajai": 471
   },
-  "total_geral": 2824
+  "total_geral": 2825
 }
