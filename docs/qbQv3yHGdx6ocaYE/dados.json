@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-17T08:20:04-03:00",
+  "timestamp": "2026-09-17T08:30:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T08:20:04-03:00"
+      "ultima_verificacao": "2026-09-17T08:30:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T08:20:04-03:00"
+      "ultima_verificacao": "2026-09-17T08:30:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T08:20:04-03:00"
+      "ultima_verificacao": "2026-09-17T08:30:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T08:20:04-03:00"
+      "ultima_verificacao": "2026-09-17T08:30:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
-      "ultimo_numero": 119,
+      "ultimo_numero": 120,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T08:20:04-03:00"
+      "ultima_verificacao": "2026-09-17T08:30:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 147,
+      "ultimo_numero": 148,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T08:20:04-03:00"
+      "ultima_verificacao": "2026-09-17T08:30:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 209,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T08:20:04-03:00"
+      "ultima_verificacao": "2026-09-17T08:30:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 258,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T08:20:04-03:00"
+      "ultima_verificacao": "2026-09-17T08:30:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 97,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T08:20:04-03:00"
+      "ultima_verificacao": "2026-09-17T08:30:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 461,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T08:20:04-03:00"
+      "ultima_verificacao": "2026-09-17T08:30:04-03:00"
     }
   },
   "multas": {
@@ -5712,6 +5712,16 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000148A/26",
+        "RE": "RE8225000753A",
+        "Nome_Edificacao": "ROBSON GIACOMELLI",
+        "Logradouro": "Rua Mário Ruberti",
+        "Numero": "175",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-17T08:30:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000147A/26",
         "RE": "RE8225000206A",
         "Nome_Edificacao": "FTL Indústria Comércio Confecção LTDA EPP",
@@ -6338,6 +6348,16 @@
     ],
     "Porto Belo": [
       {
+        "CodigoAuto": "MUL8265000120A/26",
+        "RE": "RE8265002610A",
+        "Nome_Edificacao": "ADILSON ANTONIO GONÇALVES",
+        "Logradouro": "AVENIDA GOVERNADOR CELSO RAMOS",
+        "Numero": "3038",
+        "Bairro": "PORTO BELO - CENTRO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-17T08:30:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8265000119A/26",
         "RE": "RE8265002097A",
         "Nome_Edificacao": "FLAVIO ANTONIO OLIVEIRA",
@@ -6950,11 +6970,25 @@
     "Itajai": 179,
     "Itapema": 92,
     "Navegantes": 59,
-    "Nova Trento": 64,
-    "Porto Belo": 62
+    "Nova Trento": 65,
+    "Porto Belo": 63
   },
-  "total_geral": 698,
+  "total_geral": 700,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-17T08:30:04-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000148A/26",
+      "nome": "ROBSON GIACOMELLI",
+      "re": "RE8225000753A"
+    },
+    {
+      "ts": "2026-09-17T08:30:04-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000120A/26",
+      "nome": "ADILSON ANTONIO GONÇALVES",
+      "re": "RE8265002610A"
+    },
     {
       "ts": "2026-09-17T08:20:04-03:00",
       "cidade": "Nova Trento",
@@ -7290,20 +7324,6 @@
       "codigo": "MUL8161000447A/26",
       "nome": "Obra Rafizza",
       "re": "RE8161000901A"
-    },
-    {
-      "ts": "2026-09-10T14:30:04-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000446A/26",
-      "nome": "MARCIA HOSTIN EVARISTO DA COSTA",
-      "re": "RE8161007777A"
-    },
-    {
-      "ts": "2026-09-10T14:30:04-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000445A/26",
-      "nome": "PETRASALIS EMPREENDIMENTOS SPE 06 LTDA",
-      "re": "RE8161007758A"
     }
   ]
 }
