@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-17T12:36:37-03:00",
+  "timestamp": "2026-09-17T12:46:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8120,
-      "ultima_verificacao": "2026-09-17T12:36:37-03:00"
+      "ultima_verificacao": "2026-09-17T12:46:26-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-17T12:36:37-03:00"
+      "ultima_verificacao": "2026-09-17T12:46:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-17T12:36:37-03:00"
+      "ultima_verificacao": "2026-09-17T12:46:26-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3900,
-      "ultima_verificacao": "2026-09-17T12:36:37-03:00"
+      "ultimo_numero": 3901,
+      "ultima_verificacao": "2026-09-17T12:46:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3398,
-      "ultima_verificacao": "2026-09-17T12:36:37-03:00"
+      "ultima_verificacao": "2026-09-17T12:46:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-17T12:36:37-03:00"
+      "ultima_verificacao": "2026-09-17T12:46:26-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-17T12:36:37-03:00"
+      "ultima_verificacao": "2026-09-17T12:46:26-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13027,
-      "ultima_verificacao": "2026-09-17T12:36:37-03:00"
+      "ultima_verificacao": "2026-09-17T12:46:26-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5029,
-      "ultima_verificacao": "2026-09-17T12:36:37-03:00"
+      "ultima_verificacao": "2026-09-17T12:46:26-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14341,
-      "ultima_verificacao": "2026-09-17T12:36:37-03:00"
+      "ultima_verificacao": "2026-09-17T12:46:26-03:00"
     }
   },
   "protocolos": {
@@ -2964,6 +2964,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003901A",
+        "RE": "RE8117000344A",
+        "numgEdificacao": 26167,
+        "Nome_Edificacao": "DAMMA PARTICIPAÇÕES E SERVIÇOS LTDA",
+        "Logradouro": "Rodovia Ingo Hering",
+        "Numero": "17500",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-17T12:46:26-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003900A",
         "RE": "RE8117000183A",
@@ -16919,7 +16930,7 @@
     "Brusque": 156,
     "Botuvera": 42,
     "Guabiruba": 66,
-    "Gaspar": 134,
+    "Gaspar": 135,
     "Porto Belo": 117,
     "Nova Trento": 63,
     "Itapema": 174,
@@ -16927,5 +16938,5 @@
     "Navegantes": 132,
     "Itajai": 365
   },
-  "total_geral": 1531
+  "total_geral": 1532
 }
