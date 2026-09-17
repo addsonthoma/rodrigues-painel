@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-17T14:20:03-03:00",
+  "timestamp": "2026-09-17T14:40:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 128,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T14:20:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:40:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T14:20:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:40:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T14:20:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:40:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T14:20:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:40:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 120,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T14:20:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:40:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 148,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T14:20:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:40:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 209,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T14:20:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:40:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 259,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T14:20:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:40:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 97,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T14:20:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:40:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 467,
+      "ultimo_numero": 471,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-17T14:20:03-03:00"
+      "ultima_verificacao": "2026-09-17T14:40:04-03:00"
     }
   },
   "multas": {
@@ -2473,6 +2473,46 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000468A/26",
+        "RE": "RE8161000622A",
+        "Nome_Edificacao": "David Luiz Durschnabel",
+        "Logradouro": "Rua Hercília Moser",
+        "Numero": "165",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-17T14:40:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000469A/26",
+        "RE": "RE8161009692A",
+        "Nome_Edificacao": "GALE ADMINISTRAÇAO DE BENS PROPRIOS LTDA",
+        "Logradouro": "RUA JACI RAMOS",
+        "Numero": "82",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-17T14:40:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000470A/26",
+        "RE": "RE8161009714A",
+        "Nome_Edificacao": "AME REBELLO ADMINISTRADORA DE BENS LTDA - EPP",
+        "Logradouro": "R BLUMENAU",
+        "Numero": "1067",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-17T14:40:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000471A/26",
+        "RE": "RE8161002821A",
+        "Nome_Edificacao": "Henrik Kreuger",
+        "Logradouro": "RUA BLUMENAU",
+        "Numero": "924",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-17T14:40:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000466A/26",
         "RE": "RE8161006252A",
@@ -7047,14 +7087,42 @@
     "Brusque": 73,
     "Gaspar": 41,
     "Guabiruba": 3,
-    "Itajai": 185,
+    "Itajai": 189,
     "Itapema": 92,
     "Navegantes": 59,
     "Nova Trento": 65,
     "Porto Belo": 63
   },
-  "total_geral": 708,
+  "total_geral": 712,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-17T14:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000471A/26",
+      "nome": "Henrik Kreuger",
+      "re": "RE8161002821A"
+    },
+    {
+      "ts": "2026-09-17T14:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000470A/26",
+      "nome": "AME REBELLO ADMINISTRADORA DE BENS LTDA - EPP",
+      "re": "RE8161009714A"
+    },
+    {
+      "ts": "2026-09-17T14:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000469A/26",
+      "nome": "GALE ADMINISTRAÇAO DE BENS PROPRIOS LTDA",
+      "re": "RE8161009692A"
+    },
+    {
+      "ts": "2026-09-17T14:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000468A/26",
+      "nome": "David Luiz Durschnabel",
+      "re": "RE8161000622A"
+    },
     {
       "ts": "2026-09-17T14:20:03-03:00",
       "cidade": "Itajai",
@@ -7376,34 +7444,6 @@
       "codigo": "MUL8161000454A/26",
       "nome": "CARLOS EDUARDO PROVESI",
       "re": "RE8161002823A"
-    },
-    {
-      "ts": "2026-09-11T13:20:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000453A/26",
-      "nome": "PLAZA FIRENZE",
-      "re": "RE8161006630A"
-    },
-    {
-      "ts": "2026-09-11T10:00:03-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000127A/26",
-      "nome": "SEMINÁRIO, MUSEU, IGREJA E LOJAS",
-      "re": "RE8055002428A"
-    },
-    {
-      "ts": "2026-09-11T09:50:03-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000061A/26",
-      "nome": "JOSÉ BRAZ GONÇALVES",
-      "re": "RE8117001175A"
-    },
-    {
-      "ts": "2026-09-11T09:50:03-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000126A/26",
-      "nome": "AUDAZ BURGER",
-      "re": "RE8055000151A"
     }
   ]
 }
