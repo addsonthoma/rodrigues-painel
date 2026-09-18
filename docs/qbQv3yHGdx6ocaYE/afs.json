@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-18T16:00:20-03:00",
+  "timestamp": "2026-09-18T16:10:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1034,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T16:00:20-03:00"
+      "ultima_verificacao": "2026-09-18T16:10:21-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T16:00:20-03:00"
+      "ultima_verificacao": "2026-09-18T16:10:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T16:00:20-03:00"
+      "ultima_verificacao": "2026-09-18T16:10:21-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 651,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T16:00:20-03:00"
+      "ultima_verificacao": "2026-09-18T16:10:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 521,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T16:00:20-03:00"
+      "ultima_verificacao": "2026-09-18T16:10:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 576,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T16:00:20-03:00"
+      "ultima_verificacao": "2026-09-18T16:10:21-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1245,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T16:00:20-03:00"
+      "ultima_verificacao": "2026-09-18T16:10:21-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1204,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T16:00:20-03:00"
+      "ultima_verificacao": "2026-09-18T16:10:21-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 360,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T16:00:20-03:00"
+      "ultima_verificacao": "2026-09-18T16:10:21-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1235,
+      "ultimo_numero": 1237,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T16:00:20-03:00"
+      "ultima_verificacao": "2026-09-18T16:10:21-03:00"
     }
   },
   "afs": {
@@ -26395,6 +26395,28 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001237A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005990A",
+        "Nome_Edificacao": "ANTONIO HENRIQUE PESSONI",
+        "Logradouro": "Rua Jacob Ardigo",
+        "Numero": "24",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-18T16:10:21-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001236A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002433A",
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL MONET",
+        "Logradouro": "Avenida Joca Brandão",
+        "Numero": "193",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-18T16:10:21-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001235A/26",
         "Tipo": "AF",
         "RE": "RE8161013189A",
@@ -31708,7 +31730,7 @@
     "Itapema": 511,
     "Blumenau": 491,
     "Navegantes": 156,
-    "Itajai": 482
+    "Itajai": 484
   },
-  "total_geral": 2874
+  "total_geral": 2876
 }
