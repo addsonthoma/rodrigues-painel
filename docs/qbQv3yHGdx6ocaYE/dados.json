@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-18T13:50:03-03:00",
+  "timestamp": "2026-09-18T14:00:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 128,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-18T14:00:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-18T14:00:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-18T14:00:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-18T14:00:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 120,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-18T14:00:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 148,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-18T14:00:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 210,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-18T14:00:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 259,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-18T14:00:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 97,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-18T14:00:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 474,
+      "ultimo_numero": 475,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T13:50:03-03:00"
+      "ultima_verificacao": "2026-09-18T14:00:03-03:00"
     }
   },
   "multas": {
@@ -2473,6 +2473,16 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000475A/26",
+        "RE": "RE8161001862A",
+        "Nome_Edificacao": "SERVICARGO SERV E ACESSORIA PORTUARIA",
+        "Logradouro": "Rua José Pereira Liberato",
+        "Numero": "1267",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-18T14:00:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000474A/26",
         "RE": "RE8161009297A",
@@ -7127,14 +7137,21 @@
     "Brusque": 73,
     "Gaspar": 41,
     "Guabiruba": 3,
-    "Itajai": 192,
+    "Itajai": 193,
     "Itapema": 93,
     "Navegantes": 59,
     "Nova Trento": 65,
     "Porto Belo": 63
   },
-  "total_geral": 716,
+  "total_geral": 717,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-18T14:00:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000475A/26",
+      "nome": "SERVICARGO SERV E ACESSORIA PORTUARIA",
+      "re": "RE8161001862A"
+    },
     {
       "ts": "2026-09-18T13:00:03-03:00",
       "cidade": "Itapema",
@@ -7477,13 +7494,6 @@
       "codigo": "MUL8265000118A/26",
       "nome": "Viva Lounge SC LTDA",
       "re": "RE8265002800A"
-    },
-    {
-      "ts": "2026-09-11T15:40:04-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000253A/26",
-      "nome": "PREFEITURA MUNICIPAL DE BLUMENAU",
-      "re": "RE8047000459A"
     }
   ]
 }
