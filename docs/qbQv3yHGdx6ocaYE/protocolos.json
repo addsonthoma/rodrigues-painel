@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-18T14:37:20-03:00",
+  "timestamp": "2026-09-18T14:47:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8125,
-      "ultima_verificacao": "2026-09-18T14:37:20-03:00"
+      "ultimo_numero": 8126,
+      "ultima_verificacao": "2026-09-18T14:47:56-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-18T14:37:20-03:00"
+      "ultima_verificacao": "2026-09-18T14:47:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-18T14:37:20-03:00"
+      "ultima_verificacao": "2026-09-18T14:47:56-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3901,
-      "ultima_verificacao": "2026-09-18T14:37:20-03:00"
+      "ultima_verificacao": "2026-09-18T14:47:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3399,
-      "ultima_verificacao": "2026-09-18T14:37:20-03:00"
+      "ultima_verificacao": "2026-09-18T14:47:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 980,
-      "ultima_verificacao": "2026-09-18T14:37:20-03:00"
+      "ultima_verificacao": "2026-09-18T14:47:56-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7223,
-      "ultima_verificacao": "2026-09-18T14:37:20-03:00"
+      "ultima_verificacao": "2026-09-18T14:47:56-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13030,
-      "ultima_verificacao": "2026-09-18T14:37:20-03:00"
+      "ultima_verificacao": "2026-09-18T14:47:56-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5033,
-      "ultima_verificacao": "2026-09-18T14:37:20-03:00"
+      "ultima_verificacao": "2026-09-18T14:47:56-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14346,
-      "ultima_verificacao": "2026-09-18T14:37:20-03:00"
+      "ultima_verificacao": "2026-09-18T14:47:56-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008126A",
+        "RE": "RE8055006829A",
+        "numgEdificacao": 370495,
+        "Nome_Edificacao": "REFEITÓRIO - VINCULO BASIC",
+        "Logradouro": "Rua Gabriel Siegel",
+        "Numero": "111",
+        "Bairro": "BRUSQUE - Guarani",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-18T14:47:56-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008125A",
         "RE": "RE8055000578A",
@@ -17158,7 +17169,7 @@
     ]
   },
   "totais": {
-    "Brusque": 161,
+    "Brusque": 162,
     "Botuvera": 42,
     "Guabiruba": 66,
     "Gaspar": 135,
@@ -17169,5 +17180,5 @@
     "Navegantes": 136,
     "Itajai": 370
   },
-  "total_geral": 1553
+  "total_geral": 1554
 }
