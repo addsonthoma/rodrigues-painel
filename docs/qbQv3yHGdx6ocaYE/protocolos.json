@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-18T10:57:17-03:00",
+  "timestamp": "2026-09-18T11:06:52-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8125,
-      "ultima_verificacao": "2026-09-18T10:57:17-03:00"
+      "ultima_verificacao": "2026-09-18T11:06:52-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-18T10:57:17-03:00"
+      "ultima_verificacao": "2026-09-18T11:06:52-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-18T10:57:17-03:00"
+      "ultima_verificacao": "2026-09-18T11:06:52-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3901,
-      "ultima_verificacao": "2026-09-18T10:57:17-03:00"
+      "ultima_verificacao": "2026-09-18T11:06:52-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3399,
-      "ultima_verificacao": "2026-09-18T10:57:17-03:00"
+      "ultima_verificacao": "2026-09-18T11:06:52-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-18T10:57:17-03:00"
+      "ultimo_numero": 980,
+      "ultima_verificacao": "2026-09-18T11:06:52-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7223,
-      "ultima_verificacao": "2026-09-18T10:57:17-03:00"
+      "ultima_verificacao": "2026-09-18T11:06:52-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13030,
-      "ultima_verificacao": "2026-09-18T10:57:17-03:00"
+      "ultima_verificacao": "2026-09-18T11:06:52-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5032,
-      "ultima_verificacao": "2026-09-18T10:57:17-03:00"
+      "ultima_verificacao": "2026-09-18T11:06:52-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14345,
-      "ultima_verificacao": "2026-09-18T10:57:17-03:00"
+      "ultima_verificacao": "2026-09-18T11:06:52-03:00"
     }
   },
   "protocolos": {
@@ -5806,6 +5806,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000980A",
+        "RE": "RE8225000832A",
+        "numgEdificacao": 370534,
+        "Nome_Edificacao": "FABIO DA SILVA",
+        "Logradouro": "ESTRADA GERAL CLARAIBA",
+        "Numero": "7532",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-18T11:06:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000979A",
         "RE": "RE8225000823A",
@@ -17130,11 +17141,11 @@
     "Guabiruba": 66,
     "Gaspar": 135,
     "Porto Belo": 118,
-    "Nova Trento": 63,
+    "Nova Trento": 64,
     "Itapema": 176,
     "Blumenau": 285,
     "Navegantes": 135,
     "Itajai": 369
   },
-  "total_geral": 1550
+  "total_geral": 1551
 }
