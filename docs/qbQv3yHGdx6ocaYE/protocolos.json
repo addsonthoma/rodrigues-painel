@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-18T16:17:34-03:00",
+  "timestamp": "2026-09-18T16:26:46-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8128,
-      "ultima_verificacao": "2026-09-18T16:17:34-03:00"
+      "ultima_verificacao": "2026-09-18T16:26:46-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-18T16:17:34-03:00"
+      "ultima_verificacao": "2026-09-18T16:26:46-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-18T16:17:34-03:00"
+      "ultima_verificacao": "2026-09-18T16:26:46-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3901,
-      "ultima_verificacao": "2026-09-18T16:17:34-03:00"
+      "ultima_verificacao": "2026-09-18T16:26:46-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3399,
-      "ultima_verificacao": "2026-09-18T16:17:34-03:00"
+      "ultima_verificacao": "2026-09-18T16:26:46-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 980,
-      "ultima_verificacao": "2026-09-18T16:17:34-03:00"
+      "ultima_verificacao": "2026-09-18T16:26:46-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7223,
-      "ultima_verificacao": "2026-09-18T16:17:34-03:00"
+      "ultimo_numero": 7224,
+      "ultima_verificacao": "2026-09-18T16:26:46-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13030,
-      "ultima_verificacao": "2026-09-18T16:17:34-03:00"
+      "ultima_verificacao": "2026-09-18T16:26:46-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5033,
-      "ultima_verificacao": "2026-09-18T16:17:34-03:00"
+      "ultima_verificacao": "2026-09-18T16:26:46-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14347,
-      "ultima_verificacao": "2026-09-18T16:17:34-03:00"
+      "ultima_verificacao": "2026-09-18T16:26:46-03:00"
     }
   },
   "protocolos": {
@@ -6545,6 +6545,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007224A",
+        "RE": "RE8163006892A",
+        "numgEdificacao": 370595,
+        "Nome_Edificacao": "RESIDENCIAL HERITÁ",
+        "Logradouro": "RUA 456",
+        "Numero": "441",
+        "Bairro": "ITAPEMA - JARDIM PRAIA MAR",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-18T16:26:46-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007223A",
         "RE": "RE8163006797A",
@@ -17208,10 +17219,10 @@
     "Gaspar": 135,
     "Porto Belo": 118,
     "Nova Trento": 64,
-    "Itapema": 176,
+    "Itapema": 177,
     "Blumenau": 285,
     "Navegantes": 136,
     "Itajai": 371
   },
-  "total_geral": 1557
+  "total_geral": 1558
 }
