@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-18T09:10:25-03:00",
+  "timestamp": "2026-09-18T09:20:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1030,
+      "ultimo_numero": 1031,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T09:10:25-03:00"
+      "ultima_verificacao": "2026-09-18T09:20:23-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 34,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T09:10:25-03:00"
+      "ultima_verificacao": "2026-09-18T09:20:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T09:10:25-03:00"
+      "ultima_verificacao": "2026-09-18T09:20:23-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 651,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T09:10:25-03:00"
+      "ultima_verificacao": "2026-09-18T09:20:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 521,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T09:10:25-03:00"
+      "ultima_verificacao": "2026-09-18T09:20:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 569,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T09:10:25-03:00"
+      "ultima_verificacao": "2026-09-18T09:20:23-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1244,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T09:10:25-03:00"
+      "ultima_verificacao": "2026-09-18T09:20:23-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1203,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T09:10:25-03:00"
+      "ultima_verificacao": "2026-09-18T09:20:23-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 360,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T09:10:25-03:00"
+      "ultima_verificacao": "2026-09-18T09:20:23-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1225,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-18T09:10:25-03:00"
+      "ultima_verificacao": "2026-09-18T09:20:23-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001031A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002293A",
+        "Nome_Edificacao": "ARTUR MISTURA",
+        "Logradouro": "Rua Azambuja",
+        "Numero": "115",
+        "Bairro": "BRUSQUE - AZAMBUJA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-18T09:20:23-03:00"
+      },
       {
         "CodigoAuto": "AF8055001030A/26",
         "Tipo": "AF",
@@ -31446,7 +31457,7 @@
     ]
   },
   "totais": {
-    "Brusque": 420,
+    "Brusque": 421,
     "Botuvera": 34,
     "Guabiruba": 44,
     "Gaspar": 236,
@@ -31457,5 +31468,5 @@
     "Navegantes": 156,
     "Itajai": 472
   },
-  "total_geral": 2851
+  "total_geral": 2852
 }
