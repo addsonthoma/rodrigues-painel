@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-18T08:27:24-03:00",
+  "timestamp": "2026-09-18T08:37:01-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8123,
-      "ultima_verificacao": "2026-09-18T08:27:24-03:00"
+      "ultima_verificacao": "2026-09-18T08:37:01-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-18T08:27:24-03:00"
+      "ultima_verificacao": "2026-09-18T08:37:01-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-18T08:27:24-03:00"
+      "ultima_verificacao": "2026-09-18T08:37:01-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3901,
-      "ultima_verificacao": "2026-09-18T08:27:24-03:00"
+      "ultima_verificacao": "2026-09-18T08:37:01-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3399,
-      "ultima_verificacao": "2026-09-18T08:27:24-03:00"
+      "ultima_verificacao": "2026-09-18T08:37:01-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-18T08:27:24-03:00"
+      "ultima_verificacao": "2026-09-18T08:37:01-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7223,
-      "ultima_verificacao": "2026-09-18T08:27:24-03:00"
+      "ultima_verificacao": "2026-09-18T08:37:01-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13029,
-      "ultima_verificacao": "2026-09-18T08:27:24-03:00"
+      "ultimo_numero": 13030,
+      "ultima_verificacao": "2026-09-18T08:37:01-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5032,
-      "ultima_verificacao": "2026-09-18T08:27:24-03:00"
+      "ultima_verificacao": "2026-09-18T08:37:01-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14345,
-      "ultima_verificacao": "2026-09-18T08:27:24-03:00"
+      "ultima_verificacao": "2026-09-18T08:37:01-03:00"
     }
   },
   "protocolos": {
@@ -8417,6 +8417,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013030A",
+        "RE": "RE8047001159A",
+        "numgEdificacao": 42489,
+        "Nome_Edificacao": "V.TAL - REDE NEUTRA DE TELECOMUNICACOES S.A.",
+        "Logradouro": "Avenida Brasil",
+        "Numero": "371",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-18T08:37:01-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013029A",
         "RE": "RE8047011317A",
@@ -17099,9 +17110,9 @@
     "Porto Belo": 118,
     "Nova Trento": 63,
     "Itapema": 176,
-    "Blumenau": 284,
+    "Blumenau": 285,
     "Navegantes": 135,
     "Itajai": 369
   },
-  "total_geral": 1547
+  "total_geral": 1548
 }
