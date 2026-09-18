@@ -1,59 +1,81 @@
 {
-  "timestamp": "2026-09-17T17:16:39-03:00",
+  "timestamp": "2026-09-18T08:15:46-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8121,
-      "ultima_verificacao": "2026-09-17T17:16:39-03:00"
+      "ultimo_numero": 8123,
+      "ultima_verificacao": "2026-09-18T08:15:46-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-17T17:16:39-03:00"
+      "ultima_verificacao": "2026-09-18T08:15:46-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-17T17:16:39-03:00"
+      "ultima_verificacao": "2026-09-18T08:15:46-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3901,
-      "ultima_verificacao": "2026-09-17T17:16:39-03:00"
+      "ultima_verificacao": "2026-09-18T08:15:46-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3398,
-      "ultima_verificacao": "2026-09-17T17:16:39-03:00"
+      "ultimo_numero": 3399,
+      "ultima_verificacao": "2026-09-18T08:15:46-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 979,
-      "ultima_verificacao": "2026-09-17T17:16:39-03:00"
+      "ultima_verificacao": "2026-09-18T08:15:46-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7221,
-      "ultima_verificacao": "2026-09-17T17:16:39-03:00"
+      "ultimo_numero": 7223,
+      "ultima_verificacao": "2026-09-18T08:15:46-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13027,
-      "ultima_verificacao": "2026-09-17T17:16:39-03:00"
+      "ultimo_numero": 13029,
+      "ultima_verificacao": "2026-09-18T08:15:46-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5030,
-      "ultima_verificacao": "2026-09-17T17:16:39-03:00"
+      "ultimo_numero": 5032,
+      "ultima_verificacao": "2026-09-18T08:15:46-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14343,
-      "ultima_verificacao": "2026-09-17T17:16:39-03:00"
+      "ultimo_numero": 14345,
+      "ultima_verificacao": "2026-09-18T08:15:46-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008123A",
+        "RE": "RE8055006827A",
+        "numgEdificacao": 370415,
+        "Nome_Edificacao": "Ada Juliana Werner Schork",
+        "Logradouro": "Ludovico Merico",
+        "Numero": "138",
+        "Bairro": "BRUSQUE - DOM JOAQUIM",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-18T08:15:46-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008122A",
+        "RE": "RE8055003143A",
+        "numgEdificacao": 216384,
+        "Nome_Edificacao": "DW ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "ROD. IVO SILVEIRA",
+        "Numero": "",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-18T08:15:46-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008121A",
         "RE": "RE8055001369A",
@@ -4463,6 +4485,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003399A",
+        "RE": "RE8265002648A",
+        "numgEdificacao": 345958,
+        "Nome_Edificacao": "BOREAL HOME",
+        "Logradouro": "Rua Arnoldo Tomé dos Santos",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-18T08:15:46-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003398A",
         "RE": "RE8265002424A",
         "numgEdificacao": 320493,
@@ -6447,6 +6480,28 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007223A",
+        "RE": "RE8163006797A",
+        "numgEdificacao": 365202,
+        "Nome_Edificacao": "Barroso Construtora",
+        "Logradouro": "RUA 408",
+        "Numero": "1382",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-18T08:15:46-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007222A",
+        "RE": "RE8163006891A",
+        "numgEdificacao": 370509,
+        "Nome_Edificacao": "EVOLUTION RESIDENCE",
+        "Logradouro": "av nereu ramos, esquina rua 241 e rua 243",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-18T08:15:46-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007221A",
         "RE": "RE8163006886A",
         "numgEdificacao": 370211,
@@ -8362,6 +8417,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013029A",
+        "RE": "RE8047011317A",
+        "numgEdificacao": 334207,
+        "Nome_Edificacao": "ANTONIO CANDIDO DA SILVA",
+        "Logradouro": "R JOHANN SACHSE",
+        "Numero": "2653",
+        "Bairro": "BLUMENAU - BADENFURT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-18T08:15:46-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013028A",
+        "RE": "RE8047008274A",
+        "numgEdificacao": 237633,
+        "Nome_Edificacao": "ESCOLA EXPRESSÃO",
+        "Logradouro": "Rua Içara",
+        "Numero": "111",
+        "Bairro": "BLUMENAU - ITOUPAVA SECA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-18T08:15:46-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013027A",
         "RE": "RE8047011467A",
@@ -11467,6 +11544,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005032A",
+        "RE": "RE8221004155A",
+        "numgEdificacao": 370523,
+        "Nome_Edificacao": "ELEVA RESIDENCE",
+        "Logradouro": "Rua Antonio Bernardo Schaufert",
+        "Numero": "307",
+        "Bairro": "NAVEGANTES - São Domingos",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-18T08:15:46-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005031A",
+        "RE": "RE8221004155A",
+        "numgEdificacao": 370523,
+        "Nome_Edificacao": "ELEVA RESIDENCE",
+        "Logradouro": "Rua Antonio Bernardo Schaufert",
+        "Numero": "307",
+        "Bairro": "NAVEGANTES - São Domingos",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-18T08:15:46-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005030A",
         "RE": "RE8221004153A",
         "numgEdificacao": 370259,
@@ -12931,6 +13030,28 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014345A",
+        "RE": "RE8161013891A",
+        "numgEdificacao": 370206,
+        "Nome_Edificacao": "Galpão Contorno Sul",
+        "Logradouro": "AVENIDA VEREADOR ABRAHAO JOAO FRANCISCO",
+        "Numero": "4701",
+        "Bairro": "ITAJAÍ - CARVALHO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-18T08:15:46-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014344A",
+        "RE": "RE8161011824A",
+        "numgEdificacao": 313614,
+        "Nome_Edificacao": "Efetiva Holding Ltda.",
+        "Logradouro": "Rua Margarida Dalçoquio Bittencourt",
+        "Numero": "142",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-18T08:15:46-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014343A",
         "RE": "RE8161004443A",
@@ -16971,16 +17092,16 @@
     ]
   },
   "totais": {
-    "Brusque": 157,
+    "Brusque": 159,
     "Botuvera": 42,
     "Guabiruba": 66,
     "Gaspar": 135,
-    "Porto Belo": 117,
+    "Porto Belo": 118,
     "Nova Trento": 63,
-    "Itapema": 174,
-    "Blumenau": 282,
-    "Navegantes": 133,
-    "Itajai": 367
+    "Itapema": 176,
+    "Blumenau": 284,
+    "Navegantes": 135,
+    "Itajai": 369
   },
-  "total_geral": 1536
+  "total_geral": 1547
 }
