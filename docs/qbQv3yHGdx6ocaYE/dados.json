@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-18T08:09:09-03:00",
+  "timestamp": "2026-09-18T08:20:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 128,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T08:09:09-03:00"
+      "ultima_verificacao": "2026-09-18T08:20:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T08:09:09-03:00"
+      "ultima_verificacao": "2026-09-18T08:20:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T08:09:09-03:00"
+      "ultima_verificacao": "2026-09-18T08:20:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T08:09:09-03:00"
+      "ultima_verificacao": "2026-09-18T08:20:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 120,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T08:09:09-03:00"
+      "ultima_verificacao": "2026-09-18T08:20:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 148,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T08:09:09-03:00"
+      "ultima_verificacao": "2026-09-18T08:20:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 209,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T08:09:09-03:00"
+      "ultima_verificacao": "2026-09-18T08:20:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 259,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T08:09:09-03:00"
+      "ultima_verificacao": "2026-09-18T08:20:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 97,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T08:09:09-03:00"
+      "ultima_verificacao": "2026-09-18T08:20:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 474,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-18T08:09:09-03:00"
+      "ultima_verificacao": "2026-09-18T08:20:04-03:00"
     }
   },
   "multas": {
@@ -7124,5 +7124,356 @@
     "Porto Belo": 63
   },
   "total_geral": 715,
-  "eventos_recentes": []
+  "eventos_recentes": [
+    {
+      "ts": "2026-09-17T16:50:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000474A/26",
+      "nome": "Orgete João da Silva",
+      "re": "RE8161009297A"
+    },
+    {
+      "ts": "2026-09-17T16:40:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000473A/26",
+      "nome": "ESTER MARLI DA SILVA",
+      "re": "RE8161013765A"
+    },
+    {
+      "ts": "2026-09-17T16:40:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000472A/26",
+      "nome": "JACKSON ALFREDO JIMENEZ",
+      "re": "RE8161009184A"
+    },
+    {
+      "ts": "2026-09-17T14:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000471A/26",
+      "nome": "Henrik Kreuger",
+      "re": "RE8161002821A"
+    },
+    {
+      "ts": "2026-09-17T14:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000470A/26",
+      "nome": "AME REBELLO ADMINISTRADORA DE BENS LTDA - EPP",
+      "re": "RE8161009714A"
+    },
+    {
+      "ts": "2026-09-17T14:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000469A/26",
+      "nome": "GALE ADMINISTRAÇAO DE BENS PROPRIOS LTDA",
+      "re": "RE8161009692A"
+    },
+    {
+      "ts": "2026-09-17T14:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000468A/26",
+      "nome": "David Luiz Durschnabel",
+      "re": "RE8161000622A"
+    },
+    {
+      "ts": "2026-09-17T14:20:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000467A/26",
+      "nome": "LIMA CABELEIREIROS UNISSEX",
+      "re": "RE8161005970A"
+    },
+    {
+      "ts": "2026-09-17T14:20:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000466A/26",
+      "nome": "PANIFICADORA E PADARIA PCP LTDA",
+      "re": "RE8161006252A"
+    },
+    {
+      "ts": "2026-09-17T14:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000465A/26",
+      "nome": "CONDOMINIO RESIDENCIAL VILA DE SAGRES",
+      "re": "RE8161006773A"
+    },
+    {
+      "ts": "2026-09-17T14:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000464A/26",
+      "nome": "GELSON VIANA 01504038010",
+      "re": "RE8161006929A"
+    },
+    {
+      "ts": "2026-09-17T14:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000463A/26",
+      "nome": "SC PORTOS OPERACOES PORTUARIAS LTDA",
+      "re": "RE8161003717A"
+    },
+    {
+      "ts": "2026-09-17T14:10:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000259A/26",
+      "nome": "BLUFORES FLORICULTURA LTDA-ME",
+      "re": "RE8047001885A"
+    },
+    {
+      "ts": "2026-09-17T13:50:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000462A/26",
+      "nome": "JVARGAS ADMINISTRADORA DE BENS LTDA",
+      "re": "RE8161003963A"
+    },
+    {
+      "ts": "2026-09-17T13:00:03-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000128A/26",
+      "nome": "HEZTOUR LTDA HOTEL",
+      "re": "RE8055001217A"
+    },
+    {
+      "ts": "2026-09-17T08:30:04-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000148A/26",
+      "nome": "ROBSON GIACOMELLI",
+      "re": "RE8225000753A"
+    },
+    {
+      "ts": "2026-09-17T08:30:04-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000120A/26",
+      "nome": "ADILSON ANTONIO GONÇALVES",
+      "re": "RE8265002610A"
+    },
+    {
+      "ts": "2026-09-17T08:20:04-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000147A/26",
+      "nome": "FTL Indústria Comércio Confecção LTDA EPP",
+      "re": "RE8225000206A"
+    },
+    {
+      "ts": "2026-09-16T14:40:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000258A/26",
+      "nome": "FLAVIA APARECIDA FOSSA",
+      "re": "RE8047008805A"
+    },
+    {
+      "ts": "2026-09-16T13:40:02-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000209A/26",
+      "nome": "ED. RES. E COMERCIAL DONA AMELIA",
+      "re": "RE8163000331A"
+    },
+    {
+      "ts": "2026-09-16T13:30:04-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000097A/26",
+      "nome": "COSTA SUL PESCADOS LTDA",
+      "re": "RE8221001169A"
+    },
+    {
+      "ts": "2026-09-16T13:30:04-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000096A/26",
+      "nome": "RESIDENCIAL SUIÇA HOME",
+      "re": "RE8221001700A"
+    },
+    {
+      "ts": "2026-09-16T13:30:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000208A/26",
+      "nome": "GALPÃO",
+      "re": "RE8163006784A"
+    },
+    {
+      "ts": "2026-09-16T13:20:03-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000207A/26",
+      "nome": "SILVINO PIVA",
+      "re": "RE8163006202A"
+    },
+    {
+      "ts": "2026-09-16T09:50:03-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000065A/26",
+      "nome": "DW EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+      "re": "RE8117000779A"
+    },
+    {
+      "ts": "2026-09-16T09:40:03-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000064A/26",
+      "nome": "DOMINGOS FELICIO MICHEI",
+      "re": "RE8117002771A"
+    },
+    {
+      "ts": "2026-09-16T08:10:05-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000119A/26",
+      "nome": "FLAVIO ANTONIO OLIVEIRA",
+      "re": "RE8265002097A"
+    },
+    {
+      "ts": "2026-09-15T16:20:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000257A/26",
+      "nome": "LA DOTTA INDÚSTRIA TEXTIL LTDA",
+      "re": "RE8047011301A"
+    },
+    {
+      "ts": "2026-09-15T14:50:04-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000095A/26",
+      "nome": "GUIDO SCHMIDT",
+      "re": "RE8221001222A"
+    },
+    {
+      "ts": "2026-09-15T14:50:04-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000063A/26",
+      "nome": "José Alcides Soares",
+      "re": "RE8117003061A"
+    },
+    {
+      "ts": "2026-09-15T14:50:04-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000062A/26",
+      "nome": "DELTA EMPREENDIMENTOS IMOBILIáRIO LTDA",
+      "re": "RE8117000888A"
+    },
+    {
+      "ts": "2026-09-15T12:50:03-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000206A/26",
+      "nome": "GIORGIO ROBERTO BALDANZI",
+      "re": "RE8163005035A"
+    },
+    {
+      "ts": "2026-09-14T17:00:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000461A/26",
+      "nome": "VILAR GONCALVES",
+      "re": "RE8161007358A"
+    },
+    {
+      "ts": "2026-09-14T15:30:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000460A/26",
+      "nome": "POSTO AVENIDA DO ESTADO LTDA",
+      "re": "RE8161001499A"
+    },
+    {
+      "ts": "2026-09-14T15:30:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000459A/26",
+      "nome": "INVENTÁRIO FERNANDO HEUSI SEÁRA",
+      "re": "RE8161002224A"
+    },
+    {
+      "ts": "2026-09-14T15:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000458A/26",
+      "nome": "EDIFICAÇÃO COMERCIAL- CENTRO COMERCIAL VITÓRIA",
+      "re": "RE8161004296A"
+    },
+    {
+      "ts": "2026-09-14T15:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000457A/26",
+      "nome": "SERGIO RONCHI",
+      "re": "RE8161001158A"
+    },
+    {
+      "ts": "2026-09-14T15:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000456A/26",
+      "nome": "EDIFICAÇÃO MISTA FLAVIO VENEZIO",
+      "re": "RE8161001911A"
+    },
+    {
+      "ts": "2026-09-14T15:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000455A/26",
+      "nome": "CONDOMÍNIO EDIFÍCIO IPANEMA",
+      "re": "RE8161011647A"
+    },
+    {
+      "ts": "2026-09-14T14:30:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000256A/26",
+      "nome": "ZANETE CANABARRO DIAS",
+      "re": "RE8047011446A"
+    },
+    {
+      "ts": "2026-09-14T14:30:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000255A/26",
+      "nome": "MUSEU DE CLUBE DE CAÇA E TIRO",
+      "re": "RE8047000366A"
+    },
+    {
+      "ts": "2026-09-14T14:10:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000254A/26",
+      "nome": "ASSOCIACAO DE BENEFICIOS MUTUOS DA REGIAO SUL",
+      "re": "RE8047011456A"
+    },
+    {
+      "ts": "2026-09-14T13:30:03-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000205A/26",
+      "nome": "COMERCIAL E RESIDENCIAL SOUZA 01",
+      "re": "RE8163001182A"
+    },
+    {
+      "ts": "2026-09-14T13:20:03-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000204A/26",
+      "nome": "EDIFICIO AMERICA",
+      "re": "RE8163001118A"
+    },
+    {
+      "ts": "2026-09-14T13:20:03-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000203A/26",
+      "nome": "VINICIUS TORRES ANTONASCIO",
+      "re": "RE8163004207A"
+    },
+    {
+      "ts": "2026-09-14T13:00:03-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000202A/26",
+      "nome": "SERGIO MOSER",
+      "re": "RE8163005726A"
+    },
+    {
+      "ts": "2026-09-14T10:00:04-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000146A/26",
+      "nome": "VANDERLEI MULLER",
+      "re": "RE8225000243A"
+    },
+    {
+      "ts": "2026-09-14T08:50:03-03:00",
+      "cidade": "Porto Belo",
+      "codigo": "MUL8265000118A/26",
+      "nome": "Viva Lounge SC LTDA",
+      "re": "RE8265002800A"
+    },
+    {
+      "ts": "2026-09-11T15:40:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000253A/26",
+      "nome": "PREFEITURA MUNICIPAL DE BLUMENAU",
+      "re": "RE8047000459A"
+    },
+    {
+      "ts": "2026-09-11T15:00:03-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000252A/26",
+      "nome": "PREFEITURA MUNICIPAL DE BLUMENAU",
+      "re": "RE8047000459A"
+    }
+  ]
 }
