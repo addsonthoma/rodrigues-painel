@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-21T07:46:39-03:00",
-  "total": 5342,
-  "expired": true,
+  "timestamp": "2026-09-21T08:40:44-03:00",
+  "total": 5423,
+  "expired": false,
   "drill": {
     "AF8047000787A/25": {
       "tipo": "FISCALIZACAO",
@@ -583,12 +583,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "19/12/2022",
-      "prazoDias": -1369,
+      "prazoDias": -1372,
       "bombeiroAutuacao": "Cb MAURICIO Inacio Juvencio",
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1789731309.321381
+      "_ts": 1789990447.130227
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1789731309.3214085
+      "_ts": 1789990447.1302605
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1789731309.3213987
+      "_ts": 1789990447.1302488
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5111,7 +5111,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1789731296.0663526
+      "_ts": 1789990438.7703786
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5126,12 +5126,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "21/10/2026",
-      "prazoDias": 33,
+      "prazoDias": 30,
       "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1789731296.0663233
+      "_ts": 1789990438.7703497
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5338,7 +5338,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1789731364.2505503
+      "_ts": 1789990491.4971297
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9454,7 +9454,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1789731281.3948557
+      "_ts": 1789990431.8264098
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9468,7 +9468,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1789731317.4098287
+      "_ts": 1789990458.118603
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -9482,7 +9482,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000015A/26",
-      "_ts": 1789731326.592252
+      "_ts": 1789990465.5925386
     },
     "AF8051000014A/26": {
       "tipo": "AF",
@@ -14010,7 +14010,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1789731353.6945636
+      "_ts": 1789990484.7034097
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -30095,7 +30095,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1789731351.344848
+      "_ts": 1789990482.720736
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -31801,6 +31801,7 @@
     },
     "AF8047000833A/26": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": 450,
       "cidade": "BLUMENAU",
       "responsavel": "Centro Terapêutico e de Projetos Sócio Educativos Vida - CTV",
       "cpfCnpj": "72424187000161",
@@ -31812,13 +31813,13 @@
         "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____",
         "Implementar brigada de incêndio"
       ],
-      "dataPrazo": "03/08/2026",
-      "prazoDias": 33,
+      "dataPrazo": "04/08/2026",
+      "prazoDias": -48,
       "bombeiroAutuacao": "1º Sgt Edson Marcelo WERNER",
-      "bloco": "Área de Lazer",
+      "bloco": "Bloco 06 – Ginásio",
       "codgAuto": "AF8047000833A/26",
       "numgAuto": 508409,
-      "_ts": 1782906055.301675
+      "_ts": 1789990650.389771
     },
     "AF8047000834A/26": {
       "tipo": "FISCALIZACAO",
@@ -38520,7 +38521,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1789731339.013576
+      "_ts": 1789990473.9434416
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -57374,13 +57375,13 @@
       "exigencias": [
         "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
       ],
-      "dataPrazo": "27/10/2026",
-      "prazoDias": 91,
+      "dataPrazo": "28/10/2026",
+      "prazoDias": 37,
       "bombeiroAutuacao": "Sd FERNANDA Zamprogna",
       "bloco": "EDFICAÇÃO 1",
       "codgAuto": "AF8055000853A/26",
       "numgAuto": 515782,
-      "_ts": 1785238381.9574466
+      "_ts": 1789990376.7141485
     },
     "AF8055000861A/26": {
       "tipo": "FISCALIZACAO",
@@ -103910,6 +103911,1590 @@
       "codgAuto": "MUL8161000222A/26",
       "numgAuto": 488440,
       "_ts": 1789731725.7538528
+    },
+    "AF8055001035A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1046.11",
+      "cidade": "BRUSQUE",
+      "responsavel": "IGREJA EVANGELICA ASSEMBLEIA DE DEUS EM BRUSQUE",
+      "cpfCnpj": "83810853000116",
+      "celular": "47991601099",
+      "email": "ad.brusque.sc@hotmail.com",
+      "endereco_responsavel": "Avenida Primeiro de Maio, 210, Primeiro de Maio, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "19/10/2026",
+      "prazoDias": 28,
+      "bombeiroAutuacao": "Cb LUIS Fernando da Silva",
+      "bloco": "BLOCO 01",
+      "codgAuto": "AF8055001035A/26",
+      "numgAuto": 530696,
+      "_ts": 1789990369.6265316
+    },
+    "AF8055001034A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "2600.62",
+      "cidade": "BRUSQUE",
+      "responsavel": "MEMORIAL BRUSQUE GESTÃO DE CEMITÉRIO LTDA",
+      "cpfCnpj": "36401343000105",
+      "celular": "47996521500",
+      "email": "rose@hhccontabilidade.com.br",
+      "endereco_responsavel": "Rua Nicolau Imhof, 400, São Pedro, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "16/10/2026",
+      "prazoDias": 25,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "EDFICAÇÃO 1",
+      "codgAuto": "AF8055001034A/26",
+      "numgAuto": 530503,
+      "_ts": 1789990376.7140982
+    },
+    "AF8055001033A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1964.03,
+      "cidade": "BRUSQUE",
+      "responsavel": "SC ALUGUEL DE IMOVEIS PROPRIOS LTDA",
+      "cpfCnpj": "36518048000133",
+      "celular": "49999362757",
+      "email": "edsonhort@gmail.com",
+      "endereco_responsavel": "Rua Sebastião Belli, 11, Centro I, Brusque",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "18/03/2027",
+      "prazoDias": 178,
+      "bombeiroAutuacao": "Sd RAFAEL RAMOS",
+      "bloco": "Bloco 02",
+      "codgAuto": "AF8055001033A/26",
+      "numgAuto": 530466,
+      "_ts": 1789990393.118492
+    },
+    "AF8055001032A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "628",
+      "cidade": "BRUSQUE",
+      "responsavel": "FERRO DECORAÇÃO - MÓVEIS E SOLUÇÕES EM FERRO LTDA",
+      "cpfCnpj": "33784202000120",
+      "celular": "47988078758",
+      "email": "ferrodecoracao@gmail.com",
+      "endereco_responsavel": "R Joao Lucio Torrezani, 35, Santa Rita, Brusque",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "17/09/2027",
+      "prazoDias": 361,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "COLORE360 LTDA",
+      "codgAuto": "AF8055001032A/26",
+      "numgAuto": 530390,
+      "_ts": 1789990407.0895174
+    },
+    "AF8055001031A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1433.31,
+      "cidade": "BRUSQUE",
+      "responsavel": "ADEMIR MISTURA",
+      "cpfCnpj": "50119648920",
+      "celular": "47984771317",
+      "email": "vltengenhariacivil@gmail.com",
+      "endereco_responsavel": "Rua Nereu Ramos, 112, Jardim Maluche, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/11/2026",
+      "prazoDias": 58,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8055001031A/26",
+      "numgAuto": 530355,
+      "_ts": 1789990414.4833572
+    },
+    "AF8117000654A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 291.42,
+      "cidade": "GASPAR",
+      "responsavel": "RICARDO BARON",
+      "cpfCnpj": "03718655900",
+      "celular": "47999292128",
+      "email": "ricadobaron223@gmail.com",
+      "endereco_responsavel": "Rua Botuvera, 300, Santa Terezinha, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "20/10/2026",
+      "prazoDias": 29,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "1",
+      "codgAuto": "AF8117000654A/26",
+      "numgAuto": 530748,
+      "_ts": 1789990499.5303423
+    },
+    "AF8117000653A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "459.23",
+      "cidade": "GASPAR",
+      "responsavel": "IVAN FROEHLICH",
+      "cpfCnpj": "76576043953",
+      "celular": "47999439796",
+      "email": "netcarautopecas@gmail.com",
+      "endereco_responsavel": "Rua Antonio Schmitz, 1120, Belchior Alto, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "20/12/2026",
+      "prazoDias": 90,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "EDIFICAÇÃO",
+      "codgAuto": "AF8117000653A/26",
+      "numgAuto": 530747,
+      "_ts": 1789990511.1648686
+    },
+    "AF8117000652A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 245,
+      "cidade": "GASPAR",
+      "responsavel": "TEREZINHA GESSER MANNES",
+      "cpfCnpj": "85436208991",
+      "celular": "47992085737",
+      "email": "cadastro@wilbertcontabilidade.com.br",
+      "endereco_responsavel": "Rua Manoel Bittencourt, 607, Sete de Setembro, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "20/10/2026",
+      "prazoDias": 29,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000652A/26",
+      "numgAuto": 530746,
+      "_ts": 1789990520.5351562
+    },
+    "AF8225000576A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 296,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "GIOVANI CASSANIGA 04988944956",
+      "cpfCnpj": "23332258000190",
+      "celular": "48332675118",
+      "email": "giovanicassaniga@gmail.com",
+      "endereco_responsavel": "Rua Augusto Cassaniga, Sem número, Indaia, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "31/10/2026",
+      "prazoDias": 40,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "GALPÃO",
+      "codgAuto": "AF8225000576A/26",
+      "numgAuto": 530490,
+      "_ts": 1789990535.4843307
+    },
+    "AF8225000575A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 479.89,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "TRENTO CAR AUTO CENTRO LTDA",
+      "cpfCnpj": "09537740000136",
+      "celular": "48032671384",
+      "email": "trento_car@hotmail.com",
+      "endereco_responsavel": "R Felipe Schimidt, 195, Ribeirao da Velha, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "31/10/2026",
+      "prazoDias": 40,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "BLOCO",
+      "codgAuto": "AF8225000575A/26",
+      "numgAuto": 530441,
+      "_ts": 1789990542.815014
+    },
+    "AF8225000616A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "434.16",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "20/11/2025",
+      "prazoDias": -305,
+      "bombeiroAutuacao": "Sd Gismael BONI",
+      "bloco": "SALÃO",
+      "codgAuto": "AF8225000616A/25",
+      "numgAuto": 440087,
+      "_ts": 1789990553.7913837
+    },
+    "AF8225000574A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "434.16",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "SALÃO",
+      "codgAuto": "AF8225000574A/26",
+      "numgAuto": 530439,
+      "_ts": 1789990553.791387
+    },
+    "AF8225000615A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "434.16",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "24/02/2027",
+      "prazoDias": 156,
+      "bombeiroAutuacao": "Sd Gismael BONI",
+      "bloco": "SALÃO",
+      "codgAuto": "AF8225000615A/25",
+      "numgAuto": 440086,
+      "_ts": 1789990553.7913973
+    },
+    "MUL8225000045A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "434.16",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "SALÃO",
+      "codgAuto": "MUL8225000045A/26",
+      "numgAuto": 473155,
+      "_ts": 1789990553.7914004
+    },
+    "AF8225000613A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "500.39",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "20/11/2025",
+      "prazoDias": -305,
+      "bombeiroAutuacao": "Sd Gismael BONI",
+      "bloco": "CAPELA / SALÃO",
+      "codgAuto": "AF8225000613A/25",
+      "numgAuto": 440012,
+      "_ts": 1789990562.3681273
+    },
+    "AF8225000612A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "500.39",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "19/02/2026",
+      "prazoDias": -214,
+      "bombeiroAutuacao": "Sd Gismael BONI",
+      "bloco": "CAPELA / SALÃO",
+      "codgAuto": "AF8225000612A/25",
+      "numgAuto": 440008,
+      "_ts": 1789990562.368135
+    },
+    "AF8225000573A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "500.39",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/02/2027",
+      "prazoDias": 150,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "CAPELA / SALÃO",
+      "codgAuto": "AF8225000573A/26",
+      "numgAuto": 530433,
+      "_ts": 1789990562.3681364
+    },
+    "MUL8225000062A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "500.39",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "CAPELA / SALÃO",
+      "codgAuto": "MUL8225000062A/26",
+      "numgAuto": 482461,
+      "_ts": 1789990562.3681617
+    },
+    "MUL8225000035A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "500.39",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "CAPELA / SALÃO",
+      "codgAuto": "MUL8225000035A/26",
+      "numgAuto": 472354,
+      "_ts": 1789990562.3681636
+    },
+    "AF8225000611A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "862.62",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "20/11/2025",
+      "prazoDias": -305,
+      "bombeiroAutuacao": "Sd Gismael BONI",
+      "bloco": "BLOCO",
+      "codgAuto": "AF8225000611A/25",
+      "numgAuto": 439937,
+      "_ts": 1789990577.1495078
+    },
+    "AF8225000610A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "862.62",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "19/02/2026",
+      "prazoDias": -214,
+      "bombeiroAutuacao": "Sd Gismael BONI",
+      "bloco": "BLOCO",
+      "codgAuto": "AF8225000610A/25",
+      "numgAuto": 439935,
+      "_ts": 1789990577.1495197
+    },
+    "AF8225000572A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "862.62",
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MITRA METROPOLITANA DE FLORIANÓPOLIS",
+      "cpfCnpj": "83932343003056",
+      "celular": "48988044300",
+      "email": "paroquiasaovirgilio@bol.com.br",
+      "endereco_responsavel": "Rua Santo Inácio, 170, Centro, Nova Trento",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "18/02/2027",
+      "prazoDias": 150,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "BLOCO",
+      "codgAuto": "AF8225000572A/26",
+      "numgAuto": 530430,
+      "_ts": 1789990577.149522
+    },
+    "MUL8225000044A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "862.62",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "BLOCO",
+      "codgAuto": "MUL8225000044A/26",
+      "numgAuto": 473143,
+      "_ts": 1789990577.1495585
+    },
+    "MUL8225000036A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "862.62",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "BLOCO",
+      "codgAuto": "MUL8225000036A/26",
+      "numgAuto": 472358,
+      "_ts": 1789990577.149562
+    },
+    "AF8225000571A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 250,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "AGRO BENVENUTTI LTDA",
+      "cpfCnpj": "50063628000104",
+      "celular": "48998677437",
+      "email": "atendimento@smartcont.com",
+      "endereco_responsavel": "Estrada Geral Claraiba, 7303, Claraiba, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "30/10/2026",
+      "prazoDias": 39,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "BLOCO",
+      "codgAuto": "AF8225000571A/26",
+      "numgAuto": 530414,
+      "_ts": 1789990585.2926536
+    },
+    "AF8225000570A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 580,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "BUSSOLARO ADMINISTRADORA DE BENS LTDA EPP",
+      "cpfCnpj": "73239014000136",
+      "celular": "48996700033",
+      "email": "cris@parathy.org",
+      "endereco_responsavel": "Travessa Cucco, 70, Besenelo, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "30/10/2026",
+      "prazoDias": 39,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "CONFECCAO JACOMINI",
+      "codgAuto": "AF8225000570A/26",
+      "numgAuto": 530410,
+      "_ts": 1789990599.5897067
+    },
+    "AF8163001245A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "6675.84",
+      "cidade": "ITAPEMA",
+      "responsavel": "DETALHE CONSTRUTORA E INCORPORADORA LTDA",
+      "cpfCnpj": "00319569000114",
+      "celular": "47999176909",
+      "email": "vanderlei@construtoradetalhe.com.br",
+      "endereco_responsavel": "Rua 222, 160, Andorinha, Itapema",
+      "exigencias": [
+        "Executar sistema de alarme de incêndio",
+        "Executar sistema de elevador de emergência"
+      ],
+      "dataPrazo": "21/10/2026",
+      "prazoDias": 30,
+      "bombeiroAutuacao": "SubTen Ademir Antonio SCHONS",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8163001245A/26",
+      "numgAuto": 530398,
+      "_ts": 1789990607.3704605
+    },
+    "AF8047001205A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 450,
+      "cidade": "BLUMENAU",
+      "responsavel": "Centro Terapêutico e de Projetos Sócio Educativos Vida - CTV",
+      "cpfCnpj": "72424187000161",
+      "celular": "47996767088",
+      "email": "psicologa.ctvida@gmail.com",
+      "endereco_responsavel": "Rua Joao Bonifacio Miguel de Souza, 145, Vorstadt, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "21/10/2026",
+      "prazoDias": 30,
+      "bombeiroAutuacao": "Cap Fillipi Thiago PAMPLONA",
+      "bloco": "Bloco 06 – Ginásio",
+      "codgAuto": "AF8047001205A/26",
+      "numgAuto": 530712,
+      "_ts": 1789990650.3897731
+    },
+    "AF8047001555A/22": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2811.95,
+      "cidade": "BLUMENAU",
+      "responsavel": "HNK BR INDUSTRIA DE BEBIDAS LTDA",
+      "cpfCnpj": "50221019006924",
+      "celular": "47996196638",
+      "email": "projetosuniaoeng@gmail.com",
+      "endereco_responsavel": "Rua Bahia, 5181, Salto Weissbach, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "20/08/2022",
+      "prazoDias": -1493,
+      "bombeiroAutuacao": "SubTen ROGERIO Morais",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8047001555A/22",
+      "numgAuto": 79283,
+      "_ts": 1789990659.974689
+    },
+    "AF8047001204A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2811.95,
+      "cidade": "BLUMENAU",
+      "responsavel": "HNK BR INDUSTRIA DE BEBIDAS LTDA",
+      "cpfCnpj": "50221019006924",
+      "celular": "47996196638",
+      "email": "projetosuniaoeng@gmail.com",
+      "endereco_responsavel": "Rua Bahia, 5181, Salto Weissbach, Blumenau",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "25/03/2027",
+      "prazoDias": 185,
+      "bombeiroAutuacao": "3º Sgt FERNANDO Neri Pereira",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8047001204A/26",
+      "numgAuto": 530616,
+      "_ts": 1789990659.9747026
+    },
+    "MUL8047000161A/22": {
+      "tipo": "MULTA",
+      "areaTotal": 2811.95,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Bloco 01",
+      "codgAuto": "MUL8047000161A/22",
+      "numgAuto": 127005,
+      "_ts": 1789990659.974745
+    },
+    "AF8221000361A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1364.4,
+      "cidade": "NAVEGANTES",
+      "responsavel": "MDR INDUSTRIA TEXTIL LTDA",
+      "cpfCnpj": "01674398000104",
+      "celular": "47933421730",
+      "email": "leandrodovalle@fatobasico.com.br",
+      "endereco_responsavel": "Rua Anibal Gaya, 226, Centro, Navegantes",
+      "exigencias": [
+        "Executar sistema de iluminação de emergência",
+        "Executar sistema de sinalização para abandono de local"
+      ],
+      "dataPrazo": "19/10/2026",
+      "prazoDias": 28,
+      "bombeiroAutuacao": "Cb Saint Clair Veiga Patricio Junior",
+      "bloco": "bloco 01",
+      "codgAuto": "AF8221000361A/26",
+      "numgAuto": 530722,
+      "_ts": 1789990666.7785664
+    },
+    "AF8161000658A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 536.76,
+      "cidade": "ITAJAÍ",
+      "responsavel": "VILMAR VARGAS",
+      "cpfCnpj": "77206746853",
+      "celular": "47999836630",
+      "email": "cica@mrsantoscontabilidade.com.br",
+      "endereco_responsavel": "Rua Estefano José Vanolli, 462, São Vicente, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "01/03/2025",
+      "prazoDias": -569,
+      "bombeiroAutuacao": "SubTen LUIZ ALBERTO Moreira",
+      "bloco": "1",
+      "codgAuto": "AF8161000658A/24",
+      "numgAuto": 297009,
+      "_ts": 1789990675.9998577
+    },
+    "AF8161001250A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 536.76,
+      "cidade": "ITAJAÍ",
+      "responsavel": "ILIMITTE MOVEIS E DECORAÇÕES LTDA",
+      "cpfCnpj": "44787338000291",
+      "celular": "47988815614",
+      "email": "m4afinan@gmail.com",
+      "endereco_responsavel": "Rua Estefano José Vanolli, 470, São Vicente, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "1",
+      "codgAuto": "AF8161001250A/26",
+      "numgAuto": 530689,
+      "_ts": 1789990675.9998713
+    },
+    "MUL8161000181A/25": {
+      "tipo": "MULTA",
+      "areaTotal": 536.76,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "1",
+      "codgAuto": "MUL8161000181A/25",
+      "numgAuto": 382962,
+      "_ts": 1789990675.9999876
+    },
+    "AF8161001249A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 323.29,
+      "cidade": "ITAJAÍ",
+      "responsavel": "CILSARO ARISTEU MARTINS",
+      "cpfCnpj": "25226096968",
+      "celular": "47999236937",
+      "email": "saltitaritajai@gmail.com",
+      "endereco_responsavel": "Rua Almirante Tamandare, 23, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "01",
+      "codgAuto": "AF8161001249A/26",
+      "numgAuto": 530687,
+      "_ts": 1789990683.491065
+    },
+    "AF8161001248A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 10533.84,
+      "cidade": "ITAJAÍ",
+      "responsavel": "SDB COMERCIO DE ALIMENTOS LTDA",
+      "cpfCnpj": "09477652000196",
+      "celular": "48999881758",
+      "email": "renatobonaldo@gmail.com",
+      "endereco_responsavel": "Rua Tabapuã, 841, Itaim Bibi, São Paulo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "FORT ATACADISTA LAR FABIANO",
+      "codgAuto": "AF8161001248A/26",
+      "numgAuto": 530686,
+      "_ts": 1789990692.9236073
+    },
+    "AF8161001247A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 709.43,
+      "cidade": "ITAJAÍ",
+      "responsavel": "N.C.J. HIDRAULICOS AUTOMOTIVOS LTDA",
+      "cpfCnpj": "05738909000165",
+      "celular": "47033422924",
+      "email": "ncj2021@hotmail.com",
+      "endereco_responsavel": "Rua Julio Wippel, 123, Nova Brasilia, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "NCJ",
+      "codgAuto": "AF8161001247A/26",
+      "numgAuto": 530682,
+      "_ts": 1789990701.0840263
+    },
+    "AF8161001246A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1237.88,
+      "cidade": "ITAJAÍ",
+      "responsavel": "REAL TRATOR PEÇAS EIRELI EPP",
+      "cpfCnpj": "07026908000113",
+      "celular": "47933461793",
+      "email": "alvaras@opcontabilidade.com",
+      "endereco_responsavel": "Rua Jose Lopes, 31, Cordeiros, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "01",
+      "codgAuto": "AF8161001246A/26",
+      "numgAuto": 530681,
+      "_ts": 1789990707.7078362
+    },
+    "AF8161001212A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 820.17,
+      "cidade": "ITAJAÍ",
+      "responsavel": "EFETIVA COMERCIO DE VEICULOS LTDA",
+      "cpfCnpj": "14404880000257",
+      "celular": "47992825103",
+      "email": "societario@g4contabilidade.com.br",
+      "endereco_responsavel": "Rodovia Osvaldo Reis, 2630, Fazendinha, Itajaí",
+      "exigencias": [
+        "Executar sistema de iluminação de emergência",
+        "Executar sistema de saída de emergência",
+        "Executar sistema hidráulico preventivo"
+      ],
+      "dataPrazo": "19/06/2023",
+      "prazoDias": -1190,
+      "bombeiroAutuacao": "Cb Bruno Schiminski",
+      "bloco": "01",
+      "codgAuto": "AF8161001212A/23",
+      "numgAuto": 199359,
+      "_ts": 1789990714.845761
+    },
+    "AF8161001245A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 820.17,
+      "cidade": "ITAJAÍ",
+      "responsavel": "EFETIVA COMERCIO DE VEICULOS LTDA",
+      "cpfCnpj": "14404880000257",
+      "celular": "47992825103",
+      "email": "societario@g4contabilidade.com.br",
+      "endereco_responsavel": "Rodovia Osvaldo Reis, 2630, Fazendinha, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "01",
+      "codgAuto": "AF8161001245A/26",
+      "numgAuto": 530675,
+      "_ts": 1789990714.8457758
+    },
+    "MUL8161000693A/23": {
+      "tipo": "MULTA",
+      "areaTotal": 820.17,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "01",
+      "codgAuto": "MUL8161000693A/23",
+      "numgAuto": 221462,
+      "_ts": 1789990714.8458192
+    },
+    "AF8161002217A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 286.48,
+      "cidade": "ITAJAÍ",
+      "responsavel": "THAÍS THOMSEN NIADA",
+      "cpfCnpj": "09041057927",
+      "celular": "47997534808",
+      "email": "thaisniada@gmail.com",
+      "endereco_responsavel": "Rua Amapá, 451, Cordeiros, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "29/07/2024",
+      "prazoDias": -784,
+      "bombeiroAutuacao": "Cb Vanderley MENDONCA",
+      "bloco": "CONVIVER",
+      "codgAuto": "AF8161002217A/23",
+      "numgAuto": 250933,
+      "_ts": 1789990721.3367496
+    },
+    "AF8161001244A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 286.48,
+      "cidade": "ITAJAÍ",
+      "responsavel": "Centro de Recuperação Conviver",
+      "cpfCnpj": "03394579000102",
+      "celular": "47991723939",
+      "email": "conviveritajai@gmail.com",
+      "endereco_responsavel": "Rua Jose Siqueira, 1070, Ressacada, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "CONVIVER",
+      "codgAuto": "AF8161001244A/26",
+      "numgAuto": 530671,
+      "_ts": 1789990721.3367634
+    },
+    "MUL8161000639A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 286.48,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "CONVIVER",
+      "codgAuto": "MUL8161000639A/24",
+      "numgAuto": 323793,
+      "_ts": 1789990721.336814
+    },
+    "AF8161001243A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 256.47,
+      "cidade": "ITAJAÍ",
+      "responsavel": "FUNDO MUNICIPAL DE SAÚDE DE ITAJAÍ",
+      "cpfCnpj": "08259606000158",
+      "celular": "47996636695",
+      "email": "manutencao.sms@itajai.sc.gov.br",
+      "endereco_responsavel": "Avenida Governador Adolfo Konder, 250, Cidade Nova, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "01",
+      "codgAuto": "AF8161001243A/26",
+      "numgAuto": 530670,
+      "_ts": 1789990732.4235966
+    },
+    "AF8161000008A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "940.8",
+      "cidade": "ITAJAÍ",
+      "responsavel": "FUNDO MUNICIPAL DE SAÚDE DE ITAJAÍ",
+      "cpfCnpj": "08259606000158",
+      "celular": "47996636695",
+      "email": "manutencao.sms@itajai.sc.gov.br",
+      "endereco_responsavel": "Avenida Governador Adolfo Konder, 250, Cidade Nova, Itajaí",
+      "exigencias": [
+        "Executar instalações de gás combustível"
+      ],
+      "dataPrazo": "19/04/2026",
+      "prazoDias": -155,
+      "bombeiroAutuacao": "Cb Joao Carlos Thiesen Rosa",
+      "bloco": "01",
+      "codgAuto": "AF8161000008A/26",
+      "numgAuto": 461858,
+      "_ts": 1789990740.7708106
+    },
+    "AF8161001242A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "940.8",
+      "cidade": "ITAJAÍ",
+      "responsavel": "FUNDO MUNICIPAL DE SAÚDE DE ITAJAÍ",
+      "cpfCnpj": "08259606000158",
+      "celular": "47996636695",
+      "email": "manutencao.sms@itajai.sc.gov.br",
+      "endereco_responsavel": "Avenida Governador Adolfo Konder, 250, Cidade Nova, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "01",
+      "codgAuto": "AF8161001242A/26",
+      "numgAuto": 530651,
+      "_ts": 1789990740.7708223
+    },
+    "AF8161000430A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "940.8",
+      "cidade": "ITAJAÍ",
+      "responsavel": "FUNDO MUNICIPAL DE SAÚDE DE ITAJAÍ",
+      "cpfCnpj": "08259606000158",
+      "celular": "47996636695",
+      "email": "manutencao.sms@itajai.sc.gov.br",
+      "endereco_responsavel": "Avenida Governador Adolfo Konder, 250, Cidade Nova, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "08/01/2027",
+      "prazoDias": 109,
+      "bombeiroAutuacao": "SubTen LUIZ ALBERTO Moreira",
+      "bloco": "01",
+      "codgAuto": "AF8161000430A/26",
+      "numgAuto": 480191,
+      "_ts": 1789990740.7708762
+    },
+    "MUL8161000269A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "940.8",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "01",
+      "codgAuto": "MUL8161000269A/26",
+      "numgAuto": 496784,
+      "_ts": 1789990740.7708797
+    },
+    "AF8161001241A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 4118.49,
+      "cidade": "ITAJAÍ",
+      "responsavel": "RESIDENCIAL MARIA ANGELA",
+      "cpfCnpj": "21589917000143",
+      "celular": "47984325440",
+      "email": "resmariaangela@hotmail.com",
+      "endereco_responsavel": "Rua José Gall, 910, Dom Bosco, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "CONDOMINIO RESIDENCIAL MARIA ANGELA",
+      "codgAuto": "AF8161001241A/26",
+      "numgAuto": 530641,
+      "_ts": 1789990750.395872
+    },
+    "AF8161001351A/22": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2281.55,
+      "cidade": "ITAJAÍ",
+      "responsavel": "Janio Flavio de Oliveira",
+      "cpfCnpj": "38708531900",
+      "celular": "47996625585",
+      "email": "janioflavio@terra.com.br",
+      "endereco_responsavel": "Rua Gil Stein Ferreira, 357, Centro, Itajaí",
+      "exigencias": [
+        "Apresentar projeto (PPCI ou RPCI)"
+      ],
+      "dataPrazo": "31/03/2023",
+      "prazoDias": -1270,
+      "bombeiroAutuacao": "Sd JAMILE Mendonca dos Santos",
+      "bloco": "01",
+      "codgAuto": "AF8161001351A/22",
+      "numgAuto": 65913,
+      "_ts": 1789990758.6853225
+    },
+    "AF8161001423A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2281.55,
+      "cidade": "ITAJAÍ",
+      "responsavel": "COND DO EDIF CENTRO COMERCIAL MARCILIO DIAS",
+      "cpfCnpj": "76709690000114",
+      "celular": "47999999999",
+      "email": "atendimento@adfadm.com.br",
+      "endereco_responsavel": "Avenida Sete de Setembro, 100, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "04/12/2024",
+      "prazoDias": -656,
+      "bombeiroAutuacao": "SubTen LUIZ ALBERTO Moreira",
+      "bloco": "01",
+      "codgAuto": "AF8161001423A/24",
+      "numgAuto": 329623,
+      "_ts": 1789990758.6853435
+    },
+    "AF8161000087A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2281.55,
+      "cidade": "ITAJAÍ",
+      "responsavel": "Rogerio Paiva Lima",
+      "cpfCnpj": "01739813995",
+      "celular": "47999140034",
+      "email": "rogerio@paivalima.net",
+      "endereco_responsavel": "Rua Tijucas, 209, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "20/02/2026",
+      "prazoDias": -213,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "01",
+      "codgAuto": "AF8161000087A/26",
+      "numgAuto": 463892,
+      "_ts": 1789990758.6853483
+    },
+    "AF8161001240A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2281.55,
+      "cidade": "ITAJAÍ",
+      "responsavel": "COND DO EDIF CENTRO COMERCIAL MARCILIO DIAS",
+      "cpfCnpj": "76709690000114",
+      "celular": "47999999999",
+      "email": "atendimento@adfadm.com.br",
+      "endereco_responsavel": "Avenida Sete de Setembro, 100, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "01",
+      "codgAuto": "AF8161001240A/26",
+      "numgAuto": 530640,
+      "_ts": 1789990758.6853545
+    },
+    "MUL8161000289A/23": {
+      "tipo": "MULTA",
+      "areaTotal": 2281.55,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "01",
+      "codgAuto": "MUL8161000289A/23",
+      "numgAuto": 196579,
+      "_ts": 1789990758.685435
+    },
+    "MUL8161000926A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 2281.55,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "01",
+      "codgAuto": "MUL8161000926A/24",
+      "numgAuto": 361408,
+      "_ts": 1789990758.68544
+    },
+    "MUL8161000115A/26": {
+      "tipo": "MULTA",
+      "areaTotal": 2281.55,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "01",
+      "codgAuto": "MUL8161000115A/26",
+      "numgAuto": 473759,
+      "_ts": 1789990758.685443
+    },
+    "AF8161001239A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 14638.48,
+      "cidade": "ITAJAÍ",
+      "responsavel": "RESIDENCIAL ESSENZA",
+      "cpfCnpj": "49271874000172",
+      "celular": "47997263867",
+      "email": "atendimento2@adfadm.com.br",
+      "endereco_responsavel": "Rua Brusque, 271, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "01",
+      "codgAuto": "AF8161001239A/26",
+      "numgAuto": 530638,
+      "_ts": 1789990766.8039694
+    },
+    "AF8161000456A/22": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1157.5",
+      "cidade": "ITAJAÍ",
+      "responsavel": "LIO CESAR DE MACEDO",
+      "cpfCnpj": "10434356972",
+      "celular": "47999836906",
+      "email": "engflores@terra.com.br",
+      "endereco_responsavel": "Rua Hercílio Luz, 342, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "07/09/2022",
+      "prazoDias": -1475,
+      "bombeiroAutuacao": "Cb Joao Carlos Thiesen Rosa",
+      "bloco": "01",
+      "codgAuto": "AF8161000456A/22",
+      "numgAuto": 49377,
+      "_ts": 1789990775.3187869
+    },
+    "AF8161002316A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1157.5",
+      "cidade": "ITAJAÍ",
+      "responsavel": "CLAUDIO ROBERTO FLORES",
+      "cpfCnpj": "59942240900",
+      "celular": "47999836909",
+      "email": "engflores@terra.com.br",
+      "endereco_responsavel": "Rua Lages, 89, Fazenda, Itajaí",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "06/03/2024",
+      "prazoDias": -929,
+      "bombeiroAutuacao": "Cb Bruno Schiminski",
+      "bloco": "01",
+      "codgAuto": "AF8161002316A/23",
+      "numgAuto": 255802,
+      "_ts": 1789990775.3187978
+    },
+    "AF8161001238A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1157.5",
+      "cidade": "ITAJAÍ",
+      "responsavel": "LIO CESAR DE MACEDO",
+      "cpfCnpj": "10434356972",
+      "celular": "47999836906",
+      "email": "engflores@terra.com.br",
+      "endereco_responsavel": "Rua Hercílio Luz, 342, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "01",
+      "codgAuto": "AF8161001238A/26",
+      "numgAuto": 530633,
+      "_ts": 1789990775.3188012
+    },
+    "MUL8161000350A/22": {
+      "tipo": "MULTA",
+      "areaTotal": "1157.5",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "01",
+      "codgAuto": "MUL8161000350A/22",
+      "numgAuto": 134579,
+      "_ts": 1789990775.3188446
+    },
+    "MUL8161000222A/24": {
+      "tipo": "MULTA",
+      "areaTotal": "1157.5",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "01",
+      "codgAuto": "MUL8161000222A/24",
+      "numgAuto": 291553,
+      "_ts": 1789990775.3188474
+    },
+    "AF8161002106A/22": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 560.63,
+      "cidade": "ITAJAÍ",
+      "responsavel": "KARINA ROBERTO CORREA",
+      "cpfCnpj": "28463357881",
+      "celular": "11948598410",
+      "email": "helioakira.takaki@gmail.com",
+      "endereco_responsavel": "Rua Coronel Luís Alves, 86, Vila Mariana, São Paulo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/09/2022",
+      "prazoDias": -1481,
+      "bombeiroAutuacao": "SubTen Roberto Carlos Knopf",
+      "bloco": "01",
+      "codgAuto": "AF8161002106A/22",
+      "numgAuto": 79710,
+      "_ts": 1789990783.39788
+    },
+    "AF8161001237A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 560.63,
+      "cidade": "ITAJAÍ",
+      "responsavel": "ANTONIO HENRIQUE PESSONI",
+      "cpfCnpj": "09507674926",
+      "celular": "47984639760",
+      "email": "nilcepessoni@yahoo.com.br",
+      "endereco_responsavel": "R Jacob Ardigo, 24, Dom Bosco, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "01",
+      "codgAuto": "AF8161001237A/26",
+      "numgAuto": 530629,
+      "_ts": 1789990783.3978965
+    },
+    "MUL8161000328A/22": {
+      "tipo": "MULTA",
+      "areaTotal": 560.63,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "01",
+      "codgAuto": "MUL8161000328A/22",
+      "numgAuto": 131022,
+      "_ts": 1789990783.397947
+    },
+    "AF8161001236A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 8467.77,
+      "cidade": "ITAJAÍ",
+      "responsavel": "CONDOMINIO RESIDENCIAL MONET",
+      "cpfCnpj": "10212511000120",
+      "celular": "47984325440",
+      "email": "boletohz@gmail.com",
+      "endereco_responsavel": "Avenida Joca Brandao, 193, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "01",
+      "codgAuto": "AF8161001236A/26",
+      "numgAuto": 530626,
+      "_ts": 1789990794.5056245
+    },
+    "AF8161001235A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "410.89",
+      "cidade": "ITAJAÍ",
+      "responsavel": "Jonas de Freitas Cardoso",
+      "cpfCnpj": "64086100991",
+      "celular": "47996482440",
+      "email": "antifire.solucoes@gmail.com",
+      "endereco_responsavel": "Rua José Tedeo, 544, São Judas, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8161001235A/26",
+      "numgAuto": 530618,
+      "_ts": 1789990804.865888
+    },
+    "AF8161001234A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "401.61",
+      "cidade": "ITAJAÍ",
+      "responsavel": "Sergio Luiz Cavallari Junior",
+      "cpfCnpj": "05335199938",
+      "celular": "47996109383",
+      "email": "contato@convidadequalidade.com",
+      "endereco_responsavel": "Joaquim José de Freitas, 848, São João, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "18/04/2027",
+      "prazoDias": 209,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "Regularização",
+      "codgAuto": "AF8161001234A/26",
+      "numgAuto": 530609,
+      "_ts": 1789990817.8725111
+    },
+    "AF8161000902A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "6435.68",
+      "cidade": "ITAJAÍ",
+      "responsavel": "NORMA VOLPI BOTELHO PROVESI",
+      "cpfCnpj": "79858945949",
+      "celular": "48996376539",
+      "email": "rh.provesi@outlook.com",
+      "endereco_responsavel": "Rua Antônio Ayres dos Santos, 450, São Vicente, Itajaí",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "30/05/2024",
+      "prazoDias": -844,
+      "bombeiroAutuacao": "Cb Joao Carlos Thiesen Rosa",
+      "bloco": "Verdureira Provesi",
+      "codgAuto": "AF8161000902A/23",
+      "numgAuto": 184710,
+      "_ts": 1789990827.56318
+    },
+    "AF8161000379A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "6435.68",
+      "cidade": "ITAJAÍ",
+      "responsavel": "DAGOSTIN CONTABILIDADE LTDA",
+      "cpfCnpj": "05792794995",
+      "celular": "47984979811",
+      "email": "contato@dagostin.cnt.br",
+      "endereco_responsavel": "Av. do Estado, 4646, Estados, Balneário Camboriú",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "21/07/2025",
+      "prazoDias": -427,
+      "bombeiroAutuacao": "Cb Vanderley MENDONCA",
+      "bloco": "Verdureira Provesi",
+      "codgAuto": "AF8161000379A/25",
+      "numgAuto": 384206,
+      "_ts": 1789990827.5631893
+    },
+    "AF8161001233A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "6435.68",
+      "cidade": "ITAJAÍ",
+      "responsavel": "PROVESI & BOTELHO HORTIFRUTI LTDA",
+      "cpfCnpj": "12483945000190",
+      "celular": "47997058295",
+      "email": "com.frutaseverdurasprovesi@hotmail.com",
+      "endereco_responsavel": "Rua Manoel Francisco Coelho, 461, São Vicente, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "Verdureira Provesi",
+      "codgAuto": "AF8161001233A/26",
+      "numgAuto": 530605,
+      "_ts": 1789990827.5631936
+    },
+    "MUL8161000507A/24": {
+      "tipo": "MULTA",
+      "areaTotal": "6435.68",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Verdureira Provesi",
+      "codgAuto": "MUL8161000507A/24",
+      "numgAuto": 309955,
+      "_ts": 1789990827.5632339
+    },
+    "MUL8161000469A/25": {
+      "tipo": "MULTA",
+      "areaTotal": "6435.68",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Verdureira Provesi",
+      "codgAuto": "MUL8161000469A/25",
+      "numgAuto": 419492,
+      "_ts": 1789990827.563237
+    },
+    "AF8161001232A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 8694.35,
+      "cidade": "ITAJAÍ",
+      "responsavel": "Matisse Const. E Incorp. De Empreend. Imob. L",
+      "cpfCnpj": "20613047000138",
+      "celular": "47999189968",
+      "email": "rogerbittencourt@terra.com.br",
+      "endereco_responsavel": "Rua Camboriú, 442, Centro, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "18/10/2026",
+      "prazoDias": 27,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8161001232A/26",
+      "numgAuto": 530597,
+      "_ts": 1789990835.6821556
+    },
+    "AF8161001899A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 3588.97,
+      "cidade": "ITAJAÍ",
+      "responsavel": "MÁRCIA REIS FELIPE",
+      "cpfCnpj": "26624478004",
+      "celular": "47984995661",
+      "email": "jbprojetoseassessoria@gmail.com",
+      "endereco_responsavel": "Av Doutor Reinaldo Schmithausen, 203, Cordeiros, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "28/02/2024",
+      "prazoDias": -936,
+      "bombeiroAutuacao": "SubTen LUIZ ALBERTO Moreira",
+      "bloco": "BLOCO GERAL",
+      "codgAuto": "AF8161001899A/23",
+      "numgAuto": 235357,
+      "_ts": 1789990844.2381086
+    },
+    "AF8161001204A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 3588.97,
+      "cidade": "ITAJAÍ",
+      "responsavel": "MÁRCIA REIS FELIPE",
+      "cpfCnpj": "26624478004",
+      "celular": "47984995661",
+      "email": "jbprojetoseassessoria@gmail.com",
+      "endereco_responsavel": "Av Doutor Reinaldo Schmithausen, 203, Cordeiros, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "27/11/2024",
+      "prazoDias": -663,
+      "bombeiroAutuacao": "SubTen Pascoal POLASTRI",
+      "bloco": "BLOCO GERAL",
+      "codgAuto": "AF8161001204A/24",
+      "numgAuto": 319216,
+      "_ts": 1789990844.2381177
+    },
+    "AF8161001231A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 3588.97,
+      "cidade": "ITAJAÍ",
+      "responsavel": "MÁRCIA REIS FELIPE",
+      "cpfCnpj": "26624478004",
+      "celular": "47984995661",
+      "email": "jbprojetoseassessoria@gmail.com",
+      "endereco_responsavel": "Av Doutor Reinaldo Schmithausen, 203, Cordeiros, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "24/10/2026",
+      "prazoDias": 33,
+      "bombeiroAutuacao": "Cb Daiane Cristina Fernandes",
+      "bloco": "BLOCO GERAL",
+      "codgAuto": "AF8161001231A/26",
+      "numgAuto": 530548,
+      "_ts": 1789990844.238121
+    },
+    "MUL8161000166A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 3588.97,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "BLOCO GERAL",
+      "codgAuto": "MUL8161000166A/24",
+      "numgAuto": 286179,
+      "_ts": 1789990844.2381554
+    },
+    "MUL8161000884A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 3588.97,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "BLOCO GERAL",
+      "codgAuto": "MUL8161000884A/24",
+      "numgAuto": 356885,
+      "_ts": 1789990844.2381587
     }
   }
 }
