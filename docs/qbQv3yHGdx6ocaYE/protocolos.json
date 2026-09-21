@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-21T08:58:11-03:00",
+  "timestamp": "2026-09-21T09:07:51-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8130,
-      "ultima_verificacao": "2026-09-21T08:58:11-03:00"
+      "ultimo_numero": 8131,
+      "ultima_verificacao": "2026-09-21T09:07:51-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-21T08:58:11-03:00"
+      "ultima_verificacao": "2026-09-21T09:07:51-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-21T08:58:11-03:00"
+      "ultima_verificacao": "2026-09-21T09:07:51-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-21T08:58:11-03:00"
+      "ultima_verificacao": "2026-09-21T09:07:51-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3399,
-      "ultima_verificacao": "2026-09-21T08:58:11-03:00"
+      "ultima_verificacao": "2026-09-21T09:07:51-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 980,
-      "ultima_verificacao": "2026-09-21T08:58:11-03:00"
+      "ultima_verificacao": "2026-09-21T09:07:51-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-21T08:58:11-03:00"
+      "ultima_verificacao": "2026-09-21T09:07:51-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13032,
-      "ultima_verificacao": "2026-09-21T08:58:11-03:00"
+      "ultima_verificacao": "2026-09-21T09:07:51-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5034,
-      "ultima_verificacao": "2026-09-21T08:58:11-03:00"
+      "ultima_verificacao": "2026-09-21T09:07:51-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14348,
-      "ultima_verificacao": "2026-09-21T08:58:11-03:00"
+      "ultima_verificacao": "2026-09-21T09:07:51-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008131A",
+        "RE": "RE8055006825A",
+        "numgEdificacao": 370321,
+        "Nome_Edificacao": "MHMOREIRA CONFECCOES LTDA",
+        "Logradouro": "ROD DEPUTADO ANTONIO HEIL SC 486",
+        "Numero": "7275",
+        "Bairro": "BRUSQUE - Limoeiro",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-21T09:07:51-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008130A",
         "RE": "RE8055006833A",
@@ -17290,7 +17301,7 @@
     ]
   },
   "totais": {
-    "Brusque": 166,
+    "Brusque": 167,
     "Botuvera": 42,
     "Guabiruba": 66,
     "Gaspar": 136,
@@ -17301,5 +17312,5 @@
     "Navegantes": 137,
     "Itajai": 372
   },
-  "total_geral": 1565
+  "total_geral": 1566
 }
