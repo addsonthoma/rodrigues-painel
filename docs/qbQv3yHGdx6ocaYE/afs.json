@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-21T17:10:19-03:00",
+  "timestamp": "2026-09-21T17:20:29-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1038,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-21T17:10:19-03:00"
+      "ultima_verificacao": "2026-09-21T17:20:29-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-21T17:10:19-03:00"
+      "ultima_verificacao": "2026-09-21T17:20:29-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-21T17:10:19-03:00"
+      "ultima_verificacao": "2026-09-21T17:20:29-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 654,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-21T17:10:19-03:00"
+      "ultima_verificacao": "2026-09-21T17:20:29-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 522,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-21T17:10:19-03:00"
+      "ultima_verificacao": "2026-09-21T17:20:29-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 577,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-21T17:10:19-03:00"
+      "ultima_verificacao": "2026-09-21T17:20:29-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1246,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-21T17:10:19-03:00"
+      "ultima_verificacao": "2026-09-21T17:20:29-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1210,
+      "ultimo_numero": 1212,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-21T17:10:19-03:00"
+      "ultima_verificacao": "2026-09-21T17:20:29-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 364,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-21T17:10:19-03:00"
+      "ultima_verificacao": "2026-09-21T17:20:29-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1251,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-21T17:10:19-03:00"
+      "ultima_verificacao": "2026-09-21T17:20:29-03:00"
     }
   },
   "afs": {
@@ -19395,6 +19395,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001212A/26",
+        "Tipo": "AF",
+        "RE": "RE8047003376A",
+        "Nome_Edificacao": "ANTONIO VALDIR RONCALIO",
+        "Logradouro": "Rua Frei Estanislau Schaette",
+        "Numero": "1868",
+        "Bairro": "BLUMENAU - ÁGUA VERDE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-21T17:20:29-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001211A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005702A",
+        "Nome_Edificacao": "TBECK ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA",
+        "Logradouro": "R GENERAL OSORIO",
+        "Numero": "1859",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-21T17:20:29-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001210A/26",
         "Tipo": "AF",
         "RE": "RE8047009658A",
@@ -32113,9 +32135,9 @@
     "Porto Belo": 231,
     "Nova Trento": 267,
     "Itapema": 512,
-    "Blumenau": 497,
+    "Blumenau": 499,
     "Navegantes": 160,
     "Itajai": 498
   },
-  "total_geral": 2911
+  "total_geral": 2913
 }
