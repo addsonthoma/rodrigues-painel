@@ -1,79 +1,89 @@
 {
-  "timestamp": "2026-09-21T14:30:03-03:00",
+  "timestamp": "2026-09-21T14:50:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 128,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-21T14:30:03-03:00"
+      "ultima_verificacao": "2026-09-21T14:50:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-21T14:30:03-03:00"
+      "ultima_verificacao": "2026-09-21T14:50:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-21T14:30:03-03:00"
+      "ultima_verificacao": "2026-09-21T14:50:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-21T14:30:03-03:00"
+      "ultima_verificacao": "2026-09-21T14:50:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 122,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-21T14:30:03-03:00"
+      "ultima_verificacao": "2026-09-21T14:50:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 148,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-21T14:30:03-03:00"
+      "ultima_verificacao": "2026-09-21T14:50:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 210,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-21T14:30:03-03:00"
+      "ultima_verificacao": "2026-09-21T14:50:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 263,
+      "ultimo_numero": 264,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-21T14:30:03-03:00"
+      "ultima_verificacao": "2026-09-21T14:50:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
-      "ultimo_numero": 97,
+      "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-21T14:30:03-03:00"
+      "ultima_verificacao": "2026-09-21T14:50:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 477,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-21T14:30:03-03:00"
+      "ultima_verificacao": "2026-09-21T14:50:04-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000264A/26",
+        "RE": "RE8047007118A",
+        "Nome_Edificacao": "TERMINAL URBANO - PROEB",
+        "Logradouro": "RUA 7 DE SETEMBRO",
+        "Numero": "2875",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-21T14:50:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000263A/26",
         "RE": "RE8047011494A",
@@ -5365,6 +5375,16 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "MUL8221000098A/26",
+        "RE": "RE8221002705A",
+        "Nome_Edificacao": "CAS CONSTRUTORA LTDA",
+        "Logradouro": "AVENIDA PREFEITO CIRINO ADOLFO CABRAL",
+        "Numero": "8437",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-21T14:50:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8221000096A/26",
         "RE": "RE8221001700A",
         "Nome_Edificacao": "RESIDENCIAL SUIÇA HOME",
@@ -7212,19 +7232,33 @@
     ]
   },
   "totais": {
-    "Blumenau": 128,
+    "Blumenau": 129,
     "Botuvera": 3,
     "Brusque": 73,
     "Gaspar": 41,
     "Guabiruba": 3,
     "Itajai": 195,
     "Itapema": 93,
-    "Navegantes": 59,
+    "Navegantes": 60,
     "Nova Trento": 65,
     "Porto Belo": 65
   },
-  "total_geral": 725,
+  "total_geral": 727,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-21T14:50:04-03:00",
+      "cidade": "Navegantes",
+      "codigo": "MUL8221000098A/26",
+      "nome": "CAS CONSTRUTORA LTDA",
+      "re": "RE8221002705A"
+    },
+    {
+      "ts": "2026-09-21T14:50:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000264A/26",
+      "nome": "TERMINAL URBANO - PROEB",
+      "re": "RE8047007118A"
+    },
     {
       "ts": "2026-09-21T14:30:03-03:00",
       "cidade": "Itajai",
@@ -7560,13 +7594,6 @@
       "codigo": "MUL8161000456A/26",
       "nome": "EDIFICAÇÃO MISTA FLAVIO VENEZIO",
       "re": "RE8161001911A"
-    },
-    {
-      "ts": "2026-09-14T15:10:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000455A/26",
-      "nome": "CONDOMÍNIO EDIFÍCIO IPANEMA",
-      "re": "RE8161011647A"
     }
   ]
 }
