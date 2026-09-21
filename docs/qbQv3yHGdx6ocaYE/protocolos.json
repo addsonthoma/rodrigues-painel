@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-21T16:18:01-03:00",
+  "timestamp": "2026-09-21T16:26:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8131,
-      "ultima_verificacao": "2026-09-21T16:18:01-03:00"
+      "ultima_verificacao": "2026-09-21T16:26:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-21T16:18:01-03:00"
+      "ultima_verificacao": "2026-09-21T16:26:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1543,
-      "ultima_verificacao": "2026-09-21T16:18:01-03:00"
+      "ultima_verificacao": "2026-09-21T16:26:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-21T16:18:01-03:00"
+      "ultima_verificacao": "2026-09-21T16:26:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3399,
-      "ultima_verificacao": "2026-09-21T16:18:01-03:00"
+      "ultima_verificacao": "2026-09-21T16:26:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-21T16:18:01-03:00"
+      "ultima_verificacao": "2026-09-21T16:26:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-21T16:18:01-03:00"
+      "ultima_verificacao": "2026-09-21T16:26:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13037,
-      "ultima_verificacao": "2026-09-21T16:18:01-03:00"
+      "ultimo_numero": 13039,
+      "ultima_verificacao": "2026-09-21T16:26:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5035,
-      "ultima_verificacao": "2026-09-21T16:18:01-03:00"
+      "ultima_verificacao": "2026-09-21T16:26:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14357,
-      "ultima_verificacao": "2026-09-21T16:18:01-03:00"
+      "ultima_verificacao": "2026-09-21T16:26:57-03:00"
     }
   },
   "protocolos": {
@@ -8571,6 +8571,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013039A",
+        "RE": "RE8047011214A",
+        "numgEdificacao": 330518,
+        "Nome_Edificacao": "NILSOMAR MISTURA",
+        "Logradouro": "Rua Progresso",
+        "Numero": "363",
+        "Bairro": "BLUMENAU - PROGRESSO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-21T16:26:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013038A",
+        "RE": "RE8047009247A",
+        "numgEdificacao": 258819,
+        "Nome_Edificacao": "MANNRICH ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Engenheiro Udo Deeke",
+        "Numero": "1863",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-21T16:26:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013037A",
         "RE": "RE8047012159A",
@@ -17506,9 +17528,9 @@
     "Porto Belo": 118,
     "Nova Trento": 65,
     "Itapema": 177,
-    "Blumenau": 292,
+    "Blumenau": 294,
     "Navegantes": 138,
     "Itajai": 381
   },
-  "total_geral": 1584
+  "total_geral": 1586
 }
