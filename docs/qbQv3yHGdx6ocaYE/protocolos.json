@@ -1,59 +1,81 @@
 {
-  "timestamp": "2026-09-18T16:37:34-03:00",
+  "timestamp": "2026-09-21T07:53:50-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8128,
-      "ultima_verificacao": "2026-09-18T16:37:34-03:00"
+      "ultimo_numero": 8130,
+      "ultima_verificacao": "2026-09-21T07:53:50-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-18T16:37:34-03:00"
+      "ultima_verificacao": "2026-09-21T07:53:50-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1541,
-      "ultima_verificacao": "2026-09-18T16:37:34-03:00"
+      "ultima_verificacao": "2026-09-21T07:53:50-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3901,
-      "ultima_verificacao": "2026-09-18T16:37:34-03:00"
+      "ultimo_numero": 3902,
+      "ultima_verificacao": "2026-09-21T07:53:50-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3399,
-      "ultima_verificacao": "2026-09-18T16:37:34-03:00"
+      "ultima_verificacao": "2026-09-21T07:53:50-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 980,
-      "ultima_verificacao": "2026-09-18T16:37:34-03:00"
+      "ultima_verificacao": "2026-09-21T07:53:50-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-18T16:37:34-03:00"
+      "ultima_verificacao": "2026-09-21T07:53:50-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13031,
-      "ultima_verificacao": "2026-09-18T16:37:34-03:00"
+      "ultimo_numero": 13032,
+      "ultima_verificacao": "2026-09-21T07:53:50-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5033,
-      "ultima_verificacao": "2026-09-18T16:37:34-03:00"
+      "ultimo_numero": 5034,
+      "ultima_verificacao": "2026-09-21T07:53:50-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14347,
-      "ultima_verificacao": "2026-09-18T16:37:34-03:00"
+      "ultimo_numero": 14348,
+      "ultima_verificacao": "2026-09-21T07:53:50-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008130A",
+        "RE": "RE8055006833A",
+        "numgEdificacao": 370620,
+        "Nome_Edificacao": "Lavação Brusque - Estética automotiva",
+        "Logradouro": "Rua Victor Meirelles",
+        "Numero": "",
+        "Bairro": "BRUSQUE - Santa Rita",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-21T07:53:50-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008129A",
+        "RE": "RE8055006831A",
+        "numgEdificacao": 370602,
+        "Nome_Edificacao": "FABRISIO COMANDOLI FILHO - PRÉDIO 06 UNID. - 112.013",
+        "Logradouro": "Rua Miguel Comandoli",
+        "Numero": "",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-21T07:53:50-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008128A",
         "RE": "RE8055006749A",
@@ -3052,6 +3074,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003902A",
+        "RE": "RE8117003297A",
+        "numgEdificacao": 370628,
+        "Nome_Edificacao": "Bravo Administradora de Bens Ltda",
+        "Logradouro": "AVENIDA FREI GODOFREDO",
+        "Numero": "",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-21T07:53:50-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003901A",
         "RE": "RE8117000344A",
@@ -8495,6 +8528,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047013032A",
+        "RE": "RE8047012156A",
+        "numgEdificacao": 370614,
+        "Nome_Edificacao": "EDIFICIO AMARAL",
+        "Logradouro": "Rua Ipiranga",
+        "Numero": "68",
+        "Bairro": "BLUMENAU - GARCIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-21T07:53:50-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047013031A",
         "RE": "RE8047012155A",
         "numgEdificacao": 370594,
@@ -11643,6 +11687,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005034A",
+        "RE": "RE8221002944A",
+        "numgEdificacao": 276563,
+        "Nome_Edificacao": "MARIA IZABEL DE JESUS COELHO CAETANO",
+        "Logradouro": "R RODOLFO FRANCISCO COUTO",
+        "Numero": "676",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-21T07:53:50-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005033A",
         "RE": "RE8221000621A",
         "numgEdificacao": 50499,
@@ -13140,6 +13195,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014348A",
+        "RE": "RE8161013901A",
+        "numgEdificacao": 370604,
+        "Nome_Edificacao": "RES. CIVITAS NOVA",
+        "Logradouro": "ANASTACIO JOSE MENDES",
+        "Numero": "41",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-21T07:53:50-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014347A",
         "RE": "RE8161004383A",
@@ -17224,16 +17290,16 @@
     ]
   },
   "totais": {
-    "Brusque": 164,
+    "Brusque": 166,
     "Botuvera": 42,
     "Guabiruba": 66,
-    "Gaspar": 135,
+    "Gaspar": 136,
     "Porto Belo": 118,
     "Nova Trento": 64,
     "Itapema": 177,
-    "Blumenau": 286,
-    "Navegantes": 136,
-    "Itajai": 371
+    "Blumenau": 287,
+    "Navegantes": 137,
+    "Itajai": 372
   },
-  "total_geral": 1559
+  "total_geral": 1565
 }
