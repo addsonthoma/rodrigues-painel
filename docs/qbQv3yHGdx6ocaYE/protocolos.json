@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-22T14:58:31-03:00",
+  "timestamp": "2026-09-22T15:17:59-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8134,
-      "ultima_verificacao": "2026-09-22T14:58:31-03:00"
+      "ultima_verificacao": "2026-09-22T15:17:59-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-22T14:58:31-03:00"
+      "ultima_verificacao": "2026-09-22T15:17:59-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1543,
-      "ultima_verificacao": "2026-09-22T14:58:31-03:00"
+      "ultima_verificacao": "2026-09-22T15:17:59-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-22T14:58:31-03:00"
+      "ultima_verificacao": "2026-09-22T15:17:59-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3401,
-      "ultima_verificacao": "2026-09-22T14:58:31-03:00"
+      "ultima_verificacao": "2026-09-22T15:17:59-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-22T14:58:31-03:00"
+      "ultima_verificacao": "2026-09-22T15:17:59-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-22T14:58:31-03:00"
+      "ultima_verificacao": "2026-09-22T15:17:59-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13047,
-      "ultima_verificacao": "2026-09-22T14:58:31-03:00"
+      "ultima_verificacao": "2026-09-22T15:17:59-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5036,
-      "ultima_verificacao": "2026-09-22T14:58:31-03:00"
+      "ultima_verificacao": "2026-09-22T15:17:59-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14365,
-      "ultima_verificacao": "2026-09-22T14:58:31-03:00"
+      "ultimo_numero": 14366,
+      "ultima_verificacao": "2026-09-22T15:17:59-03:00"
     }
   },
   "protocolos": {
@@ -13482,6 +13482,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014366A",
+        "RE": "RE8161008810A",
+        "numgEdificacao": 234398,
+        "Nome_Edificacao": "LIBRA PORTORIVER",
+        "Logradouro": "Rua Pedro Camilo Vicente",
+        "Numero": "704",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-22T15:17:59-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014365A",
         "RE": "RE8161000159A",
         "numgEdificacao": 5384,
@@ -17772,7 +17783,7 @@
     "Itapema": 177,
     "Blumenau": 302,
     "Navegantes": 139,
-    "Itajai": 389
+    "Itajai": 390
   },
-  "total_geral": 1608
+  "total_geral": 1609
 }
