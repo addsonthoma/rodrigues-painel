@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-22T08:17:48-03:00",
+  "timestamp": "2026-09-22T08:26:54-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8131,
-      "ultima_verificacao": "2026-09-22T08:17:48-03:00"
+      "ultimo_numero": 8132,
+      "ultima_verificacao": "2026-09-22T08:26:54-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-22T08:17:48-03:00"
+      "ultima_verificacao": "2026-09-22T08:26:54-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1543,
-      "ultima_verificacao": "2026-09-22T08:17:48-03:00"
+      "ultima_verificacao": "2026-09-22T08:26:54-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-22T08:17:48-03:00"
+      "ultima_verificacao": "2026-09-22T08:26:54-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3400,
-      "ultima_verificacao": "2026-09-22T08:17:48-03:00"
+      "ultima_verificacao": "2026-09-22T08:26:54-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-22T08:17:48-03:00"
+      "ultima_verificacao": "2026-09-22T08:26:54-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-22T08:17:48-03:00"
+      "ultima_verificacao": "2026-09-22T08:26:54-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13044,
-      "ultima_verificacao": "2026-09-22T08:17:48-03:00"
+      "ultima_verificacao": "2026-09-22T08:26:54-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5036,
-      "ultima_verificacao": "2026-09-22T08:17:48-03:00"
+      "ultima_verificacao": "2026-09-22T08:26:54-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14359,
-      "ultima_verificacao": "2026-09-22T08:17:48-03:00"
+      "ultima_verificacao": "2026-09-22T08:26:54-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008132A",
+        "RE": "RE8055006836A",
+        "numgEdificacao": 370731,
+        "Nome_Edificacao": "BUENOS CONFECCOES LTDA",
+        "Logradouro": "Rua José de Lemos",
+        "Numero": "21",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-22T08:26:54-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008131A",
         "RE": "RE8055006825A",
@@ -17620,7 +17631,7 @@
     ]
   },
   "totais": {
-    "Brusque": 167,
+    "Brusque": 168,
     "Botuvera": 42,
     "Guabiruba": 68,
     "Gaspar": 136,
@@ -17631,5 +17642,5 @@
     "Navegantes": 139,
     "Itajai": 383
   },
-  "total_geral": 1595
+  "total_geral": 1596
 }
