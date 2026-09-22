@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-22T16:17:11-03:00",
+  "timestamp": "2026-09-22T16:27:42-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8134,
-      "ultima_verificacao": "2026-09-22T16:17:11-03:00"
+      "ultima_verificacao": "2026-09-22T16:27:42-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-22T16:17:11-03:00"
+      "ultima_verificacao": "2026-09-22T16:27:42-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1543,
-      "ultima_verificacao": "2026-09-22T16:17:11-03:00"
+      "ultimo_numero": 1544,
+      "ultima_verificacao": "2026-09-22T16:27:42-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-22T16:17:11-03:00"
+      "ultima_verificacao": "2026-09-22T16:27:42-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3401,
-      "ultima_verificacao": "2026-09-22T16:17:11-03:00"
+      "ultima_verificacao": "2026-09-22T16:27:42-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-22T16:17:11-03:00"
+      "ultima_verificacao": "2026-09-22T16:27:42-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-22T16:17:11-03:00"
+      "ultima_verificacao": "2026-09-22T16:27:42-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13048,
-      "ultima_verificacao": "2026-09-22T16:17:11-03:00"
+      "ultima_verificacao": "2026-09-22T16:27:42-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5036,
-      "ultima_verificacao": "2026-09-22T16:17:11-03:00"
+      "ultima_verificacao": "2026-09-22T16:27:42-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14366,
-      "ultima_verificacao": "2026-09-22T16:17:11-03:00"
+      "ultima_verificacao": "2026-09-22T16:27:42-03:00"
     }
   },
   "protocolos": {
@@ -2390,6 +2390,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001544A",
+        "RE": "RE8123001227A",
+        "numgEdificacao": 370805,
+        "Nome_Edificacao": "KÁTIA  HUMAITA GUAPIANO CAMPOS",
+        "Logradouro": "Rua Cristiano Albrecht",
+        "Numero": "420",
+        "Bairro": "GUABIRUBA - SAO PEDRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-09-22T16:27:42-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001543A",
         "RE": "RE8123001226A",
@@ -17787,7 +17798,7 @@
   "totais": {
     "Brusque": 170,
     "Botuvera": 42,
-    "Guabiruba": 68,
+    "Guabiruba": 69,
     "Gaspar": 136,
     "Porto Belo": 120,
     "Nova Trento": 65,
@@ -17796,5 +17807,5 @@
     "Navegantes": 139,
     "Itajai": 390
   },
-  "total_geral": 1610
+  "total_geral": 1611
 }
