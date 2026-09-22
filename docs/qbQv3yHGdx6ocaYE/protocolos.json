@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-22T13:58:39-03:00",
+  "timestamp": "2026-09-22T14:19:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8134,
-      "ultima_verificacao": "2026-09-22T13:58:39-03:00"
+      "ultima_verificacao": "2026-09-22T14:19:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-22T13:58:39-03:00"
+      "ultima_verificacao": "2026-09-22T14:19:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1543,
-      "ultima_verificacao": "2026-09-22T13:58:39-03:00"
+      "ultima_verificacao": "2026-09-22T14:19:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-22T13:58:39-03:00"
+      "ultima_verificacao": "2026-09-22T14:19:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3401,
-      "ultima_verificacao": "2026-09-22T13:58:39-03:00"
+      "ultima_verificacao": "2026-09-22T14:19:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-22T13:58:39-03:00"
+      "ultima_verificacao": "2026-09-22T14:19:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-22T13:58:39-03:00"
+      "ultima_verificacao": "2026-09-22T14:19:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13046,
-      "ultima_verificacao": "2026-09-22T13:58:39-03:00"
+      "ultima_verificacao": "2026-09-22T14:19:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5036,
-      "ultima_verificacao": "2026-09-22T13:58:39-03:00"
+      "ultima_verificacao": "2026-09-22T14:19:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14363,
-      "ultima_verificacao": "2026-09-22T13:58:39-03:00"
+      "ultimo_numero": 14364,
+      "ultima_verificacao": "2026-09-22T14:19:57-03:00"
     }
   },
   "protocolos": {
@@ -13471,6 +13471,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014364A",
+        "RE": "RE8161002168A",
+        "numgEdificacao": 73066,
+        "Nome_Edificacao": "EDIFÍCIO RESIDENCIAL FRONTEMARE",
+        "Logradouro": "Lauro Muller",
+        "Numero": "750",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-22T14:19:57-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014363A",
         "RE": "RE8161011979A",
         "numgEdificacao": 317297,
@@ -17739,7 +17750,7 @@
     "Itapema": 177,
     "Blumenau": 301,
     "Navegantes": 139,
-    "Itajai": 387
+    "Itajai": 388
   },
-  "total_geral": 1605
+  "total_geral": 1606
 }
