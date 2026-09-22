@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-21T17:27:45-03:00",
+  "timestamp": "2026-09-22T07:59:01-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8131,
-      "ultima_verificacao": "2026-09-21T17:27:45-03:00"
+      "ultima_verificacao": "2026-09-22T07:59:01-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-21T17:27:45-03:00"
+      "ultima_verificacao": "2026-09-22T07:59:01-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1543,
-      "ultima_verificacao": "2026-09-21T17:27:45-03:00"
+      "ultima_verificacao": "2026-09-22T07:59:01-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-21T17:27:45-03:00"
+      "ultima_verificacao": "2026-09-22T07:59:01-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3400,
-      "ultima_verificacao": "2026-09-21T17:27:45-03:00"
+      "ultima_verificacao": "2026-09-22T07:59:01-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-21T17:27:45-03:00"
+      "ultima_verificacao": "2026-09-22T07:59:01-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-21T17:27:45-03:00"
+      "ultima_verificacao": "2026-09-22T07:59:01-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13040,
-      "ultima_verificacao": "2026-09-21T17:27:45-03:00"
+      "ultimo_numero": 13044,
+      "ultima_verificacao": "2026-09-22T07:59:01-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5035,
-      "ultima_verificacao": "2026-09-21T17:27:45-03:00"
+      "ultimo_numero": 5036,
+      "ultima_verificacao": "2026-09-22T07:59:01-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14357,
-      "ultima_verificacao": "2026-09-21T17:27:45-03:00"
+      "ultimo_numero": 14359,
+      "ultima_verificacao": "2026-09-22T07:59:01-03:00"
     }
   },
   "protocolos": {
@@ -8583,6 +8583,50 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047013044A",
+        "RE": "RE8047011416A",
+        "numgEdificacao": 338161,
+        "Nome_Edificacao": "RODRIGO HENRIQUE FRISCHKNECHT",
+        "Logradouro": "R GUSTAVO BUDAG",
+        "Numero": "343",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-22T07:59:01-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013043A",
+        "RE": "RE8047007790A",
+        "numgEdificacao": 220706,
+        "Nome_Edificacao": "RESIDENCIAL CAMILA",
+        "Logradouro": "RUA IMPERATRIZ LEOPOLDINA",
+        "Numero": "1018",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-22T07:59:01-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013042A",
+        "RE": "RE8047012160A",
+        "numgEdificacao": 370695,
+        "Nome_Edificacao": "Bressanini Administradora de Bens Eireli",
+        "Logradouro": "Henrique setter",
+        "Numero": "264",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-22T07:59:01-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013041A",
+        "RE": "RE8047001885A",
+        "numgEdificacao": 102574,
+        "Nome_Edificacao": "BLUFORES FLORICULTURA LTDA-ME",
+        "Logradouro": "Rua Dois de Setembro",
+        "Numero": "1991",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-22T07:59:01-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047013040A",
         "RE": "RE8047012136A",
         "numgEdificacao": 369736,
@@ -11830,6 +11874,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005036A",
+        "RE": "RE8221000212A",
+        "numgEdificacao": 14303,
+        "Nome_Edificacao": "WK Administradora de Bens Ltda",
+        "Logradouro": "Rodovia BR-470",
+        "Numero": "5348",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-22T07:59:01-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005035A",
         "RE": "RE8221004156A",
         "numgEdificacao": 370684,
@@ -13349,6 +13404,28 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014359A",
+        "RE": "RE8161001182A",
+        "numgEdificacao": 32345,
+        "Nome_Edificacao": "EDIFICAÇÃO MISTA STALL",
+        "Logradouro": "Rua Agílio Cunha",
+        "Numero": "1861",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-22T07:59:01-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014358A",
+        "RE": "RE8161005326A",
+        "numgEdificacao": 154908,
+        "Nome_Edificacao": "DEBORA CRISTINA CRESPI DE SOUZA",
+        "Logradouro": "R ARQUITETO NILSON EDSON DOS SANTOS",
+        "Numero": "1436",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-22T07:59:01-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014357A",
         "RE": "RE8161001036A",
@@ -17550,9 +17627,9 @@
     "Porto Belo": 119,
     "Nova Trento": 65,
     "Itapema": 177,
-    "Blumenau": 295,
-    "Navegantes": 138,
-    "Itajai": 381
+    "Blumenau": 299,
+    "Navegantes": 139,
+    "Itajai": 383
   },
-  "total_geral": 1588
+  "total_geral": 1595
 }
