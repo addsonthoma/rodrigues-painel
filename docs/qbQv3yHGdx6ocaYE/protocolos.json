@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-22T16:38:03-03:00",
+  "timestamp": "2026-09-22T16:47:45-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8134,
-      "ultima_verificacao": "2026-09-22T16:38:03-03:00"
+      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-22T16:38:03-03:00"
+      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1544,
-      "ultima_verificacao": "2026-09-22T16:38:03-03:00"
+      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-22T16:38:03-03:00"
+      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3401,
-      "ultima_verificacao": "2026-09-22T16:38:03-03:00"
+      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-22T16:38:03-03:00"
+      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-22T16:38:03-03:00"
+      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13048,
-      "ultima_verificacao": "2026-09-22T16:38:03-03:00"
+      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5036,
-      "ultima_verificacao": "2026-09-22T16:38:03-03:00"
+      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14367,
-      "ultima_verificacao": "2026-09-22T16:38:03-03:00"
+      "ultimo_numero": 14368,
+      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
     }
   },
   "protocolos": {
@@ -13504,6 +13504,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014368A",
+        "RE": "RE8161010737A",
+        "numgEdificacao": 285712,
+        "Nome_Edificacao": "ELISANDRA MENDES DE SOUZA FERREIRA",
+        "Logradouro": "R LINO JOSE DA SILVA",
+        "Numero": "91",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-22T16:47:45-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014367A",
         "RE": "RE8161013911A",
         "numgEdificacao": 370796,
@@ -17816,7 +17827,7 @@
     "Itapema": 177,
     "Blumenau": 303,
     "Navegantes": 139,
-    "Itajai": 391
+    "Itajai": 392
   },
-  "total_geral": 1612
+  "total_geral": 1613
 }
