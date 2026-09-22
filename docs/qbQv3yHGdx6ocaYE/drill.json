@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-22T07:52:44-03:00",
-  "total": 5440,
-  "expired": true,
+  "timestamp": "2026-09-22T08:36:25-03:00",
+  "total": 5453,
+  "expired": false,
   "drill": {
     "AF8047000787A/25": {
       "tipo": "FISCALIZACAO",
@@ -583,12 +583,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "19/12/2022",
-      "prazoDias": -1372,
+      "prazoDias": -1373,
       "bombeiroAutuacao": "Cb MAURICIO Inacio Juvencio",
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1790012026.3825042
+      "_ts": 1790076852.6360614
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1790012026.3825388
+      "_ts": 1790076852.6360915
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1790012026.3825269
+      "_ts": 1790076852.6360774
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5113,7 +5113,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1790012015.9534636
+      "_ts": 1790076840.0160787
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5128,12 +5128,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "21/10/2026",
-      "prazoDias": 30,
+      "prazoDias": 29,
       "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1790012015.9534225
+      "_ts": 1790076840.0160458
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5340,7 +5340,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1790012062.2318945
+      "_ts": 1790076894.7920141
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9456,7 +9456,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1790012008.3671975
+      "_ts": 1790076821.27702
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9470,7 +9470,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1790012033.0813353
+      "_ts": 1790076860.7558603
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -14013,7 +14013,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1790012051.160696
+      "_ts": 1790076887.728764
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -30098,7 +30098,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1790012049.254274
+      "_ts": 1790076885.682496
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38524,7 +38524,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1790012041.3390176
+      "_ts": 1790076876.7559035
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -46257,12 +46257,12 @@
         "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
       ],
       "dataPrazo": "06/07/2027",
-      "prazoDias": 333,
+      "prazoDias": 287,
       "bombeiroAutuacao": "Cb Luiz Henrique Pereira",
       "bloco": "Bloco 2",
       "codgAuto": "AF8047000907A/26",
       "numgAuto": 512400,
-      "_ts": 1786104286.862337
+      "_ts": 1790076975.909936
     },
     "AF8047000906A/26": {
       "tipo": "FISCALIZACAO",
@@ -105837,6 +105837,268 @@
       "codgAuto": "MUL8161000215A/24",
       "numgAuto": 291428,
       "_ts": 1790012187.604815
+    },
+    "AF8055001038A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 452.33,
+      "cidade": "BRUSQUE",
+      "responsavel": "ANILVO PAVESI",
+      "cpfCnpj": "71253467900",
+      "celular": "47984912283",
+      "email": "anilvopavesi@gmail.com",
+      "endereco_responsavel": "Rua Irma Josefina, 111, Dom Joaquim, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "05/10/2026",
+      "prazoDias": 13,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "GALPÃO",
+      "codgAuto": "AF8055001038A/26",
+      "numgAuto": 530889,
+      "_ts": 1790076780.9618647
+    },
+    "AF8117000655A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1306.9,
+      "cidade": "GASPAR",
+      "responsavel": "ADMINISTRADORA PORTO FINO LTDA",
+      "cpfCnpj": "03739589000132",
+      "celular": "47991364301",
+      "email": "contato@jscontabsc.com.br",
+      "endereco_responsavel": "Rua Margarida Zimmermann, 111, Bela Vista, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "30/11/2026",
+      "prazoDias": 69,
+      "bombeiroAutuacao": "3º Sgt GIL Vicente Pereira",
+      "bloco": "UNICO",
+      "codgAuto": "AF8117000655A/26",
+      "numgAuto": 531157,
+      "_ts": 1790076909.34033
+    },
+    "AF8265000522A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 6115.09,
+      "cidade": "PORTO BELO",
+      "responsavel": "IMPERIUM RESIDENCE",
+      "cpfCnpj": "63641031000141",
+      "celular": "47932617700",
+      "email": "administracao.condominios@roderjan.com.br",
+      "endereco_responsavel": "José Petermann, 110, Pereque, Porto Belo",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____",
+        "Executar sistema de saída de emergência",
+        "Executar sistema hidráulico preventivo",
+        "Executar sistema preventivo por extintores",
+        "Executar sistemas e medidas de segurança em piscinas e áreas recreativas com opção aquática de lazer"
+      ],
+      "dataPrazo": "26/10/2026",
+      "prazoDias": 34,
+      "bombeiroAutuacao": "Cb Sidinei Luiz GROLLI",
+      "bloco": "ECALTHI CONSTRUTORA E INCORPORADORA LTDA.",
+      "codgAuto": "AF8265000522A/26",
+      "numgAuto": 531037,
+      "_ts": 1790076917.8491437
+    },
+    "AF8265000298A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 6115.09,
+      "cidade": "PORTO BELO",
+      "responsavel": "IMPERIUM RESIDENCE",
+      "cpfCnpj": "63641031000141",
+      "celular": "47932617700",
+      "email": "administracao.condominios@roderjan.com.br",
+      "endereco_responsavel": "José Petermann, 110, Pereque, Porto Belo",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "24/11/2026",
+      "prazoDias": 63,
+      "bombeiroAutuacao": "3º Sgt Verlaine Aparecida Sinhorini",
+      "bloco": "ECALTHI CONSTRUTORA E INCORPORADORA LTDA.",
+      "codgAuto": "AF8265000298A/26",
+      "numgAuto": 499345,
+      "_ts": 1790076917.8491979
+    },
+    "AF8047001209A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "879.84",
+      "cidade": "BLUMENAU",
+      "responsavel": "PROVINCIA DAS IRMAS DA DIVINA PROVIDENCIA NO BRASIL",
+      "cpfCnpj": "07574333000173",
+      "celular": "48984446484",
+      "email": "marcio@sdp.org.br",
+      "endereco_responsavel": "Rua Hermann Blumenau, 102, Centro, Florianópolis",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "30/09/2026",
+      "prazoDias": 8,
+      "bombeiroAutuacao": "1º Sgt DANIEL Roberto Vercka",
+      "bloco": "Patio Inferior",
+      "codgAuto": "AF8047001209A/25",
+      "numgAuto": 425694,
+      "_ts": 1790076937.8806946
+    },
+    "AF8047001213A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "879.84",
+      "cidade": "BLUMENAU",
+      "responsavel": "PROVINCIA DAS IRMAS DA DIVINA PROVIDENCIA NO BRASIL",
+      "cpfCnpj": "07574333000173",
+      "celular": "48984446484",
+      "email": "marcio@sdp.org.br",
+      "endereco_responsavel": "Rua Hermann Blumenau, 102, Centro, Florianópolis",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "22/08/2027",
+      "prazoDias": 334,
+      "bombeiroAutuacao": "3º Sgt ROBERSON Aender Rufino",
+      "bloco": "Patio Inferior",
+      "codgAuto": "AF8047001213A/26",
+      "numgAuto": 531164,
+      "_ts": 1790076937.8806975
+    },
+    "AF8047001212A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 496.25,
+      "cidade": "BLUMENAU",
+      "responsavel": "ANTONIO VALDIR RONCALIO",
+      "cpfCnpj": "02034727991",
+      "celular": "47999312589",
+      "email": "recepcao@hlindner.com.br",
+      "endereco_responsavel": "R Otto Wille, 532, Água Verde, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "14/12/2026",
+      "prazoDias": 83,
+      "bombeiroAutuacao": "3º Sgt Igor Tiago de Lima",
+      "bloco": "Bloco 1",
+      "codgAuto": "AF8047001212A/26",
+      "numgAuto": 531082,
+      "_ts": 1790076948.309953
+    },
+    "AF8047001211A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 749.87,
+      "cidade": "BLUMENAU",
+      "responsavel": "Tbeck Administração e Participação LTDA",
+      "cpfCnpj": "12470436000123",
+      "celular": "11999181845",
+      "email": "taniabnr@hotmail.com",
+      "endereco_responsavel": "Rua Doutor Silvino Canuto Abreu, 153, Vila Congonhas, São Paulo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "14/12/2026",
+      "prazoDias": 83,
+      "bombeiroAutuacao": "3º Sgt Igor Tiago de Lima",
+      "bloco": "BLOCO ÚNICO",
+      "codgAuto": "AF8047001211A/26",
+      "numgAuto": 531074,
+      "_ts": 1790076956.034631
+    },
+    "AF8047001210A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1313.02",
+      "cidade": "BLUMENAU",
+      "responsavel": "Albino Dalla Vecchia",
+      "cpfCnpj": "34163670904",
+      "celular": "47999191029",
+      "email": "albinodv@yahoo.com.br",
+      "endereco_responsavel": "R Jose Reuter, 1050, Velha, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "21/09/2027",
+      "prazoDias": 364,
+      "bombeiroAutuacao": "3º Sgt Igor Tiago de Lima",
+      "bloco": "bloco",
+      "codgAuto": "AF8047001210A/26",
+      "numgAuto": 531059,
+      "_ts": 1790076963.4942436
+    },
+    "AF8047001209A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "304.86",
+      "cidade": "BLUMENAU",
+      "responsavel": "BRUNO JORGE HENN",
+      "cpfCnpj": "54746604991",
+      "celular": "47999826572",
+      "email": "brunoversagil@terra.com.br",
+      "endereco_responsavel": "Rua Wernigerode, 89, Ponta Aguda, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "21/10/2026",
+      "prazoDias": 29,
+      "bombeiroAutuacao": "SubTen CARLITO Goncalves",
+      "bloco": "Bloco 2",
+      "codgAuto": "AF8047001209A/26",
+      "numgAuto": 530900,
+      "_ts": 1790076975.9099255
+    },
+    "AF8161001311A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "50",
+      "cidade": "ITAJAÍ",
+      "responsavel": "NEW SYSTEM INTERNET LTDA",
+      "cpfCnpj": "12315152000162",
+      "celular": "47933606778",
+      "email": "niloisadener2022@gmail.com",
+      "endereco_responsavel": "Rua Selso Duarte Moreira, 183, Cordeiros, Itajaí",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "28/03/2025",
+      "prazoDias": -543,
+      "bombeiroAutuacao": "SubTen LUIZ ALBERTO Moreira",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8161001311A/24",
+      "numgAuto": 324100,
+      "_ts": 1790076984.357413
+    },
+    "AF8161001252A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "50",
+      "cidade": "ITAJAÍ",
+      "responsavel": "NEW SYSTEM INTERNET LTDA",
+      "cpfCnpj": "12315152000162",
+      "celular": "47933606778",
+      "email": "niloisadener2022@gmail.com",
+      "endereco_responsavel": "Rua Selso Duarte Moreira, 183, Cordeiros, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "22/03/2027",
+      "prazoDias": 181,
+      "bombeiroAutuacao": "Sd Diego da Costa  DI SCIPIO",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8161001252A/26",
+      "numgAuto": 531145,
+      "_ts": 1790076984.3574219
+    },
+    "MUL8161000224A/25": {
+      "tipo": "MULTA",
+      "areaTotal": "50",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Bloco 01",
+      "codgAuto": "MUL8161000224A/25",
+      "numgAuto": 387400,
+      "_ts": 1790076984.357454
     }
   }
 }
