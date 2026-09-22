@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-22T11:30:27-03:00",
+  "timestamp": "2026-09-22T11:40:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1039,
+      "ultimo_numero": 1040,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:30:27-03:00"
+      "ultima_verificacao": "2026-09-22T11:40:31-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:30:27-03:00"
+      "ultima_verificacao": "2026-09-22T11:40:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:30:27-03:00"
+      "ultima_verificacao": "2026-09-22T11:40:31-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 655,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:30:27-03:00"
+      "ultima_verificacao": "2026-09-22T11:40:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 522,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:30:27-03:00"
+      "ultima_verificacao": "2026-09-22T11:40:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 577,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:30:27-03:00"
+      "ultima_verificacao": "2026-09-22T11:40:31-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1253,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:30:27-03:00"
+      "ultima_verificacao": "2026-09-22T11:40:31-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1213,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:30:27-03:00"
+      "ultima_verificacao": "2026-09-22T11:40:31-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 364,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:30:27-03:00"
+      "ultima_verificacao": "2026-09-22T11:40:31-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1255,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:30:27-03:00"
+      "ultima_verificacao": "2026-09-22T11:40:31-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001040A/26",
+        "Tipo": "AF",
+        "RE": "RE8055006066A",
+        "Nome_Edificacao": "Sapelli - Galpão Rio Branco",
+        "Logradouro": "R MARIA ANDRE DE FREITAS",
+        "Numero": "40",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-22T11:40:31-03:00"
+      },
       {
         "CodigoAuto": "AF8055001039A/26",
         "Tipo": "AF",
@@ -32282,7 +32293,7 @@
     ]
   },
   "totais": {
-    "Brusque": 429,
+    "Brusque": 430,
     "Botuvera": 35,
     "Guabiruba": 44,
     "Gaspar": 240,
@@ -32293,5 +32304,5 @@
     "Navegantes": 160,
     "Itajai": 502
   },
-  "total_geral": 2927
+  "total_geral": 2928
 }
