@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-22T13:07:10-03:00",
+  "timestamp": "2026-09-22T13:17:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8134,
-      "ultima_verificacao": "2026-09-22T13:07:10-03:00"
+      "ultima_verificacao": "2026-09-22T13:17:27-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-22T13:07:10-03:00"
+      "ultima_verificacao": "2026-09-22T13:17:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1543,
-      "ultima_verificacao": "2026-09-22T13:07:10-03:00"
+      "ultima_verificacao": "2026-09-22T13:17:27-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-22T13:07:10-03:00"
+      "ultima_verificacao": "2026-09-22T13:17:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3400,
-      "ultima_verificacao": "2026-09-22T13:07:10-03:00"
+      "ultima_verificacao": "2026-09-22T13:17:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-22T13:07:10-03:00"
+      "ultima_verificacao": "2026-09-22T13:17:27-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-22T13:07:10-03:00"
+      "ultima_verificacao": "2026-09-22T13:17:27-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13046,
-      "ultima_verificacao": "2026-09-22T13:07:10-03:00"
+      "ultima_verificacao": "2026-09-22T13:17:27-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5036,
-      "ultima_verificacao": "2026-09-22T13:07:10-03:00"
+      "ultima_verificacao": "2026-09-22T13:17:27-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14360,
-      "ultima_verificacao": "2026-09-22T13:07:10-03:00"
+      "ultimo_numero": 14362,
+      "ultima_verificacao": "2026-09-22T13:17:27-03:00"
     }
   },
   "protocolos": {
@@ -13460,6 +13460,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014362A",
+        "RE": "RE8161013909A",
+        "numgEdificacao": 370757,
+        "Nome_Edificacao": "C&C EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+        "Logradouro": "RUA MIGUEL KUNIFAS",
+        "Numero": "374",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-22T13:17:27-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014361A",
+        "RE": "RE8161013910A",
+        "numgEdificacao": 370758,
+        "Nome_Edificacao": "ANTONIA DELINDA EDIFICIO RESIDENCIAL",
+        "Logradouro": "Rua Santo Agostinho",
+        "Numero": "350",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-22T13:17:27-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014360A",
         "RE": "RE8161013908A",
         "numgEdificacao": 370753,
@@ -17695,7 +17717,7 @@
     "Itapema": 177,
     "Blumenau": 301,
     "Navegantes": 139,
-    "Itajai": 384
+    "Itajai": 386
   },
-  "total_geral": 1601
+  "total_geral": 1603
 }
