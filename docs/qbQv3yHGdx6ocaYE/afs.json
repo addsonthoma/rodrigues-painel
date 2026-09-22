@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-22T11:10:30-03:00",
+  "timestamp": "2026-09-22T11:20:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1039,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:10:30-03:00"
+      "ultima_verificacao": "2026-09-22T11:20:34-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:10:30-03:00"
+      "ultima_verificacao": "2026-09-22T11:20:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 64,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:10:30-03:00"
+      "ultima_verificacao": "2026-09-22T11:20:34-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 655,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:10:30-03:00"
+      "ultima_verificacao": "2026-09-22T11:20:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 522,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:10:30-03:00"
+      "ultima_verificacao": "2026-09-22T11:20:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 577,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:10:30-03:00"
+      "ultima_verificacao": "2026-09-22T11:20:34-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1252,
+      "ultimo_numero": 1253,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:10:30-03:00"
+      "ultima_verificacao": "2026-09-22T11:20:34-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1213,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:10:30-03:00"
+      "ultima_verificacao": "2026-09-22T11:20:34-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 364,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:10:30-03:00"
+      "ultima_verificacao": "2026-09-22T11:20:34-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1255,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-22T11:10:30-03:00"
+      "ultima_verificacao": "2026-09-22T11:20:34-03:00"
     }
   },
   "afs": {
@@ -13782,6 +13782,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001253A/26",
+        "Tipo": "AF",
+        "RE": "RE8163005875A",
+        "Nome_Edificacao": "Comercial  \"A. PASSOS I\"",
+        "Logradouro": "Rua 294",
+        "Numero": "222",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-22T11:20:34-03:00"
+      },
       {
         "CodigoAuto": "AF8163001252A/26",
         "Tipo": "AF",
@@ -32277,10 +32288,10 @@
     "Gaspar": 240,
     "Porto Belo": 231,
     "Nova Trento": 267,
-    "Itapema": 518,
+    "Itapema": 519,
     "Blumenau": 500,
     "Navegantes": 160,
     "Itajai": 502
   },
-  "total_geral": 2926
+  "total_geral": 2927
 }
