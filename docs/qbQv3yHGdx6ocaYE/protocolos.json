@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-22T08:57:33-03:00",
+  "timestamp": "2026-09-22T09:07:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8132,
-      "ultima_verificacao": "2026-09-22T08:57:33-03:00"
+      "ultimo_numero": 8133,
+      "ultima_verificacao": "2026-09-22T09:07:31-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-22T08:57:33-03:00"
+      "ultima_verificacao": "2026-09-22T09:07:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1543,
-      "ultima_verificacao": "2026-09-22T08:57:33-03:00"
+      "ultima_verificacao": "2026-09-22T09:07:31-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-22T08:57:33-03:00"
+      "ultima_verificacao": "2026-09-22T09:07:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3400,
-      "ultima_verificacao": "2026-09-22T08:57:33-03:00"
+      "ultima_verificacao": "2026-09-22T09:07:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-22T08:57:33-03:00"
+      "ultima_verificacao": "2026-09-22T09:07:31-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-22T08:57:33-03:00"
+      "ultima_verificacao": "2026-09-22T09:07:31-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13044,
-      "ultima_verificacao": "2026-09-22T08:57:33-03:00"
+      "ultima_verificacao": "2026-09-22T09:07:31-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5036,
-      "ultima_verificacao": "2026-09-22T08:57:33-03:00"
+      "ultima_verificacao": "2026-09-22T09:07:31-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14359,
-      "ultima_verificacao": "2026-09-22T08:57:33-03:00"
+      "ultima_verificacao": "2026-09-22T09:07:31-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008133A",
+        "RE": "RE8055006834A",
+        "numgEdificacao": 370643,
+        "Nome_Edificacao": "GALPÃO ELYSIUM",
+        "Logradouro": "VIA BARRACAO-CAMPECHE",
+        "Numero": "",
+        "Bairro": "BRUSQUE - VOLTA GRANDE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-22T09:07:31-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008132A",
         "RE": "RE8055006836A",
@@ -17631,7 +17642,7 @@
     ]
   },
   "totais": {
-    "Brusque": 168,
+    "Brusque": 169,
     "Botuvera": 42,
     "Guabiruba": 68,
     "Gaspar": 136,
@@ -17642,5 +17653,5 @@
     "Navegantes": 139,
     "Itajai": 383
   },
-  "total_geral": 1596
+  "total_geral": 1597
 }
