@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-23T14:48:07-03:00",
-  "total": 5550,
+  "timestamp": "2026-09-23T16:34:39-03:00",
+  "total": 5557,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -588,7 +588,7 @@
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1790184857.4518597
+      "_ts": 1790192017.896798
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1790184857.451884
+      "_ts": 1790192017.896816
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1790184857.4518747
+      "_ts": 1790192017.8968096
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5113,7 +5113,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1790184843.1646433
+      "_ts": 1790192010.185714
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5133,7 +5133,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1790184843.164533
+      "_ts": 1790192010.185685
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5340,7 +5340,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1790184906.661481
+      "_ts": 1790192053.7431579
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9456,7 +9456,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1790184836.0345972
+      "_ts": 1790192003.2881522
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -9470,7 +9470,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000016A/26",
-      "_ts": 1790184865.3333783
+      "_ts": 1790192025.539031
     },
     "AF8051000015A/26": {
       "tipo": "AF",
@@ -14013,7 +14013,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1790184894.5932288
+      "_ts": 1790192046.1213553
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -30100,7 +30100,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1790184891.8587284
+      "_ts": 1790192041.7931328
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38531,7 +38531,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1790184883.8714712
+      "_ts": 1790192033.2679145
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -62467,13 +62467,13 @@
       "exigencias": [
         "Solicitar vistoria para habite-se"
       ],
-      "dataPrazo": "30/08/2026",
-      "prazoDias": 30,
+      "dataPrazo": "06/09/2026",
+      "prazoDias": -17,
       "bombeiroAutuacao": "Sd Diego FERNANDES Ferreira",
       "bloco": "PÉ DA MONTANHA",
       "codgAuto": "AF8163001044A/26",
       "numgAuto": 516882,
-      "_ts": 1785522242.7246532
+      "_ts": 1790192069.7800283
     },
     "AF8163001043A/26": {
       "tipo": "FISCALIZACAO",
@@ -107031,7 +107031,7 @@
       "bloco": "BLOCO",
       "codgAuto": "AF8221000367A/26",
       "numgAuto": 531397,
-      "_ts": 1790185668.6845543
+      "_ts": 1790192078.6371567
     },
     "AF8221000366A/26": {
       "tipo": "AF",
@@ -107045,7 +107045,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8221000366A/26",
-      "_ts": 1790185668.6846664
+      "_ts": 1790192078.6371756
     },
     "AF8221000365A/26": {
       "tipo": "FISCALIZACAO",
@@ -108047,6 +108047,150 @@
       "codgAuto": "MUL8161000140A/25",
       "numgAuto": 376630,
       "_ts": 1790185686.5442762
+    },
+    "AF8055000220A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "50",
+      "cidade": "BRUSQUE",
+      "responsavel": "HERIBERTO CESAR VIEIRA",
+      "cpfCnpj": "52082393968",
+      "celular": "47984997804",
+      "email": "espacolivrecontabilidade@gmail.com",
+      "endereco_responsavel": "Rua Moritz Germano Hoffmann, 126, Centro I, Brusque",
+      "exigencias": [
+        "Solicitar RPCI",
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "18/04/2023",
+      "prazoDias": -1254,
+      "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
+      "bloco": "SALA 02",
+      "codgAuto": "AF8055000220A/23",
+      "numgAuto": 178283,
+      "_ts": 1790191967.9595525
+    },
+    "AF8055001051A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "50",
+      "cidade": "BRUSQUE",
+      "responsavel": "HERIBERTO CESAR VIEIRA",
+      "cpfCnpj": "52082393968",
+      "celular": "47984997804",
+      "email": "espacolivrecontabilidade@gmail.com",
+      "endereco_responsavel": "Rua Moritz Germano Hoffmann, 126, Centro I, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "22/09/2027",
+      "prazoDias": 364,
+      "bombeiroAutuacao": "Cb LUIS Fernando da Silva",
+      "bloco": "SALA 02",
+      "codgAuto": "AF8055001051A/26",
+      "numgAuto": 531839,
+      "_ts": 1790191967.959573
+    },
+    "MUL8055000128A/23": {
+      "tipo": "MULTA",
+      "areaTotal": "50",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "SALA 02",
+      "codgAuto": "MUL8055000128A/23",
+      "numgAuto": 207229,
+      "_ts": 1790191967.959626
+    },
+    "AF8055001050A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 4753.33,
+      "cidade": "BRUSQUE",
+      "responsavel": "EDIFICIO RESIDENCIAL SANTA TEREZINHA",
+      "cpfCnpj": "31018710000172",
+      "celular": "47999008889",
+      "email": "danielle@hbcondominios.com.br",
+      "endereco_responsavel": "Rua George Boettger, 153, Santa Terezinha, Brusque",
+      "exigencias": [
+        "Executar sistema de saída de emergência",
+        "Executar sistema de iluminação de emergência",
+        "Executar sistema de sinalização para abandono de local",
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "23/12/2026",
+      "prazoDias": 91,
+      "bombeiroAutuacao": "Sd FERNANDA Zamprogna",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8055001050A/26",
+      "numgAuto": 531816,
+      "_ts": 1790191975.9943612
+    },
+    "AF8117000656A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "850",
+      "cidade": "GASPAR",
+      "responsavel": "IVONEZIO DE SOUZA",
+      "cpfCnpj": "73364380910",
+      "celular": "47996649481",
+      "email": "ferrariboinabrasa@gmail.com",
+      "endereco_responsavel": "Rua Manoel Salvador, 221, Valparaiso, Blumenau",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "05/03/2027",
+      "prazoDias": 163,
+      "bombeiroAutuacao": "3º Sgt ANDERSON DA ROSA",
+      "bloco": "RESTAURANTE",
+      "codgAuto": "AF8117000656A/26",
+      "numgAuto": 531782,
+      "_ts": 1790192060.7488704
+    },
+    "AF8163001262A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1198.59",
+      "cidade": "ITAPEMA",
+      "responsavel": "JGC CONSTRUTORA E INCORPORADORA LTDA",
+      "cpfCnpj": "30499751000165",
+      "celular": "47999125249",
+      "email": "societario@mjbcont.com.br",
+      "endereco_responsavel": "Rua 211, 36, Meia Praia, Itapema",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)",
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____",
+        "Executar sistema de alarme de incêndio",
+        "Executar sistema de iluminação de emergência",
+        "Executar sistema de saída de emergência"
+      ],
+      "dataPrazo": "23/11/2026",
+      "prazoDias": 61,
+      "bombeiroAutuacao": "2º Sgt Gustavo Giovanaz",
+      "bloco": "PÉ DA MONTANHA",
+      "codgAuto": "AF8163001262A/26",
+      "numgAuto": 531777,
+      "_ts": 1790192069.7800493
+    },
+    "MUL8163000197A/26": {
+      "tipo": "MULTA",
+      "areaTotal": "1198.59",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "PÉ DA MONTANHA",
+      "codgAuto": "MUL8163000197A/26",
+      "numgAuto": 527755,
+      "_ts": 1790192069.7801025
     }
   }
 }
