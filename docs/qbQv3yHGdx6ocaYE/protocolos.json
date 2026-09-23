@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-23T10:37:20-03:00",
+  "timestamp": "2026-09-23T10:48:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8134,
-      "ultima_verificacao": "2026-09-23T10:37:20-03:00"
+      "ultima_verificacao": "2026-09-23T10:48:04-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-23T10:37:20-03:00"
+      "ultima_verificacao": "2026-09-23T10:48:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1544,
-      "ultima_verificacao": "2026-09-23T10:37:20-03:00"
+      "ultima_verificacao": "2026-09-23T10:48:04-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3903,
-      "ultima_verificacao": "2026-09-23T10:37:20-03:00"
+      "ultimo_numero": 3904,
+      "ultima_verificacao": "2026-09-23T10:48:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3401,
-      "ultima_verificacao": "2026-09-23T10:37:20-03:00"
+      "ultima_verificacao": "2026-09-23T10:48:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-23T10:37:20-03:00"
+      "ultima_verificacao": "2026-09-23T10:48:04-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7225,
-      "ultima_verificacao": "2026-09-23T10:37:20-03:00"
+      "ultima_verificacao": "2026-09-23T10:48:04-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13051,
-      "ultima_verificacao": "2026-09-23T10:37:20-03:00"
+      "ultima_verificacao": "2026-09-23T10:48:04-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5038,
-      "ultima_verificacao": "2026-09-23T10:37:20-03:00"
+      "ultima_verificacao": "2026-09-23T10:48:04-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14369,
-      "ultima_verificacao": "2026-09-23T10:37:20-03:00"
+      "ultima_verificacao": "2026-09-23T10:48:04-03:00"
     }
   },
   "protocolos": {
@@ -3151,6 +3151,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003904A",
+        "RE": "RE8117003298A",
+        "numgEdificacao": 370864,
+        "Nome_Edificacao": "SC ADMINISTRADORA E INCORPORADORA LTDA",
+        "Logradouro": "Rua Antonio Augusto de Oliveira",
+        "Numero": "51",
+        "Bairro": "GASPAR - Santa Terezinha",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-23T10:48:04-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003903A",
         "RE": "RE8117000519A",
@@ -17909,7 +17920,7 @@
     "Brusque": 170,
     "Botuvera": 42,
     "Guabiruba": 69,
-    "Gaspar": 137,
+    "Gaspar": 138,
     "Porto Belo": 120,
     "Nova Trento": 65,
     "Itapema": 178,
@@ -17917,5 +17928,5 @@
     "Navegantes": 141,
     "Itajai": 393
   },
-  "total_geral": 1621
+  "total_geral": 1622
 }
