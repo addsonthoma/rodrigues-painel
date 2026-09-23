@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-22T16:47:45-03:00",
+  "timestamp": "2026-09-23T07:27:28-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8134,
-      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
+      "ultima_verificacao": "2026-09-23T07:27:28-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
+      "ultima_verificacao": "2026-09-23T07:27:28-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1544,
-      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
+      "ultima_verificacao": "2026-09-23T07:27:28-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
+      "ultima_verificacao": "2026-09-23T07:27:28-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3401,
-      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
+      "ultima_verificacao": "2026-09-23T07:27:28-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
+      "ultima_verificacao": "2026-09-23T07:27:28-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7224,
-      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
+      "ultimo_numero": 7225,
+      "ultima_verificacao": "2026-09-23T07:27:28-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13048,
-      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
+      "ultimo_numero": 13051,
+      "ultima_verificacao": "2026-09-23T07:27:28-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5036,
-      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
+      "ultimo_numero": 5038,
+      "ultima_verificacao": "2026-09-23T07:27:28-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14368,
-      "ultima_verificacao": "2026-09-22T16:47:45-03:00"
+      "ultima_verificacao": "2026-09-23T07:27:28-03:00"
     }
   },
   "protocolos": {
@@ -6689,6 +6689,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007225A",
+        "RE": "RE8163006893A",
+        "numgEdificacao": 370823,
+        "Nome_Edificacao": "Sala Comercial",
+        "Logradouro": "rua 264",
+        "Numero": "75",
+        "Bairro": "ITAPEMA - Meia Praia",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-23T07:27:28-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007224A",
         "RE": "RE8163006892A",
         "numgEdificacao": 370595,
@@ -8637,6 +8648,39 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013051A",
+        "RE": "RE8047006111A",
+        "numgEdificacao": 182018,
+        "Nome_Edificacao": "GAS PONTO COM DISTRIBUIDORA DE GAS S.A.",
+        "Logradouro": "Rua Arno Delling",
+        "Numero": "560",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-23T07:27:28-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013050A",
+        "RE": "RE8047012165A",
+        "numgEdificacao": 370819,
+        "Nome_Edificacao": "RENATO FRANCISCO SCHENATTO",
+        "Logradouro": "RUA BAHIA",
+        "Numero": "1965",
+        "Bairro": "BLUMENAU - DO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-23T07:27:28-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013049A",
+        "RE": "RE8047012164A",
+        "numgEdificacao": 370813,
+        "Nome_Edificacao": "RESIDENCIAL VIÑA DEL MAR",
+        "Logradouro": "R THEODORO HOLTRUP",
+        "Numero": "436",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-23T07:27:28-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013048A",
         "RE": "RE8047012163A",
@@ -11972,6 +12016,28 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoProtocolo": "A8221005038A",
+        "RE": "RE8221004153A",
+        "numgEdificacao": 370259,
+        "Nome_Edificacao": "Terreno para Galpao Comercial",
+        "Logradouro": "GRACILDES COELHO REISER",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-23T07:27:28-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005037A",
+        "RE": "RE8221002119A",
+        "numgEdificacao": 223509,
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL CARLOS HENRIQUE BOOS",
+        "Logradouro": "Rua Gelásio Rodrigues",
+        "Numero": "10",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-23T07:27:28-03:00"
+      },
       {
         "CodigoProtocolo": "A8221005036A",
         "RE": "RE8221000212A",
@@ -17824,10 +17890,10 @@
     "Gaspar": 136,
     "Porto Belo": 120,
     "Nova Trento": 65,
-    "Itapema": 177,
-    "Blumenau": 303,
-    "Navegantes": 139,
+    "Itapema": 178,
+    "Blumenau": 306,
+    "Navegantes": 141,
     "Itajai": 392
   },
-  "total_geral": 1613
+  "total_geral": 1619
 }
