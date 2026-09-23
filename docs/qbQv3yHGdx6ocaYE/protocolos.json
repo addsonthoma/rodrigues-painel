@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-23T10:17:00-03:00",
+  "timestamp": "2026-09-23T10:27:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8134,
-      "ultima_verificacao": "2026-09-23T10:17:00-03:00"
+      "ultima_verificacao": "2026-09-23T10:27:23-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-23T10:17:00-03:00"
+      "ultima_verificacao": "2026-09-23T10:27:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1544,
-      "ultima_verificacao": "2026-09-23T10:17:00-03:00"
+      "ultima_verificacao": "2026-09-23T10:27:23-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3902,
-      "ultima_verificacao": "2026-09-23T10:17:00-03:00"
+      "ultimo_numero": 3903,
+      "ultima_verificacao": "2026-09-23T10:27:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3401,
-      "ultima_verificacao": "2026-09-23T10:17:00-03:00"
+      "ultima_verificacao": "2026-09-23T10:27:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-23T10:17:00-03:00"
+      "ultima_verificacao": "2026-09-23T10:27:23-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7225,
-      "ultima_verificacao": "2026-09-23T10:17:00-03:00"
+      "ultima_verificacao": "2026-09-23T10:27:23-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13051,
-      "ultima_verificacao": "2026-09-23T10:17:00-03:00"
+      "ultima_verificacao": "2026-09-23T10:27:23-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5038,
-      "ultima_verificacao": "2026-09-23T10:17:00-03:00"
+      "ultima_verificacao": "2026-09-23T10:27:23-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14368,
-      "ultima_verificacao": "2026-09-23T10:17:00-03:00"
+      "ultima_verificacao": "2026-09-23T10:27:23-03:00"
     }
   },
   "protocolos": {
@@ -3151,6 +3151,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003903A",
+        "RE": "RE8117000519A",
+        "numgEdificacao": 46235,
+        "Nome_Edificacao": "DAISA ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Leonardo Pedro Schmitt",
+        "Numero": "8391",
+        "Bairro": "GASPAR - MACUCOS",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-23T10:27:23-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003902A",
         "RE": "RE8117003297A",
@@ -17887,7 +17898,7 @@
     "Brusque": 170,
     "Botuvera": 42,
     "Guabiruba": 69,
-    "Gaspar": 136,
+    "Gaspar": 137,
     "Porto Belo": 120,
     "Nova Trento": 65,
     "Itapema": 178,
@@ -17895,5 +17906,5 @@
     "Navegantes": 141,
     "Itajai": 392
   },
-  "total_geral": 1619
+  "total_geral": 1620
 }
