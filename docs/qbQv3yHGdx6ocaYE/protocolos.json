@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-23T15:37:22-03:00",
+  "timestamp": "2026-09-23T15:47:32-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8135,
-      "ultima_verificacao": "2026-09-23T15:37:22-03:00"
+      "ultima_verificacao": "2026-09-23T15:47:32-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-23T15:37:22-03:00"
+      "ultima_verificacao": "2026-09-23T15:47:32-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1544,
-      "ultima_verificacao": "2026-09-23T15:37:22-03:00"
+      "ultima_verificacao": "2026-09-23T15:47:32-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3904,
-      "ultima_verificacao": "2026-09-23T15:37:22-03:00"
+      "ultimo_numero": 3905,
+      "ultima_verificacao": "2026-09-23T15:47:32-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3401,
-      "ultima_verificacao": "2026-09-23T15:37:22-03:00"
+      "ultima_verificacao": "2026-09-23T15:47:32-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-23T15:37:22-03:00"
+      "ultima_verificacao": "2026-09-23T15:47:32-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7225,
-      "ultima_verificacao": "2026-09-23T15:37:22-03:00"
+      "ultima_verificacao": "2026-09-23T15:47:32-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13053,
-      "ultima_verificacao": "2026-09-23T15:37:22-03:00"
+      "ultima_verificacao": "2026-09-23T15:47:32-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5038,
-      "ultima_verificacao": "2026-09-23T15:37:22-03:00"
+      "ultima_verificacao": "2026-09-23T15:47:32-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14369,
-      "ultima_verificacao": "2026-09-23T15:37:22-03:00"
+      "ultima_verificacao": "2026-09-23T15:47:32-03:00"
     }
   },
   "protocolos": {
@@ -3162,6 +3162,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003905A",
+        "RE": "RE8117003299A",
+        "numgEdificacao": 370915,
+        "Nome_Edificacao": "ELLEN KAROLINE ESTETICA LTDA",
+        "Logradouro": "Rua Pedro Simon",
+        "Numero": "1481",
+        "Bairro": "GASPAR - Margem Esquerda",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-23T15:47:32-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003904A",
         "RE": "RE8117003298A",
@@ -17953,7 +17964,7 @@
     "Brusque": 171,
     "Botuvera": 42,
     "Guabiruba": 69,
-    "Gaspar": 138,
+    "Gaspar": 139,
     "Porto Belo": 120,
     "Nova Trento": 65,
     "Itapema": 178,
@@ -17961,5 +17972,5 @@
     "Navegantes": 141,
     "Itajai": 393
   },
-  "total_geral": 1625
+  "total_geral": 1626
 }
