@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-23T15:10:30-03:00",
+  "timestamp": "2026-09-23T15:30:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1049,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T15:10:30-03:00"
+      "ultima_verificacao": "2026-09-23T15:30:20-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T15:10:30-03:00"
+      "ultima_verificacao": "2026-09-23T15:30:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T15:10:30-03:00"
+      "ultima_verificacao": "2026-09-23T15:30:20-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 655,
+      "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T15:10:30-03:00"
+      "ultima_verificacao": "2026-09-23T15:30:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 528,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T15:10:30-03:00"
+      "ultima_verificacao": "2026-09-23T15:30:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 582,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T15:10:30-03:00"
+      "ultima_verificacao": "2026-09-23T15:30:20-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1261,
+      "ultimo_numero": 1262,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T15:10:30-03:00"
+      "ultima_verificacao": "2026-09-23T15:30:20-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1221,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T15:10:30-03:00"
+      "ultima_verificacao": "2026-09-23T15:30:20-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 368,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T15:10:30-03:00"
+      "ultima_verificacao": "2026-09-23T15:30:20-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1259,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T15:10:30-03:00"
+      "ultima_verificacao": "2026-09-23T15:30:20-03:00"
     }
   },
   "afs": {
@@ -5779,6 +5779,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000656A/26",
+        "Tipo": "AF",
+        "RE": "RE8117003286A",
+        "Nome_Edificacao": "RESTAURANTE FERRARI BOI NA BRASA DE GASPAR LTDA",
+        "Logradouro": "AVENIDA DAS COMUNIDADES",
+        "Numero": "1150",
+        "Bairro": "GASPAR - CENTRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-23T15:30:20-03:00"
+      },
       {
         "CodigoAuto": "AF8117000655A/26",
         "Tipo": "AF",
@@ -14024,6 +14035,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001262A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001391A",
+        "Nome_Edificacao": "PÉ DA MONTANHA",
+        "Logradouro": "RUA 878",
+        "Numero": "85",
+        "Bairro": "ITAPEMA - CASA BRANCA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-23T15:30:20-03:00"
+      },
       {
         "CodigoAuto": "AF8163001261A/26",
         "Tipo": "AF",
@@ -32791,13 +32813,13 @@
     "Brusque": 439,
     "Botuvera": 35,
     "Guabiruba": 45,
-    "Gaspar": 240,
+    "Gaspar": 241,
     "Porto Belo": 237,
     "Nova Trento": 272,
-    "Itapema": 527,
+    "Itapema": 528,
     "Blumenau": 508,
     "Navegantes": 164,
     "Itajai": 506
   },
-  "total_geral": 2973
+  "total_geral": 2975
 }
