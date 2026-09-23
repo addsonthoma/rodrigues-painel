@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-23T13:30:24-03:00",
+  "timestamp": "2026-09-23T13:40:47-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1048,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T13:30:24-03:00"
+      "ultima_verificacao": "2026-09-23T13:40:47-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T13:30:24-03:00"
+      "ultima_verificacao": "2026-09-23T13:40:47-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
-      "ultimo_numero": 64,
+      "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T13:30:24-03:00"
+      "ultima_verificacao": "2026-09-23T13:40:47-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 655,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T13:30:24-03:00"
+      "ultima_verificacao": "2026-09-23T13:40:47-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 528,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T13:30:24-03:00"
+      "ultima_verificacao": "2026-09-23T13:40:47-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 582,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T13:30:24-03:00"
+      "ultima_verificacao": "2026-09-23T13:40:47-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1261,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T13:30:24-03:00"
+      "ultima_verificacao": "2026-09-23T13:40:47-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1221,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T13:30:24-03:00"
+      "ultima_verificacao": "2026-09-23T13:40:47-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 368,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T13:30:24-03:00"
+      "ultima_verificacao": "2026-09-23T13:40:47-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1259,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-23T13:30:24-03:00"
+      "ultima_verificacao": "2026-09-23T13:40:47-03:00"
     }
   },
   "afs": {
@@ -5271,6 +5271,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoAuto": "AF8123000065A/26",
+        "Tipo": "AF",
+        "RE": "RE8123000477A",
+        "Nome_Edificacao": "GILMAR APARECIDO ROCHA",
+        "Logradouro": "RUA VICENTE SCHARF",
+        "Numero": "258",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-09-23T13:40:47-03:00"
+      },
       {
         "CodigoAuto": "AF8123000064A/26",
         "Tipo": "AF",
@@ -32768,7 +32779,7 @@
   "totais": {
     "Brusque": 438,
     "Botuvera": 35,
-    "Guabiruba": 44,
+    "Guabiruba": 45,
     "Gaspar": 240,
     "Porto Belo": 237,
     "Nova Trento": 272,
@@ -32777,5 +32788,5 @@
     "Navegantes": 164,
     "Itajai": 506
   },
-  "total_geral": 2971
+  "total_geral": 2972
 }
