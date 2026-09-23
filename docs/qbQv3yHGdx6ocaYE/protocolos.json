@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-23T16:37:51-03:00",
+  "timestamp": "2026-09-23T16:47:15-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8135,
-      "ultima_verificacao": "2026-09-23T16:37:51-03:00"
+      "ultimo_numero": 8136,
+      "ultima_verificacao": "2026-09-23T16:47:15-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-23T16:37:51-03:00"
+      "ultima_verificacao": "2026-09-23T16:47:15-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1544,
-      "ultima_verificacao": "2026-09-23T16:37:51-03:00"
+      "ultima_verificacao": "2026-09-23T16:47:15-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3905,
-      "ultima_verificacao": "2026-09-23T16:37:51-03:00"
+      "ultima_verificacao": "2026-09-23T16:47:15-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3401,
-      "ultima_verificacao": "2026-09-23T16:37:51-03:00"
+      "ultima_verificacao": "2026-09-23T16:47:15-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-23T16:37:51-03:00"
+      "ultima_verificacao": "2026-09-23T16:47:15-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7225,
-      "ultima_verificacao": "2026-09-23T16:37:51-03:00"
+      "ultima_verificacao": "2026-09-23T16:47:15-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13053,
-      "ultima_verificacao": "2026-09-23T16:37:51-03:00"
+      "ultima_verificacao": "2026-09-23T16:47:15-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5038,
-      "ultima_verificacao": "2026-09-23T16:37:51-03:00"
+      "ultima_verificacao": "2026-09-23T16:47:15-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14369,
-      "ultima_verificacao": "2026-09-23T16:37:51-03:00"
+      "ultima_verificacao": "2026-09-23T16:47:15-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008136A",
+        "RE": "RE8055006840A",
+        "numgEdificacao": 370924,
+        "Nome_Edificacao": "Paza Revestimentos LTDA",
+        "Logradouro": "NEREU RAMOS",
+        "Numero": "106",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-23T16:47:15-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008135A",
         "RE": "RE8055002999A",
@@ -17961,7 +17972,7 @@
     ]
   },
   "totais": {
-    "Brusque": 171,
+    "Brusque": 172,
     "Botuvera": 42,
     "Guabiruba": 69,
     "Gaspar": 139,
@@ -17972,5 +17983,5 @@
     "Navegantes": 141,
     "Itajai": 393
   },
-  "total_geral": 1626
+  "total_geral": 1627
 }
