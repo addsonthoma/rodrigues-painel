@@ -1,69 +1,102 @@
 {
-  "timestamp": "2026-09-24T17:10:27-03:00",
+  "timestamp": "2026-09-24T20:50:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1063,
+      "ultimo_numero": 1066,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T17:10:27-03:00"
+      "ultima_verificacao": "2026-09-24T20:50:24-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T17:10:27-03:00"
+      "ultima_verificacao": "2026-09-24T20:50:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T17:10:27-03:00"
+      "ultima_verificacao": "2026-09-24T20:50:24-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T17:10:27-03:00"
+      "ultima_verificacao": "2026-09-24T20:50:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 530,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T17:10:27-03:00"
+      "ultima_verificacao": "2026-09-24T20:50:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 583,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T17:10:27-03:00"
+      "ultima_verificacao": "2026-09-24T20:50:24-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1263,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T17:10:27-03:00"
+      "ultima_verificacao": "2026-09-24T20:50:24-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1238,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T17:10:27-03:00"
+      "ultima_verificacao": "2026-09-24T20:50:24-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 370,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T17:10:27-03:00"
+      "ultima_verificacao": "2026-09-24T20:50:24-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1262,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T17:10:27-03:00"
+      "ultima_verificacao": "2026-09-24T20:50:24-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001066A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004599A",
+        "Nome_Edificacao": "ANICETO PEREIRA",
+        "Logradouro": "RUA CARLOS RISTOW",
+        "Numero": "567",
+        "Bairro": "BRUSQUE - AZAMBUJA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-24T20:50:24-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001065A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005009A",
+        "Nome_Edificacao": "DAVID WEGNER",
+        "Logradouro": "R. Almirante Barroso",
+        "Numero": "73",
+        "Bairro": "BRUSQUE - SANTA RITA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-24T20:50:24-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001064A/26",
+        "Tipo": "AF",
+        "RE": "RE8055006621A",
+        "Nome_Edificacao": "José Dognini",
+        "Logradouro": "Rua Victor Meirelles",
+        "Numero": "280",
+        "Bairro": "BRUSQUE - SANTA RITA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-24T20:50:24-03:00"
+      },
       {
         "CodigoAuto": "AF8055001063A/26",
         "Tipo": "AF",
@@ -33250,7 +33283,7 @@
     ]
   },
   "totais": {
-    "Brusque": 453,
+    "Brusque": 456,
     "Botuvera": 35,
     "Guabiruba": 45,
     "Gaspar": 241,
@@ -33261,5 +33294,5 @@
     "Navegantes": 166,
     "Itajai": 509
   },
-  "total_geral": 3015
+  "total_geral": 3018
 }
