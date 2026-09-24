@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-24T08:37:00-03:00",
+  "timestamp": "2026-09-24T08:48:29-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8136,
-      "ultima_verificacao": "2026-09-24T08:37:00-03:00"
+      "ultima_verificacao": "2026-09-24T08:48:29-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-24T08:37:00-03:00"
+      "ultima_verificacao": "2026-09-24T08:48:29-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1544,
-      "ultima_verificacao": "2026-09-24T08:37:00-03:00"
+      "ultimo_numero": 1545,
+      "ultima_verificacao": "2026-09-24T08:48:29-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3907,
-      "ultima_verificacao": "2026-09-24T08:37:00-03:00"
+      "ultima_verificacao": "2026-09-24T08:48:29-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3401,
-      "ultima_verificacao": "2026-09-24T08:37:00-03:00"
+      "ultima_verificacao": "2026-09-24T08:48:29-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-24T08:37:00-03:00"
+      "ultima_verificacao": "2026-09-24T08:48:29-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7226,
-      "ultima_verificacao": "2026-09-24T08:37:00-03:00"
+      "ultima_verificacao": "2026-09-24T08:48:29-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13054,
-      "ultima_verificacao": "2026-09-24T08:37:00-03:00"
+      "ultima_verificacao": "2026-09-24T08:48:29-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5041,
-      "ultima_verificacao": "2026-09-24T08:37:00-03:00"
+      "ultima_verificacao": "2026-09-24T08:48:29-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14370,
-      "ultima_verificacao": "2026-09-24T08:37:00-03:00"
+      "ultimo_numero": 14371,
+      "ultima_verificacao": "2026-09-24T08:48:29-03:00"
     }
   },
   "protocolos": {
@@ -2412,6 +2412,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001545A",
+        "RE": "RE8123001228A",
+        "numgEdificacao": 370960,
+        "Nome_Edificacao": "JOÃO MARTINS DA CRUZ JUNIOR",
+        "Logradouro": "Paulo Wippel",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - AIMORE",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-09-24T08:48:29-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001544A",
         "RE": "RE8123001227A",
@@ -13724,6 +13735,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014371A",
+        "RE": "RE8161005808A",
+        "numgEdificacao": 166488,
+        "Nome_Edificacao": "HERCY DE JESUS CASTRO BITENCOURT",
+        "Logradouro": "Avenida Nilo Bittencourt",
+        "Numero": "986",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-24T08:48:29-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014370A",
         "RE": "RE8161005698A",
         "numgEdificacao": 164374,
@@ -18062,14 +18084,14 @@
   "totais": {
     "Brusque": 172,
     "Botuvera": 42,
-    "Guabiruba": 69,
+    "Guabiruba": 70,
     "Gaspar": 141,
     "Porto Belo": 120,
     "Nova Trento": 65,
     "Itapema": 179,
     "Blumenau": 309,
     "Navegantes": 144,
-    "Itajai": 394
+    "Itajai": 395
   },
-  "total_geral": 1635
+  "total_geral": 1637
 }
