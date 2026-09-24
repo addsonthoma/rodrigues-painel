@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-24T10:20:23-03:00",
+  "timestamp": "2026-09-24T10:40:22-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1057,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-24T10:40:22-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-24T10:40:22-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-24T10:40:22-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-24T10:40:22-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 528,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-24T10:40:22-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 582,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-24T10:40:22-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1263,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-24T10:40:22-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1225,
+      "ultimo_numero": 1226,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-24T10:40:22-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 369,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-24T10:40:22-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1261,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T10:20:23-03:00"
+      "ultima_verificacao": "2026-09-24T10:40:22-03:00"
     }
   },
   "afs": {
@@ -19945,6 +19945,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001226A/26",
+        "Tipo": "AF",
+        "RE": "RE8047011404A",
+        "Nome_Edificacao": "COLIBRI INDUSTRIA E COMERCIO DE PLASTICO LTDA",
+        "Logradouro": "Rua Bahia",
+        "Numero": "438",
+        "Bairro": "BLUMENAU - DO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-24T10:40:22-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001225A/26",
         "Tipo": "AF",
         "RE": "RE8047011435A",
@@ -32993,9 +33004,9 @@
     "Porto Belo": 237,
     "Nova Trento": 272,
     "Itapema": 529,
-    "Blumenau": 512,
+    "Blumenau": 513,
     "Navegantes": 165,
     "Itajai": 508
   },
-  "total_geral": 2991
+  "total_geral": 2992
 }
