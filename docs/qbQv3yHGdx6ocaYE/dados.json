@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-24T14:00:04-03:00",
+  "timestamp": "2026-09-24T14:20:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-09-24T14:20:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-09-24T14:20:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-09-24T14:20:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-09-24T14:20:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 122,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-09-24T14:20:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 153,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-09-24T14:20:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 216,
+      "ultimo_numero": 217,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-09-24T14:20:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 266,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-09-24T14:20:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-09-24T14:20:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 477,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-24T14:00:04-03:00"
+      "ultima_verificacao": "2026-09-24T14:20:04-03:00"
     }
   },
   "multas": {
@@ -4489,6 +4489,16 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000217A/26",
+        "RE": "RE8163003042A",
+        "Nome_Edificacao": "EEB PREF OLEGARIO BERNARDES",
+        "Logradouro": "RUA GOVERNADOR CELSO RAMOS",
+        "Numero": "710",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-24T14:20:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000215A/26",
         "RE": "RE8163003053A",
         "Nome_Edificacao": "EDIFICIO ILHAS CANARIAS",
@@ -7378,13 +7388,20 @@
     "Gaspar": 41,
     "Guabiruba": 3,
     "Itajai": 195,
-    "Itapema": 99,
+    "Itapema": 100,
     "Navegantes": 60,
     "Nova Trento": 70,
     "Porto Belo": 65
   },
-  "total_geral": 741,
+  "total_geral": 742,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-24T14:20:04-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000217A/26",
+      "nome": "EEB PREF OLEGARIO BERNARDES",
+      "re": "RE8163003042A"
+    },
     {
       "ts": "2026-09-24T08:20:03-03:00",
       "cidade": "Nova Trento",
@@ -7615,48 +7632,6 @@
       "codigo": "MUL8161000468A/26",
       "nome": "David Luiz Durschnabel",
       "re": "RE8161000622A"
-    },
-    {
-      "ts": "2026-09-17T14:20:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000467A/26",
-      "nome": "LIMA CABELEIREIROS UNISSEX",
-      "re": "RE8161005970A"
-    },
-    {
-      "ts": "2026-09-17T14:20:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000466A/26",
-      "nome": "PANIFICADORA E PADARIA PCP LTDA",
-      "re": "RE8161006252A"
-    },
-    {
-      "ts": "2026-09-17T14:10:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000465A/26",
-      "nome": "CONDOMINIO RESIDENCIAL VILA DE SAGRES",
-      "re": "RE8161006773A"
-    },
-    {
-      "ts": "2026-09-17T14:10:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000464A/26",
-      "nome": "GELSON VIANA 01504038010",
-      "re": "RE8161006929A"
-    },
-    {
-      "ts": "2026-09-17T14:10:03-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000463A/26",
-      "nome": "SC PORTOS OPERACOES PORTUARIAS LTDA",
-      "re": "RE8161003717A"
-    },
-    {
-      "ts": "2026-09-17T14:10:03-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000259A/26",
-      "nome": "BLUFORES FLORICULTURA LTDA-ME",
-      "re": "RE8047001885A"
     }
   ]
 }
