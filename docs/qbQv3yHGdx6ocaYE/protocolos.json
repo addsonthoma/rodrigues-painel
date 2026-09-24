@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-24T09:07:02-03:00",
+  "timestamp": "2026-09-24T09:17:42-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8136,
-      "ultima_verificacao": "2026-09-24T09:07:02-03:00"
+      "ultima_verificacao": "2026-09-24T09:17:42-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-24T09:07:02-03:00"
+      "ultima_verificacao": "2026-09-24T09:17:42-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1545,
-      "ultima_verificacao": "2026-09-24T09:07:02-03:00"
+      "ultima_verificacao": "2026-09-24T09:17:42-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3907,
-      "ultima_verificacao": "2026-09-24T09:07:02-03:00"
+      "ultima_verificacao": "2026-09-24T09:17:42-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3401,
-      "ultima_verificacao": "2026-09-24T09:07:02-03:00"
+      "ultima_verificacao": "2026-09-24T09:17:42-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-24T09:07:02-03:00"
+      "ultima_verificacao": "2026-09-24T09:17:42-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7226,
-      "ultima_verificacao": "2026-09-24T09:07:02-03:00"
+      "ultima_verificacao": "2026-09-24T09:17:42-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13054,
-      "ultima_verificacao": "2026-09-24T09:07:02-03:00"
+      "ultima_verificacao": "2026-09-24T09:17:42-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5041,
-      "ultima_verificacao": "2026-09-24T09:07:02-03:00"
+      "ultima_verificacao": "2026-09-24T09:17:42-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14371,
-      "ultima_verificacao": "2026-09-24T09:07:02-03:00"
+      "ultimo_numero": 14372,
+      "ultima_verificacao": "2026-09-24T09:17:42-03:00"
     }
   },
   "protocolos": {
@@ -13735,6 +13735,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014372A",
+        "RE": "RE8161009492A",
+        "numgEdificacao": 253742,
+        "Nome_Edificacao": "Jussara Maria Moreira do Nascimento",
+        "Logradouro": "RUA TEREZA FRANCISCA PEREIRA",
+        "Numero": "313",
+        "Bairro": "ITAJAÍ - CABEÇUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-24T09:17:42-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014371A",
         "RE": "RE8161005808A",
         "numgEdificacao": 166488,
@@ -18091,7 +18102,7 @@
     "Itapema": 179,
     "Blumenau": 309,
     "Navegantes": 144,
-    "Itajai": 395
+    "Itajai": 396
   },
-  "total_geral": 1637
+  "total_geral": 1638
 }
