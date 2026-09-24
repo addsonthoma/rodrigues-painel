@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-24T16:00:44-03:00",
+  "timestamp": "2026-09-24T16:10:24-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1063,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T16:00:44-03:00"
+      "ultima_verificacao": "2026-09-24T16:10:24-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T16:00:44-03:00"
+      "ultima_verificacao": "2026-09-24T16:10:24-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T16:00:44-03:00"
+      "ultima_verificacao": "2026-09-24T16:10:24-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T16:00:44-03:00"
+      "ultima_verificacao": "2026-09-24T16:10:24-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 529,
+      "ultimo_numero": 530,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T16:00:44-03:00"
+      "ultima_verificacao": "2026-09-24T16:10:24-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 583,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T16:00:44-03:00"
+      "ultima_verificacao": "2026-09-24T16:10:24-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1263,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T16:00:44-03:00"
+      "ultima_verificacao": "2026-09-24T16:10:24-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1237,
+      "ultimo_numero": 1238,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T16:00:44-03:00"
+      "ultima_verificacao": "2026-09-24T16:10:24-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 370,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T16:00:44-03:00"
+      "ultima_verificacao": "2026-09-24T16:10:24-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1262,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-24T16:00:44-03:00"
+      "ultima_verificacao": "2026-09-24T16:10:24-03:00"
     }
   },
   "afs": {
@@ -8586,6 +8586,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000530A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000149A",
+        "Nome_Edificacao": "VILLA ÁQUILA RESIDENCE",
+        "Logradouro": "RUA EGÍDIO CÚCULO",
+        "Numero": "220",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-24T16:10:24-03:00"
+      },
       {
         "CodigoAuto": "AF8265000529A/26",
         "Tipo": "AF",
@@ -20032,6 +20043,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047001238A/26",
+        "Tipo": "AF",
+        "RE": "RE8047007384A",
+        "Nome_Edificacao": "COSTA, MARIO JOSÉ",
+        "Logradouro": "Rua Bahia",
+        "Numero": "1708",
+        "Bairro": "BLUMENAU - DO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-24T16:10:24-03:00"
+      },
       {
         "CodigoAuto": "AF8047001237A/26",
         "Tipo": "AF",
@@ -33232,12 +33254,12 @@
     "Botuvera": 35,
     "Guabiruba": 45,
     "Gaspar": 241,
-    "Porto Belo": 238,
+    "Porto Belo": 239,
     "Nova Trento": 273,
     "Itapema": 529,
-    "Blumenau": 524,
+    "Blumenau": 525,
     "Navegantes": 166,
     "Itajai": 509
   },
-  "total_geral": 3013
+  "total_geral": 3015
 }
