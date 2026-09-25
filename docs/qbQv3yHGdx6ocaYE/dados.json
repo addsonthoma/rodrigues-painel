@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-25T15:00:03-03:00",
+  "timestamp": "2026-09-25T15:10:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T15:00:03-03:00"
+      "ultima_verificacao": "2026-09-25T15:10:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T15:00:03-03:00"
+      "ultima_verificacao": "2026-09-25T15:10:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T15:00:03-03:00"
+      "ultima_verificacao": "2026-09-25T15:10:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T15:00:03-03:00"
+      "ultima_verificacao": "2026-09-25T15:10:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 123,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T15:00:03-03:00"
+      "ultima_verificacao": "2026-09-25T15:10:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 153,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T15:00:03-03:00"
+      "ultima_verificacao": "2026-09-25T15:10:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 218,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T15:00:03-03:00"
+      "ultima_verificacao": "2026-09-25T15:10:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 269,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T15:00:03-03:00"
+      "ultima_verificacao": "2026-09-25T15:10:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T15:00:03-03:00"
+      "ultima_verificacao": "2026-09-25T15:10:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 493,
+      "ultimo_numero": 495,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T15:00:03-03:00"
+      "ultima_verificacao": "2026-09-25T15:10:03-03:00"
     }
   },
   "multas": {
@@ -2583,6 +2583,26 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000494A/26",
+        "RE": "RE8161011944A",
+        "Nome_Edificacao": "CMA ADMINISTRADORA DE BENS E PARTICIPAÇÕES LTDA",
+        "Logradouro": "RUA DOCA REBELLO",
+        "Numero": "20",
+        "Bairro": "ITAJAÍ - PRAIA BRAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-25T15:10:03-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000495A/26",
+        "RE": "RE8161000980A",
+        "Nome_Edificacao": "EB PADRE JOSÉ DE ANCHIETA",
+        "Logradouro": "Rua João Thomaz Pinto",
+        "Numero": "1567",
+        "Bairro": "ITAJAÍ - CANHANDUBA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-25T15:10:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000491A/26",
         "RE": "RE8161012295A",
@@ -7597,14 +7617,28 @@
     "Brusque": 74,
     "Gaspar": 41,
     "Guabiruba": 3,
-    "Itajai": 211,
+    "Itajai": 213,
     "Itapema": 101,
     "Navegantes": 60,
     "Nova Trento": 70,
     "Porto Belo": 66
   },
-  "total_geral": 763,
+  "total_geral": 765,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-25T15:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000495A/26",
+      "nome": "EB PADRE JOSÉ DE ANCHIETA",
+      "re": "RE8161000980A"
+    },
+    {
+      "ts": "2026-09-25T15:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000494A/26",
+      "nome": "CMA ADMINISTRADORA DE BENS E PARTICIPAÇÕES LTDA",
+      "re": "RE8161011944A"
+    },
     {
       "ts": "2026-09-25T15:00:03-03:00",
       "cidade": "Itajai",
@@ -7919,13 +7953,6 @@
       "codigo": "MUL8265000121A/26",
       "nome": "MMK SERVICOS ADMINISTRATIVOS LTDA",
       "re": "RE8265002267A"
-    },
-    {
-      "ts": "2026-09-18T15:10:03-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000260A/26",
-      "nome": "ALMIR GERALDO MARTINS",
-      "re": "RE8047009303A"
     }
   ]
 }
