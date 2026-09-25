@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-25T15:27:55-03:00",
+  "timestamp": "2026-09-25T15:37:12-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8140,
-      "ultima_verificacao": "2026-09-25T15:27:55-03:00"
+      "ultima_verificacao": "2026-09-25T15:37:12-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-25T15:27:55-03:00"
+      "ultima_verificacao": "2026-09-25T15:37:12-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-25T15:27:55-03:00"
+      "ultima_verificacao": "2026-09-25T15:37:12-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3907,
-      "ultima_verificacao": "2026-09-25T15:27:55-03:00"
+      "ultima_verificacao": "2026-09-25T15:37:12-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3405,
-      "ultima_verificacao": "2026-09-25T15:27:55-03:00"
+      "ultimo_numero": 3406,
+      "ultima_verificacao": "2026-09-25T15:37:12-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 982,
-      "ultima_verificacao": "2026-09-25T15:27:55-03:00"
+      "ultima_verificacao": "2026-09-25T15:37:12-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7227,
-      "ultima_verificacao": "2026-09-25T15:27:55-03:00"
+      "ultima_verificacao": "2026-09-25T15:37:12-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13059,
-      "ultima_verificacao": "2026-09-25T15:27:55-03:00"
+      "ultima_verificacao": "2026-09-25T15:37:12-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5042,
-      "ultima_verificacao": "2026-09-25T15:27:55-03:00"
+      "ultimo_numero": 5043,
+      "ultima_verificacao": "2026-09-25T15:37:12-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14377,
-      "ultima_verificacao": "2026-09-25T15:27:55-03:00"
+      "ultima_verificacao": "2026-09-25T15:37:12-03:00"
     }
   },
   "protocolos": {
@@ -4792,6 +4792,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003406A",
+        "RE": "RE8265002856A",
+        "numgEdificacao": 371105,
+        "Nome_Edificacao": "KURA BURGUER",
+        "Logradouro": "SENADOR ATILIO FONTANA",
+        "Numero": "412",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-25T15:37:12-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003405A",
         "RE": "RE8265002688A",
@@ -12325,6 +12336,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005043A",
+        "RE": "RE8221002469A",
+        "numgEdificacao": 246199,
+        "Nome_Edificacao": "Residencial Monte Carmelo",
+        "Logradouro": "R JORNALISTA ABDON FOES",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-25T15:37:12-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005042A",
         "RE": "RE8221003510A",
         "numgEdificacao": 320494,
@@ -18339,12 +18361,12 @@
     "Botuvera": 42,
     "Guabiruba": 71,
     "Gaspar": 141,
-    "Porto Belo": 124,
+    "Porto Belo": 125,
     "Nova Trento": 66,
     "Itapema": 180,
     "Blumenau": 314,
-    "Navegantes": 145,
+    "Navegantes": 146,
     "Itajai": 401
   },
-  "total_geral": 1660
+  "total_geral": 1662
 }
