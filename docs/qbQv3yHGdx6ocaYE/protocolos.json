@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-25T12:06:33-03:00",
+  "timestamp": "2026-09-25T12:16:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8139,
-      "ultima_verificacao": "2026-09-25T12:06:33-03:00"
+      "ultimo_numero": 8140,
+      "ultima_verificacao": "2026-09-25T12:16:26-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-25T12:06:33-03:00"
+      "ultima_verificacao": "2026-09-25T12:16:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-25T12:06:33-03:00"
+      "ultima_verificacao": "2026-09-25T12:16:26-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3907,
-      "ultima_verificacao": "2026-09-25T12:06:33-03:00"
+      "ultima_verificacao": "2026-09-25T12:16:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3405,
-      "ultima_verificacao": "2026-09-25T12:06:33-03:00"
+      "ultima_verificacao": "2026-09-25T12:16:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-25T12:06:33-03:00"
+      "ultima_verificacao": "2026-09-25T12:16:26-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7227,
-      "ultima_verificacao": "2026-09-25T12:06:33-03:00"
+      "ultima_verificacao": "2026-09-25T12:16:26-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13058,
-      "ultima_verificacao": "2026-09-25T12:06:33-03:00"
+      "ultima_verificacao": "2026-09-25T12:16:26-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5042,
-      "ultima_verificacao": "2026-09-25T12:06:33-03:00"
+      "ultima_verificacao": "2026-09-25T12:16:26-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14377,
-      "ultima_verificacao": "2026-09-25T12:06:33-03:00"
+      "ultima_verificacao": "2026-09-25T12:16:26-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008140A",
+        "RE": "RE8055001768A",
+        "numgEdificacao": 151388,
+        "Nome_Edificacao": "GUILHERME RAMOS SIEWERT",
+        "Logradouro": "JOÃO BAUER",
+        "Numero": "39",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-25T12:16:26-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008139A",
         "RE": "RE8055003294A",
@@ -18302,7 +18313,7 @@
     ]
   },
   "totais": {
-    "Brusque": 175,
+    "Brusque": 176,
     "Botuvera": 42,
     "Guabiruba": 71,
     "Gaspar": 141,
@@ -18313,5 +18324,5 @@
     "Navegantes": 145,
     "Itajai": 401
   },
-  "total_geral": 1657
+  "total_geral": 1658
 }
