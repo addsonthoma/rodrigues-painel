@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-25T15:40:21-03:00",
+  "timestamp": "2026-09-25T15:50:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1072,
+      "ultimo_numero": 1073,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T15:40:21-03:00"
+      "ultima_verificacao": "2026-09-25T15:50:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T15:40:21-03:00"
+      "ultima_verificacao": "2026-09-25T15:50:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T15:40:21-03:00"
+      "ultima_verificacao": "2026-09-25T15:50:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T15:40:21-03:00"
+      "ultima_verificacao": "2026-09-25T15:50:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 530,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T15:40:21-03:00"
+      "ultima_verificacao": "2026-09-25T15:50:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 583,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T15:40:21-03:00"
+      "ultima_verificacao": "2026-09-25T15:50:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1263,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T15:40:21-03:00"
+      "ultima_verificacao": "2026-09-25T15:50:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1241,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T15:40:21-03:00"
+      "ultima_verificacao": "2026-09-25T15:50:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 371,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T15:40:21-03:00"
+      "ultima_verificacao": "2026-09-25T15:50:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1265,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T15:40:21-03:00"
+      "ultima_verificacao": "2026-09-25T15:50:19-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001073A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000940A",
+        "Nome_Edificacao": "R&R INCORPORAÇÕES LTDA",
+        "Logradouro": "Rua Orvalho do Hermom",
+        "Numero": "115",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-25T15:50:19-03:00"
+      },
       {
         "CodigoAuto": "AF8055001072A/26",
         "Tipo": "AF",
@@ -33426,7 +33437,7 @@
     ]
   },
   "totais": {
-    "Brusque": 462,
+    "Brusque": 463,
     "Botuvera": 35,
     "Guabiruba": 45,
     "Gaspar": 241,
@@ -33437,5 +33448,5 @@
     "Navegantes": 167,
     "Itajai": 512
   },
-  "total_geral": 3031
+  "total_geral": 3032
 }
