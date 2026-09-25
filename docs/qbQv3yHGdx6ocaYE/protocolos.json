@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-25T09:56:32-03:00",
+  "timestamp": "2026-09-25T10:06:46-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8138,
-      "ultima_verificacao": "2026-09-25T09:56:32-03:00"
+      "ultima_verificacao": "2026-09-25T10:06:46-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-25T09:56:32-03:00"
+      "ultima_verificacao": "2026-09-25T10:06:46-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-25T09:56:32-03:00"
+      "ultima_verificacao": "2026-09-25T10:06:46-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3907,
-      "ultima_verificacao": "2026-09-25T09:56:32-03:00"
+      "ultima_verificacao": "2026-09-25T10:06:46-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3403,
-      "ultima_verificacao": "2026-09-25T09:56:32-03:00"
+      "ultimo_numero": 3405,
+      "ultima_verificacao": "2026-09-25T10:06:46-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 981,
-      "ultima_verificacao": "2026-09-25T09:56:32-03:00"
+      "ultima_verificacao": "2026-09-25T10:06:46-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7227,
-      "ultima_verificacao": "2026-09-25T09:56:32-03:00"
+      "ultima_verificacao": "2026-09-25T10:06:46-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13058,
-      "ultima_verificacao": "2026-09-25T09:56:32-03:00"
+      "ultima_verificacao": "2026-09-25T10:06:46-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5041,
-      "ultima_verificacao": "2026-09-25T09:56:32-03:00"
+      "ultimo_numero": 5042,
+      "ultima_verificacao": "2026-09-25T10:06:46-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14377,
-      "ultima_verificacao": "2026-09-25T09:56:32-03:00"
+      "ultima_verificacao": "2026-09-25T10:06:46-03:00"
     }
   },
   "protocolos": {
@@ -4770,6 +4770,28 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003405A",
+        "RE": "RE8265002688A",
+        "numgEdificacao": 353042,
+        "Nome_Edificacao": "NeoEdge",
+        "Logradouro": "Rua Sebastião Golçalves Filho",
+        "Numero": "669",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-25T10:06:46-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003404A",
+        "RE": "RE8265001942A",
+        "numgEdificacao": 255832,
+        "Nome_Edificacao": "Clara Palace Residence",
+        "Logradouro": "R. Virgínia Ledra Cavilha",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-25T10:06:46-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003403A",
         "RE": "RE8265002316A",
@@ -12259,6 +12281,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005042A",
+        "RE": "RE8221003510A",
+        "numgEdificacao": 320494,
+        "Nome_Edificacao": "Residencial Ilhas Gregas",
+        "Logradouro": "Rua Júlio Madruga Mendes",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-25T10:06:46-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005041A",
         "RE": "RE8221001054A",
         "numgEdificacao": 128202,
@@ -18262,12 +18295,12 @@
     "Botuvera": 42,
     "Guabiruba": 71,
     "Gaspar": 141,
-    "Porto Belo": 122,
+    "Porto Belo": 124,
     "Nova Trento": 65,
     "Itapema": 180,
     "Blumenau": 313,
-    "Navegantes": 144,
+    "Navegantes": 145,
     "Itajai": 401
   },
-  "total_geral": 1653
+  "total_geral": 1656
 }
