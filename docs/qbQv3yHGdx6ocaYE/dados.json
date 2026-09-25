@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-25T13:30:03-03:00",
+  "timestamp": "2026-09-25T13:40:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T13:30:03-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T13:30:03-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T13:30:03-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T13:30:03-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 123,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T13:30:03-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 153,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T13:30:03-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 217,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T13:30:03-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 269,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T13:30:03-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T13:30:03-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 477,
+      "ultimo_numero": 480,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-25T13:30:03-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:04-03:00"
     }
   },
   "multas": {
@@ -2583,6 +2583,36 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000478A/26",
+        "RE": "RE8161004000A",
+        "Nome_Edificacao": "RD REMARCAÇÕES",
+        "Logradouro": "Rua Hebert Kremer",
+        "Numero": "200",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-25T13:40:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000479A/26",
+        "RE": "RE8161005138A",
+        "Nome_Edificacao": "SILVANO MARCIO PEREIRA",
+        "Logradouro": "Rua Pedro Cristiano de Miranda",
+        "Numero": "1250",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-25T13:40:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000480A/26",
+        "RE": "RE8161008262A",
+        "Nome_Edificacao": "CAPRINI MOTORS COMERCIO DE VEICULOS LTDA",
+        "Logradouro": "RUA HEITOR LIBERATO",
+        "Numero": "2015",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-25T13:40:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000476A/26",
         "RE": "RE8161008394A",
@@ -7427,14 +7457,35 @@
     "Brusque": 74,
     "Gaspar": 41,
     "Guabiruba": 3,
-    "Itajai": 195,
+    "Itajai": 198,
     "Itapema": 100,
     "Navegantes": 60,
     "Nova Trento": 70,
     "Porto Belo": 66
   },
-  "total_geral": 746,
+  "total_geral": 749,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-25T13:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000480A/26",
+      "nome": "CAPRINI MOTORS COMERCIO DE VEICULOS LTDA",
+      "re": "RE8161008262A"
+    },
+    {
+      "ts": "2026-09-25T13:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000479A/26",
+      "nome": "SILVANO MARCIO PEREIRA",
+      "re": "RE8161005138A"
+    },
+    {
+      "ts": "2026-09-25T13:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000478A/26",
+      "nome": "RD REMARCAÇÕES",
+      "re": "RE8161004000A"
+    },
     {
       "ts": "2026-09-25T09:50:03-03:00",
       "cidade": "Porto Belo",

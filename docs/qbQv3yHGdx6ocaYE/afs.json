@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-25T13:30:19-03:00",
+  "timestamp": "2026-09-25T13:40:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1067,
+      "ultimo_numero": 1068,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T13:30:19-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:27-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T13:30:19-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T13:30:19-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:27-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T13:30:19-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 530,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T13:30:19-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 583,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T13:30:19-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:27-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1263,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T13:30:19-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:27-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1240,
+      "ultimo_numero": 1241,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T13:30:19-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:27-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 371,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T13:30:19-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:27-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1265,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-25T13:30:19-03:00"
+      "ultima_verificacao": "2026-09-25T13:40:27-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001068A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004389A",
+        "Nome_Edificacao": "EDIFICIO ALEXANDRE DOGNINI",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "8300",
+        "Bairro": "BRUSQUE - LIMOEIRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-25T13:40:27-03:00"
+      },
       {
         "CodigoAuto": "AF8055001067A/26",
         "Tipo": "AF",
@@ -20088,6 +20099,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001241A/26",
+        "Tipo": "AF",
+        "RE": "RE8047010733A",
+        "Nome_Edificacao": "TATIANA DOS SANTOS RUSSI",
+        "Logradouro": "Rua Mariana Bronnemann",
+        "Numero": "116",
+        "Bairro": "BLUMENAU - VELHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-25T13:40:27-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001240A/26",
         "Tipo": "AF",
         "RE": "RE8047012154A",
@@ -33360,16 +33382,16 @@
     ]
   },
   "totais": {
-    "Brusque": 457,
+    "Brusque": 458,
     "Botuvera": 35,
     "Guabiruba": 45,
     "Gaspar": 241,
     "Porto Belo": 239,
     "Nova Trento": 273,
     "Itapema": 529,
-    "Blumenau": 527,
+    "Blumenau": 528,
     "Navegantes": 167,
     "Itajai": 512
   },
-  "total_geral": 3025
+  "total_geral": 3027
 }
