@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-28T17:20:24-03:00",
+  "timestamp": "2026-09-28T19:02:11-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1076,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T17:20:24-03:00"
+      "ultima_verificacao": "2026-09-28T19:02:11-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T17:20:24-03:00"
+      "ultima_verificacao": "2026-09-28T19:02:11-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T17:20:24-03:00"
+      "ultima_verificacao": "2026-09-28T19:02:11-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 674,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T17:20:24-03:00"
+      "ultima_verificacao": "2026-09-28T19:02:11-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 531,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T17:20:24-03:00"
+      "ultima_verificacao": "2026-09-28T19:02:11-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 586,
+      "ultimo_numero": 587,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T17:20:24-03:00"
+      "ultima_verificacao": "2026-09-28T19:02:11-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1263,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T17:20:24-03:00"
+      "ultima_verificacao": "2026-09-28T19:02:11-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1252,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T17:20:24-03:00"
+      "ultima_verificacao": "2026-09-28T19:02:11-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 374,
+      "ultimo_numero": 376,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T17:20:24-03:00"
+      "ultima_verificacao": "2026-09-28T19:02:11-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1267,
+      "ultimo_numero": 1268,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T17:20:24-03:00"
+      "ultima_verificacao": "2026-09-28T19:02:11-03:00"
     }
   },
   "afs": {
@@ -11536,6 +11536,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000587A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000213A",
+        "Nome_Edificacao": "VALDIRENE MARIA DALLA BRIDA",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "4141",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-28T19:02:11-03:00"
+      },
       {
         "CodigoAuto": "AF8225000586A/26",
         "Tipo": "AF",
@@ -26327,6 +26338,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000376A/26",
+        "Tipo": "AF",
+        "RE": "RE8221002440A",
+        "Nome_Edificacao": "TANIA TRINTADE BENTO DOS SANTOS",
+        "Logradouro": "AV PREFEITO JOSE JUVENAL MAFRA - DE 6589/6590 A 7619/",
+        "Numero": "7196",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-28T19:02:11-03:00"
+      },
+      {
+        "CodigoAuto": "AF8221000375A/26",
+        "Tipo": "AF",
+        "RE": "RE8221001963A",
+        "Nome_Edificacao": "ROGERIO DA SILVA GOMES",
+        "Logradouro": "RUA ORLANDO FERREIRA",
+        "Numero": "2318",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-28T19:02:11-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000374A/26",
         "Tipo": "AF",
         "RE": "RE8221000393A",
@@ -28198,6 +28231,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "AF8161001268A/26",
+        "Tipo": "AF",
+        "RE": "RE8161001383A",
+        "Nome_Edificacao": "EEB Victor Meirelles",
+        "Logradouro": "Rua Gil Stein Ferreira",
+        "Numero": "318",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-28T19:02:11-03:00"
+      },
       {
         "CodigoAuto": "AF8161001267A/26",
         "Tipo": "AF",
@@ -33860,11 +33904,11 @@
     "Guabiruba": 45,
     "Gaspar": 256,
     "Porto Belo": 240,
-    "Nova Trento": 276,
+    "Nova Trento": 277,
     "Itapema": 529,
     "Blumenau": 539,
-    "Navegantes": 170,
-    "Itajai": 514
+    "Navegantes": 172,
+    "Itajai": 515
   },
-  "total_geral": 3070
+  "total_geral": 3074
 }

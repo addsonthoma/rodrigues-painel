@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-28T17:26:52-03:00",
+  "timestamp": "2026-09-28T19:08:53-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8141,
-      "ultima_verificacao": "2026-09-28T17:26:52-03:00"
+      "ultimo_numero": 8142,
+      "ultima_verificacao": "2026-09-28T19:08:53-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-28T17:26:52-03:00"
+      "ultima_verificacao": "2026-09-28T19:08:53-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-28T17:26:52-03:00"
+      "ultima_verificacao": "2026-09-28T19:08:53-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3908,
-      "ultima_verificacao": "2026-09-28T17:26:52-03:00"
+      "ultima_verificacao": "2026-09-28T19:08:53-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3411,
-      "ultima_verificacao": "2026-09-28T17:26:52-03:00"
+      "ultima_verificacao": "2026-09-28T19:08:53-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 982,
-      "ultima_verificacao": "2026-09-28T17:26:52-03:00"
+      "ultima_verificacao": "2026-09-28T19:08:53-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7230,
-      "ultima_verificacao": "2026-09-28T17:26:52-03:00"
+      "ultima_verificacao": "2026-09-28T19:08:53-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13065,
-      "ultima_verificacao": "2026-09-28T17:26:52-03:00"
+      "ultimo_numero": 13067,
+      "ultima_verificacao": "2026-09-28T19:08:53-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5048,
-      "ultima_verificacao": "2026-09-28T17:26:52-03:00"
+      "ultima_verificacao": "2026-09-28T19:08:53-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14380,
-      "ultima_verificacao": "2026-09-28T17:26:52-03:00"
+      "ultima_verificacao": "2026-09-28T19:08:53-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008142A",
+        "RE": "RE8055006844A",
+        "numgEdificacao": 371210,
+        "Nome_Edificacao": "RAISER IMOVEIS E CONSTRUTORA LTDA",
+        "Logradouro": "Rua 100",
+        "Numero": "125",
+        "Bairro": "BRUSQUE - São João",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-28T19:08:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008141A",
         "RE": "RE8055006843A",
@@ -8989,6 +9000,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013067A",
+        "RE": "RE8047001554A",
+        "numgEdificacao": 71681,
+        "Nome_Edificacao": "NILTON KLOPPEL",
+        "Logradouro": "Rua República Argentina",
+        "Numero": "2655",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-28T19:08:53-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013066A",
+        "RE": "RE8047001554A",
+        "numgEdificacao": 71681,
+        "Nome_Edificacao": "NILTON KLOPPEL",
+        "Logradouro": "Rua República Argentina",
+        "Numero": "2655",
+        "Bairro": "BLUMENAU - PONTA AGUDA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-28T19:08:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013065A",
         "RE": "RE8047002180A",
@@ -18621,16 +18654,16 @@
     ]
   },
   "totais": {
-    "Brusque": 177,
+    "Brusque": 178,
     "Botuvera": 42,
     "Guabiruba": 71,
     "Gaspar": 142,
     "Porto Belo": 130,
     "Nova Trento": 66,
     "Itapema": 183,
-    "Blumenau": 320,
+    "Blumenau": 322,
     "Navegantes": 151,
     "Itajai": 404
   },
-  "total_geral": 1686
+  "total_geral": 1689
 }
