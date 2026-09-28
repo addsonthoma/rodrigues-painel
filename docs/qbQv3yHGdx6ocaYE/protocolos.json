@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-28T10:27:51-03:00",
+  "timestamp": "2026-09-28T10:37:32-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8140,
-      "ultima_verificacao": "2026-09-28T10:27:51-03:00"
+      "ultima_verificacao": "2026-09-28T10:37:32-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-28T10:27:51-03:00"
+      "ultima_verificacao": "2026-09-28T10:37:32-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-28T10:27:51-03:00"
+      "ultima_verificacao": "2026-09-28T10:37:32-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3907,
-      "ultima_verificacao": "2026-09-28T10:27:51-03:00"
+      "ultima_verificacao": "2026-09-28T10:37:32-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3406,
-      "ultima_verificacao": "2026-09-28T10:27:51-03:00"
+      "ultimo_numero": 3407,
+      "ultima_verificacao": "2026-09-28T10:37:32-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 982,
-      "ultima_verificacao": "2026-09-28T10:27:51-03:00"
+      "ultima_verificacao": "2026-09-28T10:37:32-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7228,
-      "ultima_verificacao": "2026-09-28T10:27:51-03:00"
+      "ultima_verificacao": "2026-09-28T10:37:32-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13061,
-      "ultima_verificacao": "2026-09-28T10:27:51-03:00"
+      "ultima_verificacao": "2026-09-28T10:37:32-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5046,
-      "ultima_verificacao": "2026-09-28T10:27:51-03:00"
+      "ultima_verificacao": "2026-09-28T10:37:32-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14379,
-      "ultima_verificacao": "2026-09-28T10:27:51-03:00"
+      "ultima_verificacao": "2026-09-28T10:37:32-03:00"
     }
   },
   "protocolos": {
@@ -4792,6 +4792,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003407A",
+        "RE": "RE8265001191A",
+        "numgEdificacao": 157583,
+        "Nome_Edificacao": "SEGER CONSTRUTORA E INCORPORADORA LTDA",
+        "Logradouro": "AVENIDA SENADOR ATILIO FONTANA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-28T10:37:32-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003406A",
         "RE": "RE8265002856A",
@@ -18449,12 +18460,12 @@
     "Botuvera": 42,
     "Guabiruba": 71,
     "Gaspar": 141,
-    "Porto Belo": 125,
+    "Porto Belo": 126,
     "Nova Trento": 66,
     "Itapema": 181,
     "Blumenau": 316,
     "Navegantes": 149,
     "Itajai": 403
   },
-  "total_geral": 1670
+  "total_geral": 1671
 }
