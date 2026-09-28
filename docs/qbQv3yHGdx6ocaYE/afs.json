@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-28T14:50:29-03:00",
+  "timestamp": "2026-09-28T15:10:22-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1075,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T14:50:29-03:00"
+      "ultima_verificacao": "2026-09-28T15:10:22-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T14:50:29-03:00"
+      "ultima_verificacao": "2026-09-28T15:10:22-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T14:50:29-03:00"
+      "ultima_verificacao": "2026-09-28T15:10:22-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 674,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T14:50:29-03:00"
+      "ultima_verificacao": "2026-09-28T15:10:22-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 531,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T14:50:29-03:00"
+      "ultima_verificacao": "2026-09-28T15:10:22-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 584,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T14:50:29-03:00"
+      "ultima_verificacao": "2026-09-28T15:10:22-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1263,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T14:50:29-03:00"
+      "ultima_verificacao": "2026-09-28T15:10:22-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1250,
+      "ultimo_numero": 1251,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T14:50:29-03:00"
+      "ultima_verificacao": "2026-09-28T15:10:22-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 374,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T14:50:29-03:00"
+      "ultima_verificacao": "2026-09-28T15:10:22-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1267,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T14:50:29-03:00"
+      "ultima_verificacao": "2026-09-28T15:10:22-03:00"
     }
   },
   "afs": {
@@ -20363,6 +20363,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001251A/26",
+        "Tipo": "AF",
+        "RE": "RE8047004067A",
+        "Nome_Edificacao": "MARLETE LURDES",
+        "Logradouro": "Rua Fritz Spernau",
+        "Numero": "1025",
+        "Bairro": "BLUMENAU - FORTALEZA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-28T15:10:22-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001250A/26",
         "Tipo": "AF",
         "RE": "RE8047009740A",
@@ -33807,9 +33818,9 @@
     "Porto Belo": 240,
     "Nova Trento": 274,
     "Itapema": 529,
-    "Blumenau": 537,
+    "Blumenau": 538,
     "Navegantes": 170,
     "Itajai": 514
   },
-  "total_geral": 3065
+  "total_geral": 3066
 }
