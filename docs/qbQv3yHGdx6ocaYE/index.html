@@ -53,6 +53,9 @@
  #f-limpar{background:#34343f;color:var(--text);border:none;border-radius:8px;padding:8px 14px;cursor:pointer;font-size:13px}
  #f-limpar:hover{background:#44444f}
  #f-resultado{font-size:14px;color:var(--ok);font-weight:700;white-space:nowrap}
+ #f-area-livre{width:110px;background:#0d0d10;border:1px solid #34343f;border-radius:20px;color:#f5f5f7;padding:5px 11px;font-size:13px;font-family:inherit}
+ #f-area-livre:focus{outline:none;border-color:var(--ok)}
+ #f-area-info{font-size:12px;color:var(--muted)}
  .expandir-wrap{display:flex;gap:8px;margin-top:8px;flex-wrap:wrap}
  .btn-expandir{flex:1;background:rgba(74,158,255,0.14);color:var(--af);border:1px solid var(--af);border-radius:8px;padding:7px 14px;cursor:pointer;font-size:13px;font-weight:600}
  .btn-expandir:hover{background:var(--af);color:#fff}
@@ -175,6 +178,9 @@
   </div>
   <div class="filtro-grupo"><span class="filtro-lbl">Cidade</span><span id="f-cidades"></span></div>
   <div class="filtro-grupo"><span class="filtro-lbl">Pendência</span><span id="f-categorias"></span></div>
+  <div class="filtro-grupo"><span class="filtro-lbl">Área m²</span><span id="f-areas"></span>
+   <input id="f-area-livre" type="number" min="0" step="100" placeholder="ou digite…" onkeydown="if(event.key==='Enter')setAreaMin(this.value)" onchange="setAreaMin(this.value)">
+   <span id="f-area-info"></span></div>
  </div>
  <div id="scroll-area"><div id="grid"><div class="empty-state">Carregando...</div></div></div>
  <footer>
@@ -196,6 +202,25 @@ let lastFetchOk = null;
 let filtroCidades = new Set();
 let filtroCategorias = new Set();
 let filtroTexto = "";
+// filtro por METRAGEM (m2). Fica salvo no navegador p/ sobreviver ao refresh de 60s.
+let areaMin = Number(localStorage.getItem("f_area_min") || 0) || 0;
+let ocultosSemArea = 0;
+const AREAS_PRESET = [500, 1000, 2000, 5000, 10000];
+// a area vem como numero OU string ("50.97" = ponto decimal; "1.234,56" = pt-BR)
+function areaNum(v){
+  if(v === null || v === undefined || v === "") return null;
+  if(typeof v === "number") return isFinite(v) ? v : null;
+  let t = String(v).trim();
+  if(t.includes(",")) t = t.replace(/\./g, "").replace(",", ".");
+  const n = parseFloat(t);
+  return isFinite(n) ? n : null;
+}
+function passaArea(v){                 // true = mostra
+  if(!areaMin) return true;
+  const a = areaNum(v);
+  if(a === null){ ocultosSemArea++; return false; }   // sem m2 informado
+  return a >= areaMin;
+}
 const CATEGORIAS_PEND = {
   "Projeto/PPCI": ["projeto","ppci","preventivo","enquadr"],
   "RPCI": ["rpci"],
@@ -208,9 +233,10 @@ const CATEGORIAS_PEND = {
   "Documentos": ["documento"]
 };
 function normf(s){ return (s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase(); }
-function filtroAtivo(){ return filtroCidades.size>0 || filtroCategorias.size>0 || filtroTexto.length>0; }
+function filtroAtivo(){ return filtroCidades.size>0 || filtroCategorias.size>0 || filtroTexto.length>0 || areaMin>0; }
 function itemPassaPend(item, drill){
   const d = drill[item.CodigoAuto];
+  if(!passaArea(d ? d.areaTotal : null)) return false;
   const exigStr = d ? ((d.exigencias||[]).join(" ")+" "+(d.nota||"")) : "";
   if(filtroCategorias.size){
     const en = normf(exigStr);
@@ -232,11 +258,28 @@ function construirChips(){
   if(vendedorAtivo) cids = cids.filter(c=>(VENDEDORES[vendedorAtivo]||[]).includes(c));
   document.getElementById("f-cidades").innerHTML = cids.map(c=>`<span class="chip cidade-chip${filtroCidades.has(c)?' on':''}" onclick="toggleCidade('${c.replace(/'/g,"\\'")}')">${c}</span>`).join("");
   document.getElementById("f-categorias").innerHTML = Object.keys(CATEGORIAS_PEND).map(cat=>`<span class="chip${filtroCategorias.has(cat)?' on':''}" onclick="toggleCategoria('${cat.replace(/'/g,"\\'")}')">${cat}</span>`).join("");
+  const ar=document.getElementById("f-areas");
+  if(ar) ar.innerHTML = `<span class="chip${areaMin?'':' on'}" onclick="setAreaMin(0)">Todas</span>`
+    + AREAS_PRESET.map(v=>`<span class="chip${areaMin===v?' on':''}" onclick="setAreaMin(${v})">${v.toLocaleString('pt-BR')}+</span>`).join("")
+    + (areaMin && !AREAS_PRESET.includes(areaMin) ? `<span class="chip on">${areaMin.toLocaleString('pt-BR')}+</span>` : "");
+  const li=document.getElementById("f-area-livre");
+  if(li && !AREAS_PRESET.includes(areaMin)) li.value = areaMin || "";
+}
+function setAreaMin(v){
+  areaMin = Math.max(0, Number(v) || 0);
+  try{ areaMin ? localStorage.setItem("f_area_min", areaMin) : localStorage.removeItem("f_area_min"); }catch(e){}
+  const li=document.getElementById("f-area-livre");
+  if(li && AREAS_PRESET.includes(areaMin)) li.value = "";
+  construirChips(); aplicarFiltro();
 }
 function toggleCidade(c){ filtroCidades.has(c)?filtroCidades.delete(c):filtroCidades.add(c); construirChips(); aplicarFiltro(); }
 function toggleCategoria(cat){ filtroCategorias.has(cat)?filtroCategorias.delete(cat):filtroCategorias.add(cat); construirChips(); aplicarFiltro(); }
 function setTextoFiltro(v){ filtroTexto=(v||"").trim(); aplicarFiltro(); }
-function limparFiltros(){ filtroCidades.clear(); filtroCategorias.clear(); filtroTexto=""; const t=document.getElementById("f-texto"); if(t) t.value=""; construirChips(); aplicarFiltro(); }
+function limparFiltros(){ filtroCidades.clear(); filtroCategorias.clear(); filtroTexto=""; areaMin=0;
+  try{ localStorage.removeItem("f_area_min"); }catch(e){}
+  const t=document.getElementById("f-texto"); if(t) t.value="";
+  const a=document.getElementById("f-area-livre"); if(a) a.value="";
+  construirChips(); aplicarFiltro(); }
 function aplicarFiltro(){ document.getElementById("btn-filtros").classList.toggle("ativo", filtroAtivo()); render(); }
 
 // === EXPANDIR AFs (ver mais que os 15 recentes, de 15 em 15, do historico) ===
@@ -496,7 +539,8 @@ function render(){
   let cidadesView = cidades;
   if(filtroCidades.size) cidadesView = cidadesView.filter(c=>filtroCidades.has(c));
   const capStatusOn = (window.modoCaptacao && window.filtroStatus && window.filtroStatus.size>0);
-  const filtrarItens = filtroCategorias.size>0 || filtroTexto.length>0 || capStatusOn;
+  const filtrarItens = filtroCategorias.size>0 || filtroTexto.length>0 || capStatusOn || areaMin>0;
+  ocultosSemArea = 0;
   let totalRes = 0;
   const html = cidadesView.map(cid=>{
     let muls = ((dadosMul.multas && dadosMul.multas[cid]) || []).filter(itemPassaAba);
@@ -548,6 +592,7 @@ function render(){
   grid.innerHTML = html || '<div class="empty-state">Nenhum resultado para os filtros selecionados.</div>';
   const fr = document.getElementById("f-resultado");
   if(fr) fr.textContent = filtroAtivo() ? (totalRes + " resultado" + (totalRes===1?"":"s")) : "";
+  mostrarInfoArea();
 
   // detectar novos -> banner
   if(!primeiraCarga){
@@ -971,9 +1016,11 @@ function renderProtocolos(){
   const grid=document.getElementById("grid");
   if(!cidsView.length){ grid.innerHTML='<div class="empty-state">Sem protocolos carregados ainda. (rode o coletor de protocolos)</div>'; return; }
   const q = filtroTexto?normf(filtroTexto):"";
+  ocultosSemArea = 0;
   let totalRes=0;
   const html = cidsView.map(cid=>{
     let lst = (proto[cid]||[]).filter(itemPassaAba);
+    if(areaMin) lst = lst.filter(p=>passaArea(p.area));
     if(q) lst=lst.filter(p=>normf((p.Nome_Edificacao||'')+' '+(p.CodigoProtocolo||'')+' '+(p.Logradouro||'')+' '+(p.situacao||'')).includes(q));
     if(window.modoCaptacao && window.filtroStatus.size) lst=lst.filter(p=>itemPassaStatus(p));
     if(!lst.length) return "";
@@ -990,6 +1037,15 @@ function renderProtocolos(){
   grid.innerHTML = html || '<div class="empty-state">Nenhum protocolo para os filtros.</div>';
   const fr=document.getElementById("f-resultado");
   if(fr) fr.textContent = filtroAtivo()?(totalRes+" resultado"+(totalRes===1?"":"s")):"";
+  mostrarInfoArea();
+}
+function mostrarInfoArea(){
+  // mantem o botao "Filtros" aceso mesmo apos recarregar a pagina (o m2 fica salvo)
+  const b=document.getElementById("btn-filtros"); if(b) b.classList.toggle("ativo", filtroAtivo());
+  const el=document.getElementById("f-area-info"); if(!el) return;
+  el.textContent = areaMin
+    ? `≥ ${areaMin.toLocaleString('pt-BR')} m²${ocultosSemArea?` · ${ocultosSemArea} sem m² informado (ocultos)`:""}`
+    : "";
 }
 </script>
 
