@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-28T15:17:58-03:00",
+  "timestamp": "2026-09-28T15:27:45-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8141,
-      "ultima_verificacao": "2026-09-28T15:17:58-03:00"
+      "ultima_verificacao": "2026-09-28T15:27:45-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-28T15:17:58-03:00"
+      "ultima_verificacao": "2026-09-28T15:27:45-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-28T15:17:58-03:00"
+      "ultima_verificacao": "2026-09-28T15:27:45-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3907,
-      "ultima_verificacao": "2026-09-28T15:17:58-03:00"
+      "ultima_verificacao": "2026-09-28T15:27:45-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3409,
-      "ultima_verificacao": "2026-09-28T15:17:58-03:00"
+      "ultimo_numero": 3410,
+      "ultima_verificacao": "2026-09-28T15:27:45-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 982,
-      "ultima_verificacao": "2026-09-28T15:17:58-03:00"
+      "ultima_verificacao": "2026-09-28T15:27:45-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7230,
-      "ultima_verificacao": "2026-09-28T15:17:58-03:00"
+      "ultima_verificacao": "2026-09-28T15:27:45-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13064,
-      "ultima_verificacao": "2026-09-28T15:17:58-03:00"
+      "ultimo_numero": 13065,
+      "ultima_verificacao": "2026-09-28T15:27:45-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5046,
-      "ultima_verificacao": "2026-09-28T15:17:58-03:00"
+      "ultima_verificacao": "2026-09-28T15:27:45-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14379,
-      "ultima_verificacao": "2026-09-28T15:17:58-03:00"
+      "ultima_verificacao": "2026-09-28T15:27:45-03:00"
     }
   },
   "protocolos": {
@@ -4804,6 +4804,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003410A",
+        "RE": "RE8265002858A",
+        "numgEdificacao": 371188,
+        "Nome_Edificacao": "PREFEITURA MUNICIPAL DE PORTO BELO",
+        "Logradouro": "RUA RIO PEREQUEZINHO",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-28T15:27:45-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003409A",
         "RE": "RE8265002857A",
         "numgEdificacao": 371181,
@@ -8956,6 +8967,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013065A",
+        "RE": "RE8047002180A",
+        "numgEdificacao": 110946,
+        "Nome_Edificacao": "SOCIEDADE BENEFICENTE MISERICORDIA DA VILA ITOUPAVA",
+        "Logradouro": "Rua Max Haufe",
+        "Numero": "211",
+        "Bairro": "BLUMENAU - VILA ITOUPAVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-28T15:27:45-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013064A",
         "RE": "RE8047008891A",
@@ -18548,12 +18570,12 @@
     "Botuvera": 42,
     "Guabiruba": 71,
     "Gaspar": 141,
-    "Porto Belo": 128,
+    "Porto Belo": 129,
     "Nova Trento": 66,
     "Itapema": 183,
-    "Blumenau": 319,
+    "Blumenau": 320,
     "Navegantes": 149,
     "Itajai": 403
   },
-  "total_geral": 1679
+  "total_geral": 1681
 }
