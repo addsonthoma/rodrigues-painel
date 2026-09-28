@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-25T16:26:30-03:00",
+  "timestamp": "2026-09-28T08:15:35-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8140,
-      "ultima_verificacao": "2026-09-25T16:26:30-03:00"
+      "ultima_verificacao": "2026-09-28T08:15:35-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-25T16:26:30-03:00"
+      "ultima_verificacao": "2026-09-28T08:15:35-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-25T16:26:30-03:00"
+      "ultima_verificacao": "2026-09-28T08:15:35-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3907,
-      "ultima_verificacao": "2026-09-25T16:26:30-03:00"
+      "ultima_verificacao": "2026-09-28T08:15:35-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3406,
-      "ultima_verificacao": "2026-09-25T16:26:30-03:00"
+      "ultima_verificacao": "2026-09-28T08:15:35-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 982,
-      "ultima_verificacao": "2026-09-25T16:26:30-03:00"
+      "ultima_verificacao": "2026-09-28T08:15:35-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7227,
-      "ultima_verificacao": "2026-09-25T16:26:30-03:00"
+      "ultimo_numero": 7228,
+      "ultima_verificacao": "2026-09-28T08:15:35-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13059,
-      "ultima_verificacao": "2026-09-25T16:26:30-03:00"
+      "ultimo_numero": 13061,
+      "ultima_verificacao": "2026-09-28T08:15:35-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5043,
-      "ultima_verificacao": "2026-09-25T16:26:30-03:00"
+      "ultimo_numero": 5046,
+      "ultima_verificacao": "2026-09-28T08:15:35-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14377,
-      "ultima_verificacao": "2026-09-25T16:26:30-03:00"
+      "ultimo_numero": 14379,
+      "ultima_verificacao": "2026-09-28T08:15:35-03:00"
     }
   },
   "protocolos": {
@@ -6898,6 +6898,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007228A",
+        "RE": "RE8163006896A",
+        "numgEdificacao": 371124,
+        "Nome_Edificacao": "SUPREMACY N1",
+        "Logradouro": "AVENIDA NEREU RAMOS",
+        "Numero": "3388",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-28T08:15:35-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007227A",
         "RE": "RE8163006588A",
         "numgEdificacao": 350311,
@@ -8879,6 +8890,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013061A",
+        "RE": "RE8047012060A",
+        "numgEdificacao": 366349,
+        "Nome_Edificacao": "ZELIA FILGUEIRAS",
+        "Logradouro": "Rua Theodoro Holtrup",
+        "Numero": "313",
+        "Bairro": "BLUMENAU - Vila Nova",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-28T08:15:35-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013060A",
+        "RE": "RE8047005716A",
+        "numgEdificacao": 172739,
+        "Nome_Edificacao": "EDEMAR GONÇALVES",
+        "Logradouro": "R JOSE REUTER",
+        "Numero": "1099",
+        "Bairro": "BLUMENAU - VELHA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-28T08:15:35-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013059A",
         "RE": "RE8047012180A",
@@ -12336,6 +12369,39 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005046A",
+        "RE": "RE8221004160A",
+        "numgEdificacao": 371135,
+        "Nome_Edificacao": "SEANET NAVEGANTES",
+        "Logradouro": "AV. JOAQUIM COUTO",
+        "Numero": "147",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-28T08:15:35-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005045A",
+        "RE": "RE8221004076A",
+        "numgEdificacao": 362956,
+        "Nome_Edificacao": "TERRENO",
+        "Logradouro": "AVENIDA PREFEITO JOSÉ JUVENAL MAFRA",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-28T08:15:35-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005044A",
+        "RE": "RE8221003024A",
+        "numgEdificacao": 282787,
+        "Nome_Edificacao": "Residencial Puerto Natales",
+        "Logradouro": "R MARIA LOPES BORBA",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-28T08:15:35-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005043A",
         "RE": "RE8221002469A",
         "numgEdificacao": 246199,
@@ -13943,6 +14009,28 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014379A",
+        "RE": "RE8161013896A",
+        "numgEdificacao": 370412,
+        "Nome_Edificacao": "CEI PROFESSORA GISELE KAWIKIONI",
+        "Logradouro": "Rua Henrique Bianchini",
+        "Numero": "677",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-28T08:15:35-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014378A",
+        "RE": "RE8161004383A",
+        "numgEdificacao": 136153,
+        "Nome_Edificacao": "VERA LÚCIA PAULO DE BORBA",
+        "Logradouro": "R ESTEFANO JOSE VANOLLI",
+        "Numero": "1289",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-28T08:15:35-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014377A",
         "RE": "RE8161013906A",
@@ -18363,10 +18451,10 @@
     "Gaspar": 141,
     "Porto Belo": 125,
     "Nova Trento": 66,
-    "Itapema": 180,
-    "Blumenau": 314,
-    "Navegantes": 146,
-    "Itajai": 401
+    "Itapema": 181,
+    "Blumenau": 316,
+    "Navegantes": 149,
+    "Itajai": 403
   },
-  "total_geral": 1662
+  "total_geral": 1670
 }
