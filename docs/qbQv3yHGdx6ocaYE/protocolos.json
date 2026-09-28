@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-28T14:38:43-03:00",
+  "timestamp": "2026-09-28T15:03:36-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8141,
-      "ultima_verificacao": "2026-09-28T14:38:43-03:00"
+      "ultima_verificacao": "2026-09-28T15:03:36-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-28T14:38:43-03:00"
+      "ultima_verificacao": "2026-09-28T15:03:36-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-28T14:38:43-03:00"
+      "ultima_verificacao": "2026-09-28T15:03:36-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3907,
-      "ultima_verificacao": "2026-09-28T14:38:43-03:00"
+      "ultima_verificacao": "2026-09-28T15:03:36-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3407,
-      "ultima_verificacao": "2026-09-28T14:38:43-03:00"
+      "ultimo_numero": 3409,
+      "ultima_verificacao": "2026-09-28T15:03:36-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 982,
-      "ultima_verificacao": "2026-09-28T14:38:43-03:00"
+      "ultima_verificacao": "2026-09-28T15:03:36-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7229,
-      "ultima_verificacao": "2026-09-28T14:38:43-03:00"
+      "ultimo_numero": 7230,
+      "ultima_verificacao": "2026-09-28T15:03:36-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13062,
-      "ultima_verificacao": "2026-09-28T14:38:43-03:00"
+      "ultimo_numero": 13064,
+      "ultima_verificacao": "2026-09-28T15:03:36-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5046,
-      "ultima_verificacao": "2026-09-28T14:38:43-03:00"
+      "ultima_verificacao": "2026-09-28T15:03:36-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14379,
-      "ultima_verificacao": "2026-09-28T14:38:43-03:00"
+      "ultima_verificacao": "2026-09-28T15:03:36-03:00"
     }
   },
   "protocolos": {
@@ -4804,6 +4804,28 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003409A",
+        "RE": "RE8265002857A",
+        "numgEdificacao": 371181,
+        "Nome_Edificacao": "PREFEITURA MUNICIPAL DE PORTO BELO",
+        "Logradouro": "AVENIDA SENADOR ATILIO FONTANA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-28T15:03:36-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003408A",
+        "RE": "RE8265002857A",
+        "numgEdificacao": 371181,
+        "Nome_Edificacao": "PREFEITURA MUNICIPAL DE PORTO BELO",
+        "Logradouro": "AVENIDA SENADOR ATILIO FONTANA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-28T15:03:36-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003407A",
         "RE": "RE8265001191A",
         "numgEdificacao": 157583,
@@ -6920,6 +6942,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007230A",
+        "RE": "RE8163006899A",
+        "numgEdificacao": 371180,
+        "Nome_Edificacao": "Xis e prosa",
+        "Logradouro": "AVENIDA NEREU RAMOS",
+        "Numero": "4600",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-28T15:03:36-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007229A",
         "RE": "RE8163005962A",
         "numgEdificacao": 298636,
@@ -8923,6 +8956,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013064A",
+        "RE": "RE8047008891A",
+        "numgEdificacao": 253346,
+        "Nome_Edificacao": "RENATO LUIS PABST",
+        "Logradouro": "Rua Benjamin Constant",
+        "Numero": "2253",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-28T15:03:36-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013063A",
+        "RE": "RE8047002467A",
+        "numgEdificacao": 116498,
+        "Nome_Edificacao": "GILSON ANTÔNIO MORAES",
+        "Logradouro": "Rua Victor Voigt",
+        "Numero": "35",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-28T15:03:36-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013062A",
         "RE": "RE8047003756A",
@@ -18493,12 +18548,12 @@
     "Botuvera": 42,
     "Guabiruba": 71,
     "Gaspar": 141,
-    "Porto Belo": 126,
+    "Porto Belo": 128,
     "Nova Trento": 66,
-    "Itapema": 182,
-    "Blumenau": 317,
+    "Itapema": 183,
+    "Blumenau": 319,
     "Navegantes": 149,
     "Itajai": 403
   },
-  "total_geral": 1674
+  "total_geral": 1679
 }
