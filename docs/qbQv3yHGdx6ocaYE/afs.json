@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-28T13:00:25-03:00",
+  "timestamp": "2026-09-28T13:10:25-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1074,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:00:25-03:00"
+      "ultima_verificacao": "2026-09-28T13:10:25-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:00:25-03:00"
+      "ultima_verificacao": "2026-09-28T13:10:25-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:00:25-03:00"
+      "ultima_verificacao": "2026-09-28T13:10:25-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 674,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:00:25-03:00"
+      "ultima_verificacao": "2026-09-28T13:10:25-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 531,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:00:25-03:00"
+      "ultima_verificacao": "2026-09-28T13:10:25-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 584,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:00:25-03:00"
+      "ultima_verificacao": "2026-09-28T13:10:25-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1263,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:00:25-03:00"
+      "ultima_verificacao": "2026-09-28T13:10:25-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1248,
+      "ultimo_numero": 1249,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:00:25-03:00"
+      "ultima_verificacao": "2026-09-28T13:10:25-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 373,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:00:25-03:00"
+      "ultima_verificacao": "2026-09-28T13:10:25-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1267,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:00:25-03:00"
+      "ultima_verificacao": "2026-09-28T13:10:25-03:00"
     }
   },
   "afs": {
@@ -20352,6 +20352,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001249A/26",
+        "Tipo": "AF",
+        "RE": "RE8047001706A",
+        "Nome_Edificacao": "CASARAO PET",
+        "Logradouro": "Rua Francisco Corrêa",
+        "Numero": "433",
+        "Bairro": "BLUMENAU - TESTO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-28T13:10:25-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001248A/26",
         "Tipo": "AF",
         "RE": "RE8047011528A",
@@ -33763,9 +33774,9 @@
     "Porto Belo": 240,
     "Nova Trento": 274,
     "Itapema": 529,
-    "Blumenau": 535,
+    "Blumenau": 536,
     "Navegantes": 169,
     "Itajai": 514
   },
-  "total_geral": 3061
+  "total_geral": 3062
 }
