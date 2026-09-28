@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-28T13:58:33-03:00",
+  "timestamp": "2026-09-28T14:19:11-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8140,
-      "ultima_verificacao": "2026-09-28T13:58:33-03:00"
+      "ultimo_numero": 8141,
+      "ultima_verificacao": "2026-09-28T14:19:11-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-28T13:58:33-03:00"
+      "ultima_verificacao": "2026-09-28T14:19:11-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-28T13:58:33-03:00"
+      "ultima_verificacao": "2026-09-28T14:19:11-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3907,
-      "ultima_verificacao": "2026-09-28T13:58:33-03:00"
+      "ultima_verificacao": "2026-09-28T14:19:11-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3407,
-      "ultima_verificacao": "2026-09-28T13:58:33-03:00"
+      "ultima_verificacao": "2026-09-28T14:19:11-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 982,
-      "ultima_verificacao": "2026-09-28T13:58:33-03:00"
+      "ultima_verificacao": "2026-09-28T14:19:11-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7229,
-      "ultima_verificacao": "2026-09-28T13:58:33-03:00"
+      "ultima_verificacao": "2026-09-28T14:19:11-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13062,
-      "ultima_verificacao": "2026-09-28T13:58:33-03:00"
+      "ultima_verificacao": "2026-09-28T14:19:11-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5046,
-      "ultima_verificacao": "2026-09-28T13:58:33-03:00"
+      "ultima_verificacao": "2026-09-28T14:19:11-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14379,
-      "ultima_verificacao": "2026-09-28T13:58:33-03:00"
+      "ultima_verificacao": "2026-09-28T14:19:11-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008141A",
+        "RE": "RE8055006843A",
+        "numgEdificacao": 371152,
+        "Nome_Edificacao": "Grasiela Back",
+        "Logradouro": "Rua Orgino Domingos Francisco Filho",
+        "Numero": "100",
+        "Bairro": "BRUSQUE - Limeira Baixa",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-28T14:19:11-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008140A",
         "RE": "RE8055001768A",
@@ -18478,7 +18489,7 @@
     ]
   },
   "totais": {
-    "Brusque": 176,
+    "Brusque": 177,
     "Botuvera": 42,
     "Guabiruba": 71,
     "Gaspar": 141,
@@ -18489,5 +18500,5 @@
     "Navegantes": 149,
     "Itajai": 403
   },
-  "total_geral": 1673
+  "total_geral": 1674
 }
