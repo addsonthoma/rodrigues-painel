@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-28T13:30:23-03:00",
+  "timestamp": "2026-09-28T13:50:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1075,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:30:23-03:00"
+      "ultima_verificacao": "2026-09-28T13:50:34-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 35,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:30:23-03:00"
+      "ultima_verificacao": "2026-09-28T13:50:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:30:23-03:00"
+      "ultima_verificacao": "2026-09-28T13:50:34-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 674,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:30:23-03:00"
+      "ultima_verificacao": "2026-09-28T13:50:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 531,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:30:23-03:00"
+      "ultima_verificacao": "2026-09-28T13:50:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 584,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:30:23-03:00"
+      "ultima_verificacao": "2026-09-28T13:50:34-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1263,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:30:23-03:00"
+      "ultima_verificacao": "2026-09-28T13:50:34-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1249,
+      "ultimo_numero": 1250,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:30:23-03:00"
+      "ultima_verificacao": "2026-09-28T13:50:34-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 373,
+      "ultimo_numero": 374,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:30:23-03:00"
+      "ultima_verificacao": "2026-09-28T13:50:34-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1267,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-28T13:30:23-03:00"
+      "ultima_verificacao": "2026-09-28T13:50:34-03:00"
     }
   },
   "afs": {
@@ -20363,6 +20363,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001250A/26",
+        "Tipo": "AF",
+        "RE": "RE8047009740A",
+        "Nome_Edificacao": "EBM Bilíngue Prof Fernando Ostermann",
+        "Logradouro": "Rua Otto Stutzer",
+        "Numero": "43",
+        "Bairro": "BLUMENAU - BOA VISTA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-28T13:50:34-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001249A/26",
         "Tipo": "AF",
         "RE": "RE8047001706A",
@@ -26260,6 +26271,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoAuto": "AF8221000374A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000393A",
+        "Nome_Edificacao": "Ilhas do Caribe",
+        "Logradouro": "Rua Júlio Madruga Mendes",
+        "Numero": "226",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-28T13:50:34-03:00"
+      },
       {
         "CodigoAuto": "AF8221000373A/26",
         "Tipo": "AF",
@@ -33785,9 +33807,9 @@
     "Porto Belo": 240,
     "Nova Trento": 274,
     "Itapema": 529,
-    "Blumenau": 536,
-    "Navegantes": 169,
+    "Blumenau": 537,
+    "Navegantes": 170,
     "Itajai": 514
   },
-  "total_geral": 3063
+  "total_geral": 3065
 }
