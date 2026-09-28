@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-25T14:34:45-03:00",
-  "total": 5637,
-  "expired": false,
+  "timestamp": "2026-09-28T08:07:39-03:00",
+  "total": 5644,
+  "expired": true,
   "drill": {
     "AF8047000787A/25": {
       "tipo": "FISCALIZACAO",
@@ -109802,6 +109802,145 @@
       "codgAuto": "AF8161001264A/26",
       "numgAuto": 532345,
       "_ts": 1790357684.6813726
+    },
+    "AF8055001073A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "6031.26",
+      "cidade": "BRUSQUE",
+      "responsavel": "R&R INCORPORAÇÕES LTDA",
+      "cpfCnpj": "00334504000148",
+      "celular": "47999890167",
+      "email": "julianodorow17@gmail.com",
+      "endereco_responsavel": "Avenida Primeiro de Maio, 346, Primeiro de Maio, Brusque",
+      "exigencias": [
+        "Executar isolamento de risco",
+        "Executar sistema de saída de emergência"
+      ],
+      "dataPrazo": "24/09/2027",
+      "prazoDias": 364,
+      "bombeiroAutuacao": "Cb LUIS Fernando da Silva",
+      "bloco": "R&R",
+      "codgAuto": "AF8055001073A/26",
+      "numgAuto": 532432,
+      "_ts": 1790364766.8849568
+    },
+    "AF8055001072A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 3479.51,
+      "cidade": "BRUSQUE",
+      "responsavel": "HEIL MOTOS E NAUTICA LTDA",
+      "cpfCnpj": "85159556000188",
+      "celular": "47991285958",
+      "email": "heilnautica@heilnautica.com.br",
+      "endereco_responsavel": "Avenida Primeiro de Maio, 540, Primeiro de Maio, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "09/10/2026",
+      "prazoDias": 14,
+      "bombeiroAutuacao": "Cb LUIS Fernando da Silva",
+      "bloco": "Bloco 1",
+      "codgAuto": "AF8055001072A/26",
+      "numgAuto": 532406,
+      "_ts": 1790364782.1330073
+    },
+    "AF8055001071A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 517.45,
+      "cidade": "BRUSQUE",
+      "responsavel": "GILBERTO RADTKE",
+      "cpfCnpj": "54990904915",
+      "celular": "47999290118",
+      "email": "engenheirovicentini@gmail.com",
+      "endereco_responsavel": "R Luiz Boos, 127, Santa Terezinha, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "09/10/2026",
+      "prazoDias": 14,
+      "bombeiroAutuacao": "Cb LUIS Fernando da Silva",
+      "bloco": "BLOCO 01",
+      "codgAuto": "AF8055001071A/26",
+      "numgAuto": 532396,
+      "_ts": 1790364789.4454656
+    },
+    "AF8055000166A/21": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 390.63,
+      "cidade": "BRUSQUE",
+      "responsavel": "ALTAIR SCHAEFER",
+      "cpfCnpj": "38001683915",
+      "celular": "47992094782",
+      "email": "gbamalhas@gmail.com",
+      "endereco_responsavel": "Rua Brusque, 2515, Centro, Guabiruba",
+      "exigencias": [
+        "Apresentar projeto (PPCI ou RPCI)"
+      ],
+      "dataPrazo": "15/11/2022",
+      "prazoDias": -1410,
+      "bombeiroAutuacao": "2º Sgt EDILSON Walter",
+      "bloco": "ALTAIR SCHAEFER E ALTEVIR SCHAEFER",
+      "codgAuto": "AF8055000166A/21",
+      "numgAuto": 26908,
+      "_ts": 1790364801.930493
+    },
+    "AF8055001070A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 390.63,
+      "cidade": "BRUSQUE",
+      "responsavel": "ALTAIR SCHAEFER",
+      "cpfCnpj": "38001683915",
+      "celular": "47992094782",
+      "email": "gbamalhas@gmail.com",
+      "endereco_responsavel": "Rua Brusque, 2515, Centro, Guabiruba",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "09/10/2026",
+      "prazoDias": 14,
+      "bombeiroAutuacao": "Cb LUIS Fernando da Silva",
+      "bloco": "ALTAIR SCHAEFER E ALTEVIR SCHAEFER",
+      "codgAuto": "AF8055001070A/26",
+      "numgAuto": 532388,
+      "_ts": 1790364801.9305074
+    },
+    "MUL8055000065A/22": {
+      "tipo": "MULTA",
+      "areaTotal": 390.63,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "ALTAIR SCHAEFER E ALTEVIR SCHAEFER",
+      "codgAuto": "MUL8055000065A/22",
+      "numgAuto": 151320,
+      "_ts": 1790364801.9305594
+    },
+    "AF8055001069A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 452.33,
+      "cidade": "BRUSQUE",
+      "responsavel": "FABIANO BORK",
+      "cpfCnpj": "03012661905",
+      "celular": "47999691066",
+      "email": "fabianobork@yahoo.com.br",
+      "endereco_responsavel": "Rua Clara Risch, 111, Centro I, Brusque",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "25/03/2027",
+      "prazoDias": 181,
+      "bombeiroAutuacao": "Cb LUIS Fernando da Silva",
+      "bloco": "GALPÃO",
+      "codgAuto": "AF8055001069A/26",
+      "numgAuto": 532383,
+      "_ts": 1790364812.33492
     }
   }
 }
