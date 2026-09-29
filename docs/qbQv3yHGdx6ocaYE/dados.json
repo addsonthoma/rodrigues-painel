@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-29T13:20:03-03:00",
+  "timestamp": "2026-09-29T13:30:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-29T13:30:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-29T13:30:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-29T13:30:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-29T13:30:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 123,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-29T13:30:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 153,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-29T13:30:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 220,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-29T13:30:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 271,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-29T13:30:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-29T13:30:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 499,
+      "ultimo_numero": 500,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T13:20:03-03:00"
+      "ultima_verificacao": "2026-09-29T13:30:03-03:00"
     }
   },
   "multas": {
@@ -2603,6 +2603,16 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000500A/26",
+        "RE": "RE8161005449A",
+        "Nome_Edificacao": "Fundação Cultural E Educacional De Itajaí",
+        "Logradouro": "R ANTONIO CIRILO DUTRA",
+        "Numero": "62",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-29T13:30:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000499A/26",
         "RE": "RE8161002962A",
@@ -7697,14 +7707,21 @@
     "Brusque": 74,
     "Gaspar": 41,
     "Guabiruba": 3,
-    "Itajai": 217,
+    "Itajai": 218,
     "Itapema": 103,
     "Navegantes": 60,
     "Nova Trento": 70,
     "Porto Belo": 66
   },
-  "total_geral": 773,
+  "total_geral": 774,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-29T13:30:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000500A/26",
+      "nome": "Fundação Cultural E Educacional De Itajaí",
+      "re": "RE8161005449A"
+    },
     {
       "ts": "2026-09-28T15:10:04-03:00",
       "cidade": "Blumenau",
