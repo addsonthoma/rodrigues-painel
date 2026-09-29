@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-29T08:56:53-03:00",
+  "timestamp": "2026-09-29T09:07:08-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8143,
-      "ultima_verificacao": "2026-09-29T08:56:53-03:00"
+      "ultima_verificacao": "2026-09-29T09:07:08-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-29T08:56:53-03:00"
+      "ultima_verificacao": "2026-09-29T09:07:08-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-29T08:56:53-03:00"
+      "ultima_verificacao": "2026-09-29T09:07:08-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3908,
-      "ultima_verificacao": "2026-09-29T08:56:53-03:00"
+      "ultima_verificacao": "2026-09-29T09:07:08-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3411,
-      "ultima_verificacao": "2026-09-29T08:56:53-03:00"
+      "ultima_verificacao": "2026-09-29T09:07:08-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-09-29T08:56:53-03:00"
+      "ultima_verificacao": "2026-09-29T09:07:08-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7231,
-      "ultima_verificacao": "2026-09-29T08:56:53-03:00"
+      "ultima_verificacao": "2026-09-29T09:07:08-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13067,
-      "ultima_verificacao": "2026-09-29T08:56:53-03:00"
+      "ultima_verificacao": "2026-09-29T09:07:08-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5048,
-      "ultima_verificacao": "2026-09-29T08:56:53-03:00"
+      "ultima_verificacao": "2026-09-29T09:07:08-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14381,
-      "ultima_verificacao": "2026-09-29T08:56:53-03:00"
+      "ultimo_numero": 14382,
+      "ultima_verificacao": "2026-09-29T09:07:08-03:00"
     }
   },
   "protocolos": {
@@ -14252,6 +14252,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014382A",
+        "RE": "RE8161013905A",
+        "numgEdificacao": 370721,
+        "Nome_Edificacao": "VILA CONTEINER",
+        "Logradouro": "AV JOSE SIQUEIRA",
+        "Numero": "1250",
+        "Bairro": "ITAJAÍ - Ressacada",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-29T09:07:08-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014381A",
         "RE": "RE8161013666A",
         "numgEdificacao": 362691,
@@ -18718,7 +18729,7 @@
     "Itapema": 184,
     "Blumenau": 322,
     "Navegantes": 151,
-    "Itajai": 405
+    "Itajai": 406
   },
-  "total_geral": 1694
+  "total_geral": 1695
 }
