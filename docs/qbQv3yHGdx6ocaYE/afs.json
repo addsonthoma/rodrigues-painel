@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-29T14:10:44-03:00",
+  "timestamp": "2026-09-29T14:30:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1077,
+      "ultimo_numero": 1078,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T14:10:44-03:00"
+      "ultima_verificacao": "2026-09-29T14:30:20-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 36,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T14:10:44-03:00"
+      "ultima_verificacao": "2026-09-29T14:30:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T14:10:44-03:00"
+      "ultima_verificacao": "2026-09-29T14:30:20-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 674,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T14:10:44-03:00"
+      "ultima_verificacao": "2026-09-29T14:30:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 532,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T14:10:44-03:00"
+      "ultima_verificacao": "2026-09-29T14:30:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 590,
+      "ultimo_numero": 591,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T14:10:44-03:00"
+      "ultima_verificacao": "2026-09-29T14:30:20-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1268,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T14:10:44-03:00"
+      "ultima_verificacao": "2026-09-29T14:30:20-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1258,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T14:10:44-03:00"
+      "ultima_verificacao": "2026-09-29T14:30:20-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 376,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T14:10:44-03:00"
+      "ultima_verificacao": "2026-09-29T14:30:20-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1268,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T14:10:44-03:00"
+      "ultima_verificacao": "2026-09-29T14:30:20-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001078A/26",
+        "Tipo": "AF",
+        "RE": "RE8055006845A",
+        "Nome_Edificacao": "AGUSTINI ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Avenida Otto Renaux",
+        "Numero": "260",
+        "Bairro": "BRUSQUE - São Luiz",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-29T14:30:20-03:00"
+      },
       {
         "CodigoAuto": "AF8055001077A/26",
         "Tipo": "AF",
@@ -11569,6 +11580,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000591A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000115A",
+        "Nome_Edificacao": "Leonardo Ribeiro da Costa",
+        "Logradouro": "RODOVIA SC 108",
+        "Numero": "8013",
+        "Bairro": "NOVA TRENTO - INDAIA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-09-29T14:30:20-03:00"
+      },
       {
         "CodigoAuto": "AF8225000590A/26",
         "Tipo": "AF",
@@ -34086,16 +34108,16 @@
     ]
   },
   "totais": {
-    "Brusque": 467,
+    "Brusque": 468,
     "Botuvera": 36,
     "Guabiruba": 45,
     "Gaspar": 256,
     "Porto Belo": 241,
-    "Nova Trento": 280,
+    "Nova Trento": 281,
     "Itapema": 534,
     "Blumenau": 545,
     "Navegantes": 172,
     "Itajai": 515
   },
-  "total_geral": 3091
+  "total_geral": 3093
 }
