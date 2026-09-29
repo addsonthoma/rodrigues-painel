@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-29T16:17:23-03:00",
+  "timestamp": "2026-09-29T16:26:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8145,
-      "ultima_verificacao": "2026-09-29T16:17:23-03:00"
+      "ultima_verificacao": "2026-09-29T16:26:58-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-29T16:17:23-03:00"
+      "ultima_verificacao": "2026-09-29T16:26:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1547,
-      "ultima_verificacao": "2026-09-29T16:17:23-03:00"
+      "ultimo_numero": 1548,
+      "ultima_verificacao": "2026-09-29T16:26:58-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3908,
-      "ultima_verificacao": "2026-09-29T16:17:23-03:00"
+      "ultima_verificacao": "2026-09-29T16:26:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3411,
-      "ultima_verificacao": "2026-09-29T16:17:23-03:00"
+      "ultima_verificacao": "2026-09-29T16:26:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-09-29T16:17:23-03:00"
+      "ultima_verificacao": "2026-09-29T16:26:58-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7233,
-      "ultima_verificacao": "2026-09-29T16:17:23-03:00"
+      "ultima_verificacao": "2026-09-29T16:26:58-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13067,
-      "ultima_verificacao": "2026-09-29T16:17:23-03:00"
+      "ultima_verificacao": "2026-09-29T16:26:58-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5048,
-      "ultima_verificacao": "2026-09-29T16:17:23-03:00"
+      "ultima_verificacao": "2026-09-29T16:26:58-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14386,
-      "ultima_verificacao": "2026-09-29T16:17:23-03:00"
+      "ultima_verificacao": "2026-09-29T16:26:58-03:00"
     }
   },
   "protocolos": {
@@ -2511,6 +2511,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001548A",
+        "RE": "RE8123001231A",
+        "numgEdificacao": 371293,
+        "Nome_Edificacao": "JAYME MARQUES - SALA COMERCIAL",
+        "Logradouro": "VICENTE SCHARF",
+        "Numero": "102",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-09-29T16:26:58-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001547A",
         "RE": "RE8123001230A",
@@ -18821,7 +18832,7 @@
   "totais": {
     "Brusque": 181,
     "Botuvera": 42,
-    "Guabiruba": 72,
+    "Guabiruba": 73,
     "Gaspar": 142,
     "Porto Belo": 130,
     "Nova Trento": 68,
@@ -18830,5 +18841,5 @@
     "Navegantes": 151,
     "Itajai": 410
   },
-  "total_geral": 1704
+  "total_geral": 1705
 }
