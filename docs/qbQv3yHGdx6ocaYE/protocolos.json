@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-29T13:16:45-03:00",
+  "timestamp": "2026-09-29T13:26:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8144,
-      "ultima_verificacao": "2026-09-29T13:16:45-03:00"
+      "ultima_verificacao": "2026-09-29T13:26:56-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-29T13:16:45-03:00"
+      "ultima_verificacao": "2026-09-29T13:26:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-29T13:16:45-03:00"
+      "ultima_verificacao": "2026-09-29T13:26:56-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3908,
-      "ultima_verificacao": "2026-09-29T13:16:45-03:00"
+      "ultima_verificacao": "2026-09-29T13:26:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3411,
-      "ultima_verificacao": "2026-09-29T13:16:45-03:00"
+      "ultima_verificacao": "2026-09-29T13:26:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-09-29T13:16:45-03:00"
+      "ultima_verificacao": "2026-09-29T13:26:56-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7232,
-      "ultima_verificacao": "2026-09-29T13:16:45-03:00"
+      "ultimo_numero": 7233,
+      "ultima_verificacao": "2026-09-29T13:26:56-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13067,
-      "ultima_verificacao": "2026-09-29T13:16:45-03:00"
+      "ultima_verificacao": "2026-09-29T13:26:56-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5048,
-      "ultima_verificacao": "2026-09-29T13:16:45-03:00"
+      "ultima_verificacao": "2026-09-29T13:26:56-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14385,
-      "ultima_verificacao": "2026-09-29T13:16:45-03:00"
+      "ultima_verificacao": "2026-09-29T13:26:56-03:00"
     }
   },
   "protocolos": {
@@ -7029,6 +7029,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007233A",
+        "RE": "RE8163006903A",
+        "numgEdificacao": 371242,
+        "Nome_Edificacao": "Marcel Andriolli Mateus",
+        "Logradouro": "rua 206",
+        "Numero": "57",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-29T13:26:56-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007232A",
         "RE": "RE8163006900A",
@@ -18781,10 +18792,10 @@
     "Gaspar": 142,
     "Porto Belo": 130,
     "Nova Trento": 68,
-    "Itapema": 185,
+    "Itapema": 186,
     "Blumenau": 322,
     "Navegantes": 151,
     "Itajai": 409
   },
-  "total_geral": 1700
+  "total_geral": 1701
 }
