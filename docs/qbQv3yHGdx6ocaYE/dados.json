@@ -1,79 +1,99 @@
 {
-  "timestamp": "2026-09-29T15:50:04-03:00",
+  "timestamp": "2026-09-29T16:00:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-29T16:00:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-29T16:00:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-29T16:00:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-29T16:00:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 123,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-29T16:00:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 154,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-29T16:00:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 220,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-29T16:00:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 276,
+      "ultimo_numero": 278,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-29T16:00:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-29T16:00:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 501,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-29T15:50:04-03:00"
+      "ultima_verificacao": "2026-09-29T16:00:04-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000277A/26",
+        "RE": "RE8047010929A",
+        "Nome_Edificacao": "JAYR JOSE SESTARI",
+        "Logradouro": "RUA DA GLÓRIA",
+        "Numero": "1099",
+        "Bairro": "BLUMENAU - GLÓRIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-29T16:00:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000278A/26",
+        "RE": "RE8047009286A",
+        "Nome_Edificacao": "EDIFICIO RESIDENCIAL CLARA BARTSCH",
+        "Logradouro": "Frederico Guilherme Busch",
+        "Numero": "288",
+        "Bairro": "BLUMENAU - JARDIM BLUMENAU",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-29T16:00:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000274A/26",
         "RE": "RE8047005132A",
@@ -7772,7 +7792,7 @@
     ]
   },
   "totais": {
-    "Blumenau": 141,
+    "Blumenau": 143,
     "Botuvera": 3,
     "Brusque": 74,
     "Gaspar": 41,
@@ -7783,8 +7803,22 @@
     "Nova Trento": 71,
     "Porto Belo": 66
   },
-  "total_geral": 781,
+  "total_geral": 783,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-29T16:00:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000278A/26",
+      "nome": "EDIFICIO RESIDENCIAL CLARA BARTSCH",
+      "re": "RE8047009286A"
+    },
+    {
+      "ts": "2026-09-29T16:00:04-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000277A/26",
+      "nome": "JAYR JOSE SESTARI",
+      "re": "RE8047010929A"
+    },
     {
       "ts": "2026-09-29T15:30:04-03:00",
       "cidade": "Blumenau",
