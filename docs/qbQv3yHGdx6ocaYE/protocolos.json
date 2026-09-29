@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-09-29T05:56:51-03:00",
+  "timestamp": "2026-09-29T08:07:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8142,
-      "ultima_verificacao": "2026-09-29T05:56:51-03:00"
+      "ultimo_numero": 8143,
+      "ultima_verificacao": "2026-09-29T08:07:34-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-29T05:56:51-03:00"
+      "ultima_verificacao": "2026-09-29T08:07:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1546,
-      "ultima_verificacao": "2026-09-29T05:56:51-03:00"
+      "ultima_verificacao": "2026-09-29T08:07:34-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3908,
-      "ultima_verificacao": "2026-09-29T05:56:51-03:00"
+      "ultima_verificacao": "2026-09-29T08:07:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3411,
-      "ultima_verificacao": "2026-09-29T05:56:51-03:00"
+      "ultima_verificacao": "2026-09-29T08:07:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 982,
-      "ultima_verificacao": "2026-09-29T05:56:51-03:00"
+      "ultima_verificacao": "2026-09-29T08:07:34-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7230,
-      "ultima_verificacao": "2026-09-29T05:56:51-03:00"
+      "ultimo_numero": 7231,
+      "ultima_verificacao": "2026-09-29T08:07:34-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13067,
-      "ultima_verificacao": "2026-09-29T05:56:51-03:00"
+      "ultima_verificacao": "2026-09-29T08:07:34-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5048,
-      "ultima_verificacao": "2026-09-29T05:56:51-03:00"
+      "ultima_verificacao": "2026-09-29T08:07:34-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14380,
-      "ultima_verificacao": "2026-09-29T05:56:51-03:00"
+      "ultimo_numero": 14381,
+      "ultima_verificacao": "2026-09-29T08:07:34-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008143A",
+        "RE": "RE8055006723A",
+        "numgEdificacao": 362298,
+        "Nome_Edificacao": "WAREHOUSE SHOP LTDA.",
+        "Logradouro": "R AFONSO BELLI",
+        "Numero": "98",
+        "Bairro": "BRUSQUE - LIMOEIRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-29T08:07:34-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008142A",
         "RE": "RE8055006844A",
@@ -6985,6 +6996,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007231A",
+        "RE": "RE8163006861A",
+        "numgEdificacao": 368357,
+        "Nome_Edificacao": "JORGE LUIZ DA SILVA",
+        "Logradouro": "Rua 151",
+        "Numero": "48",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-29T08:07:34-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007230A",
         "RE": "RE8163006899A",
@@ -14208,6 +14230,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014381A",
+        "RE": "RE8161013666A",
+        "numgEdificacao": 362691,
+        "Nome_Edificacao": "MAICON VENANCIO COMERCIO E SERVICOS DE CLIMATIZACAO",
+        "Logradouro": "R GENESIO TAVARES",
+        "Numero": "180",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-29T08:07:34-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014380A",
         "RE": "RE8161011108A",
         "numgEdificacao": 295574,
@@ -18654,16 +18687,16 @@
     ]
   },
   "totais": {
-    "Brusque": 178,
+    "Brusque": 179,
     "Botuvera": 42,
     "Guabiruba": 71,
     "Gaspar": 142,
     "Porto Belo": 130,
     "Nova Trento": 66,
-    "Itapema": 183,
+    "Itapema": 184,
     "Blumenau": 322,
     "Navegantes": 151,
-    "Itajai": 404
+    "Itajai": 405
   },
-  "total_geral": 1689
+  "total_geral": 1692
 }
