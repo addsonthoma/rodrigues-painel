@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-30T14:39:14-03:00",
-  "total": 5805,
+  "timestamp": "2026-09-30T16:36:10-03:00",
+  "total": 5814,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -588,7 +588,7 @@
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1790789651.5598695
+      "_ts": 1790796867.5233495
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1790789651.559903
+      "_ts": 1790796867.5233858
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1790789651.5598917
+      "_ts": 1790796867.5233736
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5113,7 +5113,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1790789638.9750786
+      "_ts": 1790796859.2937243
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5133,7 +5133,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1790789638.9750457
+      "_ts": 1790796859.293678
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5340,7 +5340,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1790789679.8555348
+      "_ts": 1790796898.903607
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9456,7 +9456,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1790789632.4916518
+      "_ts": 1790796852.235618
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -14013,7 +14013,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1790789671.7412066
+      "_ts": 1790796890.6792984
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -30100,7 +30100,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1790789669.6443577
+      "_ts": 1790796888.5748382
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38531,7 +38531,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1790789660.1187286
+      "_ts": 1790796875.0424283
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -107031,7 +107031,7 @@
       "bloco": "BLOCO",
       "codgAuto": "AF8221000367A/26",
       "numgAuto": 531397,
-      "_ts": 1790789931.8025794
+      "_ts": 1790796969.4398077
     },
     "AF8221000366A/26": {
       "tipo": "AF",
@@ -107045,7 +107045,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8221000366A/26",
-      "_ts": 1790789931.8026078
+      "_ts": 1790796969.4398384
     },
     "AF8221000365A/26": {
       "tipo": "FISCALIZACAO",
@@ -113157,6 +113157,188 @@
       "codgAuto": "MUL8161000417A/23",
       "numgAuto": 205026,
       "_ts": 1790789954.1498475
+    },
+    "AF8055001083A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "44.74",
+      "cidade": "BRUSQUE",
+      "responsavel": "BRASHOP S/A ADM DE SHOPPING CENTER",
+      "cpfCnpj": "03262205000133",
+      "celular": "47991027911",
+      "email": "preventivodeincendio@havan.com.br",
+      "endereco_responsavel": "Avenida Getúlio Vargas, 63, Centro II, Brusque",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____",
+        "Executar sistema de saída de emergência"
+      ],
+      "dataPrazo": "05/01/2027",
+      "prazoDias": 97,
+      "bombeiroAutuacao": "Sd FERNANDA Zamprogna",
+      "bloco": "PORTARIA",
+      "codgAuto": "AF8055001083A/26",
+      "numgAuto": 533554,
+      "_ts": 1790796834.7397878
+    },
+    "AF8055000459A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "44.74",
+      "cidade": "BRUSQUE",
+      "responsavel": "Murilo Damasceno Lima",
+      "cpfCnpj": "07060553908",
+      "celular": "47988869951",
+      "email": "contabil03@portallar.com.br",
+      "endereco_responsavel": "Avenida Primeiro de Maio 1283, 1283, Primeiro de Maio, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "30/04/2027",
+      "prazoDias": 212,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "PORTARIA",
+      "codgAuto": "AF8055000459A/26",
+      "numgAuto": 495390,
+      "_ts": 1790796834.7397943
+    },
+    "AF8265000405A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 233,
+      "cidade": "PORTO BELO",
+      "responsavel": "ESTELAMAR FERMELITA VIEIRA",
+      "cpfCnpj": "67382045900",
+      "celular": "47992881616",
+      "email": "stelladillmare@gmail.com",
+      "endereco_responsavel": "Avenida Governador Celso Ramos, 2647, Centro, Porto Belo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento",
+        "Executar sistema de iluminação de emergência",
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema preventivo por extintores"
+      ],
+      "dataPrazo": "19/09/2024",
+      "prazoDias": -741,
+      "bombeiroAutuacao": "Sd Jean Shoji TSUNA",
+      "bloco": "STELLA DILL MARE",
+      "codgAuto": "AF8265000405A/24",
+      "numgAuto": 328153,
+      "_ts": 1790796906.9670775
+    },
+    "AF8265000541A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 233,
+      "cidade": "PORTO BELO",
+      "responsavel": "ESTELAMAR FERMELITA VIEIRA",
+      "cpfCnpj": "67382045900",
+      "celular": "47992881616",
+      "email": "stelladillmare@gmail.com",
+      "endereco_responsavel": "Avenida Governador Celso Ramos, 2647, Centro, Porto Belo",
+      "exigencias": [
+        "Executar sistema preventivo por extintores"
+      ],
+      "dataPrazo": "02/11/2026",
+      "prazoDias": 33,
+      "bombeiroAutuacao": "Cb Sidinei Luiz GROLLI",
+      "bloco": "STELLA DILL MARE",
+      "codgAuto": "AF8265000541A/26",
+      "numgAuto": 533544,
+      "_ts": 1790796906.967088
+    },
+    "MUL8265000132A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 233,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "STELLA DILL MARE",
+      "codgAuto": "MUL8265000132A/24",
+      "numgAuto": 337847,
+      "_ts": 1790796906.9671214
+    },
+    "AF8265000540A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 614,
+      "cidade": "PORTO BELO",
+      "responsavel": "B.R. PET SHOP LTDA",
+      "cpfCnpj": "60403477000140",
+      "celular": "47930329881",
+      "email": "alvaras@dinamicaitapema.com.br",
+      "endereco_responsavel": "Av. Governador Celso Ramos, 1187, Alto Pereque, Porto Belo",
+      "exigencias": [
+        "Executar sistema preventivo por extintores"
+      ],
+      "dataPrazo": "02/11/2026",
+      "prazoDias": 33,
+      "bombeiroAutuacao": "Cb Sidinei Luiz GROLLI",
+      "bloco": "BLOCO 1",
+      "codgAuto": "AF8265000540A/26",
+      "numgAuto": 533520,
+      "_ts": 1790796919.420658
+    },
+    "AF8225000602A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 470.85,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "SOCIEDADE FILARMÔNICA NEOTRENTINA",
+      "cpfCnpj": "83558353000139",
+      "celular": "48996700033",
+      "email": "pessoal@dellcont.cnt.br",
+      "endereco_responsavel": "Rua: Fernando Facchini, 50, Centro, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "07/11/2026",
+      "prazoDias": 38,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "SOCIEDADE FILARMôNICA NEOTRENTINA",
+      "codgAuto": "AF8225000602A/26",
+      "numgAuto": 533542,
+      "_ts": 1790796930.0604827
+    },
+    "AF8225000601A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 136.65,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "ANDRADE ESTRUTURAS METALICAS LTDA",
+      "cpfCnpj": "57453875000166",
+      "celular": "49991569716",
+      "email": "vivianaandrade2005@gmail.com",
+      "endereco_responsavel": "R Brusque, 1335, Espraiado, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "07/11/2026",
+      "prazoDias": 38,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "Bloco",
+      "codgAuto": "AF8225000601A/26",
+      "numgAuto": 533524,
+      "_ts": 1790796942.5831141
+    },
+    "AF8047001267A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "3441.88",
+      "cidade": "BLUMENAU",
+      "responsavel": "VALE ADMINISTRADORA DE BENS LTDA",
+      "cpfCnpj": "37603819000153",
+      "celular": "47984219127",
+      "email": "societario02@blu.ideal.cnt.br",
+      "endereco_responsavel": "Rua Bertoldo João Corrêa, 50, Testo Salto, Blumenau",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "30/03/2027",
+      "prazoDias": 181,
+      "bombeiroAutuacao": "2º Sgt Marcelo FERNANDES",
+      "bloco": "VALE ADMINISTRADORA DE BENS LTDA",
+      "codgAuto": "AF8047001267A/26",
+      "numgAuto": 533523,
+      "_ts": 1790796955.928236
     }
   }
 }
