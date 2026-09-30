@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-09-30T17:30:19-03:00",
+  "timestamp": "2026-09-30T17:40:25-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1084,
+      "ultimo_numero": 1085,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T17:30:19-03:00"
+      "ultima_verificacao": "2026-09-30T17:40:25-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 36,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T17:30:19-03:00"
+      "ultima_verificacao": "2026-09-30T17:40:25-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T17:30:19-03:00"
+      "ultima_verificacao": "2026-09-30T17:40:25-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 675,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T17:30:19-03:00"
+      "ultima_verificacao": "2026-09-30T17:40:25-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 541,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T17:30:19-03:00"
+      "ultima_verificacao": "2026-09-30T17:40:25-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 603,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T17:30:19-03:00"
+      "ultima_verificacao": "2026-09-30T17:40:25-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1278,
+      "ultimo_numero": 1279,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T17:30:19-03:00"
+      "ultima_verificacao": "2026-09-30T17:40:25-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1270,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T17:30:19-03:00"
+      "ultima_verificacao": "2026-09-30T17:40:25-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 377,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T17:30:19-03:00"
+      "ultima_verificacao": "2026-09-30T17:40:25-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1271,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T17:30:19-03:00"
+      "ultima_verificacao": "2026-09-30T17:40:25-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001085A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001696A",
+        "Nome_Edificacao": "Marcio José Buzzi",
+        "Logradouro": "Rua José Bodenmuller",
+        "Numero": "155",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-09-30T17:40:25-03:00"
+      },
       {
         "CodigoAuto": "AF8055001084A/26",
         "Tipo": "AF",
@@ -14981,6 +14992,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001279A/26",
+        "Tipo": "AF",
+        "RE": "RE8163004977A",
+        "Nome_Edificacao": "PROSOLAR",
+        "Logradouro": "Rua 700 nº 157",
+        "Numero": "157",
+        "Bairro": "ITAPEMA - VARZEA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-30T17:40:25-03:00"
+      },
       {
         "CodigoAuto": "AF8163001278A/26",
         "Tipo": "AF",
@@ -34702,16 +34724,16 @@
     ]
   },
   "totais": {
-    "Brusque": 474,
+    "Brusque": 475,
     "Botuvera": 36,
     "Guabiruba": 45,
     "Gaspar": 257,
     "Porto Belo": 250,
     "Nova Trento": 293,
-    "Itapema": 544,
+    "Itapema": 545,
     "Blumenau": 557,
     "Navegantes": 173,
     "Itajai": 518
   },
-  "total_geral": 3147
+  "total_geral": 3149
 }
