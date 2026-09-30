@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-30T18:56:05-03:00",
+  "timestamp": "2026-09-30T19:06:18-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8145,
-      "ultima_verificacao": "2026-09-30T18:56:05-03:00"
+      "ultima_verificacao": "2026-09-30T19:06:18-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-30T18:56:05-03:00"
+      "ultima_verificacao": "2026-09-30T19:06:18-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1551,
-      "ultima_verificacao": "2026-09-30T18:56:05-03:00"
+      "ultima_verificacao": "2026-09-30T19:06:18-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3910,
-      "ultima_verificacao": "2026-09-30T18:56:05-03:00"
+      "ultima_verificacao": "2026-09-30T19:06:18-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3413,
-      "ultima_verificacao": "2026-09-30T18:56:05-03:00"
+      "ultima_verificacao": "2026-09-30T19:06:18-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-09-30T18:56:05-03:00"
+      "ultima_verificacao": "2026-09-30T19:06:18-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7237,
-      "ultima_verificacao": "2026-09-30T18:56:05-03:00"
+      "ultima_verificacao": "2026-09-30T19:06:18-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13070,
-      "ultima_verificacao": "2026-09-30T18:56:05-03:00"
+      "ultimo_numero": 13071,
+      "ultima_verificacao": "2026-09-30T19:06:18-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5055,
-      "ultima_verificacao": "2026-09-30T18:56:05-03:00"
+      "ultima_verificacao": "2026-09-30T19:06:18-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14388,
-      "ultima_verificacao": "2026-09-30T18:56:05-03:00"
+      "ultima_verificacao": "2026-09-30T19:06:18-03:00"
     }
   },
   "protocolos": {
@@ -9231,6 +9231,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013071A",
+        "RE": "RE8047011447A",
+        "numgEdificacao": 339536,
+        "Nome_Edificacao": "A.R. ASSISTÊNCIA E MANUTENÇÃO LTDA",
+        "Logradouro": "Rua Benjamin Constant",
+        "Numero": "1299",
+        "Bairro": "BLUMENAU - ESCOLA AGRÍCOLA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-30T19:06:18-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013070A",
         "RE": "RE8047010248A",
@@ -19090,9 +19101,9 @@
     "Porto Belo": 132,
     "Nova Trento": 68,
     "Itapema": 190,
-    "Blumenau": 325,
+    "Blumenau": 326,
     "Navegantes": 158,
     "Itajai": 412
   },
-  "total_geral": 1728
+  "total_geral": 1729
 }
