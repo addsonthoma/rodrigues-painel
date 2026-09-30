@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-29T17:26:40-03:00",
+  "timestamp": "2026-09-30T08:12:00-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8145,
-      "ultima_verificacao": "2026-09-29T17:26:40-03:00"
+      "ultima_verificacao": "2026-09-30T08:12:00-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-29T17:26:40-03:00"
+      "ultima_verificacao": "2026-09-30T08:12:00-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1548,
-      "ultima_verificacao": "2026-09-29T17:26:40-03:00"
+      "ultima_verificacao": "2026-09-30T08:12:00-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3908,
-      "ultima_verificacao": "2026-09-29T17:26:40-03:00"
+      "ultimo_numero": 3910,
+      "ultima_verificacao": "2026-09-30T08:12:00-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3411,
-      "ultima_verificacao": "2026-09-29T17:26:40-03:00"
+      "ultimo_numero": 3412,
+      "ultima_verificacao": "2026-09-30T08:12:00-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-09-29T17:26:40-03:00"
+      "ultima_verificacao": "2026-09-30T08:12:00-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7234,
-      "ultima_verificacao": "2026-09-29T17:26:40-03:00"
+      "ultima_verificacao": "2026-09-30T08:12:00-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13067,
-      "ultima_verificacao": "2026-09-29T17:26:40-03:00"
+      "ultima_verificacao": "2026-09-30T08:12:00-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5048,
-      "ultima_verificacao": "2026-09-29T17:26:40-03:00"
+      "ultimo_numero": 5050,
+      "ultima_verificacao": "2026-09-30T08:12:00-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14386,
-      "ultima_verificacao": "2026-09-29T17:26:40-03:00"
+      "ultimo_numero": 14387,
+      "ultima_verificacao": "2026-09-30T08:12:00-03:00"
     }
   },
   "protocolos": {
@@ -3317,6 +3317,28 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003910A",
+        "RE": "RE8117001108A",
+        "numgEdificacao": 167663,
+        "Nome_Edificacao": "WLW Administradora de Bens",
+        "Logradouro": "Rua Pedro Jose Venera",
+        "Numero": "",
+        "Bairro": "GASPAR - COLONINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-30T08:12:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003909A",
+        "RE": "RE8117002894A",
+        "numgEdificacao": 320668,
+        "Nome_Edificacao": "SERVICOS DE TORNEARIA GASPAR GRANDE LTDA",
+        "Logradouro": "Rua Prefeito Leopoldo Schramm",
+        "Numero": "2450",
+        "Bairro": "GASPAR - GASPAR GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-09-30T08:12:00-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003908A",
         "RE": "RE8117003296A",
         "numgEdificacao": 370353,
@@ -4880,6 +4902,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003412A",
+        "RE": "RE8265002860A",
+        "numgEdificacao": 371313,
+        "Nome_Edificacao": "Nexus 360",
+        "Logradouro": "RUA SEBASTIAO MANOEL JAQUES",
+        "Numero": "573",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-30T08:12:00-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003411A",
         "RE": "RE8265002857A",
@@ -12666,6 +12699,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005050A",
+        "RE": "RE8221004162A",
+        "numgEdificacao": 371222,
+        "Nome_Edificacao": "TERRENO MAURICIO NASCIMENTO",
+        "Logradouro": "Rua Raimundo Mathiola",
+        "Numero": "121",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-30T08:12:00-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005049A",
+        "RE": "RE8221004163A",
+        "numgEdificacao": 371332,
+        "Nome_Edificacao": "PAOLETTO PIAZZA ALTA",
+        "Logradouro": "Rua André Schumacher",
+        "Numero": "181",
+        "Bairro": "NAVEGANTES - Gravatá",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-30T08:12:00-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005048A",
         "RE": "RE8221000304A",
         "numgEdificacao": 21367,
@@ -14328,6 +14383,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014387A",
+        "RE": "RE8161013921A",
+        "numgEdificacao": 371309,
+        "Nome_Edificacao": "Sociedade Inovar Educação LTDA",
+        "Logradouro": "Rua Brusque",
+        "Numero": "367",
+        "Bairro": "ITAJAÍ - Centro",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-30T08:12:00-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014386A",
         "RE": "RE8161004135A",
@@ -18844,13 +18910,13 @@
     "Brusque": 181,
     "Botuvera": 42,
     "Guabiruba": 73,
-    "Gaspar": 142,
-    "Porto Belo": 130,
+    "Gaspar": 144,
+    "Porto Belo": 131,
     "Nova Trento": 68,
     "Itapema": 187,
     "Blumenau": 322,
-    "Navegantes": 151,
-    "Itajai": 410
+    "Navegantes": 153,
+    "Itajai": 411
   },
-  "total_geral": 1706
+  "total_geral": 1712
 }

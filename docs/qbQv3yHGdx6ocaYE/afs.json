@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-29T17:20:25-03:00",
+  "timestamp": "2026-09-30T08:05:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1080,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T17:20:25-03:00"
+      "ultima_verificacao": "2026-09-30T08:05:21-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 36,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T17:20:25-03:00"
+      "ultima_verificacao": "2026-09-30T08:05:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T17:20:25-03:00"
+      "ultima_verificacao": "2026-09-30T08:05:21-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 674,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T17:20:25-03:00"
+      "ultima_verificacao": "2026-09-30T08:05:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 532,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T17:20:25-03:00"
+      "ultima_verificacao": "2026-09-30T08:05:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 596,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T17:20:25-03:00"
+      "ultima_verificacao": "2026-09-30T08:05:21-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1271,
+      "ultimo_numero": 1272,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T17:20:25-03:00"
+      "ultima_verificacao": "2026-09-30T08:05:21-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1259,
+      "ultimo_numero": 1262,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T17:20:25-03:00"
+      "ultima_verificacao": "2026-09-30T08:05:21-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 376,
+      "ultimo_numero": 377,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T17:20:25-03:00"
+      "ultima_verificacao": "2026-09-30T08:05:21-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1268,
+      "ultimo_numero": 1271,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-29T17:20:25-03:00"
+      "ultima_verificacao": "2026-09-30T08:05:21-03:00"
     }
   },
   "afs": {
@@ -14751,6 +14751,17 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163001272A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002089A",
+        "Nome_Edificacao": "SUPERMERCADO KOCH",
+        "Logradouro": "AVENIDA MARGINAL LESTE",
+        "Numero": "5335",
+        "Bairro": "ITAPEMA - ANDORINHA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-30T08:05:21-03:00"
+      },
+      {
         "CodigoAuto": "AF8163001271A/26",
         "Tipo": "AF",
         "RE": "RE8163000770A",
@@ -20659,6 +20670,39 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047001262A/26",
+        "Tipo": "AF",
+        "RE": "RE8047007745A",
+        "Nome_Edificacao": "MARCOS LANGE",
+        "Logradouro": "RUA DOUTOR PEDRO ZIMMERMANN",
+        "Numero": "196",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-30T08:05:21-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001261A/26",
+        "Tipo": "AF",
+        "RE": "RE8047004357A",
+        "Nome_Edificacao": "FELIPE BRANGANTINO",
+        "Logradouro": "Rua Paraíba",
+        "Numero": "66",
+        "Bairro": "BLUMENAU - VICTOR KONDER",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-30T08:05:21-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001260A/26",
+        "Tipo": "AF",
+        "RE": "RE8047002747A",
+        "Nome_Edificacao": "SUELI IRENE SCHWAEMMLE",
+        "Logradouro": "Rua Marechal Deodoro",
+        "Numero": "101",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-30T08:05:21-03:00"
+      },
       {
         "CodigoAuto": "AF8047001259A/26",
         "Tipo": "AF",
@@ -26668,6 +26712,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000377A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000701A",
+        "Nome_Edificacao": "SUPERBETON CONCRETO LTDA (NAVEGANTES)",
+        "Logradouro": "ESTRADA GERAL HUGO DE ALMEIDA",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - NUCLEO HUGO DE ALMEIDA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-30T08:05:21-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000376A/26",
         "Tipo": "AF",
         "RE": "RE8221002440A",
@@ -28561,6 +28616,39 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "AF8161001271A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005841A",
+        "Nome_Edificacao": "MARIA DE SOUZA",
+        "Logradouro": "AVENIDA GOVERNADOR ADOLFO KONDER",
+        "Numero": "2101",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-30T08:05:21-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001270A/26",
+        "Tipo": "AF",
+        "RE": "RE8161001939A",
+        "Nome_Edificacao": "Visser Participações Ltda",
+        "Logradouro": "Rua Lages",
+        "Numero": "147",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-30T08:05:21-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001269A/26",
+        "Tipo": "AF",
+        "RE": "RE8161005894A",
+        "Nome_Edificacao": "SERGIO DA ROSA",
+        "Logradouro": "Agilío Cunha",
+        "Numero": "1035",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-09-30T08:05:21-03:00"
+      },
       {
         "CodigoAuto": "AF8161001268A/26",
         "Tipo": "AF",
@@ -34235,10 +34323,10 @@
     "Gaspar": 256,
     "Porto Belo": 241,
     "Nova Trento": 286,
-    "Itapema": 537,
-    "Blumenau": 546,
-    "Navegantes": 172,
-    "Itajai": 515
+    "Itapema": 538,
+    "Blumenau": 549,
+    "Navegantes": 173,
+    "Itajai": 518
   },
-  "total_geral": 3104
+  "total_geral": 3112
 }
