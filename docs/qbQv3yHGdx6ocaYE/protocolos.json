@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-09-30T09:46:38-03:00",
+  "timestamp": "2026-09-30T09:56:48-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8145,
-      "ultima_verificacao": "2026-09-30T09:46:38-03:00"
+      "ultima_verificacao": "2026-09-30T09:56:48-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-09-30T09:46:38-03:00"
+      "ultima_verificacao": "2026-09-30T09:56:48-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1548,
-      "ultima_verificacao": "2026-09-30T09:46:38-03:00"
+      "ultima_verificacao": "2026-09-30T09:56:48-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3910,
-      "ultima_verificacao": "2026-09-30T09:46:38-03:00"
+      "ultima_verificacao": "2026-09-30T09:56:48-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3413,
-      "ultima_verificacao": "2026-09-30T09:46:38-03:00"
+      "ultima_verificacao": "2026-09-30T09:56:48-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-09-30T09:46:38-03:00"
+      "ultima_verificacao": "2026-09-30T09:56:48-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7235,
-      "ultima_verificacao": "2026-09-30T09:46:38-03:00"
+      "ultima_verificacao": "2026-09-30T09:56:48-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13067,
-      "ultima_verificacao": "2026-09-30T09:46:38-03:00"
+      "ultima_verificacao": "2026-09-30T09:56:48-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5050,
-      "ultima_verificacao": "2026-09-30T09:46:38-03:00"
+      "ultimo_numero": 5051,
+      "ultima_verificacao": "2026-09-30T09:56:48-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14387,
-      "ultima_verificacao": "2026-09-30T09:46:38-03:00"
+      "ultima_verificacao": "2026-09-30T09:56:48-03:00"
     }
   },
   "protocolos": {
@@ -12721,6 +12721,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005051A",
+        "RE": "RE8221004164A",
+        "numgEdificacao": 371338,
+        "Nome_Edificacao": "ILHA BELLA TOWER RESIDENCE",
+        "Logradouro": "Rua Oscar Cordeiro",
+        "Numero": "11",
+        "Bairro": "NAVEGANTES - Gravatá",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-09-30T09:56:48-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005050A",
         "RE": "RE8221004162A",
         "numgEdificacao": 371222,
@@ -18937,8 +18948,8 @@
     "Nova Trento": 68,
     "Itapema": 188,
     "Blumenau": 322,
-    "Navegantes": 153,
+    "Navegantes": 154,
     "Itajai": 411
   },
-  "total_geral": 1714
+  "total_geral": 1715
 }
