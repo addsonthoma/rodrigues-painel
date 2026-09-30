@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-09-30T08:20:07-03:00",
+  "timestamp": "2026-09-30T08:30:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-30T08:20:07-03:00"
+      "ultima_verificacao": "2026-09-30T08:30:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-30T08:20:07-03:00"
+      "ultima_verificacao": "2026-09-30T08:30:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-30T08:20:07-03:00"
+      "ultima_verificacao": "2026-09-30T08:30:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 65,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-30T08:20:07-03:00"
+      "ultima_verificacao": "2026-09-30T08:30:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 125,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-30T08:20:07-03:00"
+      "ultima_verificacao": "2026-09-30T08:30:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 154,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-30T08:20:07-03:00"
+      "ultima_verificacao": "2026-09-30T08:30:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 220,
+      "ultimo_numero": 224,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-30T08:20:07-03:00"
+      "ultima_verificacao": "2026-09-30T08:30:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 278,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-30T08:20:07-03:00"
+      "ultima_verificacao": "2026-09-30T08:30:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-30T08:20:07-03:00"
+      "ultima_verificacao": "2026-09-30T08:30:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 501,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-09-30T08:20:07-03:00"
+      "ultima_verificacao": "2026-09-30T08:30:03-03:00"
     }
   },
   "multas": {
@@ -4849,6 +4849,46 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000221A/26",
+        "RE": "RE8163002576A",
+        "Nome_Edificacao": "RESIDENCIAL PALAZZO SERENO",
+        "Logradouro": "RUA 258",
+        "Numero": "613",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-30T08:30:03-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000222A/26",
+        "RE": "RE8163003273A",
+        "Nome_Edificacao": "UNIQUE RESIDENCE",
+        "Logradouro": "RUA 211",
+        "Numero": "48",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-30T08:30:03-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000223A/26",
+        "RE": "RE8163001591A",
+        "Nome_Edificacao": "ADRIANE BALLVERDU GOMES",
+        "Logradouro": "Rua 234",
+        "Numero": "425",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-30T08:30:03-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000224A/26",
+        "RE": "RE8163000181A",
+        "Nome_Edificacao": "ED. JOÃO ARTHUR WEISS",
+        "Logradouro": "rua 210",
+        "Numero": "76",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-09-30T08:30:03-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000219A/26",
         "RE": "RE8163006782A",
         "Nome_Edificacao": "MAEL MOTOS",
@@ -7818,13 +7858,41 @@
     "Gaspar": 41,
     "Guabiruba": 3,
     "Itajai": 219,
-    "Itapema": 103,
+    "Itapema": 107,
     "Navegantes": 60,
     "Nova Trento": 71,
     "Porto Belo": 68
   },
-  "total_geral": 785,
+  "total_geral": 789,
   "eventos_recentes": [
+    {
+      "ts": "2026-09-30T08:30:03-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000224A/26",
+      "nome": "ED. JOÃO ARTHUR WEISS",
+      "re": "RE8163000181A"
+    },
+    {
+      "ts": "2026-09-30T08:30:03-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000223A/26",
+      "nome": "ADRIANE BALLVERDU GOMES",
+      "re": "RE8163001591A"
+    },
+    {
+      "ts": "2026-09-30T08:30:03-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000222A/26",
+      "nome": "UNIQUE RESIDENCE",
+      "re": "RE8163003273A"
+    },
+    {
+      "ts": "2026-09-30T08:30:03-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000221A/26",
+      "nome": "RESIDENCIAL PALAZZO SERENO",
+      "re": "RE8163002576A"
+    },
     {
       "ts": "2026-09-30T08:20:07-03:00",
       "cidade": "Porto Belo",
@@ -8146,34 +8214,6 @@
       "codigo": "MUL8047000266A/26",
       "nome": "CEI Brandina Bürger",
       "re": "RE8047009721A"
-    },
-    {
-      "ts": "2026-09-23T11:00:03-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000129A/26",
-      "nome": "JAIR ADRIANO",
-      "re": "RE8055003611A"
-    },
-    {
-      "ts": "2026-09-23T09:40:05-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000152A/26",
-      "nome": "TARCISIO TADEU DARÓS",
-      "re": "RE8225000042A"
-    },
-    {
-      "ts": "2026-09-23T09:20:03-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000151A/26",
-      "nome": "BSS ADMINISTRAÇAO E EMPREENDIMENTOS DE IMOVEIS",
-      "re": "RE8225000134A"
-    },
-    {
-      "ts": "2026-09-23T09:20:03-03:00",
-      "cidade": "Nova Trento",
-      "codigo": "MUL8225000150A/26",
-      "nome": "DIRLENE SGROTT TRIDAPALLI",
-      "re": "RE8225000528A"
     }
   ]
 }
