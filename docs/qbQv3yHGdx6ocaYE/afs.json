@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-09-30T14:40:19-03:00",
+  "timestamp": "2026-09-30T14:50:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1082,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T14:40:19-03:00"
+      "ultima_verificacao": "2026-09-30T14:50:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 36,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T14:40:19-03:00"
+      "ultima_verificacao": "2026-09-30T14:50:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T14:40:19-03:00"
+      "ultima_verificacao": "2026-09-30T14:50:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 675,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T14:40:19-03:00"
+      "ultima_verificacao": "2026-09-30T14:50:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 539,
+      "ultimo_numero": 540,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T14:40:19-03:00"
+      "ultima_verificacao": "2026-09-30T14:50:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 600,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T14:40:19-03:00"
+      "ultima_verificacao": "2026-09-30T14:50:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1277,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T14:40:19-03:00"
+      "ultima_verificacao": "2026-09-30T14:50:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1266,
+      "ultimo_numero": 1267,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T14:40:19-03:00"
+      "ultima_verificacao": "2026-09-30T14:50:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 377,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T14:40:19-03:00"
+      "ultima_verificacao": "2026-09-30T14:50:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1271,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-09-30T14:40:19-03:00"
+      "ultima_verificacao": "2026-09-30T14:50:19-03:00"
     }
   },
   "afs": {
@@ -8982,6 +8982,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000540A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000759A",
+        "Nome_Edificacao": "AGRO BAÍTO PET SHOP LTDA ME",
+        "Logradouro": "avenida  governador celso ramos",
+        "Numero": "1187",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-09-30T14:50:19-03:00"
+      },
       {
         "CodigoAuto": "AF8265000539A/26",
         "Tipo": "AF",
@@ -20879,6 +20890,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047001267A/26",
+        "Tipo": "AF",
+        "RE": "RE8047007766A",
+        "Nome_Edificacao": "VALE ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "RUA WERNER DUWE",
+        "Numero": "",
+        "Bairro": "BLUMENAU - TESTO SALTO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-09-30T14:50:19-03:00"
+      },
       {
         "CodigoAuto": "AF8047001266A/26",
         "Tipo": "AF",
@@ -34574,12 +34596,12 @@
     "Botuvera": 36,
     "Guabiruba": 45,
     "Gaspar": 257,
-    "Porto Belo": 248,
+    "Porto Belo": 249,
     "Nova Trento": 290,
     "Itapema": 543,
-    "Blumenau": 553,
+    "Blumenau": 554,
     "Navegantes": 173,
     "Itajai": 518
   },
-  "total_geral": 3135
+  "total_geral": 3137
 }
