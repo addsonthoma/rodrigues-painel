@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-01T14:34:48-03:00",
-  "total": 5878,
+  "timestamp": "2026-10-01T16:36:41-03:00",
+  "total": 5896,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -588,7 +588,7 @@
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1790876031.3825326
+      "_ts": 1790883208.8807597
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1790876031.3825996
+      "_ts": 1790883208.8807764
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1790876031.382581
+      "_ts": 1790883208.8807704
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5113,7 +5113,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1790876020.8839295
+      "_ts": 1790883201.9663372
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5133,7 +5133,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1790876020.8838313
+      "_ts": 1790883201.9663222
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5340,7 +5340,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1790876062.4374983
+      "_ts": 1790883236.4778078
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -7623,22 +7623,23 @@
     },
     "AF8047001938A/22": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "7591.97",
       "cidade": "BLUMENAU",
       "responsavel": "Secretaria de Estado da Educação",
       "cpfCnpj": "82951328000158",
       "celular": "48998907369",
       "email": "regulamentacaodine@sed.sc.gov.br",
-      "endereco_responsavel": "Rua Antônio Luz,, 111, Centro, Florianópolis",
+      "endereco_responsavel": "Rua Antônio Luz, 111, Centro, Florianópolis",
       "exigencias": [
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "08/11/2022",
-      "prazoDias": -1310,
+      "prazoDias": -1423,
       "bombeiroAutuacao": "SubTen CARLITO Goncalves",
       "bloco": "EEB HERMANN HERING",
       "codgAuto": "AF8047001938A/22",
       "numgAuto": 84612,
-      "_ts": 1781072896.602541
+      "_ts": 1790883394.14944
     },
     "AF8047000664A/26": {
       "tipo": "FISCALIZACAO",
@@ -7661,6 +7662,7 @@
     },
     "MUL8047000175A/23": {
       "tipo": "MULTA",
+      "areaTotal": "7591.97",
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -7674,7 +7676,7 @@
       "bloco": "EEB HERMANN HERING",
       "codgAuto": "MUL8047000175A/23",
       "numgAuto": 160148,
-      "_ts": 1781072896.602584
+      "_ts": 1790883394.1494818
     },
     "MUL8047000164A/23": {
       "tipo": "MULTA",
@@ -9456,7 +9458,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1790876011.7871282
+      "_ts": 1790883193.9566088
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -14013,7 +14015,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1790876053.2987406
+      "_ts": 1790883228.3557515
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -30100,7 +30102,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1790876050.5555131
+      "_ts": 1790883226.3693962
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -35299,12 +35301,12 @@
         "Solicitar vistoria para habite-se"
       ],
       "dataPrazo": "21/12/2026",
-      "prazoDias": 159,
+      "prazoDias": 81,
       "bombeiroAutuacao": "Sd Matheus FERRER Ferreira",
       "bloco": "EDIFICAÇÃO",
       "codgAuto": "AF8117000477A/26",
       "numgAuto": 509358,
-      "_ts": 1784144835.9241457
+      "_ts": 1790883309.8775182
     },
     "AF8117000476A/26": {
       "tipo": "FISCALIZACAO",
@@ -38531,7 +38533,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1790876039.291855
+      "_ts": 1790883218.103609
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -107031,7 +107033,7 @@
       "bloco": "BLOCO",
       "codgAuto": "AF8221000367A/26",
       "numgAuto": 531397,
-      "_ts": 1790876087.9931014
+      "_ts": 1790883400.477561
     },
     "AF8221000366A/26": {
       "tipo": "AF",
@@ -107045,7 +107047,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8221000366A/26",
-      "_ts": 1790876087.9931183
+      "_ts": 1790883400.4775722
     },
     "AF8221000365A/26": {
       "tipo": "FISCALIZACAO",
@@ -114615,6 +114617,364 @@
       "codgAuto": "MUL8221000357A/23",
       "numgAuto": 229838,
       "_ts": 1790876080.8740726
+    },
+    "AF8055000883A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1744.74,
+      "cidade": "BRUSQUE",
+      "responsavel": "LC HAIR DESIGN LTDA",
+      "cpfCnpj": "20693683000117",
+      "celular": "47999062531",
+      "email": "liciocosta@outlook.com",
+      "endereco_responsavel": "R Ludovico Merico, 108, Dom Joaquim, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "28/02/2024",
+      "prazoDias": -946,
+      "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8055000883A/23",
+      "numgAuto": 251949,
+      "_ts": 1790883171.641558
+    },
+    "AF8055001091A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1744.74,
+      "cidade": "BRUSQUE",
+      "responsavel": "LC HAIR DESIGN LTDA",
+      "cpfCnpj": "20693683000117",
+      "celular": "47999062531",
+      "email": "liciocosta@outlook.com",
+      "endereco_responsavel": "R Ludovico Merico, 108, Dom Joaquim, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "27/11/2026",
+      "prazoDias": 57,
+      "bombeiroAutuacao": "Cb Geremias Jose DUTRA",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8055001091A/26",
+      "numgAuto": 533847,
+      "_ts": 1790883171.6415708
+    },
+    "MUL8055000033A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 1744.74,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Bloco 01",
+      "codgAuto": "MUL8055000033A/24",
+      "numgAuto": 298634,
+      "_ts": 1790883171.6416013
+    },
+    "AF8117000689A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 355.09,
+      "cidade": "GASPAR",
+      "responsavel": "JORGE FONTOURA PINHEIRO KOREN DE LIMA",
+      "cpfCnpj": "45649324387",
+      "celular": "11958629922",
+      "email": "assuntosregulatoriosrp@hapvida.com.br",
+      "endereco_responsavel": "Avenida Paulista, 867, Bela Vista, São Paulo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Bloco 02",
+      "codgAuto": "AF8117000689A/26",
+      "numgAuto": 533867,
+      "_ts": 1790883249.4357553
+    },
+    "AF8117000688A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 456.75,
+      "cidade": "GASPAR",
+      "responsavel": "JULIA GRAZIELA BONFANTI",
+      "cpfCnpj": "06092074907",
+      "celular": "47988339442",
+      "email": "petrysteakhouse@gmail.com",
+      "endereco_responsavel": "Av Das Comunidades, 380, Centro, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "ÚNICO",
+      "codgAuto": "AF8117000688A/26",
+      "numgAuto": 533859,
+      "_ts": 1790883256.7832148
+    },
+    "AF8117000687A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1289.39,
+      "cidade": "GASPAR",
+      "responsavel": "Antonio Francisco Bohn",
+      "cpfCnpj": "39866424987",
+      "celular": "47999011786",
+      "email": "pnsdorosario@hotmail.com",
+      "endereco_responsavel": "R Lino Vicente Alberici, 85, Barracao, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000687A/26",
+      "numgAuto": 533857,
+      "_ts": 1790883264.7166739
+    },
+    "AF8117000686A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 420,
+      "cidade": "GASPAR",
+      "responsavel": "IRENE VERONICA TRIACCA SCHEFFER",
+      "cpfCnpj": "82265534900",
+      "celular": "47999999999",
+      "email": "matrix.contabil@terra.com.br",
+      "endereco_responsavel": "Rua Anfiloquio Nunes Pires, 2773, Figueira, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000686A/26",
+      "numgAuto": 533855,
+      "_ts": 1790883273.0716462
+    },
+    "AF8117000685A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 355.64,
+      "cidade": "GASPAR",
+      "responsavel": "Clovis Riffel",
+      "cpfCnpj": "52126811972",
+      "celular": "47997717867",
+      "email": "danielamarconilottermann@gmail.com",
+      "endereco_responsavel": "Rua Maria de Souza e Silva, Sem número, Bateias, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000685A/26",
+      "numgAuto": 533854,
+      "_ts": 1790883280.824667
+    },
+    "AF8117000684A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 225,
+      "cidade": "GASPAR",
+      "responsavel": "João Ferreira",
+      "cpfCnpj": "41854977920",
+      "celular": "47999217923",
+      "email": "joao.duzizo@gmail.com",
+      "endereco_responsavel": "Rua Vitor Presentino Venturi, 187, Santa Terezinha, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "SALA 02",
+      "codgAuto": "AF8117000684A/26",
+      "numgAuto": 533850,
+      "_ts": 1790883289.2554464
+    },
+    "AF8117000683A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 832.35,
+      "cidade": "GASPAR",
+      "responsavel": "OSNI TOMAZ SCHMITT",
+      "cpfCnpj": "35167971934",
+      "celular": "47996075858",
+      "email": "mvsclinica@gmail.com",
+      "endereco_responsavel": "Rua Manoel João de Souza, 41, Santa Terezinha, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000683A/26",
+      "numgAuto": 533849,
+      "_ts": 1790883298.3535109
+    },
+    "AF8117000682A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "535.46",
+      "cidade": "GASPAR",
+      "responsavel": "EDERSON ZUCCHI",
+      "cpfCnpj": "03742242938",
+      "celular": "47992917996",
+      "email": "francielikistner@cloud.com",
+      "endereco_responsavel": "Rod Ivo Silveira, 5355, Santa Terezinha, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "EDIFICAÇÃO",
+      "codgAuto": "AF8117000682A/26",
+      "numgAuto": 533846,
+      "_ts": 1790883309.877491
+    },
+    "AF8117000681A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 906.03,
+      "cidade": "GASPAR",
+      "responsavel": "OSVALDO SCHRAMM",
+      "cpfCnpj": "09336648934",
+      "celular": "47997471428",
+      "email": "sergioschramm@gmail.com",
+      "endereco_responsavel": "Rua Anfiloquio Nunes Pires, 5111, Bela Vista, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000681A/26",
+      "numgAuto": 533843,
+      "_ts": 1790883316.3510895
+    },
+    "AF8117000680A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 215.28,
+      "cidade": "GASPAR",
+      "responsavel": "SIDNEY MIRANDA",
+      "cpfCnpj": "37923544972",
+      "celular": "47988173160",
+      "email": "sidimiranda@gmail.com",
+      "endereco_responsavel": "Rua José Augusto Schapper, 62, Bela Vista, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000680A/26",
+      "numgAuto": 533841,
+      "_ts": 1790883328.4589975
+    },
+    "AF8117000679A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 383.26,
+      "cidade": "GASPAR",
+      "responsavel": "Juarez Schmitz",
+      "cpfCnpj": "02641397986",
+      "celular": "47999321834",
+      "email": "jsc.adm@hotmail.com",
+      "endereco_responsavel": "Rua Stanke, 211, Sete de Setembro, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Lofts",
+      "codgAuto": "AF8117000679A/26",
+      "numgAuto": 533839,
+      "_ts": 1790883341.840275
+    },
+    "AF8117000678A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 387.6,
+      "cidade": "GASPAR",
+      "responsavel": "CRISTIANO LAERCIO BOOS",
+      "cpfCnpj": "93613458934",
+      "celular": "47991050227",
+      "email": "administrativo@guardiancar.com.br",
+      "endereco_responsavel": "Rua Coronel Vidal Ramos, 2, Centro, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "GALPAO BELCHIOR BAIXO",
+      "codgAuto": "AF8117000678A/26",
+      "numgAuto": 533838,
+      "_ts": 1790883351.43568
+    },
+    "AF8117000677A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2100,
+      "cidade": "GASPAR",
+      "responsavel": "ILARIO ZIESE",
+      "cpfCnpj": "85222119904",
+      "celular": "47996778641",
+      "email": "contabil.circulo@circulo.com.br",
+      "endereco_responsavel": "Rua Doutor Nereu Ramos 360, 0, Coloninha, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Bloco 1",
+      "codgAuto": "AF8117000677A/26",
+      "numgAuto": 533835,
+      "_ts": 1790883363.0360377
+    },
+    "AF8225000610A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 4429.79,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "MASTERCOL INDÚSTRIA E COMÉRCIO LTDA",
+      "cpfCnpj": "04340141000104",
+      "celular": "48996243387",
+      "email": "julianohm@hotmail.com",
+      "endereco_responsavel": "Rua Brusque, 1025, Morro da Onca, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "04/01/2027",
+      "prazoDias": 95,
+      "bombeiroAutuacao": "Cb Frederico Moreira Silva",
+      "bloco": "MASTERCOL",
+      "codgAuto": "AF8225000610A/26",
+      "numgAuto": 533834,
+      "_ts": 1790883387.459434
+    },
+    "AF8047001273A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "7591.97",
+      "cidade": "BLUMENAU",
+      "responsavel": "SECRETARIA DO ESTADO DE EDUCAÇÃO",
+      "cpfCnpj": "82951328000581",
+      "celular": "47999820802",
+      "email": "silviamiguel@sed.sc.gov.br",
+      "endereco_responsavel": "Rua Antônio Luz, 121, Centro, Florianópolis",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "01/12/2026",
+      "prazoDias": 61,
+      "bombeiroAutuacao": "Cb Leda Marcinichen Jeremias",
+      "bloco": "EEB HERMANN HERING",
+      "codgAuto": "AF8047001273A/26",
+      "numgAuto": 533884,
+      "_ts": 1790883394.149451
     }
   }
 }
