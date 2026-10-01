@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-01T15:56:35-03:00",
+  "timestamp": "2026-10-01T16:06:53-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8148,
-      "ultima_verificacao": "2026-10-01T15:56:35-03:00"
+      "ultima_verificacao": "2026-10-01T16:06:53-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-01T15:56:35-03:00"
+      "ultima_verificacao": "2026-10-01T16:06:53-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1551,
-      "ultima_verificacao": "2026-10-01T15:56:35-03:00"
+      "ultima_verificacao": "2026-10-01T16:06:53-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3911,
-      "ultima_verificacao": "2026-10-01T15:56:35-03:00"
+      "ultimo_numero": 3912,
+      "ultima_verificacao": "2026-10-01T16:06:53-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3414,
-      "ultima_verificacao": "2026-10-01T15:56:35-03:00"
+      "ultima_verificacao": "2026-10-01T16:06:53-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-01T15:56:35-03:00"
+      "ultima_verificacao": "2026-10-01T16:06:53-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7239,
-      "ultima_verificacao": "2026-10-01T15:56:35-03:00"
+      "ultima_verificacao": "2026-10-01T16:06:53-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13074,
-      "ultima_verificacao": "2026-10-01T15:56:35-03:00"
+      "ultima_verificacao": "2026-10-01T16:06:53-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5056,
-      "ultima_verificacao": "2026-10-01T15:56:35-03:00"
+      "ultima_verificacao": "2026-10-01T16:06:53-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14390,
-      "ultima_verificacao": "2026-10-01T15:56:35-03:00"
+      "ultima_verificacao": "2026-10-01T16:06:53-03:00"
     }
   },
   "protocolos": {
@@ -3382,6 +3382,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003912A",
+        "RE": "RE8117003302A",
+        "numgEdificacao": 371483,
+        "Nome_Edificacao": "THA3I CONSTRUTORA LTDA",
+        "Logradouro": "R PEDRO SCHMITT JUNIOR",
+        "Numero": "363",
+        "Bairro": "GASPAR - POÇO GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-01T16:06:53-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003911A",
         "RE": "RE8117002642A",
@@ -19240,7 +19251,7 @@
     "Brusque": 184,
     "Botuvera": 42,
     "Guabiruba": 76,
-    "Gaspar": 145,
+    "Gaspar": 146,
     "Porto Belo": 133,
     "Nova Trento": 68,
     "Itapema": 192,
@@ -19248,5 +19259,5 @@
     "Navegantes": 159,
     "Itajai": 414
   },
-  "total_geral": 1742
+  "total_geral": 1743
 }
