@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-10-01T14:17:41-03:00",
+  "timestamp": "2026-10-01T14:27:00-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8145,
-      "ultima_verificacao": "2026-10-01T14:17:41-03:00"
+      "ultimo_numero": 8146,
+      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-01T14:17:41-03:00"
+      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1551,
-      "ultima_verificacao": "2026-10-01T14:17:41-03:00"
+      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3911,
-      "ultima_verificacao": "2026-10-01T14:17:41-03:00"
+      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3414,
-      "ultima_verificacao": "2026-10-01T14:17:41-03:00"
+      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-01T14:17:41-03:00"
+      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7238,
-      "ultima_verificacao": "2026-10-01T14:17:41-03:00"
+      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13073,
-      "ultima_verificacao": "2026-10-01T14:17:41-03:00"
+      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5056,
-      "ultima_verificacao": "2026-10-01T14:17:41-03:00"
+      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14390,
-      "ultima_verificacao": "2026-10-01T14:17:41-03:00"
+      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008146A",
+        "RE": "RE8055000194A",
+        "numgEdificacao": 16413,
+        "Nome_Edificacao": "B&G ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "RODOVIA IVO SILVEIRA",
+        "Numero": "987",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-01T14:27:00-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008145A",
         "RE": "RE8055006845A",
@@ -19182,7 +19193,7 @@
     ]
   },
   "totais": {
-    "Brusque": 181,
+    "Brusque": 182,
     "Botuvera": 42,
     "Guabiruba": 76,
     "Gaspar": 145,
@@ -19193,5 +19204,5 @@
     "Navegantes": 159,
     "Itajai": 414
   },
-  "total_geral": 1737
+  "total_geral": 1738
 }
