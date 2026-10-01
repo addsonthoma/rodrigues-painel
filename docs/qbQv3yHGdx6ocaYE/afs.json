@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-01T08:20:19-03:00",
+  "timestamp": "2026-10-01T08:30:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1085,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T08:20:19-03:00"
+      "ultima_verificacao": "2026-10-01T08:30:27-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 36,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T08:20:19-03:00"
+      "ultima_verificacao": "2026-10-01T08:30:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T08:20:19-03:00"
+      "ultima_verificacao": "2026-10-01T08:30:27-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 675,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T08:20:19-03:00"
+      "ultima_verificacao": "2026-10-01T08:30:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 541,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T08:20:19-03:00"
+      "ultima_verificacao": "2026-10-01T08:30:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 604,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T08:20:19-03:00"
+      "ultima_verificacao": "2026-10-01T08:30:27-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1279,
+      "ultimo_numero": 1280,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T08:20:19-03:00"
+      "ultima_verificacao": "2026-10-01T08:30:27-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1270,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T08:20:19-03:00"
+      "ultima_verificacao": "2026-10-01T08:30:27-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 377,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T08:20:19-03:00"
+      "ultima_verificacao": "2026-10-01T08:30:27-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1271,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T08:20:19-03:00"
+      "ultima_verificacao": "2026-10-01T08:30:27-03:00"
     }
   },
   "afs": {
@@ -15003,6 +15003,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001280A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002529A",
+        "Nome_Edificacao": "RESIDENCIAL KAIROS",
+        "Logradouro": "RUA 420",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-01T08:30:27-03:00"
+      },
       {
         "CodigoAuto": "AF8163001279A/26",
         "Tipo": "AF",
@@ -34741,10 +34752,10 @@
     "Gaspar": 257,
     "Porto Belo": 250,
     "Nova Trento": 294,
-    "Itapema": 545,
+    "Itapema": 546,
     "Blumenau": 557,
     "Navegantes": 173,
     "Itajai": 518
   },
-  "total_geral": 3150
+  "total_geral": 3151
 }
