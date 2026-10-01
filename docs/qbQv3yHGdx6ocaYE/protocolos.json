@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-01T02:36:55-03:00",
+  "timestamp": "2026-10-01T02:46:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8145,
-      "ultima_verificacao": "2026-10-01T02:36:55-03:00"
+      "ultima_verificacao": "2026-10-01T02:46:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-01T02:36:55-03:00"
+      "ultima_verificacao": "2026-10-01T02:46:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1551,
-      "ultima_verificacao": "2026-10-01T02:36:55-03:00"
+      "ultima_verificacao": "2026-10-01T02:46:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3910,
-      "ultima_verificacao": "2026-10-01T02:36:55-03:00"
+      "ultima_verificacao": "2026-10-01T02:46:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3413,
-      "ultima_verificacao": "2026-10-01T02:36:55-03:00"
+      "ultimo_numero": 3414,
+      "ultima_verificacao": "2026-10-01T02:46:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-01T02:36:55-03:00"
+      "ultima_verificacao": "2026-10-01T02:46:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7237,
-      "ultima_verificacao": "2026-10-01T02:36:55-03:00"
+      "ultima_verificacao": "2026-10-01T02:46:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13072,
-      "ultima_verificacao": "2026-10-01T02:36:55-03:00"
+      "ultima_verificacao": "2026-10-01T02:46:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5055,
-      "ultima_verificacao": "2026-10-01T02:36:55-03:00"
+      "ultima_verificacao": "2026-10-01T02:46:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14389,
-      "ultima_verificacao": "2026-10-01T02:36:55-03:00"
+      "ultima_verificacao": "2026-10-01T02:46:57-03:00"
     }
   },
   "protocolos": {
@@ -4935,6 +4935,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003414A",
+        "RE": "RE8265002861A",
+        "numgEdificacao": 371421,
+        "Nome_Edificacao": "MERIDIAN RESIDENCIAL",
+        "Logradouro": "AV. JOÃO MANOEL JAQUES ESQ. C/ RUA WILSON BELBER",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-01T02:46:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003413A",
         "RE": "RE8265002834A",
@@ -19120,12 +19131,12 @@
     "Botuvera": 42,
     "Guabiruba": 76,
     "Gaspar": 144,
-    "Porto Belo": 132,
+    "Porto Belo": 133,
     "Nova Trento": 68,
     "Itapema": 190,
     "Blumenau": 327,
     "Navegantes": 158,
     "Itajai": 413
   },
-  "total_geral": 1731
+  "total_geral": 1732
 }
