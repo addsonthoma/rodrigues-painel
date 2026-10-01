@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-01T13:40:29-03:00",
+  "timestamp": "2026-10-01T13:50:47-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1089,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T13:40:29-03:00"
+      "ultima_verificacao": "2026-10-01T13:50:47-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 36,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T13:40:29-03:00"
+      "ultima_verificacao": "2026-10-01T13:50:47-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T13:40:29-03:00"
+      "ultima_verificacao": "2026-10-01T13:50:47-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 676,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T13:40:29-03:00"
+      "ultima_verificacao": "2026-10-01T13:50:47-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 544,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T13:40:29-03:00"
+      "ultima_verificacao": "2026-10-01T13:50:47-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 609,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T13:40:29-03:00"
+      "ultima_verificacao": "2026-10-01T13:50:47-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1283,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T13:40:29-03:00"
+      "ultima_verificacao": "2026-10-01T13:50:47-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1272,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T13:40:29-03:00"
+      "ultima_verificacao": "2026-10-01T13:50:47-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 377,
+      "ultimo_numero": 378,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T13:40:29-03:00"
+      "ultima_verificacao": "2026-10-01T13:50:47-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1273,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-01T13:40:29-03:00"
+      "ultima_verificacao": "2026-10-01T13:50:47-03:00"
     }
   },
   "afs": {
@@ -27339,6 +27339,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000378A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000071A",
+        "Nome_Edificacao": "Posto Presidente Ltda",
+        "Logradouro": "Avenida Conselheiro João Gaya 1300",
+        "Numero": "1300",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-01T13:50:47-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000377A/26",
         "Tipo": "AF",
         "RE": "RE8221000701A",
@@ -34974,8 +34985,8 @@
     "Nova Trento": 299,
     "Itapema": 549,
     "Blumenau": 559,
-    "Navegantes": 173,
+    "Navegantes": 174,
     "Itajai": 520
   },
-  "total_geral": 3171
+  "total_geral": 3172
 }
