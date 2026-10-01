@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-01T13:57:47-03:00",
+  "timestamp": "2026-10-01T14:06:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8145,
-      "ultima_verificacao": "2026-10-01T13:57:47-03:00"
+      "ultima_verificacao": "2026-10-01T14:06:58-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-01T13:57:47-03:00"
+      "ultima_verificacao": "2026-10-01T14:06:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1551,
-      "ultima_verificacao": "2026-10-01T13:57:47-03:00"
+      "ultima_verificacao": "2026-10-01T14:06:58-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3911,
-      "ultima_verificacao": "2026-10-01T13:57:47-03:00"
+      "ultima_verificacao": "2026-10-01T14:06:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3414,
-      "ultima_verificacao": "2026-10-01T13:57:47-03:00"
+      "ultima_verificacao": "2026-10-01T14:06:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-01T13:57:47-03:00"
+      "ultima_verificacao": "2026-10-01T14:06:58-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7238,
-      "ultima_verificacao": "2026-10-01T13:57:47-03:00"
+      "ultima_verificacao": "2026-10-01T14:06:58-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13073,
-      "ultima_verificacao": "2026-10-01T13:57:47-03:00"
+      "ultima_verificacao": "2026-10-01T14:06:58-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5055,
-      "ultima_verificacao": "2026-10-01T13:57:47-03:00"
+      "ultimo_numero": 5056,
+      "ultima_verificacao": "2026-10-01T14:06:58-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14390,
-      "ultima_verificacao": "2026-10-01T13:57:47-03:00"
+      "ultima_verificacao": "2026-10-01T14:06:58-03:00"
     }
   },
   "protocolos": {
@@ -12875,6 +12875,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005056A",
+        "RE": "RE8221004168A",
+        "numgEdificacao": 371423,
+        "Nome_Edificacao": "RAUL SCHMITZ FILHO",
+        "Logradouro": "Roque Bernardino Rosa",
+        "Numero": "224",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-01T14:06:58-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005055A",
         "RE": "RE8221004167A",
         "numgEdificacao": 371360,
@@ -19179,8 +19190,8 @@
     "Nova Trento": 68,
     "Itapema": 191,
     "Blumenau": 328,
-    "Navegantes": 158,
+    "Navegantes": 159,
     "Itajai": 414
   },
-  "total_geral": 1736
+  "total_geral": 1737
 }
