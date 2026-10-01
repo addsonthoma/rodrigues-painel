@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-01T16:57:15-03:00",
+  "timestamp": "2026-10-01T17:07:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8148,
-      "ultima_verificacao": "2026-10-01T16:57:15-03:00"
+      "ultima_verificacao": "2026-10-01T17:07:21-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-01T16:57:15-03:00"
+      "ultima_verificacao": "2026-10-01T17:07:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1553,
-      "ultima_verificacao": "2026-10-01T16:57:15-03:00"
+      "ultima_verificacao": "2026-10-01T17:07:21-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3912,
-      "ultima_verificacao": "2026-10-01T16:57:15-03:00"
+      "ultima_verificacao": "2026-10-01T17:07:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3414,
-      "ultima_verificacao": "2026-10-01T16:57:15-03:00"
+      "ultima_verificacao": "2026-10-01T17:07:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-01T16:57:15-03:00"
+      "ultima_verificacao": "2026-10-01T17:07:21-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7240,
-      "ultima_verificacao": "2026-10-01T16:57:15-03:00"
+      "ultima_verificacao": "2026-10-01T17:07:21-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13074,
-      "ultima_verificacao": "2026-10-01T16:57:15-03:00"
+      "ultima_verificacao": "2026-10-01T17:07:21-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5056,
-      "ultima_verificacao": "2026-10-01T16:57:15-03:00"
+      "ultima_verificacao": "2026-10-01T17:07:21-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14391,
-      "ultima_verificacao": "2026-10-01T16:57:15-03:00"
+      "ultimo_numero": 14392,
+      "ultima_verificacao": "2026-10-01T17:07:21-03:00"
     }
   },
   "protocolos": {
@@ -14725,6 +14725,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014392A",
+        "RE": "RE8161013922A",
+        "numgEdificacao": 371316,
+        "Nome_Edificacao": "LAURI EVANGELISTA",
+        "Logradouro": "R RODOLPHO GIRARDI",
+        "Numero": "5463",
+        "Bairro": "ITAJAÍ - BRILHANTE II",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-01T17:07:21-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014391A",
         "RE": "RE8161012603A",
         "numgEdificacao": 332500,
@@ -19301,7 +19312,7 @@
     "Itapema": 193,
     "Blumenau": 329,
     "Navegantes": 159,
-    "Itajai": 415
+    "Itajai": 416
   },
-  "total_geral": 1747
+  "total_geral": 1748
 }
