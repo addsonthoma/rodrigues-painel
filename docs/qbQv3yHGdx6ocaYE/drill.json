@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-01T10:35:34-03:00",
-  "total": 5841,
+  "timestamp": "2026-10-01T12:35:02-03:00",
+  "total": 5867,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -588,7 +588,7 @@
       "bloco": "01",
       "codgAuto": "AF8051000037A/22",
       "numgAuto": 117498,
-      "_ts": 1790861602.078269
+      "_ts": 1790868808.938772
     },
     "AF8051000018A/26": {
       "tipo": "AF",
@@ -602,7 +602,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000018A/26",
-      "_ts": 1790861602.0782912
+      "_ts": 1790868808.9387891
     },
     "MUL8051000009A/23": {
       "tipo": "MULTA",
@@ -620,7 +620,7 @@
       "bloco": "01",
       "codgAuto": "MUL8051000009A/23",
       "numgAuto": 238881,
-      "_ts": 1790861602.0782833
+      "_ts": 1790868808.9387827
     },
     "AF8051000012A/26": {
       "tipo": "FISCALIZACAO",
@@ -5113,7 +5113,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1790861594.7644372
+      "_ts": 1790868801.1167603
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5133,7 +5133,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1790861594.7643943
+      "_ts": 1790868801.11674
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -5340,7 +5340,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000047A/26",
-      "_ts": 1790861625.7184162
+      "_ts": 1790868832.9845228
     },
     "AF8123000046A/26": {
       "tipo": "FISCALIZACAO",
@@ -9456,7 +9456,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1790861585.5039132
+      "_ts": 1790868793.5989711
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -14013,7 +14013,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1790861618.4971983
+      "_ts": 1790868826.6473684
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -30100,7 +30100,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1790861615.7367575
+      "_ts": 1790868824.909327
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38531,7 +38531,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1790861609.4002445
+      "_ts": 1790868817.1619925
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -107031,7 +107031,7 @@
       "bloco": "BLOCO",
       "codgAuto": "AF8221000367A/26",
       "numgAuto": 531397,
-      "_ts": 1790861720.6189744
+      "_ts": 1790868880.3943744
     },
     "AF8221000366A/26": {
       "tipo": "AF",
@@ -107045,7 +107045,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8221000366A/26",
-      "_ts": 1790861720.6189992
+      "_ts": 1790868880.3943903
     },
     "AF8221000365A/26": {
       "tipo": "FISCALIZACAO",
@@ -113874,6 +113874,527 @@
       "codgAuto": "AF8161001272A/26",
       "numgAuto": 533719,
       "_ts": 1790861733.4876282
+    },
+    "AF8055001087A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": null,
+      "cidade": "BRUSQUE",
+      "responsavel": "CONDOMÍNIO CENTRO COMERCIAL E INDUSTRIAL DE AZAMBUJA",
+      "cpfCnpj": "81286262000166",
+      "celular": "47999710265",
+      "email": "bruscon12@bruscon.com.br",
+      "endereco_responsavel": "Rua Azambuja, 461, Centro II, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/01/2027",
+      "prazoDias": 92,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "01",
+      "codgAuto": "AF8055001087A/26",
+      "numgAuto": 533747,
+      "_ts": 1790868767.4783633
+    },
+    "AF8055001086A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 2300,
+      "cidade": "BRUSQUE",
+      "responsavel": "Márcio Antônio Turkot",
+      "cpfCnpj": "78053765904",
+      "celular": "47988117131",
+      "email": "marcio.at@hotmail.com",
+      "endereco_responsavel": "Rua 4502, 64, Centro, Balneário Camboriú",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "30/10/2026",
+      "prazoDias": 29,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "01",
+      "codgAuto": "AF8055001086A/26",
+      "numgAuto": 533742,
+      "_ts": 1790868775.5702405
+    },
+    "AF8117000676A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 499.1,
+      "cidade": "GASPAR",
+      "responsavel": "JOSE MARCOS MARCHIORI",
+      "cpfCnpj": "53437497987",
+      "celular": "47999999999",
+      "email": "filialgaspar@cazzo2.com.br",
+      "endereco_responsavel": "Rua Hercilio Fides Zimmermann, 443, Margem Esquerda, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "Sd Fernando GRINKO",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000676A/26",
+      "numgAuto": 533745,
+      "_ts": 1790868839.718951
+    },
+    "AF8265000549A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1689.07,
+      "cidade": "PORTO BELO",
+      "responsavel": "ABC.INC. LTDA",
+      "cpfCnpj": "13248384000108",
+      "celular": "47999870608",
+      "email": "fiscal@abcempreendimentos.com.br",
+      "endereco_responsavel": "Avenida Nereu Ramos, 544, Centro, Itapema",
+      "exigencias": [
+        "Executar sistema de alarme de incêndio",
+        "Executar sistema de iluminação de emergência",
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema hidráulico preventivo",
+        "Executar instalações elétricas",
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "30/11/2023",
+      "prazoDias": -1036,
+      "bombeiroAutuacao": "Cb Sidinei Luiz GROLLI",
+      "bloco": "Galpão industrial",
+      "codgAuto": "AF8265000549A/23",
+      "numgAuto": 245486,
+      "_ts": 1790868849.4203463
+    },
+    "AF8265000466A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1689.07,
+      "cidade": "PORTO BELO",
+      "responsavel": "Marina Luiza Rosa Piva",
+      "cpfCnpj": "08912931911",
+      "celular": "47992432955",
+      "email": "marina.piva@cbaempreendimentos.com.br",
+      "endereco_responsavel": "Rua 123, 23, Centro, Itapema",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento",
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "11/10/2024",
+      "prazoDias": -720,
+      "bombeiroAutuacao": "Sd Leonardo Edson SOARES",
+      "bloco": "Galpão industrial",
+      "codgAuto": "AF8265000466A/24",
+      "numgAuto": 335245,
+      "_ts": 1790868849.4203525
+    },
+    "AF8265000495A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1689.07,
+      "cidade": "PORTO BELO",
+      "responsavel": "ABC.INC. LTDA",
+      "cpfCnpj": "13248384000108",
+      "celular": "47999870608",
+      "email": "fiscal@abcempreendimentos.com.br",
+      "endereco_responsavel": "Avenida Nereu Ramos, 544, Centro, Itapema",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "06/11/2024",
+      "prazoDias": -694,
+      "bombeiroAutuacao": "Cb Sidinei Luiz GROLLI",
+      "bloco": "Galpão industrial",
+      "codgAuto": "AF8265000495A/24",
+      "numgAuto": 339390,
+      "_ts": 1790868849.4203553
+    },
+    "AF8265000658A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1689.07,
+      "cidade": "PORTO BELO",
+      "responsavel": "ABC.INC. LTDA",
+      "cpfCnpj": "13248384000108",
+      "celular": "47999870608",
+      "email": "fiscal@abcempreendimentos.com.br",
+      "endereco_responsavel": "Avenida Nereu Ramos, 544, Centro, Itapema",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "04/02/2025",
+      "prazoDias": -604,
+      "bombeiroAutuacao": "Sd Jean Shoji TSUNA",
+      "bloco": "Galpão industrial",
+      "codgAuto": "AF8265000658A/24",
+      "numgAuto": 357152,
+      "_ts": 1790868849.4203572
+    },
+    "AF8265000544A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1689.07,
+      "cidade": "PORTO BELO",
+      "responsavel": "ABC.INC. LTDA",
+      "cpfCnpj": "13248384000108",
+      "celular": "47999870608",
+      "email": "fiscal@abcempreendimentos.com.br",
+      "endereco_responsavel": "Avenida Nereu Ramos, 544, Centro, Itapema",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "3º Sgt Verlaine Aparecida Sinhorini",
+      "bloco": "Galpão industrial",
+      "codgAuto": "AF8265000544A/26",
+      "numgAuto": 533738,
+      "_ts": 1790868849.4203591
+    },
+    "MUL8265000196A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 1689.07,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Galpão industrial",
+      "codgAuto": "MUL8265000196A/24",
+      "numgAuto": 356658,
+      "_ts": 1790868849.420386
+    },
+    "MUL8265000009A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 1689.07,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Galpão industrial",
+      "codgAuto": "MUL8265000009A/24",
+      "numgAuto": 268815,
+      "_ts": 1790868849.4203892
+    },
+    "MUL8265000027A/25": {
+      "tipo": "MULTA",
+      "areaTotal": 1689.07,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Galpão industrial",
+      "codgAuto": "MUL8265000027A/25",
+      "numgAuto": 370736,
+      "_ts": 1790868849.4203906
+    },
+    "MUL8265000184A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 1689.07,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Galpão industrial",
+      "codgAuto": "MUL8265000184A/24",
+      "numgAuto": 353810,
+      "_ts": 1790868849.420393
+    },
+    "AF8265000360A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 90.05,
+      "cidade": "PORTO BELO",
+      "responsavel": "ERICA JANAINA DE SOUZA",
+      "cpfCnpj": "04532267951",
+      "celular": "47999635124",
+      "email": "ericadireitoo@gmail.com",
+      "endereco_responsavel": "R Jose Antonio de Aquino, 598, Araca, Porto Belo",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "31/10/2024",
+      "prazoDias": -700,
+      "bombeiroAutuacao": "3º Sgt Marcus Vinicius Bellini Mercedes dos San",
+      "bloco": "CONVENIENCIA M.E",
+      "codgAuto": "AF8265000360A/24",
+      "numgAuto": 322805,
+      "_ts": 1790868857.4593997
+    },
+    "AF8265000543A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 90.05,
+      "cidade": "PORTO BELO",
+      "responsavel": "ERICA JANAINA DE SOUZA",
+      "cpfCnpj": "04532267951",
+      "celular": "47999635124",
+      "email": "ericadireitoo@gmail.com",
+      "endereco_responsavel": "R Jose Antonio de Aquino, 598, Araca, Porto Belo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "3º Sgt Verlaine Aparecida Sinhorini",
+      "bloco": "CONVENIENCIA M.E",
+      "codgAuto": "AF8265000543A/26",
+      "numgAuto": 533736,
+      "_ts": 1790868857.4594057
+    },
+    "MUL8265000165A/24": {
+      "tipo": "MULTA",
+      "areaTotal": 90.05,
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "CONVENIENCIA M.E",
+      "codgAuto": "MUL8265000165A/24",
+      "numgAuto": 349089,
+      "_ts": 1790868857.4594326
+    },
+    "AF8265000542A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 199.2,
+      "cidade": "PORTO BELO",
+      "responsavel": "GILMAR BAIOTO",
+      "cpfCnpj": "58105972972",
+      "celular": "47999410630",
+      "email": "gilmarbaioto@gmail.com",
+      "endereco_responsavel": "Rua Emilio Georg, 66, Pereque, Porto Belo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "01/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "3º Sgt Verlaine Aparecida Sinhorini",
+      "bloco": "GILMAR BAIOTO",
+      "codgAuto": "AF8265000542A/26",
+      "numgAuto": 533734,
+      "_ts": 1790868865.3426428
+    },
+    "AF8225000609A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 250,
+      "cidade": "NOVA TRENTO",
+      "responsavel": "48.113.884 OLIANA NEURA BRAUN ORLANDI",
+      "cpfCnpj": "48113884000117",
+      "celular": "48991368060",
+      "email": "olianaorlandi@gmail.com",
+      "endereco_responsavel": "R Alferes, 2615, Trinta Reis, Nova Trento",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "09/11/2026",
+      "prazoDias": 39,
+      "bombeiroAutuacao": "Sd Vinicius Rosa GANZER",
+      "bloco": "Bloco",
+      "codgAuto": "AF8225000609A/26",
+      "numgAuto": 533741,
+      "_ts": 1790868873.505823
+    },
+    "AF8161000140A/21": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "26825.36",
+      "cidade": "ITAJAÍ",
+      "responsavel": "RIVIERA EMPRENDIMENTOS IMOBILIÁRIOS LTDA",
+      "cpfCnpj": "10225468000138",
+      "celular": "47992116600",
+      "email": "societario@realcontabil.cnt.br",
+      "endereco_responsavel": "Rua 51, 51, Centro, Balneário Camboriú",
+      "exigencias": [
+        "Apresentar projeto (PPCI ou RPCI)",
+        "Executar instalações de gás combustível",
+        "Executar sistema hidráulico preventivo",
+        "Solicitar vistoria para habite-se",
+        "Executar sistema de chuveiros automáticos (sprinklers)",
+        "Executar sistema de elevador de emergência",
+        "Executar sistema de saída de emergência",
+        "Implantar brigada de incêndio"
+      ],
+      "dataPrazo": "06/09/2022",
+      "prazoDias": -1486,
+      "bombeiroAutuacao": "Cb Roger Ricardo Mafra",
+      "bloco": "Área em Construção",
+      "codgAuto": "AF8161000140A/21",
+      "numgAuto": 6410,
+      "_ts": 1790868902.082774
+    },
+    "AF8161001838A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "26825.36",
+      "cidade": "ITAJAÍ",
+      "responsavel": "RIVIERA CONCEPT COMPLEXO MULTIUSO - CONDOMINIO CENTRAL",
+      "cpfCnpj": "28452559000171",
+      "celular": "47988327501",
+      "email": "adm.rivieraoffice@gmail.com",
+      "endereco_responsavel": "Avenida Osvaldo Reis, 3385, Praia Brava, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "19/03/2024",
+      "prazoDias": -926,
+      "bombeiroAutuacao": "SubTen LUIZ ALBERTO Moreira",
+      "bloco": "Área em Construção",
+      "codgAuto": "AF8161001838A/23",
+      "numgAuto": 233013,
+      "_ts": 1790868902.0827763
+    },
+    "AF8161001432A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "26825.36",
+      "cidade": "ITAJAÍ",
+      "responsavel": "RIVIERA CONCEPT COMPLEXO MULTIUSO - CONDOMINIO CENTRAL",
+      "cpfCnpj": "28452559000171",
+      "celular": "47988327501",
+      "email": "adm.rivieraoffice@gmail.com",
+      "endereco_responsavel": "Avenida Osvaldo Reis, 3385, Praia Brava, Itajaí",
+      "exigencias": [
+        "Executar medidas de segurança para piscinas",
+        "Executar sistema de pressurização de escadas",
+        "Solicitar vistoria para habite-se",
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____",
+        "Executar instalações de gás combustível",
+        "Executar sistema de elevador de emergência",
+        "Executar sistema de saída de emergência"
+      ],
+      "dataPrazo": "10/11/2024",
+      "prazoDias": -690,
+      "bombeiroAutuacao": "Cb Leonardo FERREIRA Borges",
+      "bloco": "Área em Construção",
+      "codgAuto": "AF8161001432A/24",
+      "numgAuto": 329747,
+      "_ts": 1790868902.0827782
+    },
+    "AF8161001273A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "26825.36",
+      "cidade": "ITAJAÍ",
+      "responsavel": "Cristian Lopes Brandão",
+      "cpfCnpj": "07569675975",
+      "celular": "47992843447",
+      "email": "gestao.rivieraconcept@gmail.com",
+      "endereco_responsavel": "Avenida Osvaldo Reis, 3385, Praia Brava, Itajaí",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "02/11/2026",
+      "prazoDias": 32,
+      "bombeiroAutuacao": "Cb Vanderley MENDONCA",
+      "bloco": "Área em Construção",
+      "codgAuto": "AF8161001273A/26",
+      "numgAuto": 533735,
+      "_ts": 1790868902.0827794
+    },
+    "AF8161001357A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "26825.36",
+      "cidade": "ITAJAÍ",
+      "responsavel": "RIVIERA CONCEPT COMPLEXO MULTIUSO - CONDOMINIO CENTRAL",
+      "cpfCnpj": "28452559000171",
+      "celular": "47988327501",
+      "email": "adm.rivieraoffice@gmail.com",
+      "endereco_responsavel": "Avenida Osvaldo Reis, 3385, Praia Brava, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "30/04/2027",
+      "prazoDias": 211,
+      "bombeiroAutuacao": "Cb Leonardo FERREIRA Borges",
+      "bloco": "Área em Construção",
+      "codgAuto": "AF8161001357A/25",
+      "numgAuto": 436624,
+      "_ts": 1790868902.0827873
+    },
+    "MUL8161000010A/23": {
+      "tipo": "MULTA",
+      "areaTotal": "26825.36",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Área em Construção",
+      "codgAuto": "MUL8161000010A/23",
+      "numgAuto": 156990,
+      "_ts": 1790868902.082789
+    },
+    "MUL8161000306A/24": {
+      "tipo": "MULTA",
+      "areaTotal": "26825.36",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Área em Construção",
+      "codgAuto": "MUL8161000306A/24",
+      "numgAuto": 294185,
+      "_ts": 1790868902.0827904
+    },
+    "MUL8161000235A/25": {
+      "tipo": "MULTA",
+      "areaTotal": "26825.36",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Área em Construção",
+      "codgAuto": "MUL8161000235A/25",
+      "numgAuto": 388770,
+      "_ts": 1790868902.0827923
+    },
+    "MUL8161000049A/25": {
+      "tipo": "MULTA",
+      "areaTotal": "26825.36",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Área em Construção",
+      "codgAuto": "MUL8161000049A/25",
+      "numgAuto": 366690,
+      "_ts": 1790868902.0827935
     }
   }
 }
