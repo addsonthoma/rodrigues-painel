@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-01T14:27:00-03:00",
+  "timestamp": "2026-10-01T14:37:49-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8146,
-      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
+      "ultima_verificacao": "2026-10-01T14:37:49-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
+      "ultima_verificacao": "2026-10-01T14:37:49-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1551,
-      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
+      "ultima_verificacao": "2026-10-01T14:37:49-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3911,
-      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
+      "ultima_verificacao": "2026-10-01T14:37:49-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3414,
-      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
+      "ultima_verificacao": "2026-10-01T14:37:49-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
+      "ultima_verificacao": "2026-10-01T14:37:49-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7238,
-      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
+      "ultimo_numero": 7239,
+      "ultima_verificacao": "2026-10-01T14:37:49-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13073,
-      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
+      "ultima_verificacao": "2026-10-01T14:37:49-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5056,
-      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
+      "ultima_verificacao": "2026-10-01T14:37:49-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14390,
-      "ultima_verificacao": "2026-10-01T14:27:00-03:00"
+      "ultima_verificacao": "2026-10-01T14:37:49-03:00"
     }
   },
   "protocolos": {
@@ -7172,6 +7172,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007239A",
+        "RE": "RE8163006905A",
+        "numgEdificacao": 371291,
+        "Nome_Edificacao": "ESCRITÓRIO JLC",
+        "Logradouro": "RUA 236",
+        "Numero": "683",
+        "Bairro": "ITAPEMA - meia praia",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-01T14:37:49-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007238A",
         "RE": "RE8163006857A",
@@ -19199,10 +19210,10 @@
     "Gaspar": 145,
     "Porto Belo": 133,
     "Nova Trento": 68,
-    "Itapema": 191,
+    "Itapema": 192,
     "Blumenau": 328,
     "Navegantes": 159,
     "Itajai": 414
   },
-  "total_geral": 1738
+  "total_geral": 1739
 }
