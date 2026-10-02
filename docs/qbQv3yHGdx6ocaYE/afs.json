@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-02T12:20:19-03:00",
+  "timestamp": "2026-10-02T12:30:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1093,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:30:20-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 36,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:30:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:30:20-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 695,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:30:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 545,
+      "ultimo_numero": 546,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:30:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 610,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:30:20-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1285,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:30:20-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1275,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:30:20-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 380,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:30:20-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1275,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:30:20-03:00"
     }
   },
   "afs": {
@@ -9323,6 +9323,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000546A/26",
+        "Tipo": "AF",
+        "RE": "RE8265001366A",
+        "Nome_Edificacao": "RESIDENCIAL CAUÃ",
+        "Logradouro": "Rua Osvaldo Claudino Ramos",
+        "Numero": "47",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-02T12:30:20-03:00"
+      },
       {
         "CodigoAuto": "AF8265000545A/26",
         "Tipo": "AF",
@@ -35355,12 +35366,12 @@
     "Botuvera": 36,
     "Guabiruba": 45,
     "Gaspar": 277,
-    "Porto Belo": 254,
+    "Porto Belo": 255,
     "Nova Trento": 300,
     "Itapema": 551,
     "Blumenau": 562,
     "Navegantes": 176,
     "Itajai": 522
   },
-  "total_geral": 3206
+  "total_geral": 3207
 }
