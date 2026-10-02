@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-02T15:37:29-03:00",
+  "timestamp": "2026-10-02T15:46:31-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8150,
-      "ultima_verificacao": "2026-10-02T15:37:29-03:00"
+      "ultima_verificacao": "2026-10-02T15:46:31-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-02T15:37:29-03:00"
+      "ultima_verificacao": "2026-10-02T15:46:31-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1553,
-      "ultima_verificacao": "2026-10-02T15:37:29-03:00"
+      "ultima_verificacao": "2026-10-02T15:46:31-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3915,
-      "ultima_verificacao": "2026-10-02T15:37:29-03:00"
+      "ultima_verificacao": "2026-10-02T15:46:31-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3415,
-      "ultima_verificacao": "2026-10-02T15:37:29-03:00"
+      "ultima_verificacao": "2026-10-02T15:46:31-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-02T15:37:29-03:00"
+      "ultima_verificacao": "2026-10-02T15:46:31-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7241,
-      "ultima_verificacao": "2026-10-02T15:37:29-03:00"
+      "ultima_verificacao": "2026-10-02T15:46:31-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13080,
-      "ultima_verificacao": "2026-10-02T15:37:29-03:00"
+      "ultima_verificacao": "2026-10-02T15:46:31-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5056,
-      "ultima_verificacao": "2026-10-02T15:37:29-03:00"
+      "ultima_verificacao": "2026-10-02T15:46:31-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14395,
-      "ultima_verificacao": "2026-10-02T15:37:29-03:00"
+      "ultimo_numero": 14396,
+      "ultima_verificacao": "2026-10-02T15:46:31-03:00"
     }
   },
   "protocolos": {
@@ -14868,6 +14868,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014396A",
+        "RE": "RE8161001713A",
+        "numgEdificacao": 53568,
+        "Nome_Edificacao": "EDIFÍCIO SOLARES DA BRAVA",
+        "Logradouro": "Avenida Carlos Drumond de Andrade",
+        "Numero": "200",
+        "Bairro": "ITAJAÍ - Praia Brava de Itajaí",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-02T15:46:31-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014395A",
         "RE": "RE8161002605A",
         "numgEdificacao": 92145,
@@ -19488,7 +19499,7 @@
     "Itapema": 194,
     "Blumenau": 335,
     "Navegantes": 159,
-    "Itajai": 419
+    "Itajai": 420
   },
-  "total_geral": 1764
+  "total_geral": 1765
 }
