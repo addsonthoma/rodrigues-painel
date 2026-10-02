@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-10-02T11:30:05-03:00",
+  "timestamp": "2026-10-02T11:40:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-02T11:30:05-03:00"
+      "ultima_verificacao": "2026-10-02T11:40:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-02T11:30:05-03:00"
+      "ultima_verificacao": "2026-10-02T11:40:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-02T11:30:05-03:00"
+      "ultima_verificacao": "2026-10-02T11:40:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
-      "ultimo_numero": 65,
+      "ultimo_numero": 66,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-02T11:30:05-03:00"
+      "ultima_verificacao": "2026-10-02T11:40:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 126,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-02T11:30:05-03:00"
+      "ultima_verificacao": "2026-10-02T11:40:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 155,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-02T11:30:05-03:00"
+      "ultima_verificacao": "2026-10-02T11:40:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 227,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-02T11:30:05-03:00"
+      "ultima_verificacao": "2026-10-02T11:40:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 282,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-02T11:30:05-03:00"
+      "ultima_verificacao": "2026-10-02T11:40:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-02T11:30:05-03:00"
+      "ultima_verificacao": "2026-10-02T11:40:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 501,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-02T11:30:05-03:00"
+      "ultima_verificacao": "2026-10-02T11:40:03-03:00"
     }
   },
   "multas": {
@@ -2287,6 +2287,16 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "MUL8117000066A/26",
+        "RE": "RE8117000212A",
+        "Nome_Edificacao": "REVIVA VERDE",
+        "Logradouro": "Rua Fernando Krauss",
+        "Numero": "620",
+        "Bairro": "GASPAR - GASPAR MIRIM",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-02T11:40:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8117000065A/26",
         "RE": "RE8117000779A",
@@ -7945,7 +7955,7 @@
     "Blumenau": 147,
     "Botuvera": 3,
     "Brusque": 74,
-    "Gaspar": 41,
+    "Gaspar": 42,
     "Guabiruba": 3,
     "Itajai": 219,
     "Itapema": 110,
@@ -7953,8 +7963,15 @@
     "Nova Trento": 72,
     "Porto Belo": 69
   },
-  "total_geral": 798,
+  "total_geral": 799,
   "eventos_recentes": [
+    {
+      "ts": "2026-10-02T11:40:03-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000066A/26",
+      "nome": "REVIVA VERDE",
+      "re": "RE8117000212A"
+    },
     {
       "ts": "2026-10-02T09:00:04-03:00",
       "cidade": "Itapema",
@@ -8297,13 +8314,6 @@
       "codigo": "MUL8163000218A/26",
       "nome": "ITAPUI PARTICIPAçõES LTDA",
       "re": "RE8163002892A"
-    },
-    {
-      "ts": "2026-09-25T13:40:04-03:00",
-      "cidade": "Itajai",
-      "codigo": "MUL8161000480A/26",
-      "nome": "CAPRINI MOTORS COMERCIO DE VEICULOS LTDA",
-      "re": "RE8161008262A"
     }
   ]
 }
