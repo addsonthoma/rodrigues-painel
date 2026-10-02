@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-02T12:10:19-03:00",
+  "timestamp": "2026-10-02T12:20:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1093,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:10:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 36,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:10:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:10:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 694,
+      "ultimo_numero": 695,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:10:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 544,
+      "ultimo_numero": 545,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:10:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 610,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:10:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1285,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:10:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1275,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:10:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 380,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:10:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1275,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-02T12:10:19-03:00"
+      "ultima_verificacao": "2026-10-02T12:20:19-03:00"
     }
   },
   "afs": {
@@ -6275,6 +6275,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000695A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002682A",
+        "Nome_Edificacao": "SERGIO BELLICANTA",
+        "Logradouro": "RUA ANFILOQUIO NUNES PIRES",
+        "Numero": "3400",
+        "Bairro": "GASPAR - BELA VISTA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-02T12:20:19-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000694A/26",
         "Tipo": "AF",
         "RE": "RE8117001634A",
@@ -9312,6 +9323,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000545A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000729A",
+        "Nome_Edificacao": "MITRA METROPOLITANA DE FLORIANOPOLIS",
+        "Logradouro": "RUA RUBENS ALVES",
+        "Numero": "480",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-02T12:20:19-03:00"
+      },
       {
         "CodigoAuto": "AF8265000544A/26",
         "Tipo": "AF",
@@ -35332,13 +35354,13 @@
     "Brusque": 483,
     "Botuvera": 36,
     "Guabiruba": 45,
-    "Gaspar": 276,
-    "Porto Belo": 253,
+    "Gaspar": 277,
+    "Porto Belo": 254,
     "Nova Trento": 300,
     "Itapema": 551,
     "Blumenau": 562,
     "Navegantes": 176,
     "Itajai": 522
   },
-  "total_geral": 3204
+  "total_geral": 3206
 }
