@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-02T15:56:23-03:00",
+  "timestamp": "2026-10-02T16:06:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8150,
-      "ultima_verificacao": "2026-10-02T15:56:23-03:00"
+      "ultima_verificacao": "2026-10-02T16:06:30-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-02T15:56:23-03:00"
+      "ultima_verificacao": "2026-10-02T16:06:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1553,
-      "ultima_verificacao": "2026-10-02T15:56:23-03:00"
+      "ultimo_numero": 1554,
+      "ultima_verificacao": "2026-10-02T16:06:30-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3915,
-      "ultima_verificacao": "2026-10-02T15:56:23-03:00"
+      "ultima_verificacao": "2026-10-02T16:06:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3415,
-      "ultima_verificacao": "2026-10-02T15:56:23-03:00"
+      "ultima_verificacao": "2026-10-02T16:06:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-02T15:56:23-03:00"
+      "ultima_verificacao": "2026-10-02T16:06:30-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7241,
-      "ultima_verificacao": "2026-10-02T15:56:23-03:00"
+      "ultima_verificacao": "2026-10-02T16:06:30-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13080,
-      "ultima_verificacao": "2026-10-02T15:56:23-03:00"
+      "ultima_verificacao": "2026-10-02T16:06:30-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5056,
-      "ultima_verificacao": "2026-10-02T15:56:23-03:00"
+      "ultima_verificacao": "2026-10-02T16:06:30-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14397,
-      "ultima_verificacao": "2026-10-02T15:56:23-03:00"
+      "ultima_verificacao": "2026-10-02T16:06:30-03:00"
     }
   },
   "protocolos": {
@@ -2566,6 +2566,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001554A",
+        "RE": "RE8123001235A",
+        "numgEdificacao": 371578,
+        "Nome_Edificacao": "ARCENIO SCHAEFER",
+        "Logradouro": "RUA FREDERICO BARON",
+        "Numero": "234",
+        "Bairro": "GUABIRUBA - LAJEADO BAIXO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-10-02T16:06:30-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001553A",
         "RE": "RE8123000182A",
@@ -19503,7 +19514,7 @@
   "totais": {
     "Brusque": 186,
     "Botuvera": 42,
-    "Guabiruba": 78,
+    "Guabiruba": 79,
     "Gaspar": 149,
     "Porto Belo": 134,
     "Nova Trento": 68,
@@ -19512,5 +19523,5 @@
     "Navegantes": 159,
     "Itajai": 421
   },
-  "total_geral": 1766
+  "total_geral": 1767
 }
