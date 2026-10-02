@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-01T21:56:32-03:00",
+  "timestamp": "2026-10-02T03:36:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8148,
-      "ultima_verificacao": "2026-10-01T21:56:32-03:00"
+      "ultima_verificacao": "2026-10-02T03:36:23-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-01T21:56:32-03:00"
+      "ultima_verificacao": "2026-10-02T03:36:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1553,
-      "ultima_verificacao": "2026-10-01T21:56:32-03:00"
+      "ultima_verificacao": "2026-10-02T03:36:23-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3912,
-      "ultima_verificacao": "2026-10-01T21:56:32-03:00"
+      "ultima_verificacao": "2026-10-02T03:36:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3414,
-      "ultima_verificacao": "2026-10-01T21:56:32-03:00"
+      "ultimo_numero": 3415,
+      "ultima_verificacao": "2026-10-02T03:36:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-01T21:56:32-03:00"
+      "ultima_verificacao": "2026-10-02T03:36:23-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7240,
-      "ultima_verificacao": "2026-10-01T21:56:32-03:00"
+      "ultima_verificacao": "2026-10-02T03:36:23-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13074,
-      "ultima_verificacao": "2026-10-01T21:56:32-03:00"
+      "ultima_verificacao": "2026-10-02T03:36:23-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5056,
-      "ultima_verificacao": "2026-10-01T21:56:32-03:00"
+      "ultima_verificacao": "2026-10-02T03:36:23-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14392,
-      "ultima_verificacao": "2026-10-01T21:56:32-03:00"
+      "ultimo_numero": 14393,
+      "ultima_verificacao": "2026-10-02T03:36:23-03:00"
     }
   },
   "protocolos": {
@@ -5012,6 +5012,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003415A",
+        "RE": "RE8265002277A",
+        "numgEdificacao": 299727,
+        "Nome_Edificacao": "Sede Administrativa Dell Rossi Empreendimentos Imobiliários LTDA",
+        "Logradouro": "AV. GOVERNADOR CELSO RAMOS",
+        "Numero": "1500",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-02T03:36:23-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003414A",
         "RE": "RE8265002861A",
@@ -14725,6 +14736,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014393A",
+        "RE": "RE8161005674A",
+        "numgEdificacao": 163648,
+        "Nome_Edificacao": "Gustavo Noé farias",
+        "Logradouro": "RUA ALVARO BERALDI",
+        "Numero": "541",
+        "Bairro": "ITAJAÍ - CARVALHO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-02T03:36:23-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014392A",
         "RE": "RE8161013922A",
         "numgEdificacao": 371316,
@@ -19307,12 +19329,12 @@
     "Botuvera": 42,
     "Guabiruba": 78,
     "Gaspar": 146,
-    "Porto Belo": 133,
+    "Porto Belo": 134,
     "Nova Trento": 68,
     "Itapema": 193,
     "Blumenau": 329,
     "Navegantes": 159,
-    "Itajai": 416
+    "Itajai": 417
   },
-  "total_geral": 1748
+  "total_geral": 1750
 }
