@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-10-02T12:36:46-03:00",
+  "timestamp": "2026-10-02T12:46:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8149,
-      "ultima_verificacao": "2026-10-02T12:36:46-03:00"
+      "ultimo_numero": 8150,
+      "ultima_verificacao": "2026-10-02T12:46:30-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-02T12:36:46-03:00"
+      "ultima_verificacao": "2026-10-02T12:46:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1553,
-      "ultima_verificacao": "2026-10-02T12:36:46-03:00"
+      "ultima_verificacao": "2026-10-02T12:46:30-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3912,
-      "ultima_verificacao": "2026-10-02T12:36:46-03:00"
+      "ultima_verificacao": "2026-10-02T12:46:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3415,
-      "ultima_verificacao": "2026-10-02T12:36:46-03:00"
+      "ultima_verificacao": "2026-10-02T12:46:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-02T12:36:46-03:00"
+      "ultima_verificacao": "2026-10-02T12:46:30-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7240,
-      "ultima_verificacao": "2026-10-02T12:36:46-03:00"
+      "ultima_verificacao": "2026-10-02T12:46:30-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13077,
-      "ultima_verificacao": "2026-10-02T12:36:46-03:00"
+      "ultima_verificacao": "2026-10-02T12:46:30-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5056,
-      "ultima_verificacao": "2026-10-02T12:36:46-03:00"
+      "ultima_verificacao": "2026-10-02T12:46:30-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14393,
-      "ultima_verificacao": "2026-10-02T12:36:46-03:00"
+      "ultima_verificacao": "2026-10-02T12:46:30-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008150A",
+        "RE": "RE8055006852A",
+        "numgEdificacao": 371548,
+        "Nome_Edificacao": "Galpão Rosana - Fundos",
+        "Logradouro": "Rua João Hingst",
+        "Numero": "54",
+        "Bairro": "BRUSQUE - Primeiro de Maio",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-02T12:46:30-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008149A",
         "RE": "RE8055005412A",
@@ -19369,7 +19380,7 @@
     ]
   },
   "totais": {
-    "Brusque": 185,
+    "Brusque": 186,
     "Botuvera": 42,
     "Guabiruba": 78,
     "Gaspar": 146,
@@ -19380,5 +19391,5 @@
     "Navegantes": 159,
     "Itajai": 417
   },
-  "total_geral": 1754
+  "total_geral": 1755
 }
