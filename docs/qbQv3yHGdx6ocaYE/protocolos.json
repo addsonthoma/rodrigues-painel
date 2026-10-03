@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-10-02T16:27:02-03:00",
+  "timestamp": "2026-10-03T18:37:35-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8150,
-      "ultima_verificacao": "2026-10-02T16:27:02-03:00"
+      "ultimo_numero": 8151,
+      "ultima_verificacao": "2026-10-03T18:37:35-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-02T16:27:02-03:00"
+      "ultima_verificacao": "2026-10-03T18:37:35-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1554,
-      "ultima_verificacao": "2026-10-02T16:27:02-03:00"
+      "ultima_verificacao": "2026-10-03T18:37:35-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3916,
-      "ultima_verificacao": "2026-10-02T16:27:02-03:00"
+      "ultima_verificacao": "2026-10-03T18:37:35-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3415,
-      "ultima_verificacao": "2026-10-02T16:27:02-03:00"
+      "ultima_verificacao": "2026-10-03T18:37:35-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-02T16:27:02-03:00"
+      "ultima_verificacao": "2026-10-03T18:37:35-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7241,
-      "ultima_verificacao": "2026-10-02T16:27:02-03:00"
+      "ultimo_numero": 7243,
+      "ultima_verificacao": "2026-10-03T18:37:35-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13080,
-      "ultima_verificacao": "2026-10-02T16:27:02-03:00"
+      "ultimo_numero": 13081,
+      "ultima_verificacao": "2026-10-03T18:37:35-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5056,
-      "ultima_verificacao": "2026-10-02T16:27:02-03:00"
+      "ultima_verificacao": "2026-10-03T18:37:35-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14397,
-      "ultima_verificacao": "2026-10-02T16:27:02-03:00"
+      "ultima_verificacao": "2026-10-03T18:37:35-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008151A",
+        "RE": "RE8055006849A",
+        "numgEdificacao": 371444,
+        "Nome_Edificacao": "Edifício",
+        "Logradouro": "RUA MAXIMILIANO FURBRINGER",
+        "Numero": "497",
+        "Bairro": "BRUSQUE - SOUZA CRUZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-03T18:37:35-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008150A",
         "RE": "RE8055006852A",
@@ -7316,6 +7327,28 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007243A",
+        "RE": "RE8163003318A",
+        "numgEdificacao": 188099,
+        "Nome_Edificacao": "FILEMON RESIDENCE",
+        "Logradouro": "RUA 402",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-03T18:37:35-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007242A",
+        "RE": "RE8163006910A",
+        "numgEdificacao": 371462,
+        "Nome_Edificacao": "CONTAINER",
+        "Logradouro": "RUA 816 A",
+        "Numero": "36",
+        "Bairro": "ITAPEMA - Casa branca",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-03T18:37:35-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007241A",
         "RE": "RE8163006446A",
         "numgEdificacao": 340558,
@@ -9451,6 +9484,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013081A",
+        "RE": "RE8047012073A",
+        "numgEdificacao": 366865,
+        "Nome_Edificacao": "Entre Café",
+        "Logradouro": "Rua Professor Max Humpl",
+        "Numero": "666",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-03T18:37:35-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013080A",
         "RE": "RE8047012162A",
@@ -19523,16 +19567,16 @@
     ]
   },
   "totais": {
-    "Brusque": 186,
+    "Brusque": 187,
     "Botuvera": 42,
     "Guabiruba": 79,
     "Gaspar": 150,
     "Porto Belo": 134,
     "Nova Trento": 68,
-    "Itapema": 194,
-    "Blumenau": 335,
+    "Itapema": 196,
+    "Blumenau": 336,
     "Navegantes": 159,
     "Itajai": 421
   },
-  "total_geral": 1768
+  "total_geral": 1772
 }
