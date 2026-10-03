@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-03T09:14:15-03:00",
+  "timestamp": "2026-10-03T13:29:39-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1094,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-03T09:14:15-03:00"
+      "ultima_verificacao": "2026-10-03T13:29:39-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 36,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-03T09:14:15-03:00"
+      "ultima_verificacao": "2026-10-03T13:29:39-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 65,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-03T09:14:15-03:00"
+      "ultima_verificacao": "2026-10-03T13:29:39-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 695,
+      "ultimo_numero": 698,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-03T09:14:15-03:00"
+      "ultima_verificacao": "2026-10-03T13:29:39-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 547,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-03T09:14:15-03:00"
+      "ultima_verificacao": "2026-10-03T13:29:39-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 617,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-03T09:14:15-03:00"
+      "ultima_verificacao": "2026-10-03T13:29:39-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1286,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-03T09:14:15-03:00"
+      "ultima_verificacao": "2026-10-03T13:29:39-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1284,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-03T09:14:15-03:00"
+      "ultima_verificacao": "2026-10-03T13:29:39-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 383,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-03T09:14:15-03:00"
+      "ultima_verificacao": "2026-10-03T13:29:39-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1277,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-03T09:14:15-03:00"
+      "ultima_verificacao": "2026-10-03T13:29:39-03:00"
     }
   },
   "afs": {
@@ -6285,6 +6285,39 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000698A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001565A",
+        "Nome_Edificacao": "Luana Schumacher Vaz",
+        "Logradouro": "Rua Agostinho de Oliveira",
+        "Numero": "60",
+        "Bairro": "GASPAR - POÇO GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-03T13:29:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000697A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001159A",
+        "Nome_Edificacao": "ZENILDA REGINA DA SILVA",
+        "Logradouro": "RODOVIA: INGO HERING",
+        "Numero": "12031",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-03T13:29:39-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000696A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002865A",
+        "Nome_Edificacao": "NELIO GAERTHER",
+        "Logradouro": "RUA DOUTOR NEREU RAMOS",
+        "Numero": "1054",
+        "Bairro": "GASPAR - COLONINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-03T13:29:39-03:00"
+      },
       {
         "CodigoAuto": "AF8117000695A/26",
         "Tipo": "AF",
@@ -35629,7 +35662,7 @@
     "Brusque": 484,
     "Botuvera": 36,
     "Guabiruba": 45,
-    "Gaspar": 277,
+    "Gaspar": 280,
     "Porto Belo": 256,
     "Nova Trento": 307,
     "Itapema": 552,
@@ -35637,5 +35670,5 @@
     "Navegantes": 179,
     "Itajai": 524
   },
-  "total_geral": 3231
+  "total_geral": 3234
 }
