@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-05T14:48:29-03:00",
+  "timestamp": "2026-10-05T15:07:14-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8152,
-      "ultima_verificacao": "2026-10-05T14:48:29-03:00"
+      "ultima_verificacao": "2026-10-05T15:07:14-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-05T14:48:29-03:00"
+      "ultima_verificacao": "2026-10-05T15:07:14-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1555,
-      "ultima_verificacao": "2026-10-05T14:48:29-03:00"
+      "ultimo_numero": 1556,
+      "ultima_verificacao": "2026-10-05T15:07:14-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3916,
-      "ultima_verificacao": "2026-10-05T14:48:29-03:00"
+      "ultima_verificacao": "2026-10-05T15:07:14-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3415,
-      "ultima_verificacao": "2026-10-05T14:48:29-03:00"
+      "ultima_verificacao": "2026-10-05T15:07:14-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 985,
-      "ultima_verificacao": "2026-10-05T14:48:29-03:00"
+      "ultima_verificacao": "2026-10-05T15:07:14-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7243,
-      "ultima_verificacao": "2026-10-05T14:48:29-03:00"
+      "ultima_verificacao": "2026-10-05T15:07:14-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13081,
-      "ultima_verificacao": "2026-10-05T14:48:29-03:00"
+      "ultima_verificacao": "2026-10-05T15:07:14-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5057,
-      "ultima_verificacao": "2026-10-05T14:48:29-03:00"
+      "ultima_verificacao": "2026-10-05T15:07:14-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14397,
-      "ultima_verificacao": "2026-10-05T14:48:29-03:00"
+      "ultima_verificacao": "2026-10-05T15:07:14-03:00"
     }
   },
   "protocolos": {
@@ -2588,6 +2588,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001556A",
+        "RE": "RE8123001236A",
+        "numgEdificacao": 371656,
+        "Nome_Edificacao": "FERNANDA GRAF DE OLIVEIRA - LANCHONETE",
+        "Logradouro": "BERNARDO KOHLER",
+        "Numero": "265",
+        "Bairro": "GUABIRUBA - GUABIRUBA SUL",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-10-05T15:07:14-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001555A",
         "RE": "RE8123000238A",
@@ -19613,7 +19624,7 @@
   "totais": {
     "Brusque": 188,
     "Botuvera": 42,
-    "Guabiruba": 80,
+    "Guabiruba": 81,
     "Gaspar": 150,
     "Porto Belo": 134,
     "Nova Trento": 69,
@@ -19622,5 +19633,5 @@
     "Navegantes": 160,
     "Itajai": 421
   },
-  "total_geral": 1776
+  "total_geral": 1777
 }
