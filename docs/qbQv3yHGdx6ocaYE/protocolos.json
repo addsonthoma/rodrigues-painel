@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-05T17:07:28-03:00",
+  "timestamp": "2026-10-05T17:17:01-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8152,
-      "ultima_verificacao": "2026-10-05T17:07:28-03:00"
+      "ultima_verificacao": "2026-10-05T17:17:01-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-05T17:07:28-03:00"
+      "ultima_verificacao": "2026-10-05T17:17:01-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1556,
-      "ultima_verificacao": "2026-10-05T17:07:28-03:00"
+      "ultima_verificacao": "2026-10-05T17:17:01-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3916,
-      "ultima_verificacao": "2026-10-05T17:07:28-03:00"
+      "ultima_verificacao": "2026-10-05T17:17:01-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3416,
-      "ultima_verificacao": "2026-10-05T17:07:28-03:00"
+      "ultima_verificacao": "2026-10-05T17:17:01-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 985,
-      "ultima_verificacao": "2026-10-05T17:07:28-03:00"
+      "ultima_verificacao": "2026-10-05T17:17:01-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7243,
-      "ultima_verificacao": "2026-10-05T17:07:28-03:00"
+      "ultima_verificacao": "2026-10-05T17:17:01-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13081,
-      "ultima_verificacao": "2026-10-05T17:07:28-03:00"
+      "ultima_verificacao": "2026-10-05T17:17:01-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5057,
-      "ultima_verificacao": "2026-10-05T17:07:28-03:00"
+      "ultimo_numero": 5058,
+      "ultima_verificacao": "2026-10-05T17:17:01-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14397,
-      "ultima_verificacao": "2026-10-05T17:07:28-03:00"
+      "ultima_verificacao": "2026-10-05T17:17:01-03:00"
     }
   },
   "protocolos": {
@@ -13238,6 +13238,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005058A",
+        "RE": "RE8221000697A",
+        "numgEdificacao": 61632,
+        "Nome_Edificacao": "PAC Logística e Hangaragem Ltda",
+        "Logradouro": "Rua Onório Bortolato",
+        "Numero": "986",
+        "Bairro": "NAVEGANTES - PEDREIRAS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-05T17:17:01-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005057A",
         "RE": "RE8221001184A",
         "numgEdificacao": 146669,
@@ -19641,8 +19652,8 @@
     "Nova Trento": 69,
     "Itapema": 196,
     "Blumenau": 336,
-    "Navegantes": 160,
+    "Navegantes": 161,
     "Itajai": 421
   },
-  "total_geral": 1778
+  "total_geral": 1779
 }
