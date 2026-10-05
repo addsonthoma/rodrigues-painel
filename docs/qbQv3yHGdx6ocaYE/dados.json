@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-10-05T15:00:04-03:00",
+  "timestamp": "2026-10-05T15:10:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:00:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:10:03-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:00:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:10:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:00:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:10:03-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 67,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:00:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:10:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 126,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:00:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:10:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 156,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:00:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:10:03-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 231,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:00:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:10:03-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 282,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:00:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:10:03-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:00:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:10:03-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 504,
+      "ultimo_numero": 506,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:00:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:10:03-03:00"
     }
   },
   "multas": {
@@ -2733,6 +2733,26 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000505A/26",
+        "RE": "RE8161000273A",
+        "Nome_Edificacao": "CARLOS ROBERTO DUTRA",
+        "Logradouro": "Avenida José Eugênio Muller",
+        "Numero": "1001",
+        "Bairro": "ITAJAÍ - VILA OPERÁRIA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-05T15:10:03-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000506A/26",
+        "RE": "RE8161005787A",
+        "Nome_Edificacao": "DERICK WILLIAN VOGEL",
+        "Logradouro": "Rua São Vicente",
+        "Numero": "681",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-05T15:10:03-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000504A/26",
         "RE": "RE8161003866A",
@@ -8047,14 +8067,28 @@
     "Brusque": 74,
     "Gaspar": 43,
     "Guabiruba": 3,
-    "Itajai": 222,
+    "Itajai": 224,
     "Itapema": 114,
     "Navegantes": 60,
     "Nova Trento": 73,
     "Porto Belo": 69
   },
-  "total_geral": 808,
+  "total_geral": 810,
   "eventos_recentes": [
+    {
+      "ts": "2026-10-05T15:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000506A/26",
+      "nome": "DERICK WILLIAN VOGEL",
+      "re": "RE8161005787A"
+    },
+    {
+      "ts": "2026-10-05T15:10:03-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000505A/26",
+      "nome": "CARLOS ROBERTO DUTRA",
+      "re": "RE8161000273A"
+    },
     {
       "ts": "2026-10-05T13:50:04-03:00",
       "cidade": "Itajai",
@@ -8299,13 +8333,6 @@
       "codigo": "MUL8161000500A/26",
       "nome": "Fundação Cultural E Educacional De Itajaí",
       "re": "RE8161005449A"
-    },
-    {
-      "ts": "2026-09-28T15:10:04-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000271A/26",
-      "nome": "CAPELA SAO CRISTOVAO",
-      "re": "RE8047006365A"
     }
   ]
 }
