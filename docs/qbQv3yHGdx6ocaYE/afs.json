@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-10-05T13:30:31-03:00",
+  "timestamp": "2026-10-05T13:50:27-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1098,
+      "ultimo_numero": 1099,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T13:30:31-03:00"
+      "ultima_verificacao": "2026-10-05T13:50:27-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 36,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T13:30:31-03:00"
+      "ultima_verificacao": "2026-10-05T13:50:27-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 66,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T13:30:31-03:00"
+      "ultima_verificacao": "2026-10-05T13:50:27-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 698,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T13:30:31-03:00"
+      "ultima_verificacao": "2026-10-05T13:50:27-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 548,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T13:30:31-03:00"
+      "ultima_verificacao": "2026-10-05T13:50:27-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 619,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T13:30:31-03:00"
+      "ultima_verificacao": "2026-10-05T13:50:27-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1286,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T13:30:31-03:00"
+      "ultima_verificacao": "2026-10-05T13:50:27-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1289,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T13:30:31-03:00"
+      "ultima_verificacao": "2026-10-05T13:50:27-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 383,
+      "ultimo_numero": 384,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T13:30:31-03:00"
+      "ultima_verificacao": "2026-10-05T13:50:27-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1277,
+      "ultimo_numero": 1278,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T13:30:31-03:00"
+      "ultima_verificacao": "2026-10-05T13:50:27-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001099A/26",
+        "Tipo": "AF",
+        "RE": "RE8055006200A",
+        "Nome_Edificacao": "PASSEIO BEIRA RIO SPE LTDA",
+        "Logradouro": "Avenida Governador Luiz Henrique da Silveira",
+        "Numero": "",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-05T13:50:27-03:00"
+      },
       {
         "CodigoAuto": "AF8055001098A/26",
         "Tipo": "AF",
@@ -28065,6 +28076,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000384A/26",
+        "Tipo": "AF",
+        "RE": "RE8221000304A",
+        "Nome_Edificacao": "CONDOMINIO EMPRESARIAL NAVEGANTES SPE LTDA",
+        "Logradouro": "Rodovia Governador Mário Covas",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-05T13:50:27-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000383A/26",
         "Tipo": "AF",
         "RE": "RE8221000361A",
@@ -30035,6 +30057,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "AF8161001278A/26",
+        "Tipo": "AF",
+        "RE": "RE8161011170A",
+        "Nome_Edificacao": "BRAVA PARRILLA LTDA",
+        "Logradouro": "RUA DEMETRIO IZIDORO CARDOSO",
+        "Numero": "60",
+        "Bairro": "ITAJAÍ - PRAIA BRAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-05T13:50:27-03:00"
+      },
       {
         "CodigoAuto": "AF8161001277A/26",
         "Tipo": "AF",
@@ -35802,7 +35835,7 @@
     ]
   },
   "totais": {
-    "Brusque": 488,
+    "Brusque": 489,
     "Botuvera": 36,
     "Guabiruba": 46,
     "Gaspar": 280,
@@ -35810,8 +35843,8 @@
     "Nova Trento": 309,
     "Itapema": 552,
     "Blumenau": 576,
-    "Navegantes": 179,
-    "Itajai": 524
+    "Navegantes": 180,
+    "Itajai": 525
   },
-  "total_geral": 3247
+  "total_geral": 3250
 }
