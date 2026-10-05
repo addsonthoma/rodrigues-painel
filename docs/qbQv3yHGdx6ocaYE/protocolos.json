@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-03T19:26:57-03:00",
+  "timestamp": "2026-10-05T08:20:14-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8151,
-      "ultima_verificacao": "2026-10-03T19:26:57-03:00"
+      "ultima_verificacao": "2026-10-05T08:20:14-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-03T19:26:57-03:00"
+      "ultima_verificacao": "2026-10-05T08:20:14-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1554,
-      "ultima_verificacao": "2026-10-03T19:26:57-03:00"
+      "ultimo_numero": 1555,
+      "ultima_verificacao": "2026-10-05T08:20:14-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3916,
-      "ultima_verificacao": "2026-10-03T19:26:57-03:00"
+      "ultima_verificacao": "2026-10-05T08:20:14-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3415,
-      "ultima_verificacao": "2026-10-03T19:26:57-03:00"
+      "ultima_verificacao": "2026-10-05T08:20:14-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 984,
-      "ultima_verificacao": "2026-10-03T19:26:57-03:00"
+      "ultima_verificacao": "2026-10-05T08:20:14-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7243,
-      "ultima_verificacao": "2026-10-03T19:26:57-03:00"
+      "ultima_verificacao": "2026-10-05T08:20:14-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13081,
-      "ultima_verificacao": "2026-10-03T19:26:57-03:00"
+      "ultima_verificacao": "2026-10-05T08:20:14-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5056,
-      "ultima_verificacao": "2026-10-03T19:26:57-03:00"
+      "ultimo_numero": 5057,
+      "ultima_verificacao": "2026-10-05T08:20:14-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14397,
-      "ultima_verificacao": "2026-10-03T19:26:57-03:00"
+      "ultima_verificacao": "2026-10-05T08:20:14-03:00"
     }
   },
   "protocolos": {
@@ -2577,6 +2577,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001555A",
+        "RE": "RE8123000238A",
+        "numgEdificacao": 114072,
+        "Nome_Edificacao": "SUPERMERCADO CAROL LTDA - PANIFICADORA",
+        "Logradouro": "Antonio Kormann",
+        "Numero": "88",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-10-05T08:20:14-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001554A",
         "RE": "RE8123001235A",
@@ -13183,6 +13194,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005057A",
+        "RE": "RE8221001184A",
+        "numgEdificacao": 146669,
+        "Nome_Edificacao": "Rozileia Celia Sagas Ferreira",
+        "Logradouro": "Rua 26 de Agosto",
+        "Numero": "18",
+        "Bairro": "NAVEGANTES - SÃO PEDRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-05T08:20:14-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005056A",
         "RE": "RE8221004168A",
         "numgEdificacao": 371423,
@@ -19569,14 +19591,14 @@
   "totais": {
     "Brusque": 187,
     "Botuvera": 42,
-    "Guabiruba": 79,
+    "Guabiruba": 80,
     "Gaspar": 150,
     "Porto Belo": 134,
     "Nova Trento": 68,
     "Itapema": 196,
     "Blumenau": 336,
-    "Navegantes": 159,
+    "Navegantes": 160,
     "Itajai": 421
   },
-  "total_geral": 1772
+  "total_geral": 1774
 }
