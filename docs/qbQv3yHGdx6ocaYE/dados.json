@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-10-05T15:30:04-03:00",
+  "timestamp": "2026-10-05T15:40:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:30:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:40:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:30:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:40:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:30:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:40:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 67,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:30:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:40:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 126,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:30:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:40:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 156,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:30:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:40:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 231,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:30:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:40:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 282,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:30:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:40:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:30:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:40:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 506,
+      "ultimo_numero": 509,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-05T15:30:04-03:00"
+      "ultima_verificacao": "2026-10-05T15:40:04-03:00"
     }
   },
   "multas": {
@@ -2733,6 +2733,36 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000507A/26",
+        "RE": "RE8161004034A",
+        "Nome_Edificacao": "EDIFICAÇÃO MULTIFAMILIAR POPULAR RR",
+        "Logradouro": "Rua Estudante Renato Victorino",
+        "Numero": "187",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-05T15:40:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000508A/26",
+        "RE": "RE8161007803A",
+        "Nome_Edificacao": "ANTONIO CHAGAS",
+        "Logradouro": "Rua Brusque",
+        "Numero": "528",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-05T15:40:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000509A/26",
+        "RE": "RE8161002947A",
+        "Nome_Edificacao": "HELENA FELICIO PEREIRA",
+        "Logradouro": "Rua Fermino Vieira Cordeiro",
+        "Numero": "774",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-05T15:40:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000505A/26",
         "RE": "RE8161000273A",
@@ -8067,14 +8097,35 @@
     "Brusque": 74,
     "Gaspar": 43,
     "Guabiruba": 3,
-    "Itajai": 224,
+    "Itajai": 227,
     "Itapema": 114,
     "Navegantes": 60,
     "Nova Trento": 73,
     "Porto Belo": 69
   },
-  "total_geral": 810,
+  "total_geral": 813,
   "eventos_recentes": [
+    {
+      "ts": "2026-10-05T15:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000509A/26",
+      "nome": "HELENA FELICIO PEREIRA",
+      "re": "RE8161002947A"
+    },
+    {
+      "ts": "2026-10-05T15:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000508A/26",
+      "nome": "ANTONIO CHAGAS",
+      "re": "RE8161007803A"
+    },
+    {
+      "ts": "2026-10-05T15:40:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000507A/26",
+      "nome": "EDIFICAÇÃO MULTIFAMILIAR POPULAR RR",
+      "re": "RE8161004034A"
+    },
     {
       "ts": "2026-10-05T15:10:03-03:00",
       "cidade": "Itajai",
