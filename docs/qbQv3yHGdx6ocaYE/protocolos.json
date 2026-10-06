@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-05T15:59:37-03:00",
+  "timestamp": "2026-10-05T21:38:17-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8152,
-      "ultima_verificacao": "2026-10-05T15:59:37-03:00"
+      "ultima_verificacao": "2026-10-05T21:38:17-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-05T15:59:37-03:00"
+      "ultima_verificacao": "2026-10-05T21:38:17-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1556,
-      "ultima_verificacao": "2026-10-05T15:59:37-03:00"
+      "ultima_verificacao": "2026-10-05T21:38:17-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3916,
-      "ultima_verificacao": "2026-10-05T15:59:37-03:00"
+      "ultimo_numero": 3917,
+      "ultima_verificacao": "2026-10-05T21:38:17-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3416,
-      "ultima_verificacao": "2026-10-05T15:59:37-03:00"
+      "ultimo_numero": 3417,
+      "ultima_verificacao": "2026-10-05T21:38:17-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 985,
-      "ultima_verificacao": "2026-10-05T15:59:37-03:00"
+      "ultima_verificacao": "2026-10-05T21:38:17-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7243,
-      "ultima_verificacao": "2026-10-05T15:59:37-03:00"
+      "ultima_verificacao": "2026-10-05T21:38:17-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13081,
-      "ultima_verificacao": "2026-10-05T15:59:37-03:00"
+      "ultima_verificacao": "2026-10-05T21:38:17-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5057,
-      "ultima_verificacao": "2026-10-05T15:59:37-03:00"
+      "ultimo_numero": 5060,
+      "ultima_verificacao": "2026-10-05T21:38:17-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14397,
-      "ultima_verificacao": "2026-10-05T15:59:37-03:00"
+      "ultimo_numero": 14400,
+      "ultima_verificacao": "2026-10-05T21:38:17-03:00"
     }
   },
   "protocolos": {
@@ -3482,6 +3482,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003917A",
+        "RE": "RE8117002079A",
+        "numgEdificacao": 252760,
+        "Nome_Edificacao": "DORVAL  ROGERIO REINERT",
+        "Logradouro": "Rua Anfiloquio Nunes Pires",
+        "Numero": "1451",
+        "Bairro": "GASPAR - FIGUEIRA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-05T21:38:17-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003916A",
         "RE": "RE8117000722A",
         "numgEdificacao": 95708,
@@ -5133,6 +5144,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003417A",
+        "RE": "RE8265002267A",
+        "numgEdificacao": 296835,
+        "Nome_Edificacao": "MMK SERVICOS ADMINISTRATIVOS LTDA",
+        "Logradouro": "RUA ADULCE GARCIA SN",
+        "Numero": "",
+        "Bairro": "PORTO BELO - SANTA LUZIA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-05T21:38:17-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003416A",
         "RE": "RE8265002862A",
@@ -13238,6 +13260,39 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005060A",
+        "RE": "RE8221004172A",
+        "numgEdificacao": 371687,
+        "Nome_Edificacao": "EDIFICIO RESIDENCIAL CANTARES DEL MAR",
+        "Logradouro": "Rua Zozimo André",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - Meia Praia",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-05T21:38:17-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005059A",
+        "RE": "RE8221002765A",
+        "numgEdificacao": 265556,
+        "Nome_Edificacao": "INCORPORADORA VANDERLEI VOSS LTDA",
+        "Logradouro": "Rua Geraldo José Borba",
+        "Numero": "1260",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-05T21:38:17-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005058A",
+        "RE": "RE8221000697A",
+        "numgEdificacao": 61632,
+        "Nome_Edificacao": "PAC Logística e Hangaragem Ltda",
+        "Logradouro": "Rua Onório Bortolato",
+        "Numero": "986",
+        "Bairro": "NAVEGANTES - PEDREIRAS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-05T21:38:17-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005057A",
         "RE": "RE8221001184A",
         "numgEdificacao": 146669,
@@ -14999,6 +15054,39 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014400A",
+        "RE": "RE8161001464A",
+        "numgEdificacao": 42017,
+        "Nome_Edificacao": "Absolute Business & Hotel",
+        "Logradouro": "RUA DOUTOR PEDRO FERREIRA",
+        "Numero": "333",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-05T21:38:17-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014399A",
+        "RE": "RE8161012952A",
+        "numgEdificacao": 341853,
+        "Nome_Edificacao": "Espaço Beleza",
+        "Logradouro": "AVENIDA MARCOS AURELIO SEARA",
+        "Numero": "805",
+        "Bairro": "ITAJAÍ - SANTA REGINA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-05T21:38:17-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014398A",
+        "RE": "RE8161012952A",
+        "numgEdificacao": 341853,
+        "Nome_Edificacao": "Espaço Beleza",
+        "Logradouro": "AVENIDA MARCOS AURELIO SEARA",
+        "Numero": "805",
+        "Bairro": "ITAJAÍ - SANTA REGINA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-05T21:38:17-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014397A",
         "RE": "RE8161002605A",
@@ -19636,13 +19724,13 @@
     "Brusque": 188,
     "Botuvera": 42,
     "Guabiruba": 81,
-    "Gaspar": 150,
-    "Porto Belo": 135,
+    "Gaspar": 151,
+    "Porto Belo": 136,
     "Nova Trento": 69,
     "Itapema": 196,
     "Blumenau": 336,
-    "Navegantes": 160,
-    "Itajai": 421
+    "Navegantes": 163,
+    "Itajai": 424
   },
-  "total_geral": 1778
+  "total_geral": 1786
 }

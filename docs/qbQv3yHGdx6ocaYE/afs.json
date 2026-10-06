@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-10-05T15:48:35-03:00",
+  "timestamp": "2026-10-05T21:30:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1099,
+      "ultimo_numero": 1100,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T15:48:35-03:00"
+      "ultima_verificacao": "2026-10-05T21:30:20-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 36,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T15:48:35-03:00"
+      "ultima_verificacao": "2026-10-05T21:30:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 66,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T15:48:35-03:00"
+      "ultima_verificacao": "2026-10-05T21:30:20-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 698,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T15:48:35-03:00"
+      "ultima_verificacao": "2026-10-05T21:30:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 548,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T15:48:35-03:00"
+      "ultima_verificacao": "2026-10-05T21:30:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 619,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T15:48:35-03:00"
+      "ultima_verificacao": "2026-10-05T21:30:20-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1287,
+      "ultimo_numero": 1288,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T15:48:35-03:00"
+      "ultima_verificacao": "2026-10-05T21:30:20-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1290,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T15:48:35-03:00"
+      "ultima_verificacao": "2026-10-05T21:30:20-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 384,
+      "ultimo_numero": 385,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T15:48:35-03:00"
+      "ultima_verificacao": "2026-10-05T21:30:20-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1278,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-05T15:48:35-03:00"
+      "ultima_verificacao": "2026-10-05T21:30:20-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001100A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002966A",
+        "Nome_Edificacao": "AGUSTINI ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Avenida Otto Renaux",
+        "Numero": "266",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-05T21:30:20-03:00"
+      },
       {
         "CodigoAuto": "AF8055001099A/26",
         "Tipo": "AF",
@@ -15664,6 +15675,17 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163001288A/26",
+        "Tipo": "AF",
+        "RE": "RE8163002974A",
+        "Nome_Edificacao": "COND. RESIDENCIAL ILHA DO FAROL",
+        "Logradouro": "Rua 139",
+        "Numero": "25",
+        "Bairro": "ITAPEMA - CENTRO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-05T21:30:20-03:00"
+      },
+      {
         "CodigoAuto": "AF8163001287A/26",
         "Tipo": "AF",
         "RE": "RE8163003955A",
@@ -28098,6 +28120,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000385A/26",
+        "Tipo": "AF",
+        "RE": "RE8221001021A",
+        "Nome_Edificacao": "INFINITY RESIDENCE",
+        "Logradouro": "Rua Brasília",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-05T21:30:20-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000384A/26",
         "Tipo": "AF",
         "RE": "RE8221000304A",
@@ -35857,16 +35890,16 @@
     ]
   },
   "totais": {
-    "Brusque": 489,
+    "Brusque": 490,
     "Botuvera": 36,
     "Guabiruba": 46,
     "Gaspar": 280,
     "Porto Belo": 257,
     "Nova Trento": 309,
-    "Itapema": 553,
+    "Itapema": 554,
     "Blumenau": 577,
-    "Navegantes": 180,
+    "Navegantes": 181,
     "Itajai": 525
   },
-  "total_geral": 3252
+  "total_geral": 3255
 }
