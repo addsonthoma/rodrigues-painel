@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-10-06T03:56:47-03:00",
+  "timestamp": "2026-10-06T10:56:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8152,
-      "ultima_verificacao": "2026-10-06T03:56:47-03:00"
+      "ultimo_numero": 8153,
+      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-06T03:56:47-03:00"
+      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1556,
-      "ultima_verificacao": "2026-10-06T03:56:47-03:00"
+      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3917,
-      "ultima_verificacao": "2026-10-06T03:56:47-03:00"
+      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3417,
-      "ultima_verificacao": "2026-10-06T03:56:47-03:00"
+      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 985,
-      "ultima_verificacao": "2026-10-06T03:56:47-03:00"
+      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7243,
-      "ultima_verificacao": "2026-10-06T03:56:47-03:00"
+      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13081,
-      "ultima_verificacao": "2026-10-06T03:56:47-03:00"
+      "ultimo_numero": 13082,
+      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5060,
-      "ultima_verificacao": "2026-10-06T03:56:47-03:00"
+      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14400,
-      "ultima_verificacao": "2026-10-06T03:56:47-03:00"
+      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008153A",
+        "RE": "RE8055006855A",
+        "numgEdificacao": 371703,
+        "Nome_Edificacao": "AGROPET AMOR DE BICHO",
+        "Logradouro": "NOVA TRENTO",
+        "Numero": "431",
+        "Bairro": "BRUSQUE - AZAMBUJA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-06T10:56:20-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008152A",
         "RE": "RE8055006854A",
@@ -9561,6 +9572,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013082A",
+        "RE": "RE8047003627A",
+        "numgEdificacao": 128642,
+        "Nome_Edificacao": "DISAMTEX LTDA",
+        "Logradouro": "Rua Rudolfo Walter",
+        "Numero": "2000",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-06T10:56:20-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013081A",
         "RE": "RE8047012073A",
@@ -19721,16 +19743,16 @@
     ]
   },
   "totais": {
-    "Brusque": 188,
+    "Brusque": 189,
     "Botuvera": 42,
     "Guabiruba": 81,
     "Gaspar": 151,
     "Porto Belo": 136,
     "Nova Trento": 69,
     "Itapema": 196,
-    "Blumenau": 336,
+    "Blumenau": 337,
     "Navegantes": 163,
     "Itajai": 424
   },
-  "total_geral": 1786
+  "total_geral": 1788
 }

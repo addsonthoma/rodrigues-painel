@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-10-06T03:48:16-03:00",
+  "timestamp": "2026-10-06T10:47:35-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 129,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T03:48:16-03:00"
+      "ultima_verificacao": "2026-10-06T10:47:35-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T03:48:16-03:00"
+      "ultima_verificacao": "2026-10-06T10:47:35-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T03:48:16-03:00"
+      "ultima_verificacao": "2026-10-06T10:47:35-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 67,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T03:48:16-03:00"
+      "ultima_verificacao": "2026-10-06T10:47:35-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 126,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T03:48:16-03:00"
+      "ultima_verificacao": "2026-10-06T10:47:35-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 156,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T03:48:16-03:00"
+      "ultima_verificacao": "2026-10-06T10:47:35-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
-      "ultimo_numero": 231,
+      "ultimo_numero": 235,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T03:48:16-03:00"
+      "ultima_verificacao": "2026-10-06T10:47:35-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 282,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T03:48:16-03:00"
+      "ultima_verificacao": "2026-10-06T10:47:35-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T03:48:16-03:00"
+      "ultima_verificacao": "2026-10-06T10:47:35-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 513,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T03:48:16-03:00"
+      "ultima_verificacao": "2026-10-06T10:47:35-03:00"
     }
   },
   "multas": {
@@ -5029,6 +5029,46 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "MUL8163000232A/26",
+        "RE": "RE8163006277A",
+        "Nome_Edificacao": "MULTICAR LAVACAO LTDA",
+        "Logradouro": "RUA 808 B",
+        "Numero": "260",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-06T10:47:35-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000233A/26",
+        "RE": "RE8163006816A",
+        "Nome_Edificacao": "Vieira móveis",
+        "Logradouro": "RUA 902 D",
+        "Numero": "478",
+        "Bairro": "ITAPEMA - ALTO SAO BENTO",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-06T10:47:35-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000234A/26",
+        "RE": "RE8163000821A",
+        "Nome_Edificacao": "Residencial RDM Évora",
+        "Logradouro": "Rua 430-B,",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-06T10:47:35-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8163000235A/26",
+        "RE": "RE8163001331A",
+        "Nome_Edificacao": "HOTEL POUSADA SETE MARES",
+        "Logradouro": "rua 109-O",
+        "Numero": "777",
+        "Bairro": "ITAPEMA - CANTO PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-06T10:47:35-03:00"
+      },
+      {
         "CodigoAuto": "MUL8163000231A/26",
         "RE": "RE8163003159A",
         "Nome_Edificacao": "RESTAURANTE PASTINI VELOCE",
@@ -8138,13 +8178,41 @@
     "Gaspar": 43,
     "Guabiruba": 3,
     "Itajai": 231,
-    "Itapema": 114,
+    "Itapema": 118,
     "Navegantes": 60,
     "Nova Trento": 73,
     "Porto Belo": 69
   },
-  "total_geral": 817,
+  "total_geral": 821,
   "eventos_recentes": [
+    {
+      "ts": "2026-10-06T10:47:35-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000235A/26",
+      "nome": "HOTEL POUSADA SETE MARES",
+      "re": "RE8163001331A"
+    },
+    {
+      "ts": "2026-10-06T10:47:35-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000234A/26",
+      "nome": "Residencial RDM Évora",
+      "re": "RE8163000821A"
+    },
+    {
+      "ts": "2026-10-06T10:47:35-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000233A/26",
+      "nome": "Vieira móveis",
+      "re": "RE8163006816A"
+    },
+    {
+      "ts": "2026-10-06T10:47:35-03:00",
+      "cidade": "Itapema",
+      "codigo": "MUL8163000232A/26",
+      "nome": "MULTICAR LAVACAO LTDA",
+      "re": "RE8163006277A"
+    },
     {
       "ts": "2026-10-05T21:29:46-03:00",
       "cidade": "Itajai",
