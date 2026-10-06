@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-06T16:24:51-03:00",
+  "timestamp": "2026-10-06T20:14:49-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8157,
-      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
+      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 409,
-      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
+      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1557,
-      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
+      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3921,
-      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
+      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3418,
-      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
+      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 985,
-      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
+      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7243,
-      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
+      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13084,
-      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
+      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5060,
-      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
+      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14403,
-      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
+      "ultimo_numero": 14406,
+      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
     }
   },
   "protocolos": {
@@ -15220,6 +15220,39 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014406A",
+        "RE": "RE8161013933A",
+        "numgEdificacao": 371791,
+        "Nome_Edificacao": "Condomínio Residencial Philadelfia",
+        "Logradouro": "Rua Mário Bento dos Passos",
+        "Numero": "264",
+        "Bairro": "ITAJAÍ - Cordeiros",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-06T20:14:49-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014405A",
+        "RE": "RE8161013932A",
+        "numgEdificacao": 371774,
+        "Nome_Edificacao": "SSBOX GALPAO 903",
+        "Logradouro": "RUA JOSÉ ROSA",
+        "Numero": "903",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-06T20:14:49-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014404A",
+        "RE": "RE8161008887A",
+        "numgEdificacao": 236311,
+        "Nome_Edificacao": "LUIZ ALBERTO DE SOUZA",
+        "Logradouro": "RUA JOSE SIQUEIRA",
+        "Numero": "401",
+        "Bairro": "ITAJAÍ - RESSACADA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-06T20:14:49-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014403A",
         "RE": "RE8161010709A",
         "numgEdificacao": 284989,
@@ -19928,7 +19961,7 @@
     "Itapema": 196,
     "Blumenau": 339,
     "Navegantes": 163,
-    "Itajai": 427
+    "Itajai": 430
   },
-  "total_geral": 1804
+  "total_geral": 1807
 }

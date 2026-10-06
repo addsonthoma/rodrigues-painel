@@ -1,79 +1,119 @@
 {
-  "timestamp": "2026-10-06T16:14:18-03:00",
+  "timestamp": "2026-10-06T20:06:17-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 129,
+      "ultimo_numero": 130,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T16:14:18-03:00"
+      "ultima_verificacao": "2026-10-06T20:06:17-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T16:14:18-03:00"
+      "ultima_verificacao": "2026-10-06T20:06:17-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T16:14:18-03:00"
+      "ultima_verificacao": "2026-10-06T20:06:17-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
-      "ultimo_numero": 68,
+      "ultimo_numero": 69,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T16:14:18-03:00"
+      "ultima_verificacao": "2026-10-06T20:06:17-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 126,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T16:14:18-03:00"
+      "ultima_verificacao": "2026-10-06T20:06:17-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 156,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T16:14:18-03:00"
+      "ultima_verificacao": "2026-10-06T20:06:17-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 235,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T16:14:18-03:00"
+      "ultima_verificacao": "2026-10-06T20:06:17-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 283,
+      "ultimo_numero": 287,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T16:14:18-03:00"
+      "ultima_verificacao": "2026-10-06T20:06:17-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T16:14:18-03:00"
+      "ultima_verificacao": "2026-10-06T20:06:17-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 513,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-06T16:14:18-03:00"
+      "ultima_verificacao": "2026-10-06T20:06:17-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000284A/26",
+        "RE": "RE8047009165A",
+        "Nome_Edificacao": "TOPSERV LOCAÇÕES E SERVIÇOS LTDA",
+        "Logradouro": "Rua Ernst Siebert",
+        "Numero": "",
+        "Bairro": "BLUMENAU - ITOUPAVA SECA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-06T20:06:17-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000285A/26",
+        "RE": "RE8047000553A",
+        "Nome_Edificacao": "Vitrine 528 LTDA",
+        "Logradouro": "Rua Henrique Weise",
+        "Numero": "528",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-06T20:06:17-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000286A/26",
+        "RE": "RE8047004409A",
+        "Nome_Edificacao": "ROMEU GEORG COM REPRES. LTDA",
+        "Logradouro": "Rua Dois de Setembro",
+        "Numero": "4217",
+        "Bairro": "BLUMENAU - ITOUPAVA NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-06T20:06:17-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000287A/26",
+        "RE": "RE8047005075A",
+        "Nome_Edificacao": "CTG RANCHO DA TRADICAO",
+        "Logradouro": "Rua Hermann Fritzke",
+        "Numero": "",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-06T20:06:17-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000283A/26",
         "RE": "RE8047003540A",
@@ -1571,6 +1611,16 @@
     ],
     "Brusque": [
       {
+        "CodigoAuto": "MUL8055000130A/26",
+        "RE": "RE8055001797A",
+        "Nome_Edificacao": "ATHLON S/A ADMINISTRADORA E INCORPORADORA",
+        "Logradouro": "Antonio Heil",
+        "Numero": "7380",
+        "Bairro": "BRUSQUE - LIMOEIRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-06T20:06:17-03:00"
+      },
+      {
         "CodigoAuto": "MUL8055000129A/26",
         "RE": "RE8055003611A",
         "Nome_Edificacao": "JAIR ADRIANO",
@@ -2297,6 +2347,16 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "MUL8117000069A/26",
+        "RE": "RE8117000257A",
+        "Nome_Edificacao": "Júlio César Junkes",
+        "Logradouro": "Rua Prefeito Leopoldo Schramm",
+        "Numero": "478",
+        "Bairro": "GASPAR - COLONINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-06T20:06:17-03:00"
+      },
       {
         "CodigoAuto": "MUL8117000068A/26",
         "RE": "RE8117002350A",
@@ -8192,10 +8252,10 @@
     ]
   },
   "totais": {
-    "Blumenau": 148,
+    "Blumenau": 152,
     "Botuvera": 3,
-    "Brusque": 74,
-    "Gaspar": 44,
+    "Brusque": 75,
+    "Gaspar": 45,
     "Guabiruba": 3,
     "Itajai": 231,
     "Itapema": 118,
@@ -8203,8 +8263,50 @@
     "Nova Trento": 73,
     "Porto Belo": 69
   },
-  "total_geral": 823,
+  "total_geral": 829,
   "eventos_recentes": [
+    {
+      "ts": "2026-10-06T20:06:17-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000287A/26",
+      "nome": "CTG RANCHO DA TRADICAO",
+      "re": "RE8047005075A"
+    },
+    {
+      "ts": "2026-10-06T20:06:17-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000286A/26",
+      "nome": "ROMEU GEORG COM REPRES. LTDA",
+      "re": "RE8047004409A"
+    },
+    {
+      "ts": "2026-10-06T20:06:17-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000285A/26",
+      "nome": "Vitrine 528 LTDA",
+      "re": "RE8047000553A"
+    },
+    {
+      "ts": "2026-10-06T20:06:17-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000284A/26",
+      "nome": "TOPSERV LOCAÇÕES E SERVIÇOS LTDA",
+      "re": "RE8047009165A"
+    },
+    {
+      "ts": "2026-10-06T20:06:17-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000069A/26",
+      "nome": "Júlio César Junkes",
+      "re": "RE8117000257A"
+    },
+    {
+      "ts": "2026-10-06T20:06:17-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000130A/26",
+      "nome": "ATHLON S/A ADMINISTRADORA E INCORPORADORA",
+      "re": "RE8055001797A"
+    },
     {
       "ts": "2026-10-06T16:14:18-03:00",
       "cidade": "Blumenau",
