@@ -1,59 +1,103 @@
 {
-  "timestamp": "2026-10-06T10:56:20-03:00",
+  "timestamp": "2026-10-06T16:24:51-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8153,
-      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
+      "ultimo_numero": 8157,
+      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
-      "ultimo_numero": 408,
-      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
+      "ultimo_numero": 409,
+      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1556,
-      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
+      "ultimo_numero": 1557,
+      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3917,
-      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
+      "ultimo_numero": 3921,
+      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3417,
-      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
+      "ultimo_numero": 3418,
+      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 985,
-      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
+      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7243,
-      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
+      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13082,
-      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
+      "ultimo_numero": 13084,
+      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5060,
-      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
+      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14400,
-      "ultima_verificacao": "2026-10-06T10:56:20-03:00"
+      "ultimo_numero": 14403,
+      "ultima_verificacao": "2026-10-06T16:24:51-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008157A",
+        "RE": "RE8055006835A",
+        "numgEdificacao": 370659,
+        "Nome_Edificacao": "GALPÃO ZCOM",
+        "Logradouro": "RUA MEDEIROS",
+        "Numero": "640",
+        "Bairro": "BRUSQUE - SÃO PEDRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008156A",
+        "RE": "RE8055006846A",
+        "numgEdificacao": 371331,
+        "Nome_Edificacao": "Genesio Baumgartner",
+        "Logradouro": "Rua Ervino Niebhur",
+        "Numero": "272",
+        "Bairro": "BRUSQUE - Nova Brasília",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008155A",
+        "RE": "RE8055006856A",
+        "numgEdificacao": 371722,
+        "Nome_Edificacao": "HJC FACÇÃO",
+        "Logradouro": "Rua SC - 020",
+        "Numero": "29",
+        "Bairro": "BRUSQUE - SOUZA CRUZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008154A",
+        "RE": "RE8055006495A",
+        "numgEdificacao": 349088,
+        "Nome_Edificacao": "RISSI EMPREENDIMENTOS LTDA",
+        "Logradouro": "Rua Alberto Mueller",
+        "Numero": "255",
+        "Bairro": "BRUSQUE - Limeira Baixa",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008153A",
         "RE": "RE8055006855A",
@@ -2136,6 +2180,17 @@
     ],
     "Botuvera": [
       {
+        "CodigoProtocolo": "A8051000409A",
+        "RE": "RE8051000250A",
+        "numgEdificacao": 297723,
+        "Nome_Edificacao": "COMUNIDADE S. ROQUE E S. JOÃO BATISTA",
+        "Logradouro": "RODOVIA PEDRO MERíZIO (SC-486)",
+        "Numero": "",
+        "Bairro": "BOTUVERÁ - PEDRAS GRANDES",
+        "Cidade": "Botuvera",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
+      {
         "CodigoProtocolo": "A8051000408A",
         "RE": "RE8051000063A",
         "numgEdificacao": 103554,
@@ -2599,6 +2654,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001557A",
+        "RE": "RE8123001233A",
+        "numgEdificacao": 371465,
+        "Nome_Edificacao": "JOSE LUIZ RISCAROLI - GALPÃO",
+        "Logradouro": "ANGELA VOSS RESCAROLLI",
+        "Numero": "999",
+        "Bairro": "GUABIRUBA - LAJEADO BAIXO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001556A",
         "RE": "RE8123001236A",
@@ -3492,6 +3558,50 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003921A",
+        "RE": "RE8117003303A",
+        "numgEdificacao": 371658,
+        "Nome_Edificacao": "LOFTS RESDENCIAL RBG ENGENHARIA",
+        "Logradouro": "Rua Rio de Janeiro",
+        "Numero": "",
+        "Bairro": "GASPAR - MARGEM ESQUERDA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003920A",
+        "RE": "RE8117003307A",
+        "numgEdificacao": 371734,
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL DUBAY",
+        "Logradouro": "Beco Pamplona",
+        "Numero": "90",
+        "Bairro": "GASPAR - Sete de Setembro",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003919A",
+        "RE": "RE8117003306A",
+        "numgEdificacao": 371729,
+        "Nome_Edificacao": "MCL ADMINISTRADORA E INCORPORADORA LTDA",
+        "Logradouro": "RUA BECO PAMPLONA",
+        "Numero": "70",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8117003918A",
+        "RE": "RE8117003304A",
+        "numgEdificacao": 371727,
+        "Nome_Edificacao": "FREDEMAR SCHMITT",
+        "Logradouro": "BONIFACIO HAENDCHEN",
+        "Numero": "3710",
+        "Bairro": "GASPAR - Belchior Alto",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003917A",
         "RE": "RE8117002079A",
@@ -5155,6 +5265,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003418A",
+        "RE": "RE8265002144A",
+        "numgEdificacao": 287700,
+        "Nome_Edificacao": "Costão",
+        "Logradouro": "AVENIDA SENADOR ATILIO FONTANA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003417A",
         "RE": "RE8265002267A",
@@ -9572,6 +9693,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013084A",
+        "RE": "RE8047001315A",
+        "numgEdificacao": 51004,
+        "Nome_Edificacao": "SESC SERVIÇO SOCIAL DO COMERCIO",
+        "Logradouro": "Rua Engenheiro Udo Deeke",
+        "Numero": "1330",
+        "Bairro": "BLUMENAU - SALTO DO NORTE",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013083A",
+        "RE": "RE8047003627A",
+        "numgEdificacao": 128642,
+        "Nome_Edificacao": "DISAMTEX LTDA",
+        "Logradouro": "Rua Rudolfo Walter",
+        "Numero": "2000",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013082A",
         "RE": "RE8047003627A",
@@ -15077,6 +15220,39 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014403A",
+        "RE": "RE8161010709A",
+        "numgEdificacao": 284989,
+        "Nome_Edificacao": "JAISON LUIZ DA SILVA 2",
+        "Logradouro": "Rua Vereador Nestor dos Santos",
+        "Numero": "86",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014402A",
+        "RE": "RE8161013931A",
+        "numgEdificacao": 371743,
+        "Nome_Edificacao": "Galpão - Sidnei Schulz 124",
+        "Logradouro": "Rua Sidnei Schulze",
+        "Numero": "124",
+        "Bairro": "ITAJAÍ - Cidade Nova",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014401A",
+        "RE": "RE8161013930A",
+        "numgEdificacao": 371730,
+        "Nome_Edificacao": "Laci Montibeller Mondini",
+        "Logradouro": "Rua Doutor Reinaldo Schmithausen",
+        "Numero": "1080",
+        "Bairro": "ITAJAÍ - Cordeiros",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-06T16:24:51-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014400A",
         "RE": "RE8161001464A",
         "numgEdificacao": 42017,
@@ -19743,16 +19919,16 @@
     ]
   },
   "totais": {
-    "Brusque": 189,
-    "Botuvera": 42,
-    "Guabiruba": 81,
-    "Gaspar": 151,
-    "Porto Belo": 136,
+    "Brusque": 193,
+    "Botuvera": 43,
+    "Guabiruba": 82,
+    "Gaspar": 155,
+    "Porto Belo": 137,
     "Nova Trento": 69,
     "Itapema": 196,
-    "Blumenau": 337,
+    "Blumenau": 339,
     "Navegantes": 163,
-    "Itajai": 424
+    "Itajai": 427
   },
-  "total_geral": 1788
+  "total_geral": 1804
 }
