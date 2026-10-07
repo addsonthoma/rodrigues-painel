@@ -1,79 +1,109 @@
 {
-  "timestamp": "2026-10-07T13:31:40-03:00",
+  "timestamp": "2026-10-07T18:31:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 133,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-07T13:31:40-03:00"
+      "ultima_verificacao": "2026-10-07T18:31:58-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-07T13:31:40-03:00"
+      "ultima_verificacao": "2026-10-07T18:31:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
-      "ultimo_numero": 3,
+      "ultimo_numero": 4,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-07T13:31:40-03:00"
+      "ultima_verificacao": "2026-10-07T18:31:58-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 69,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-07T13:31:40-03:00"
+      "ultima_verificacao": "2026-10-07T18:31:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 126,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-07T13:31:40-03:00"
+      "ultima_verificacao": "2026-10-07T18:31:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 156,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-07T13:31:40-03:00"
+      "ultima_verificacao": "2026-10-07T18:31:58-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 237,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-07T13:31:40-03:00"
+      "ultima_verificacao": "2026-10-07T18:31:58-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
-      "ultimo_numero": 287,
+      "ultimo_numero": 290,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-07T13:31:40-03:00"
+      "ultima_verificacao": "2026-10-07T18:31:58-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-07T13:31:40-03:00"
+      "ultima_verificacao": "2026-10-07T18:31:58-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 513,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-07T13:31:40-03:00"
+      "ultima_verificacao": "2026-10-07T18:31:58-03:00"
     }
   },
   "multas": {
     "Blumenau": [
+      {
+        "CodigoAuto": "MUL8047000288A/26",
+        "RE": "RE8047009403A",
+        "Nome_Edificacao": "Espaço Índigo",
+        "Logradouro": "HANS LORENZ",
+        "Numero": "141",
+        "Bairro": "BLUMENAU - ITOUPAVA SECA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-07T18:31:58-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000289A/26",
+        "RE": "RE8047011491A",
+        "Nome_Edificacao": "Terminal da Gloria",
+        "Logradouro": "RUA DA GLORIA",
+        "Numero": "350",
+        "Bairro": "BLUMENAU - GARCIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-07T18:31:58-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000290A/26",
+        "RE": "RE8047010601A",
+        "Nome_Edificacao": "Loja Kaprixo Modas",
+        "Logradouro": "Rua Frederico Jensen",
+        "Numero": "",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-07T18:31:58-03:00"
+      },
       {
         "CodigoAuto": "MUL8047000284A/26",
         "RE": "RE8047009165A",
@@ -2814,6 +2844,16 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoAuto": "MUL8123000004A/26",
+        "RE": "RE8123000227A",
+        "Nome_Edificacao": "IVORI PIRES DA SILVA",
+        "Logradouro": "SÃO PEDRO",
+        "Numero": "98",
+        "Bairro": "GUABIRUBA - SAO PEDRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-10-07T18:31:58-03:00"
+      },
       {
         "CodigoAuto": "MUL8123000003A/26",
         "RE": "RE8123000698A",
@@ -8302,19 +8342,47 @@
     ]
   },
   "totais": {
-    "Blumenau": 152,
+    "Blumenau": 155,
     "Botuvera": 3,
     "Brusque": 78,
     "Gaspar": 45,
-    "Guabiruba": 3,
+    "Guabiruba": 4,
     "Itajai": 231,
     "Itapema": 120,
     "Navegantes": 60,
     "Nova Trento": 73,
     "Porto Belo": 69
   },
-  "total_geral": 834,
+  "total_geral": 838,
   "eventos_recentes": [
+    {
+      "ts": "2026-10-07T18:31:58-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000290A/26",
+      "nome": "Loja Kaprixo Modas",
+      "re": "RE8047010601A"
+    },
+    {
+      "ts": "2026-10-07T18:31:58-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000289A/26",
+      "nome": "Terminal da Gloria",
+      "re": "RE8047011491A"
+    },
+    {
+      "ts": "2026-10-07T18:31:58-03:00",
+      "cidade": "Blumenau",
+      "codigo": "MUL8047000288A/26",
+      "nome": "Espaço Índigo",
+      "re": "RE8047009403A"
+    },
+    {
+      "ts": "2026-10-07T18:31:58-03:00",
+      "cidade": "Guabiruba",
+      "codigo": "MUL8123000004A/26",
+      "nome": "IVORI PIRES DA SILVA",
+      "re": "RE8123000227A"
+    },
     {
       "ts": "2026-10-07T13:31:40-03:00",
       "cidade": "Itapema",
