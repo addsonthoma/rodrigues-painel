@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-06T20:14:49-03:00",
+  "timestamp": "2026-10-06T23:33:10-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8157,
-      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
+      "ultima_verificacao": "2026-10-06T23:33:10-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 409,
-      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
+      "ultima_verificacao": "2026-10-06T23:33:10-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1557,
-      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
+      "ultimo_numero": 1558,
+      "ultima_verificacao": "2026-10-06T23:33:10-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3921,
-      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
+      "ultima_verificacao": "2026-10-06T23:33:10-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3418,
-      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
+      "ultima_verificacao": "2026-10-06T23:33:10-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 985,
-      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
+      "ultima_verificacao": "2026-10-06T23:33:10-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7243,
-      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
+      "ultima_verificacao": "2026-10-06T23:33:10-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13084,
-      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
+      "ultima_verificacao": "2026-10-06T23:33:10-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5060,
-      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
+      "ultimo_numero": 5061,
+      "ultima_verificacao": "2026-10-06T23:33:10-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14406,
-      "ultima_verificacao": "2026-10-06T20:14:49-03:00"
+      "ultima_verificacao": "2026-10-06T23:33:10-03:00"
     }
   },
   "protocolos": {
@@ -2654,6 +2654,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001558A",
+        "RE": "RE8123000247A",
+        "numgEdificacao": 116748,
+        "Nome_Edificacao": "KOHLER TINTURARIA LTDA MATRIZ",
+        "Logradouro": "Vicente Kormann",
+        "Numero": "356",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-10-06T23:33:10-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001557A",
         "RE": "RE8123001233A",
@@ -13425,6 +13436,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005061A",
+        "RE": "RE8221002516A",
+        "numgEdificacao": 249651,
+        "Nome_Edificacao": "Igreja Bom Pastor",
+        "Logradouro": "AV. VEREADOR NEREU LIBERATO NUNES",
+        "Numero": "746",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-06T23:33:10-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005060A",
         "RE": "RE8221004172A",
         "numgEdificacao": 371687,
@@ -19954,14 +19976,14 @@
   "totais": {
     "Brusque": 193,
     "Botuvera": 43,
-    "Guabiruba": 82,
+    "Guabiruba": 83,
     "Gaspar": 155,
     "Porto Belo": 137,
     "Nova Trento": 69,
     "Itapema": 196,
     "Blumenau": 339,
-    "Navegantes": 163,
+    "Navegantes": 164,
     "Itajai": 430
   },
-  "total_geral": 1807
+  "total_geral": 1809
 }
