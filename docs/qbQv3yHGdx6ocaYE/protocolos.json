@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-08T11:56:52-03:00",
+  "timestamp": "2026-10-08T12:07:11-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8160,
-      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
+      "ultima_verificacao": "2026-10-08T12:07:11-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
+      "ultima_verificacao": "2026-10-08T12:07:11-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1558,
-      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
+      "ultima_verificacao": "2026-10-08T12:07:11-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
+      "ultima_verificacao": "2026-10-08T12:07:11-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3418,
-      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
+      "ultima_verificacao": "2026-10-08T12:07:11-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 986,
-      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
+      "ultima_verificacao": "2026-10-08T12:07:11-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7246,
-      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
+      "ultima_verificacao": "2026-10-08T12:07:11-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13085,
-      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
+      "ultima_verificacao": "2026-10-08T12:07:11-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5065,
-      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
+      "ultima_verificacao": "2026-10-08T12:07:11-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14414,
-      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
+      "ultimo_numero": 14415,
+      "ultima_verificacao": "2026-10-08T12:07:11-03:00"
     }
   },
   "protocolos": {
@@ -15396,6 +15396,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014415A",
+        "RE": "RE8161000877A",
+        "numgEdificacao": 24609,
+        "Nome_Edificacao": "HR AMARAL PARTICIPAÇÕES LTDA",
+        "Logradouro": "ROD. ANTONIO HEIL",
+        "Numero": "8661",
+        "Bairro": "ITAJAÍ - ITAIPAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-08T12:07:11-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014414A",
         "RE": "RE8161013693A",
         "numgEdificacao": 363558,
@@ -20137,7 +20148,7 @@
     "Itapema": 199,
     "Blumenau": 340,
     "Navegantes": 168,
-    "Itajai": 430
+    "Itajai": 431
   },
-  "total_geral": 1823
+  "total_geral": 1824
 }
