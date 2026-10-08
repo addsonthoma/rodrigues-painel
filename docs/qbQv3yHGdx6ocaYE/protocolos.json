@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-08T11:46:56-03:00",
+  "timestamp": "2026-10-08T11:56:52-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8160,
-      "ultima_verificacao": "2026-10-08T11:46:56-03:00"
+      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-08T11:46:56-03:00"
+      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1558,
-      "ultima_verificacao": "2026-10-08T11:46:56-03:00"
+      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-08T11:46:56-03:00"
+      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3418,
-      "ultima_verificacao": "2026-10-08T11:46:56-03:00"
+      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 986,
-      "ultima_verificacao": "2026-10-08T11:46:56-03:00"
+      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7246,
-      "ultima_verificacao": "2026-10-08T11:46:56-03:00"
+      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13084,
-      "ultima_verificacao": "2026-10-08T11:46:56-03:00"
+      "ultimo_numero": 13085,
+      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5065,
-      "ultima_verificacao": "2026-10-08T11:46:56-03:00"
+      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14414,
-      "ultima_verificacao": "2026-10-08T11:46:56-03:00"
+      "ultima_verificacao": "2026-10-08T11:56:52-03:00"
     }
   },
   "protocolos": {
@@ -9803,6 +9803,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013085A",
+        "RE": "RE8047008810A",
+        "numgEdificacao": 251141,
+        "Nome_Edificacao": "STRAUSS, EDIFICIO RICHARD",
+        "Logradouro": "Alameda Rio Branco",
+        "Numero": "860",
+        "Bairro": "BLUMENAU - JARDIM BLUMENAU",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-08T11:56:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013084A",
         "RE": "RE8047001315A",
@@ -20124,9 +20135,9 @@
     "Porto Belo": 137,
     "Nova Trento": 70,
     "Itapema": 199,
-    "Blumenau": 339,
+    "Blumenau": 340,
     "Navegantes": 168,
     "Itajai": 430
   },
-  "total_geral": 1822
+  "total_geral": 1823
 }
