@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-08T16:20:26-03:00",
+  "timestamp": "2026-10-08T16:30:22-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1114,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T16:20:26-03:00"
+      "ultima_verificacao": "2026-10-08T16:30:22-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T16:20:26-03:00"
+      "ultima_verificacao": "2026-10-08T16:30:22-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T16:20:26-03:00"
+      "ultima_verificacao": "2026-10-08T16:30:22-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 738,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T16:20:26-03:00"
+      "ultima_verificacao": "2026-10-08T16:30:22-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T16:20:26-03:00"
+      "ultima_verificacao": "2026-10-08T16:30:22-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 633,
+      "ultimo_numero": 634,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T16:20:26-03:00"
+      "ultima_verificacao": "2026-10-08T16:30:22-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T16:20:26-03:00"
+      "ultima_verificacao": "2026-10-08T16:30:22-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1299,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T16:20:26-03:00"
+      "ultima_verificacao": "2026-10-08T16:30:22-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 390,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T16:20:26-03:00"
+      "ultima_verificacao": "2026-10-08T16:30:22-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1288,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T16:20:26-03:00"
+      "ultima_verificacao": "2026-10-08T16:30:22-03:00"
     }
   },
   "afs": {
@@ -12977,6 +12977,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000634A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000663A",
+        "Nome_Edificacao": "CAPELA SANTA AGATA",
+        "Logradouro": "RUA CARLOS TRIDAPALLI",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - BESENELLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-08T16:30:22-03:00"
+      },
       {
         "CodigoAuto": "AF8225000633A/26",
         "Tipo": "AF",
@@ -37204,11 +37215,11 @@
     "Guabiruba": 48,
     "Gaspar": 320,
     "Porto Belo": 264,
-    "Nova Trento": 323,
+    "Nova Trento": 324,
     "Itapema": 571,
     "Blumenau": 586,
     "Navegantes": 186,
     "Itajai": 535
   },
-  "total_geral": 3374
+  "total_geral": 3375
 }
