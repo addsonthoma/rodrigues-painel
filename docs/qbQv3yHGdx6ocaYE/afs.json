@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-08T12:50:22-03:00",
+  "timestamp": "2026-10-08T13:00:32-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1114,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T12:50:22-03:00"
+      "ultima_verificacao": "2026-10-08T13:00:32-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T12:50:22-03:00"
+      "ultima_verificacao": "2026-10-08T13:00:32-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T12:50:22-03:00"
+      "ultima_verificacao": "2026-10-08T13:00:32-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 721,
+      "ultimo_numero": 724,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T12:50:22-03:00"
+      "ultima_verificacao": "2026-10-08T13:00:32-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T12:50:22-03:00"
+      "ultima_verificacao": "2026-10-08T13:00:32-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 633,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T12:50:22-03:00"
+      "ultima_verificacao": "2026-10-08T13:00:32-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T12:50:22-03:00"
+      "ultima_verificacao": "2026-10-08T13:00:32-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1299,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T12:50:22-03:00"
+      "ultima_verificacao": "2026-10-08T13:00:32-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 389,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T12:50:22-03:00"
+      "ultima_verificacao": "2026-10-08T13:00:32-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1288,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T12:50:22-03:00"
+      "ultima_verificacao": "2026-10-08T13:00:32-03:00"
     }
   },
   "afs": {
@@ -6549,6 +6549,39 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000724A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001728A",
+        "Nome_Edificacao": "DARCI SCHLICKMANN",
+        "Logradouro": "Rua José Koser",
+        "Numero": "120",
+        "Bairro": "GASPAR - Belchior Alto",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-08T13:00:32-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000723A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002971A",
+        "Nome_Edificacao": "JBS AUTO PEÇAS LTDA",
+        "Logradouro": "RODOVIA INGO HERING",
+        "Numero": "10585",
+        "Bairro": "GASPAR - MARGEM ESQUERDA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-08T13:00:32-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000722A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000755A",
+        "Nome_Edificacao": "VITAL MONDINI",
+        "Logradouro": "Rua Prefeito Leopoldo Schramm",
+        "Numero": "64",
+        "Bairro": "GASPAR - COLONINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-08T13:00:32-03:00"
+      },
       {
         "CodigoAuto": "AF8117000721A/26",
         "Tipo": "AF",
@@ -37004,7 +37037,7 @@
     "Brusque": 504,
     "Botuvera": 37,
     "Guabiruba": 48,
-    "Gaspar": 303,
+    "Gaspar": 306,
     "Porto Belo": 264,
     "Nova Trento": 323,
     "Itapema": 571,
@@ -37012,5 +37045,5 @@
     "Navegantes": 185,
     "Itajai": 535
   },
-  "total_geral": 3356
+  "total_geral": 3359
 }
