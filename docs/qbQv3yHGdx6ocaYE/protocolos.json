@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-10-08T10:47:24-03:00",
+  "timestamp": "2026-10-08T10:57:16-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8159,
-      "ultima_verificacao": "2026-10-08T10:47:24-03:00"
+      "ultimo_numero": 8160,
+      "ultima_verificacao": "2026-10-08T10:57:16-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-08T10:47:24-03:00"
+      "ultima_verificacao": "2026-10-08T10:57:16-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1558,
-      "ultima_verificacao": "2026-10-08T10:47:24-03:00"
+      "ultima_verificacao": "2026-10-08T10:57:16-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-08T10:47:24-03:00"
+      "ultima_verificacao": "2026-10-08T10:57:16-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3418,
-      "ultima_verificacao": "2026-10-08T10:47:24-03:00"
+      "ultima_verificacao": "2026-10-08T10:57:16-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 986,
-      "ultima_verificacao": "2026-10-08T10:47:24-03:00"
+      "ultima_verificacao": "2026-10-08T10:57:16-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7246,
-      "ultima_verificacao": "2026-10-08T10:47:24-03:00"
+      "ultima_verificacao": "2026-10-08T10:57:16-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13084,
-      "ultima_verificacao": "2026-10-08T10:47:24-03:00"
+      "ultima_verificacao": "2026-10-08T10:57:16-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5065,
-      "ultima_verificacao": "2026-10-08T10:47:24-03:00"
+      "ultima_verificacao": "2026-10-08T10:57:16-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14414,
-      "ultima_verificacao": "2026-10-08T10:47:24-03:00"
+      "ultima_verificacao": "2026-10-08T10:57:16-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008160A",
+        "RE": "RE8055006861A",
+        "numgEdificacao": 371913,
+        "Nome_Edificacao": "ESPETINHO DO RYAN",
+        "Logradouro": "Rua Alberto Mueller",
+        "Numero": "38",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-08T10:57:16-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008159A",
         "RE": "RE8055006857A",
@@ -20106,7 +20117,7 @@
     ]
   },
   "totais": {
-    "Brusque": 195,
+    "Brusque": 196,
     "Botuvera": 44,
     "Guabiruba": 83,
     "Gaspar": 156,
@@ -20117,5 +20128,5 @@
     "Navegantes": 168,
     "Itajai": 430
   },
-  "total_geral": 1821
+  "total_geral": 1822
 }
