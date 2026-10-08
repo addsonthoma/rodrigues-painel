@@ -1,59 +1,92 @@
 {
-  "timestamp": "2026-10-08T12:06:20-03:00",
+  "timestamp": "2026-10-08T17:50:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8160,
-      "ultima_verificacao": "2026-10-08T12:06:20-03:00"
+      "ultimo_numero": 8163,
+      "ultima_verificacao": "2026-10-08T17:50:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-08T12:06:20-03:00"
+      "ultima_verificacao": "2026-10-08T17:50:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1558,
-      "ultima_verificacao": "2026-10-08T12:06:20-03:00"
+      "ultima_verificacao": "2026-10-08T17:50:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-08T12:06:20-03:00"
+      "ultima_verificacao": "2026-10-08T17:50:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3418,
-      "ultima_verificacao": "2026-10-08T12:06:20-03:00"
+      "ultimo_numero": 3419,
+      "ultima_verificacao": "2026-10-08T17:50:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 986,
-      "ultima_verificacao": "2026-10-08T12:06:20-03:00"
+      "ultimo_numero": 987,
+      "ultima_verificacao": "2026-10-08T17:50:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7246,
-      "ultima_verificacao": "2026-10-08T12:06:20-03:00"
+      "ultimo_numero": 7251,
+      "ultima_verificacao": "2026-10-08T17:50:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13085,
-      "ultima_verificacao": "2026-10-08T12:06:20-03:00"
+      "ultimo_numero": 13086,
+      "ultima_verificacao": "2026-10-08T17:50:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5065,
-      "ultima_verificacao": "2026-10-08T12:06:20-03:00"
+      "ultima_verificacao": "2026-10-08T17:50:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14415,
-      "ultima_verificacao": "2026-10-08T12:06:20-03:00"
+      "ultimo_numero": 14416,
+      "ultima_verificacao": "2026-10-08T17:50:57-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008163A",
+        "RE": "RE8055006853A",
+        "numgEdificacao": 371625,
+        "Nome_Edificacao": "Quartel Corpo de Bombeiros Brusque",
+        "Logradouro": "Rua Barão do Rio Branco",
+        "Numero": "",
+        "Bairro": "BRUSQUE - Centro I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008162A",
+        "RE": "RE8055000786A",
+        "numgEdificacao": 64219,
+        "Nome_Edificacao": "HOPE EMPREENDIMENTOS IMOBILIÁRIOS - PITTOL",
+        "Logradouro": "RUA RODRIGUES ALVES - 2089672",
+        "Numero": "137",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008161A",
+        "RE": "RE8055000786A",
+        "numgEdificacao": 64219,
+        "Nome_Edificacao": "HOPE EMPREENDIMENTOS IMOBILIÁRIOS - PITTOL",
+        "Logradouro": "RUA RODRIGUES ALVES - 2089672",
+        "Numero": "137",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008160A",
         "RE": "RE8055006861A",
@@ -5332,6 +5365,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003419A",
+        "RE": "RE8265002850A",
+        "numgEdificacao": 370369,
+        "Nome_Edificacao": "Casa 185",
+        "Logradouro": "RUA ALFREDO WALTER GRAF",
+        "Numero": "185",
+        "Bairro": "PORTO BELO - Balneário Perequê",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003418A",
         "RE": "RE8265002144A",
         "numgEdificacao": 287700,
@@ -6841,6 +6885,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoProtocolo": "A8225000987A",
+        "RE": "RE8225000834A",
+        "numgEdificacao": 371923,
+        "Nome_Edificacao": "BAR DO MARCOLA",
+        "Logradouro": "Rua Independência",
+        "Numero": "365",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
+      {
         "CodigoProtocolo": "A8225000986A",
         "RE": "RE8225000601A",
         "numgEdificacao": 314424,
@@ -7612,6 +7667,61 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007251A",
+        "RE": "RE8163006918A",
+        "numgEdificacao": 371958,
+        "Nome_Edificacao": "CHOPP E CHAPA",
+        "Logradouro": "Rua 318",
+        "Numero": "74",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007250A",
+        "RE": "RE8163005777A",
+        "numgEdificacao": 289864,
+        "Nome_Edificacao": "Lago Tahoe",
+        "Logradouro": "RUA 299",
+        "Numero": "145",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007249A",
+        "RE": "RE8163006917A",
+        "numgEdificacao": 371944,
+        "Nome_Edificacao": "POSTO 4 ILHAS",
+        "Logradouro": "Rua 254",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007248A",
+        "RE": "RE8163002582A",
+        "numgEdificacao": 156611,
+        "Nome_Edificacao": "Trésor Residence",
+        "Logradouro": "RUA 418",
+        "Numero": "278",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007247A",
+        "RE": "RE8163003528A",
+        "numgEdificacao": 193180,
+        "Nome_Edificacao": "IDO BILDHAUER",
+        "Logradouro": "Rua 418 A",
+        "Numero": "89",
+        "Bairro": "ITAPEMA - MORRETES",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007246A",
         "RE": "RE8163006915A",
@@ -9803,6 +9913,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013086A",
+        "RE": "RE8047008810A",
+        "numgEdificacao": 251141,
+        "Nome_Edificacao": "STRAUSS, EDIFICIO RICHARD",
+        "Logradouro": "Alameda Rio Branco",
+        "Numero": "860",
+        "Bairro": "BLUMENAU - JARDIM BLUMENAU",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013085A",
         "RE": "RE8047008810A",
@@ -15396,6 +15517,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014416A",
+        "RE": "RE8161005698A",
+        "numgEdificacao": 164374,
+        "Nome_Edificacao": "JOAO CARLOS CARDOZO",
+        "Logradouro": "Rua César Stamm",
+        "Numero": "76",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-08T17:50:57-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014415A",
         "RE": "RE8161000877A",
         "numgEdificacao": 24609,
@@ -20227,16 +20359,16 @@
     ]
   },
   "totais": {
-    "Brusque": 196,
+    "Brusque": 199,
     "Botuvera": 44,
     "Guabiruba": 83,
     "Gaspar": 156,
-    "Porto Belo": 137,
-    "Nova Trento": 70,
-    "Itapema": 199,
-    "Blumenau": 340,
+    "Porto Belo": 138,
+    "Nova Trento": 71,
+    "Itapema": 204,
+    "Blumenau": 341,
     "Navegantes": 168,
-    "Itajai": 439
+    "Itajai": 440
   },
-  "total_geral": 1832
+  "total_geral": 1844
 }
