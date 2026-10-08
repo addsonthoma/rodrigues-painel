@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-10-08T14:50:04-03:00",
+  "timestamp": "2026-10-08T15:00:06-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 133,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-08T14:50:04-03:00"
+      "ultima_verificacao": "2026-10-08T15:00:06-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-08T14:50:04-03:00"
+      "ultima_verificacao": "2026-10-08T15:00:06-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 4,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-08T14:50:04-03:00"
+      "ultima_verificacao": "2026-10-08T15:00:06-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 69,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-08T14:50:04-03:00"
+      "ultima_verificacao": "2026-10-08T15:00:06-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 126,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-08T14:50:04-03:00"
+      "ultima_verificacao": "2026-10-08T15:00:06-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 156,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-08T14:50:04-03:00"
+      "ultima_verificacao": "2026-10-08T15:00:06-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 238,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-08T14:50:04-03:00"
+      "ultima_verificacao": "2026-10-08T15:00:06-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 290,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-08T14:50:04-03:00"
+      "ultima_verificacao": "2026-10-08T15:00:06-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-08T14:50:04-03:00"
+      "ultima_verificacao": "2026-10-08T15:00:06-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 517,
+      "ultimo_numero": 519,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-08T14:50:04-03:00"
+      "ultima_verificacao": "2026-10-08T15:00:06-03:00"
     }
   },
   "multas": {
@@ -2883,6 +2883,26 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000518A/26",
+        "RE": "RE8161010855A",
+        "Nome_Edificacao": "SILVANA ODAIL CUNHA",
+        "Logradouro": "Rua Camboriú",
+        "Numero": "872",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-08T15:00:06-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000519A/26",
+        "RE": "RE8161012036A",
+        "Nome_Edificacao": "SERGIO RONCHI",
+        "Logradouro": "Rua Estefano José Vanolli",
+        "Numero": "1669",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-08T15:00:06-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000515A/26",
         "RE": "RE8161012508A",
@@ -8397,14 +8417,28 @@
     "Brusque": 78,
     "Gaspar": 45,
     "Guabiruba": 4,
-    "Itajai": 235,
+    "Itajai": 237,
     "Itapema": 121,
     "Navegantes": 60,
     "Nova Trento": 73,
     "Porto Belo": 69
   },
-  "total_geral": 843,
+  "total_geral": 845,
   "eventos_recentes": [
+    {
+      "ts": "2026-10-08T15:00:06-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000519A/26",
+      "nome": "SERGIO RONCHI",
+      "re": "RE8161012036A"
+    },
+    {
+      "ts": "2026-10-08T15:00:06-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000518A/26",
+      "nome": "SILVANA ODAIL CUNHA",
+      "re": "RE8161010855A"
+    },
     {
       "ts": "2026-10-08T14:50:04-03:00",
       "cidade": "Itajai",
@@ -8740,20 +8774,6 @@
       "codigo": "MUL8047000282A/26",
       "nome": "TERMINAL URBANO NORTE",
       "re": "RE8047001534A"
-    },
-    {
-      "ts": "2026-10-01T17:00:05-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000281A/26",
-      "nome": "Terminal do Aterro",
-      "re": "RE8047011493A"
-    },
-    {
-      "ts": "2026-10-01T16:50:03-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000280A/26",
-      "nome": "JORGE JOÃO RAMOS",
-      "re": "RE8047005821A"
     }
   ]
 }
