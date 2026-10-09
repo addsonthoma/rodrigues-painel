@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-09T12:30:20-03:00",
+  "timestamp": "2026-10-09T12:40:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1116,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T12:30:20-03:00"
+      "ultima_verificacao": "2026-10-09T12:40:21-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T12:30:20-03:00"
+      "ultima_verificacao": "2026-10-09T12:40:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T12:30:20-03:00"
+      "ultima_verificacao": "2026-10-09T12:40:21-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 741,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T12:30:20-03:00"
+      "ultima_verificacao": "2026-10-09T12:40:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T12:30:20-03:00"
+      "ultima_verificacao": "2026-10-09T12:40:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 640,
+      "ultimo_numero": 643,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T12:30:20-03:00"
+      "ultima_verificacao": "2026-10-09T12:40:21-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T12:30:20-03:00"
+      "ultima_verificacao": "2026-10-09T12:40:21-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1302,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T12:30:20-03:00"
+      "ultima_verificacao": "2026-10-09T12:40:21-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 391,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T12:30:20-03:00"
+      "ultima_verificacao": "2026-10-09T12:40:21-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1288,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T12:30:20-03:00"
+      "ultima_verificacao": "2026-10-09T12:40:21-03:00"
     }
   },
   "afs": {
@@ -13032,6 +13032,39 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000643A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000736A",
+        "Nome_Edificacao": "SCHAIANE MOTTA",
+        "Logradouro": "RUA ALFERES",
+        "Numero": "804",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T12:40:21-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000642A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000720A",
+        "Nome_Edificacao": "RAFAEL MOTA",
+        "Logradouro": "RUA LUIZ BUSNARDO",
+        "Numero": "797",
+        "Bairro": "NOVA TRENTO - CASCATA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T12:40:21-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000641A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000268A",
+        "Nome_Edificacao": "PARATHY PARTICIPAÇÕES LTDA",
+        "Logradouro": "RUA TRAVESSA CUCCO",
+        "Numero": "50",
+        "Bairro": "NOVA TRENTO - BESENELO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T12:40:21-03:00"
+      },
       {
         "CodigoAuto": "AF8225000640A/26",
         "Tipo": "AF",
@@ -37380,11 +37413,11 @@
     "Guabiruba": 48,
     "Gaspar": 323,
     "Porto Belo": 264,
-    "Nova Trento": 330,
+    "Nova Trento": 333,
     "Itapema": 571,
     "Blumenau": 589,
     "Navegantes": 187,
     "Itajai": 535
   },
-  "total_geral": 3390
+  "total_geral": 3393
 }
