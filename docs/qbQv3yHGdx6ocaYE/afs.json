@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-08T17:40:40-03:00",
+  "timestamp": "2026-10-08T21:41:17-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1114,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:40:40-03:00"
+      "ultima_verificacao": "2026-10-08T21:41:17-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:40:40-03:00"
+      "ultima_verificacao": "2026-10-08T21:41:17-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:40:40-03:00"
+      "ultima_verificacao": "2026-10-08T21:41:17-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 739,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:40:40-03:00"
+      "ultima_verificacao": "2026-10-08T21:41:17-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:40:40-03:00"
+      "ultima_verificacao": "2026-10-08T21:41:17-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 638,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:40:40-03:00"
+      "ultima_verificacao": "2026-10-08T21:41:17-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:40:40-03:00"
+      "ultima_verificacao": "2026-10-08T21:41:17-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1300,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:40:40-03:00"
+      "ultima_verificacao": "2026-10-08T21:41:17-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 390,
+      "ultimo_numero": 391,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:40:40-03:00"
+      "ultima_verificacao": "2026-10-08T21:41:17-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1288,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:40:40-03:00"
+      "ultima_verificacao": "2026-10-08T21:41:17-03:00"
     }
   },
   "afs": {
@@ -29253,6 +29253,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000391A/26",
+        "Tipo": "AF",
+        "RE": "RE8221003981A",
+        "Nome_Edificacao": "OFICINA ZÊNIO",
+        "Logradouro": "RODOVIA SC 413 KM 104",
+        "Numero": "468",
+        "Bairro": "NAVEGANTES - ESCALVADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-08T21:41:17-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000390A/26",
         "Tipo": "AF",
         "RE": "RE8221001557A",
@@ -37196,8 +37207,8 @@
     "Nova Trento": 328,
     "Itapema": 572,
     "Blumenau": 587,
-    "Navegantes": 186,
+    "Navegantes": 187,
     "Itajai": 535
   },
-  "total_geral": 3373
+  "total_geral": 3374
 }
