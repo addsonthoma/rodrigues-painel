@@ -1,69 +1,91 @@
 {
-  "timestamp": "2026-10-09T03:47:53-03:00",
+  "timestamp": "2026-10-09T11:00:55-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1114,
+      "ultimo_numero": 1116,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T03:47:53-03:00"
+      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T03:47:53-03:00"
+      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T03:47:53-03:00"
+      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 739,
+      "ultimo_numero": 741,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T03:47:53-03:00"
+      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T03:47:53-03:00"
+      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 638,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T03:47:53-03:00"
+      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T03:47:53-03:00"
+      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1300,
+      "ultimo_numero": 1301,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T03:47:53-03:00"
+      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 391,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T03:47:53-03:00"
+      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1288,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T03:47:53-03:00"
+      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001116A/26",
+        "Tipo": "AF",
+        "RE": "RE8055006066A",
+        "Nome_Edificacao": "Sapelli - Galpão Rio Branco",
+        "Logradouro": "R MARIA ANDRE DE FREITAS",
+        "Numero": "40",
+        "Bairro": "BRUSQUE - RIO BRANCO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-09T11:00:55-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001115A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005484A",
+        "Nome_Edificacao": "EDINHO MATERIAIS DE CONSTRUÇÃO LTDA",
+        "Logradouro": "RUA SÃO PEDRO",
+        "Numero": "1405",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-09T11:00:55-03:00"
+      },
       {
         "CodigoAuto": "AF8055001114A/26",
         "Tipo": "AF",
@@ -6549,6 +6571,28 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000741A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000093A",
+        "Nome_Edificacao": "LENITA RONCAGLIO",
+        "Logradouro": "Rua Candido João dos Santos",
+        "Numero": "125",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T11:00:55-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000740A/26",
+        "Tipo": "AF",
+        "RE": "RE8117003310A",
+        "Nome_Edificacao": "MEI MILENA SPENGLER MORBACH",
+        "Logradouro": "R ITAJAI",
+        "Numero": "1911",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T11:00:55-03:00"
+      },
       {
         "CodigoAuto": "AF8117000739A/26",
         "Tipo": "AF",
@@ -22794,6 +22838,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001301A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005209A",
+        "Nome_Edificacao": "MORTADELLA RISTORANTE E PIZZERIA LTDA",
+        "Logradouro": "Rua Joinville",
+        "Numero": "365",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-09T11:00:55-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001300A/26",
         "Tipo": "AF",
         "RE": "RE8047003459A",
@@ -37199,16 +37254,16 @@
     ]
   },
   "totais": {
-    "Brusque": 504,
+    "Brusque": 506,
     "Botuvera": 37,
     "Guabiruba": 48,
-    "Gaspar": 312,
+    "Gaspar": 314,
     "Porto Belo": 264,
     "Nova Trento": 328,
     "Itapema": 572,
-    "Blumenau": 587,
+    "Blumenau": 588,
     "Navegantes": 187,
     "Itajai": 535
   },
-  "total_geral": 3374
+  "total_geral": 3379
 }
