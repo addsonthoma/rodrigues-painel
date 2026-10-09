@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-10-09T13:20:20-03:00",
+  "timestamp": "2026-10-09T13:30:37-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1117,
+      "ultimo_numero": 1118,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T13:20:20-03:00"
+      "ultima_verificacao": "2026-10-09T13:30:37-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T13:20:20-03:00"
+      "ultima_verificacao": "2026-10-09T13:30:37-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T13:20:20-03:00"
+      "ultima_verificacao": "2026-10-09T13:30:37-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 743,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T13:20:20-03:00"
+      "ultima_verificacao": "2026-10-09T13:30:37-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T13:20:20-03:00"
+      "ultima_verificacao": "2026-10-09T13:30:37-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 645,
+      "ultimo_numero": 646,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T13:20:20-03:00"
+      "ultima_verificacao": "2026-10-09T13:30:37-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T13:20:20-03:00"
+      "ultima_verificacao": "2026-10-09T13:30:37-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1302,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T13:20:20-03:00"
+      "ultima_verificacao": "2026-10-09T13:30:37-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 391,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T13:20:20-03:00"
+      "ultima_verificacao": "2026-10-09T13:30:37-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1290,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T13:20:20-03:00"
+      "ultima_verificacao": "2026-10-09T13:30:37-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001118A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002613A",
+        "Nome_Edificacao": "FACET Administradora de Bens",
+        "Logradouro": "Avenida Cônsul Carlos Renaux",
+        "Numero": "117",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-09T13:30:37-03:00"
+      },
       {
         "CodigoAuto": "AF8055001117A/26",
         "Tipo": "AF",
@@ -13065,6 +13076,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000646A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000692A",
+        "Nome_Edificacao": "MARILDA MARTA CIPRIANI BOSO",
+        "Logradouro": "RUA DOS IMIGRANTES",
+        "Numero": "1245",
+        "Bairro": "NOVA TRENTO - BESENELLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T13:30:37-03:00"
+      },
       {
         "CodigoAuto": "AF8225000645A/26",
         "Tipo": "AF",
@@ -37485,16 +37507,16 @@
     ]
   },
   "totais": {
-    "Brusque": 507,
+    "Brusque": 508,
     "Botuvera": 37,
     "Guabiruba": 48,
     "Gaspar": 325,
     "Porto Belo": 264,
-    "Nova Trento": 335,
+    "Nova Trento": 336,
     "Itapema": 571,
     "Blumenau": 589,
     "Navegantes": 187,
     "Itajai": 537
   },
-  "total_geral": 3400
+  "total_geral": 3402
 }
