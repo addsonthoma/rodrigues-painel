@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-08T17:20:24-03:00",
+  "timestamp": "2026-10-09T07:57:45-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1114,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:20:24-03:00"
+      "ultima_verificacao": "2026-10-09T07:57:45-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:20:24-03:00"
+      "ultima_verificacao": "2026-10-09T07:57:45-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:20:24-03:00"
+      "ultima_verificacao": "2026-10-09T07:57:45-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 739,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:20:24-03:00"
+      "ultima_verificacao": "2026-10-09T07:57:45-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:20:24-03:00"
+      "ultima_verificacao": "2026-10-09T07:57:45-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 637,
+      "ultimo_numero": 638,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:20:24-03:00"
+      "ultima_verificacao": "2026-10-09T07:57:45-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:20:24-03:00"
+      "ultima_verificacao": "2026-10-09T07:57:45-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1299,
+      "ultimo_numero": 1300,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:20:24-03:00"
+      "ultima_verificacao": "2026-10-09T07:57:45-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 390,
+      "ultimo_numero": 391,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:20:24-03:00"
+      "ultima_verificacao": "2026-10-09T07:57:45-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1288,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-08T17:20:24-03:00"
+      "ultima_verificacao": "2026-10-09T07:57:45-03:00"
     }
   },
   "afs": {
@@ -12989,6 +12989,17 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "AF8225000638A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000286A",
+        "Nome_Edificacao": "ALECIO BATISTI",
+        "Logradouro": "RODOVIA ESTADUAL SC 108",
+        "Numero": "8355",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T07:57:45-03:00"
+      },
+      {
         "CodigoAuto": "AF8225000637A/26",
         "Tipo": "AF",
         "RE": "RE8225000721A",
@@ -22871,6 +22882,17 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001300A/26",
+        "Tipo": "AF",
+        "RE": "RE8047003459A",
+        "Nome_Edificacao": "D&A2 CONSULTORIA LTDA",
+        "Logradouro": "Rua Johann G H Hadlich",
+        "Numero": "414",
+        "Bairro": "BLUMENAU - PASSO MANSO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-09T07:57:45-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001299A/26",
         "Tipo": "AF",
         "RE": "RE8047005209A",
@@ -29318,6 +29340,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoAuto": "AF8221000391A/26",
+        "Tipo": "AF",
+        "RE": "RE8221003981A",
+        "Nome_Edificacao": "OFICINA ZÊNIO",
+        "Logradouro": "RODOVIA SC 413 KM 104",
+        "Numero": "468",
+        "Bairro": "NAVEGANTES - ESCALVADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-09T07:57:45-03:00"
+      },
       {
         "CodigoAuto": "AF8221000390A/26",
         "Tipo": "AF",
@@ -37259,11 +37292,11 @@
     "Guabiruba": 48,
     "Gaspar": 321,
     "Porto Belo": 264,
-    "Nova Trento": 327,
+    "Nova Trento": 328,
     "Itapema": 571,
-    "Blumenau": 586,
-    "Navegantes": 186,
+    "Blumenau": 587,
+    "Navegantes": 187,
     "Itajai": 535
   },
-  "total_geral": 3379
+  "total_geral": 3382
 }
