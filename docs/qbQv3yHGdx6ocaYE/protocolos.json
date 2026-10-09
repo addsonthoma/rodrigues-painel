@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-09T11:17:04-03:00",
+  "timestamp": "2026-10-09T11:26:42-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8166,
-      "ultima_verificacao": "2026-10-09T11:17:04-03:00"
+      "ultima_verificacao": "2026-10-09T11:26:42-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-09T11:17:04-03:00"
+      "ultima_verificacao": "2026-10-09T11:26:42-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1558,
-      "ultima_verificacao": "2026-10-09T11:17:04-03:00"
+      "ultima_verificacao": "2026-10-09T11:26:42-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-09T11:17:04-03:00"
+      "ultima_verificacao": "2026-10-09T11:26:42-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3419,
-      "ultima_verificacao": "2026-10-09T11:17:04-03:00"
+      "ultima_verificacao": "2026-10-09T11:26:42-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 987,
-      "ultima_verificacao": "2026-10-09T11:17:04-03:00"
+      "ultima_verificacao": "2026-10-09T11:26:42-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7251,
-      "ultima_verificacao": "2026-10-09T11:17:04-03:00"
+      "ultimo_numero": 7252,
+      "ultima_verificacao": "2026-10-09T11:26:42-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13087,
-      "ultima_verificacao": "2026-10-09T11:17:04-03:00"
+      "ultima_verificacao": "2026-10-09T11:26:42-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5065,
-      "ultima_verificacao": "2026-10-09T11:17:04-03:00"
+      "ultima_verificacao": "2026-10-09T11:26:42-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14418,
-      "ultima_verificacao": "2026-10-09T11:17:04-03:00"
+      "ultima_verificacao": "2026-10-09T11:26:42-03:00"
     }
   },
   "protocolos": {
@@ -7700,6 +7700,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007252A",
+        "RE": "RE8163006728A",
+        "numgEdificacao": 361971,
+        "Nome_Edificacao": "katia regina do nascimento silva",
+        "Logradouro": "1202 B",
+        "Numero": "44",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-09T11:26:42-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007251A",
         "RE": "RE8163006918A",
@@ -20343,10 +20354,10 @@
     "Gaspar": 156,
     "Porto Belo": 138,
     "Nova Trento": 71,
-    "Itapema": 204,
+    "Itapema": 205,
     "Blumenau": 342,
     "Navegantes": 168,
     "Itajai": 434
   },
-  "total_geral": 1842
+  "total_geral": 1843
 }
