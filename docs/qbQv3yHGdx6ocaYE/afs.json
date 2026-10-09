@@ -1,69 +1,102 @@
 {
-  "timestamp": "2026-10-09T11:00:55-03:00",
+  "timestamp": "2026-10-09T16:29:17-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1116,
+      "ultimo_numero": 1119,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
+      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
+      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
+      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 741,
+      "ultimo_numero": 755,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
+      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
+      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
-      "ultimo_numero": 638,
+      "ultimo_numero": 649,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
+      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
+      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1301,
+      "ultimo_numero": 1303,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
+      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 391,
+      "ultimo_numero": 392,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
+      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1288,
+      "ultimo_numero": 1291,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T11:00:55-03:00"
+      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001119A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004027A",
+        "Nome_Edificacao": "Jose valmor vogel",
+        "Logradouro": "Rua Doutor Penido",
+        "Numero": "355",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001118A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002613A",
+        "Nome_Edificacao": "FACET Administradora de Bens",
+        "Logradouro": "Avenida Cônsul Carlos Renaux",
+        "Numero": "117",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001117A/26",
+        "Tipo": "AF",
+        "RE": "RE8055004855A",
+        "Nome_Edificacao": "BRESSI ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "ARNO CARLOS GRACHER",
+        "Numero": "177",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
       {
         "CodigoAuto": "AF8055001116A/26",
         "Tipo": "AF",
@@ -6572,6 +6605,149 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000755A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002406A",
+        "Nome_Edificacao": "GERVASIO MARQUETTI",
+        "Logradouro": "Rua Itália",
+        "Numero": "3420",
+        "Bairro": "GASPAR - ALTO GASPARINHO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000754A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000882A",
+        "Nome_Edificacao": "BLUTEC INDUSTRIA E COMERCIO LTDA",
+        "Logradouro": "Rodovia Ingo Hering",
+        "Numero": "5235",
+        "Bairro": "GASPAR - MARGEM ESQUERDA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000753A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002678A",
+        "Nome_Edificacao": "CLEIDE FATIMA DE OLIVEIRA",
+        "Logradouro": "ANFILOQUIO NUNES PIRES",
+        "Numero": "5008",
+        "Bairro": "GASPAR - BELA VISTA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000752A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001396A",
+        "Nome_Edificacao": "Imóvel - 3655",
+        "Logradouro": "RUA ANFILOQUIO NUNES PIRES",
+        "Numero": "3655",
+        "Bairro": "GASPAR - BELA VISTA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000751A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002282A",
+        "Nome_Edificacao": "Carlos Xavier Werner 2",
+        "Logradouro": "PEDRO BONIFACIO SABEL",
+        "Numero": "91",
+        "Bairro": "GASPAR - MARGEM ESQUERDA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000750A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002101A",
+        "Nome_Edificacao": "Iolanda Helena Massuquetti",
+        "Logradouro": "RUA ITAJAI",
+        "Numero": "1215",
+        "Bairro": "GASPAR - SETE DE SETEMBRO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000749A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001114A",
+        "Nome_Edificacao": "VANDINEI SCHMITT GASTRONOMIA E EVENTOS - ME",
+        "Logradouro": "Rua Artur Poffo",
+        "Numero": "1910",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000748A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002939A",
+        "Nome_Edificacao": "TESTONI VEÍCULOS",
+        "Logradouro": "Avenida das Comunidades",
+        "Numero": "1174",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000747A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000831A",
+        "Nome_Edificacao": "Modelação Kimze Ltda",
+        "Logradouro": "Rua José Schmitt Sobrinho",
+        "Numero": "890",
+        "Bairro": "GASPAR - Belchior Alto",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000746A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002331A",
+        "Nome_Edificacao": "GMV ADMINISTRADORA DE BENS LTDA",
+        "Logradouro": "Rua Ferrara",
+        "Numero": "",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000744A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002432A",
+        "Nome_Edificacao": "RICARDO DOS SANTOS",
+        "Logradouro": "Rua Pedro Paulo dos Santos",
+        "Numero": "123",
+        "Bairro": "GASPAR - ARRAIAL D'OURO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000743A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002894A",
+        "Nome_Edificacao": "SERVICOS DE TORNEARIA GASPAR GRANDE LTDA",
+        "Logradouro": "Rua Prefeito Leopoldo Schramm",
+        "Numero": "2450",
+        "Bairro": "GASPAR - GASPAR GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000742A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000826A",
+        "Nome_Edificacao": "GALPÃO INDUSTRIAL",
+        "Logradouro": "Rua Giovane Moser",
+        "Numero": "113",
+        "Bairro": "GASPAR - FIGUEIRA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000741A/26",
         "Tipo": "AF",
         "RE": "RE8117000093A",
@@ -12933,6 +13109,127 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoAuto": "AF8225000649A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000222A",
+        "Nome_Edificacao": "DILMA LOCH BEHLING",
+        "Logradouro": "Rua Madre Paulina",
+        "Numero": "3729",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000648A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000077A",
+        "Nome_Edificacao": "V e V Administradora de Bens Ltda",
+        "Logradouro": "FLORIANO PEIXOTO",
+        "Numero": "110",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000647A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000335A",
+        "Nome_Edificacao": "BSS ADM. E EMPREENDIMENTOS DE IMOVEIS LTDA",
+        "Logradouro": "Rua dos Imigrantes",
+        "Numero": "935",
+        "Bairro": "NOVA TRENTO - BESENELO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000646A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000692A",
+        "Nome_Edificacao": "MARILDA MARTA CIPRIANI BOSO",
+        "Logradouro": "RUA DOS IMIGRANTES",
+        "Numero": "1245",
+        "Bairro": "NOVA TRENTO - BESENELLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000645A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000046A",
+        "Nome_Edificacao": "ICLEDIA RAISER",
+        "Logradouro": "JOSÉ DINIS DALRI",
+        "Numero": "163",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000644A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000541A",
+        "Nome_Edificacao": "IVÃ MAX CECCATO",
+        "Logradouro": "RUA IVO CECCATO",
+        "Numero": "1063",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000643A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000736A",
+        "Nome_Edificacao": "SCHAIANE MOTTA",
+        "Logradouro": "RUA ALFERES",
+        "Numero": "804",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000642A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000720A",
+        "Nome_Edificacao": "RAFAEL MOTA",
+        "Logradouro": "RUA LUIZ BUSNARDO",
+        "Numero": "797",
+        "Bairro": "NOVA TRENTO - CASCATA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000641A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000268A",
+        "Nome_Edificacao": "PARATHY PARTICIPAÇÕES LTDA",
+        "Logradouro": "RUA TRAVESSA CUCCO",
+        "Numero": "50",
+        "Bairro": "NOVA TRENTO - BESENELO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000640A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000414A",
+        "Nome_Edificacao": "APAE - ASSOCIAçãO PAIS E AMIGOS DOS EXCEOCIONAIS",
+        "Logradouro": "RUA SALVADOR GESSELE",
+        "Numero": "50",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8225000639A/26",
+        "Tipo": "AF",
+        "RE": "RE8225000568A",
+        "Nome_Edificacao": "Gabriel Pereira Battisti",
+        "Logradouro": "RUA ALFERES",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
       {
         "CodigoAuto": "AF8225000638A/26",
         "Tipo": "AF",
@@ -22838,6 +23135,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoAuto": "AF8047001303A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005209A",
+        "Nome_Edificacao": "MORTADELLA RISTORANTE E PIZZERIA LTDA",
+        "Logradouro": "Rua Joinville",
+        "Numero": "365",
+        "Bairro": "BLUMENAU - VILA NOVA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8047001302A/26",
+        "Tipo": "AF",
+        "RE": "RE8047005744A",
+        "Nome_Edificacao": "CAVIQUIOLI, JOSE CARLOS",
+        "Logradouro": "Rua Frederico Jensen",
+        "Numero": "1161",
+        "Bairro": "BLUMENAU - ITOUPAVAZINHA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
         "CodigoAuto": "AF8047001301A/26",
         "Tipo": "AF",
         "RE": "RE8047005209A",
@@ -29308,6 +29627,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000392A/26",
+        "Tipo": "AF",
+        "RE": "RE8221001796A",
+        "Nome_Edificacao": "AEROPORTO FLAT HOTEL",
+        "Logradouro": "Rua Vereador Nereu Liberato Nunes",
+        "Numero": "2510",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000391A/26",
         "Tipo": "AF",
         "RE": "RE8221003981A",
@@ -31366,6 +31696,39 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "AF8161001291A/26",
+        "Tipo": "AF",
+        "RE": "RE8161003598A",
+        "Nome_Edificacao": "PIZZARIA DISCO VOADOR",
+        "Logradouro": "AVENIDA MINISTRO VICTOR KONDER",
+        "Numero": "520",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001290A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002768A",
+        "Nome_Edificacao": "VALDIR ALVICIO DE CASTRO",
+        "Logradouro": "BR-101 km114",
+        "Numero": "1625",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
+      {
+        "CodigoAuto": "AF8161001289A/26",
+        "Tipo": "AF",
+        "RE": "RE8161003390A",
+        "Nome_Edificacao": "ADENILDO MONTAGNA",
+        "Logradouro": "RUA CESAR AUGUSTO DALCOQUIO",
+        "Numero": "4565",
+        "Bairro": "ITAJAÍ - SALSEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-09T16:29:17-03:00"
+      },
       {
         "CodigoAuto": "AF8161001288A/26",
         "Tipo": "AF",
@@ -37254,16 +37617,16 @@
     ]
   },
   "totais": {
-    "Brusque": 506,
+    "Brusque": 509,
     "Botuvera": 37,
     "Guabiruba": 48,
-    "Gaspar": 314,
+    "Gaspar": 327,
     "Porto Belo": 264,
-    "Nova Trento": 328,
+    "Nova Trento": 339,
     "Itapema": 572,
-    "Blumenau": 588,
-    "Navegantes": 187,
-    "Itajai": 535
+    "Blumenau": 590,
+    "Navegantes": 188,
+    "Itajai": 538
   },
-  "total_geral": 3379
+  "total_geral": 3412
 }

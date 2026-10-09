@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-10-09T11:09:48-03:00",
+  "timestamp": "2026-10-09T16:39:52-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8166,
-      "ultima_verificacao": "2026-10-09T11:09:48-03:00"
+      "ultimo_numero": 8167,
+      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-09T11:09:48-03:00"
+      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1558,
-      "ultima_verificacao": "2026-10-09T11:09:48-03:00"
+      "ultimo_numero": 1559,
+      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-09T11:09:48-03:00"
+      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3419,
-      "ultima_verificacao": "2026-10-09T11:09:48-03:00"
+      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 987,
-      "ultima_verificacao": "2026-10-09T11:09:48-03:00"
+      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7251,
-      "ultima_verificacao": "2026-10-09T11:09:48-03:00"
+      "ultimo_numero": 7252,
+      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13087,
-      "ultima_verificacao": "2026-10-09T11:09:48-03:00"
+      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5065,
-      "ultima_verificacao": "2026-10-09T11:09:48-03:00"
+      "ultimo_numero": 5067,
+      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14418,
-      "ultima_verificacao": "2026-10-09T11:09:48-03:00"
+      "ultimo_numero": 14422,
+      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008167A",
+        "RE": "RE8055006864A",
+        "numgEdificacao": 372039,
+        "Nome_Edificacao": "E.E.B JOÃO HASSMANN",
+        "Logradouro": "Rua Nicolau Hassmann",
+        "Numero": "150",
+        "Bairro": "BRUSQUE - GUARANI",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-09T16:39:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008166A",
         "RE": "RE8055006863A",
@@ -2764,6 +2775,17 @@
       }
     ],
     "Guabiruba": [
+      {
+        "CodigoProtocolo": "A8123001559A",
+        "RE": "RE8123001237A",
+        "numgEdificacao": 372031,
+        "Nome_Edificacao": "ANDREIA CENSATO - MULTIFAMILIAR VERTICAL",
+        "Logradouro": "CARLOS KOHLER",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - CENTRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-10-09T16:39:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8123001558A",
         "RE": "RE8123000247A",
@@ -7700,6 +7722,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007252A",
+        "RE": "RE8163006728A",
+        "numgEdificacao": 361971,
+        "Nome_Edificacao": "katia regina do nascimento silva",
+        "Logradouro": "1202 B",
+        "Numero": "44",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-09T16:39:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007251A",
         "RE": "RE8163006918A",
@@ -13711,6 +13744,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005067A",
+        "RE": "RE8221004179A",
+        "numgEdificacao": 372046,
+        "Nome_Edificacao": "Anair Danieli Flor",
+        "Logradouro": "Rua Gracilides Coelho Reiser",
+        "Numero": "130",
+        "Bairro": "NAVEGANTES - São Domingos",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-09T16:39:52-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005066A",
+        "RE": "RE8221004177A",
+        "numgEdificacao": 372027,
+        "Nome_Edificacao": "CONSTRUTORA TRIUNFO S/A",
+        "Logradouro": "RUA GERAL DAS QUEIMADAS",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-09T16:39:52-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005065A",
         "RE": "RE8221003529A",
         "numgEdificacao": 322261,
@@ -15560,6 +15615,50 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014422A",
+        "RE": "RE8161013943A",
+        "numgEdificacao": 372044,
+        "Nome_Edificacao": "Administradora de Bens Salvelino Ltda",
+        "Logradouro": "Av. Marginal Oeste",
+        "Numero": "5950",
+        "Bairro": "ITAJAÍ - ESPINHEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-09T16:39:52-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014421A",
+        "RE": "RE8161004029A",
+        "numgEdificacao": 123244,
+        "Nome_Edificacao": "RAIZZ RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+        "Logradouro": "Rua José Lana",
+        "Numero": "850",
+        "Bairro": "ITAJAÍ - BRILHANTE I",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-09T16:39:52-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014420A",
+        "RE": "RE8161013942A",
+        "numgEdificacao": 372017,
+        "Nome_Edificacao": "ALX EMP INC E CONST IMOB LTDA",
+        "Logradouro": "Av Campos Novos",
+        "Numero": "1175",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-09T16:39:52-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014419A",
+        "RE": "RE8161004029A",
+        "numgEdificacao": 123244,
+        "Nome_Edificacao": "RAIZZ RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+        "Logradouro": "Rua José Lana",
+        "Numero": "850",
+        "Bairro": "ITAJAÍ - BRILHANTE I",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-09T16:39:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014418A",
         "RE": "RE8161012600A",
@@ -20425,16 +20524,16 @@
     ]
   },
   "totais": {
-    "Brusque": 202,
+    "Brusque": 203,
     "Botuvera": 44,
-    "Guabiruba": 83,
+    "Guabiruba": 84,
     "Gaspar": 156,
     "Porto Belo": 138,
     "Nova Trento": 71,
-    "Itapema": 204,
+    "Itapema": 205,
     "Blumenau": 342,
-    "Navegantes": 168,
-    "Itajai": 442
+    "Navegantes": 170,
+    "Itajai": 446
   },
-  "total_geral": 1850
+  "total_geral": 1859
 }
