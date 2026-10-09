@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-09T16:39:52-03:00",
+  "timestamp": "2026-10-09T20:35:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8167,
-      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
+      "ultima_verificacao": "2026-10-09T20:35:21-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
+      "ultima_verificacao": "2026-10-09T20:35:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1559,
-      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
+      "ultima_verificacao": "2026-10-09T20:35:21-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
+      "ultima_verificacao": "2026-10-09T20:35:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3419,
-      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
+      "ultimo_numero": 3420,
+      "ultima_verificacao": "2026-10-09T20:35:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 987,
-      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
+      "ultima_verificacao": "2026-10-09T20:35:21-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7252,
-      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
+      "ultima_verificacao": "2026-10-09T20:35:21-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13087,
-      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
+      "ultima_verificacao": "2026-10-09T20:35:21-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5067,
-      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
+      "ultimo_numero": 5070,
+      "ultima_verificacao": "2026-10-09T20:35:21-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14422,
-      "ultima_verificacao": "2026-10-09T16:39:52-03:00"
+      "ultima_verificacao": "2026-10-09T20:35:21-03:00"
     }
   },
   "protocolos": {
@@ -5419,6 +5419,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003420A",
+        "RE": "RE8265002866A",
+        "numgEdificacao": 372055,
+        "Nome_Edificacao": "VILLA COPENHAGEN",
+        "Logradouro": "RUA JOSÉ MIGUEL PEDRO",
+        "Numero": "75",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-09T20:35:21-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003419A",
         "RE": "RE8265002850A",
@@ -13744,6 +13755,39 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005070A",
+        "RE": "RE8221004182A",
+        "numgEdificacao": 372063,
+        "Nome_Edificacao": "SILVANA VEQUI DE SOUSA",
+        "Logradouro": "Rua Carlos de Paula Seara",
+        "Numero": "963",
+        "Bairro": "NAVEGANTES - Gravatá",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-09T20:35:21-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005069A",
+        "RE": "RE8221004181A",
+        "numgEdificacao": 372061,
+        "Nome_Edificacao": "RESIDENCIAL ONIX",
+        "Logradouro": "Rua Luiz Manoel do Nascimento",
+        "Numero": "754",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-09T20:35:21-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005068A",
+        "RE": "RE8221004180A",
+        "numgEdificacao": 372049,
+        "Nome_Edificacao": "EDIFICIO DONA ANA",
+        "Logradouro": "RUA JOSÉ FRANCISCO LAURINDO",
+        "Numero": "2235",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-09T20:35:21-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005067A",
         "RE": "RE8221004179A",
         "numgEdificacao": 372046,
@@ -20528,12 +20572,12 @@
     "Botuvera": 44,
     "Guabiruba": 84,
     "Gaspar": 156,
-    "Porto Belo": 138,
+    "Porto Belo": 139,
     "Nova Trento": 71,
     "Itapema": 205,
     "Blumenau": 342,
-    "Navegantes": 170,
+    "Navegantes": 173,
     "Itajai": 446
   },
-  "total_geral": 1859
+  "total_geral": 1863
 }

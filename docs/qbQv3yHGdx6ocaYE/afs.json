@@ -1,69 +1,91 @@
 {
-  "timestamp": "2026-10-09T16:29:17-03:00",
+  "timestamp": "2026-10-09T20:27:05-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1119,
+      "ultimo_numero": 1121,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
+      "ultima_verificacao": "2026-10-09T20:27:05-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
+      "ultima_verificacao": "2026-10-09T20:27:05-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
+      "ultima_verificacao": "2026-10-09T20:27:05-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 755,
+      "ultimo_numero": 759,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
+      "ultima_verificacao": "2026-10-09T20:27:05-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
+      "ultima_verificacao": "2026-10-09T20:27:05-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 649,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
+      "ultima_verificacao": "2026-10-09T20:27:05-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
+      "ultima_verificacao": "2026-10-09T20:27:05-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1303,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
+      "ultima_verificacao": "2026-10-09T20:27:05-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 392,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
+      "ultima_verificacao": "2026-10-09T20:27:05-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1291,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-09T16:29:17-03:00"
+      "ultima_verificacao": "2026-10-09T20:27:05-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001121A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000554A",
+        "Nome_Edificacao": "Aldinei Bussolo",
+        "Logradouro": "Rua Lindolfo Hipólito Coelho",
+        "Numero": "160",
+        "Bairro": "BRUSQUE - LIMOEIRO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-09T20:27:05-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001120A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005656A",
+        "Nome_Edificacao": "Mon'be Têxtil Ltda",
+        "Logradouro": "Rua Manoel Leopoldo de Pinho",
+        "Numero": "397",
+        "Bairro": "BRUSQUE - CEDRINHO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-09T20:27:05-03:00"
+      },
       {
         "CodigoAuto": "AF8055001119A/26",
         "Tipo": "AF",
@@ -6604,6 +6626,50 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoAuto": "AF8117000759A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000707A",
+        "Nome_Edificacao": "IR HOTELARIA LTDA",
+        "Logradouro": "RUA JOSé JUNGES",
+        "Numero": "6350",
+        "Bairro": "GASPAR - ARRAIAL D'OURO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T20:27:05-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000758A/26",
+        "Tipo": "AF",
+        "RE": "RE8117000642A",
+        "Nome_Edificacao": "Rogerio Alves de Andrade",
+        "Logradouro": "Rua Luiz Franzói",
+        "Numero": "2180",
+        "Bairro": "GASPAR - MARGEM ESQUERDA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T20:27:05-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000757A/26",
+        "Tipo": "AF",
+        "RE": "RE8117002398A",
+        "Nome_Edificacao": "ORLANDO FRANCISCO SCOTTINI",
+        "Logradouro": "Rua Paulo Berti",
+        "Numero": "601",
+        "Bairro": "GASPAR - BATEIAS",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T20:27:05-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000756A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001173A",
+        "Nome_Edificacao": "RAFAEL RICONI DE OLIVEIRA 08621333945",
+        "Logradouro": "Rua Maestro Egon Bohn",
+        "Numero": "700",
+        "Bairro": "GASPAR - COLONINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-09T20:27:05-03:00"
+      },
       {
         "CodigoAuto": "AF8117000755A/26",
         "Tipo": "AF",
@@ -37617,10 +37683,10 @@
     ]
   },
   "totais": {
-    "Brusque": 509,
+    "Brusque": 511,
     "Botuvera": 37,
     "Guabiruba": 48,
-    "Gaspar": 327,
+    "Gaspar": 331,
     "Porto Belo": 264,
     "Nova Trento": 339,
     "Itapema": 572,
@@ -37628,5 +37694,5 @@
     "Navegantes": 188,
     "Itajai": 538
   },
-  "total_geral": 3412
+  "total_geral": 3418
 }
