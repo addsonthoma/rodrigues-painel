@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-11T16:17:14-03:00",
+  "timestamp": "2026-10-11T20:04:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8168,
-      "ultima_verificacao": "2026-10-11T16:17:14-03:00"
+      "ultima_verificacao": "2026-10-11T20:04:34-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-11T16:17:14-03:00"
+      "ultima_verificacao": "2026-10-11T20:04:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1559,
-      "ultima_verificacao": "2026-10-11T16:17:14-03:00"
+      "ultima_verificacao": "2026-10-11T20:04:34-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-11T16:17:14-03:00"
+      "ultima_verificacao": "2026-10-11T20:04:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3420,
-      "ultima_verificacao": "2026-10-11T16:17:14-03:00"
+      "ultima_verificacao": "2026-10-11T20:04:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 987,
-      "ultima_verificacao": "2026-10-11T16:17:14-03:00"
+      "ultima_verificacao": "2026-10-11T20:04:34-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7252,
-      "ultima_verificacao": "2026-10-11T16:17:14-03:00"
+      "ultima_verificacao": "2026-10-11T20:04:34-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13089,
-      "ultima_verificacao": "2026-10-11T16:17:14-03:00"
+      "ultimo_numero": 13091,
+      "ultima_verificacao": "2026-10-11T20:04:34-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5070,
-      "ultima_verificacao": "2026-10-11T16:17:14-03:00"
+      "ultimo_numero": 5071,
+      "ultima_verificacao": "2026-10-11T20:04:34-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14423,
-      "ultima_verificacao": "2026-10-11T16:17:14-03:00"
+      "ultima_verificacao": "2026-10-11T20:04:34-03:00"
     }
   },
   "protocolos": {
@@ -10002,6 +10002,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047013091A",
+        "RE": "RE8047012129A",
+        "numgEdificacao": 369160,
+        "Nome_Edificacao": "DECORGLASS",
+        "Logradouro": "Rua Paulo Nowasky",
+        "Numero": "191",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-11T20:04:34-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013090A",
+        "RE": "RE8047012129A",
+        "numgEdificacao": 369160,
+        "Nome_Edificacao": "DECORGLASS",
+        "Logradouro": "Rua Paulo Nowasky",
+        "Numero": "191",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-11T20:04:34-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047013089A",
         "RE": "RE8047011856A",
         "numgEdificacao": 357788,
@@ -13787,6 +13809,17 @@
       }
     ],
     "Navegantes": [
+      {
+        "CodigoProtocolo": "A8221005071A",
+        "RE": "RE8221003973A",
+        "numgEdificacao": 356281,
+        "Nome_Edificacao": "Costa Verano",
+        "Logradouro": "Rua Adolfo Cabral Júnior",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-11T20:04:34-03:00"
+      },
       {
         "CodigoProtocolo": "A8221005070A",
         "RE": "RE8221004182A",
@@ -20619,9 +20652,9 @@
     "Porto Belo": 139,
     "Nova Trento": 71,
     "Itapema": 205,
-    "Blumenau": 344,
-    "Navegantes": 173,
+    "Blumenau": 346,
+    "Navegantes": 174,
     "Itajai": 447
   },
-  "total_geral": 1867
+  "total_geral": 1870
 }
