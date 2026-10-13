@@ -1,59 +1,81 @@
 {
-  "timestamp": "2026-10-09T15:47:16-03:00",
+  "timestamp": "2026-10-13T08:14:33-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8167,
-      "ultima_verificacao": "2026-10-09T15:47:16-03:00"
+      "ultimo_numero": 8169,
+      "ultima_verificacao": "2026-10-13T08:14:33-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-09T15:47:16-03:00"
+      "ultima_verificacao": "2026-10-13T08:14:33-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
-      "ultimo_numero": 1559,
-      "ultima_verificacao": "2026-10-09T15:47:16-03:00"
+      "ultimo_numero": 1560,
+      "ultima_verificacao": "2026-10-13T08:14:33-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-09T15:47:16-03:00"
+      "ultima_verificacao": "2026-10-13T08:14:33-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3419,
-      "ultima_verificacao": "2026-10-09T15:47:16-03:00"
+      "ultimo_numero": 3420,
+      "ultima_verificacao": "2026-10-13T08:14:33-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 987,
-      "ultima_verificacao": "2026-10-09T15:47:16-03:00"
+      "ultima_verificacao": "2026-10-13T08:14:33-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7252,
-      "ultima_verificacao": "2026-10-09T15:47:16-03:00"
+      "ultima_verificacao": "2026-10-13T08:14:33-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13087,
-      "ultima_verificacao": "2026-10-09T15:47:16-03:00"
+      "ultimo_numero": 13091,
+      "ultima_verificacao": "2026-10-13T08:14:33-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5066,
-      "ultima_verificacao": "2026-10-09T15:47:16-03:00"
+      "ultimo_numero": 5071,
+      "ultima_verificacao": "2026-10-13T08:14:33-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14422,
-      "ultima_verificacao": "2026-10-09T15:47:16-03:00"
+      "ultimo_numero": 14424,
+      "ultima_verificacao": "2026-10-13T08:14:33-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008169A",
+        "RE": "RE8055006866A",
+        "numgEdificacao": 372080,
+        "Nome_Edificacao": "JEAN CARLOS SCHMITT",
+        "Logradouro": "Rua Gustavo Halfpap",
+        "Numero": "368",
+        "Bairro": "BRUSQUE - Centro II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8055008168A",
+        "RE": "RE8055006862A",
+        "numgEdificacao": 371933,
+        "Nome_Edificacao": "EK Veterinaria LTDA",
+        "Logradouro": "RUA SANTA CRUZ",
+        "Numero": "447",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008167A",
         "RE": "RE8055006864A",
@@ -2776,6 +2798,17 @@
     ],
     "Guabiruba": [
       {
+        "CodigoProtocolo": "A8123001560A",
+        "RE": "RE8123001238A",
+        "numgEdificacao": 372087,
+        "Nome_Edificacao": "VALDIR LUNCKES",
+        "Logradouro": "holstein",
+        "Numero": "",
+        "Bairro": "GUABIRUBA - SÃO PEDRO",
+        "Cidade": "Guabiruba",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
         "CodigoProtocolo": "A8123001559A",
         "RE": "RE8123001237A",
         "numgEdificacao": 372031,
@@ -5419,6 +5452,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003420A",
+        "RE": "RE8265002866A",
+        "numgEdificacao": 372055,
+        "Nome_Edificacao": "VILLA COPENHAGEN",
+        "Logradouro": "RUA JOSÉ MIGUEL PEDRO",
+        "Numero": "75",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003419A",
         "RE": "RE8265002850A",
@@ -9980,6 +10024,50 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047013091A",
+        "RE": "RE8047012129A",
+        "numgEdificacao": 369160,
+        "Nome_Edificacao": "DECORGLASS",
+        "Logradouro": "Rua Paulo Nowasky",
+        "Numero": "191",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013090A",
+        "RE": "RE8047012129A",
+        "numgEdificacao": 369160,
+        "Nome_Edificacao": "DECORGLASS",
+        "Logradouro": "Rua Paulo Nowasky",
+        "Numero": "191",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013089A",
+        "RE": "RE8047011856A",
+        "numgEdificacao": 357788,
+        "Nome_Edificacao": "Capim Terra Mercearia Orgânica",
+        "Logradouro": "RUA BENJAMIN CONSTANT",
+        "Numero": "2824",
+        "Bairro": "BLUMENAU - Vila Nova",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013088A",
+        "RE": "RE8047012206A",
+        "numgEdificacao": 372072,
+        "Nome_Edificacao": "PREDIO 4080",
+        "Logradouro": "Rua Amazonas",
+        "Numero": "4080",
+        "Bairro": "BLUMENAU - Garcia",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047013087A",
         "RE": "RE8047012203A",
         "numgEdificacao": 371925,
@@ -13744,6 +13832,61 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005071A",
+        "RE": "RE8221003973A",
+        "numgEdificacao": 356281,
+        "Nome_Edificacao": "Costa Verano",
+        "Logradouro": "Rua Adolfo Cabral Júnior",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MEIA PRAIA",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005070A",
+        "RE": "RE8221004182A",
+        "numgEdificacao": 372063,
+        "Nome_Edificacao": "SILVANA VEQUI DE SOUSA",
+        "Logradouro": "Rua Carlos de Paula Seara",
+        "Numero": "963",
+        "Bairro": "NAVEGANTES - Gravatá",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005069A",
+        "RE": "RE8221004181A",
+        "numgEdificacao": 372061,
+        "Nome_Edificacao": "RESIDENCIAL ONIX",
+        "Logradouro": "Rua Luiz Manoel do Nascimento",
+        "Numero": "754",
+        "Bairro": "NAVEGANTES - GRAVATÁ",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005068A",
+        "RE": "RE8221004180A",
+        "numgEdificacao": 372049,
+        "Nome_Edificacao": "EDIFICIO DONA ANA",
+        "Logradouro": "RUA JOSÉ FRANCISCO LAURINDO",
+        "Numero": "2235",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005067A",
+        "RE": "RE8221004179A",
+        "numgEdificacao": 372046,
+        "Nome_Edificacao": "Anair Danieli Flor",
+        "Logradouro": "Rua Gracilides Coelho Reiser",
+        "Numero": "130",
+        "Bairro": "NAVEGANTES - São Domingos",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005066A",
         "RE": "RE8221004177A",
         "numgEdificacao": 372027,
@@ -15604,6 +15747,28 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014424A",
+        "RE": "RE8161013110A",
+        "numgEdificacao": 346448,
+        "Nome_Edificacao": "ROSILENE CLEZAR",
+        "Logradouro": "RODOVIA OSVALDO REIS - 61365",
+        "Numero": "2835",
+        "Bairro": "ITAJAÍ - PRAIA BRAVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014423A",
+        "RE": "RE8161000191A",
+        "numgEdificacao": 6393,
+        "Nome_Edificacao": "VILSON CRISTINO DA SILVA",
+        "Logradouro": "Rua Doutor Reinaldo Schmithausen",
+        "Numero": "1565",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-13T08:14:33-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014422A",
         "RE": "RE8161013943A",
@@ -20425,16 +20590,16 @@
     ]
   },
   "totais": {
-    "Brusque": 203,
+    "Brusque": 205,
     "Botuvera": 44,
-    "Guabiruba": 84,
+    "Guabiruba": 85,
     "Gaspar": 156,
-    "Porto Belo": 138,
+    "Porto Belo": 139,
     "Nova Trento": 71,
     "Itapema": 205,
-    "Blumenau": 342,
-    "Navegantes": 169,
-    "Itajai": 438
+    "Blumenau": 346,
+    "Navegantes": 174,
+    "Itajai": 440
   },
-  "total_geral": 1850
+  "total_geral": 1865
 }
