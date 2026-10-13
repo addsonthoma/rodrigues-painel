@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-13T10:07:44-03:00",
+  "timestamp": "2026-10-13T10:17:32-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8169,
-      "ultima_verificacao": "2026-10-13T10:07:44-03:00"
+      "ultima_verificacao": "2026-10-13T10:17:32-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-13T10:07:44-03:00"
+      "ultima_verificacao": "2026-10-13T10:17:32-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1560,
-      "ultima_verificacao": "2026-10-13T10:07:44-03:00"
+      "ultima_verificacao": "2026-10-13T10:17:32-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-13T10:07:44-03:00"
+      "ultima_verificacao": "2026-10-13T10:17:32-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3420,
-      "ultima_verificacao": "2026-10-13T10:07:44-03:00"
+      "ultima_verificacao": "2026-10-13T10:17:32-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 987,
-      "ultima_verificacao": "2026-10-13T10:07:44-03:00"
+      "ultima_verificacao": "2026-10-13T10:17:32-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7252,
-      "ultima_verificacao": "2026-10-13T10:07:44-03:00"
+      "ultima_verificacao": "2026-10-13T10:17:32-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13091,
-      "ultima_verificacao": "2026-10-13T10:07:44-03:00"
+      "ultimo_numero": 13092,
+      "ultima_verificacao": "2026-10-13T10:17:32-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5071,
-      "ultima_verificacao": "2026-10-13T10:07:44-03:00"
+      "ultima_verificacao": "2026-10-13T10:17:32-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14425,
-      "ultima_verificacao": "2026-10-13T10:07:44-03:00"
+      "ultima_verificacao": "2026-10-13T10:17:32-03:00"
     }
   },
   "protocolos": {
@@ -10023,6 +10023,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013092A",
+        "RE": "RE8047002321A",
+        "numgEdificacao": 114116,
+        "Nome_Edificacao": "UNICRED - COOPERATIVA DE CREDITO - RUA 7 DE SET ESQ. RUA MAR. FLORIANO PEIXOTO - SCHMIDT ADM E SERVI",
+        "Logradouro": "RUA 7 DE SETEMBRO",
+        "Numero": "707",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-13T10:17:32-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013091A",
         "RE": "RE8047012129A",
@@ -20696,9 +20707,9 @@
     "Porto Belo": 139,
     "Nova Trento": 71,
     "Itapema": 205,
-    "Blumenau": 346,
+    "Blumenau": 347,
     "Navegantes": 174,
     "Itajai": 449
   },
-  "total_geral": 1874
+  "total_geral": 1875
 }
