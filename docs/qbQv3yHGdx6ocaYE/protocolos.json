@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-13T13:36:49-03:00",
+  "timestamp": "2026-10-13T18:29:22-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8170,
-      "ultima_verificacao": "2026-10-13T13:36:49-03:00"
+      "ultima_verificacao": "2026-10-13T18:29:22-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-13T13:36:49-03:00"
+      "ultima_verificacao": "2026-10-13T18:29:22-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-13T13:36:49-03:00"
+      "ultima_verificacao": "2026-10-13T18:29:22-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-13T13:36:49-03:00"
+      "ultima_verificacao": "2026-10-13T18:29:22-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3421,
-      "ultima_verificacao": "2026-10-13T13:36:49-03:00"
+      "ultimo_numero": 3422,
+      "ultima_verificacao": "2026-10-13T18:29:22-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 987,
-      "ultima_verificacao": "2026-10-13T13:36:49-03:00"
+      "ultima_verificacao": "2026-10-13T18:29:22-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7252,
-      "ultima_verificacao": "2026-10-13T13:36:49-03:00"
+      "ultima_verificacao": "2026-10-13T18:29:22-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13092,
-      "ultima_verificacao": "2026-10-13T13:36:49-03:00"
+      "ultimo_numero": 13094,
+      "ultima_verificacao": "2026-10-13T18:29:22-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5071,
-      "ultima_verificacao": "2026-10-13T13:36:49-03:00"
+      "ultimo_numero": 5072,
+      "ultima_verificacao": "2026-10-13T18:29:22-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14425,
-      "ultima_verificacao": "2026-10-13T13:36:49-03:00"
+      "ultimo_numero": 14427,
+      "ultima_verificacao": "2026-10-13T18:29:22-03:00"
     }
   },
   "protocolos": {
@@ -5475,6 +5475,17 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003422A",
+        "RE": "RE8265000320A",
+        "numgEdificacao": 56065,
+        "Nome_Edificacao": "Helsinki Home",
+        "Logradouro": "DARIO PEDRO DE SOUZA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-13T18:29:22-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003421A",
         "RE": "RE8265001824A",
         "numgEdificacao": 232802,
@@ -10057,6 +10068,28 @@
     ],
     "Blumenau": [
       {
+        "CodigoProtocolo": "A8047013094A",
+        "RE": "RE8047000313A",
+        "numgEdificacao": 10182,
+        "Nome_Edificacao": "Edifício DUO Residencial",
+        "Logradouro": "Rua Presidente Getúlio Vargas",
+        "Numero": "",
+        "Bairro": "BLUMENAU - CENTRO",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-13T18:29:22-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013093A",
+        "RE": "RE8047001550A",
+        "numgEdificacao": 71645,
+        "Nome_Edificacao": "LIBERTE VEICULOS LTDA",
+        "Logradouro": "Rua São Paulo",
+        "Numero": "470",
+        "Bairro": "BLUMENAU - VICTOR KONDER",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-13T18:29:22-03:00"
+      },
+      {
         "CodigoProtocolo": "A8047013092A",
         "RE": "RE8047002321A",
         "numgEdificacao": 114116,
@@ -13876,6 +13909,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005072A",
+        "RE": "RE8221004013A",
+        "numgEdificacao": 358713,
+        "Nome_Edificacao": "M1 Estética",
+        "Logradouro": "Rua Alfredo João Krieck",
+        "Numero": "359",
+        "Bairro": "NAVEGANTES - Gravatá",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-13T18:29:22-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005071A",
         "RE": "RE8221003973A",
         "numgEdificacao": 356281,
@@ -15792,6 +15836,28 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014427A",
+        "RE": "RE8161013950A",
+        "numgEdificacao": 372160,
+        "Nome_Edificacao": "CRUZ DE MALTA PARTICIPAÇÕES LTDA",
+        "Logradouro": "Rua Mascarenhas Passos",
+        "Numero": "50",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-13T18:29:22-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014426A",
+        "RE": "RE8161013048A",
+        "numgEdificacao": 344810,
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL VILLA TOSCANA",
+        "Logradouro": "R RODOLFO TREDER",
+        "Numero": "411",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-13T18:29:22-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014425A",
         "RE": "RE8161013948A",
         "numgEdificacao": 372095,
@@ -15850,7 +15916,7 @@
         "CodigoProtocolo": "A8161014420A",
         "RE": "RE8161013942A",
         "numgEdificacao": 372017,
-        "Nome_Edificacao": "ALX EMP INC E CONST IMOB LTDA",
+        "Nome_Edificacao": "RESIDENCIAL SÃO JOAQUIM",
         "Logradouro": "Av Campos Novos",
         "Numero": "1175",
         "Bairro": "ITAJAÍ - SÃO VICENTE",
@@ -20737,12 +20803,12 @@
     "Botuvera": 44,
     "Guabiruba": 86,
     "Gaspar": 156,
-    "Porto Belo": 140,
+    "Porto Belo": 141,
     "Nova Trento": 71,
     "Itapema": 205,
-    "Blumenau": 347,
-    "Navegantes": 174,
-    "Itajai": 449
+    "Blumenau": 349,
+    "Navegantes": 175,
+    "Itajai": 451
   },
-  "total_geral": 1878
+  "total_geral": 1884
 }
