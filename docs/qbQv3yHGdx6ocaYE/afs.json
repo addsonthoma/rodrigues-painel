@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-14T13:20:28-03:00",
+  "timestamp": "2026-10-14T13:30:23-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1133,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T13:20:28-03:00"
+      "ultima_verificacao": "2026-10-14T13:30:23-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T13:20:28-03:00"
+      "ultima_verificacao": "2026-10-14T13:30:23-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T13:20:28-03:00"
+      "ultima_verificacao": "2026-10-14T13:30:23-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 764,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T13:20:28-03:00"
+      "ultima_verificacao": "2026-10-14T13:30:23-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 562,
+      "ultimo_numero": 563,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T13:20:28-03:00"
+      "ultima_verificacao": "2026-10-14T13:30:23-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T13:20:28-03:00"
+      "ultima_verificacao": "2026-10-14T13:30:23-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T13:20:28-03:00"
+      "ultima_verificacao": "2026-10-14T13:30:23-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1308,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T13:20:28-03:00"
+      "ultima_verificacao": "2026-10-14T13:30:23-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 394,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T13:20:28-03:00"
+      "ultima_verificacao": "2026-10-14T13:30:23-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1297,
+      "ultimo_numero": 1298,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T13:20:28-03:00"
+      "ultima_verificacao": "2026-10-14T13:30:23-03:00"
     }
   },
   "afs": {
@@ -10456,6 +10456,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000563A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000069A",
+        "Nome_Edificacao": "MARCELO BADUY BARBOSA",
+        "Logradouro": "Avenida Governador Celso Ramos",
+        "Numero": "702",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-14T13:30:23-03:00"
+      },
       {
         "CodigoAuto": "AF8265000562A/26",
         "Tipo": "AF",
@@ -32181,6 +32192,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001298A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002111A",
+        "Nome_Edificacao": "MANHATTAN RESIDENCE",
+        "Logradouro": "Rua Eurico Adam",
+        "Numero": "82",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-14T13:30:23-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001297A/26",
         "Tipo": "AF",
         "RE": "RE8161000541A",
@@ -38171,12 +38193,12 @@
     "Botuvera": 37,
     "Guabiruba": 48,
     "Gaspar": 336,
-    "Porto Belo": 271,
+    "Porto Belo": 272,
     "Nova Trento": 346,
     "Itapema": 572,
     "Blumenau": 595,
     "Navegantes": 190,
-    "Itajai": 544
+    "Itajai": 545
   },
-  "total_geral": 3462
+  "total_geral": 3464
 }
