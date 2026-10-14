@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-14T10:27:43-03:00",
+  "timestamp": "2026-10-14T10:37:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8171,
-      "ultima_verificacao": "2026-10-14T10:27:43-03:00"
+      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-14T10:27:43-03:00"
+      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-14T10:27:43-03:00"
+      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-14T10:27:43-03:00"
+      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3422,
-      "ultima_verificacao": "2026-10-14T10:27:43-03:00"
+      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 987,
-      "ultima_verificacao": "2026-10-14T10:27:43-03:00"
+      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7253,
-      "ultima_verificacao": "2026-10-14T10:27:43-03:00"
+      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13095,
-      "ultima_verificacao": "2026-10-14T10:27:43-03:00"
+      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5073,
-      "ultima_verificacao": "2026-10-14T10:27:43-03:00"
+      "ultimo_numero": 5074,
+      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14429,
-      "ultima_verificacao": "2026-10-14T10:27:43-03:00"
+      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
     }
   },
   "protocolos": {
@@ -13942,6 +13942,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005074A",
+        "RE": "RE8221004176A",
+        "numgEdificacao": 372009,
+        "Nome_Edificacao": "ED. ALEGRIA DE BENASSI 2",
+        "Logradouro": "Rua Antonio Lucindo",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-14T10:37:21-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005073A",
         "RE": "RE8221003683A",
         "numgEdificacao": 332590,
@@ -20873,8 +20884,8 @@
     "Nova Trento": 71,
     "Itapema": 206,
     "Blumenau": 350,
-    "Navegantes": 176,
+    "Navegantes": 177,
     "Itajai": 453
   },
-  "total_geral": 1890
+  "total_geral": 1891
 }
