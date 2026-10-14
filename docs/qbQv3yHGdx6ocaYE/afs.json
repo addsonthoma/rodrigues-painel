@@ -1,69 +1,124 @@
 {
-  "timestamp": "2026-10-14T07:23:36-03:00",
+  "timestamp": "2026-10-14T12:21:55-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1127,
+      "ultimo_numero": 1132,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T07:23:36-03:00"
+      "ultima_verificacao": "2026-10-14T12:21:55-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T07:23:36-03:00"
+      "ultima_verificacao": "2026-10-14T12:21:55-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T07:23:36-03:00"
+      "ultima_verificacao": "2026-10-14T12:21:55-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 764,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T07:23:36-03:00"
+      "ultima_verificacao": "2026-10-14T12:21:55-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 555,
+      "ultimo_numero": 558,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T07:23:36-03:00"
+      "ultima_verificacao": "2026-10-14T12:21:55-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 655,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T07:23:36-03:00"
+      "ultima_verificacao": "2026-10-14T12:21:55-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T07:23:36-03:00"
+      "ultima_verificacao": "2026-10-14T12:21:55-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1305,
+      "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T07:23:36-03:00"
+      "ultima_verificacao": "2026-10-14T12:21:55-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 394,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T07:23:36-03:00"
+      "ultima_verificacao": "2026-10-14T12:21:55-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1295,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T07:23:36-03:00"
+      "ultima_verificacao": "2026-10-14T12:21:55-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001132A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000873A",
+        "Nome_Edificacao": "A.C.F. industria e Comercio Ltda",
+        "Logradouro": "Rua Sérgio Marques",
+        "Numero": "417",
+        "Bairro": "BRUSQUE - LIMEIRA ALTA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T12:21:55-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001131A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000873A",
+        "Nome_Edificacao": "A.C.F. industria e Comercio Ltda",
+        "Logradouro": "Rua Sérgio Marques",
+        "Numero": "417",
+        "Bairro": "BRUSQUE - LIMEIRA ALTA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T12:21:55-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001130A/26",
+        "Tipo": "AF",
+        "RE": "RE8055002279A",
+        "Nome_Edificacao": "LISANDRA RAMOS GAMBA",
+        "Logradouro": "R ALBERTO MUELLER",
+        "Numero": "965",
+        "Bairro": "BRUSQUE - Limeira Baixa",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T12:21:55-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001129A/26",
+        "Tipo": "AF",
+        "RE": "RE8055006858A",
+        "Nome_Edificacao": "GILBERTO TODT",
+        "Logradouro": "Rua Gilberto Comandoli",
+        "Numero": "155",
+        "Bairro": "BRUSQUE - São Luiz",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T12:21:55-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001128A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005484A",
+        "Nome_Edificacao": "EDINHO MATERIAIS DE CONSTRUÇÃO LTDA",
+        "Logradouro": "RUA SÃO PEDRO",
+        "Numero": "1405",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T12:21:55-03:00"
+      },
       {
         "CodigoAuto": "AF8055001127A/26",
         "Tipo": "AF",
@@ -10390,6 +10445,39 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000558A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000871A",
+        "Nome_Edificacao": "FERNANDO DA CRUZ BRAJAL",
+        "Logradouro": "AVENIDA SENADOR ATILIO FONTANA",
+        "Numero": "173",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-14T12:21:55-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000557A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000302A",
+        "Nome_Edificacao": "LIRA MARTINS II",
+        "Logradouro": "RUA FELIPE SESTREM",
+        "Numero": "577",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-14T12:21:55-03:00"
+      },
+      {
+        "CodigoAuto": "AF8265000556A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000381A",
+        "Nome_Edificacao": "ICLÉSIO PEREIRA",
+        "Logradouro": "RUA LUIZ WALENDOWSKY",
+        "Numero": "614",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-14T12:21:55-03:00"
+      },
       {
         "CodigoAuto": "AF8265000555A/26",
         "Tipo": "AF",
@@ -23387,6 +23475,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047001306A/26",
+        "Tipo": "AF",
+        "RE": "RE8047012155A",
+        "Nome_Edificacao": "RESIDENCIAL QUINTA DAS FLORES",
+        "Logradouro": "Rua Theodoro Lueders",
+        "Numero": "136",
+        "Bairro": "BLUMENAU - ESCOLA AGRÍCOLA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-14T12:21:55-03:00"
+      },
       {
         "CodigoAuto": "AF8047001305A/26",
         "Tipo": "AF",
@@ -37958,16 +38057,16 @@
     ]
   },
   "totais": {
-    "Brusque": 517,
+    "Brusque": 522,
     "Botuvera": 37,
     "Guabiruba": 48,
     "Gaspar": 336,
-    "Porto Belo": 264,
+    "Porto Belo": 267,
     "Nova Trento": 345,
     "Itapema": 572,
-    "Blumenau": 592,
+    "Blumenau": 593,
     "Navegantes": 190,
     "Itajai": 542
   },
-  "total_geral": 3443
+  "total_geral": 3452
 }

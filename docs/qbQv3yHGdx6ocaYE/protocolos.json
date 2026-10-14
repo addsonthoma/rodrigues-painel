@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-10-14T07:31:46-03:00",
+  "timestamp": "2026-10-14T12:29:51-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8171,
-      "ultima_verificacao": "2026-10-14T07:31:46-03:00"
+      "ultimo_numero": 8172,
+      "ultima_verificacao": "2026-10-14T12:29:51-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-14T07:31:46-03:00"
+      "ultima_verificacao": "2026-10-14T12:29:51-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-14T07:31:46-03:00"
+      "ultima_verificacao": "2026-10-14T12:29:51-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-14T07:31:46-03:00"
+      "ultima_verificacao": "2026-10-14T12:29:51-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3422,
-      "ultima_verificacao": "2026-10-14T07:31:46-03:00"
+      "ultima_verificacao": "2026-10-14T12:29:51-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 987,
-      "ultima_verificacao": "2026-10-14T07:31:46-03:00"
+      "ultima_verificacao": "2026-10-14T12:29:51-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7252,
-      "ultima_verificacao": "2026-10-14T07:31:46-03:00"
+      "ultimo_numero": 7254,
+      "ultima_verificacao": "2026-10-14T12:29:51-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13094,
-      "ultima_verificacao": "2026-10-14T07:31:46-03:00"
+      "ultimo_numero": 13095,
+      "ultima_verificacao": "2026-10-14T12:29:51-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5072,
-      "ultima_verificacao": "2026-10-14T07:31:46-03:00"
+      "ultimo_numero": 5074,
+      "ultima_verificacao": "2026-10-14T12:29:51-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14428,
-      "ultima_verificacao": "2026-10-14T07:31:46-03:00"
+      "ultimo_numero": 14429,
+      "ultima_verificacao": "2026-10-14T12:29:51-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008172A",
+        "RE": "RE8055006867A",
+        "numgEdificacao": 372204,
+        "Nome_Edificacao": "AJU CONFECÇOES",
+        "Logradouro": "Rua Arnoldo Ristow",
+        "Numero": "898",
+        "Bairro": "BRUSQUE - Zantão",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T12:29:51-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008171A",
         "RE": "RE8055000264A",
@@ -7822,6 +7833,28 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007254A",
+        "RE": "RE8163006919A",
+        "numgEdificacao": 372194,
+        "Nome_Edificacao": "CANCHA DE BOCHA",
+        "Logradouro": "rua 262",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-14T12:29:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8163007253A",
+        "RE": "RE8163006610A",
+        "numgEdificacao": 352324,
+        "Nome_Edificacao": "TERRENO",
+        "Logradouro": "RUA 722",
+        "Numero": "53",
+        "Bairro": "ITAPEMA - TABULEIRO DOS OLIVEIRAS",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-14T12:29:51-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007252A",
         "RE": "RE8163006728A",
         "numgEdificacao": 361971,
@@ -10078,6 +10111,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013095A",
+        "RE": "RE8047000553A",
+        "numgEdificacao": 19809,
+        "Nome_Edificacao": "Vitrine 528 LTDA",
+        "Logradouro": "Rua Henrique Weise",
+        "Numero": "528",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-14T12:29:51-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013094A",
         "RE": "RE8047000313A",
@@ -13920,6 +13964,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005074A",
+        "RE": "RE8221004176A",
+        "numgEdificacao": 372009,
+        "Nome_Edificacao": "ED. ALEGRIA DE BENASSI 2",
+        "Logradouro": "Rua Antonio Lucindo",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - SÃO PAULO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-14T12:29:51-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005073A",
+        "RE": "RE8221003683A",
+        "numgEdificacao": 332590,
+        "Nome_Edificacao": "PADARIA BEIJA FLOR LTDA ME",
+        "Logradouro": "AV. VEREADOR NEREU LIBERATO NUNES",
+        "Numero": "838",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-14T12:29:51-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005072A",
         "RE": "RE8221004013A",
         "numgEdificacao": 358713,
@@ -15846,6 +15912,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014429A",
+        "RE": "RE8161013953A",
+        "numgEdificacao": 372184,
+        "Nome_Edificacao": "MONDO EQUIPAMENTOS",
+        "Logradouro": "RUA SAO JOAO BATISTA",
+        "Numero": "52",
+        "Bairro": "ITAJAÍ - DOM BOSCO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-14T12:29:51-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014428A",
         "RE": "RE8161013951A",
@@ -20821,16 +20898,16 @@
     ]
   },
   "totais": {
-    "Brusque": 207,
+    "Brusque": 208,
     "Botuvera": 44,
     "Guabiruba": 86,
     "Gaspar": 156,
     "Porto Belo": 141,
     "Nova Trento": 71,
-    "Itapema": 205,
-    "Blumenau": 349,
-    "Navegantes": 175,
-    "Itajai": 452
+    "Itapema": 207,
+    "Blumenau": 350,
+    "Navegantes": 177,
+    "Itajai": 453
   },
-  "total_geral": 1886
+  "total_geral": 1893
 }
