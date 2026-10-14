@@ -1,69 +1,113 @@
 {
-  "timestamp": "2026-10-13T18:20:45-03:00",
+  "timestamp": "2026-10-13T21:26:16-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1123,
+      "ultimo_numero": 1127,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-13T18:20:45-03:00"
+      "ultima_verificacao": "2026-10-13T21:26:16-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-13T18:20:45-03:00"
+      "ultima_verificacao": "2026-10-13T21:26:16-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-13T18:20:45-03:00"
+      "ultima_verificacao": "2026-10-13T21:26:16-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 764,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-13T18:20:45-03:00"
+      "ultima_verificacao": "2026-10-13T21:26:16-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 555,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-13T18:20:45-03:00"
+      "ultima_verificacao": "2026-10-13T21:26:16-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 655,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-13T18:20:45-03:00"
+      "ultima_verificacao": "2026-10-13T21:26:16-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1306,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-13T18:20:45-03:00"
+      "ultima_verificacao": "2026-10-13T21:26:16-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1305,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-13T18:20:45-03:00"
+      "ultima_verificacao": "2026-10-13T21:26:16-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 394,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-13T18:20:45-03:00"
+      "ultima_verificacao": "2026-10-13T21:26:16-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1295,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-13T18:20:45-03:00"
+      "ultima_verificacao": "2026-10-13T21:26:16-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001127A/26",
+        "Tipo": "AF",
+        "RE": "RE8055000298A",
+        "Nome_Edificacao": "Vila di Afari",
+        "Logradouro": "Avenida Hugo Schlosser",
+        "Numero": "555",
+        "Bairro": "BRUSQUE - JARDIM MALUCHE",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-13T21:26:16-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001126A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003732A",
+        "Nome_Edificacao": "MARLI TEREZINHA MAYER FISCHER",
+        "Logradouro": "FELIPE SCHMIDT",
+        "Numero": "57",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-13T21:26:16-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001125A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003557A",
+        "Nome_Edificacao": "Ronaldo Szpoganicz",
+        "Logradouro": "Rua Vereador Guilherme Niebuhr",
+        "Numero": "136",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-13T21:26:16-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001124A/26",
+        "Tipo": "AF",
+        "RE": "RE8055006342A",
+        "Nome_Edificacao": "ANASTACIO DIETRICH",
+        "Logradouro": "Rua Benjamin Constant",
+        "Numero": "39",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-13T21:26:16-03:00"
+      },
       {
         "CodigoAuto": "AF8055001123A/26",
         "Tipo": "AF",
@@ -37914,7 +37958,7 @@
     ]
   },
   "totais": {
-    "Brusque": 513,
+    "Brusque": 517,
     "Botuvera": 37,
     "Guabiruba": 48,
     "Gaspar": 336,
@@ -37925,5 +37969,5 @@
     "Navegantes": 190,
     "Itajai": 542
   },
-  "total_geral": 3439
+  "total_geral": 3443
 }
