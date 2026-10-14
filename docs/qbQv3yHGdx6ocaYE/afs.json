@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-14T14:20:34-03:00",
+  "timestamp": "2026-10-14T14:30:40-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1133,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T14:20:34-03:00"
+      "ultima_verificacao": "2026-10-14T14:30:40-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T14:20:34-03:00"
+      "ultima_verificacao": "2026-10-14T14:30:40-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T14:20:34-03:00"
+      "ultima_verificacao": "2026-10-14T14:30:40-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 764,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T14:20:34-03:00"
+      "ultima_verificacao": "2026-10-14T14:30:40-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 564,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T14:20:34-03:00"
+      "ultima_verificacao": "2026-10-14T14:30:40-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T14:20:34-03:00"
+      "ultima_verificacao": "2026-10-14T14:30:40-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1306,
+      "ultimo_numero": 1308,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T14:20:34-03:00"
+      "ultima_verificacao": "2026-10-14T14:30:40-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1308,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T14:20:34-03:00"
+      "ultima_verificacao": "2026-10-14T14:30:40-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 395,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T14:20:34-03:00"
+      "ultima_verificacao": "2026-10-14T14:30:40-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1298,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T14:20:34-03:00"
+      "ultima_verificacao": "2026-10-14T14:30:40-03:00"
     }
   },
   "afs": {
@@ -17269,6 +17269,28 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoAuto": "AF8163001308A/26",
+        "Tipo": "AF",
+        "RE": "RE8163006728A",
+        "Nome_Edificacao": "katia regina do nascimento silva",
+        "Logradouro": "1202 B",
+        "Numero": "44",
+        "Bairro": "ITAPEMA - ILHOTA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-14T14:30:40-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001307A/26",
+        "Tipo": "AF",
+        "RE": "RE8163001741A",
+        "Nome_Edificacao": "CONDOMÍNIO PLACE VENDÔME",
+        "Logradouro": "Rua 234",
+        "Numero": "74",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-14T14:30:40-03:00"
+      },
       {
         "CodigoAuto": "AF8163001306A/26",
         "Tipo": "AF",
@@ -38217,10 +38239,10 @@
     "Gaspar": 336,
     "Porto Belo": 273,
     "Nova Trento": 346,
-    "Itapema": 572,
+    "Itapema": 574,
     "Blumenau": 595,
     "Navegantes": 191,
     "Itajai": 545
   },
-  "total_geral": 3466
+  "total_geral": 3468
 }
