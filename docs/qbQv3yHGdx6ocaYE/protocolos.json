@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-14T08:47:38-03:00",
+  "timestamp": "2026-10-14T08:57:52-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8171,
-      "ultima_verificacao": "2026-10-14T08:47:38-03:00"
+      "ultima_verificacao": "2026-10-14T08:57:52-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-14T08:47:38-03:00"
+      "ultima_verificacao": "2026-10-14T08:57:52-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-14T08:47:38-03:00"
+      "ultima_verificacao": "2026-10-14T08:57:52-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-14T08:47:38-03:00"
+      "ultima_verificacao": "2026-10-14T08:57:52-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3422,
-      "ultima_verificacao": "2026-10-14T08:47:38-03:00"
+      "ultima_verificacao": "2026-10-14T08:57:52-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 987,
-      "ultima_verificacao": "2026-10-14T08:47:38-03:00"
+      "ultima_verificacao": "2026-10-14T08:57:52-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7252,
-      "ultima_verificacao": "2026-10-14T08:47:38-03:00"
+      "ultimo_numero": 7253,
+      "ultima_verificacao": "2026-10-14T08:57:52-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13094,
-      "ultima_verificacao": "2026-10-14T08:47:38-03:00"
+      "ultima_verificacao": "2026-10-14T08:57:52-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5072,
-      "ultima_verificacao": "2026-10-14T08:47:38-03:00"
+      "ultima_verificacao": "2026-10-14T08:57:52-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14428,
-      "ultima_verificacao": "2026-10-14T08:47:38-03:00"
+      "ultima_verificacao": "2026-10-14T08:57:52-03:00"
     }
   },
   "protocolos": {
@@ -7821,6 +7821,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007253A",
+        "RE": "RE8163006610A",
+        "numgEdificacao": 352324,
+        "Nome_Edificacao": "TERRENO",
+        "Logradouro": "RUA 722",
+        "Numero": "53",
+        "Bairro": "ITAPEMA - TABULEIRO DOS OLIVEIRAS",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-14T08:57:52-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007252A",
         "RE": "RE8163006728A",
@@ -20827,10 +20838,10 @@
     "Gaspar": 156,
     "Porto Belo": 141,
     "Nova Trento": 71,
-    "Itapema": 205,
+    "Itapema": 206,
     "Blumenau": 349,
     "Navegantes": 175,
     "Itajai": 452
   },
-  "total_geral": 1886
+  "total_geral": 1887
 }
