@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-10-14T13:30:03-03:00",
+  "timestamp": "2026-10-14T13:40:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 138,
+      "ultimo_numero": 139,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-14T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-14T13:40:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-14T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-14T13:40:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 4,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-14T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-14T13:40:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 70,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-14T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-14T13:40:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-14T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-14T13:40:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 160,
+      "ultimo_numero": 161,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-14T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-14T13:40:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 243,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-14T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-14T13:40:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 292,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-14T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-14T13:40:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-14T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-14T13:40:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 524,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-14T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-14T13:40:04-03:00"
     }
   },
   "multas": {
@@ -1660,6 +1660,16 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000139A/26",
+        "RE": "RE8055001156A",
+        "Nome_Edificacao": "EDIFICIO COMERCIAL MEGG SHOP",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "3270",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T13:40:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000138A/26",
         "RE": "RE8055006052A",
@@ -7202,6 +7212,16 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000161A/26",
+        "RE": "RE8225000753A",
+        "Nome_Edificacao": "ROBSON GIACOMELLI",
+        "Logradouro": "Rua Mário Ruberti",
+        "Numero": "175",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-14T13:40:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000158A/26",
         "RE": "RE8225000825A",
         "Nome_Edificacao": "SINDICATO DOS TRABALHADORES RURAIS AGRICULTORES E AGRICULTORAS FAMILIARES DE NOVA TRENTO",
@@ -8644,17 +8664,31 @@
   "totais": {
     "Blumenau": 157,
     "Botuvera": 3,
-    "Brusque": 83,
+    "Brusque": 84,
     "Gaspar": 46,
     "Guabiruba": 4,
     "Itajai": 242,
     "Itapema": 126,
     "Navegantes": 60,
-    "Nova Trento": 77,
+    "Nova Trento": 78,
     "Porto Belo": 70
   },
-  "total_geral": 868,
+  "total_geral": 870,
   "eventos_recentes": [
+    {
+      "ts": "2026-10-14T13:40:04-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000161A/26",
+      "nome": "ROBSON GIACOMELLI",
+      "re": "RE8225000753A"
+    },
+    {
+      "ts": "2026-10-14T13:40:04-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000139A/26",
+      "nome": "EDIFICIO COMERCIAL MEGG SHOP",
+      "re": "RE8055001156A"
+    },
     {
       "ts": "2026-10-14T13:30:03-03:00",
       "cidade": "Brusque",
@@ -8892,41 +8926,6 @@
       "codigo": "MUL8123000004A/26",
       "nome": "IVORI PIRES DA SILVA",
       "re": "RE8123000227A"
-    },
-    {
-      "ts": "2026-10-07T13:31:40-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000237A/26",
-      "nome": "CONDOMÍNIO EDIFÍCIO MAQUELI",
-      "re": "RE8163000058A"
-    },
-    {
-      "ts": "2026-10-07T13:31:40-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000236A/26",
-      "nome": "Hélio da SIlva Vieira",
-      "re": "RE8163006696A"
-    },
-    {
-      "ts": "2026-10-07T13:31:40-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000133A/26",
-      "nome": "GALPÃO RHE 01",
-      "re": "RE8055001898A"
-    },
-    {
-      "ts": "2026-10-07T13:31:40-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000132A/26",
-      "nome": "ADMINISTRADORA DE BENS BRUSMÉDICA",
-      "re": "RE8055001515A"
-    },
-    {
-      "ts": "2026-10-07T13:31:40-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000131A/26",
-      "nome": "R LARA DOS SANTOS ESTAMPARIA",
-      "re": "RE8055006264A"
     }
   ]
 }
