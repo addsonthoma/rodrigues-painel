@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-10-13T13:30:03-03:00",
+  "timestamp": "2026-10-13T21:10:04-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 133,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-13T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-13T21:10:04-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-13T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-13T21:10:04-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 4,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-13T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-13T21:10:04-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 69,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-13T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-13T21:10:04-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 126,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-13T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-13T21:10:04-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 157,
+      "ultimo_numero": 160,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-13T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-13T21:10:04-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 241,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-13T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-13T21:10:04-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 292,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-13T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-13T21:10:04-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-13T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-13T21:10:04-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
-      "ultimo_numero": 521,
+      "ultimo_numero": 524,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-13T13:30:03-03:00"
+      "ultima_verificacao": "2026-10-13T21:10:04-03:00"
     }
   },
   "multas": {
@@ -2903,6 +2903,36 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "MUL8161000522A/26",
+        "RE": "RE8161005971A",
+        "Nome_Edificacao": "ANDRIELI SCHMIDT",
+        "Logradouro": "R MANOEL OLIVIO THEODORO",
+        "Numero": "545",
+        "Bairro": "ITAJAÍ - CIDADE NOVA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-13T21:10:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000523A/26",
+        "RE": "RE8161003069A",
+        "Nome_Edificacao": "ILTON PEREIRA",
+        "Logradouro": "Rua Indaial",
+        "Numero": "1183",
+        "Bairro": "ITAJAÍ - SÃO JUDAS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-13T21:10:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8161000524A/26",
+        "RE": "RE8161003848A",
+        "Nome_Edificacao": "ELISIARIO PEREIRA NETO",
+        "Logradouro": "Rua Júlio Willerding",
+        "Numero": "200",
+        "Bairro": "ITAJAÍ - FAZENDA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-13T21:10:04-03:00"
+      },
       {
         "CodigoAuto": "MUL8161000514A/26",
         "RE": "RE8161011660A",
@@ -7092,6 +7122,36 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000158A/26",
+        "RE": "RE8225000825A",
+        "Nome_Edificacao": "SINDICATO DOS TRABALHADORES RURAIS AGRICULTORES E AGRICULTORAS FAMILIARES DE NOVA TRENTO",
+        "Logradouro": "ESTRADA GERAL AGUTI",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - AGUTI",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-13T21:10:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000159A/26",
+        "RE": "RE8225000824A",
+        "Nome_Edificacao": "PREFEITURA MUNICIPAL DE NOVA TRENTO",
+        "Logradouro": "RUA AUGUSTO MINATTI VOLTOLINI",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - TRINTA REIS",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-13T21:10:04-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8225000160A/26",
+        "RE": "RE8225000681A",
+        "Nome_Edificacao": "VINICOLA VATTARO LTDA",
+        "Logradouro": "RUA SANTO INÁCIO",
+        "Numero": "591",
+        "Bairro": "NOVA TRENTO - CENTRO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-13T21:10:04-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000157A/26",
         "RE": "RE8225000591A",
         "Nome_Edificacao": "BRAVE MOTORS RETIFICA DE MOTOS LTDA",
@@ -8497,14 +8557,56 @@
     "Brusque": 78,
     "Gaspar": 45,
     "Guabiruba": 4,
-    "Itajai": 239,
+    "Itajai": 242,
     "Itapema": 124,
     "Navegantes": 60,
-    "Nova Trento": 74,
+    "Nova Trento": 77,
     "Porto Belo": 69
   },
-  "total_geral": 853,
+  "total_geral": 859,
   "eventos_recentes": [
+    {
+      "ts": "2026-10-13T21:10:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000524A/26",
+      "nome": "ELISIARIO PEREIRA NETO",
+      "re": "RE8161003848A"
+    },
+    {
+      "ts": "2026-10-13T21:10:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000523A/26",
+      "nome": "ILTON PEREIRA",
+      "re": "RE8161003069A"
+    },
+    {
+      "ts": "2026-10-13T21:10:04-03:00",
+      "cidade": "Itajai",
+      "codigo": "MUL8161000522A/26",
+      "nome": "ANDRIELI SCHMIDT",
+      "re": "RE8161005971A"
+    },
+    {
+      "ts": "2026-10-13T21:10:04-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000160A/26",
+      "nome": "VINICOLA VATTARO LTDA",
+      "re": "RE8225000681A"
+    },
+    {
+      "ts": "2026-10-13T21:10:04-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000159A/26",
+      "nome": "PREFEITURA MUNICIPAL DE NOVA TRENTO",
+      "re": "RE8225000824A"
+    },
+    {
+      "ts": "2026-10-13T21:10:04-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000158A/26",
+      "nome": "SINDICATO DOS TRABALHADORES RURAIS AGRICULTORES E AGRICULTORAS FAMILIARES DE NOVA TRENTO",
+      "re": "RE8225000825A"
+    },
     {
       "ts": "2026-10-13T10:00:03-03:00",
       "cidade": "Itapema",
@@ -8672,62 +8774,6 @@
       "codigo": "MUL8055000131A/26",
       "nome": "R LARA DOS SANTOS ESTAMPARIA",
       "re": "RE8055006264A"
-    },
-    {
-      "ts": "2026-10-06T20:06:17-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000287A/26",
-      "nome": "CTG RANCHO DA TRADICAO",
-      "re": "RE8047005075A"
-    },
-    {
-      "ts": "2026-10-06T20:06:17-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000286A/26",
-      "nome": "ROMEU GEORG COM REPRES. LTDA",
-      "re": "RE8047004409A"
-    },
-    {
-      "ts": "2026-10-06T20:06:17-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000285A/26",
-      "nome": "Vitrine 528 LTDA",
-      "re": "RE8047000553A"
-    },
-    {
-      "ts": "2026-10-06T20:06:17-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000284A/26",
-      "nome": "TOPSERV LOCAÇÕES E SERVIÇOS LTDA",
-      "re": "RE8047009165A"
-    },
-    {
-      "ts": "2026-10-06T20:06:17-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000069A/26",
-      "nome": "Júlio César Junkes",
-      "re": "RE8117000257A"
-    },
-    {
-      "ts": "2026-10-06T20:06:17-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000130A/26",
-      "nome": "ATHLON S/A ADMINISTRADORA E INCORPORADORA",
-      "re": "RE8055001797A"
-    },
-    {
-      "ts": "2026-10-06T16:14:18-03:00",
-      "cidade": "Blumenau",
-      "codigo": "MUL8047000283A/26",
-      "nome": "NK INCORPORAÇÕES E PARTICIPAÇÕES LTDA",
-      "re": "RE8047003540A"
-    },
-    {
-      "ts": "2026-10-06T16:14:18-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000068A/26",
-      "nome": "ADMINISTRADORA DE BENS GASPARENSE LTDA",
-      "re": "RE8117002350A"
     }
   ]
 }
