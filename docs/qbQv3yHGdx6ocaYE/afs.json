@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-14T16:20:30-03:00",
+  "timestamp": "2026-10-14T16:30:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1133,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T16:20:30-03:00"
+      "ultima_verificacao": "2026-10-14T16:30:20-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T16:20:30-03:00"
+      "ultima_verificacao": "2026-10-14T16:30:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T16:20:30-03:00"
+      "ultima_verificacao": "2026-10-14T16:30:20-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 765,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T16:20:30-03:00"
+      "ultima_verificacao": "2026-10-14T16:30:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 564,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T16:20:30-03:00"
+      "ultima_verificacao": "2026-10-14T16:30:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T16:20:30-03:00"
+      "ultima_verificacao": "2026-10-14T16:30:20-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1311,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T16:20:30-03:00"
+      "ultima_verificacao": "2026-10-14T16:30:20-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1309,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T16:20:30-03:00"
+      "ultima_verificacao": "2026-10-14T16:30:20-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 396,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T16:20:30-03:00"
+      "ultima_verificacao": "2026-10-14T16:30:20-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1303,
+      "ultimo_numero": 1304,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T16:20:30-03:00"
+      "ultima_verificacao": "2026-10-14T16:30:20-03:00"
     }
   },
   "afs": {
@@ -32302,6 +32302,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001304A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013903A",
+        "Nome_Edificacao": "DLC RESTAURANTE LTDA",
+        "Logradouro": "R HEITOR LIBERATO",
+        "Numero": "1550",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-14T16:30:20-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001303A/26",
         "Tipo": "AF",
         "RE": "RE8161008759A",
@@ -38363,7 +38374,7 @@
     "Itapema": 577,
     "Blumenau": 596,
     "Navegantes": 192,
-    "Itajai": 550
+    "Itajai": 551
   },
-  "total_geral": 3479
+  "total_geral": 3480
 }
