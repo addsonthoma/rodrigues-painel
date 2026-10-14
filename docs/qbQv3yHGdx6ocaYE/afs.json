@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-14T15:30:34-03:00",
+  "timestamp": "2026-10-14T15:50:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1133,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T15:30:34-03:00"
+      "ultima_verificacao": "2026-10-14T15:50:30-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T15:30:34-03:00"
+      "ultima_verificacao": "2026-10-14T15:50:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T15:30:34-03:00"
+      "ultima_verificacao": "2026-10-14T15:50:30-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 765,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T15:30:34-03:00"
+      "ultima_verificacao": "2026-10-14T15:50:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 564,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T15:30:34-03:00"
+      "ultima_verificacao": "2026-10-14T15:50:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T15:30:34-03:00"
+      "ultima_verificacao": "2026-10-14T15:50:30-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
-      "ultimo_numero": 1309,
+      "ultimo_numero": 1311,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T15:30:34-03:00"
+      "ultima_verificacao": "2026-10-14T15:50:30-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
-      "ultimo_numero": 1308,
+      "ultimo_numero": 1309,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T15:30:34-03:00"
+      "ultima_verificacao": "2026-10-14T15:50:30-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
-      "ultimo_numero": 395,
+      "ultimo_numero": 396,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T15:30:34-03:00"
+      "ultima_verificacao": "2026-10-14T15:50:30-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1299,
+      "ultimo_numero": 1300,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-14T15:30:34-03:00"
+      "ultima_verificacao": "2026-10-14T15:50:30-03:00"
     }
   },
   "afs": {
@@ -17281,6 +17281,28 @@
     ],
     "Itapema": [
       {
+        "CodigoAuto": "AF8163001311A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003074A",
+        "Nome_Edificacao": "CASA DE EXCURçãO PEDRO BATISTA",
+        "Logradouro": "Rua 218",
+        "Numero": "259",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-14T15:50:30-03:00"
+      },
+      {
+        "CodigoAuto": "AF8163001310A/26",
+        "Tipo": "AF",
+        "RE": "RE8163003630A",
+        "Nome_Edificacao": "VIZCAYA RESIDENCE",
+        "Logradouro": "RUA 244",
+        "Numero": "405",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-14T15:50:30-03:00"
+      },
+      {
         "CodigoAuto": "AF8163001309A/26",
         "Tipo": "AF",
         "RE": "RE8163006911A",
@@ -23607,6 +23629,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoAuto": "AF8047001309A/26",
+        "Tipo": "AF",
+        "RE": "RE8047012188A",
+        "Nome_Edificacao": "HELIO EGON ZIEBARTH - INFINITY PREMIUM",
+        "Logradouro": "RUA ERNEST KAESTNER",
+        "Numero": "321",
+        "Bairro": "BLUMENAU - ITOUPAVA CENTRAL",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-14T15:50:30-03:00"
+      },
       {
         "CodigoAuto": "AF8047001308A/26",
         "Tipo": "AF",
@@ -30155,6 +30188,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoAuto": "AF8221000396A/26",
+        "Tipo": "AF",
+        "RE": "RE8221002794A",
+        "Nome_Edificacao": "CENTRO MUNICIPAL DE EDUCAÇÃO COMPLEMENTAR CIDADE DA CRIANÇA",
+        "Logradouro": "RODOVIA BR 470 - INGO HERING",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - MACHADOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-14T15:50:30-03:00"
+      },
+      {
         "CodigoAuto": "AF8221000395A/26",
         "Tipo": "AF",
         "RE": "RE8221004180A",
@@ -32257,6 +32301,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoAuto": "AF8161001300A/26",
+        "Tipo": "AF",
+        "RE": "RE8161013899A",
+        "Nome_Edificacao": "Kleiton de Oliveira Alves",
+        "Logradouro": "Avenida Prefeito Paulo Bauer",
+        "Numero": "415",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-14T15:50:30-03:00"
+      },
       {
         "CodigoAuto": "AF8161001299A/26",
         "Tipo": "AF",
@@ -38272,10 +38327,10 @@
     "Gaspar": 337,
     "Porto Belo": 273,
     "Nova Trento": 346,
-    "Itapema": 575,
-    "Blumenau": 595,
-    "Navegantes": 191,
-    "Itajai": 546
+    "Itapema": 577,
+    "Blumenau": 596,
+    "Navegantes": 192,
+    "Itajai": 547
   },
-  "total_geral": 3471
+  "total_geral": 3476
 }
