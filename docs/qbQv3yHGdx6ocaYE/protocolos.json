@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-14T10:37:21-03:00",
+  "timestamp": "2026-10-14T10:47:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8171,
-      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
+      "ultima_verificacao": "2026-10-14T10:47:56-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
+      "ultima_verificacao": "2026-10-14T10:47:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
+      "ultima_verificacao": "2026-10-14T10:47:56-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3922,
-      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
+      "ultima_verificacao": "2026-10-14T10:47:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3422,
-      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
+      "ultima_verificacao": "2026-10-14T10:47:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 987,
-      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
+      "ultima_verificacao": "2026-10-14T10:47:56-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7253,
-      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
+      "ultimo_numero": 7254,
+      "ultima_verificacao": "2026-10-14T10:47:56-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13095,
-      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
+      "ultima_verificacao": "2026-10-14T10:47:56-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5074,
-      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
+      "ultima_verificacao": "2026-10-14T10:47:56-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14429,
-      "ultima_verificacao": "2026-10-14T10:37:21-03:00"
+      "ultima_verificacao": "2026-10-14T10:47:56-03:00"
     }
   },
   "protocolos": {
@@ -7821,6 +7821,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007254A",
+        "RE": "RE8163006919A",
+        "numgEdificacao": 372194,
+        "Nome_Edificacao": "CANCHA DE BOCHA",
+        "Logradouro": "rua 262",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-14T10:47:56-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007253A",
         "RE": "RE8163006610A",
@@ -20882,10 +20893,10 @@
     "Gaspar": 156,
     "Porto Belo": 141,
     "Nova Trento": 71,
-    "Itapema": 206,
+    "Itapema": 207,
     "Blumenau": 350,
     "Navegantes": 177,
     "Itajai": 453
   },
-  "total_geral": 1891
+  "total_geral": 1892
 }
