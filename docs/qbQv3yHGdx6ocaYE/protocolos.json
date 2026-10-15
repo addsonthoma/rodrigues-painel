@@ -1,64 +1,75 @@
 {
-  "timestamp": "2026-10-15T12:28:28-03:00",
+  "timestamp": "2026-10-15T16:27:10-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8175,
-      "ultima_verificacao": "2026-10-15T12:28:28-03:00"
+      "ultimo_numero": 8176,
+      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-15T12:28:28-03:00"
+      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-15T12:28:28-03:00"
+      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3924,
-      "ultima_verificacao": "2026-10-15T12:28:28-03:00"
+      "ultimo_numero": 3925,
+      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3426,
-      "ultima_verificacao": "2026-10-15T12:28:28-03:00"
+      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-15T12:28:28-03:00"
+      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7257,
-      "ultima_verificacao": "2026-10-15T12:28:28-03:00"
+      "ultimo_numero": 7258,
+      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13097,
-      "ultima_verificacao": "2026-10-15T12:28:28-03:00"
+      "ultimo_numero": 13099,
+      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5079,
-      "ultima_verificacao": "2026-10-15T12:28:28-03:00"
+      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14430,
-      "ultima_verificacao": "2026-10-15T12:28:28-03:00"
+      "ultimo_numero": 14433,
+      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
       {
+        "CodigoProtocolo": "A8055008176A",
+        "RE": "RE8055006868A",
+        "numgEdificacao": 372336,
+        "Nome_Edificacao": "RESIDENCIAL - CASA CATARINA -  BATEAS",
+        "Logradouro": "Rua Edgar Von Buettner",
+        "Numero": "",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-15T16:27:10-03:00"
+      },
+      {
         "CodigoProtocolo": "A8055008175A",
         "RE": "RE8055006693A",
         "numgEdificacao": 359478,
-        "Nome_Edificacao": "Edifício Casa Catarina",
+        "Nome_Edificacao": "RESIDENCIAL - CASA CATARINA - ÁGUAS CLARAS",
         "Logradouro": "JOAQUIM AMANCIO CORREA JUNIOR",
         "Numero": "",
         "Bairro": "BRUSQUE - ÁGUAS CLARAS",
@@ -3811,6 +3822,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003925A",
+        "RE": "RE8117003312A",
+        "numgEdificacao": 372368,
+        "Nome_Edificacao": "J&M Empreendimentos Ltda",
+        "Logradouro": "Rua Nicolle Fischer Coelho",
+        "Numero": "",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-15T16:27:10-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003924A",
         "RE": "RE8117003270A",
@@ -7954,6 +7976,17 @@
     ],
     "Itapema": [
       {
+        "CodigoProtocolo": "A8163007258A",
+        "RE": "RE8163005477A",
+        "numgEdificacao": 278443,
+        "Nome_Edificacao": "RESIDENCIAL MULTIFAMILIAR",
+        "Logradouro": "AVENIDA NEREU RAMOS",
+        "Numero": "5978",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-15T16:27:10-03:00"
+      },
+      {
         "CodigoProtocolo": "A8163007257A",
         "RE": "RE8163005477A",
         "numgEdificacao": 278443,
@@ -10265,6 +10298,28 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013099A",
+        "RE": "RE8047003862A",
+        "numgEdificacao": 131604,
+        "Nome_Edificacao": "LEONARDO CUNHA",
+        "Logradouro": "Rua Bahia",
+        "Numero": "8330",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-15T16:27:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8047013098A",
+        "RE": "RE8047002068A",
+        "numgEdificacao": 107835,
+        "Nome_Edificacao": "POSTO MIME S.A.",
+        "Logradouro": "Rua Itajaí",
+        "Numero": "2081",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-15T16:27:10-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013097A",
         "RE": "RE8047012214A",
@@ -16144,6 +16199,39 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014433A",
+        "RE": "RE8161013957A",
+        "numgEdificacao": 372361,
+        "Nome_Edificacao": "FELIPE JARILHO",
+        "Logradouro": "Avenida Nilo Bittencourt",
+        "Numero": "576",
+        "Bairro": "ITAJAÍ - São Vicente",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-15T16:27:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014432A",
+        "RE": "RE8161013956A",
+        "numgEdificacao": 372341,
+        "Nome_Edificacao": "DJS INCORPORADORA - GAHA ADINISTRADORA DE BENS",
+        "Logradouro": "Rua Indaial",
+        "Numero": "584",
+        "Bairro": "ITAJAÍ - Dom Bosco",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-15T16:27:10-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8161014431A",
+        "RE": "RE8161013949A",
+        "numgEdificacao": 372127,
+        "Nome_Edificacao": "VALDETE SARDO",
+        "Logradouro": "R. Dr. Pedro Rangel",
+        "Numero": "564",
+        "Bairro": "ITAJAÍ - SÃO JOÃO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-15T16:27:10-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014430A",
         "RE": "RE8161013955A",
         "numgEdificacao": 372248,
@@ -21140,16 +21228,16 @@
     ]
   },
   "totais": {
-    "Brusque": 211,
+    "Brusque": 212,
     "Botuvera": 44,
     "Guabiruba": 86,
-    "Gaspar": 158,
+    "Gaspar": 159,
     "Porto Belo": 145,
     "Nova Trento": 73,
-    "Itapema": 210,
-    "Blumenau": 352,
+    "Itapema": 211,
+    "Blumenau": 354,
     "Navegantes": 182,
-    "Itajai": 454
+    "Itajai": 457
   },
-  "total_geral": 1915
+  "total_geral": 1923
 }

@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-10-15T12:20:01-03:00",
+  "timestamp": "2026-10-15T16:16:38-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
-      "ultimo_numero": 140,
+      "ultimo_numero": 141,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T12:20:01-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T12:20:01-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 4,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T12:20:01-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 70,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T12:20:01-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T12:20:01-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
-      "ultimo_numero": 161,
+      "ultimo_numero": 162,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T12:20:01-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 244,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T12:20:01-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 294,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T12:20:01-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T12:20:01-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 524,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T12:20:01-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     }
   },
   "multas": {
@@ -1680,6 +1680,16 @@
       }
     ],
     "Brusque": [
+      {
+        "CodigoAuto": "MUL8055000141A/26",
+        "RE": "RE8055001087A",
+        "Nome_Edificacao": "CLUBE ATLÉTICO CARLOS RENAUX",
+        "Logradouro": "Avenida Lauro Muller",
+        "Numero": "13",
+        "Bairro": "BRUSQUE - CENTRO II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-15T16:16:38-03:00"
+      },
       {
         "CodigoAuto": "MUL8055000134A/26",
         "RE": "RE8055003442A",
@@ -7252,6 +7262,16 @@
     ],
     "Nova Trento": [
       {
+        "CodigoAuto": "MUL8225000162A/26",
+        "RE": "RE8225000812A",
+        "Nome_Edificacao": "VALDIR OTÁVIO CABRAL",
+        "Logradouro": "Rua Tirol",
+        "Numero": "864",
+        "Bairro": "NOVA TRENTO - DISTRITO DE CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-15T16:16:38-03:00"
+      },
+      {
         "CodigoAuto": "MUL8225000161A/26",
         "RE": "RE8225000753A",
         "Nome_Edificacao": "ROBSON GIACOMELLI",
@@ -8704,17 +8724,31 @@
   "totais": {
     "Blumenau": 159,
     "Botuvera": 3,
-    "Brusque": 85,
+    "Brusque": 86,
     "Gaspar": 46,
     "Guabiruba": 4,
     "Itajai": 242,
     "Itapema": 127,
     "Navegantes": 60,
-    "Nova Trento": 78,
+    "Nova Trento": 79,
     "Porto Belo": 70
   },
-  "total_geral": 874,
+  "total_geral": 876,
   "eventos_recentes": [
+    {
+      "ts": "2026-10-15T16:16:38-03:00",
+      "cidade": "Nova Trento",
+      "codigo": "MUL8225000162A/26",
+      "nome": "VALDIR OTÁVIO CABRAL",
+      "re": "RE8225000812A"
+    },
+    {
+      "ts": "2026-10-15T16:16:38-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000141A/26",
+      "nome": "CLUBE ATLÉTICO CARLOS RENAUX",
+      "re": "RE8055001087A"
+    },
     {
       "ts": "2026-10-15T12:20:01-03:00",
       "cidade": "Itapema",
