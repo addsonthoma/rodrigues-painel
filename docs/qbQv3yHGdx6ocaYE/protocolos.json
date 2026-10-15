@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-15T14:57:55-03:00",
+  "timestamp": "2026-10-15T15:17:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8176,
-      "ultima_verificacao": "2026-10-15T14:57:55-03:00"
+      "ultima_verificacao": "2026-10-15T15:17:21-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-15T14:57:55-03:00"
+      "ultima_verificacao": "2026-10-15T15:17:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-15T14:57:55-03:00"
+      "ultima_verificacao": "2026-10-15T15:17:21-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3924,
-      "ultima_verificacao": "2026-10-15T14:57:55-03:00"
+      "ultima_verificacao": "2026-10-15T15:17:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3426,
-      "ultima_verificacao": "2026-10-15T14:57:55-03:00"
+      "ultima_verificacao": "2026-10-15T15:17:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-15T14:57:55-03:00"
+      "ultima_verificacao": "2026-10-15T15:17:21-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7258,
-      "ultima_verificacao": "2026-10-15T14:57:55-03:00"
+      "ultima_verificacao": "2026-10-15T15:17:21-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13097,
-      "ultima_verificacao": "2026-10-15T14:57:55-03:00"
+      "ultimo_numero": 13098,
+      "ultima_verificacao": "2026-10-15T15:17:21-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5079,
-      "ultima_verificacao": "2026-10-15T14:57:55-03:00"
+      "ultima_verificacao": "2026-10-15T15:17:21-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14432,
-      "ultima_verificacao": "2026-10-15T14:57:55-03:00"
+      "ultima_verificacao": "2026-10-15T15:17:21-03:00"
     }
   },
   "protocolos": {
@@ -10287,6 +10287,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013098A",
+        "RE": "RE8047002068A",
+        "numgEdificacao": 107835,
+        "Nome_Edificacao": "POSTO MIME S.A.",
+        "Logradouro": "Rua Itajaí",
+        "Numero": "2081",
+        "Bairro": "BLUMENAU - VORSTADT",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-15T15:17:21-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013097A",
         "RE": "RE8047012214A",
@@ -21191,9 +21202,9 @@
     "Porto Belo": 145,
     "Nova Trento": 73,
     "Itapema": 211,
-    "Blumenau": 352,
+    "Blumenau": 353,
     "Navegantes": 182,
     "Itajai": 456
   },
-  "total_geral": 1919
+  "total_geral": 1920
 }
