@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-15T16:27:10-03:00",
+  "timestamp": "2026-10-15T17:17:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8176,
-      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
+      "ultima_verificacao": "2026-10-15T17:17:03-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
+      "ultima_verificacao": "2026-10-15T17:17:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
+      "ultima_verificacao": "2026-10-15T17:17:03-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3925,
-      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
+      "ultimo_numero": 3926,
+      "ultima_verificacao": "2026-10-15T17:17:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3426,
-      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
+      "ultima_verificacao": "2026-10-15T17:17:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
+      "ultima_verificacao": "2026-10-15T17:17:03-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7258,
-      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
+      "ultimo_numero": 7259,
+      "ultima_verificacao": "2026-10-15T17:17:03-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13099,
-      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
+      "ultima_verificacao": "2026-10-15T17:17:03-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5079,
-      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
+      "ultimo_numero": 5080,
+      "ultima_verificacao": "2026-10-15T17:17:03-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14433,
-      "ultima_verificacao": "2026-10-15T16:27:10-03:00"
+      "ultimo_numero": 14434,
+      "ultima_verificacao": "2026-10-15T17:17:03-03:00"
     }
   },
   "protocolos": {
@@ -3822,6 +3822,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003926A",
+        "RE": "RE8117000377A",
+        "numgEdificacao": 29524,
+        "Nome_Edificacao": "CLUBE DE MODELISMO ASAS DO VALE",
+        "Logradouro": "Rodovia Jorge Lacerda",
+        "Numero": "4100",
+        "Bairro": "GASPAR - POÇO GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-15T17:17:03-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003925A",
         "RE": "RE8117003312A",
@@ -7975,6 +7986,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007259A",
+        "RE": "RE8163006921A",
+        "numgEdificacao": 372374,
+        "Nome_Edificacao": "HORIZON TOWER",
+        "Logradouro": "RUA 252 E RUA 254",
+        "Numero": "",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-15T17:17:03-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007258A",
         "RE": "RE8163005477A",
@@ -14195,6 +14217,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005080A",
+        "RE": "RE8221000685A",
+        "numgEdificacao": 59758,
+        "Nome_Edificacao": "LP2 PARTICIPAÇÕES LTDA.",
+        "Logradouro": "Rua Prefeito Manoel Evaldo Müller",
+        "Numero": "",
+        "Bairro": "NAVEGANTES - VOLTA GRANDE",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-15T17:17:03-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005079A",
         "RE": "RE8221002254A",
         "numgEdificacao": 233433,
@@ -16198,6 +16231,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014434A",
+        "RE": "RE8161006977A",
+        "numgEdificacao": 192521,
+        "Nome_Edificacao": "CONDOMINIO RESIDENCIAL E COMERCIAL MARIA JULIA",
+        "Logradouro": "R ODILIO GARCIA",
+        "Numero": "955",
+        "Bairro": "ITAJAÍ - CORDEIROS",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-15T17:17:03-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014433A",
         "RE": "RE8161013957A",
@@ -21231,13 +21275,13 @@
     "Brusque": 212,
     "Botuvera": 44,
     "Guabiruba": 86,
-    "Gaspar": 159,
+    "Gaspar": 160,
     "Porto Belo": 145,
     "Nova Trento": 73,
-    "Itapema": 211,
+    "Itapema": 212,
     "Blumenau": 354,
-    "Navegantes": 182,
-    "Itajai": 457
+    "Navegantes": 183,
+    "Itajai": 458
   },
-  "total_geral": 1923
+  "total_geral": 1927
 }
