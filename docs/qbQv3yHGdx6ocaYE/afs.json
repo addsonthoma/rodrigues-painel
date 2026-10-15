@@ -1,69 +1,80 @@
 {
-  "timestamp": "2026-10-15T13:50:35-03:00",
+  "timestamp": "2026-10-15T14:00:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1133,
+      "ultimo_numero": 1134,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T13:50:35-03:00"
+      "ultima_verificacao": "2026-10-15T14:00:30-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 38,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T13:50:35-03:00"
+      "ultima_verificacao": "2026-10-15T14:00:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T13:50:35-03:00"
+      "ultima_verificacao": "2026-10-15T14:00:30-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 767,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T13:50:35-03:00"
+      "ultima_verificacao": "2026-10-15T14:00:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 571,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T13:50:35-03:00"
+      "ultima_verificacao": "2026-10-15T14:00:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 660,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T13:50:35-03:00"
+      "ultima_verificacao": "2026-10-15T14:00:30-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1312,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T13:50:35-03:00"
+      "ultima_verificacao": "2026-10-15T14:00:30-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1314,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T13:50:35-03:00"
+      "ultima_verificacao": "2026-10-15T14:00:30-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 396,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T13:50:35-03:00"
+      "ultima_verificacao": "2026-10-15T14:00:30-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1315,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T13:50:35-03:00"
+      "ultima_verificacao": "2026-10-15T14:00:30-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001134A/26",
+        "Tipo": "AF",
+        "RE": "RE8055005396A",
+        "Nome_Edificacao": "Administradora Lillyana Limitada",
+        "Logradouro": "Avenida Cônsul Carlos Renaux",
+        "Numero": "19",
+        "Bairro": "BRUSQUE - CENTRO I",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-15T14:00:30-03:00"
+      },
       {
         "CodigoAuto": "AF8055001133A/26",
         "Tipo": "AF",
@@ -38706,7 +38717,7 @@
     ]
   },
   "totais": {
-    "Brusque": 523,
+    "Brusque": 524,
     "Botuvera": 38,
     "Guabiruba": 48,
     "Gaspar": 339,
@@ -38717,5 +38728,5 @@
     "Navegantes": 192,
     "Itajai": 562
   },
-  "total_geral": 3511
+  "total_geral": 3512
 }

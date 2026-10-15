@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-15T13:58:03-03:00",
+  "timestamp": "2026-10-15T14:07:54-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8176,
-      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
+      "ultima_verificacao": "2026-10-15T14:07:54-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
+      "ultima_verificacao": "2026-10-15T14:07:54-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
+      "ultima_verificacao": "2026-10-15T14:07:54-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3924,
-      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
+      "ultima_verificacao": "2026-10-15T14:07:54-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3426,
-      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
+      "ultima_verificacao": "2026-10-15T14:07:54-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
+      "ultima_verificacao": "2026-10-15T14:07:54-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7257,
-      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
+      "ultima_verificacao": "2026-10-15T14:07:54-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13097,
-      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
+      "ultima_verificacao": "2026-10-15T14:07:54-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5079,
-      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
+      "ultima_verificacao": "2026-10-15T14:07:54-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14431,
-      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
+      "ultimo_numero": 14432,
+      "ultima_verificacao": "2026-10-15T14:07:54-03:00"
     }
   },
   "protocolos": {
@@ -16155,6 +16155,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014432A",
+        "RE": "RE8161013956A",
+        "numgEdificacao": 372341,
+        "Nome_Edificacao": "DJS INCORPORADORA - GAHA ADINISTRADORA DE BENS",
+        "Logradouro": "Rua Indaial",
+        "Numero": "584",
+        "Bairro": "ITAJAÍ - Dom Bosco",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-15T14:07:54-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014431A",
         "RE": "RE8161013949A",
         "numgEdificacao": 372127,
@@ -21171,7 +21182,7 @@
     "Itapema": 210,
     "Blumenau": 352,
     "Navegantes": 182,
-    "Itajai": 455
+    "Itajai": 456
   },
-  "total_geral": 1917
+  "total_geral": 1918
 }
