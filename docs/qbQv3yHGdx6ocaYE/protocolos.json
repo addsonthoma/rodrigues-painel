@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-10-15T08:47:14-03:00",
+  "timestamp": "2026-10-15T08:57:02-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8173,
-      "ultima_verificacao": "2026-10-15T08:47:14-03:00"
+      "ultimo_numero": 8174,
+      "ultima_verificacao": "2026-10-15T08:57:02-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-15T08:47:14-03:00"
+      "ultima_verificacao": "2026-10-15T08:57:02-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-15T08:47:14-03:00"
+      "ultima_verificacao": "2026-10-15T08:57:02-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3924,
-      "ultima_verificacao": "2026-10-15T08:47:14-03:00"
+      "ultima_verificacao": "2026-10-15T08:57:02-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3426,
-      "ultima_verificacao": "2026-10-15T08:47:14-03:00"
+      "ultima_verificacao": "2026-10-15T08:57:02-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-15T08:47:14-03:00"
+      "ultima_verificacao": "2026-10-15T08:57:02-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7254,
-      "ultima_verificacao": "2026-10-15T08:47:14-03:00"
+      "ultima_verificacao": "2026-10-15T08:57:02-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13096,
-      "ultima_verificacao": "2026-10-15T08:47:14-03:00"
+      "ultima_verificacao": "2026-10-15T08:57:02-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5078,
-      "ultima_verificacao": "2026-10-15T08:47:14-03:00"
+      "ultimo_numero": 5079,
+      "ultima_verificacao": "2026-10-15T08:57:02-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14430,
-      "ultima_verificacao": "2026-10-15T08:47:14-03:00"
+      "ultima_verificacao": "2026-10-15T08:57:02-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008174A",
+        "RE": "RE8055003046A",
+        "numgEdificacao": 210573,
+        "Nome_Edificacao": "VANIFER COMERCIAL DE FERRAGENS LTDA",
+        "Logradouro": "Rua José Reis e Silva",
+        "Numero": "597",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-15T08:57:02-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008173A",
         "RE": "RE8055001349A",
@@ -14074,6 +14085,17 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005079A",
+        "RE": "RE8221002254A",
+        "numgEdificacao": 233433,
+        "Nome_Edificacao": "Ariana Rebelo",
+        "Logradouro": "Rua Vandelino Zimermann",
+        "Numero": "58",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-15T08:57:02-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005078A",
         "RE": "RE8221002463A",
         "numgEdificacao": 246010,
@@ -21063,7 +21085,7 @@
     ]
   },
   "totais": {
-    "Brusque": 209,
+    "Brusque": 210,
     "Botuvera": 44,
     "Guabiruba": 86,
     "Gaspar": 158,
@@ -21071,8 +21093,8 @@
     "Nova Trento": 73,
     "Itapema": 207,
     "Blumenau": 351,
-    "Navegantes": 181,
+    "Navegantes": 182,
     "Itajai": 454
   },
-  "total_geral": 1908
+  "total_geral": 1910
 }
