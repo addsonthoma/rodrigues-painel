@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-15T11:00:26-03:00",
+  "timestamp": "2026-10-15T11:10:26-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1133,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T11:00:26-03:00"
+      "ultima_verificacao": "2026-10-15T11:10:26-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 38,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T11:00:26-03:00"
+      "ultima_verificacao": "2026-10-15T11:10:26-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T11:00:26-03:00"
+      "ultima_verificacao": "2026-10-15T11:10:26-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 765,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T11:00:26-03:00"
+      "ultima_verificacao": "2026-10-15T11:10:26-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
       "ultimo_numero": 569,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T11:00:26-03:00"
+      "ultima_verificacao": "2026-10-15T11:10:26-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T11:00:26-03:00"
+      "ultima_verificacao": "2026-10-15T11:10:26-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1311,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T11:00:26-03:00"
+      "ultima_verificacao": "2026-10-15T11:10:26-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1312,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T11:00:26-03:00"
+      "ultima_verificacao": "2026-10-15T11:10:26-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 396,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T11:00:26-03:00"
+      "ultima_verificacao": "2026-10-15T11:10:26-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1314,
+      "ultimo_numero": 1315,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T11:00:26-03:00"
+      "ultima_verificacao": "2026-10-15T11:10:26-03:00"
     }
   },
   "afs": {
@@ -32401,6 +32401,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001315A/26",
+        "Tipo": "AF",
+        "RE": "RE8161002239A",
+        "Nome_Edificacao": "Colégio Adventista de Itajaí",
+        "Logradouro": "Rua Brusque",
+        "Numero": "228",
+        "Bairro": "ITAJAÍ - CENTRO",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-15T11:10:26-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001314A/26",
         "Tipo": "AF",
         "RE": "RE8161002894A",
@@ -38583,7 +38594,7 @@
     "Itapema": 577,
     "Blumenau": 599,
     "Navegantes": 192,
-    "Itajai": 561
+    "Itajai": 562
   },
-  "total_geral": 3499
+  "total_geral": 3500
 }
