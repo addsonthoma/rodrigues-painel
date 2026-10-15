@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-15T09:10:25-03:00",
+  "timestamp": "2026-10-15T09:20:19-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1133,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T09:10:25-03:00"
+      "ultima_verificacao": "2026-10-15T09:20:19-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 37,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T09:10:25-03:00"
+      "ultima_verificacao": "2026-10-15T09:20:19-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T09:10:25-03:00"
+      "ultima_verificacao": "2026-10-15T09:20:19-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
       "ultimo_numero": 765,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T09:10:25-03:00"
+      "ultima_verificacao": "2026-10-15T09:20:19-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 567,
+      "ultimo_numero": 568,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T09:10:25-03:00"
+      "ultima_verificacao": "2026-10-15T09:20:19-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 656,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T09:10:25-03:00"
+      "ultima_verificacao": "2026-10-15T09:20:19-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1311,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T09:10:25-03:00"
+      "ultima_verificacao": "2026-10-15T09:20:19-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1312,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T09:10:25-03:00"
+      "ultima_verificacao": "2026-10-15T09:20:19-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 396,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T09:10:25-03:00"
+      "ultima_verificacao": "2026-10-15T09:20:19-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1314,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-15T09:10:25-03:00"
+      "ultima_verificacao": "2026-10-15T09:20:19-03:00"
     }
   },
   "afs": {
@@ -10467,6 +10467,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000568A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000344A",
+        "Nome_Edificacao": "SANTO IZIQUIEL DO NASCIMENTO",
+        "Logradouro": "RUA LUIZ WALENDOWSKY",
+        "Numero": "580",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-15T09:20:19-03:00"
+      },
       {
         "CodigoAuto": "AF8265000567A/26",
         "Tipo": "AF",
@@ -38545,12 +38556,12 @@
     "Botuvera": 37,
     "Guabiruba": 48,
     "Gaspar": 337,
-    "Porto Belo": 276,
+    "Porto Belo": 277,
     "Nova Trento": 346,
     "Itapema": 577,
     "Blumenau": 599,
     "Navegantes": 192,
     "Itajai": 561
   },
-  "total_geral": 3496
+  "total_geral": 3497
 }
