@@ -1,89 +1,79 @@
 {
-  "timestamp": "2026-10-15T17:00:04-03:00",
+  "timestamp": "2026-10-15T16:16:38-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "MUL8055",
       "ultimo_numero": 141,
       "ano_corrente": 26,
       "formato": "MUL8055NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T17:00:04-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Botuvera": {
       "prefixo": "MUL8051",
       "ultimo_numero": 3,
       "ano_corrente": 26,
       "formato": "MUL8051NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T17:00:04-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Guabiruba": {
       "prefixo": "MUL8123",
       "ultimo_numero": 4,
       "ano_corrente": 26,
       "formato": "MUL8123NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T17:00:04-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Gaspar": {
       "prefixo": "MUL8117",
       "ultimo_numero": 70,
       "ano_corrente": 26,
       "formato": "MUL8117NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T17:00:04-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Porto Belo": {
       "prefixo": "MUL8265",
       "ultimo_numero": 127,
       "ano_corrente": 26,
       "formato": "MUL8265NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T17:00:04-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Nova Trento": {
       "prefixo": "MUL8225",
       "ultimo_numero": 162,
       "ano_corrente": 26,
       "formato": "MUL8225NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T17:00:04-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Itapema": {
       "prefixo": "MUL8163",
       "ultimo_numero": 244,
       "ano_corrente": 26,
       "formato": "MUL8163NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T17:00:04-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Blumenau": {
       "prefixo": "MUL8047",
       "ultimo_numero": 294,
       "ano_corrente": 26,
       "formato": "MUL8047NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T17:00:04-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Navegantes": {
       "prefixo": "MUL8221",
       "ultimo_numero": 98,
       "ano_corrente": 26,
       "formato": "MUL8221NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T17:00:04-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     },
     "Itajai": {
       "prefixo": "MUL8161",
       "ultimo_numero": 524,
       "ano_corrente": 26,
       "formato": "MUL8161NNNNNNA/AA",
-      "ultima_verificacao": "2026-10-15T17:00:04-03:00"
+      "ultima_verificacao": "2026-10-15T16:16:38-03:00"
     }
   },
   "multas": {
     "Blumenau": [
-      {
-        "CodigoAuto": "MUL8047000294A/26",
-        "RE": "RE8047000374A",
-        "Nome_Edificacao": "CICILIA PIETROBON GREGIO",
-        "Logradouro": "Rua do imigrante",
-        "Numero": "27",
-        "Bairro": "BLUMENAU - GARCIA",
-        "Cidade": "Blumenau",
-        "Detectado_em": "2026-10-15T08:06:27-03:00"
-      },
       {
         "CodigoAuto": "MUL8047000293A/26",
         "RE": "RE8047008489A",
@@ -92,7 +82,17 @@
         "Numero": "3010",
         "Bairro": "BLUMENAU - ITOUPAVA SECA",
         "Cidade": "Blumenau",
-        "Detectado_em": "2026-10-14T17:30:04-03:00"
+        "Detectado_em": "2026-10-14T19:35:19-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8047000294A/26",
+        "RE": "RE8047000374A",
+        "Nome_Edificacao": "CICILIA PIETROBON GREGIO",
+        "Logradouro": "Rua do imigrante",
+        "Numero": "27",
+        "Bairro": "BLUMENAU - GARCIA",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-14T19:35:19-03:00"
       },
       {
         "CodigoAuto": "MUL8047000292A/26",
@@ -1688,57 +1688,7 @@
         "Numero": "13",
         "Bairro": "BRUSQUE - CENTRO II",
         "Cidade": "Brusque",
-        "Detectado_em": "2026-10-15T13:50:05-03:00"
-      },
-      {
-        "CodigoAuto": "MUL8055000140A/26",
-        "RE": "RE8055002785A",
-        "Nome_Edificacao": "RESTAURANTE",
-        "Logradouro": "Rua Manoel João Flor",
-        "Numero": "20",
-        "Bairro": "BRUSQUE - SÃO LUIZ",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-10-14T14:00:03-03:00"
-      },
-      {
-        "CodigoAuto": "MUL8055000139A/26",
-        "RE": "RE8055001156A",
-        "Nome_Edificacao": "EDIFICIO COMERCIAL MEGG SHOP",
-        "Logradouro": "Rodovia Antônio Heil",
-        "Numero": "3270",
-        "Bairro": "BRUSQUE - SANTA TEREZINHA",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-10-14T13:40:04-03:00"
-      },
-      {
-        "CodigoAuto": "MUL8055000138A/26",
-        "RE": "RE8055006052A",
-        "Nome_Edificacao": "SANTABELA COMERCIO E DISTRIBUIDORA DE COSMETICOS",
-        "Logradouro": "AV PRIMEIRO DE MAIO",
-        "Numero": "847",
-        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-10-14T13:30:03-03:00"
-      },
-      {
-        "CodigoAuto": "MUL8055000137A/26",
-        "RE": "RE8055006229A",
-        "Nome_Edificacao": "Residencial Germano Victorio",
-        "Logradouro": "R PADRE ANTONIO EISING",
-        "Numero": "",
-        "Bairro": "BRUSQUE - AZAMBUJA",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-10-14T13:20:04-03:00"
-      },
-      {
-        "CodigoAuto": "MUL8055000136A/26",
-        "RE": "RE8055002307A",
-        "Nome_Edificacao": "EMPREENDIMENTOS IMOB. LEONI LTDA -ME",
-        "Logradouro": "Rua Maximiliano Furbringer",
-        "Numero": "497",
-        "Bairro": "BRUSQUE - SOUZA CRUZ",
-        "Cidade": "Brusque",
-        "Detectado_em": "2026-10-14T13:00:04-03:00"
+        "Detectado_em": "2026-10-15T16:16:38-03:00"
       },
       {
         "CodigoAuto": "MUL8055000134A/26",
@@ -1748,7 +1698,7 @@
         "Numero": "120",
         "Bairro": "BRUSQUE - LIMEIRA ALTA",
         "Cidade": "Brusque",
-        "Detectado_em": "2026-10-14T12:30:04-03:00"
+        "Detectado_em": "2026-10-14T16:32:30-03:00"
       },
       {
         "CodigoAuto": "MUL8055000135A/26",
@@ -1758,7 +1708,57 @@
         "Numero": "597",
         "Bairro": "BRUSQUE - BATEAS",
         "Cidade": "Brusque",
-        "Detectado_em": "2026-10-14T12:30:04-03:00"
+        "Detectado_em": "2026-10-14T16:32:30-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000136A/26",
+        "RE": "RE8055002307A",
+        "Nome_Edificacao": "EMPREENDIMENTOS IMOB. LEONI LTDA -ME",
+        "Logradouro": "Rua Maximiliano Furbringer",
+        "Numero": "497",
+        "Bairro": "BRUSQUE - SOUZA CRUZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T16:32:30-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000137A/26",
+        "RE": "RE8055006229A",
+        "Nome_Edificacao": "Residencial Germano Victorio",
+        "Logradouro": "R PADRE ANTONIO EISING",
+        "Numero": "",
+        "Bairro": "BRUSQUE - AZAMBUJA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T16:32:30-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000138A/26",
+        "RE": "RE8055006052A",
+        "Nome_Edificacao": "SANTABELA COMERCIO E DISTRIBUIDORA DE COSMETICOS",
+        "Logradouro": "AV PRIMEIRO DE MAIO",
+        "Numero": "847",
+        "Bairro": "BRUSQUE - PRIMEIRO DE MAIO",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T16:32:30-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000139A/26",
+        "RE": "RE8055001156A",
+        "Nome_Edificacao": "EDIFICIO COMERCIAL MEGG SHOP",
+        "Logradouro": "Rodovia Antônio Heil",
+        "Numero": "3270",
+        "Bairro": "BRUSQUE - SANTA TEREZINHA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T16:32:30-03:00"
+      },
+      {
+        "CodigoAuto": "MUL8055000140A/26",
+        "RE": "RE8055002785A",
+        "Nome_Edificacao": "RESTAURANTE",
+        "Logradouro": "Rua Manoel João Flor",
+        "Numero": "20",
+        "Bairro": "BRUSQUE - SÃO LUIZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-14T16:32:30-03:00"
       },
       {
         "CodigoAuto": "MUL8055000131A/26",
@@ -2535,7 +2535,7 @@
         "Numero": "700",
         "Bairro": "GASPAR - SANTA TEREZINHA",
         "Cidade": "Gaspar",
-        "Detectado_em": "2026-10-14T10:30:04-03:00"
+        "Detectado_em": "2026-10-14T12:20:56-03:00"
       },
       {
         "CodigoAuto": "MUL8117000069A/26",
@@ -3021,7 +3021,7 @@
         "Numero": "545",
         "Bairro": "ITAJAÍ - CIDADE NOVA",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-10-13T21:10:04-03:00"
+        "Detectado_em": "2026-10-13T18:19:56-03:00"
       },
       {
         "CodigoAuto": "MUL8161000523A/26",
@@ -3031,7 +3031,7 @@
         "Numero": "1183",
         "Bairro": "ITAJAÍ - SÃO JUDAS",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-10-13T21:10:04-03:00"
+        "Detectado_em": "2026-10-13T18:19:56-03:00"
       },
       {
         "CodigoAuto": "MUL8161000524A/26",
@@ -3041,7 +3041,7 @@
         "Numero": "200",
         "Bairro": "ITAJAÍ - FAZENDA",
         "Cidade": "Itajai",
-        "Detectado_em": "2026-10-13T21:10:04-03:00"
+        "Detectado_em": "2026-10-13T18:19:56-03:00"
       },
       {
         "CodigoAuto": "MUL8161000514A/26",
@@ -5426,7 +5426,7 @@
         "Numero": "532",
         "Bairro": "ITAPEMA - VARZEA",
         "Cidade": "Itapema",
-        "Detectado_em": "2026-10-15T09:30:04-03:00"
+        "Detectado_em": "2026-10-15T12:20:01-03:00"
       },
       {
         "CodigoAuto": "MUL8163000242A/26",
@@ -5436,7 +5436,7 @@
         "Numero": "415",
         "Bairro": "ITAPEMA - MEIA PRAIA",
         "Cidade": "Itapema",
-        "Detectado_em": "2026-10-14T08:10:05-03:00"
+        "Detectado_em": "2026-10-14T12:20:56-03:00"
       },
       {
         "CodigoAuto": "MUL8163000243A/26",
@@ -5446,7 +5446,7 @@
         "Numero": "529",
         "Bairro": "ITAPEMA - MORRETES",
         "Cidade": "Itapema",
-        "Detectado_em": "2026-10-14T08:10:05-03:00"
+        "Detectado_em": "2026-10-14T12:20:56-03:00"
       },
       {
         "CodigoAuto": "MUL8163000241A/26",
@@ -7269,7 +7269,7 @@
         "Numero": "864",
         "Bairro": "NOVA TRENTO - DISTRITO DE CLARAIBA",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-10-15T13:50:05-03:00"
+        "Detectado_em": "2026-10-15T16:16:38-03:00"
       },
       {
         "CodigoAuto": "MUL8225000161A/26",
@@ -7279,7 +7279,7 @@
         "Numero": "175",
         "Bairro": "NOVA TRENTO - TRINTA REIS",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-10-14T13:40:04-03:00"
+        "Detectado_em": "2026-10-14T16:32:30-03:00"
       },
       {
         "CodigoAuto": "MUL8225000158A/26",
@@ -7289,7 +7289,7 @@
         "Numero": "",
         "Bairro": "NOVA TRENTO - AGUTI",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-10-13T21:10:04-03:00"
+        "Detectado_em": "2026-10-13T18:19:56-03:00"
       },
       {
         "CodigoAuto": "MUL8225000159A/26",
@@ -7299,7 +7299,7 @@
         "Numero": "",
         "Bairro": "NOVA TRENTO - TRINTA REIS",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-10-13T21:10:04-03:00"
+        "Detectado_em": "2026-10-13T18:19:56-03:00"
       },
       {
         "CodigoAuto": "MUL8225000160A/26",
@@ -7309,7 +7309,7 @@
         "Numero": "591",
         "Bairro": "NOVA TRENTO - CENTRO",
         "Cidade": "Nova Trento",
-        "Detectado_em": "2026-10-13T21:10:04-03:00"
+        "Detectado_em": "2026-10-13T18:19:56-03:00"
       },
       {
         "CodigoAuto": "MUL8225000157A/26",
@@ -8045,7 +8045,7 @@
         "Numero": "1254",
         "Bairro": "PORTO BELO - PEREQUE",
         "Cidade": "Porto Belo",
-        "Detectado_em": "2026-10-14T08:10:05-03:00"
+        "Detectado_em": "2026-10-14T12:20:56-03:00"
       },
       {
         "CodigoAuto": "MUL8265000126A/26",
@@ -8736,179 +8736,165 @@
   "total_geral": 876,
   "eventos_recentes": [
     {
-      "ts": "2026-10-15T13:50:05-03:00",
+      "ts": "2026-10-15T16:16:38-03:00",
       "cidade": "Nova Trento",
       "codigo": "MUL8225000162A/26",
       "nome": "VALDIR OTÁVIO CABRAL",
       "re": "RE8225000812A"
     },
     {
-      "ts": "2026-10-15T13:50:05-03:00",
+      "ts": "2026-10-15T16:16:38-03:00",
       "cidade": "Brusque",
       "codigo": "MUL8055000141A/26",
       "nome": "CLUBE ATLÉTICO CARLOS RENAUX",
       "re": "RE8055001087A"
     },
     {
-      "ts": "2026-10-15T09:30:04-03:00",
+      "ts": "2026-10-15T12:20:01-03:00",
       "cidade": "Itapema",
       "codigo": "MUL8163000244A/26",
       "nome": "ADILSON PEREIRA",
       "re": "RE8163002405A"
     },
     {
-      "ts": "2026-10-15T08:06:27-03:00",
+      "ts": "2026-10-14T19:35:19-03:00",
       "cidade": "Blumenau",
       "codigo": "MUL8047000294A/26",
       "nome": "CICILIA PIETROBON GREGIO",
       "re": "RE8047000374A"
     },
     {
-      "ts": "2026-10-14T17:30:04-03:00",
+      "ts": "2026-10-14T19:35:19-03:00",
       "cidade": "Blumenau",
       "codigo": "MUL8047000293A/26",
       "nome": "CRISTIANE,  EDIFICIO",
       "re": "RE8047008489A"
     },
     {
-      "ts": "2026-10-14T14:00:03-03:00",
-      "cidade": "Brusque",
-      "codigo": "MUL8055000140A/26",
-      "nome": "RESTAURANTE",
-      "re": "RE8055002785A"
-    },
-    {
-      "ts": "2026-10-14T13:40:04-03:00",
+      "ts": "2026-10-14T16:32:30-03:00",
       "cidade": "Nova Trento",
       "codigo": "MUL8225000161A/26",
       "nome": "ROBSON GIACOMELLI",
       "re": "RE8225000753A"
     },
     {
-      "ts": "2026-10-14T13:40:04-03:00",
+      "ts": "2026-10-14T16:32:30-03:00",
+      "cidade": "Brusque",
+      "codigo": "MUL8055000140A/26",
+      "nome": "RESTAURANTE",
+      "re": "RE8055002785A"
+    },
+    {
+      "ts": "2026-10-14T16:32:30-03:00",
       "cidade": "Brusque",
       "codigo": "MUL8055000139A/26",
       "nome": "EDIFICIO COMERCIAL MEGG SHOP",
       "re": "RE8055001156A"
     },
     {
-      "ts": "2026-10-14T13:30:03-03:00",
+      "ts": "2026-10-14T16:32:30-03:00",
       "cidade": "Brusque",
       "codigo": "MUL8055000138A/26",
       "nome": "SANTABELA COMERCIO E DISTRIBUIDORA DE COSMETICOS",
       "re": "RE8055006052A"
     },
     {
-      "ts": "2026-10-14T13:20:04-03:00",
+      "ts": "2026-10-14T16:32:30-03:00",
       "cidade": "Brusque",
       "codigo": "MUL8055000137A/26",
       "nome": "Residencial Germano Victorio",
       "re": "RE8055006229A"
     },
     {
-      "ts": "2026-10-14T13:00:04-03:00",
+      "ts": "2026-10-14T16:32:30-03:00",
       "cidade": "Brusque",
       "codigo": "MUL8055000136A/26",
       "nome": "EMPREENDIMENTOS IMOB. LEONI LTDA -ME",
       "re": "RE8055002307A"
     },
     {
-      "ts": "2026-10-14T12:30:04-03:00",
+      "ts": "2026-10-14T16:32:30-03:00",
       "cidade": "Brusque",
       "codigo": "MUL8055000135A/26",
       "nome": "VANIFER COMERCIAL DE FERRAGENS LTDA",
       "re": "RE8055003046A"
     },
     {
-      "ts": "2026-10-14T12:30:04-03:00",
+      "ts": "2026-10-14T16:32:30-03:00",
       "cidade": "Brusque",
       "codigo": "MUL8055000134A/26",
       "nome": "Fibrax Fibras Têxteis Recicladas Ltda",
       "re": "RE8055003442A"
     },
     {
-      "ts": "2026-10-14T10:30:04-03:00",
-      "cidade": "Gaspar",
-      "codigo": "MUL8117000070A/26",
-      "nome": "ALDIR WEHMUTH",
-      "re": "RE8117001488A"
-    },
-    {
-      "ts": "2026-10-14T08:10:05-03:00",
+      "ts": "2026-10-14T12:20:56-03:00",
       "cidade": "Itapema",
       "codigo": "MUL8163000243A/26",
       "nome": "GALPÃO",
       "re": "RE8163006776A"
     },
     {
-      "ts": "2026-10-14T08:10:05-03:00",
+      "ts": "2026-10-14T12:20:56-03:00",
       "cidade": "Itapema",
       "codigo": "MUL8163000242A/26",
       "nome": "EDIFÍCIO RESIDENCIAL SCHIRMANN",
       "re": "RE8163000185A"
     },
     {
-      "ts": "2026-10-14T08:10:05-03:00",
+      "ts": "2026-10-14T12:20:56-03:00",
       "cidade": "Porto Belo",
       "codigo": "MUL8265000127A/26",
       "nome": "MARCOS RAMALHO",
       "re": "RE8265001261A"
     },
     {
-      "ts": "2026-10-13T21:10:04-03:00",
+      "ts": "2026-10-14T12:20:56-03:00",
+      "cidade": "Gaspar",
+      "codigo": "MUL8117000070A/26",
+      "nome": "ALDIR WEHMUTH",
+      "re": "RE8117001488A"
+    },
+    {
+      "ts": "2026-10-13T18:19:56-03:00",
       "cidade": "Itajai",
       "codigo": "MUL8161000524A/26",
       "nome": "ELISIARIO PEREIRA NETO",
       "re": "RE8161003848A"
     },
     {
-      "ts": "2026-10-13T21:10:04-03:00",
+      "ts": "2026-10-13T18:19:56-03:00",
       "cidade": "Itajai",
       "codigo": "MUL8161000523A/26",
       "nome": "ILTON PEREIRA",
       "re": "RE8161003069A"
     },
     {
-      "ts": "2026-10-13T21:10:04-03:00",
+      "ts": "2026-10-13T18:19:56-03:00",
       "cidade": "Itajai",
       "codigo": "MUL8161000522A/26",
       "nome": "ANDRIELI SCHMIDT",
       "re": "RE8161005971A"
     },
     {
-      "ts": "2026-10-13T21:10:04-03:00",
+      "ts": "2026-10-13T18:19:56-03:00",
       "cidade": "Nova Trento",
       "codigo": "MUL8225000160A/26",
       "nome": "VINICOLA VATTARO LTDA",
       "re": "RE8225000681A"
     },
     {
-      "ts": "2026-10-13T21:10:04-03:00",
+      "ts": "2026-10-13T18:19:56-03:00",
       "cidade": "Nova Trento",
       "codigo": "MUL8225000159A/26",
       "nome": "PREFEITURA MUNICIPAL DE NOVA TRENTO",
       "re": "RE8225000824A"
     },
     {
-      "ts": "2026-10-13T21:10:04-03:00",
+      "ts": "2026-10-13T18:19:56-03:00",
       "cidade": "Nova Trento",
       "codigo": "MUL8225000158A/26",
       "nome": "SINDICATO DOS TRABALHADORES RURAIS AGRICULTORES E AGRICULTORAS FAMILIARES DE NOVA TRENTO",
       "re": "RE8225000825A"
-    },
-    {
-      "ts": "2026-10-13T10:00:03-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000241A/26",
-      "nome": "SALÃO DA NATHY",
-      "re": "RE8163006034A"
-    },
-    {
-      "ts": "2026-10-13T09:40:04-03:00",
-      "cidade": "Itapema",
-      "codigo": "MUL8163000240A/26",
-      "nome": "IGREJA NOSSA SENHORA DAS GRAÇAS",
-      "re": "RE8163006579A"
     },
     {
       "ts": "2026-10-09T16:28:24-03:00",
