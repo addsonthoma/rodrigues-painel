@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-15T10:06:49-03:00",
+  "timestamp": "2026-10-15T10:16:58-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8174,
-      "ultima_verificacao": "2026-10-15T10:06:49-03:00"
+      "ultima_verificacao": "2026-10-15T10:16:58-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-15T10:06:49-03:00"
+      "ultima_verificacao": "2026-10-15T10:16:58-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-15T10:06:49-03:00"
+      "ultima_verificacao": "2026-10-15T10:16:58-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3924,
-      "ultima_verificacao": "2026-10-15T10:06:49-03:00"
+      "ultima_verificacao": "2026-10-15T10:16:58-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3426,
-      "ultima_verificacao": "2026-10-15T10:06:49-03:00"
+      "ultima_verificacao": "2026-10-15T10:16:58-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-15T10:06:49-03:00"
+      "ultima_verificacao": "2026-10-15T10:16:58-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
-      "ultimo_numero": 7254,
-      "ultima_verificacao": "2026-10-15T10:06:49-03:00"
+      "ultimo_numero": 7255,
+      "ultima_verificacao": "2026-10-15T10:16:58-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13096,
-      "ultima_verificacao": "2026-10-15T10:06:49-03:00"
+      "ultima_verificacao": "2026-10-15T10:16:58-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5079,
-      "ultima_verificacao": "2026-10-15T10:06:49-03:00"
+      "ultima_verificacao": "2026-10-15T10:16:58-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14430,
-      "ultima_verificacao": "2026-10-15T10:06:49-03:00"
+      "ultima_verificacao": "2026-10-15T10:16:58-03:00"
     }
   },
   "protocolos": {
@@ -7942,6 +7942,17 @@
       }
     ],
     "Itapema": [
+      {
+        "CodigoProtocolo": "A8163007255A",
+        "RE": "RE8163005477A",
+        "numgEdificacao": 278443,
+        "Nome_Edificacao": "RESIDENCIAL MULTIFAMILIAR",
+        "Logradouro": "AVENIDA NEREU RAMOS",
+        "Numero": "5978",
+        "Bairro": "ITAPEMA - MEIA PRAIA",
+        "Cidade": "Itapema",
+        "Detectado_em": "2026-10-15T10:16:58-03:00"
+      },
       {
         "CodigoProtocolo": "A8163007254A",
         "RE": "RE8163006919A",
@@ -21091,10 +21102,10 @@
     "Gaspar": 158,
     "Porto Belo": 145,
     "Nova Trento": 73,
-    "Itapema": 207,
+    "Itapema": 208,
     "Blumenau": 351,
     "Navegantes": 182,
     "Itajai": 454
   },
-  "total_geral": 1910
+  "total_geral": 1911
 }
