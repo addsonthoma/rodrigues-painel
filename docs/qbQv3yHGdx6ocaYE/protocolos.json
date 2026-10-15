@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-10-14T17:17:56-03:00",
+  "timestamp": "2026-10-15T08:13:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8172,
-      "ultima_verificacao": "2026-10-14T17:17:56-03:00"
+      "ultimo_numero": 8173,
+      "ultima_verificacao": "2026-10-15T08:13:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-14T17:17:56-03:00"
+      "ultima_verificacao": "2026-10-15T08:13:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-14T17:17:56-03:00"
+      "ultima_verificacao": "2026-10-15T08:13:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3923,
-      "ultima_verificacao": "2026-10-14T17:17:56-03:00"
+      "ultimo_numero": 3924,
+      "ultima_verificacao": "2026-10-15T08:13:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3423,
-      "ultima_verificacao": "2026-10-14T17:17:56-03:00"
+      "ultimo_numero": 3426,
+      "ultima_verificacao": "2026-10-15T08:13:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 988,
-      "ultima_verificacao": "2026-10-14T17:17:56-03:00"
+      "ultimo_numero": 989,
+      "ultima_verificacao": "2026-10-15T08:13:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7254,
-      "ultima_verificacao": "2026-10-14T17:17:56-03:00"
+      "ultima_verificacao": "2026-10-15T08:13:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13096,
-      "ultima_verificacao": "2026-10-14T17:17:56-03:00"
+      "ultima_verificacao": "2026-10-15T08:13:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
-      "ultimo_numero": 5076,
-      "ultima_verificacao": "2026-10-14T17:17:56-03:00"
+      "ultimo_numero": 5078,
+      "ultima_verificacao": "2026-10-15T08:13:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14429,
-      "ultima_verificacao": "2026-10-14T17:17:56-03:00"
+      "ultimo_numero": 14430,
+      "ultima_verificacao": "2026-10-15T08:13:57-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008173A",
+        "RE": "RE8055001349A",
+        "numgEdificacao": 129757,
+        "Nome_Edificacao": "TERMINAL RODOVIÁRIO",
+        "Logradouro": "Rua Mathilde Hoffmann",
+        "Numero": "4200",
+        "Bairro": "BRUSQUE - CENTRO II",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-15T08:13:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008172A",
         "RE": "RE8055006867A",
@@ -3779,6 +3790,17 @@
     ],
     "Gaspar": [
       {
+        "CodigoProtocolo": "A8117003924A",
+        "RE": "RE8117003270A",
+        "numgEdificacao": 366854,
+        "Nome_Edificacao": "CARLOS ALBERTO MATTANA",
+        "Logradouro": "Rua Vidal Flávio Dias, s/n",
+        "Numero": "",
+        "Bairro": "GASPAR - BELCHIOR BAIXO",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-15T08:13:57-03:00"
+      },
+      {
         "CodigoProtocolo": "A8117003923A",
         "RE": "RE8117001530A",
         "numgEdificacao": 204886,
@@ -5508,6 +5530,39 @@
     ],
     "Porto Belo": [
       {
+        "CodigoProtocolo": "A8265003426A",
+        "RE": "RE8265002094A",
+        "numgEdificacao": 281205,
+        "Nome_Edificacao": "Baker's Bay Residence",
+        "Logradouro": "RUA VICTOR FRONZA",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-15T08:13:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003425A",
+        "RE": "RE8265002384A",
+        "numgEdificacao": 318211,
+        "Nome_Edificacao": "ELON RESIDENCE",
+        "Logradouro": "RUA JOSÉ ROBERTO OTTO",
+        "Numero": "112",
+        "Bairro": "PORTO BELO - JARDIM DOURADO",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-15T08:13:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003424A",
+        "RE": "RE8265002868A",
+        "numgEdificacao": 372254,
+        "Nome_Edificacao": "Chateau Latife",
+        "Logradouro": "Av. Senador Atílio Fontana, esq Rua Gaudêncio Campos",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-15T08:13:57-03:00"
+      },
+      {
         "CodigoProtocolo": "A8265003423A",
         "RE": "RE8265002384A",
         "numgEdificacao": 318211,
@@ -7071,6 +7126,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000989A",
+        "RE": "RE8225000135A",
+        "numgEdificacao": 50880,
+        "Nome_Edificacao": "JORGE HENRIQUE ARAÚJO VIANA",
+        "Logradouro": "Arno Zierke",
+        "Numero": "195",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-15T08:13:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000988A",
         "RE": "RE8225000833A",
@@ -14008,6 +14074,28 @@
     ],
     "Navegantes": [
       {
+        "CodigoProtocolo": "A8221005078A",
+        "RE": "RE8221002463A",
+        "numgEdificacao": 246010,
+        "Nome_Edificacao": "MARCIO LUIS CLAUDINO",
+        "Logradouro": "AVENIDA PREFEITO JOSÉ JUVENAL MAFRA",
+        "Numero": "1327",
+        "Bairro": "NAVEGANTES - CENTRO",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-15T08:13:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8221005077A",
+        "RE": "RE8221001825A",
+        "numgEdificacao": 205725,
+        "Nome_Edificacao": "VALDIR DIAS",
+        "Logradouro": "R GRACILIDES COELHO REISER",
+        "Numero": "750",
+        "Bairro": "NAVEGANTES - SÃO DOMINGOS",
+        "Cidade": "Navegantes",
+        "Detectado_em": "2026-10-15T08:13:57-03:00"
+      },
+      {
         "CodigoProtocolo": "A8221005076A",
         "RE": "RE8221004183A",
         "numgEdificacao": 372211,
@@ -15978,6 +16066,17 @@
       }
     ],
     "Itajai": [
+      {
+        "CodigoProtocolo": "A8161014430A",
+        "RE": "RE8161013955A",
+        "numgEdificacao": 372248,
+        "Nome_Edificacao": "Sarah Dal Castel Grigolo",
+        "Logradouro": "Av. Esc. Paulo Machado da Rosa",
+        "Numero": "171",
+        "Bairro": "ITAJAÍ - Santa Regina III",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-15T08:13:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8161014429A",
         "RE": "RE8161013953A",
@@ -20964,16 +21063,16 @@
     ]
   },
   "totais": {
-    "Brusque": 208,
+    "Brusque": 209,
     "Botuvera": 44,
     "Guabiruba": 86,
-    "Gaspar": 157,
-    "Porto Belo": 142,
-    "Nova Trento": 72,
+    "Gaspar": 158,
+    "Porto Belo": 145,
+    "Nova Trento": 73,
     "Itapema": 207,
     "Blumenau": 351,
-    "Navegantes": 179,
-    "Itajai": 453
+    "Navegantes": 181,
+    "Itajai": 454
   },
-  "total_geral": 1899
+  "total_geral": 1908
 }
