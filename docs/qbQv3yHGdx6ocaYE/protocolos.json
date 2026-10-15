@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-10-15T17:27:53-03:00",
+  "timestamp": "2026-10-15T17:46:34-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8176,
-      "ultima_verificacao": "2026-10-15T17:27:53-03:00"
+      "ultimo_numero": 8177,
+      "ultima_verificacao": "2026-10-15T17:46:34-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-15T17:27:53-03:00"
+      "ultima_verificacao": "2026-10-15T17:46:34-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-15T17:27:53-03:00"
+      "ultima_verificacao": "2026-10-15T17:46:34-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3926,
-      "ultima_verificacao": "2026-10-15T17:27:53-03:00"
+      "ultima_verificacao": "2026-10-15T17:46:34-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3427,
-      "ultima_verificacao": "2026-10-15T17:27:53-03:00"
+      "ultima_verificacao": "2026-10-15T17:46:34-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-15T17:27:53-03:00"
+      "ultima_verificacao": "2026-10-15T17:46:34-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7259,
-      "ultima_verificacao": "2026-10-15T17:27:53-03:00"
+      "ultima_verificacao": "2026-10-15T17:46:34-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13099,
-      "ultima_verificacao": "2026-10-15T17:27:53-03:00"
+      "ultima_verificacao": "2026-10-15T17:46:34-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5080,
-      "ultima_verificacao": "2026-10-15T17:27:53-03:00"
+      "ultima_verificacao": "2026-10-15T17:46:34-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14434,
-      "ultima_verificacao": "2026-10-15T17:27:53-03:00"
+      "ultima_verificacao": "2026-10-15T17:46:34-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008177A",
+        "RE": "RE8055006870A",
+        "numgEdificacao": 372383,
+        "Nome_Edificacao": "Pabline Tamires Cesari",
+        "Logradouro": "R GENERAL OSORIO",
+        "Numero": "348",
+        "Bairro": "BRUSQUE - Guarani",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-15T17:46:34-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008176A",
         "RE": "RE8055006868A",
@@ -21283,7 +21294,7 @@
     ]
   },
   "totais": {
-    "Brusque": 212,
+    "Brusque": 213,
     "Botuvera": 44,
     "Guabiruba": 86,
     "Gaspar": 160,
@@ -21294,5 +21305,5 @@
     "Navegantes": 183,
     "Itajai": 458
   },
-  "total_geral": 1928
+  "total_geral": 1929
 }
