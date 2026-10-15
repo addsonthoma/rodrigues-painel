@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-15T15:26:58-03:00",
+  "timestamp": "2026-10-15T15:37:16-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8176,
-      "ultima_verificacao": "2026-10-15T15:26:58-03:00"
+      "ultima_verificacao": "2026-10-15T15:37:16-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-15T15:26:58-03:00"
+      "ultima_verificacao": "2026-10-15T15:37:16-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-15T15:26:58-03:00"
+      "ultima_verificacao": "2026-10-15T15:37:16-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3924,
-      "ultima_verificacao": "2026-10-15T15:26:58-03:00"
+      "ultima_verificacao": "2026-10-15T15:37:16-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3426,
-      "ultima_verificacao": "2026-10-15T15:26:58-03:00"
+      "ultima_verificacao": "2026-10-15T15:37:16-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-15T15:26:58-03:00"
+      "ultima_verificacao": "2026-10-15T15:37:16-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7258,
-      "ultima_verificacao": "2026-10-15T15:26:58-03:00"
+      "ultima_verificacao": "2026-10-15T15:37:16-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13098,
-      "ultima_verificacao": "2026-10-15T15:26:58-03:00"
+      "ultimo_numero": 13099,
+      "ultima_verificacao": "2026-10-15T15:37:16-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5079,
-      "ultima_verificacao": "2026-10-15T15:26:58-03:00"
+      "ultima_verificacao": "2026-10-15T15:37:16-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14432,
-      "ultima_verificacao": "2026-10-15T15:26:58-03:00"
+      "ultima_verificacao": "2026-10-15T15:37:16-03:00"
     }
   },
   "protocolos": {
@@ -10287,6 +10287,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013099A",
+        "RE": "RE8047003862A",
+        "numgEdificacao": 131604,
+        "Nome_Edificacao": "LEONARDO CUNHA",
+        "Logradouro": "Rua Bahia",
+        "Numero": "8330",
+        "Bairro": "BLUMENAU - SALTO WEISSBACH",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-15T15:37:16-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013098A",
         "RE": "RE8047002068A",
@@ -21202,9 +21213,9 @@
     "Porto Belo": 145,
     "Nova Trento": 73,
     "Itapema": 211,
-    "Blumenau": 353,
+    "Blumenau": 354,
     "Navegantes": 182,
     "Itajai": 456
   },
-  "total_geral": 1920
+  "total_geral": 1921
 }
