@@ -1,59 +1,70 @@
 {
-  "timestamp": "2026-10-15T13:38:26-03:00",
+  "timestamp": "2026-10-15T13:58:03-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
-      "ultimo_numero": 8175,
-      "ultima_verificacao": "2026-10-15T13:38:26-03:00"
+      "ultimo_numero": 8176,
+      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-15T13:38:26-03:00"
+      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-15T13:38:26-03:00"
+      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3924,
-      "ultima_verificacao": "2026-10-15T13:38:26-03:00"
+      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3426,
-      "ultima_verificacao": "2026-10-15T13:38:26-03:00"
+      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-15T13:38:26-03:00"
+      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7257,
-      "ultima_verificacao": "2026-10-15T13:38:26-03:00"
+      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13097,
-      "ultima_verificacao": "2026-10-15T13:38:26-03:00"
+      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5079,
-      "ultima_verificacao": "2026-10-15T13:38:26-03:00"
+      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14431,
-      "ultima_verificacao": "2026-10-15T13:38:26-03:00"
+      "ultima_verificacao": "2026-10-15T13:58:03-03:00"
     }
   },
   "protocolos": {
     "Brusque": [
+      {
+        "CodigoProtocolo": "A8055008176A",
+        "RE": "RE8055006868A",
+        "numgEdificacao": 372336,
+        "Nome_Edificacao": "RESIDENCIAL - CASA CATARINA -  BATEAS",
+        "Logradouro": "Rua Edgar Von Buettner",
+        "Numero": "",
+        "Bairro": "BRUSQUE - BATEAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-15T13:58:03-03:00"
+      },
       {
         "CodigoProtocolo": "A8055008175A",
         "RE": "RE8055006693A",
@@ -21151,7 +21162,7 @@
     ]
   },
   "totais": {
-    "Brusque": 211,
+    "Brusque": 212,
     "Botuvera": 44,
     "Guabiruba": 86,
     "Gaspar": 158,
@@ -21162,5 +21173,5 @@
     "Navegantes": 182,
     "Itajai": 455
   },
-  "total_geral": 1916
+  "total_geral": 1917
 }
