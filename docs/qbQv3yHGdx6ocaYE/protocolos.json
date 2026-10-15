@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-14T19:43:51-03:00",
+  "timestamp": "2026-10-14T22:03:30-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8173,
-      "ultima_verificacao": "2026-10-14T19:43:51-03:00"
+      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-14T19:43:51-03:00"
+      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-14T19:43:51-03:00"
+      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3924,
-      "ultima_verificacao": "2026-10-14T19:43:51-03:00"
+      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3426,
-      "ultima_verificacao": "2026-10-14T19:43:51-03:00"
+      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 988,
-      "ultima_verificacao": "2026-10-14T19:43:51-03:00"
+      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7254,
-      "ultima_verificacao": "2026-10-14T19:43:51-03:00"
+      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13096,
-      "ultima_verificacao": "2026-10-14T19:43:51-03:00"
+      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5078,
-      "ultima_verificacao": "2026-10-14T19:43:51-03:00"
+      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14429,
-      "ultima_verificacao": "2026-10-14T19:43:51-03:00"
+      "ultimo_numero": 14430,
+      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
     }
   },
   "protocolos": {
@@ -16056,6 +16056,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014430A",
+        "RE": "RE8161013955A",
+        "numgEdificacao": 372248,
+        "Nome_Edificacao": "Sarah Dal Castel Grigolo",
+        "Logradouro": "Av. Esc. Paulo Machado da Rosa",
+        "Numero": "171",
+        "Bairro": "ITAJAÍ - Santa Regina III",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-14T22:03:30-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014429A",
         "RE": "RE8161013953A",
         "numgEdificacao": 372184,
@@ -21050,7 +21061,7 @@
     "Itapema": 207,
     "Blumenau": 351,
     "Navegantes": 181,
-    "Itajai": 453
+    "Itajai": 454
   },
-  "total_geral": 1906
+  "total_geral": 1907
 }
