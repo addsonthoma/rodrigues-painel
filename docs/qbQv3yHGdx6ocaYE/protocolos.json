@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-14T22:03:30-03:00",
+  "timestamp": "2026-10-15T02:57:56-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8173,
-      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
+      "ultima_verificacao": "2026-10-15T02:57:56-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
+      "ultima_verificacao": "2026-10-15T02:57:56-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1561,
-      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
+      "ultima_verificacao": "2026-10-15T02:57:56-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3924,
-      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
+      "ultima_verificacao": "2026-10-15T02:57:56-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3426,
-      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
+      "ultima_verificacao": "2026-10-15T02:57:56-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 988,
-      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
+      "ultimo_numero": 989,
+      "ultima_verificacao": "2026-10-15T02:57:56-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7254,
-      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
+      "ultima_verificacao": "2026-10-15T02:57:56-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13096,
-      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
+      "ultima_verificacao": "2026-10-15T02:57:56-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5078,
-      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
+      "ultima_verificacao": "2026-10-15T02:57:56-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14430,
-      "ultima_verificacao": "2026-10-14T22:03:30-03:00"
+      "ultima_verificacao": "2026-10-15T02:57:56-03:00"
     }
   },
   "protocolos": {
@@ -7126,6 +7126,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000989A",
+        "RE": "RE8225000135A",
+        "numgEdificacao": 50880,
+        "Nome_Edificacao": "JORGE HENRIQUE ARAÚJO VIANA",
+        "Logradouro": "Arno Zierke",
+        "Numero": "195",
+        "Bairro": "NOVA TRENTO - CLARAIBA",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-15T02:57:56-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000988A",
         "RE": "RE8225000833A",
@@ -21057,11 +21068,11 @@
     "Guabiruba": 86,
     "Gaspar": 158,
     "Porto Belo": 145,
-    "Nova Trento": 72,
+    "Nova Trento": 73,
     "Itapema": 207,
     "Blumenau": 351,
     "Navegantes": 181,
     "Itajai": 454
   },
-  "total_geral": 1907
+  "total_geral": 1908
 }
