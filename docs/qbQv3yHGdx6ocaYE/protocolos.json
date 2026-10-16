@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-16T14:48:56-03:00",
+  "timestamp": "2026-10-16T15:06:48-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8178,
-      "ultima_verificacao": "2026-10-16T14:48:56-03:00"
+      "ultima_verificacao": "2026-10-16T15:06:48-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-16T14:48:56-03:00"
+      "ultima_verificacao": "2026-10-16T15:06:48-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1562,
-      "ultima_verificacao": "2026-10-16T14:48:56-03:00"
+      "ultima_verificacao": "2026-10-16T15:06:48-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3928,
-      "ultima_verificacao": "2026-10-16T14:48:56-03:00"
+      "ultimo_numero": 3929,
+      "ultima_verificacao": "2026-10-16T15:06:48-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3436,
-      "ultima_verificacao": "2026-10-16T14:48:56-03:00"
+      "ultima_verificacao": "2026-10-16T15:06:48-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 990,
-      "ultima_verificacao": "2026-10-16T14:48:56-03:00"
+      "ultima_verificacao": "2026-10-16T15:06:48-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7259,
-      "ultima_verificacao": "2026-10-16T14:48:56-03:00"
+      "ultima_verificacao": "2026-10-16T15:06:48-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13101,
-      "ultima_verificacao": "2026-10-16T14:48:56-03:00"
+      "ultimo_numero": 13102,
+      "ultima_verificacao": "2026-10-16T15:06:48-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5080,
-      "ultima_verificacao": "2026-10-16T14:48:56-03:00"
+      "ultima_verificacao": "2026-10-16T15:06:48-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14435,
-      "ultima_verificacao": "2026-10-16T14:48:56-03:00"
+      "ultima_verificacao": "2026-10-16T15:06:48-03:00"
     }
   },
   "protocolos": {
@@ -3855,6 +3855,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003929A",
+        "RE": "RE8117003311A",
+        "numgEdificacao": 372130,
+        "Nome_Edificacao": "PEDRO CARLOS SCHIMITT",
+        "Logradouro": "R EURICO FONTES",
+        "Numero": "30",
+        "Bairro": "GASPAR - Centro",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-16T15:06:48-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003928A",
         "RE": "RE8117003313A",
@@ -10496,6 +10507,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013102A",
+        "RE": "RE8047012210A",
+        "numgEdificacao": 372277,
+        "Nome_Edificacao": "ALAMEDA PARK",
+        "Logradouro": "Rua Lauro Mueller",
+        "Numero": "370",
+        "Bairro": "BLUMENAU - Jardim Blumenau",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-16T15:06:48-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013101A",
         "RE": "RE8047012212A",
@@ -21484,13 +21506,13 @@
     "Brusque": 214,
     "Botuvera": 44,
     "Guabiruba": 87,
-    "Gaspar": 162,
+    "Gaspar": 163,
     "Porto Belo": 155,
     "Nova Trento": 74,
     "Itapema": 212,
-    "Blumenau": 356,
+    "Blumenau": 357,
     "Navegantes": 183,
     "Itajai": 459
   },
-  "total_geral": 1946
+  "total_geral": 1948
 }
