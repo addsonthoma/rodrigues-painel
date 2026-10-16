@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-16T08:37:18-03:00",
+  "timestamp": "2026-10-16T08:46:54-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8178,
-      "ultima_verificacao": "2026-10-16T08:37:18-03:00"
+      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-16T08:37:18-03:00"
+      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1562,
-      "ultima_verificacao": "2026-10-16T08:37:18-03:00"
+      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3926,
-      "ultima_verificacao": "2026-10-16T08:37:18-03:00"
+      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3428,
-      "ultima_verificacao": "2026-10-16T08:37:18-03:00"
+      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-16T08:37:18-03:00"
+      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7259,
-      "ultima_verificacao": "2026-10-16T08:37:18-03:00"
+      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13099,
-      "ultima_verificacao": "2026-10-16T08:37:18-03:00"
+      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5080,
-      "ultima_verificacao": "2026-10-16T08:37:18-03:00"
+      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
-      "ultimo_numero": 14434,
-      "ultima_verificacao": "2026-10-16T08:37:18-03:00"
+      "ultimo_numero": 14435,
+      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
     }
   },
   "protocolos": {
@@ -16287,6 +16287,17 @@
     ],
     "Itajai": [
       {
+        "CodigoProtocolo": "A8161014435A",
+        "RE": "RE8161012754A",
+        "numgEdificacao": 336700,
+        "Nome_Edificacao": "CEDI FRANCISCO ZADRA",
+        "Logradouro": "Rua Conceição Dionizio Gabriel",
+        "Numero": "52",
+        "Bairro": "ITAJAÍ - FAZENDINHA",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-16T08:46:54-03:00"
+      },
+      {
         "CodigoProtocolo": "A8161014434A",
         "RE": "RE8161006977A",
         "numgEdificacao": 192521,
@@ -21336,7 +21347,7 @@
     "Itapema": 212,
     "Blumenau": 354,
     "Navegantes": 183,
-    "Itajai": 458
+    "Itajai": 459
   },
-  "total_geral": 1932
+  "total_geral": 1933
 }
