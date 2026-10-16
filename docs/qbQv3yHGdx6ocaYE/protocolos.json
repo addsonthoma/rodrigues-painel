@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-16T13:48:30-03:00",
+  "timestamp": "2026-10-16T14:08:43-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8178,
-      "ultima_verificacao": "2026-10-16T13:48:30-03:00"
+      "ultima_verificacao": "2026-10-16T14:08:43-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-16T13:48:30-03:00"
+      "ultima_verificacao": "2026-10-16T14:08:43-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1562,
-      "ultima_verificacao": "2026-10-16T13:48:30-03:00"
+      "ultima_verificacao": "2026-10-16T14:08:43-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
-      "ultimo_numero": 3926,
-      "ultima_verificacao": "2026-10-16T13:48:30-03:00"
+      "ultimo_numero": 3927,
+      "ultima_verificacao": "2026-10-16T14:08:43-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3436,
-      "ultima_verificacao": "2026-10-16T13:48:30-03:00"
+      "ultima_verificacao": "2026-10-16T14:08:43-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 990,
-      "ultima_verificacao": "2026-10-16T13:48:30-03:00"
+      "ultima_verificacao": "2026-10-16T14:08:43-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7259,
-      "ultima_verificacao": "2026-10-16T13:48:30-03:00"
+      "ultima_verificacao": "2026-10-16T14:08:43-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
-      "ultimo_numero": 13099,
-      "ultima_verificacao": "2026-10-16T13:48:30-03:00"
+      "ultimo_numero": 13100,
+      "ultima_verificacao": "2026-10-16T14:08:43-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5080,
-      "ultima_verificacao": "2026-10-16T13:48:30-03:00"
+      "ultima_verificacao": "2026-10-16T14:08:43-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14435,
-      "ultima_verificacao": "2026-10-16T13:48:30-03:00"
+      "ultima_verificacao": "2026-10-16T14:08:43-03:00"
     }
   },
   "protocolos": {
@@ -3855,6 +3855,17 @@
       }
     ],
     "Gaspar": [
+      {
+        "CodigoProtocolo": "A8117003927A",
+        "RE": "RE8117003209A",
+        "numgEdificacao": 360056,
+        "Nome_Edificacao": "AMELIA SALETE SCHMITT WEHMUTH",
+        "Logradouro": "RUA BARAO DO RIO BRANCO",
+        "Numero": "1357",
+        "Bairro": "GASPAR - SANTA TEREZINHA",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-16T14:08:43-03:00"
+      },
       {
         "CodigoProtocolo": "A8117003926A",
         "RE": "RE8117000377A",
@@ -10474,6 +10485,17 @@
       }
     ],
     "Blumenau": [
+      {
+        "CodigoProtocolo": "A8047013100A",
+        "RE": "RE8047012211A",
+        "numgEdificacao": 372281,
+        "Nome_Edificacao": "JOHN LENNON, COND. E EDIFI",
+        "Logradouro": "Rua John Lennon",
+        "Numero": "63",
+        "Bairro": "BLUMENAU - Ponta Aguda",
+        "Cidade": "Blumenau",
+        "Detectado_em": "2026-10-16T14:08:43-03:00"
+      },
       {
         "CodigoProtocolo": "A8047013099A",
         "RE": "RE8047003862A",
@@ -21440,13 +21462,13 @@
     "Brusque": 214,
     "Botuvera": 44,
     "Guabiruba": 87,
-    "Gaspar": 160,
+    "Gaspar": 161,
     "Porto Belo": 155,
     "Nova Trento": 74,
     "Itapema": 212,
-    "Blumenau": 354,
+    "Blumenau": 355,
     "Navegantes": 183,
     "Itajai": 459
   },
-  "total_geral": 1942
+  "total_geral": 1944
 }
