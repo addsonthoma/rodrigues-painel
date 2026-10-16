@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-16T08:46:54-03:00",
+  "timestamp": "2026-10-16T08:56:57-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8178,
-      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
+      "ultima_verificacao": "2026-10-16T08:56:57-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
+      "ultima_verificacao": "2026-10-16T08:56:57-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1562,
-      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
+      "ultima_verificacao": "2026-10-16T08:56:57-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3926,
-      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
+      "ultima_verificacao": "2026-10-16T08:56:57-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3428,
-      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
+      "ultimo_numero": 3430,
+      "ultima_verificacao": "2026-10-16T08:56:57-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
+      "ultima_verificacao": "2026-10-16T08:56:57-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7259,
-      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
+      "ultima_verificacao": "2026-10-16T08:56:57-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13099,
-      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
+      "ultima_verificacao": "2026-10-16T08:56:57-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5080,
-      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
+      "ultima_verificacao": "2026-10-16T08:56:57-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14435,
-      "ultima_verificacao": "2026-10-16T08:46:54-03:00"
+      "ultima_verificacao": "2026-10-16T08:56:57-03:00"
     }
   },
   "protocolos": {
@@ -5617,6 +5617,28 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003430A",
+        "RE": "RE8265002781A",
+        "numgEdificacao": 363017,
+        "Nome_Edificacao": "WERT TENNIS RESORT",
+        "Logradouro": "R. Santos Dumont",
+        "Numero": "",
+        "Bairro": "PORTO BELO - SERTÃO DE SANTA LUZIA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-16T08:56:57-03:00"
+      },
+      {
+        "CodigoProtocolo": "A8265003429A",
+        "RE": "RE8265002781A",
+        "numgEdificacao": 363017,
+        "Nome_Edificacao": "WERT TENNIS RESORT",
+        "Logradouro": "R. Santos Dumont",
+        "Numero": "",
+        "Bairro": "PORTO BELO - SERTÃO DE SANTA LUZIA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-16T08:56:57-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003428A",
         "RE": "RE8265002869A",
@@ -21342,12 +21364,12 @@
     "Botuvera": 44,
     "Guabiruba": 87,
     "Gaspar": 160,
-    "Porto Belo": 147,
+    "Porto Belo": 149,
     "Nova Trento": 73,
     "Itapema": 212,
     "Blumenau": 354,
     "Navegantes": 183,
     "Itajai": 459
   },
-  "total_geral": 1933
+  "total_geral": 1935
 }
