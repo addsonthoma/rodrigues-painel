@@ -3,7 +3,7 @@
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
-      "ultimo_numero": 1136,
+      "ultimo_numero": 1139,
       "ano_corrente": 26,
       "ultima_verificacao": "2026-10-15T21:11:28-03:00"
     },
@@ -57,13 +57,46 @@
     },
     "Itajai": {
       "prefixo": "AF8161",
-      "ultimo_numero": 1317,
+      "ultimo_numero": 1318,
       "ano_corrente": 26,
       "ultima_verificacao": "2026-10-15T21:11:28-03:00"
     }
   },
   "afs": {
     "Brusque": [
+      {
+        "CodigoAuto": "AF8055001139A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001233A",
+        "Nome_Edificacao": "RESIDENCIAL UNIFAMILIAR E COMERCIAL",
+        "Logradouro": "Rua Augusto Klapoth",
+        "Numero": "486",
+        "Bairro": "BRUSQUE - ÁGUAS CLARAS",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-15T19:32:23-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001138A/26",
+        "Tipo": "AF",
+        "RE": "RE8055001724A",
+        "Nome_Edificacao": "IVO MARTINENGHI",
+        "Logradouro": "AV DOM JOAQUIM",
+        "Numero": "404",
+        "Bairro": "BRUSQUE - SOUZA CRUZ",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-15T19:32:23-03:00"
+      },
+      {
+        "CodigoAuto": "AF8055001137A/26",
+        "Tipo": "AF",
+        "RE": "RE8055003898A",
+        "Nome_Edificacao": "EDIFÍCIO MULTAFMILIAR E COMERCIAL JOSÉ CARLOS MAFRA",
+        "Logradouro": "Rua Victor Meirelles",
+        "Numero": "355",
+        "Bairro": "BRUSQUE - SANTA RITA",
+        "Cidade": "Brusque",
+        "Detectado_em": "2026-10-15T19:32:23-03:00"
+      },
       {
         "CodigoAuto": "AF8055001136A/26",
         "Tipo": "AF",
@@ -32654,6 +32687,17 @@
     ],
     "Itajai": [
       {
+        "CodigoAuto": "AF8161001318A/26",
+        "Tipo": "AF",
+        "RE": "RE8161006090A",
+        "Nome_Edificacao": "MARIO P. RANQUETTI",
+        "Logradouro": "RUA OTAVIO CESARIO PEREIRA",
+        "Numero": "955",
+        "Bairro": "ITAJAÍ - SÃO VICENTE",
+        "Cidade": "Itajai",
+        "Detectado_em": "2026-10-15T19:32:23-03:00"
+      },
+      {
         "CodigoAuto": "AF8161001317A/26",
         "Tipo": "AF",
         "RE": "RE8161007911A",
@@ -38860,7 +38904,7 @@
     ]
   },
   "totais": {
-    "Brusque": 526,
+    "Brusque": 529,
     "Botuvera": 38,
     "Guabiruba": 48,
     "Gaspar": 340,
@@ -38869,7 +38913,7 @@
     "Itapema": 580,
     "Blumenau": 603,
     "Navegantes": 193,
-    "Itajai": 564
+    "Itajai": 565
   },
-  "total_geral": 3525
+  "total_geral": 3529
 }
