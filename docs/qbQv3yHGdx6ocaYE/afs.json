@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-10-16T10:10:22-03:00",
+  "timestamp": "2026-10-16T10:20:21-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "AF8055",
       "ultimo_numero": 1139,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-16T10:10:22-03:00"
+      "ultima_verificacao": "2026-10-16T10:20:21-03:00"
     },
     "Botuvera": {
       "prefixo": "AF8051",
       "ultimo_numero": 38,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-16T10:10:22-03:00"
+      "ultima_verificacao": "2026-10-16T10:20:21-03:00"
     },
     "Guabiruba": {
       "prefixo": "AF8123",
       "ultimo_numero": 68,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-16T10:10:22-03:00"
+      "ultima_verificacao": "2026-10-16T10:20:21-03:00"
     },
     "Gaspar": {
       "prefixo": "AF8117",
-      "ultimo_numero": 770,
+      "ultimo_numero": 772,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-16T10:10:22-03:00"
+      "ultima_verificacao": "2026-10-16T10:20:21-03:00"
     },
     "Porto Belo": {
       "prefixo": "AF8265",
-      "ultimo_numero": 574,
+      "ultimo_numero": 575,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-16T10:10:22-03:00"
+      "ultima_verificacao": "2026-10-16T10:20:21-03:00"
     },
     "Nova Trento": {
       "prefixo": "AF8225",
       "ultimo_numero": 662,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-16T10:10:22-03:00"
+      "ultima_verificacao": "2026-10-16T10:20:21-03:00"
     },
     "Itapema": {
       "prefixo": "AF8163",
       "ultimo_numero": 1314,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-16T10:10:22-03:00"
+      "ultima_verificacao": "2026-10-16T10:20:21-03:00"
     },
     "Blumenau": {
       "prefixo": "AF8047",
       "ultimo_numero": 1318,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-16T10:10:22-03:00"
+      "ultima_verificacao": "2026-10-16T10:20:21-03:00"
     },
     "Navegantes": {
       "prefixo": "AF8221",
       "ultimo_numero": 397,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-16T10:10:22-03:00"
+      "ultima_verificacao": "2026-10-16T10:20:21-03:00"
     },
     "Itajai": {
       "prefixo": "AF8161",
       "ultimo_numero": 1318,
       "ano_corrente": 26,
-      "ultima_verificacao": "2026-10-16T10:10:22-03:00"
+      "ultima_verificacao": "2026-10-16T10:20:21-03:00"
     }
   },
   "afs": {
@@ -6836,6 +6836,28 @@
     ],
     "Gaspar": [
       {
+        "CodigoAuto": "AF8117000772A/26",
+        "Tipo": "AF",
+        "RE": "RE8117001174A",
+        "Nome_Edificacao": "PEDRO MONDINI",
+        "Logradouro": "Rodovia Jorge Lacerda",
+        "Numero": "6668",
+        "Bairro": "GASPAR - POÇO GRANDE",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-16T10:20:21-03:00"
+      },
+      {
+        "CodigoAuto": "AF8117000771A/26",
+        "Tipo": "AF",
+        "RE": "RE8117003054A",
+        "Nome_Edificacao": "GALPÃO COMERCIAL 01",
+        "Logradouro": "Rua Antônio Gesser",
+        "Numero": "",
+        "Bairro": "GASPAR - BELCHIOR CENTRAL",
+        "Cidade": "Gaspar",
+        "Detectado_em": "2026-10-16T10:20:21-03:00"
+      },
+      {
         "CodigoAuto": "AF8117000770A/26",
         "Tipo": "AF",
         "RE": "RE8117000136A",
@@ -10599,6 +10621,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoAuto": "AF8265000575A/26",
+        "Tipo": "AF",
+        "RE": "RE8265000921A",
+        "Nome_Edificacao": "SOLVING SOLUCOES LTDA",
+        "Logradouro": "Avenida Governador Celso Ramos",
+        "Numero": "338",
+        "Bairro": "PORTO BELO - VILA NOVA",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-16T10:20:21-03:00"
+      },
       {
         "CodigoAuto": "AF8265000574A/26",
         "Tipo": "AF",
@@ -38973,13 +39006,13 @@
     "Brusque": 529,
     "Botuvera": 38,
     "Guabiruba": 48,
-    "Gaspar": 342,
-    "Porto Belo": 283,
+    "Gaspar": 344,
+    "Porto Belo": 284,
     "Nova Trento": 352,
     "Itapema": 580,
     "Blumenau": 605,
     "Navegantes": 193,
     "Itajai": 565
   },
-  "total_geral": 3535
+  "total_geral": 3538
 }
