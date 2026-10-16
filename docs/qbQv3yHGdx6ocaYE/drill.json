@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-15T21:11:00-03:00",
-  "total": 6417,
+  "timestamp": "2026-10-15T22:34:40-03:00",
+  "total": 6429,
   "expired": false,
   "drill": {
     "AF8047000787A/25": {
@@ -5119,7 +5119,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1792092804.883156
+      "_ts": 1792114438.4602058
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5139,7 +5139,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1792092804.88313
+      "_ts": 1792114438.4600363
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -9464,7 +9464,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1792092797.7582567
+      "_ts": 1792114431.3364763
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -14021,7 +14021,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1792092822.8631935
+      "_ts": 1792114456.2329466
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -25715,6 +25715,7 @@
     },
     "AF8055000024A/20": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "50",
       "cidade": "BRUSQUE",
       "responsavel": "João Eduardo Maestri",
       "cpfCnpj": "53878884915",
@@ -25726,15 +25727,16 @@
         "Executar sistema hidráulico preventivo"
       ],
       "dataPrazo": "28/05/2021",
-      "prazoDias": -1858,
+      "prazoDias": -1966,
       "bombeiroAutuacao": "2º Sgt Joao Augusto GONCALVES de Oliveira",
       "bloco": "BLOCO 03",
       "codgAuto": "AF8055000024A/20",
       "numgAuto": 2135,
-      "_ts": 1782732904.7301304
+      "_ts": 1792114404.3169103
     },
     "AF8055000701A/26": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "50",
       "cidade": "BRUSQUE",
       "responsavel": "Plásticos Dom Joaquim Ltda",
       "cpfCnpj": "04905610000195",
@@ -25746,16 +25748,17 @@
         "Executar sistema de saída de emergência",
         "Executar sistema hidráulico preventivo"
       ],
-      "dataPrazo": "24/06/2027",
-      "prazoDias": 360,
+      "dataPrazo": "05/08/2027",
+      "prazoDias": 294,
       "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
       "bloco": "BLOCO 03",
       "codgAuto": "AF8055000701A/26",
       "numgAuto": 506870,
-      "_ts": 1782732904.7301347
+      "_ts": 1792114404.3169174
     },
     "MUL8055000151A/23": {
       "tipo": "MULTA",
+      "areaTotal": "50",
       "cidade": null,
       "responsavel": null,
       "cpfCnpj": null,
@@ -25769,7 +25772,7 @@
       "bloco": "BLOCO 03",
       "codgAuto": "MUL8055000151A/23",
       "numgAuto": 212471,
-      "_ts": 1782732904.7301464
+      "_ts": 1792114404.3169186
     },
     "AF8055000700A/26": {
       "tipo": "FISCALIZACAO",
@@ -27784,6 +27787,7 @@
     },
     "AF8055000704A/26": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "50",
       "cidade": "BRUSQUE",
       "responsavel": "PLASTICOS SAO FRANCISCO LTDA",
       "cpfCnpj": "44947613000106",
@@ -27791,21 +27795,22 @@
       "email": "eduardomaestri@hotmail.com",
       "endereco_responsavel": "Via Dj 042, 2200, Dom Joaquim, Brusque",
       "exigencias": [
-        "Solicitar RPCI",
         "Executar sistema de iluminação de emergência",
         "Executar sistema de sinalização para abandono de local",
-        "Executar sistema preventivo por extintores"
+        "Executar sistema preventivo por extintores",
+        "Solicitar RPCI"
       ],
-      "dataPrazo": "18/09/2026",
-      "prazoDias": 81,
+      "dataPrazo": "22/10/2026",
+      "prazoDias": 7,
       "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
       "bloco": "BLOCO 03",
       "codgAuto": "AF8055000704A/26",
       "numgAuto": 507076,
-      "_ts": 1782732904.7301328
+      "_ts": 1792114404.3169117
     },
     "AF8055000703A/26": {
       "tipo": "FISCALIZACAO",
+      "areaTotal": "50",
       "cidade": "BRUSQUE",
       "responsavel": "Plásticos Dom Joaquim Ltda",
       "cpfCnpj": "04905610000195",
@@ -27815,13 +27820,13 @@
       "exigencias": [
         "Executar sistema detecção automática de incêndio"
       ],
-      "dataPrazo": "24/06/2027",
-      "prazoDias": 360,
+      "dataPrazo": "28/06/2027",
+      "prazoDias": 256,
       "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
       "bloco": "BLOCO 03",
       "codgAuto": "AF8055000703A/26",
       "numgAuto": 507074,
-      "_ts": 1782732904.7301369
+      "_ts": 1792114404.3169165
     },
     "AF8117000468A/26": {
       "tipo": "FISCALIZACAO",
@@ -30109,7 +30114,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1792092820.9613569
+      "_ts": 1792114454.1492357
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38543,7 +38548,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1792092812.3348114
+      "_ts": 1792114446.47889
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -119215,7 +119220,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8047001298A/26",
-      "_ts": 1792092976.9218082
+      "_ts": 1792114472.4732318
     },
     "AF8047001297A/26": {
       "tipo": "FISCALIZACAO",
@@ -121524,7 +121529,7 @@
       "bloco": "RESTAURANTE",
       "codgAuto": "AF8047001303A/26",
       "numgAuto": 536042,
-      "_ts": 1792092976.9217782
+      "_ts": 1792114472.4732165
     },
     "AF8047001302A/26": {
       "tipo": "FISCALIZACAO",
@@ -125347,6 +125352,245 @@
       "codgAuto": "AF8161001316A/26",
       "numgAuto": 537476,
       "_ts": 1792092997.6145165
+    },
+    "AF8055001139A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 723.34,
+      "cidade": "BRUSQUE",
+      "responsavel": "OTC EMPREENDIMENTOS IMOBILIÁRIOS LTDA.",
+      "cpfCnpj": "28222583000114",
+      "celular": "47999820015",
+      "email": "heinigltda@terra.com.br",
+      "endereco_responsavel": "Rua Augusto Klapoth, 486, Santa Luzia, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "29/10/2026",
+      "prazoDias": 14,
+      "bombeiroAutuacao": "Cb LUIS Fernando da Silva",
+      "bloco": "01",
+      "codgAuto": "AF8055001139A/26",
+      "numgAuto": 537591,
+      "_ts": 1792114371.561309
+    },
+    "AF8055000756A/24": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "2052.73",
+      "cidade": "BRUSQUE",
+      "responsavel": "IVO MARTINENGHI",
+      "cpfCnpj": "15404692987",
+      "celular": "47997232083",
+      "email": "martinenghi_nano@hotmail.com",
+      "endereco_responsavel": "Rua Gerônimo Coelho, 50, Jardim Maluche, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "16/07/2025",
+      "prazoDias": -456,
+      "bombeiroAutuacao": "Cb Tiago Meneguetti dos Santos",
+      "bloco": "BLOCO 01",
+      "codgAuto": "AF8055000756A/24",
+      "numgAuto": 352713,
+      "_ts": 1792114378.703447
+    },
+    "AF8055001138A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "2052.73",
+      "cidade": "BRUSQUE",
+      "responsavel": "IVO MARTINENGHI",
+      "cpfCnpj": "15404692987",
+      "celular": "47997232083",
+      "email": "martinenghi_nano@hotmail.com",
+      "endereco_responsavel": "Rua Gerônimo Coelho, 50, Jardim Maluche, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "29/10/2026",
+      "prazoDias": 14,
+      "bombeiroAutuacao": "Cb LUIS Fernando da Silva",
+      "bloco": "BLOCO 01",
+      "codgAuto": "AF8055001138A/26",
+      "numgAuto": 537590,
+      "_ts": 1792114378.7034605
+    },
+    "MUL8055000125A/25": {
+      "tipo": "MULTA",
+      "areaTotal": "2052.73",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "BLOCO 01",
+      "codgAuto": "MUL8055000125A/25",
+      "numgAuto": 419129,
+      "_ts": 1792114378.7035134
+    },
+    "AF8055001137A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1497.33,
+      "cidade": "BRUSQUE",
+      "responsavel": "José Carlos Mafra",
+      "cpfCnpj": "30421071915",
+      "celular": "47992346860",
+      "email": "marcaregistrada@terra.com.br",
+      "endereco_responsavel": "Rua Joao Imianowsky, 160, Planalto, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "29/10/2026",
+      "prazoDias": 14,
+      "bombeiroAutuacao": "Cb LUIS Fernando da Silva",
+      "bloco": "BLOCO UNICO",
+      "codgAuto": "AF8055001137A/26",
+      "numgAuto": 537585,
+      "_ts": 1792114386.1238766
+    },
+    "AF8055001136A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "50",
+      "cidade": "BRUSQUE",
+      "responsavel": "Plásticos Dom Joaquim Ltda",
+      "cpfCnpj": "04905610000195",
+      "celular": "47989084846",
+      "email": "martinenghi@terra.com.br",
+      "endereco_responsavel": "Rua Dj - 042, 2300, Dom Joaquim, Brusque",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "18/01/2027",
+      "prazoDias": 95,
+      "bombeiroAutuacao": "Cb MARINA da Fontoura",
+      "bloco": "BLOCO 03",
+      "codgAuto": "AF8055001136A/26",
+      "numgAuto": 537572,
+      "_ts": 1792114404.3169127
+    },
+    "AF8055001135A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "1380.9",
+      "cidade": "BRUSQUE",
+      "responsavel": "ARQUIDIOCESE DE JOINVILLE",
+      "cpfCnpj": "84708478000160",
+      "celular": "47996488464",
+      "email": "patrimonio@arquijoinville.com.br",
+      "endereco_responsavel": "Rua José Stobel, Sem número, Faxinal, Mafra",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "15/10/2027",
+      "prazoDias": 365,
+      "bombeiroAutuacao": "Sd FERNANDA Zamprogna",
+      "bloco": "A",
+      "codgAuto": "AF8055001135A/26",
+      "numgAuto": 537565,
+      "_ts": 1792114412.4564357
+    },
+    "AF8047001316A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "225.1",
+      "cidade": "BLUMENAU",
+      "responsavel": "Gabriela Cruz Rosa",
+      "cpfCnpj": "06084213910",
+      "celular": "47999524531",
+      "email": "clinicaelleve8@gmail.com",
+      "endereco_responsavel": "Bolívia, 360, Ponta Aguda, Blumenau",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento",
+        "Executar sistema de iluminação de emergência",
+        "Executar sistema de sinalização para abandono de local",
+        "Executar sistema preventivo por extintores"
+      ],
+      "dataPrazo": "16/11/2026",
+      "prazoDias": 32,
+      "bombeiroAutuacao": "2º Sgt Marcelo FERNANDES",
+      "bloco": "LOJA",
+      "codgAuto": "AF8047001316A/26",
+      "numgAuto": 537503,
+      "_ts": 1792114464.9383304
+    },
+    "AF8047001215A/25": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "225.1",
+      "cidade": "BLUMENAU",
+      "responsavel": "ANB ADMINISTRADORA DE BENS LTDA",
+      "cpfCnpj": "18713733000139",
+      "celular": "47999580881",
+      "email": "nilzatb@gmail.com",
+      "endereco_responsavel": "Avenida Brasil, 801, Ponta Aguda, Blumenau",
+      "exigencias": [
+        "Solicitar RPCI"
+      ],
+      "dataPrazo": "18/04/2027",
+      "prazoDias": 185,
+      "bombeiroAutuacao": "1º Sgt Alex MOHR welter",
+      "bloco": "LOJA",
+      "codgAuto": "AF8047001215A/25",
+      "numgAuto": 426271,
+      "_ts": 1792114464.9383764
+    },
+    "AF8161000897A/23": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "2646.72",
+      "cidade": "ITAJAÍ",
+      "responsavel": "HORTIFRUTI DIMON LTDA",
+      "cpfCnpj": "05201600000131",
+      "celular": "47999102452",
+      "email": "controladoria@hortifrutidiretodocampo.com.br",
+      "endereco_responsavel": "Rua Otavio Cesario Pereira, 955, São Vicente, Itajaí",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "20/07/2023",
+      "prazoDias": -1183,
+      "bombeiroAutuacao": "SubTen LUIZ ALBERTO Moreira",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8161000897A/23",
+      "numgAuto": 184129,
+      "_ts": 1792114479.7777948
+    },
+    "AF8161001318A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "2646.72",
+      "cidade": "ITAJAÍ",
+      "responsavel": "HORTIFRUTI DIMON LTDA",
+      "cpfCnpj": "05201600000131",
+      "celular": "47999102452",
+      "email": "controladoria@hortifrutidiretodocampo.com.br",
+      "endereco_responsavel": "Rua Otavio Cesario Pereira, 955, São Vicente, Itajaí",
+      "exigencias": [
+        "Solicitar vistoria para habite-se"
+      ],
+      "dataPrazo": "15/04/2027",
+      "prazoDias": 182,
+      "bombeiroAutuacao": "Sd Diego da Costa  DI SCIPIO",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8161001318A/26",
+      "numgAuto": 537595,
+      "_ts": 1792114479.7778208
+    },
+    "MUL8161000704A/23": {
+      "tipo": "MULTA",
+      "areaTotal": "2646.72",
+      "cidade": null,
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "endereco_responsavel": null,
+      "exigencias": [],
+      "dataPrazo": null,
+      "prazoDias": null,
+      "bombeiroAutuacao": null,
+      "bloco": "Bloco 01",
+      "codgAuto": "MUL8161000704A/23",
+      "numgAuto": 221881,
+      "_ts": 1792114479.7778676
     }
   }
 }
