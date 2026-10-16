@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-16T16:37:13-03:00",
+  "timestamp": "2026-10-16T16:47:39-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8178,
-      "ultima_verificacao": "2026-10-16T16:37:13-03:00"
+      "ultima_verificacao": "2026-10-16T16:47:39-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-16T16:37:13-03:00"
+      "ultima_verificacao": "2026-10-16T16:47:39-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1562,
-      "ultima_verificacao": "2026-10-16T16:37:13-03:00"
+      "ultima_verificacao": "2026-10-16T16:47:39-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3929,
-      "ultima_verificacao": "2026-10-16T16:37:13-03:00"
+      "ultima_verificacao": "2026-10-16T16:47:39-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
-      "ultimo_numero": 3436,
-      "ultima_verificacao": "2026-10-16T16:37:13-03:00"
+      "ultimo_numero": 3437,
+      "ultima_verificacao": "2026-10-16T16:47:39-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
       "ultimo_numero": 990,
-      "ultima_verificacao": "2026-10-16T16:37:13-03:00"
+      "ultima_verificacao": "2026-10-16T16:47:39-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7260,
-      "ultima_verificacao": "2026-10-16T16:37:13-03:00"
+      "ultima_verificacao": "2026-10-16T16:47:39-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13102,
-      "ultima_verificacao": "2026-10-16T16:37:13-03:00"
+      "ultima_verificacao": "2026-10-16T16:47:39-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5080,
-      "ultima_verificacao": "2026-10-16T16:37:13-03:00"
+      "ultima_verificacao": "2026-10-16T16:47:39-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14435,
-      "ultima_verificacao": "2026-10-16T16:37:13-03:00"
+      "ultima_verificacao": "2026-10-16T16:47:39-03:00"
     }
   },
   "protocolos": {
@@ -5650,6 +5650,17 @@
       }
     ],
     "Porto Belo": [
+      {
+        "CodigoProtocolo": "A8265003437A",
+        "RE": "RE8265000023A",
+        "numgEdificacao": 7833,
+        "Nome_Edificacao": "RESIDENCIAL GRAN VISTA",
+        "Logradouro": "Rua Gentil Coelho Esq Rua Frei Humberto Weil Esq Rua Pedro Claudino Ramos",
+        "Numero": "",
+        "Bairro": "PORTO BELO - PEREQUE",
+        "Cidade": "Porto Belo",
+        "Detectado_em": "2026-10-16T16:47:39-03:00"
+      },
       {
         "CodigoProtocolo": "A8265003436A",
         "RE": "RE8265002783A",
@@ -21518,12 +21529,12 @@
     "Botuvera": 44,
     "Guabiruba": 87,
     "Gaspar": 163,
-    "Porto Belo": 155,
+    "Porto Belo": 156,
     "Nova Trento": 74,
     "Itapema": 213,
     "Blumenau": 357,
     "Navegantes": 183,
     "Itajai": 459
   },
-  "total_geral": 1949
+  "total_geral": 1950
 }
