@@ -1,55 +1,55 @@
 {
-  "timestamp": "2026-10-16T09:56:57-03:00",
+  "timestamp": "2026-10-16T10:07:20-03:00",
   "cidades": {
     "Brusque": {
       "prefixo": "8055",
       "ultimo_numero": 8178,
-      "ultima_verificacao": "2026-10-16T09:56:57-03:00"
+      "ultima_verificacao": "2026-10-16T10:07:20-03:00"
     },
     "Botuvera": {
       "prefixo": "8051",
       "ultimo_numero": 410,
-      "ultima_verificacao": "2026-10-16T09:56:57-03:00"
+      "ultima_verificacao": "2026-10-16T10:07:20-03:00"
     },
     "Guabiruba": {
       "prefixo": "8123",
       "ultimo_numero": 1562,
-      "ultima_verificacao": "2026-10-16T09:56:57-03:00"
+      "ultima_verificacao": "2026-10-16T10:07:20-03:00"
     },
     "Gaspar": {
       "prefixo": "8117",
       "ultimo_numero": 3926,
-      "ultima_verificacao": "2026-10-16T09:56:57-03:00"
+      "ultima_verificacao": "2026-10-16T10:07:20-03:00"
     },
     "Porto Belo": {
       "prefixo": "8265",
       "ultimo_numero": 3436,
-      "ultima_verificacao": "2026-10-16T09:56:57-03:00"
+      "ultima_verificacao": "2026-10-16T10:07:20-03:00"
     },
     "Nova Trento": {
       "prefixo": "8225",
-      "ultimo_numero": 989,
-      "ultima_verificacao": "2026-10-16T09:56:57-03:00"
+      "ultimo_numero": 990,
+      "ultima_verificacao": "2026-10-16T10:07:20-03:00"
     },
     "Itapema": {
       "prefixo": "8163",
       "ultimo_numero": 7259,
-      "ultima_verificacao": "2026-10-16T09:56:57-03:00"
+      "ultima_verificacao": "2026-10-16T10:07:20-03:00"
     },
     "Blumenau": {
       "prefixo": "8047",
       "ultimo_numero": 13099,
-      "ultima_verificacao": "2026-10-16T09:56:57-03:00"
+      "ultima_verificacao": "2026-10-16T10:07:20-03:00"
     },
     "Navegantes": {
       "prefixo": "8221",
       "ultimo_numero": 5080,
-      "ultima_verificacao": "2026-10-16T09:56:57-03:00"
+      "ultima_verificacao": "2026-10-16T10:07:20-03:00"
     },
     "Itajai": {
       "prefixo": "8161",
       "ultimo_numero": 14435,
-      "ultima_verificacao": "2026-10-16T09:56:57-03:00"
+      "ultima_verificacao": "2026-10-16T10:07:20-03:00"
     }
   },
   "protocolos": {
@@ -7324,6 +7324,17 @@
       }
     ],
     "Nova Trento": [
+      {
+        "CodigoProtocolo": "A8225000990A",
+        "RE": "RE8225000836A",
+        "numgEdificacao": 372403,
+        "Nome_Edificacao": "Nycollas Dallabrida",
+        "Logradouro": "Virgílio Dallabrida",
+        "Numero": "",
+        "Bairro": "NOVA TRENTO - VIGOLO",
+        "Cidade": "Nova Trento",
+        "Detectado_em": "2026-10-16T10:07:20-03:00"
+      },
       {
         "CodigoProtocolo": "A8225000989A",
         "RE": "RE8225000135A",
@@ -21431,11 +21442,11 @@
     "Guabiruba": 87,
     "Gaspar": 160,
     "Porto Belo": 155,
-    "Nova Trento": 73,
+    "Nova Trento": 74,
     "Itapema": 212,
     "Blumenau": 354,
     "Navegantes": 183,
     "Itajai": 459
   },
-  "total_geral": 1941
+  "total_geral": 1942
 }
