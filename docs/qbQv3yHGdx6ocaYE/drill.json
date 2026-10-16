@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-16T07:54:32-03:00",
-  "total": 6429,
-  "expired": false,
+  "timestamp": "2026-10-16T12:35:24-03:00",
+  "total": 6440,
+  "expired": true,
   "drill": {
     "AF8047000787A/25": {
       "tipo": "FISCALIZACAO",
@@ -5119,7 +5119,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000019A/26",
-      "_ts": 1792148038.0874977
+      "_ts": 1792164805.6435366
     },
     "AF8051000040A/25": {
       "tipo": "FISCALIZACAO",
@@ -5139,7 +5139,7 @@
       "bloco": "Galpão",
       "codgAuto": "AF8051000040A/25",
       "numgAuto": 391724,
-      "_ts": 1792148038.0874763
+      "_ts": 1792164805.6435018
     },
     "AF8051000019A/24": {
       "tipo": "FISCALIZACAO",
@@ -9464,7 +9464,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8051000021A/26",
-      "_ts": 1792148030.1905386
+      "_ts": 1792164796.6083796
     },
     "AF8051000016A/26": {
       "tipo": "AF",
@@ -14021,7 +14021,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000051A/26",
-      "_ts": 1792148060.8509562
+      "_ts": 1792164829.4517236
     },
     "AF8117000449A/26": {
       "tipo": "FISCALIZACAO",
@@ -30114,7 +30114,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000055A/26",
-      "_ts": 1792148058.490971
+      "_ts": 1792164827.7593062
     },
     "AF8117000469A/26": {
       "tipo": "FISCALIZACAO",
@@ -38548,7 +38548,7 @@
       "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
       "parcial": true,
       "codgAuto": "AF8123000056A/26",
-      "_ts": 1792148045.650318
+      "_ts": 1792164819.455396
     },
     "AF8123000114A/25": {
       "tipo": "FISCALIZACAO",
@@ -98475,12 +98475,12 @@
         "Apresentar projeto preventivo (PPCI)"
       ],
       "dataPrazo": "04/07/2026",
-      "prazoDias": -102,
+      "prazoDias": -104,
       "bombeiroAutuacao": "Sd RAFAEL RAMOS",
       "bloco": "Bloco 01",
       "codgAuto": "AF8055000116A/25",
       "numgAuto": 374008,
-      "_ts": 1791999219.4897902
+      "_ts": 1792164767.8283398
     },
     "AF8055001015A/26": {
       "tipo": "FISCALIZACAO",
@@ -98518,7 +98518,7 @@
       "bloco": "Bloco 01",
       "codgAuto": "MUL8055000097A/26",
       "numgAuto": 513985,
-      "_ts": 1791999219.489828
+      "_ts": 1792164767.8284426
     },
     "AF8117000644A/26": {
       "tipo": "FISCALIZACAO",
@@ -114864,13 +114864,13 @@
       "exigencias": [
         "Solicitar vistoria para funcionamento"
       ],
-      "dataPrazo": "01/11/2026",
-      "prazoDias": 31,
+      "dataPrazo": "02/11/2026",
+      "prazoDias": 17,
       "bombeiroAutuacao": "Sd Fernando GRINKO",
       "bloco": "Edificação",
       "codgAuto": "AF8117000681A/26",
       "numgAuto": 533843,
-      "_ts": 1790883316.3510895
+      "_ts": 1792164845.7566254
     },
     "AF8117000680A/26": {
       "tipo": "FISCALIZACAO",
@@ -117131,12 +117131,12 @@
         "Apresentar projeto preventivo (PPCI)"
       ],
       "dataPrazo": "09/11/2026",
-      "prazoDias": 26,
+      "prazoDias": 24,
       "bombeiroAutuacao": "3º Sgt MAYARA Garcia Trilha",
       "bloco": "Bloco 01",
       "codgAuto": "AF8055001107A/26",
       "numgAuto": 535200,
-      "_ts": 1791999219.4897997
+      "_ts": 1792164767.8283675
     },
     "AF8055001106A/26": {
       "tipo": "FISCALIZACAO",
@@ -125591,6 +125591,220 @@
       "codgAuto": "MUL8161000704A/23",
       "numgAuto": 221881,
       "_ts": 1792114479.7778676
+    },
+    "AF8055001141A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": "4671.77",
+      "cidade": "BRUSQUE",
+      "responsavel": "José Jeronimo da Silva",
+      "cpfCnpj": "08980689918",
+      "celular": "47991779905",
+      "email": "deltaengenhariacv@gmail.com",
+      "endereco_responsavel": "Rua Aleixo Chiminelli, 73, Barracão, Gaspar",
+      "exigencias": [
+        "Apresentar projeto preventivo (PPCI)"
+      ],
+      "dataPrazo": "17/11/2026",
+      "prazoDias": 32,
+      "bombeiroAutuacao": "3º Sgt MAYARA Garcia Trilha",
+      "bloco": "Bloco 01",
+      "codgAuto": "AF8055001141A/26",
+      "numgAuto": 537684,
+      "_ts": 1792164767.8283849
+    },
+    "AF8055001140A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 6237.93,
+      "cidade": "BRUSQUE",
+      "responsavel": "Wilson Luiz Vicentini",
+      "cpfCnpj": "60198168934",
+      "celular": "47999891181",
+      "email": "engenheirovicentini@gmail.com",
+      "endereco_responsavel": "Avenida Dom Joaquim, 429, Jardim Maluche, Brusque",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "16/02/2027",
+      "prazoDias": 123,
+      "bombeiroAutuacao": "Sd FERNANDA Zamprogna",
+      "bloco": "Dions e TVS",
+      "codgAuto": "AF8055001140A/26",
+      "numgAuto": 537675,
+      "_ts": 1792164775.996023
+    },
+    "AF8117000774A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 3120.24,
+      "cidade": "GASPAR",
+      "responsavel": "RICARDO ISENSEE",
+      "cpfCnpj": "05862634975",
+      "celular": "47999650997",
+      "email": "rh1@zimmermanntabilidade.com.br",
+      "endereco_responsavel": "Estrada Geral Aguas Negras, 75, Figueira, Gaspar",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "02/04/2027",
+      "prazoDias": 168,
+      "bombeiroAutuacao": "3º Sgt ANDERSON DA ROSA",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000774A/26",
+      "numgAuto": 537696,
+      "_ts": 1792164837.8431704
+    },
+    "AF8117000773A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 906.03,
+      "cidade": "GASPAR",
+      "responsavel": "OSVALDO SCHRAMM",
+      "cpfCnpj": "09336648934",
+      "celular": "47997471428",
+      "email": "sergioschramm@gmail.com",
+      "endereco_responsavel": "Rua Anfiloquio Nunes Pires, 5111, Bela Vista, Gaspar",
+      "exigencias": [
+        "Apresentar o(s) seguinte(s) documento(s) ou laudo(s) previstos nas NSCIs____"
+      ],
+      "dataPrazo": "05/03/2027",
+      "prazoDias": 140,
+      "bombeiroAutuacao": "3º Sgt ANDERSON DA ROSA",
+      "bloco": "Edificação",
+      "codgAuto": "AF8117000773A/26",
+      "numgAuto": 537688,
+      "_ts": 1792164845.7566469
+    },
+    "AF8117000772A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 1687.5,
+      "cidade": "GASPAR",
+      "responsavel": "PEDRO MONDINI",
+      "cpfCnpj": "18172660987",
+      "celular": "47933322728",
+      "email": "adm.margarida@fontecontabil.com.br",
+      "endereco_responsavel": "Jorge Lacerda - Lado Par, 6668, Poço Grande, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "27/11/2026",
+      "prazoDias": 42,
+      "bombeiroAutuacao": "Sd Vinicius KNABBEN Dias Costa",
+      "bloco": "Galpão",
+      "codgAuto": "AF8117000772A/26",
+      "numgAuto": 537661,
+      "_ts": 1792164859.4254668
+    },
+    "AF8117000771A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 360,
+      "cidade": "GASPAR",
+      "responsavel": "CHARLES SABEL",
+      "cpfCnpj": "03423540940",
+      "celular": "47988224269",
+      "email": "eng.marcoreinert@gmail.com",
+      "endereco_responsavel": "R Antonio Gesser, 411, Belchior Central, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "27/11/2026",
+      "prazoDias": 42,
+      "bombeiroAutuacao": "Sd Vinicius KNABBEN Dias Costa",
+      "bloco": "BLOCO 01",
+      "codgAuto": "AF8117000771A/26",
+      "numgAuto": 537656,
+      "_ts": 1792164868.3174496
+    },
+    "AF8117000770A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 450,
+      "cidade": "GASPAR",
+      "responsavel": "MARCO AURELIO DA SILVA",
+      "cpfCnpj": "70220344949",
+      "celular": "47999068808",
+      "email": "marco.realmalhas@gmail.com",
+      "endereco_responsavel": "Rua Evandro Schneider, 55, Santa Terezinha, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "27/11/2026",
+      "prazoDias": 42,
+      "bombeiroAutuacao": "Sd Vinicius KNABBEN Dias Costa",
+      "bloco": "bloco 1",
+      "codgAuto": "AF8117000770A/26",
+      "numgAuto": 537649,
+      "_ts": 1792164880.8593688
+    },
+    "AF8117000769A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 207.67,
+      "cidade": "GASPAR",
+      "responsavel": "ANDREIA ZEITZ",
+      "cpfCnpj": "68525796972",
+      "celular": "47999425818",
+      "email": "aricalhas@gmail.com",
+      "endereco_responsavel": "Rua Pedro de Lemos, 72, Barracão, Gaspar",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "27/11/2026",
+      "prazoDias": 42,
+      "bombeiroAutuacao": "Sd Vinicius KNABBEN Dias Costa",
+      "bloco": "EDIFICAÇÃO",
+      "codgAuto": "AF8117000769A/26",
+      "numgAuto": 537642,
+      "_ts": 1792164889.1014335
+    },
+    "AF8265000577A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": 128,
+      "cidade": "PORTO BELO",
+      "responsavel": "JULIO CESAR DA SILVA COMERCIO DE MARMORES",
+      "cpfCnpj": "10268838000114",
+      "celular": "47999122814",
+      "email": "julio.pb.sc@hotmail.com",
+      "endereco_responsavel": "Rua Adilson Carlos da Silva, 320, Alto Pereque, Porto Belo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "16/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "3º Sgt Verlaine Aparecida Sinhorini",
+      "bloco": "MARMORARIA COSTA ESMERALDA",
+      "codgAuto": "AF8265000577A/26",
+      "numgAuto": 537676,
+      "_ts": 1792164896.4077091
+    },
+    "AF8265000576A/26": {
+      "tipo": "FISCALIZACAO",
+      "areaTotal": null,
+      "cidade": "PORTO BELO",
+      "responsavel": "SANTINO GERCINO DA SILVA",
+      "cpfCnpj": "28884680930",
+      "celular": "47991612406",
+      "email": "deisisimiano@gmail.com",
+      "endereco_responsavel": "Rua Joel Gonçalves, Sem número, Vila Nova, Porto Belo",
+      "exigencias": [
+        "Solicitar vistoria para funcionamento"
+      ],
+      "dataPrazo": "16/11/2026",
+      "prazoDias": 31,
+      "bombeiroAutuacao": "3º Sgt Verlaine Aparecida Sinhorini",
+      "bloco": "Galpão Comercial",
+      "codgAuto": "AF8265000576A/26",
+      "numgAuto": 537669,
+      "_ts": 1792164907.5012488
+    },
+    "AF8265000575A/26": {
+      "tipo": "AF",
+      "cidade": "Porto Belo",
+      "responsavel": null,
+      "cpfCnpj": null,
+      "celular": null,
+      "email": null,
+      "exigencias": [],
+      "prazoDias": null,
+      "nota": "Edificacao sem processo homologado — pendencia so no PDF do AF (botao e-SCI)",
+      "parcial": true,
+      "codgAuto": "AF8265000575A/26",
+      "_ts": 1792164920.3650522
     }
   }
 }
